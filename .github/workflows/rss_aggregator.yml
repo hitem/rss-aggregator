@@ -2,7 +2,7 @@ name: RSS Aggregator
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Run every 3 hours
+    - cron: '0 */1 * * *'  # Run every 1 hour
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
