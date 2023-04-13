@@ -4,6 +4,7 @@
 import feedparser
 from lxml import etree
 import datetime
+import os
 
 # Define the list of RSS feed URLs
 rss_feed_urls = [
@@ -51,6 +52,10 @@ for entry in sorted_entries:
     etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(entry, "id") else entry.link
     etree.SubElement(item, "description").text = entry.summary
 
-# Write the aggregated feed to a file
+# Write the output to a file
 with open(output_file, "wb") as f:
     f.write(etree.tostring(root, pretty_print=True))
+
+# Set the RSS_FEED_ENTRIES environment variable
+with open(os.environ["GITHUB_ENV"], "a") as f:
+    f.write(f"RSS_FEED_ENTRIES={len(sorted_entries)}\n")

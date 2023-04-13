@@ -9,18 +9,14 @@ jobs:
   aggregate_rss_feeds:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [16.x]
-
     steps:
     - name: Check out repository
       uses: actions/checkout@v3
 
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v2
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: 16
 
     - name: Set up Python
       uses: actions/setup-python@v2.3.1
@@ -31,7 +27,9 @@ jobs:
       run: pip install feedparser lxml
 
     - name: Run RSS aggregator script
-      run: python rss_aggregator.py
+      run: |
+        python rss_aggregator.py
+        echo "::set-env name=RSS_FEED_ENTRIES::${{ env.RSS_FEED_ENTRIES }}"
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
