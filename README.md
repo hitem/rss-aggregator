@@ -1,6 +1,7 @@
 # RSS Aggregator
 
-Simple aggregator for Microsoft tech blogs for my own pleasure
+Simple aggregator for RSS feeds for my own pleasure \
+In my example we use Microsoft tech blogs \
 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance
 <br>
 ```hitem```
