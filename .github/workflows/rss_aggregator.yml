@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
 
     - name: Set up Node.js
       uses: actions/setup-node@v2
@@ -19,21 +19,24 @@ jobs:
         node-version: 16
 
     - name: Set up Python
-      uses: actions/setup-python@v2.3.1
+      uses: actions/setup-python@v2
       with:
         python-version: 3.9
 
     - name: Install dependencies
-      run: pip install feedparser lxml
+      run: |
+        pip install feedparser lxml
+        touch .env  # Create empty .env file
 
     - name: Run RSS aggregator script
+      env:
+        GITHUB_ENV: .env
       run: |
         python rss_aggregator.py
-        echo "::set-env name=RSS_FEED_ENTRIES::${{ env.RSS_FEED_ENTRIES }}"
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./
-        publish_branch: gh-pages
+        publish_branch: main
