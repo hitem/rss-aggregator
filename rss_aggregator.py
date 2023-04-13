@@ -38,7 +38,7 @@ sorted_entries = sorted(unique_entries, key=lambda x: x.published_parsed, revers
 root = etree.Element("rss", version="2.0")
 channel = etree.SubElement(root, "channel")
 etree.SubElement(channel, "title").text = "Aggregated Microsoft Blog Feed"
-etree.SubElement(channel, "link").text = "https://hitem.github.io/microsoft-blog-aggregator/aggregated_feed.xml"
+etree.SubElement(channel, "link").text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
 etree.SubElement(channel, "description").text = "An aggregated feed of Microsoft blogs"
 etree.SubElement(channel, "lastBuildDate").text = datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
