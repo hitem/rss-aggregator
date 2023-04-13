@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-
+      contents: read
+      pages: write
+      id-token: write
+      
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -21,10 +22,10 @@ jobs:
     - name: Start
       uses: actions/checkout@v3
 
-    - name: Setup node
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'
+    # - name: Setup node
+    #   uses: actions/setup-node@v3
+    #   with:
+    #     node-version: '16'
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -34,12 +35,18 @@ jobs:
     - name: Install dependencies
       run: |
         pip install feedparser lxml
-        touch .env 
+        touch .env
+
     - name: Run RSS aggregator script
       env:
         GITHUB_ENV: .env
       run: |
         python rss_aggregator.py
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+        path: '.'
 
     - name: Deploy to GitHub Pages
       id: deployment
