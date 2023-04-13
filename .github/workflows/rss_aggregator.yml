@@ -51,3 +51,21 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v1
+
+    - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+      with:
+        add: '.'
+        default_author: github_actor
+        #fetch: false
+
+        # The message for the commit.
+        # Default: 'Commit from GitHub Actions (name of the workflow)'
+        message: 'feat: RSS feed update'
+
+        # Arguments for the git pull command. By default, the action does not pull.
+        # Default: ''
+        #pull: '--rebase --autostash ...'
+
+        # Whether to push the commit and, if any, its tags to the repo. It can also be used to set the git push arguments (see the paragraph below for more info)
+        # Default: true
+        push: false
