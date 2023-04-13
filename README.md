@@ -1,6 +1,6 @@
 # RSS Aggregator
 
-Simple aggregator for Microsoft tech blogs for my own pleasure
+Simple aggregator for Microsoft tech blogs for my own pleasure \
 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance
 <br>
 ```hitem```
