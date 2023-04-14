@@ -3,7 +3,55 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Apr 2023 18:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 19:05:27 GMT</lastBuildDate>
+    <item>
+      <title>Bitlocker Is Not Resuming After Reboot Count Has Been Reached</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</link>
+      <pubDate>Fri, 14 Apr 2023 18:36:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I'm Helmut Wagensonner, a Cloud Solution Architect Engineer at Microsoft. Recently, I ran into an unexpected Bitlocker behavior at a customer. It turned out that this behavior is on purpose so I thought I let you know about it, even if you may never run into it.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;BitLocker is a feature in Windows 10/11 that encrypts your device&#8217;s hard drive to protect your data from unauthorized access. However, there are some scenarios where you may need to suspend BitLocker temporarily, such as when you update your BIOS or firmware using a vendor&#8217;s update utility. When you suspend BitLocker, you can specify how many times your device can restart before BitLocker resumes encryption. This is called the reboot count parameter. You can set this parameter using the PowerShell cmdlet Suspend-BitLocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps" rel="noopener" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps&lt;/a&gt;). Following example would suspend Bitlocker until the client has been rebooted 3 times:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Suspend-Bitlocker -MountPoint "C:" -RebootCount 3
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;However, there is a known issue with BitLocker that you may encounter: BitLocker does not resume automatically after suspending when OOBE (Out of box experience) is not complete. OOBE is the process of setting up your device for the first time after installing Windows 10. This means that your device will remain unprotected until you manually resume BitLocker. To do this, you have the option to use the manage-bde command line tool from an elevated command prompt.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+manage-bde -resume C:
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Or use the Powershell command Resume-Bitlocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps" rel="noopener" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Resume-BitLocker -MountPoint "C:"
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To check how many reboots are left before BitLocker resumes encryption, you can use the &lt;em&gt;GetSuspendCount&lt;/em&gt; method of the &lt;em&gt;Win32_EncryptableVolume&lt;/em&gt; WMI class (&lt;a href="https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume" rel="noopener" target="_blank"&gt;https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume&lt;/a&gt;). For example, this PowerShell command will show you the number of reboots left for drive C:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Class Win32_EncryptableVolume -Filter "DriveLetter='C:'" | Invoke-CimMethod -MethodName "GetSuspendCount"
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As mentioned at the beginning of this blog, you may never run into this issue because there are very few situations where you need to manually suspend Bitlocker when OOBE has not completed. One situation is, for example:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You deploy a Windows 10/11 PC (fresh installation) via Config Manager Task Sequence. You activate Bitlocker during the task sequence.&lt;/li&gt;
+&lt;li&gt;At the end of the installation you need to install device drivers not available on Windows Update. Or you want to update the BIOS with the vendor's update tool.&lt;/li&gt;
+&lt;li&gt;You suspend Bitlocker with the "-rebootcount 1" parameter before you trigger the driver/BIOS installation.&lt;/li&gt;
+&lt;li&gt;You do a manual reboot at the end of the installation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The expected behavior would be, that Bitlocker is active after the reboot (because of the -rebootcount 1 option). However, this may not be the case as no user has logged on to the client before and user OOBE has not completed. Bitlocker remains in suspended mode until manually resumed (i.e. using Powershell&#8217;s resume-bitlocker command).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font size="1 2 3 4 5 6 7"&gt;Disclaimer&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;em&gt;&lt;font size="1 2 3 4 5 6 7"&gt;The sample scripts are not supported under any Microsoft standard support program or service. The sample scripts are provided AS IS without warranty of any kind. Microsoft further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the sample scripts and documentation remains with you. In no event shall Microsoft, its authors, or anyone else involved in the creation, production, or delivery of the scripts be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the sample scripts or documentation, even if Microsoft has been advised of the possibility of such damages.&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Multi-Geo Exchange Online Admin Audit Logs</title>
       <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</link>
@@ -347,42 +395,6 @@ Search-UnifiedAuditLog -StartDate $start -EndDate $end -UserIds euradmin@contoso
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Entra (Azure AD) forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Bitlocker is not resuming after reboot count has been reached</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</link>
-      <pubDate>Thu, 13 Apr 2023 05:54:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</guid>
-      <description>&lt;p&gt;Hi,&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;I'm Helmut Wagensonner, a Cloud Solution Architect Engineer at Microsoft. Recently, I ran into an unexpected Bitlocker behavior at a customer. It turned out that this behavior is on purpose so I thought I let you know about it, even if you may never run into it.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;BitLocker is a feature in Windows 10/11 that encrypts your device&#8217;s hard drive to protect your data from unauthorized access. However, there are some scenarios where you may need to suspend BitLocker temporarily, such as when you update your BIOS or firmware using a vendor&#8217;s update utility. When you suspend BitLocker, you can specify how many times your device can restart before BitLocker resumes encryption. This is called the reboot count parameter. You can set this parameter using the PowerShell cmdlet Suspend-BitLocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps&lt;/a&gt;). Following example would suspend Bitlocker until the client has been rebooted 3 times:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Suspend-Bitlocker -MountPoint "C:" -RebootCount 3
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;However, there is a known issue with BitLocker that you may encounter: BitLocker does not resume automatically after suspending when OOBE (Out of box experience) is not complete. OOBE is the process of setting up your device for the first time after installing Windows 10. This means that your device will remain unprotected until you manually resume BitLocker. To do this, you have the option to use the manage-bde command line tool from an elevated command prompt.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-manage-bde -resume C:
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Or use the Powershell command Resume-Bitlocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Resume-BitLocker -MountPoint "C:"
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;To check how many reboots are left before BitLocker resumes encryption, you can use the &lt;em&gt;GetSuspendCount&lt;/em&gt; method of the &lt;em&gt;Win32_EncryptableVolume&lt;/em&gt; WMI class (&lt;a href="https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume" target="_blank"&gt;https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume&lt;/a&gt;). For example, this PowerShell command will show you the number of reboots left for drive C:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Class Win32_EncryptableVolume -Filter "DriveLetter='C:'" | Invoke-CimMethod -MethodName "GetSuspendCount"
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;As mentioned at the beginning of this blog, you may never run into this issue because there are very few situations where you need to manually suspend Bitlocker when OOBE has not completed. One situation is, for example:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You deploy a Windows 10/11 PC (fresh installation) via Config Manager Task Sequence. You activate Bitlocker during the task sequence.&lt;/li&gt;
-&lt;li&gt;At the end of the installation you need to install device drivers not available on Windows Update. Or you want to update the BIOS with the vendor's update tool.&lt;/li&gt;
-&lt;li&gt;You suspend Bitlocker with the "-rebootcount 1" parameter before you trigger the driver/BIOS installation.&lt;/li&gt;
-&lt;li&gt;You do a manual reboot at the end of the installation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The expected behavior would be, that Bitlocker is active after the reboot (because of the -rebootcount 1 option). However, this may not be the case as no user has logged on to the client before and user OOBE has not completed. Bitlocker remains in suspended mode until manually resumed (i.e. using Powershell&#8217;s resume-bitlocker command).&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Microsoft Secure 2023 Learn Live series is still underway! Join in real-time or watch on demand.</title>
