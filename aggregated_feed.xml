@@ -3,7 +3,193 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Apr 2023 19:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 20:07:25 GMT</lastBuildDate>
+    <item>
+      <title>Multi-Geo Exchange Online Admin Audit Logs</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</link>
+      <pubDate>Fri, 14 Apr 2023 20:03:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</guid>
+      <description>&lt;p&gt;We&#8217;re excited to announce that Exchange admin audit logs are now available from &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#microsoft-365-multi-geo-availability" rel="noopener" target="_blank"&gt;all geo locations&lt;/a&gt; for Multi-Geo tenants in Office 365. This feature is only applicable for tenants utilizing Multi-Geo Capabilities in Microsoft 365 using &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#licensing" rel="noopener" target="_blank"&gt;Multi-Geo license&lt;/a&gt;. &amp;nbsp;In a &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Multi-Geo environment&lt;/a&gt;, a Microsoft 365 Tenant consists of a Primary provisioned location (where Microsoft 365 subscription was originally provisioned) and one or more satellite locations.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 799px;"&gt;&lt;img alt="rtarunkumar_0-1681249082921.jpeg" height="449" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459692iD2B1F111C14125D0/image-dimensions/799x449?v=v2" title="rtarunkumar_0-1681249082921.jpeg" width="799" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Prior to the release of this feature, exchange admin audit events were available only for the Primary provisioned location. With the rollout of this feature, the exchange admin audit events are now available from satellite locations as well.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tenant Admins can use&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-solutions-overview?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft Purview&lt;/a&gt;&amp;nbsp;and the&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-unifiedauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;Search-UnifiedAuditLog&lt;/a&gt;&amp;nbsp;cmdlet to search the exchange admin audit log events generated from satellite locations. All tenants utilizing Multi-Geo Capabilities in Office 365 have this feature enabled by default if audit logging is turned on.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To verify that auditing is turned on for your organization, you can run the following command in &lt;a href="https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell" rel="noopener" target="_blank"&gt;Exchange Online PowerShell&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Get-AdminAuditLogConfig | Format-List UnifiedAuditLogIngestionEnabled
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;A value of True for the UnifiedAuditLogIngestionEnabled property indicates that auditing is turned on. A value of False indicates that auditing isn't turned on.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Let&#8217;s look at an example:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When EUR administrator changes the litigation hold on a mailbox using Set-Mailbox cmdlet, this event will be sent to Office 365 Audit storage via Auditing event pipeline.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+PS C:\Users\euradmin&amp;gt; Set-Mailbox user@contoso.OnMicrosoft.com -LitigationHoldEnabled $false
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 799px;"&gt;&lt;img alt="rtarunkumar_1-1681249082939.png" height="457" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459693i34D1B25666A6BCE7/image-dimensions/799x457?v=v2" title="rtarunkumar_1-1681249082939.png" width="799" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tenant administrators can use the following methods to search for this event:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-unifiedauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;u&gt;Using &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Search-UnifiedAuditLog&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;:&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Events can be searched between a specified date range, or the results can be filtered based on specific criteria, such as the user who performed the action or the target object.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+$start = (Get-Date).AddDays(-1); $end = (Get-Date);
+
+Search-UnifiedAuditLog -StartDate $start -EndDate $end -UserIds euradmin@contoso.OnMicrosoft.com
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-solutions-overview?view=o365-worldwide" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;u&gt;Using &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Microsoft Purview&lt;/strong&gt;&lt;span&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 801px;"&gt;&lt;img alt="rtarunkumar_2-1681249082942.png" height="241" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459691i6537A75814DEC87A/image-dimensions/801x241?v=v2" title="rtarunkumar_2-1681249082942.png" width="801" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-apis-overview" rel="noopener" target="_blank"&gt;Using Office 365 Management APIs overview | Microsoft Learn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Office 365 Management APIs provide a single extensibility platform for all Office 365 customers' and partners' management tasks, including service communications, security, compliance, reporting, and auditing.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Most auditing data will be available within 60-90 minutes, but it may take up to 24 hours after an event occurs for the corresponding audit log entry to be displayed in the search results. Refer&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search?view=o365-worldwide#before-you-search-the-audit-log" rel="noopener" target="_blank"&gt;Before you search the audit log&amp;nbsp;&lt;/a&gt;that shows the time it takes for events in the different services to be available.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exchange admin audit events from satellite location is not available through &lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-adminauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;Search-AdminAuditLog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft 365 Multi-Geo - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/multi-geo-capabilities-in-exchange-online?view=o365-worldwide" rel="noopener" target="_blank"&gt;Exchange Multi-Geo - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/administering-a-multi-geo-environment?view=o365-worldwide" rel="noopener" target="_blank"&gt;Service Behavior in a Multi-Geo Enabled Environment - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-exo?view=o365-worldwide#view-the-available-geography-locations-that-are-configured-in-your-exchange-online-organization" rel="noopener" target="_blank"&gt;View the available Geography locations that are configured in your Exchange Online organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-exo?view=o365-worldwide#view-the-primary-provisioned-geography-location-for-your-exchange-online-organization" rel="noopener" target="_blank"&gt;View the Primary Provisioned Geography location for your Exchange Online organization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>New network-based detections and improved device discovery using Zeek</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</link>
+      <pubDate>Fri, 14 Apr 2023 19:44:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</guid>
+      <description>&lt;p&gt;Organizations are finding network-based attacks becoming an increasingly popular way of infiltrating systems because they often leave minimal traces on source and target devices. &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;At Microsoft Ignite 2022, we announced partnering with Zeek&lt;/a&gt;, an open-source network security monitoring platform, and its corporate sponsor, Corelight, to help security teams combat these attacks more effectively.&amp;nbsp; As a result, &lt;a href="https://corelight.com/about-zeek/how-zeek-works" rel="noopener" target="_blank"&gt;Zeek&lt;/a&gt; is now integrated as a component within Microsoft Defender for Endpoint.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides new levels of network analysis capabilities based on deep inspection of network traffic powered by Zeek, a powerful open-source network analysis engine that allows researchers to tackle sophisticated network-based attacks in ways that weren't possible before. Administrators onboarding endpoints to Defender for Endpoint can now monitor inbound and outbound traffic with a novel engine that is capable of:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session A&lt;/strong&gt;&lt;strong&gt;wareness&lt;/strong&gt; - Being able to aggregate network protocol data across an entire TCP/UDP session, such as NTLM and Kerberos authentications, SSH sessions, FTP connections, and RPC. These aggregated protocol insights provide much richer metadata and extracted payloads that can be used to enhance the detection capabilities of network-based attacks, as well as the passive classification of discovered devices.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Protocol Detection&lt;/strong&gt; - Being able to detect attacks even on non-default ports, a common pattern attackers use to hide their network traffic.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Scripting Content&lt;/strong&gt; - Being able to add new detections on the fly using Zeek scripts, backed by a wide community of security advocates. This unlocks the ability to react to emerging network-based threats such as Log4Shell and PrintNightmare at unprecedented speed. In a reality where new vulnerabilities are discovered on a weekly basis, this is a true game changer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;While Zeek has been around for over 20 years, the software has traditionally run on Unix-like operating systems such as Linux, FreeBSD, and macOS. As part of the new partnership between Microsoft and Corelight, we extended Zeek to support Windows-based systems. This is a non-trivial engineering effort - which &lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;we are excited to contribute back to the open-source community&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Supercharging Defender for Endpoint with Zeek&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides a powerful ability to detect malicious activity in a way that enhances our existing endpoint security capabilities, as well as enables a more accurate and complete discovery of endpoints &amp;amp; IoT devices.&amp;nbsp;&lt;br /&gt;Using Zeek, Defender for Endpoint will collect network events used for detections, posture and device discovery and will adhere to the Microsoft privacy practices that Defender for Endpoint upholds today.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Network-based Detection of Malicious Activity&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;With many attacks only visible at the network layer, continuously monitoring and analyzing network activity is critical. Attackers that utilize their own network stack can often bypass existing endpoint-based detections, but they cannot hide their network footprint. Providing visibility into the network layer, using both incoming and outgoing traffic from each endpoint, broadens the ability to protect devices operating on the network even if they are not onboarded to Defender for Endpoint, by detecting attacks initiated by these devices, as well as discovering vulnerable services and operating system versions running on them. Moreover, being deployed on endpoints allows admins to compose non-network telemetry such as process and file actions into network-based detections to give richer context into suspicious network activity.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Accurate signals of malicious network activity are important for identifying an attack campaign at the early stages of exploration and lateral movement, which can lead to stopping an attack in its infancy.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Below are more details on the first two Zeek-based detections now deployed to Defender for Endpoint:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PrintNightmare detection&lt;/strong&gt; - This detection identifies PrintNightmare exploitation attempts. The PrintNightmare Zeek script identifies the usage of the RPC functions used to install a remote printer driver. We further contextualize this action with additional endpoint and network-based telemetry and rely on the behavioral profiles of existing network entities in the organization to cover both inbound and outbound attacks and reduce false positive rates to the lowest possible extent.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_0-1669138459801.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420636i1B22BA9116DE910D/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_0-1669138459801.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 1 - A PrintNightmare Alert Example&lt;/em&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proprietary password spray detection&lt;/strong&gt; - Using Zeek&#8217;s out-of-the-box NTLM analyzer, Microsoft Defender for Endpoint can now identify attackers that are trying to authenticate to a machine with many different users as part of a password spray attack, while using different NTLM-based protocols such as SMB, Telnet, HTTP, RPC, or WINRM. Zeek&#8217;s ability to provide the session context comes into play and allows the detection logic to take different handshake parameters into account, thus making it much more accurate.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_1-1669138459810.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420637i3F41B9A576F59AA0/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_1-1669138459810.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 2 - A Password Spray Alert Example&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The two above-mentioned detections are just a few examples that demonstrate how the new traffic parsing and processing capabilities of this new integration boost the detection coverage, reaching attack types that were so far undetectable.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Device Discovery Enhancements&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In addition to these new detections, the integration also enhances Defender for Endpoint&#8217;s passive device discovery capabilities by utilizing many widely used protocols that are supported out of the box, including the below:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NTLM&lt;/strong&gt; - The NTLM authentication protocol involves both client and server devices sending their hostname, domain name, and operating system version. This is highly valuable data when it comes to device discovery. Zeek aggregates and reports this information for both sides on the NTLM transaction.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_2-1669138459831.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420638i7DD157FE2201E7E1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_2-1669138459831.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SSH&lt;/strong&gt; - Zeek monitors SSH protocol traffic and parses out the server version string. This string often includes the version of the SSH server software and the host operating system version.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_3-1669138459838.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420640i833BB14D5A295553/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_3-1669138459838.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FTP&lt;/strong&gt; - FTP servers usually respond with a code 220 response after a successful TCP handshake. This means that the server is ready to serve a new user. As part of the code 220 response, a response message is sent which typically contains identifying information about the FTP server.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_4-1669138459848.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420641iE762D0AC01ADFAC1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_4-1669138459848.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Zeek Performance on Endpoints&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Although the Zeek engine runs very efficiently, it is designed to run on a dedicated machine where it can consume all its resources to achieve the highest processing throughput of network traffic. To minimize the system resource requirements for the Zeek integration, within the Microsoft Defender for Endpoint agent, Zeek runs in a system-controlled process that automatically regulates its consumed resources. Using an intelligent throttling mechanism that kicks in whenever there&#8217;s a spike in network traffic, the agent can automatically reduce the number of packets Zeek processes depending on the system resource utilization. This also means that the agent&#8217;s impact on the network volume is being regulated. We were able to test the resource utilization across various large-scale organizations and determine that the impact was minimal as shown in Figure 3.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_5-1669138459851.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420639iC47BBCE7304324AC/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_5-1669138459851.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 3 - The effect that intelligent throttling had on memory usage of Zeek integration in MDE&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In conclusion, the integration of Zeek into Microsoft Defender for Endpoint delivers a new platform that provides a set of powerful network discovery and detection capabilities across Windows endpoints using unprecedented visibility into network traffic that allows new ways to protect your endpoints against advanced network-based attacks. On top of that, it also unlocks the ability to react to new network-based threats faster than ever thanks to its scripting ability and community-backed content, so when &#8220;the next Log4Shell&#8221; comes, Defender for Endpoint will be even better prepared to protect.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Differentiation with current NDR solutions&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Customers that have a Network Detection and Response (NDR) solution deployed in their network might wonder how the new integration impacts the need for NDR. To that end, we wish to shed additional light on the different goals of NDR and the new integration: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zeek in Microsoft Defender for Endpoint does not replace traditional NDR solutions. On the contrary, it&#8217;s a complementary data source providing network signals that otherwise might be missed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neither data source is sufficient on its own, given the sophistication of advanced attacks and the rising number of unmanaged/unmanageable endpoints on the Internet. Microsoft recommends that security teams combine both data sources - endpoint for depth, and network for breadth - to gain full visibility across all parts of the network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you've already deployed Zeek / Corelight for NDR, or are planning to, this integration enhances your investment because analysts can rely on the same underlying tech and data format, regardless of the point of collection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;More information&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand which versions of the Microsoft Defender for Endpoint agent support the new integration here:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-endpoint?view=o365-worldwide#november-2022" rel="noopener" target="_blank"&gt;What's new in Microsoft Defender for Endpoint | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Find out more details about the integration in our ZeekWeek 2022 presentations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EFBcnk25XeA" rel="noopener" target="_blank"&gt;ZeekWeek 2022 - Zeek for Windows: The Journey to Run on All Endpoints - Elad Solomon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=TqMHU_9IzXs" target="_self"&gt;&lt;u&gt;ZeekWeek 2022 - Zeek for Endpoint: Detection and Device Discovery - Boaz Wasserman&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;View the open-source contribution in Zeek&#8217;s GitHub repository:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;&lt;u&gt;Microsoft's Port of Zeek for Windows - zeek/zeek (github.com)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Previous announcements:
+&lt;ul&gt;
+&lt;li&gt;Ignite: &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;Microsoft Defender for Endpoint Announcements at Microsoft Ignite 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Corelight: &lt;a href="https://corelight.com/company/zeek-now-component-of-microsoft-windows?hsLang=en" rel="noopener" target="_blank"&gt;Zeek is Now a Component of Microsoft Windows (corelight.com)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zeek Project: &lt;a href="https://community.zeek.org/t/a-few-questions-and-answers-on-zeek-and-windows/" rel="noopener" target="_blank"&gt;A few questions and answers on Zeek and Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Bitlocker Is Not Resuming After Reboot Count Has Been Reached</title>
       <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</link>
@@ -51,73 +237,6 @@ Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Clas
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font size="1 2 3 4 5 6 7"&gt;Disclaimer&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;em&gt;&lt;font size="1 2 3 4 5 6 7"&gt;The sample scripts are not supported under any Microsoft standard support program or service. The sample scripts are provided AS IS without warranty of any kind. Microsoft further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the sample scripts and documentation remains with you. In no event shall Microsoft, its authors, or anyone else involved in the creation, production, or delivery of the scripts be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the sample scripts or documentation, even if Microsoft has been advised of the possibility of such damages.&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Multi-Geo Exchange Online Admin Audit Logs</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</link>
-      <pubDate>Fri, 14 Apr 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</guid>
-      <description>&lt;p&gt;We&#8217;re excited to announce that Exchange admin audit logs are now available from &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#microsoft-365-multi-geo-availability" rel="noopener" target="_blank"&gt;all geo locations&lt;/a&gt; for Multi-Geo tenants in Office 365. This feature is only applicable for tenants utilizing Multi-Geo Capabilities in Microsoft 365 using &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#licensing" rel="noopener" target="_blank"&gt;Multi-Geo license&lt;/a&gt;. &amp;nbsp;In a &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Multi-Geo environment&lt;/a&gt;, a Microsoft 365 Tenant consists of a Primary provisioned location (where Microsoft 365 subscription was originally provisioned) and one or more satellite locations.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 799px;"&gt;&lt;img alt="rtarunkumar_0-1681249082921.jpeg" height="449" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459692iD2B1F111C14125D0/image-dimensions/799x449?v=v2" title="rtarunkumar_0-1681249082921.jpeg" width="799" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Prior to the release of this feature, exchange admin audit events were available only for the Primary provisioned location. With the rollout of this feature, the exchange admin audit events are now available from satellite locations as well.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Tenant Admins can use&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-solutions-overview?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft Purview&lt;/a&gt;&amp;nbsp;and the&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-unifiedauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;Search-UnifiedAuditLog&lt;/a&gt;&amp;nbsp;cmdlet to search the exchange admin audit log events generated from satellite locations. All tenants utilizing Multi-Geo Capabilities in Office 365 have this feature enabled by default if audit logging is turned on.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;To verify that auditing is turned on for your organization, you can run the following command in &lt;a href="https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell" rel="noopener" target="_blank"&gt;Exchange Online PowerShell&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Get-AdminAuditLogConfig | Format-List UnifiedAuditLogIngestionEnabled
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;A value of True for the UnifiedAuditLogIngestionEnabled property indicates that auditing is turned on. A value of False indicates that auditing isn't turned on.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Let&#8217;s look at an example:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;When EUR administrator changes the litigation hold on a mailbox using Set-Mailbox cmdlet, this event will be sent to Office 365 Audit storage via Auditing event pipeline.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-PS C:\Users\euradmin&amp;gt; Set-Mailbox user@contoso.OnMicrosoft.com -LitigationHoldEnabled $false
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 799px;"&gt;&lt;img alt="rtarunkumar_1-1681249082939.png" height="457" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459693i34D1B25666A6BCE7/image-dimensions/799x457?v=v2" title="rtarunkumar_1-1681249082939.png" width="799" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Tenant administrators can use the following methods to search for this event:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-unifiedauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;u&gt;Using &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Search-UnifiedAuditLog&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;:&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Events can be searched between a specified date range, or the results can be filtered based on specific criteria, such as the user who performed the action or the target object.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-$start = (Get-Date).AddDays(-1); $end = (Get-Date);
-
-Search-UnifiedAuditLog -StartDate $start -EndDate $end -UserIds euradmin@contoso.OnMicrosoft.com
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-solutions-overview?view=o365-worldwide" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;u&gt;Using &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Microsoft Purview&lt;/strong&gt;&lt;span&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 801px;"&gt;&lt;img alt="rtarunkumar_2-1681249082942.png" height="241" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459691i6537A75814DEC87A/image-dimensions/801x241?v=v2" title="rtarunkumar_2-1681249082942.png" width="801" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href="https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-apis-overview" rel="noopener" target="_blank"&gt;Using Office 365 Management APIs overview | Microsoft Learn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The Office 365 Management APIs provide a single extensibility platform for all Office 365 customers' and partners' management tasks, including service communications, security, compliance, reporting, and auditing.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Most auditing data will be available within 60-90 minutes, but it may take up to 24 hours after an event occurs for the corresponding audit log entry to be displayed in the search results. Refer&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search?view=o365-worldwide#before-you-search-the-audit-log" rel="noopener" target="_blank"&gt;Before you search the audit log&amp;nbsp;&lt;/a&gt;that shows the time it takes for events in the different services to be available.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Exchange admin audit events from satellite location is not available through &lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-adminauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;Search-AdminAuditLog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Resources:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft 365 Multi-Geo - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/multi-geo-capabilities-in-exchange-online?view=o365-worldwide" rel="noopener" target="_blank"&gt;Exchange Multi-Geo - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/administering-a-multi-geo-environment?view=o365-worldwide" rel="noopener" target="_blank"&gt;Service Behavior in a Multi-Geo Enabled Environment - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-exo?view=o365-worldwide#view-the-available-geography-locations-that-are-configured-in-your-exchange-online-organization" rel="noopener" target="_blank"&gt;View the available Geography locations that are configured in your Exchange Online organization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-exo?view=o365-worldwide#view-the-primary-provisioned-geography-location-for-your-exchange-online-organization" rel="noopener" target="_blank"&gt;View the Primary Provisioned Geography location for your Exchange Online organization&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Microsoft Entra Change Announcements &#8211; March 2023 Train</title>
@@ -13882,119 +14001,6 @@ AZFWNetworkRule
 &lt;p&gt;&lt;em&gt;Microsoft Defender for Endpoint is an industry-leading, cloud-powered endpoint security solution offering vulnerability management, endpoint protection, endpoint detection and response, and mobile threat defense&amp;nbsp;in a single unified platform. With our solution, threats are no match. If you are not yet taking advantage of Microsoft&#8217;s unrivaled threat optics and proven capabilities,&#8239;&lt;/em&gt;&lt;a href="https://www.microsoft.com/microsoft-365/security/endpoint-defender" rel="noopener" target="_blank"&gt;&lt;em&gt;&lt;u&gt;sign up for a free trial&lt;/u&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&#8239;of Microsoft Defender for Endpoint today.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Microsoft Defender for Endpoint team&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New network-based detections and improved device discovery using Zeek</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</link>
-      <pubDate>Mon, 28 Nov 2022 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</guid>
-      <description>&lt;p&gt;Organizations are finding network-based attacks becoming an increasingly popular way of infiltrating systems because they often leave minimal traces on source and target devices. &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;At Microsoft Ignite 2022, we announced partnering with Zeek&lt;/a&gt;, an open-source network security monitoring platform, and its corporate sponsor, Corelight, to help security teams combat these attacks more effectively.&amp;nbsp; As a result, &lt;a href="https://corelight.com/about-zeek/how-zeek-works" rel="noopener" target="_blank"&gt;Zeek&lt;/a&gt; is now integrated as a component within Microsoft Defender for Endpoint.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides new levels of network analysis capabilities based on deep inspection of network traffic powered by Zeek, a powerful open-source network analysis engine that allows researchers to tackle sophisticated network-based attacks in ways that weren't possible before. Administrators onboarding endpoints to Defender for Endpoint can now monitor inbound and outbound traffic with a novel engine that is capable of:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Session A&lt;/strong&gt;&lt;strong&gt;wareness&lt;/strong&gt; - Being able to aggregate network protocol data across an entire TCP/UDP session, such as NTLM and Kerberos authentications, SSH sessions, FTP connections, and RPC. These aggregated protocol insights provide much richer metadata and extracted payloads that can be used to enhance the detection capabilities of network-based attacks, as well as the passive classification of discovered devices.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dynamic Protocol Detection&lt;/strong&gt; - Being able to detect attacks even on non-default ports, a common pattern attackers use to hide their network traffic.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dynamic Scripting Content&lt;/strong&gt; - Being able to add new detections on the fly using Zeek scripts, backed by a wide community of security advocates. This unlocks the ability to react to emerging network-based threats such as Log4Shell and PrintNightmare at unprecedented speed. In a reality where new vulnerabilities are discovered on a weekly basis, this is a true game changer.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;While Zeek has been around for over 20 years, the software has traditionally run on Unix-like operating systems such as Linux, FreeBSD, and macOS. As part of the new partnership between Microsoft and Corelight, we extended Zeek to support Windows-based systems. This is a non-trivial engineering effort - which &lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;we are excited to contribute back to the open-source community&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Supercharging Defender for Endpoint with Zeek&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides a powerful ability to detect malicious activity in a way that enhances our existing endpoint security capabilities, as well as enables a more accurate and complete discovery of endpoints &amp;amp; IoT devices.&amp;nbsp;&lt;br /&gt;Using Zeek, Defender for Endpoint will collect network events used for detections, posture and device discovery and will adhere to the Microsoft privacy practices that Defender for Endpoint upholds today.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Network-based Detection of Malicious Activity&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;With many attacks only visible at the network layer, continuously monitoring and analyzing network activity is critical. Attackers that utilize their own network stack can often bypass existing endpoint-based detections, but they cannot hide their network footprint. Providing visibility into the network layer, using both incoming and outgoing traffic from each endpoint, broadens the ability to protect devices operating on the network even if they are not onboarded to Defender for Endpoint, by detecting attacks initiated by these devices, as well as discovering vulnerable services and operating system versions running on them. Moreover, being deployed on endpoints allows admins to compose non-network telemetry such as process and file actions into network-based detections to give richer context into suspicious network activity.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Accurate signals of malicious network activity are important for identifying an attack campaign at the early stages of exploration and lateral movement, which can lead to stopping an attack in its infancy.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Below are more details on the first two Zeek-based detections now deployed to Defender for Endpoint:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PrintNightmare detection&lt;/strong&gt; - This detection identifies PrintNightmare exploitation attempts. The PrintNightmare Zeek script identifies the usage of the RPC functions used to install a remote printer driver. We further contextualize this action with additional endpoint and network-based telemetry and rely on the behavioral profiles of existing network entities in the organization to cover both inbound and outbound attacks and reduce false positive rates to the lowest possible extent.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_0-1669138459801.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420636i1B22BA9116DE910D/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_0-1669138459801.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 1 - A PrintNightmare Alert Example&lt;/em&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Proprietary password spray detection&lt;/strong&gt; - Using Zeek&#8217;s out-of-the-box NTLM analyzer, Microsoft Defender for Endpoint can now identify attackers that are trying to authenticate to a machine with many different users as part of a password spray attack, while using different NTLM-based protocols such as SMB, Telnet, HTTP, RPC, or WINRM. Zeek&#8217;s ability to provide the session context comes into play and allows the detection logic to take different handshake parameters into account, thus making it much more accurate.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_1-1669138459810.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420637i3F41B9A576F59AA0/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_1-1669138459810.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 2 - A Password Spray Alert Example&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The two above-mentioned detections are just a few examples that demonstrate how the new traffic parsing and processing capabilities of this new integration boost the detection coverage, reaching attack types that were so far undetectable.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Device Discovery Enhancements&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;In addition to these new detections, the integration also enhances Defender for Endpoint&#8217;s passive device discovery capabilities by utilizing many widely used protocols that are supported out of the box, including the below:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NTLM&lt;/strong&gt; - The NTLM authentication protocol involves both client and server devices sending their hostname, domain name, and operating system version. This is highly valuable data when it comes to device discovery. Zeek aggregates and reports this information for both sides on the NTLM transaction.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_2-1669138459831.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420638i7DD157FE2201E7E1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_2-1669138459831.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SSH&lt;/strong&gt; - Zeek monitors SSH protocol traffic and parses out the server version string. This string often includes the version of the SSH server software and the host operating system version.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_3-1669138459838.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420640i833BB14D5A295553/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_3-1669138459838.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;FTP&lt;/strong&gt; - FTP servers usually respond with a code 220 response after a successful TCP handshake. This means that the server is ready to serve a new user. As part of the code 220 response, a response message is sent which typically contains identifying information about the FTP server.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_4-1669138459848.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420641iE762D0AC01ADFAC1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_4-1669138459848.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Zeek Performance on Endpoints&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Although the Zeek engine runs very efficiently, it is designed to run on a dedicated machine where it can consume all its resources to achieve the highest processing throughput of network traffic. To minimize the system resource requirements for the Zeek integration, within the Microsoft Defender for Endpoint agent, Zeek runs in a system-controlled process that automatically regulates its consumed resources. Using an intelligent throttling mechanism that kicks in whenever there&#8217;s a spike in network traffic, the agent can automatically reduce the number of packets Zeek processes depending on the system resource utilization. This also means that the agent&#8217;s impact on the network volume is being regulated. We were able to test the resource utilization across various large-scale organizations and determine that the impact was minimal as shown in Figure 3.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_5-1669138459851.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420639iC47BBCE7304324AC/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_5-1669138459851.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 3 - The effect that intelligent throttling had on memory usage of Zeek integration in MDE&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;In conclusion, the integration of Zeek into Microsoft Defender for Endpoint delivers a new platform that provides a set of powerful network discovery and detection capabilities across Windows endpoints using unprecedented visibility into network traffic that allows new ways to protect your endpoints against advanced network-based attacks. On top of that, it also unlocks the ability to react to new network-based threats faster than ever thanks to its scripting ability and community-backed content, so when &#8220;the next Log4Shell&#8221; comes, Defender for Endpoint will be even better prepared to protect.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Differentiation with current NDR solutions&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Customers that have a Network Detection and Response (NDR) solution deployed in their network might wonder how the new integration impacts the need for NDR. To that end, we wish to shed additional light on the different goals of NDR and the new integration: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Zeek in Microsoft Defender for Endpoint does not replace traditional NDR solutions. On the contrary, it&#8217;s a complementary data source providing network signals that otherwise might be missed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Neither data source is sufficient on its own, given the sophistication of advanced attacks and the rising number of unmanaged/unmanageable endpoints on the Internet. Microsoft recommends that security teams combine both data sources - endpoint for depth, and network for breadth - to gain full visibility across all parts of the network.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If you've already deployed Zeek / Corelight for NDR, or are planning to, this integration enhances your investment because analysts can rely on the same underlying tech and data format, regardless of the point of collection.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;More information&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Understand which versions of the Microsoft Defender for Endpoint agent support the new integration here:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-endpoint?view=o365-worldwide#november-2022" rel="noopener" target="_blank"&gt;What's new in Microsoft Defender for Endpoint | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Find out more details about the integration in our ZeekWeek 2022 presentations:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EFBcnk25XeA" rel="noopener" target="_blank"&gt;ZeekWeek 2022 - Zeek for Windows: The Journey to Run on All Endpoints - Elad Solomon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=TqMHU_9IzXs" target="_self"&gt;&lt;u&gt;ZeekWeek 2022 - Zeek for Endpoint: Detection and Device Discovery - Boaz Wasserman&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;View the open-source contribution in Zeek&#8217;s GitHub repository:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;&lt;u&gt;Microsoft's Port of Zeek for Windows - zeek/zeek (github.com)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Previous announcements:
-&lt;ul&gt;
-&lt;li&gt;Ignite: &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;Microsoft Defender for Endpoint Announcements at Microsoft Ignite 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Corelight: &lt;a href="https://corelight.com/company/zeek-now-component-of-microsoft-windows?hsLang=en" rel="noopener" target="_blank"&gt;Zeek is Now a Component of Microsoft Windows (corelight.com)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Zeek Project: &lt;a href="https://community.zeek.org/t/a-few-questions-and-answers-on-zeek-and-windows/" rel="noopener" target="_blank"&gt;A few questions and answers on Zeek and Windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Azure DDoS IP Protection is Now Available in Public Preview</title>
