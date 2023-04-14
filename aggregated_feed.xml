@@ -3,11 +3,11 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Apr 2023 20:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 21:06:24 GMT</lastBuildDate>
     <item>
       <title>Multi-Geo Exchange Online Admin Audit Logs</title>
       <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</link>
-      <pubDate>Fri, 14 Apr 2023 20:03:40 GMT</pubDate>
+      <pubDate>Fri, 14 Apr 2023 20:17:08 GMT</pubDate>
       <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</guid>
       <description>&lt;p&gt;We&#8217;re excited to announce that Exchange admin audit logs are now available from &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#microsoft-365-multi-geo-availability" rel="noopener" target="_blank"&gt;all geo locations&lt;/a&gt; for Multi-Geo tenants in Office 365. This feature is only applicable for tenants utilizing Multi-Geo Capabilities in Microsoft 365 using &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#licensing" rel="noopener" target="_blank"&gt;Multi-Geo license&lt;/a&gt;. &amp;nbsp;In a &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Multi-Geo environment&lt;/a&gt;, a Microsoft 365 Tenant consists of a Primary provisioned location (where Microsoft 365 subscription was originally provisioned) and one or more satellite locations.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -21,7 +21,9 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 Get-AdminAuditLogConfig | Format-List UnifiedAuditLogIngestionEnabled
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -32,7 +34,9 @@ Get-AdminAuditLogConfig | Format-List UnifiedAuditLogIngestionEnabled
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 PS C:\Users\euradmin&amp;gt; Set-Mailbox user@contoso.OnMicrosoft.com -LitigationHoldEnabled $false
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -47,9 +51,11 @@ PS C:\Users\euradmin&amp;gt; Set-Mailbox user@contoso.OnMicrosoft.com -Litigatio
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 $start = (Get-Date).AddDays(-1); $end = (Get-Date);
 
 Search-UnifiedAuditLog -StartDate $start -EndDate $end -UserIds euradmin@contoso.OnMicrosoft.com
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
