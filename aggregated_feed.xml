@@ -3,7 +3,425 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Apr 2023 10:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 09:06:59 GMT</lastBuildDate>
+    <item>
+      <title>Multi-Geo Exchange Online Admin Audit Logs</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</link>
+      <pubDate>Fri, 14 Apr 2023 20:17:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</guid>
+      <description>&lt;p&gt;We&#8217;re excited to announce that Exchange admin audit logs are now available from &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#microsoft-365-multi-geo-availability" rel="noopener" target="_blank"&gt;all geo locations&lt;/a&gt; for Multi-Geo tenants in Office 365. This feature is only applicable for tenants utilizing Multi-Geo Capabilities in Microsoft 365 using &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide#licensing" rel="noopener" target="_blank"&gt;Multi-Geo license&lt;/a&gt;. &amp;nbsp;In a &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Multi-Geo environment&lt;/a&gt;, a Microsoft 365 Tenant consists of a Primary provisioned location (where Microsoft 365 subscription was originally provisioned) and one or more satellite locations.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 799px;"&gt;&lt;img alt="rtarunkumar_0-1681249082921.jpeg" height="449" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459692iD2B1F111C14125D0/image-dimensions/799x449?v=v2" title="rtarunkumar_0-1681249082921.jpeg" width="799" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Prior to the release of this feature, exchange admin audit events were available only for the Primary provisioned location. With the rollout of this feature, the exchange admin audit events are now available from satellite locations as well.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tenant Admins can use&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-solutions-overview?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft Purview&lt;/a&gt;&amp;nbsp;and the&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-unifiedauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;Search-UnifiedAuditLog&lt;/a&gt;&amp;nbsp;cmdlet to search the exchange admin audit log events generated from satellite locations. All tenants utilizing Multi-Geo Capabilities in Office 365 have this feature enabled by default if audit logging is turned on.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To verify that auditing is turned on for your organization, you can run the following command in &lt;a href="https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell" rel="noopener" target="_blank"&gt;Exchange Online PowerShell&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Get-AdminAuditLogConfig | Format-List UnifiedAuditLogIngestionEnabled
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;A value of True for the UnifiedAuditLogIngestionEnabled property indicates that auditing is turned on. A value of False indicates that auditing isn't turned on.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Let&#8217;s look at an example:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When EUR administrator changes the litigation hold on a mailbox using Set-Mailbox cmdlet, this event will be sent to Office 365 Audit storage via Auditing event pipeline.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+PS C:\Users\euradmin&amp;gt; Set-Mailbox user@contoso.OnMicrosoft.com -LitigationHoldEnabled $false
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 799px;"&gt;&lt;img alt="rtarunkumar_1-1681249082939.png" height="457" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459693i34D1B25666A6BCE7/image-dimensions/799x457?v=v2" title="rtarunkumar_1-1681249082939.png" width="799" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tenant administrators can use the following methods to search for this event:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-unifiedauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;u&gt;Using &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Search-UnifiedAuditLog&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;:&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Events can be searched between a specified date range, or the results can be filtered based on specific criteria, such as the user who performed the action or the target object.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+$start = (Get-Date).AddDays(-1); $end = (Get-Date);
+
+Search-UnifiedAuditLog -StartDate $start -EndDate $end -UserIds euradmin@contoso.OnMicrosoft.com
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-solutions-overview?view=o365-worldwide" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;u&gt;Using &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Microsoft Purview&lt;/strong&gt;&lt;span&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 801px;"&gt;&lt;img alt="rtarunkumar_2-1681249082942.png" height="241" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459691i6537A75814DEC87A/image-dimensions/801x241?v=v2" title="rtarunkumar_2-1681249082942.png" width="801" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-apis-overview" rel="noopener" target="_blank"&gt;Using Office 365 Management APIs overview | Microsoft Learn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Office 365 Management APIs provide a single extensibility platform for all Office 365 customers' and partners' management tasks, including service communications, security, compliance, reporting, and auditing.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Most auditing data will be available within 60-90 minutes, but it may take up to 24 hours after an event occurs for the corresponding audit log entry to be displayed in the search results. Refer&amp;nbsp;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search?view=o365-worldwide#before-you-search-the-audit-log" rel="noopener" target="_blank"&gt;Before you search the audit log&amp;nbsp;&lt;/a&gt;that shows the time it takes for events in the different services to be available.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exchange admin audit events from satellite location is not available through &lt;a href="https://learn.microsoft.com/en-us/powershell/module/exchange/search-adminauditlog?view=exchange-ps" rel="noopener" target="_blank"&gt;Search-AdminAuditLog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft 365 Multi-Geo - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/multi-geo-capabilities-in-exchange-online?view=o365-worldwide" rel="noopener" target="_blank"&gt;Exchange Multi-Geo - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/administering-a-multi-geo-environment?view=o365-worldwide" rel="noopener" target="_blank"&gt;Service Behavior in a Multi-Geo Enabled Environment - Microsoft 365 Enterprise | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-exo?view=o365-worldwide#view-the-available-geography-locations-that-are-configured-in-your-exchange-online-organization" rel="noopener" target="_blank"&gt;View the available Geography locations that are configured in your Exchange Online organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-exo?view=o365-worldwide#view-the-primary-provisioned-geography-location-for-your-exchange-online-organization" rel="noopener" target="_blank"&gt;View the Primary Provisioned Geography location for your Exchange Online organization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>New network-based detections and improved device discovery using Zeek</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</link>
+      <pubDate>Fri, 14 Apr 2023 19:44:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</guid>
+      <description>&lt;p&gt;Organizations are finding network-based attacks becoming an increasingly popular way of infiltrating systems because they often leave minimal traces on source and target devices. &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;At Microsoft Ignite 2022, we announced partnering with Zeek&lt;/a&gt;, an open-source network security monitoring platform, and its corporate sponsor, Corelight, to help security teams combat these attacks more effectively.&amp;nbsp; As a result, &lt;a href="https://corelight.com/about-zeek/how-zeek-works" rel="noopener" target="_blank"&gt;Zeek&lt;/a&gt; is now integrated as a component within Microsoft Defender for Endpoint.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides new levels of network analysis capabilities based on deep inspection of network traffic powered by Zeek, a powerful open-source network analysis engine that allows researchers to tackle sophisticated network-based attacks in ways that weren't possible before. Administrators onboarding endpoints to Defender for Endpoint can now monitor inbound and outbound traffic with a novel engine that is capable of:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session A&lt;/strong&gt;&lt;strong&gt;wareness&lt;/strong&gt; - Being able to aggregate network protocol data across an entire TCP/UDP session, such as NTLM and Kerberos authentications, SSH sessions, FTP connections, and RPC. These aggregated protocol insights provide much richer metadata and extracted payloads that can be used to enhance the detection capabilities of network-based attacks, as well as the passive classification of discovered devices.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Protocol Detection&lt;/strong&gt; - Being able to detect attacks even on non-default ports, a common pattern attackers use to hide their network traffic.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Scripting Content&lt;/strong&gt; - Being able to add new detections on the fly using Zeek scripts, backed by a wide community of security advocates. This unlocks the ability to react to emerging network-based threats such as Log4Shell and PrintNightmare at unprecedented speed. In a reality where new vulnerabilities are discovered on a weekly basis, this is a true game changer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;While Zeek has been around for over 20 years, the software has traditionally run on Unix-like operating systems such as Linux, FreeBSD, and macOS. As part of the new partnership between Microsoft and Corelight, we extended Zeek to support Windows-based systems. This is a non-trivial engineering effort - which &lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;we are excited to contribute back to the open-source community&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Supercharging Defender for Endpoint with Zeek&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides a powerful ability to detect malicious activity in a way that enhances our existing endpoint security capabilities, as well as enables a more accurate and complete discovery of endpoints &amp;amp; IoT devices.&amp;nbsp;&lt;br /&gt;Using Zeek, Defender for Endpoint will collect network events used for detections, posture and device discovery and will adhere to the Microsoft privacy practices that Defender for Endpoint upholds today.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Network-based Detection of Malicious Activity&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;With many attacks only visible at the network layer, continuously monitoring and analyzing network activity is critical. Attackers that utilize their own network stack can often bypass existing endpoint-based detections, but they cannot hide their network footprint. Providing visibility into the network layer, using both incoming and outgoing traffic from each endpoint, broadens the ability to protect devices operating on the network even if they are not onboarded to Defender for Endpoint, by detecting attacks initiated by these devices, as well as discovering vulnerable services and operating system versions running on them. Moreover, being deployed on endpoints allows admins to compose non-network telemetry such as process and file actions into network-based detections to give richer context into suspicious network activity.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Accurate signals of malicious network activity are important for identifying an attack campaign at the early stages of exploration and lateral movement, which can lead to stopping an attack in its infancy.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Below are more details on the first two Zeek-based detections now deployed to Defender for Endpoint:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PrintNightmare detection&lt;/strong&gt; - This detection identifies PrintNightmare exploitation attempts. The PrintNightmare Zeek script identifies the usage of the RPC functions used to install a remote printer driver. We further contextualize this action with additional endpoint and network-based telemetry and rely on the behavioral profiles of existing network entities in the organization to cover both inbound and outbound attacks and reduce false positive rates to the lowest possible extent.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_0-1669138459801.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420636i1B22BA9116DE910D/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_0-1669138459801.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 1 - A PrintNightmare Alert Example&lt;/em&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proprietary password spray detection&lt;/strong&gt; - Using Zeek&#8217;s out-of-the-box NTLM analyzer, Microsoft Defender for Endpoint can now identify attackers that are trying to authenticate to a machine with many different users as part of a password spray attack, while using different NTLM-based protocols such as SMB, Telnet, HTTP, RPC, or WINRM. Zeek&#8217;s ability to provide the session context comes into play and allows the detection logic to take different handshake parameters into account, thus making it much more accurate.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_1-1669138459810.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420637i3F41B9A576F59AA0/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_1-1669138459810.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 2 - A Password Spray Alert Example&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The two above-mentioned detections are just a few examples that demonstrate how the new traffic parsing and processing capabilities of this new integration boost the detection coverage, reaching attack types that were so far undetectable.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Device Discovery Enhancements&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In addition to these new detections, the integration also enhances Defender for Endpoint&#8217;s passive device discovery capabilities by utilizing many widely used protocols that are supported out of the box, including the below:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NTLM&lt;/strong&gt; - The NTLM authentication protocol involves both client and server devices sending their hostname, domain name, and operating system version. This is highly valuable data when it comes to device discovery. Zeek aggregates and reports this information for both sides on the NTLM transaction.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_2-1669138459831.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420638i7DD157FE2201E7E1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_2-1669138459831.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SSH&lt;/strong&gt; - Zeek monitors SSH protocol traffic and parses out the server version string. This string often includes the version of the SSH server software and the host operating system version.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_3-1669138459838.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420640i833BB14D5A295553/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_3-1669138459838.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FTP&lt;/strong&gt; - FTP servers usually respond with a code 220 response after a successful TCP handshake. This means that the server is ready to serve a new user. As part of the code 220 response, a response message is sent which typically contains identifying information about the FTP server.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_4-1669138459848.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420641iE762D0AC01ADFAC1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_4-1669138459848.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Zeek Performance on Endpoints&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Although the Zeek engine runs very efficiently, it is designed to run on a dedicated machine where it can consume all its resources to achieve the highest processing throughput of network traffic. To minimize the system resource requirements for the Zeek integration, within the Microsoft Defender for Endpoint agent, Zeek runs in a system-controlled process that automatically regulates its consumed resources. Using an intelligent throttling mechanism that kicks in whenever there&#8217;s a spike in network traffic, the agent can automatically reduce the number of packets Zeek processes depending on the system resource utilization. This also means that the agent&#8217;s impact on the network volume is being regulated. We were able to test the resource utilization across various large-scale organizations and determine that the impact was minimal as shown in Figure 3.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_5-1669138459851.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420639iC47BBCE7304324AC/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_5-1669138459851.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 3 - The effect that intelligent throttling had on memory usage of Zeek integration in MDE&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In conclusion, the integration of Zeek into Microsoft Defender for Endpoint delivers a new platform that provides a set of powerful network discovery and detection capabilities across Windows endpoints using unprecedented visibility into network traffic that allows new ways to protect your endpoints against advanced network-based attacks. On top of that, it also unlocks the ability to react to new network-based threats faster than ever thanks to its scripting ability and community-backed content, so when &#8220;the next Log4Shell&#8221; comes, Defender for Endpoint will be even better prepared to protect.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Differentiation with current NDR solutions&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Customers that have a Network Detection and Response (NDR) solution deployed in their network might wonder how the new integration impacts the need for NDR. To that end, we wish to shed additional light on the different goals of NDR and the new integration: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zeek in Microsoft Defender for Endpoint does not replace traditional NDR solutions. On the contrary, it&#8217;s a complementary data source providing network signals that otherwise might be missed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neither data source is sufficient on its own, given the sophistication of advanced attacks and the rising number of unmanaged/unmanageable endpoints on the Internet. Microsoft recommends that security teams combine both data sources - endpoint for depth, and network for breadth - to gain full visibility across all parts of the network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you've already deployed Zeek / Corelight for NDR, or are planning to, this integration enhances your investment because analysts can rely on the same underlying tech and data format, regardless of the point of collection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;More information&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand which versions of the Microsoft Defender for Endpoint agent support the new integration here:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-endpoint?view=o365-worldwide#november-2022" rel="noopener" target="_blank"&gt;What's new in Microsoft Defender for Endpoint | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Find out more details about the integration in our ZeekWeek 2022 presentations:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EFBcnk25XeA" rel="noopener" target="_blank"&gt;ZeekWeek 2022 - Zeek for Windows: The Journey to Run on All Endpoints - Elad Solomon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=TqMHU_9IzXs" target="_self"&gt;&lt;u&gt;ZeekWeek 2022 - Zeek for Endpoint: Detection and Device Discovery - Boaz Wasserman&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;View the open-source contribution in Zeek&#8217;s GitHub repository:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;&lt;u&gt;Microsoft's Port of Zeek for Windows - zeek/zeek (github.com)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Previous announcements:
+&lt;ul&gt;
+&lt;li&gt;Ignite: &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;Microsoft Defender for Endpoint Announcements at Microsoft Ignite 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Corelight: &lt;a href="https://corelight.com/company/zeek-now-component-of-microsoft-windows?hsLang=en" rel="noopener" target="_blank"&gt;Zeek is Now a Component of Microsoft Windows (corelight.com)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zeek Project: &lt;a href="https://community.zeek.org/t/a-few-questions-and-answers-on-zeek-and-windows/" rel="noopener" target="_blank"&gt;A few questions and answers on Zeek and Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Bitlocker Is Not Resuming After Reboot Count Has Been Reached</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</link>
+      <pubDate>Fri, 14 Apr 2023 18:36:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I'm Helmut Wagensonner, a Cloud Solution Architect Engineer at Microsoft. Recently, I ran into an unexpected Bitlocker behavior at a customer. It turned out that this behavior is on purpose so I thought I let you know about it, even if you may never run into it.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;BitLocker is a feature in Windows 10/11 that encrypts your device&#8217;s hard drive to protect your data from unauthorized access. However, there are some scenarios where you may need to suspend BitLocker temporarily, such as when you update your BIOS or firmware using a vendor&#8217;s update utility. When you suspend BitLocker, you can specify how many times your device can restart before BitLocker resumes encryption. This is called the reboot count parameter. You can set this parameter using the PowerShell cmdlet Suspend-BitLocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps" rel="noopener" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps&lt;/a&gt;). Following example would suspend Bitlocker until the client has been rebooted 3 times:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Suspend-Bitlocker -MountPoint "C:" -RebootCount 3
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;However, there is a known issue with BitLocker that you may encounter: BitLocker does not resume automatically after suspending when OOBE (Out of box experience) is not complete. OOBE is the process of setting up your device for the first time after installing Windows 10. This means that your device will remain unprotected until you manually resume BitLocker. To do this, you have the option to use the manage-bde command line tool from an elevated command prompt.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+manage-bde -resume C:
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Or use the Powershell command Resume-Bitlocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps" rel="noopener" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Resume-BitLocker -MountPoint "C:"
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To check how many reboots are left before BitLocker resumes encryption, you can use the &lt;em&gt;GetSuspendCount&lt;/em&gt; method of the &lt;em&gt;Win32_EncryptableVolume&lt;/em&gt; WMI class (&lt;a href="https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume" rel="noopener" target="_blank"&gt;https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume&lt;/a&gt;). For example, this PowerShell command will show you the number of reboots left for drive C:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Class Win32_EncryptableVolume -Filter "DriveLetter='C:'" | Invoke-CimMethod -MethodName "GetSuspendCount"
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As mentioned at the beginning of this blog, you may never run into this issue because there are very few situations where you need to manually suspend Bitlocker when OOBE has not completed. One situation is, for example:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You deploy a Windows 10/11 PC (fresh installation) via Config Manager Task Sequence. You activate Bitlocker during the task sequence.&lt;/li&gt;
+&lt;li&gt;At the end of the installation you need to install device drivers not available on Windows Update. Or you want to update the BIOS with the vendor's update tool.&lt;/li&gt;
+&lt;li&gt;You suspend Bitlocker with the "-rebootcount 1" parameter before you trigger the driver/BIOS installation.&lt;/li&gt;
+&lt;li&gt;You do a manual reboot at the end of the installation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The expected behavior would be, that Bitlocker is active after the reboot (because of the -rebootcount 1 option). However, this may not be the case as no user has logged on to the client before and user OOBE has not completed. Bitlocker remains in suspended mode until manually resumed (i.e. using Powershell&#8217;s resume-bitlocker command).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font size="1 2 3 4 5 6 7"&gt;Disclaimer&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;em&gt;&lt;font size="1 2 3 4 5 6 7"&gt;The sample scripts are not supported under any Microsoft standard support program or service. The sample scripts are provided AS IS without warranty of any kind. Microsoft further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the sample scripts and documentation remains with you. In no event shall Microsoft, its authors, or anyone else involved in the creation, production, or delivery of the scripts be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the sample scripts or documentation, even if Microsoft has been advised of the possibility of such damages.&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft Entra Change Announcements &#8211; March 2023 Train</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-change-announcements-march-2023-train/ba-p/2967448</link>
+      <pubDate>Fri, 14 Apr 2023 15:45:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-change-announcements-march-2023-train/ba-p/2967448</guid>
+      <description>&lt;p&gt;&lt;span&gt;Hello everyone,&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Today, we're sharing our March train for feature and breaking changes. We also communicate these changes on &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new" rel="noopener" target="_blank"&gt;&lt;span&gt;release notes&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and via email. We are continuing to make it easier for our customers to manage lifecycle changes (deprecations, retirements, service breaking changes) within the new &lt;/span&gt;&lt;a href="https://entra.microsoft.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;Entra admin center&lt;/span&gt;&lt;/a&gt;&lt;span&gt; as well. In addition, we will be including new feature launch announcements as part of this blog post going forward so you can see both changes to existing features and new features in a single list.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;March 2023 change announcements:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Security Improvements&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Number Matching Message Center post refresh&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Microsoft Authenticator app&#8217;s number matching feature has been Generally Available since November 2022. If you haven&#8217;t already leveraged the rollout controls (via Azure Portal Admin UX and MSGraph APIs) to smoothly deploy number matching for users of Microsoft Authenticator push notifications, we highly encourage you to do so. We had previously announced that we will remove the admin controls and enforce the number match experience tenant-wide for all users of Microsoft Authenticator push notifications starting February 27, 2023. After listening to customers, we will extend the availability of the rollout controls for a few more weeks. Organizations can continue to use the existing rollout controls until &lt;/span&gt;&lt;strong&gt;&lt;span&gt;May 8, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, to deploy number matching in their organizations. Microsoft services will start enforcing the number matching experience for all users of Microsoft Authenticator push notifications after May 8th, 2023. We&#8217;ll also remove the rollout controls for number matching after that date.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;If customers don&#8217;t enable number match for all Microsoft Authenticator push notifications prior to May 8, 2023, users may experience inconsistent sign ins while the services are rolling out this change. To ensure consistent behavior for all users, we highly recommend you enable number match for Microsoft Authenticator push notifications in advance. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match" rel="noopener" target="_blank"&gt;&lt;span&gt;Number match documentation&lt;/span&gt;&lt;/a&gt;&lt;span&gt; |&#8239;&lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/defend-your-users-from-mfa-fatigue-attacks/ba-p/2365677" rel="noopener" target="_blank"&gt;&lt;span&gt;Defend your users from MFA fatigue attacks - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&#8239;|&#8239;&lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-microsoft-authenticator-security-features-are-now/ba-p/2365673" rel="noopener" target="_blank"&gt;&lt;span&gt;Advanced Microsoft Authenticator security features are now generally available! - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Azure Multifactor Authentication Server&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt; &lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;September 30, 2024&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, Azure Multifactor Authentication Server deployments will no longer service multifactor authentication (MFA) requests, which could cause authentications to fail for your organization. To ensure uninterrupted authentication services and to remain in a supported state, organizations should &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-migrate-mfa-server-to-azure-mfa-user-authentication" rel="noopener" target="_blank"&gt;&lt;span&gt;migrate their users&#8217; authentication data&lt;/span&gt;&lt;/a&gt;&lt;span&gt; to the cloud-based Azure MFA service using the latest Migration Utility included in the most recent &lt;/span&gt;&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=55849" rel="noopener" target="_blank"&gt;&lt;span&gt;Azure MFA Server update&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-migrate-mfa-server-to-azure-mfa-user-authentication" rel="noopener" target="_blank"&gt;&lt;span&gt;Azure MFA Server Migration&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Enabling System-preferred authentication methods&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Today, various authentication methods can be chosen by users as their default. However, not all authentication methods provide the same level of security. This situation creates potential risk for organizations when less secure authentication methods are chosen, especially in place of phishing-resistant methods.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To address this, we&#8217;re introducing &lt;/span&gt;&lt;strong&gt;&lt;span&gt;system-preferred authentication for MFA&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. When enabled, at runtime the most secure authentication method of the user&#8217;s registered methods will be requested as the second factor of authentication. This replaces the previous feature, where the user selects a &#8216;default&#8217; method and is therefore always prompted for that method first, even when more secure methods are registered and available. This functionality is &lt;/span&gt;&lt;strong&gt;&lt;span&gt;available today&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; using &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-system-preferred-multifactor-authentication?branch=pr-en-us-227476#enable-system-preferred-mfa" rel="noopener" target="_blank"&gt;&lt;span&gt;MSGraph API&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Once enabled, users will be prompted to sign in using the most preferred authentication method available. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-system-preferred-multifactor-authentication?branch=pr-en-us-227476" rel="noopener" target="_blank"&gt;&lt;span&gt;System-preferred multifactor authentication (MFA) - Azure Active Directory - Microsoft Entra | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Deprecation of &#8216;Require approved client app&#8217; Conditional Access Grant&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;On March 31, 2026&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, the&lt;/span&gt; &lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-grant#require-approved-client-app" rel="noopener" target="_blank"&gt;&lt;span&gt;Require approved client app&lt;/span&gt;&lt;/a&gt;&lt;strong&gt;&lt;span&gt; control in Azure Active Directory (Azure AD) Conditional Access will be retired and no longer enforced.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Before that date, you&#8217;ll need to transition and start using the &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-grant#require-app-protection-policy" rel="noopener" target="_blank"&gt;&lt;span&gt;Require app protection policy&lt;/span&gt;&lt;/a&gt;&lt;span&gt; control. We encourage you to make the switch sooner to gain the richer benefits of the &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-grant#require-app-protection-policy" rel="noopener" target="_blank"&gt;&lt;span&gt;Require app protection policy&lt;/span&gt;&lt;/a&gt;&lt;span&gt; control, which has all the same capabilities, plus:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;It verifies the corresponding Intune policy.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;It&#8217;s applied before a user is granted access.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;It has a strengthened security posture.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To avoid any disruptions in service&lt;/span&gt;&lt;strong&gt;&lt;span&gt;, &lt;/span&gt;&lt;/strong&gt;&lt;a href="http://aka.ms/RetireApprovedClientApp" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;span&gt;transition&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; &lt;span&gt;to using the&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &#8216;Require app protection policy&#8217; control in Azure AD Conditional Access by March 31, 2026&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. If you have questions, get answers from community experts in&#8239;&lt;/span&gt;&lt;a href="http://aka.ms/ApprovedClientAppRetirementQA" rel="noopener" target="_blank"&gt;&lt;span&gt;Microsoft Q&amp;amp;A&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Retirement of managing authentication methods in legacy Multifactor Authentication (MFA) &amp;amp; Self-Service Password Reset (SSPR) policy&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Se&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span&gt;ptember 30, 2024&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, we will no longer allow authentication methods to be managed in the legacy &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#verification-methods" rel="noopener" target="_blank"&gt;&lt;span&gt;MFA&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks#authentication-methods" rel="noopener" target="_blank"&gt;&lt;span&gt;SSPR&lt;/span&gt;&lt;/a&gt;&lt;span&gt; policies. &lt;/span&gt;&lt;span&gt;Organizations should &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-methods-manage" rel="noopener" target="_blank"&gt;&lt;span&gt;migrate&lt;/span&gt;&lt;/a&gt;&lt;span&gt; their methods to the converged authentication methods policy where &lt;/span&gt;&lt;span&gt;methods can be managed centrally for all authentication scenarios including passwordless, multi-factor authentication and self-service password reset. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods-manage" rel="noopener" target="_blank"&gt;&lt;span&gt;Manage authentication methods for Azure AD&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;IPv6 coming to Azure AD&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Earlier we &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/ipv6-coming-to-azure-ad/ba-p/2967451" rel="noopener" target="_blank"&gt;&lt;span&gt;announced&lt;/span&gt;&lt;/a&gt;&lt;span&gt; our plan to bring IPv6 support to Microsoft Azure AD enabling our customers to reach the Azure AD services over IPv4, IPv6, or dual stack endpoints. This is just a reminder that we&#8217;ll begin introducing IPv6 support into Azure AD services in a phased approach, starting &lt;/span&gt;&lt;strong&gt;&lt;span&gt;March 31st, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;If your networks don&#8217;t support IPv6, you don&#8217;t need to take any action to change your configurations or policies. For most customers, IPv4 won't completely disappear from their digital landscape, so we aren't planning to require IPv6 or to deprioritize IPv4 in any Azure AD features or services. We will continue to share additional guidance on IPv6 enablement in Azure AD at this easy to remember link &lt;/span&gt;&lt;a href="https://aka.ms/azureadipv6" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aka.ms/azureadipv6&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;User Experience Improvements&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Modernizing Terms of Use Experiences&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Starting &lt;/span&gt;&lt;strong&gt;&lt;span&gt;July 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, we&#8217;re modernizing the following Terms of Use end user experiences with an updated PDF viewer and moving the experiences from &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faccount.activedirectory.windowsazure.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca9edd1fc55924c9fff3a08db20e155e5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139924456338871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=CmNvbodLhXFVF8IRUu0NVdnqPzY2dbbAXg8QQHJ%2BClI%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://account.activedirectory.windowsazure.com&lt;/span&gt;&lt;/a&gt; &lt;span&gt;to &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyaccount.microsoft.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca9edd1fc55924c9fff3a08db20e155e5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139924456338871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=Rav%2BzW%2BzDCskFXyovr%2BKc8qTOr2PvLjqpc81uj%2FFGrA%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://myaccount.microsoft.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;View previously accepted terms of use&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Accept or decline terms of use as part of the sign-in flow&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;No functionalities will be removed. The new PDF viewer adds functionality and the limited visual changes in the end-user experiences will be communicated in a future update. If your organization has allow-listed only certain domains, you must ensure your allow-list includes the domains &#8216;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;myaccount.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8217; and &#8216;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;*.myaccount.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8217; for Terms of Use to continue working as expected. For additional information visit &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Ftouuiupdate&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca9edd1fc55924c9fff3a08db20e155e5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139924456338871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=n0CBulp%2FzdRpVID10UlwndJ3nIuQiCRlTvYfWSHZCvw%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aka.ms/touuiupdate&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Improved My Groups Experience&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;A new and improved &lt;/span&gt;&lt;strong&gt;&lt;span&gt;My Groups&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; experience is now available at &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyaccount.microsoft.com%2Fgroups&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7C55453b5a39234763fc9c08db20b56543%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139735706257607%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=bGOxAFCKlGkSTm7JMaQb80%2BpERX6ZtQu4zHPREPbek8%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;myaccount.microsoft.com/groups&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and in &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, the old experience will be deprecated. The previous URL (&lt;/span&gt;&lt;strong&gt;&lt;span&gt;mygroups.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;) will redirect users to the new experience at &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myaccount.microsoft.com/groups&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;My Groups enables end users to easily manage groups, such as finding groups to join, managing groups they own, and managing existing group memberships. Based on customer feedback, we&#8217;ve also added:&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Sorting and filtering on lists of groups and group members&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;A full list of group members in large groups, and&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;An actionable overview page for membership requests&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Today, end users can get the richer benefits of the new My Groups by proactively switching to &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myaccount.microsoft.com/groups&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Navigation between the old and new experiences is available via notification banners on each site.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;This change will automatically occur for all customers and there are no actions that need to be taken.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp; &lt;/span&gt;&lt;span&gt;Learn more at &lt;/span&gt;&lt;a href="https://support.microsoft.com/en-us/account-billing/update-your-groups-info-in-the-my-apps-portal-bc0ca998-6d3a-42ac-acb8-e900fb1174a4" rel="noopener" target="_blank"&gt;&lt;span&gt;Update your Groups info in the My Apps portal - Microsoft Support.&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;My Apps Portal Improvements&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;If your organization uses &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myapps.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; to discover and launch apps, and has set up an allow-list for only specific certificates and/or domains, you&#8217;ll need to update your allow-list in order for app launching to continue working as expected. We&#8217;ve introduced a new endpoint to launch apps for better performance and resilience. App launch requests will go to a new domain: &lt;/span&gt;&lt;strong&gt;&lt;span&gt;launcher.myapps.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;If you use &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myapps.microsoft.com/signin&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; or &lt;/span&gt;&lt;strong&gt;&lt;span&gt;account.activedirectory.windowsazure.com/applications/signin&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; deep links and have allow-listed only certain certificates, you will need to update your allow-list to include certificates from &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myapplications.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. If you have allow-listed only specific domains or IPs, you will need to update the allow-list to include &lt;/span&gt;&lt;strong&gt;&lt;span&gt;launcher.myapps.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Please ensure to update your allow-list latest by &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 30, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; for My Apps portal to continue working as expected.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To easily check if you need to update your certificate allow-list, go to &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyapplications.microsoft.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7C55453b5a39234763fc9c08db20b56543%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139735706257607%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=2iHseQe80Vls9q4NnJZHQG%2BAuAUGg9EBNwdUBBYc7xE%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://myapplications.microsoft.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. If it loads as expected, no update is needed. If you encounter an issue, you&#8217;ll need to make an update.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Whichever method you used to allow-list the My Apps certificate in the past, you should use the same method to allow-list the new one coming from My Apps. Retrieving the My Apps certificate that you need to allow-list will vary depending on the browser you&#8217;re using. On Edge, select the lock icon in the URL bar, to the left of the URL. Then select the option that says &#8220;Connection is secure&#8221; from the dropdown. In the &#8220;Connection is secure&#8221; details, select the certificate icon which will open the Certificate viewer containing the details of the certificate. For additional information visit: &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide" rel="noopener" target="_blank"&gt;&lt;span&gt;Office 365 URLs and IP address ranges - Microsoft 365 Enterprise | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;My Apps Secure Sign In Extension&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, the &lt;/span&gt;&lt;a href="https://support.microsoft.com/en-us/account-billing/sign-in-and-start-apps-from-the-my-apps-portal-2f3b1bae-0e5a-4a86-a33e-876fbd2a4510" rel="noopener" target="_blank"&gt;&lt;span&gt;My Apps Secure Sign In Extension&lt;/span&gt;&lt;/a&gt;&lt;span&gt; will receive an update to align with &lt;/span&gt;&lt;a href="https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/" rel="noopener" target="_blank"&gt;&lt;span&gt;Chromium&#8217;s new Manifest Version 3 format&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Some features that use this extension will experience updates, but no action is needed at this time. These updates are:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;The optional experience &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/one-click-sso-tutorial" rel="noopener" target="_blank"&gt;&lt;span&gt;One-click app configuration of SAML single sign-on&lt;/span&gt;&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;span&gt; which was available for select SAML apps from the Azure Marketplace or Azure AD application gallery, will be &lt;/span&gt;&lt;strong&gt;&lt;span&gt;retired in May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. All applications that were previously configured using this feature will continue to work as expected, and no action is needed at this time.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;My Apps app search behavior will now search across all apps in MyApps and has new launching behavior. When you enter a search term, the My Apps portal will now open in a new tab with your query applied to your list of apps. You can then launch apps from the search results. There will no longer be a &#8220;Recently Used&#8221; section in the extension user experience.&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;App Proxy link translation feature will now use dynamic and session-scoped rules. This introduces a new limit of 2250 unique link translations per&#8239;tenant.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Please ensure you are using the most recent version of the &lt;/span&gt;&lt;a href="https://microsoftedge.microsoft.com/addons/detail/my-apps-secure-signin-ex/gaaceiggkkiffbfdpmfapegoiohkiipl?hl=en-gb" rel="noopener" target="_blank"&gt;&lt;span&gt;Edge Add-on&lt;/span&gt;&lt;/a&gt;&lt;span&gt; or &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fmy-apps-secure-sign-in-ex%2Fggjhpefgjjfobnfoldnjipclpcfbgbhl%3Fhl%3Den-US&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca7720e951ece4d60797e08db20f47c48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638140006661514888%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=NPvjWDuRDaOYhkP51MY3WphlhkaHWHmCv%2B0RAwda1Uk%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;Chrome extension&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Please note, support for the Firefox version of this extension ended in September 2021.&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Azure AD Admin Center will redirect to Microsoft Entra Admin Center&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;April 1, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, Azure AD Admin Center (&lt;/span&gt;&lt;a href="https://aad.portal.azure.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aad.portal.azure.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;) will redirect to Microsoft Entra Admin Center (&lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fentra.microsoft.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7C72fff5ec51a64ba9c7ab08db20f7a854%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638140020336187137%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=W0xFhHVVJlgPS2qVvSFe3H%2ByK5gX4UiY49LocbluqIM%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://entra.microsoft.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;). You will still be able to complete all your Azure AD management tasks from within the new admin center. To ensure uninterrupted access to the management experience, organizations should update their firewall rules as needed. Details on the firewall rules can be found &lt;a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Factive-directory%2Ffundamentals%2Factive-directory-faq%23how-can-i-allow-microsoft-entra-admin-center-urls-on-my-firewall-or-proxy-server-&amp;amp;data=05%7C01%7Csdriggers%40affirma.com%7C8dd6c9d5f5084979e08a08db322b8640%7C65265dd04b2044a4aca4b7ecbb143664%7C0%7C0%7C638158934764612629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=ib2CzRBRXq26lhPaudmHhn4hilNH6acO4RIH%2FCrPPFI%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;here&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Will I still be able to access my Azure AD admin portal after April 1&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;st&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;, 2023?&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;i&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;The Azure AD admin center (&lt;/span&gt;&lt;a href="https://aad.portal.azure.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aad.portal.azure.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;) will continue to function &lt;/span&gt;&lt;strong&gt;&lt;span&gt;until May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. &#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;The Azure portal at &lt;/span&gt;&lt;a href="https://portal.azure.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;https://portal.azure.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt; will also continue to offer Azure AD for Azure customers.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Learn more at &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-admin-center-unifies-azure-ad-with-other-identity-and-access/ba-p/2792595" rel="noopener" target="_blank"&gt;&lt;span&gt;New Admin Center Unifies Azure AD with Other Identity and Access Products - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt; | &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/entra/" rel="noopener" target="_blank"&gt;&lt;span&gt;Microsoft Entra documentation | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Developer Experience Improvements&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Azure AD Graph API&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;We want to reiterate our commitment to ensuring a smooth transition for our customers from Azure AD Graph to Microsoft Graph. As &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-change-announcements-september-2022-train/ba-p/2967454" rel="noopener" target="_blank"&gt;&lt;span&gt;previously announced&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, Azure AD Graph will remain available until &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 30, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. While we reserve the right to retire it at any time after June 2023, we will continue to monitor usage and provide ample time for customers to migrate off the APIs before retiring it. In the meantime, we will continue to offer support for Azure AD Graph with security-related fixes, and we discourage taking production dependencies on Azure AD Graph. All new features and functionalities will only be made in &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/graph/overview" rel="noopener" target="_blank"&gt;&lt;span&gt;Microsoft Graph&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. We encourage all customers to prioritize migration to Microsoft Graph. Learn more at &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/graph/migrate-azure-ad-graph-overview" rel="noopener" target="_blank"&gt;&lt;span&gt;Migrate Azure AD Graph apps to Microsoft Graph - Microsoft Graph | Microsoft Docs&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;PowerShell Deprecation&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As we approach the end of the support period for the three PowerShell Modules - Azure AD, Azure AD Preview, and MSOnline - we want to remind you that the planned deprecation date is &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 30th, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Depending on the status of Azure AD API, some cmdlets might stop working after June 30th, 2023. We will continue to check usage and provide time for customers to migrate off the three PowerShell modules before retiring them. We &lt;/span&gt;&lt;span&gt;will not retire an API/cmdlet unless we have feature parity for that API in Microsoft Graph.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Until we retire, we will continue to support security-related updates. We encourage you to continue migrating to the Microsoft Graph PowerShell SDK, which still is the focus of all our current and future PowerShell investments.&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Learn more at&#8239; &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/powershell/microsoftgraph/migration-steps?view=graph-powershell-1.0" rel="noopener" target="_blank"&gt;&lt;span&gt;Migrate from Azure AD PowerShell to the Microsoft Graph PowerShell SDK documentation&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Licensing Assignment&#8239;API/PowerShell Retirement&#8239;&#8239;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;We want to remind you that the planned retirement date &lt;/span&gt;&lt;span&gt;for the Azure AD Graph and MSOnline PowerShell&#8239;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;licensing assignment&#8239;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;APIs and PowerShell cmdlets for&#8239;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;existing tenants&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8239;is &lt;/span&gt;&lt;strong&gt;&lt;span&gt;March 31, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. APIs and cmdlets will not work for&#8239;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;new tenants&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8239;created after &lt;/span&gt;&lt;strong&gt;&lt;span&gt;November 1, 2022&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;We recommend prioritizing migration to MS Graph following the guidance in &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/migrate-your-apps-to-access-the-license-managements-apis-from/ba-p/2464366" rel="noopener" target="_blank"&gt;&lt;span&gt;Migrate your apps to access the license managements APIs from Microsoft Graph - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and&#8239;in&#8239;&lt;/span&gt;&lt;a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpowershell%2Fmicrosoftgraph%2Fazuread-msoline-cmdlet-map%3Fview%3Dgraph-powershell-1.0&amp;amp;data=05%7C01%7Csdriggers%40affirma.com%7C73fb20f840e14ae8e38008da7181ba14%7C65265dd04b2044a4aca4b7ecbb143664%7C0%7C0%7C637947099251718553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=b5oI1ZtUnTEXTFXaCD0QNaiMgYsQLgQc9%2BQmdIgCDKE%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;Find Azure AD and MSOnline cmdlets in Microsoft Graph PowerShell | Microsoft Docs&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Communication Schedule&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;Below is a quick snapshot of our communication schedule.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Category&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Definition&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Communication schedule&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;Retirement announcement&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;Signals the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;retirement of a feature, capability, or product&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; in a specified period.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Typically, at this point, new customers are not permitted to adopt the service/feature, and engineering investments are reduced for the specified feature.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Later, the feature will no longer be available to any customer as it reaches the &#8220;end-of-life&#8221; state.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;Twice per year&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;(March and September)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;Breaking change announcement, feature change announcement&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Breaking change:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Expected to break the customer/partner experience if the customer doesn&#8217;t act or make a change in their workload for continued operation.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Feature change:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Change to an existing Identity feature&#8203; that doesn't require customer action but is noticeable to the customer. These are typically UI/UX changes.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span&gt;These changes generally happen more often and require a more frequent communication schedule.&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;Four times per year (March, June, September, and November)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Follow ongoing monthly updates on our release notes page: &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new" rel="noopener" target="_blank"&gt;&lt;span&gt;What's new? Release notes - Azure Active Directory - Microsoft Entra | Microsoft Docs&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As always, we&#8217;d love to hear your feedback or suggestions. Let us know what you think in the comments below or on the&#8239;&lt;/span&gt;&lt;a href="https://feedback.azure.com/forums/169401-azure-active-directory" rel="noopener" target="_blank"&gt;&lt;span&gt;Azure AD feedback forum&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt; You may also send your questions, open issues, and feature requests through Microsoft Q&amp;amp;A by using the tag&#8239;&lt;/span&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;#AzureADChangeManagementMar2023Train&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;Learn more about Microsoft Entra:&lt;/i&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Related articles: &lt;/span&gt;&lt;/i&gt;&lt;span&gt;&lt;span&gt;&#8203;&lt;/span&gt;&lt;span&gt;To understand the differences between deprecations and product retirement and meanings of terms like end of support referenced above, please see here: &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/lifecycle/definitions" rel="noopener" target="_blank"&gt;&lt;span&gt;Lifecycle Terms and Definitions - Microsoft Lifecycle | Microsoft Docs&lt;/span&gt;&lt;/a&gt; &lt;span&gt;&#8203;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Return to the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Microsoft Entra / Azure AD blog home&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Feedback Forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Microsoft Priva: Helping you build a privacy resilient workplace.</title>
       <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-priva-helping-you-build-a-privacy-resilient-workplace/ba-p/3793313</link>
@@ -102,42 +520,6 @@
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Entra (Azure AD) forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Bitlocker is not resuming after reboot count has been reached</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</link>
-      <pubDate>Thu, 13 Apr 2023 05:54:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bitlocker-is-not-resuming-after-reboot-count-has-been-reached/ba-p/3794509</guid>
-      <description>&lt;p&gt;Hi,&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;I'm Helmut Wagensonner, a Cloud Solution Architect Engineer at Microsoft. Recently, I ran into an unexpected Bitlocker behavior at a customer. It turned out that this behavior is on purpose so I thought I let you know about it, even if you may never run into it.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;BitLocker is a feature in Windows 10/11 that encrypts your device&#8217;s hard drive to protect your data from unauthorized access. However, there are some scenarios where you may need to suspend BitLocker temporarily, such as when you update your BIOS or firmware using a vendor&#8217;s update utility. When you suspend BitLocker, you can specify how many times your device can restart before BitLocker resumes encryption. This is called the reboot count parameter. You can set this parameter using the PowerShell cmdlet Suspend-BitLocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/suspend-bitlocker?view=windowsserver2022-ps&lt;/a&gt;). Following example would suspend Bitlocker until the client has been rebooted 3 times:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Suspend-Bitlocker -MountPoint "C:" -RebootCount 3
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;However, there is a known issue with BitLocker that you may encounter: BitLocker does not resume automatically after suspending when OOBE (Out of box experience) is not complete. OOBE is the process of setting up your device for the first time after installing Windows 10. This means that your device will remain unprotected until you manually resume BitLocker. To do this, you have the option to use the manage-bde command line tool from an elevated command prompt.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-manage-bde -resume C:
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Or use the Powershell command Resume-Bitlocker (&lt;a href="https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps" target="_blank"&gt;https://learn.microsoft.com/en-us/powershell/module/bitlocker/resume-bitlocker?view=windowsserver2022-ps&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Resume-BitLocker -MountPoint "C:"
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;To check how many reboots are left before BitLocker resumes encryption, you can use the &lt;em&gt;GetSuspendCount&lt;/em&gt; method of the &lt;em&gt;Win32_EncryptableVolume&lt;/em&gt; WMI class (&lt;a href="https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume" target="_blank"&gt;https://learn.microsoft.com/en-us/windows/win32/secprov/getsuspendcount-win32-encryptablevolume&lt;/a&gt;). For example, this PowerShell command will show you the number of reboots left for drive C:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Class Win32_EncryptableVolume -Filter "DriveLetter='C:'" | Invoke-CimMethod -MethodName "GetSuspendCount"
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;As mentioned at the beginning of this blog, you may never run into this issue because there are very few situations where you need to manually suspend Bitlocker when OOBE has not completed. One situation is, for example:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You deploy a Windows 10/11 PC (fresh installation) via Config Manager Task Sequence. You activate Bitlocker during the task sequence.&lt;/li&gt;
-&lt;li&gt;At the end of the installation you need to install device drivers not available on Windows Update. Or you want to update the BIOS with the vendor's update tool.&lt;/li&gt;
-&lt;li&gt;You suspend Bitlocker with the "-rebootcount 1" parameter before you trigger the driver/BIOS installation.&lt;/li&gt;
-&lt;li&gt;You do a manual reboot at the end of the installation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The expected behavior would be, that Bitlocker is active after the reboot (because of the -rebootcount 1 option). However, this may not be the case as no user has logged on to the client before and user OOBE has not completed. Bitlocker remains in suspended mode until manually resumed (i.e. using Powershell&#8217;s resume-bitlocker command).&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Microsoft Secure 2023 Learn Live series is still underway! Join in real-time or watch on demand.</title>
@@ -2446,186 +2828,6 @@ Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Clas
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft Entra Change Announcements &#8211; March 2023 Train</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-change-announcements-march-2023-train/ba-p/2967448</link>
-      <pubDate>Sat, 01 Apr 2023 13:22:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-change-announcements-march-2023-train/ba-p/2967448</guid>
-      <description>&lt;p&gt;&lt;span&gt;Hello everyone,&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Today, we're sharing our March train for feature and breaking changes. We also communicate these changes on &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new" rel="noopener" target="_blank"&gt;&lt;span&gt;release notes&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and via email. We are continuing to make it easier for our customers to manage lifecycle changes (deprecations, retirements, service breaking changes) within the new &lt;/span&gt;&lt;a href="https://entra.microsoft.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;Entra admin center&lt;/span&gt;&lt;/a&gt;&lt;span&gt; as well. In addition, we will be including new feature launch announcements as part of this blog post going forward so you can see both changes to existing features and new features in a single list.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;March 2023 change announcements:&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;Security Improvements&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Number Matching Message Center post refresh&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Microsoft Authenticator app&#8217;s number matching feature has been Generally Available since November 2022. If you haven&#8217;t already leveraged the rollout controls (via Azure Portal Admin UX and MSGraph APIs) to smoothly deploy number matching for users of Microsoft Authenticator push notifications, we highly encourage you to do so. We had previously announced that we will remove the admin controls and enforce the number match experience tenant-wide for all users of Microsoft Authenticator push notifications starting February 27, 2023. After listening to customers, we will extend the availability of the rollout controls for a few more weeks. Organizations can continue to use the existing rollout controls until &lt;/span&gt;&lt;strong&gt;&lt;span&gt;May 8, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, to deploy number matching in their organizations. Microsoft services will start enforcing the number matching experience for all users of Microsoft Authenticator push notifications after May 8th, 2023. We&#8217;ll also remove the rollout controls for number matching after that date.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If customers don&#8217;t enable number match for all Microsoft Authenticator push notifications prior to May 8, 2023, users may experience inconsistent sign ins while the services are rolling out this change. To ensure consistent behavior for all users, we highly recommend you enable number match for Microsoft Authenticator push notifications in advance. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match" rel="noopener" target="_blank"&gt;&lt;span&gt;Number match documentation&lt;/span&gt;&lt;/a&gt;&lt;span&gt; |&#8239;&lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/defend-your-users-from-mfa-fatigue-attacks/ba-p/2365677" rel="noopener" target="_blank"&gt;&lt;span&gt;Defend your users from MFA fatigue attacks - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&#8239;|&#8239;&lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-microsoft-authenticator-security-features-are-now/ba-p/2365673" rel="noopener" target="_blank"&gt;&lt;span&gt;Advanced Microsoft Authenticator security features are now generally available! - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Azure Multifactor Authentication Server&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt; &lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;September 30, 2024&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, Azure Multifactor Authentication Server deployments will no longer service multifactor authentication (MFA) requests, which could cause authentications to fail for your organization. To ensure uninterrupted authentication services and to remain in a supported state, organizations should &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-migrate-mfa-server-to-azure-mfa-user-authentication" rel="noopener" target="_blank"&gt;&lt;span&gt;migrate their users&#8217; authentication data&lt;/span&gt;&lt;/a&gt;&lt;span&gt; to the cloud-based Azure MFA service using the latest Migration Utility included in the most recent &lt;/span&gt;&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=55849" rel="noopener" target="_blank"&gt;&lt;span&gt;Azure MFA Server update&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-migrate-mfa-server-to-azure-mfa-user-authentication" rel="noopener" target="_blank"&gt;&lt;span&gt;Azure MFA Server Migration&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Enabling System-preferred authentication methods&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Today, various authentication methods can be chosen by users as their default. However, not all authentication methods provide the same level of security. This situation creates potential risk for organizations when less secure authentication methods are chosen, especially in place of phishing-resistant methods.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To address this, we&#8217;re introducing &lt;/span&gt;&lt;strong&gt;&lt;span&gt;system-preferred authentication for MFA&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. When enabled, at runtime the most secure authentication method of the user&#8217;s registered methods will be requested as the second factor of authentication. This replaces the previous feature, where the user selects a &#8216;default&#8217; method and is therefore always prompted for that method first, even when more secure methods are registered and available. This functionality is &lt;/span&gt;&lt;strong&gt;&lt;span&gt;available today&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; using &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-system-preferred-multifactor-authentication?branch=pr-en-us-227476#enable-system-preferred-mfa" rel="noopener" target="_blank"&gt;&lt;span&gt;MSGraph API&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Once enabled, users will be prompted to sign in using the most preferred authentication method available. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-system-preferred-multifactor-authentication?branch=pr-en-us-227476" rel="noopener" target="_blank"&gt;&lt;span&gt;System-preferred multifactor authentication (MFA) - Azure Active Directory - Microsoft Entra | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Deprecation of &#8216;Require approved client app&#8217; Conditional Access Grant&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;On March 31, 2026&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, the&lt;/span&gt; &lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-grant#require-approved-client-app" rel="noopener" target="_blank"&gt;&lt;span&gt;Require approved client app&lt;/span&gt;&lt;/a&gt;&lt;strong&gt;&lt;span&gt; control in Azure Active Directory (Azure AD) Conditional Access will be retired and no longer enforced.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Before that date, you&#8217;ll need to transition and start using the &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-grant#require-app-protection-policy" rel="noopener" target="_blank"&gt;&lt;span&gt;Require app protection policy&lt;/span&gt;&lt;/a&gt;&lt;span&gt; control. We encourage you to make the switch sooner to gain the richer benefits of the &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-grant#require-app-protection-policy" rel="noopener" target="_blank"&gt;&lt;span&gt;Require app protection policy&lt;/span&gt;&lt;/a&gt;&lt;span&gt; control, which has all the same capabilities, plus:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;It verifies the corresponding Intune policy.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;It&#8217;s applied before a user is granted access.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;It has a strengthened security posture.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To avoid any disruptions in service&lt;/span&gt;&lt;strong&gt;&lt;span&gt;, &lt;/span&gt;&lt;/strong&gt;&lt;a href="http://aka.ms/RetireApprovedClientApp" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;span&gt;transition&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; &lt;span&gt;to using the&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &#8216;Require app protection policy&#8217; control in Azure AD Conditional Access by March 31, 2026&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. If you have questions, get answers from community experts in&#8239;&lt;/span&gt;&lt;a href="http://aka.ms/ApprovedClientAppRetirementQA" rel="noopener" target="_blank"&gt;&lt;span&gt;Microsoft Q&amp;amp;A&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Retirement of managing authentication methods in legacy Multifactor Authentication (MFA) &amp;amp; Self-Service Password Reset (SSPR) policy&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Se&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span&gt;ptember 30, 2024&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, we will no longer allow authentication methods to be managed in the legacy &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#verification-methods" rel="noopener" target="_blank"&gt;&lt;span&gt;MFA&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks#authentication-methods" rel="noopener" target="_blank"&gt;&lt;span&gt;SSPR&lt;/span&gt;&lt;/a&gt;&lt;span&gt; policies. &lt;/span&gt;&lt;span&gt;Organizations should &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-methods-manage" rel="noopener" target="_blank"&gt;&lt;span&gt;migrate&lt;/span&gt;&lt;/a&gt;&lt;span&gt; their methods to the converged authentication methods policy where &lt;/span&gt;&lt;span&gt;methods can be managed centrally for all authentication scenarios including passwordless, multi-factor authentication and self-service password reset. Learn more at &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods-manage" rel="noopener" target="_blank"&gt;&lt;span&gt;Manage authentication methods for Azure AD&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;IPv6 coming to Azure AD&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Earlier we &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/ipv6-coming-to-azure-ad/ba-p/2967451" rel="noopener" target="_blank"&gt;&lt;span&gt;announced&lt;/span&gt;&lt;/a&gt;&lt;span&gt; our plan to bring IPv6 support to Microsoft Azure AD enabling our customers to reach the Azure AD services over IPv4, IPv6, or dual stack endpoints. This is just a reminder that we&#8217;ll begin introducing IPv6 support into Azure AD services in a phased approach, starting &lt;/span&gt;&lt;strong&gt;&lt;span&gt;March 31st, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If your networks don&#8217;t support IPv6, you don&#8217;t need to take any action to change your configurations or policies. For most customers, IPv4 won't completely disappear from their digital landscape, so we aren't planning to require IPv6 or to deprioritize IPv4 in any Azure AD features or services. We will continue to share additional guidance on IPv6 enablement in Azure AD at this easy to remember link &lt;/span&gt;&lt;a href="https://aka.ms/azureadipv6" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aka.ms/azureadipv6&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;User Experience Improvements&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Modernizing Terms of Use Experiences&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Starting &lt;/span&gt;&lt;strong&gt;&lt;span&gt;July 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, we&#8217;re modernizing the following Terms of Use end user experiences with an updated PDF viewer and moving the experiences from &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faccount.activedirectory.windowsazure.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca9edd1fc55924c9fff3a08db20e155e5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139924456338871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=CmNvbodLhXFVF8IRUu0NVdnqPzY2dbbAXg8QQHJ%2BClI%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://account.activedirectory.windowsazure.com&lt;/span&gt;&lt;/a&gt; &lt;span&gt;to &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyaccount.microsoft.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca9edd1fc55924c9fff3a08db20e155e5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139924456338871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=Rav%2BzW%2BzDCskFXyovr%2BKc8qTOr2PvLjqpc81uj%2FFGrA%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://myaccount.microsoft.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;View previously accepted terms of use&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Accept or decline terms of use as part of the sign-in flow&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;No functionalities will be removed. The new PDF viewer adds functionality and the limited visual changes in the end-user experiences will be communicated in a future update. If your organization has allow-listed only certain domains, you must ensure your allow-list includes the domains &#8216;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;myaccount.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8217; and &#8216;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;*.myaccount.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8217; for Terms of Use to continue working as expected. For additional information visit &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Ftouuiupdate&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca9edd1fc55924c9fff3a08db20e155e5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139924456338871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=n0CBulp%2FzdRpVID10UlwndJ3nIuQiCRlTvYfWSHZCvw%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aka.ms/touuiupdate&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Improved My Groups Experience&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;A new and improved &lt;/span&gt;&lt;strong&gt;&lt;span&gt;My Groups&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; experience is now available at &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyaccount.microsoft.com%2Fgroups&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7C55453b5a39234763fc9c08db20b56543%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139735706257607%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=bGOxAFCKlGkSTm7JMaQb80%2BpERX6ZtQu4zHPREPbek8%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;myaccount.microsoft.com/groups&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and in &lt;/span&gt;&lt;strong&gt;&lt;span&gt;May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, the old experience will be deprecated. The previous URL (&lt;/span&gt;&lt;strong&gt;&lt;span&gt;mygroups.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;) will redirect users to the new experience at &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myaccount.microsoft.com/groups&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;My Groups enables end users to easily manage groups, such as finding groups to join, managing groups they own, and managing existing group memberships. Based on customer feedback, we&#8217;ve also added:&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;Sorting and filtering on lists of groups and group members&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;A full list of group members in large groups, and&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;An actionable overview page for membership requests&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Today, end users can get the richer benefits of the new My Groups by proactively switching to &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myaccount.microsoft.com/groups&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Navigation between the old and new experiences is available via notification banners on each site.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Note: the &#8216;Self Service Group Management&#8217; admin controls will no longer be available for the new My Groups and will be &lt;/span&gt;&lt;strong&gt;&lt;span&gt;deprecated&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; in &lt;/span&gt;&lt;strong&gt;&lt;span&gt;May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Admins can no longer restrict owners or users from accessing or using My Groups. Admins can still manage end users' ability to create M365 and Security groups using the settings described &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-self-service-management" rel="noopener" target="_blank"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;This change will automatically occur for all customers and there are no actions that need to be taken.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp; &lt;/span&gt;&lt;span&gt;Learn more at &lt;/span&gt;&lt;a href="https://support.microsoft.com/en-us/account-billing/update-your-groups-info-in-the-my-apps-portal-bc0ca998-6d3a-42ac-acb8-e900fb1174a4" rel="noopener" target="_blank"&gt;&lt;span&gt;Update your Groups info in the My Apps portal - Microsoft Support.&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;My Apps Portal Improvements&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If your organization uses &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myapps.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; to discover and launch apps, and has set up an allow-list for only specific certificates and/or domains, you&#8217;ll need to update your allow-list in order for app launching to continue working as expected. We&#8217;ve introduced a new endpoint to launch apps for better performance and resilience. App launch requests will go to a new domain: &lt;/span&gt;&lt;strong&gt;&lt;span&gt;launcher.myapps.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If you use &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myapps.microsoft.com/signin&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; or &lt;/span&gt;&lt;strong&gt;&lt;span&gt;account.activedirectory.windowsazure.com/applications/signin&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; deep links and have allow-listed only certain certificates, you will need to update your allow-list to include certificates from &lt;/span&gt;&lt;strong&gt;&lt;span&gt;myapplications.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. If you have allow-listed only specific domains or IPs, you will need to update the allow-list to include &lt;/span&gt;&lt;strong&gt;&lt;span&gt;launcher.myapps.microsoft.com&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Please ensure to update your allow-list latest by &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 30, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; for My Apps portal to continue working as expected.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To easily check if you need to update your certificate allow-list, go to &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyapplications.microsoft.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7C55453b5a39234763fc9c08db20b56543%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638139735706257607%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=2iHseQe80Vls9q4NnJZHQG%2BAuAUGg9EBNwdUBBYc7xE%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://myapplications.microsoft.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. If it loads as expected, no update is needed. If you encounter an issue, you&#8217;ll need to make an update.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Whichever method you used to allow-list the My Apps certificate in the past, you should use the same method to allow-list the new one coming from My Apps. Retrieving the My Apps certificate that you need to allow-list will vary depending on the browser you&#8217;re using. On Edge, select the lock icon in the URL bar, to the left of the URL. Then select the option that says &#8220;Connection is secure&#8221; from the dropdown. In the &#8220;Connection is secure&#8221; details, select the certificate icon which will open the Certificate viewer containing the details of the certificate. For additional information visit: &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide" rel="noopener" target="_blank"&gt;&lt;span&gt;Office 365 URLs and IP address ranges - Microsoft 365 Enterprise | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;My Apps Secure Sign In Extension&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, the &lt;/span&gt;&lt;a href="https://support.microsoft.com/en-us/account-billing/sign-in-and-start-apps-from-the-my-apps-portal-2f3b1bae-0e5a-4a86-a33e-876fbd2a4510" rel="noopener" target="_blank"&gt;&lt;span&gt;My Apps Secure Sign In Extension&lt;/span&gt;&lt;/a&gt;&lt;span&gt; will receive an update to align with &lt;/span&gt;&lt;a href="https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/" rel="noopener" target="_blank"&gt;&lt;span&gt;Chromium&#8217;s new Manifest Version 3 format&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Some features that use this extension will experience updates, but no action is needed at this time. These updates are:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;The optional experience &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/one-click-sso-tutorial" rel="noopener" target="_blank"&gt;&lt;span&gt;One-click app configuration of SAML single sign-on&lt;/span&gt;&lt;/a&gt;&lt;span&gt;,&lt;/span&gt;&lt;span&gt; which was available for select SAML apps from the Azure Marketplace or Azure AD application gallery, will be &lt;/span&gt;&lt;strong&gt;&lt;span&gt;retired in May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. All applications that were previously configured using this feature will continue to work as expected, and no action is needed at this time.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;My Apps app search behavior will now search across all apps in MyApps and has new launching behavior. When you enter a search term, the My Apps portal will now open in a new tab with your query applied to your list of apps. You can then launch apps from the search results. There will no longer be a &#8220;Recently Used&#8221; section in the extension user experience.&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;App Proxy link translation feature will now use dynamic and session-scoped rules. This introduces a new limit of 2250 unique link translations per&#8239;tenant.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Please ensure you are using the most recent version of the &lt;/span&gt;&lt;a href="https://microsoftedge.microsoft.com/addons/detail/my-apps-secure-signin-ex/gaaceiggkkiffbfdpmfapegoiohkiipl?hl=en-gb" rel="noopener" target="_blank"&gt;&lt;span&gt;Edge Add-on&lt;/span&gt;&lt;/a&gt;&lt;span&gt; or &lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fmy-apps-secure-sign-in-ex%2Fggjhpefgjjfobnfoldnjipclpcfbgbhl%3Fhl%3Den-US&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7Ca7720e951ece4d60797e08db20f47c48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638140006661514888%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=NPvjWDuRDaOYhkP51MY3WphlhkaHWHmCv%2B0RAwda1Uk%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;Chrome extension&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Please note, support for the Firefox version of this extension ended in September 2021.&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Azure AD Admin Center will redirect to Microsoft Entra Admin Center&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Beginning &lt;/span&gt;&lt;strong&gt;&lt;span&gt;April 1, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, Azure AD Admin Center (&lt;/span&gt;&lt;a href="https://aad.portal.azure.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aad.portal.azure.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;) will redirect to Microsoft Entra Admin Center (&lt;/span&gt;&lt;a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fentra.microsoft.com%2F&amp;amp;data=05%7C01%7Cedwardyang%40microsoft.com%7C72fff5ec51a64ba9c7ab08db20f7a854%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638140020336187137%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=W0xFhHVVJlgPS2qVvSFe3H%2ByK5gX4UiY49LocbluqIM%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;https://entra.microsoft.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;). You will still be able to complete all your Azure AD management tasks from within the new admin center. To ensure uninterrupted access to the management experience, organizations should update their firewall rules as needed. Details on the firewall rules can be found &lt;a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Factive-directory%2Ffundamentals%2Factive-directory-faq%23how-can-i-allow-microsoft-entra-admin-center-urls-on-my-firewall-or-proxy-server-&amp;amp;data=05%7C01%7Csdriggers%40affirma.com%7C8dd6c9d5f5084979e08a08db322b8640%7C65265dd04b2044a4aca4b7ecbb143664%7C0%7C0%7C638158934764612629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=ib2CzRBRXq26lhPaudmHhn4hilNH6acO4RIH%2FCrPPFI%3D&amp;amp;reserved=0" target="_blank"&gt;here&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Will I still be able to access my Azure AD admin portal after April 1&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;st&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;, 2023?&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;i&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;The Azure AD admin center (&lt;/span&gt;&lt;a href="https://aad.portal.azure.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;https://aad.portal.azure.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;) will continue to function &lt;/span&gt;&lt;strong&gt;&lt;span&gt;until May 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. &#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;The Azure portal at &lt;/span&gt;&lt;a href="https://portal.azure.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;https://portal.azure.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt; will also continue to offer Azure AD for Azure customers.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Learn more at &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-admin-center-unifies-azure-ad-with-other-identity-and-access/ba-p/2792595" rel="noopener" target="_blank"&gt;&lt;span&gt;New Admin Center Unifies Azure AD with Other Identity and Access Products - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt; | &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/entra/" rel="noopener" target="_blank"&gt;&lt;span&gt;Microsoft Entra documentation | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Developer Experience Improvements&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Azure AD Graph API&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We want to reiterate our commitment to ensuring a smooth transition for our customers from Azure AD Graph to Microsoft Graph. As &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-change-announcements-september-2022-train/ba-p/2967454" rel="noopener" target="_blank"&gt;&lt;span&gt;previously announced&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, Azure AD Graph will remain available until &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 30, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. While we reserve the right to retire it at any time after June 2023, we will continue to monitor usage and provide ample time for customers to migrate off the APIs before retiring it. In the meantime, we will continue to offer support for Azure AD Graph with security-related fixes, and we discourage taking production dependencies on Azure AD Graph. All new features and functionalities will only be made in &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/graph/overview" rel="noopener" target="_blank"&gt;&lt;span&gt;Microsoft Graph&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. We encourage all customers to prioritize migration to Microsoft Graph. Learn more at &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/graph/migrate-azure-ad-graph-overview" rel="noopener" target="_blank"&gt;&lt;span&gt;Migrate Azure AD Graph apps to Microsoft Graph - Microsoft Graph | Microsoft Docs&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;PowerShell Deprecation&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;As we approach the end of the support period for the three PowerShell Modules - Azure AD, Azure AD Preview, and MSOnline - we want to remind you that the planned deprecation date is &lt;/span&gt;&lt;strong&gt;&lt;span&gt;June 30th, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Depending on the status of Azure AD API, some cmdlets might stop working after June 30th, 2023. We will continue to check usage and provide time for customers to migrate off the three PowerShell modules before retiring them. We &lt;/span&gt;&lt;span&gt;will not retire an API/cmdlet unless we have feature parity for that API in Microsoft Graph.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Until we retire, we will continue to support security-related updates. We encourage you to continue migrating to the Microsoft Graph PowerShell SDK, which still is the focus of all our current and future PowerShell investments.&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Learn more at&#8239; &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/powershell/microsoftgraph/migration-steps?view=graph-powershell-1.0" rel="noopener" target="_blank"&gt;&lt;span&gt;Migrate from Azure AD PowerShell to the Microsoft Graph PowerShell SDK documentation&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Licensing Assignment&#8239;API/PowerShell Retirement&#8239;&#8239;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We want to remind you that the planned retirement date &lt;/span&gt;&lt;span&gt;for the Azure AD Graph and MSOnline PowerShell&#8239;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;licensing assignment&#8239;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;APIs and PowerShell cmdlets for&#8239;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;existing tenants&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8239;is &lt;/span&gt;&lt;strong&gt;&lt;span&gt;March 31, 2023&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. APIs and cmdlets will not work for&#8239;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;new tenants&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&#8239;created after &lt;/span&gt;&lt;strong&gt;&lt;span&gt;November 1, 2022&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We recommend prioritizing migration to MS Graph following the guidance in &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/migrate-your-apps-to-access-the-license-managements-apis-from/ba-p/2464366" rel="noopener" target="_blank"&gt;&lt;span&gt;Migrate your apps to access the license managements APIs from Microsoft Graph - Microsoft Community Hub&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and&#8239;in&#8239;&lt;/span&gt;&lt;a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpowershell%2Fmicrosoftgraph%2Fazuread-msoline-cmdlet-map%3Fview%3Dgraph-powershell-1.0&amp;amp;data=05%7C01%7Csdriggers%40affirma.com%7C73fb20f840e14ae8e38008da7181ba14%7C65265dd04b2044a4aca4b7ecbb143664%7C0%7C0%7C637947099251718553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=b5oI1ZtUnTEXTFXaCD0QNaiMgYsQLgQc9%2BQmdIgCDKE%3D&amp;amp;reserved=0" rel="noopener" target="_blank"&gt;&lt;span&gt;Find Azure AD and MSOnline cmdlets in Microsoft Graph PowerShell | Microsoft Docs&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;span&gt;Communication Schedule&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;span&gt;Below is a quick snapshot of our communication schedule.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Category&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Definition&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Communication schedule&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Retirement announcement&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Signals the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;retirement of a feature, capability, or product&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; in a specified period.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Typically, at this point, new customers are not permitted to adopt the service/feature, and engineering investments are reduced for the specified feature.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Later, the feature will no longer be available to any customer as it reaches the &#8220;end-of-life&#8221; state.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Twice per year&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;(March and September)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Breaking change announcement, feature change announcement&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Breaking change:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Expected to break the customer/partner experience if the customer doesn&#8217;t act or make a change in their workload for continued operation.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Feature change:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Change to an existing Identity feature&#8203; that doesn't require customer action but is noticeable to the customer. These are typically UI/UX changes.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;&lt;span&gt;These changes generally happen more often and require a more frequent communication schedule.&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Four times per year (March, June, September, and November)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Follow ongoing monthly updates on our release notes page: &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new" rel="noopener" target="_blank"&gt;&lt;span&gt;What's new? Release notes - Azure Active Directory - Microsoft Entra | Microsoft Docs&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;As always, we&#8217;d love to hear your feedback or suggestions. Let us know what you think in the comments below or on the&#8239;&lt;/span&gt;&lt;a href="https://feedback.azure.com/forums/169401-azure-active-directory" rel="noopener" target="_blank"&gt;&lt;span&gt;Azure AD feedback forum&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt; You may also send your questions, open issues, and feature requests through Microsoft Q&amp;amp;A by using the tag&#8239;&lt;/span&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;#AzureADChangeManagementMar2023Train&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;Learn more about Microsoft Entra:&lt;/i&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Related articles: &lt;/span&gt;&lt;/i&gt;&lt;span&gt;&lt;span&gt;&#8203;&lt;/span&gt;&lt;span&gt;To understand the differences between deprecations and product retirement and meanings of terms like end of support referenced above, please see here: &lt;/span&gt;&lt;a href="https://docs.microsoft.com/en-us/lifecycle/definitions" rel="noopener" target="_blank"&gt;&lt;span&gt;Lifecycle Terms and Definitions - Microsoft Lifecycle | Microsoft Docs&lt;/span&gt;&lt;/a&gt; &lt;span&gt;&#8203;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Return to the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Microsoft Entra / Azure AD blog home&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Feedback Forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Managing and Optimizing Your Azure Hybrid Benefit Usage (With Tools!)</title>
@@ -8146,48 +8348,6 @@ StorageReplicationHealth_CL
 &lt;li&gt;&lt;a href="https://support.microsoft.com/en-US" rel="noopener" target="_blank"&gt;Microsoft Support&lt;/a&gt; (Knowledge Base)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/archive/" rel="noopener" target="_blank"&gt;Microsoft Archived Content&lt;/a&gt; (MSDN/TechNet blogs, MSDN Magazine, MSDN Newsletter, TechNet Newsletter)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Which Microsoft community is right for me?</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/which-microsoft-community-is-right-for-me/ba-p/3757550</link>
-      <pubDate>Fri, 03 Mar 2023 19:22:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/which-microsoft-community-is-right-for-me/ba-p/3757550</guid>
-      <description>&lt;p&gt;In the last five years, Microsoft has increased the emphasis on community programs &#8211; specifically within the security, compliance, and management space.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;These communities fall into two categories: Public and Private (or NDA only). In this blog, we will share a breakdown of each community and how to join.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What is community?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;First let&#8217;s cover what community is. Our community programs enable potential and current customers or partners to directly connect with Microsoft engineers and other security professionals. In this program, Microsoft shares best practices, what&#8217;s new, and what&#8217;s under development, while our members share their related product experiences, needs, and recommendations. Microsoft uses this program to put the customer at the center of product development and ultimately create better products and solutions.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solution areas covered:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cloud Security&lt;/li&gt;
-&lt;li&gt;SIEM&lt;/li&gt;
-&lt;li&gt;XDR&lt;/li&gt;
-&lt;li&gt;Compliance&lt;/li&gt;
-&lt;li&gt;Windows and Intune&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Best fit for the Public Community:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;There are no prerequisites to join our Microsoft Public Community.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;This is a great place for &lt;u&gt;any person to learn more about our products, what is new, and grow their expertise&lt;/u&gt; on these solutions and use cases. By signing up for the mailing list, you will be invited to learn more about our products through deep, technical webinars directly with our engineering team. You can also see on-demand videos and past recordings along with relevant presentation materials. Ninja training and certification programs are also accessible through this platform.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;You can join our public community at: &lt;a href="https://aka.ms/SecurityCommunity" rel="noopener" target="_blank"&gt;https://aka.ms/SecurityCommunity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Best fit for the Private Community:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Private community does have prerequisites to join. You must possess deep technical knowledge in one or more of the solutions areas above. You must be willing to dedicate time and provide continuous, actionable, feedback and recommendations to improve Microsoft solutions. Lastly, your organization must have an existing Non-Disclosure Agreement (NDA) with Microsoft.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;By being a part of private community, you will gain access to roadmaps, focus groups and private preview features. You will be able to share your input directly to engineering before new features go public. This platform also allows you to network with Microsoft engineering teams and fellow community participants. Because of the dedication required, this community program also allows you to earn digital badge recognitions based on your activity and contributions in the community.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;You can join our private community of choice at: &lt;a href="https://aka.ms/joinccp" rel="noopener" target="_blank"&gt;https://aka.ms/joinccp&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;A quick data sheet has been attached below.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Other helpful blog posts:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-new-microsoft-security-customer-connection-program-ccp/ba-p/3733595" rel="noopener" target="_blank"&gt;The New Microsoft Security Customer Connection Program (CCP) - Microsoft Community Hub&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-microsoft-security-wants-to-help-you-take-your-fandom-and/ba-p/3745057" rel="noopener" target="_blank"&gt;How Microsoft Security wants to help you take your fandom and turn it into global influence! - Microsoft Community Hub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
     </item>
     <item>
@@ -13847,119 +14007,6 @@ AZFWNetworkRule
 &lt;p&gt;&lt;em&gt;Microsoft Defender for Endpoint is an industry-leading, cloud-powered endpoint security solution offering vulnerability management, endpoint protection, endpoint detection and response, and mobile threat defense&amp;nbsp;in a single unified platform. With our solution, threats are no match. If you are not yet taking advantage of Microsoft&#8217;s unrivaled threat optics and proven capabilities,&#8239;&lt;/em&gt;&lt;a href="https://www.microsoft.com/microsoft-365/security/endpoint-defender" rel="noopener" target="_blank"&gt;&lt;em&gt;&lt;u&gt;sign up for a free trial&lt;/u&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&#8239;of Microsoft Defender for Endpoint today.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Microsoft Defender for Endpoint team&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New network-based detections and improved device discovery using Zeek</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</link>
-      <pubDate>Mon, 28 Nov 2022 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111</guid>
-      <description>&lt;p&gt;Organizations are finding network-based attacks becoming an increasingly popular way of infiltrating systems because they often leave minimal traces on source and target devices. &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;At Microsoft Ignite 2022, we announced partnering with Zeek&lt;/a&gt;, an open-source network security monitoring platform, and its corporate sponsor, Corelight, to help security teams combat these attacks more effectively.&amp;nbsp; As a result, &lt;a href="https://corelight.com/about-zeek/how-zeek-works" rel="noopener" target="_blank"&gt;Zeek&lt;/a&gt; is now integrated as a component within Microsoft Defender for Endpoint.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides new levels of network analysis capabilities based on deep inspection of network traffic powered by Zeek, a powerful open-source network analysis engine that allows researchers to tackle sophisticated network-based attacks in ways that weren't possible before. Administrators onboarding endpoints to Defender for Endpoint can now monitor inbound and outbound traffic with a novel engine that is capable of:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Session A&lt;/strong&gt;&lt;strong&gt;wareness&lt;/strong&gt; - Being able to aggregate network protocol data across an entire TCP/UDP session, such as NTLM and Kerberos authentications, SSH sessions, FTP connections, and RPC. These aggregated protocol insights provide much richer metadata and extracted payloads that can be used to enhance the detection capabilities of network-based attacks, as well as the passive classification of discovered devices.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dynamic Protocol Detection&lt;/strong&gt; - Being able to detect attacks even on non-default ports, a common pattern attackers use to hide their network traffic.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dynamic Scripting Content&lt;/strong&gt; - Being able to add new detections on the fly using Zeek scripts, backed by a wide community of security advocates. This unlocks the ability to react to emerging network-based threats such as Log4Shell and PrintNightmare at unprecedented speed. In a reality where new vulnerabilities are discovered on a weekly basis, this is a true game changer.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;While Zeek has been around for over 20 years, the software has traditionally run on Unix-like operating systems such as Linux, FreeBSD, and macOS. As part of the new partnership between Microsoft and Corelight, we extended Zeek to support Windows-based systems. This is a non-trivial engineering effort - which &lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;we are excited to contribute back to the open-source community&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Supercharging Defender for Endpoint with Zeek&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The integration of Zeek into Microsoft Defender for Endpoint provides a powerful ability to detect malicious activity in a way that enhances our existing endpoint security capabilities, as well as enables a more accurate and complete discovery of endpoints &amp;amp; IoT devices.&amp;nbsp;&lt;br /&gt;Using Zeek, Defender for Endpoint will collect network events used for detections, posture and device discovery and will adhere to the Microsoft privacy practices that Defender for Endpoint upholds today.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Network-based Detection of Malicious Activity&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;With many attacks only visible at the network layer, continuously monitoring and analyzing network activity is critical. Attackers that utilize their own network stack can often bypass existing endpoint-based detections, but they cannot hide their network footprint. Providing visibility into the network layer, using both incoming and outgoing traffic from each endpoint, broadens the ability to protect devices operating on the network even if they are not onboarded to Defender for Endpoint, by detecting attacks initiated by these devices, as well as discovering vulnerable services and operating system versions running on them. Moreover, being deployed on endpoints allows admins to compose non-network telemetry such as process and file actions into network-based detections to give richer context into suspicious network activity.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Accurate signals of malicious network activity are important for identifying an attack campaign at the early stages of exploration and lateral movement, which can lead to stopping an attack in its infancy.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Below are more details on the first two Zeek-based detections now deployed to Defender for Endpoint:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PrintNightmare detection&lt;/strong&gt; - This detection identifies PrintNightmare exploitation attempts. The PrintNightmare Zeek script identifies the usage of the RPC functions used to install a remote printer driver. We further contextualize this action with additional endpoint and network-based telemetry and rely on the behavioral profiles of existing network entities in the organization to cover both inbound and outbound attacks and reduce false positive rates to the lowest possible extent.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_0-1669138459801.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420636i1B22BA9116DE910D/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_0-1669138459801.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 1 - A PrintNightmare Alert Example&lt;/em&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Proprietary password spray detection&lt;/strong&gt; - Using Zeek&#8217;s out-of-the-box NTLM analyzer, Microsoft Defender for Endpoint can now identify attackers that are trying to authenticate to a machine with many different users as part of a password spray attack, while using different NTLM-based protocols such as SMB, Telnet, HTTP, RPC, or WINRM. Zeek&#8217;s ability to provide the session context comes into play and allows the detection logic to take different handshake parameters into account, thus making it much more accurate.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_1-1669138459810.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420637i3F41B9A576F59AA0/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_1-1669138459810.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 2 - A Password Spray Alert Example&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The two above-mentioned detections are just a few examples that demonstrate how the new traffic parsing and processing capabilities of this new integration boost the detection coverage, reaching attack types that were so far undetectable.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Device Discovery Enhancements&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;In addition to these new detections, the integration also enhances Defender for Endpoint&#8217;s passive device discovery capabilities by utilizing many widely used protocols that are supported out of the box, including the below:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NTLM&lt;/strong&gt; - The NTLM authentication protocol involves both client and server devices sending their hostname, domain name, and operating system version. This is highly valuable data when it comes to device discovery. Zeek aggregates and reports this information for both sides on the NTLM transaction.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_2-1669138459831.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420638i7DD157FE2201E7E1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_2-1669138459831.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SSH&lt;/strong&gt; - Zeek monitors SSH protocol traffic and parses out the server version string. This string often includes the version of the SSH server software and the host operating system version.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_3-1669138459838.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420640i833BB14D5A295553/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_3-1669138459838.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;FTP&lt;/strong&gt; - FTP servers usually respond with a code 220 response after a successful TCP handshake. This means that the server is ready to serve a new user. As part of the code 220 response, a response message is sent which typically contains identifying information about the FTP server.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_4-1669138459848.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420641iE762D0AC01ADFAC1/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_4-1669138459848.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Zeek Performance on Endpoints&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Although the Zeek engine runs very efficiently, it is designed to run on a dedicated machine where it can consume all its resources to achieve the highest processing throughput of network traffic. To minimize the system resource requirements for the Zeek integration, within the Microsoft Defender for Endpoint agent, Zeek runs in a system-controlled process that automatically regulates its consumed resources. Using an intelligent throttling mechanism that kicks in whenever there&#8217;s a spike in network traffic, the agent can automatically reduce the number of packets Zeek processes depending on the system resource utilization. This also means that the agent&#8217;s impact on the network volume is being regulated. We were able to test the resource utilization across various large-scale organizations and determine that the impact was minimal as shown in Figure 3.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-left" style="width: 999px;"&gt;&lt;img alt="eladsolomon_5-1669138459851.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420639iC47BBCE7304324AC/image-size/large?v=v2&amp;amp;px=999" title="eladsolomon_5-1669138459851.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;em&gt;Figure 3 - The effect that intelligent throttling had on memory usage of Zeek integration in MDE&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;In conclusion, the integration of Zeek into Microsoft Defender for Endpoint delivers a new platform that provides a set of powerful network discovery and detection capabilities across Windows endpoints using unprecedented visibility into network traffic that allows new ways to protect your endpoints against advanced network-based attacks. On top of that, it also unlocks the ability to react to new network-based threats faster than ever thanks to its scripting ability and community-backed content, so when &#8220;the next Log4Shell&#8221; comes, Defender for Endpoint will be even better prepared to protect.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Differentiation with current NDR solutions&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Customers that have a Network Detection and Response (NDR) solution deployed in their network might wonder how the new integration impacts the need for NDR. To that end, we wish to shed additional light on the different goals of NDR and the new integration: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Zeek in Microsoft Defender for Endpoint does not replace traditional NDR solutions. On the contrary, it&#8217;s a complementary data source providing network signals that otherwise might be missed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Neither data source is sufficient on its own, given the sophistication of advanced attacks and the rising number of unmanaged/unmanageable endpoints on the Internet. Microsoft recommends that security teams combine both data sources - endpoint for depth, and network for breadth - to gain full visibility across all parts of the network.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If you've already deployed Zeek / Corelight for NDR, or are planning to, this integration enhances your investment because analysts can rely on the same underlying tech and data format, regardless of the point of collection.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;More information&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Understand which versions of the Microsoft Defender for Endpoint agent support the new integration here:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-endpoint?view=o365-worldwide#november-2022" rel="noopener" target="_blank"&gt;What's new in Microsoft Defender for Endpoint | Microsoft Learn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Find out more details about the integration in our ZeekWeek 2022 presentations:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EFBcnk25XeA" rel="noopener" target="_blank"&gt;ZeekWeek 2022 - Zeek for Windows: The Journey to Run on All Endpoints - Elad Solomon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=TqMHU_9IzXs" target="_self"&gt;&lt;u&gt;ZeekWeek 2022 - Zeek for Endpoint: Detection and Device Discovery - Boaz Wasserman&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;View the open-source contribution in Zeek&#8217;s GitHub repository:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/zeek/zeek/pull/2518" target="_self"&gt;&lt;u&gt;Microsoft's Port of Zeek for Windows - zeek/zeek (github.com)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Previous announcements:
-&lt;ul&gt;
-&lt;li&gt;Ignite: &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-announcements-at-microsoft/ba-p/3646025" rel="noopener" target="_blank"&gt;Microsoft Defender for Endpoint Announcements at Microsoft Ignite 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Corelight: &lt;a href="https://corelight.com/company/zeek-now-component-of-microsoft-windows?hsLang=en" rel="noopener" target="_blank"&gt;Zeek is Now a Component of Microsoft Windows (corelight.com)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Zeek Project: &lt;a href="https://community.zeek.org/t/a-few-questions-and-answers-on-zeek-and-windows/" rel="noopener" target="_blank"&gt;A few questions and answers on Zeek and Windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Azure DDoS IP Protection is Now Available in Public Preview</title>
