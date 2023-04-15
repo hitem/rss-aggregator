@@ -2,19 +2,42 @@
 <html>
 <head>
 	<title>RSS Aggregator</title>
+	<meta charset="UTF-8">
 	<style>
-		body {
-			display: flex;
-			flex-direction: column;
-			align-items: center;
-			justify-content: center;
-			height: 100vh;
-			margin: 0;
-			background-color: black;
-			color: white;
-			font-family: monospace;
+	body {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		height: 100vh;
+		margin: 0;
+		background-color: black;
+		color: white;
+		font-family: monospace;
+	}
+
+	pre {
+		animation: rainbow 5s ease infinite;
+		background: linear-gradient(to right, #ff2a68, #ff8f00, #ffef00, #00f700, #00f7f7, #8200ff, #ff008a);
+		background-size: 400% 400%;
+		-webkit-background-clip: text;
+		-moz-background-clip: text;
+		background-clip: text;
+		color: transparent;
+	}
+
+	@keyframes rainbow {
+		0% {
+			background-position: 0 50%;
 		}
-	</style>
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0 50%;
+		}
+	}
+</style>
 </head>
 <body>
 	<pre>
