@@ -3,11 +3,11 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Apr 2023 14:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2023 15:08:07 GMT</lastBuildDate>
     <item>
       <title>Azure Monitor: Use Dynamic Thresholds in Log Alerts</title>
       <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-use-dynamic-thresholds-in-log-alerts/ba-p/3792066</link>
-      <pubDate>Mon, 17 Apr 2023 07:00:00 GMT</pubDate>
+      <pubDate>Mon, 17 Apr 2023 15:04:33 GMT</pubDate>
       <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-use-dynamic-thresholds-in-log-alerts/ba-p/3792066</guid>
       <description>&lt;p&gt;Hello howdy readers&amp;nbsp;&lt;img alt=":smile:" class="lia-deferred-image lia-image-emoji" src="https://techcommunity.microsoft.com/html/@8341BD79091AF36AA2A09063B554B5CD/images/emoticons/smile_40x40.gif" title=":smile:" /&gt;&lt;/p&gt;
 &lt;p&gt;It has been a while since my last post, and I decided that the time of writing a new one will come up.&lt;/p&gt;
@@ -23,8 +23,6 @@
 &lt;h1&gt;Query #1: Number of processors&lt;/h1&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 InsightsMetrics
 | where Origin == "vm.azm.ms"
 | where Name == "UtilizationPercentage"
@@ -32,14 +30,9 @@ InsightsMetrics
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="BrunoGabrielli_0-1681196545705.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459391i02EA7EB24AD9CC3A/image-size/large?v=v2&amp;amp;px=999" title="BrunoGabrielli_0-1681196545705.png" /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h1&gt;&amp;nbsp;&lt;/h1&gt;
 &lt;h1&gt;Query #2: Memory size&lt;/h1&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 InsightsMetrics
@@ -49,22 +42,15 @@ InsightsMetrics
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="BrunoGabrielli_1-1681196545710.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459392i74D92D90E89EACA7/image-size/large?v=v2&amp;amp;px=999" title="BrunoGabrielli_1-1681196545710.png" /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h1&gt;&amp;nbsp;&lt;/h1&gt;
 &lt;h1&gt;Query #3: Disks size&lt;/h1&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 InsightsMetrics
 | where Origin == "vm.azm.ms"
 | where Name == "FreeSpaceMB"
 | summarize arg_max(TimeGenerated, *) by Computer
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -118,9 +104,6 @@ InsightsMetrics
 &lt;p&gt;We can use the &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/letstatement" rel="noopener" target="_blank"&gt;let statement&lt;/a&gt; to set a &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/schema-entities/views" rel="noopener" target="_blank"&gt;view&lt;/a&gt; containing the computer name and the corresponding memory size. We can use a modified version of query #2 to reach this part of the goal:&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 let memSizing = InsightsMetrics
 | where Origin == "vm.azm.ms"
 | where Name == "AvailableMB"
@@ -129,16 +112,10 @@ let memSizing = InsightsMetrics
 | distinct Computer, memorySizeMB;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;ol start="2"&gt;
 &lt;li&gt;Set the threshold:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Threshold can be set in the query that will actively look for the alert condition. Hence, once the current value has been retrieved, we can join this info with the view created in the previous step based on the computer name. At this point we just have to &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/extendoperator" rel="noopener" target="_blank"&gt;extend&lt;/a&gt; a variable with the threshold value calculated using the &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/casefunction" rel="noopener" target="_blank"&gt;case&lt;/a&gt; function. As an example, the partial query to achieve this second part of the goal would look like:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 InsightsMetrics| where Origin == "vm.azm.ms"
@@ -153,13 +130,7 @@ InsightsMetrics| where Origin == "vm.azm.ms"
                             3072)
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;At this point, since we have all the necessary information, why not set up a percentage value as an additional threshold? Our alert could fire up either if the available memory drops below the Mbytes threshold or below the percentage threshold. Adding the below line (like the extend &lt;strong&gt;&lt;em&gt;mbThreshold&lt;/em&gt;&lt;/strong&gt; will do the trick:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 | extend percThreshold = case(memorySizeMB &amp;lt;= 4096, 10,
@@ -167,9 +138,6 @@ InsightsMetrics| where Origin == "vm.azm.ms"
                               memorySizeMB &amp;lt;= 16384, 8,
                               memorySizeMB &amp;lt;= 32768, 7,
                               6)
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;ol start="3"&gt;
@@ -180,43 +148,22 @@ InsightsMetrics| where Origin == "vm.azm.ms"
 &lt;p style="padding-left: 30px; padding-right: 30px; background: #e2daf1;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 | extend freePercentage = (freeMb / memorySizeMB) * 100
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;At this point we are ready to compare and &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/projectoperator" rel="noopener" target="_blank"&gt;project&lt;/a&gt; the results by adding the comparison logic:&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 | where freeMb &amp;lt; mbThreshold or freePercentage &amp;lt; percThreshold
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;And the presentation logic:&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 | project TimeGenerated, Computer, memorySizeMB, percThreshold, freePercentage, mbThreshold, freeMb
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;The final query would look like this (first line with comments is optional):&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 // ## AVAILABLE MEMORY (FreeMb or %) - INSIGHTSMETRICS - WINDOWS &amp;amp; LINUX SERVERS WITH DYNAMIC THRESHOLDS
@@ -246,13 +193,7 @@ InsightsMetrics
     freeMb
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Using the same concepts, you can create dynamic threshold log alerts for low free disk space. A sample query would look like:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 // ## DISK SPACE (FreeMb or %) - INSIGHTSMETRICS - WINDOWS &amp;amp; LINUX SERVERS WITH DYNAMIC THRESHOLDS
@@ -268,9 +209,6 @@ InsightsMetrics
 | where Origin == "vm.azm.ms"
 | where Name == "FreeSpacePercentage"
 | extend diskUnit = tostring(parse_json(Tags).["vm.azm.ms/mountId"])// ## Start of exclusion list// ## End of exclusion list| summarize (TimeGenerated, freePerc) = arg_max(TimeGenerated, Val) by Computer, diskUnit, _ResourceId| join (diskSizeAndFreeSpaceMb) on Computer, diskUnit| extend percThreshold = case(    diskSizeMb &amp;lt;= 51200, 10.0, //50Gb    diskSizeMb &amp;lt;= 102400, 8.0, //100 Gb    diskSizeMb &amp;lt;= 204800, 6.0, //200 Gb    diskSizeMb &amp;lt;= 307200, 4.0, //300 Gb    diskSizeMb &amp;lt;= 1024000, 2.0, //1Tb    0.5)| extend mbThreshold = case(    diskSizeMb &amp;lt;= 51200, 200, //50Gb    diskSizeMb &amp;lt;= 102400, 1024, //100 Gb    diskSizeMb &amp;lt;= 204800, 2048, //200 Gb    diskSizeMb &amp;lt;= 307200, 3072, //300 Gb    diskSizeMb &amp;lt;= 1024000, 10240, //1Tb    20480)| extend percThreshold = iif((_ResourceId contains "microsoft.compute/virtualmachines") and (diskUnit == "D:"), 0.0, percThreshold)| extend mbThreshold = iif((_ResourceId contains "microsoft.compute/virtualmachines") and (diskUnit == "D:"), 0, mbThreshold)| where freePerc &amp;lt; percThreshold or freeMB &amp;lt; mbThreshold| project TimeGenerated, Computer, diskUnit, diskSizeMb, percThreshold, freePerc, mbThreshold, freeMB| sort by Computer asc, Unit asc
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;I am sure you also noted one more advantage (maybe from the comment line at the top of the query): this query can be used for both Window and Linux operating systems thanks to VM Insights&amp;nbsp;&lt;img alt=":smile:" class="lia-deferred-image lia-image-emoji" src="https://techcommunity.microsoft.com/html/@8341BD79091AF36AA2A09063B554B5CD/images/emoticons/smile_40x40.gif" title=":smile:" /&gt;&lt;/p&gt;
