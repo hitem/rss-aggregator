@@ -3,7 +3,283 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Apr 2023 06:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2023 07:07:09 GMT</lastBuildDate>
+    <item>
+      <title>Azure Monitor: Use Dynamic Thresholds in Log Alerts</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-use-dynamic-thresholds-in-log-alerts/ba-p/3792066</link>
+      <pubDate>Mon, 17 Apr 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-use-dynamic-thresholds-in-log-alerts/ba-p/3792066</guid>
+      <description>&lt;p&gt;Hello howdy readers&amp;nbsp;&lt;img alt=":smile:" class="lia-deferred-image lia-image-emoji" src="https://techcommunity.microsoft.com/html/@8341BD79091AF36AA2A09063B554B5CD/images/emoticons/smile_40x40.gif" title=":smile:" /&gt;&lt;/p&gt;
+&lt;p&gt;It has been a while since my last post, and I decided that the time of writing a new one will come up.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In this new blog post I am going to explain how to use dynamic threshold in &lt;a href="https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types#log-alerts" rel="noopener" target="_blank"&gt;log alerts&lt;/a&gt;. Think for a second, that you need to create an alert that must, at the same time, apply to more than one resource and react to different thresholds.&lt;/p&gt;
+&lt;p&gt;The solution is inside the power of the &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/" rel="noopener" target="_blank"&gt;Kusto Query Language&lt;/a&gt; or KQL.&lt;/p&gt;
+&lt;p&gt;This language offers several operators and functions that allow us to manipulate data to extract values, extend fields and compare values with thresholds.&lt;/p&gt;
+&lt;p&gt;Let&#8217;s take as an example, the data collected through &lt;a href="https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview" rel="noopener" target="_blank"&gt;VM Insights&lt;/a&gt;&lt;span&gt;.&lt;/span&gt; It collects operating system performance data for Logical Disk, Memory, Network, Processor and, if enabled, it also collects information about processes, ports and connection for each target computer.&lt;/p&gt;
+&lt;p&gt;The reason I am taking VM Insights as an example is &lt;em&gt;&lt;u&gt;not only because data collection is done in a platform-agnostic way&lt;/u&gt;&lt;/em&gt;, meaning that data is stored using the same counter name for both Windows and Linux, but also because it collects some important metadata together with the performance counters. For the sake of this post, metadata is &#8216;&#8217;&lt;strong&gt;&lt;em&gt;da key&lt;/em&gt;&lt;/strong&gt;&#8217; for dynamic thresholds setup.&lt;/p&gt;
+&lt;p&gt;To see the metadata, you can query the InsightsMetrics table and get, among others, the Tags field as part of the record. Tags field is a &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/scalar-data-types/dynamic" rel="noopener" target="_blank"&gt;dynamic&lt;/a&gt; scalar data type based on the primitive &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/scalar-data-types/string" rel="noopener" target="_blank"&gt;string&lt;/a&gt; data type.&lt;/p&gt;
+&lt;p&gt;To explore the tags, you can use queries like the ones below:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h1&gt;Query #1: Number of processors&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+InsightsMetrics
+| where Origin == "vm.azm.ms"
+| where Name == "UtilizationPercentage"
+| summarize arg_max(TimeGenerated, *) by Computer
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="BrunoGabrielli_0-1681196545705.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459391i02EA7EB24AD9CC3A/image-size/large?v=v2&amp;amp;px=999" title="BrunoGabrielli_0-1681196545705.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;
+&lt;h1&gt;Query #2: Memory size&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+InsightsMetrics
+| where Origin == "vm.azm.ms"
+| where Name == "AvailableMB"
+| summarize arg_max(TimeGenerated, *) by Computer
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="BrunoGabrielli_1-1681196545710.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459392i74D92D90E89EACA7/image-size/large?v=v2&amp;amp;px=999" title="BrunoGabrielli_1-1681196545710.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;
+&lt;h1&gt;Query #3: Disks size&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+InsightsMetrics
+| where Origin == "vm.azm.ms"
+| where Name == "FreeSpaceMB"
+| summarize arg_max(TimeGenerated, *) by Computer
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="BrunoGabrielli_2-1681196545714.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/459393i52B0E64BDDDD8F7D/image-size/large?v=v2&amp;amp;px=999" title="BrunoGabrielli_2-1681196545714.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;With that in mind, imagine that you want to create an alert for low available memory that fires on different condition (or threshold) based on the memory size. How can we make that possible? We need to know the value of what can be identified as the decision maker: our &lt;u&gt;loved memory size.&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;This is where query #2, or a similar one, comes in hand. We can use it to compare the virtual machine amount of memory with the range we&#8217;re going to establish, expresses as absolute threshold in Mbytes to be applied. Speaking range, say that we would like to be alerted when the available memory drops below the thresholds reported in the table below:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table class=" lia-align-center" style="height: 120px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td height="30px" width="132px"&gt;
+&lt;p&gt;Memory size&lt;/p&gt;
+&lt;/td&gt;
+&lt;td height="30px" width="180px"&gt;
+&lt;p&gt;Mbytes Threshold&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30px" width="132px"&gt;
+&lt;p&gt;4096&lt;/p&gt;
+&lt;/td&gt;
+&lt;td height="30px" width="180px"&gt;
+&lt;p&gt;512&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30px" width="132px"&gt;
+&lt;p&gt;8192&lt;/p&gt;
+&lt;/td&gt;
+&lt;td height="30px" width="180px"&gt;
+&lt;p&gt;1024&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30px" width="132px"&gt;
+&lt;p&gt;16384&lt;/p&gt;
+&lt;/td&gt;
+&lt;td height="30px" width="180px"&gt;
+&lt;p&gt;2048&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As said, the threshold is different according to the memory size and our goal for this log alert, is to assemble a query that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Retrieve the amount of memory:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We can use the &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/letstatement" rel="noopener" target="_blank"&gt;let statement&lt;/a&gt; to set a &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/schema-entities/views" rel="noopener" target="_blank"&gt;view&lt;/a&gt; containing the computer name and the corresponding memory size. We can use a modified version of query #2 to reach this part of the goal:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+let memSizing = InsightsMetrics
+| where Origin == "vm.azm.ms"
+| where Name == "AvailableMB"
+| summarize arg_max(TimeGenerated, *) by Computer
+| extend memorySizeMB = round(toreal(parse_json(Tags).["vm.azm.ms/memorySizeMB"]))
+| distinct Computer, memorySizeMB;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;Set the threshold:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Threshold can be set in the query that will actively look for the alert condition. Hence, once the current value has been retrieved, we can join this info with the view created in the previous step based on the computer name. At this point we just have to &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/extendoperator" rel="noopener" target="_blank"&gt;extend&lt;/a&gt; a variable with the threshold value calculated using the &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/casefunction" rel="noopener" target="_blank"&gt;case&lt;/a&gt; function. As an example, the partial query to achieve this second part of the goal would look like:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+InsightsMetrics| where Origin == "vm.azm.ms"
+| where Name == "AvailableMB"
+| summarize freeMb = avg(Val) by Computer, bin(TimeGenerated, 5m)
+| summarize arg_max(TimeGenerated,*) by Computer
+| join kind=innerunique (memSizing) on Computer
+| extend mbThreshold = case(memorySizeMB &amp;lt;= 4096, 512,
+                            memorySizeMB &amp;lt;= 8192, 768,
+                            memorySizeMB &amp;lt;= 16384, 1024,
+                            memorySizeMB &amp;lt;= 32768, 2048,
+                            3072)
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;At this point, since we have all the necessary information, why not set up a percentage value as an additional threshold? Our alert could fire up either if the available memory drops below the Mbytes threshold or below the percentage threshold. Adding the below line (like the extend &lt;strong&gt;&lt;em&gt;mbThreshold&lt;/em&gt;&lt;/strong&gt; will do the trick:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+| extend percThreshold = case(memorySizeMB &amp;lt;= 4096, 10,
+                              memorySizeMB &amp;lt;= 8192, 9,
+                              memorySizeMB &amp;lt;= 16384, 8,
+                              memorySizeMB &amp;lt;= 32768, 7,
+                              6)
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ol start="3"&gt;
+&lt;li&gt;Compare the value of available memory with the threshold(s) set up according to the memory size:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="padding-left: 30px; padding-right: 30px; background: #e2daf1;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="padding-left: 30px; padding-right: 30px; background: #e2daf1;"&gt;&lt;strong&gt;&lt;em&gt;NOTE: &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;If we decided to compare also with the percentage-based threshold, we need to calculate the percentage of available memory because this is not natively collected. An additional simple line based on the &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/extendoperator" rel="noopener" target="_blank"&gt;extend&lt;/a&gt; , like the one below, would be more than enough:&lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px; padding-right: 30px; background: #e2daf1;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+| extend freePercentage = (freeMb / memorySizeMB) * 100
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;At this point we are ready to compare and &lt;a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/projectoperator" rel="noopener" target="_blank"&gt;project&lt;/a&gt; the results by adding the comparison logic:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+| where freeMb &amp;lt; mbThreshold or freePercentage &amp;lt; percThreshold
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;And the presentation logic:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+| project TimeGenerated, Computer, memorySizeMB, percThreshold, freePercentage, mbThreshold, freeMb
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The final query would look like this (first line with comments is optional):&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+// ## AVAILABLE MEMORY (FreeMb or %) - INSIGHTSMETRICS - WINDOWS &amp;amp; LINUX SERVERS WITH DYNAMIC THRESHOLDS
+let memSizing = InsightsMetrics
+    | where Origin == "vm.azm.ms"
+    | where Name == "AvailableMB"
+    | summarize arg_max(TimeGenerated, *) by Computer
+    | extend memorySizeMB = round(toreal(parse_json(Tags).["vm.azm.ms/memorySizeMB"]))
+    | distinct Computer, memorySizeMB;
+InsightsMetrics
+| where Origin == "vm.azm.ms"
+| where Name == "AvailableMB"
+| summarize freeMb = avg(Val) by Computer, bin(TimeGenerated, 5m)
+| summarize arg_max(TimeGenerated, *) by Computer
+| join kind=innerunique (memSizing) on Computer
+| extend mbThreshold = case(memorySizeMB &amp;lt;= 4096, 512, memorySizeMB &amp;lt;= 8192, 768, memorySizeMB &amp;lt;= 16384, 1024, memorySizeMB &amp;lt;= 32768, 2048, 3072)
+| extend percThreshold = case(memorySizeMB &amp;lt;= 4096, 10, memorySizeMB &amp;lt;= 8192, 9, memorySizeMB &amp;lt;= 16384, 8, memorySizeMB &amp;lt;= 32768, 7, 6)
+| extend freePercentage = (freeMb / memorySizeMB) * 100
+| where freeMb &amp;lt; mbThreshold or freePercentage &amp;lt; percThreshold
+| project 
+    TimeGenerated,
+    Computer,
+    memorySizeMB,
+    percThreshold,
+    freePercentage,
+    mbThreshold,
+    freeMb
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Using the same concepts, you can create dynamic threshold log alerts for low free disk space. A sample query would look like:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+// ## DISK SPACE (FreeMb or %) - INSIGHTSMETRICS - WINDOWS &amp;amp; LINUX SERVERS WITH DYNAMIC THRESHOLDS
+let diskSizeAndFreeSpaceMb = InsightsMetrics
+    | where Origin == "vm.azm.ms"
+    | where Name == "FreeSpaceMB"
+    | extend diskUnit = tostring(parse_json(Tags).["vm.azm.ms/mountId"])
+    | summarize arg_max(TimeGenerated, *) by Computer, diskUnit
+    | extend diskSizeMb = round(toreal(parse_json(Tags).["vm.azm.ms/diskSizeMB"]))
+    | extend freeMB = Val
+    | distinct TimeGenerated, Computer, diskUnit, diskSizeMb, freeMB, _ResourceId;
+InsightsMetrics
+| where Origin == "vm.azm.ms"
+| where Name == "FreeSpacePercentage"
+| extend diskUnit = tostring(parse_json(Tags).["vm.azm.ms/mountId"])// ## Start of exclusion list// ## End of exclusion list| summarize (TimeGenerated, freePerc) = arg_max(TimeGenerated, Val) by Computer, diskUnit, _ResourceId| join (diskSizeAndFreeSpaceMb) on Computer, diskUnit| extend percThreshold = case(    diskSizeMb &amp;lt;= 51200, 10.0, //50Gb    diskSizeMb &amp;lt;= 102400, 8.0, //100 Gb    diskSizeMb &amp;lt;= 204800, 6.0, //200 Gb    diskSizeMb &amp;lt;= 307200, 4.0, //300 Gb    diskSizeMb &amp;lt;= 1024000, 2.0, //1Tb    0.5)| extend mbThreshold = case(    diskSizeMb &amp;lt;= 51200, 200, //50Gb    diskSizeMb &amp;lt;= 102400, 1024, //100 Gb    diskSizeMb &amp;lt;= 204800, 2048, //200 Gb    diskSizeMb &amp;lt;= 307200, 3072, //300 Gb    diskSizeMb &amp;lt;= 1024000, 10240, //1Tb    20480)| extend percThreshold = iif((_ResourceId contains "microsoft.compute/virtualmachines") and (diskUnit == "D:"), 0.0, percThreshold)| extend mbThreshold = iif((_ResourceId contains "microsoft.compute/virtualmachines") and (diskUnit == "D:"), 0, mbThreshold)| where freePerc &amp;lt; percThreshold or freeMB &amp;lt; mbThreshold| project TimeGenerated, Computer, diskUnit, diskSizeMb, percThreshold, freePerc, mbThreshold, freeMB| sort by Computer asc, Unit asc
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I am sure you also noted one more advantage (maybe from the comment line at the top of the query): this query can be used for both Window and Linux operating systems thanks to VM Insights&amp;nbsp;&lt;img alt=":smile:" class="lia-deferred-image lia-image-emoji" src="https://techcommunity.microsoft.com/html/@8341BD79091AF36AA2A09063B554B5CD/images/emoticons/smile_40x40.gif" title=":smile:" /&gt;&lt;/p&gt;
+&lt;p&gt;Surely the examples above can be added to your set of server monitoring queries, but the main goal is to set you with the correct mindset to search metadata and create dynamic log alerts.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Thanks for reading it and see you next post&amp;nbsp;&lt;img alt=":xd:" class="lia-deferred-image lia-image-emoji" src="https://techcommunity.microsoft.com/html/@7EBDB192371E60F0C05B7773EFC0C76E/images/emoticons/xd_40x40.gif" title=":xd:" /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font size="2"&gt;Disclaimer&lt;/font&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;font size="2"&gt;The sample scripts are not supported under any Microsoft standard support program or service. The sample scripts are provided AS IS without warranty of any kind. Microsoft further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the sample scripts and documentation remains with you. In no event shall Microsoft, its authors, or anyone else involved in the creation, production, or delivery of the scripts be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the sample scripts or documentation, even if Microsoft has been advised of the possibility of such damages.&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Multi-Geo Exchange Online Admin Audit Logs</title>
       <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/multi-geo-exchange-online-admin-audit-logs/ba-p/3793150</link>
@@ -8910,162 +9186,6 @@ StorageReplicationHealth_CL
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on&#8239;&lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt;&#8239;and&#8239;&lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the&#8239;&lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/forums/169401-azure-active-directory" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Feedback Forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Group Policy Analytics Framework</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/group-policy-analytics-framework/ba-p/3749480</link>
-      <pubDate>Wed, 22 Feb 2023 19:34:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/group-policy-analytics-framework/ba-p/3749480</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If we talk about pre-covid times, people were working in offices, data was monitored\controlled using proxy servers and firewalls etc in place. End users were keeping files using roaming profile or folder redirection. File sharing was allowed over SMB. Authentication and authorization were there using Kerberos in Active Directory. In some organizations, USB Stick\Hard Disk was not allowed in office or might be the USB port itself was blocked and such configurations were endless.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;And then COVID-19 came, halting all our day-to-day activities.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;This unprecedented situation pushed users along with IT Admins to start working from home forcing administrators to change their way of managing organizational devices.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Earlier, users, devices and data were limited to office premises, in a controlled environment. Work from home scenario brought everything onto the open internet. Moreover, admins still need to manage users, devices, and data.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 400px;"&gt;&lt;img alt="Bindusar_0-1677059689811.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/444269i2D4DF68C1727C03B/image-size/medium?v=v2&amp;amp;px=400" title="Bindusar_0-1677059689811.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;With this shift, admins are in state of either:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span&gt;Staying in Hybrid Mode or&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Starting everything from scratch in cloud&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;span&gt;In hybrid mode, admins are trying to make use of existing solutions work on internet-based machines using VPN. And then, user forget to connect to VPN, or they don&#8217;t care about it at all.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If I would say, start from scratch in cloud world, that will be injustice. Let&#8217;s take an example of Group Policies for now. Our admins spent more than 20 years in configuring these group policy settings. There must be settings coming from network team, security team, update compliance team, server team and the list goes on and on&#8230; year by year. Do I need to recreate them?&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On other side, I can treat this as an opportunity to clean-up those settings which were configured long time back, but they are not required\applicable\relevant\better solution available at present. Just because it was configured, it&#8217;s not fair to keep it forever. It&#8217;s an opportunity to talk to respective team and check if they still need it.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Is it not fair to plan something in between? Like migrate group policy settings using some tools.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Luckily, Intune Product Group team came up with a solution called &lt;/span&gt;&lt;span&gt;Group Policy Analytics&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;It is a tool in Microsoft Intune that:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;Analyze your on-premises GPOs.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Shows any deprecated settings, or settings not available.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Can migrate your imported GPOs to a settings catalog policy that can be deployed to your devices.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;Some older settings aren&#8217;t supported, or don&#8217;t apply to cloud native Windows devices. After you analyse your GPOs, you&#8217;ll know which settings might still be valid.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Mobile Device Management solution has an advantage over group policies from on-prem. The following table can provide more information to it.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Group Policy&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Mobile Device Management&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Changes require connectivity to your corporate network or VPN&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Changes can be updated over the Internet&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;High impact on boot-time and performance&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Lightweight policy management &#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Configuration drift is common and hard to predict&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Configuration issues and conflicts are detected&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Assumed results and enforcement&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;p&gt;&lt;span&gt;Reporting and monitoring from the MEM Admin Center&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GPO vs MDM comparison&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If we need to frame it, below phases can be considered.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;1. Discover&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;2. Assess&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;3. Migrate&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Discover&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span&gt;Discussion with internal teams managing policies for device management. Include device management, security, business, and other stakeholder teams&#8203;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Gather all the policies in environment.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Also, don&#8217;t forget to list down policies from Security Solutions, Firewall, Data Loss Prevention, Network Access and Proxy and other management tools.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Assess&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span&gt;Identify policy usage and targets&#8203;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;a. Determine what the policy configures and the users or devices it targets&#8203;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;b. Categorize policies by type or purpose:&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (i). Security and Compliance&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (ii). Device, Operating System, or App Configuration&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (iii). Defaults and Preferences&#8203;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Identify policy ownership&#8203;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;a. Assign ownership of the policy and its objective&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Identify policy lifecycle&#8203;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;a. Document the process for maintaining and measuring success of the policy.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;With Modern Management, where most the solutions are taking advantage of cloud world, we may want to re-think on existing solutions. Group Policy Object is one such configuration with thousands of settings available in it. Looking for new Modern Management scenarios, lots of settings does not fit well and may need a new solution to explore.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;While designing the new solution following things are considered:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span&gt;User Centric&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Open to Public Internet&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Always available and Update to date&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Ease of Deployment and Manage&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Proactive Insights&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Intelligent security Built-in&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;When we think of Group Policies, they should also be aligned with points mentioned above.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;It is not necessary to deploy every single setting from Intune. However, at the end, device should be secure enough keeping security compliance of any organization in mind.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We can follow the flowchart mentioned below to align the existing GPO model with new solutions available.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="Bindusar_1-1677059689812.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/444270i62C65FB26EDE934C/image-size/large?v=v2&amp;amp;px=999" title="Bindusar_1-1677059689812.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;During the assessment process, we should ask following questions to ourselves:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span&gt;Do we need that GPO setting?&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;If yes, is there any new cloud ready solution available to fulfil that requirement?&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;span&gt;If there is a new cloud ready solution available, we it&#8217;s better to explore that option instead. New cloud ready solution is build keeping new operational challenges in mind. Existing GPO based solution may not fit for current requirement.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Migrate&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Fresh policies are recommended to start from Intune directly. However, when we talk about migrating existing policies, a decision-making flow chart is needed. Below is one such flow chart to refer.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="Bindusar_2-1677059689815.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/444271iBDBE5E299884331D/image-size/large?v=v2&amp;amp;px=999" title="Bindusar_2-1677059689815.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Once we confirm that we are going with existing GPO by migrating to Intune, we need to make use of group policy analytics from Intune Portal.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We can further talk about the following points on how to achieve following line items.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span&gt;Using PowerShell &lt;/span&gt;&lt;a href="https://github.com/BindusarKushwaha/Add_Registry.git" rel="noopener" target="_blank"&gt;&lt;span&gt;Script&lt;/span&gt;&lt;/a&gt;&lt;span&gt; to change Registry. Step by Step can be found &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/mem/intune/apps/intune-management-extension" rel="noopener" target="_blank"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Using Endpoint Analytics. A step by step of Proactive Remediation can be found &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/mem/analytics/proactive-remediations" rel="noopener" target="_blank"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and &lt;/span&gt;&lt;a href="https://github.com/BindusarKushwaha/Proactive_Remediation.git" rel="noopener" target="_blank"&gt;&lt;span&gt;Script&lt;/span&gt;&lt;/a&gt; &lt;span&gt;used in it&lt;/span&gt; &lt;span&gt;can be found here.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Using Win32 Apps. A step by step on how to configure Win32 app can be found &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/mem/intune/apps/apps-win32-app-management" rel="noopener" target="_blank"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;
-&lt;ol class="lia-list-style-type-lower-alpha"&gt;
-&lt;li&gt;&lt;a href="https://github.com/BindusarKushwaha/Add_Registry.git" rel="noopener" target="_blank"&gt;&lt;span&gt;Script&lt;/span&gt;&lt;/a&gt;&lt;span&gt; to deploy registry settings.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Use a custom detection &lt;/span&gt;&lt;a href="https://github.com/BindusarKushwaha/Deploy-PowerShell-script-using-Win32-App-in-Intune.git" rel="noopener" target="_blank"&gt;&lt;span&gt;Script&lt;/span&gt;&lt;/a&gt;&lt;span&gt; to detect the presence of existing Registry settings. Steps can be found &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/mem/intune/apps/apps-win32-add" rel="noopener" target="_blank"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Hope this helps.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Thanks&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Bindusar Kushwaha&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proacting Hunting with Cloud Security Explorer in Defender for Cloud</title>
