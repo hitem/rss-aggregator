@@ -3,7 +3,100 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Apr 2023 17:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2023 18:09:20 GMT</lastBuildDate>
+    <item>
+      <title>Entra Identity Governance with Entra Verified ID &#8211; Higher Fidelity Access Rights + Faster Onboarding</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-identity-governance-with-entra-verified-id-higher-fidelity/ba-p/2466934</link>
+      <pubDate>Mon, 17 Apr 2023 18:05:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-identity-governance-with-entra-verified-id-higher-fidelity/ba-p/2466934</guid>
+      <description>&lt;p&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;span&gt;I&#8217;m excited to announce the integration of Entra Identity Governance Entitlement Management with a very cool technology we recently introduced, Microsoft Entra Verified ID!&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;If you think about what you need to onboard new users including employees, contractors, partners, or other business guests, it often includes verifying identity information and credentials. This process can be tedious and time-consuming, requiring users to fill out redundant online forms or paperwork, ultimately delaying hiring timelines and ramp-up periods.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To ease this friction, we previously introduced custom&amp;nbsp;questions and attribute collection in&amp;nbsp;&lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/onboard-partners-more-easily-with-new-azure-ad-entitlement/ba-p/2466924" rel="noopener" target="_blank"&gt;Microsoft Entra Identity Governance Entitlement Management.&lt;/a&gt;&lt;span&gt;&amp;nbsp;Today, we&#8217;re simplifying this onboarding process even further, with the integration of Microsoft Entra Verified ID checks in entitlement management.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Let&#8217;s explore this new feature and understand how it fits into the access request management process.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Scenario: Require independently verified credentials before approving access to confidential resources&amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Imagine you&#8217;re working with an external marketing agency on a project for a new customer. Your organization requires consultants to complete a Verified Vendor certification before they can be onboarded to new projects. For this to be completed, consultants must email a notarized copy of their certificate before they can even begin the onboarding process. How inconvenient and time consuming!&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;You recently learned that the agency issuing this required Verified Vendor certification has started issuing verified IDs. Today, you rely on &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview#what-are-access-packages-and-what-resources-can-i-manage-with-them" rel="noopener" target="_blank"&gt;&lt;span&gt;access packages&lt;/span&gt;&lt;/a&gt;&lt;span&gt; containing resources needed for your projects. You decide to incorporate verified ID checks into the already existing onboarding process for these consultants when they request access to these access packages.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Here is how you can do it.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Configure automatic access to access packages with Verified ID in just 3 steps!&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1) &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Add verified ID requirement in your access package&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: You go to &lt;/span&gt;&lt;a href="https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/elmEntitlement" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;span&gt;Entra Identity Governance, Access Packages&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; &lt;span&gt;and choose the access package you want to protect. They add a new policy by going to the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Policies&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; section and clicking on &lt;/span&gt;&lt;strong&gt;&lt;span&gt;+&lt;/span&gt;&lt;/strong&gt; &lt;strong&gt;&lt;span&gt;Add policy. &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;On the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Requests&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; tab, you find the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Required Verified IDs&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; section.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_0-1680720046521.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457951i8F8EB451C7FAC7D8/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_0-1680720046521.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;You click on &lt;/span&gt;&lt;strong&gt;&lt;span&gt;+ Add issuer&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Search for Contoso Supplier Agency in the Entra Verified ID network using the dropdown and select the Verified Vendor credential type.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_1-1680720046534.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457953iB8EDA0EE0FDC397D/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_1-1680720046534.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;2) &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Remove manual approvals&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: Since the Verified Vendor credential is the verified proof of the user's certification from a trusted issuer, you can opt out of having approvers review requests and make onboarding even more seamless.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_2-1680720046536.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457952i191479C22700C500/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_2-1680720046536.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;When a consultant being onboarded to the project requests access to the access package from the &lt;/span&gt;&lt;a href="https://myaccess.microsoft.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;My Access portal&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, they&#8217;ll be asked to present their Verified Vendor credential from Microsoft Authenticator.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_3-1680720046540.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457955iB2E88C1F024538D6/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_3-1680720046540.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_4-1680720046543.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457954iCC38D8AA8ACFB67C/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_4-1680720046543.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;All they need to do is scan the QR code on the screen. This will allow them to present the credentials and, since the access package policy does not require manual review by an approver, the consultant will receive automatic access after their credentials have been verified by the issuing agency. For instance: &lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_5-1680720046549.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457956iBC1E3EF7374CFAB2/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_5-1680720046549.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;3) &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Check audit logs for request activity&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: You can navigate to &lt;/span&gt;&lt;a href="https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Audit%20logs" rel="noopener" target="_blank"&gt;&lt;span&gt;Entra Identity Governance, Audit Logs&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and check that access to the access package has only been granted when a verified ID has been presented.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_6-1680720046554.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457957i5BD90FF6447AF6E8/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_6-1680720046554.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;What customers and partners are already telling us&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Swiss IT is a Microsoft partner that works with customers who have an in-person manual process for identity proofing when users need to access sensitive data. Swiss IT issues verified IDs containing necessary digital proofs. Using this integration, those customers can automatically validate a user's citizenship status when the individual submits their access request.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&#8220;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;With the integration of Entra Verified ID into Entra Identity Governance, we can automate identity validation and approval in our entitlement management flow. This helps us secure collaboration environments for highly sensitive data, like pharmaceutical development, while staying compliant with company regulations and contractual obligations.&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&#8221;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;span&gt;&#8211; Jens Lorenz (Strategic Consultant, CISSP, CCSP, CIPT at Swiss IT)&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Similarly, some customers have a manual review process for external user access, even for non-privileged productivity applications. These customers would like to collaborate with people outside their organization by setting up scoped access packages that can automatically be assigned to guests if they provide the required verified ID.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&#8220;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Many large enterprises have several service providers, where they do not necessarily know which individual is coming for the maintenance, but rather just trust the employer. A lengthy pre-onboarding is in those cases not possible. Verified ID together with Entitlement Management allows &lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&lt;strong&gt;&lt;i&gt;us &lt;/i&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;to request access for those individuals on the fly by verifying their identity during an on-demand access request process.&#8221;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;span&gt;&#8211; Erik Siebler (IAM Lead, DXC)&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Protect access to your resources with Entra Identity Governance entitlement management and incorporate Entra Verified ID in your access request flows!&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To start with Entra Identity Governance entitlement management, &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-first" rel="noopener" target="_blank"&gt;&lt;span&gt;click here for a step-by-step guide on how to set up an access package&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Once you&#8217;ve set up your access package, &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-verified-id-settings" rel="noopener" target="_blank"&gt;&lt;span&gt;check out this guide on how to configure your access package with a verified ID requirement&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To use a verified ID check during the entitlement management request process, you&#8217;ll need to onboard your tenant to the Verified ID service. Check out this tutorial on &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant" rel="noopener" target="_blank"&gt;&lt;span&gt;how to configure your tenant for Microsoft Entra Verified ID&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Go today and issue a verified ID to your users and configure an access package with a verified ID requirement to test out this feature! &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;We'd love to hear your feedback and are excited to continue evolving user identity together!&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Joseph Dadzie,&amp;nbsp;Partner Director of Product Management&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;LinkedIn:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq" href="https://www.linkedin.com/in/joedadzie/" rel="noreferrer noopener nofollow" target="_blank" title="https://www.linkedin.com/in/joedadzie/"&gt;@joedadzie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Twitter:&amp;nbsp;&lt;a class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq" href="https://twitter.com/joe_dadzie" rel="noreferrer noopener nofollow" target="_blank" title="https://twitter.com/joe_dadzie"&gt;@joe_dadzie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;Learn more about Microsoft identity:&lt;/i&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Learn more about Entra Verified ID at &lt;/span&gt;&lt;/i&gt;&lt;a href="http://aka.ms/verifyonce" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;http://aka.ms/verifyonce&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Learn more about Entra Entitlement Management&lt;/span&gt;&lt;/i&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt; here&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Specific instructions on how to &lt;/span&gt;&lt;/i&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-verified-id-settings" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;configure verified ID settings for an access package&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Return to the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Active Directory Identity blog home&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Feedback Forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Enrich your advanced hunting experience using network layer signals from Zeek</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enrich-your-advanced-hunting-experience-using-network-layer/ba-p/3794693</link>
@@ -1871,99 +1964,6 @@ Get-CimInstance -Namespace "ROOT/CIMV2/Security/MicrosoftVolumeEncryption" -Clas
 &lt;li&gt;&lt;a href="https://aka.ms/mipsdknuget" rel="noopener" target="_blank"&gt;NuGet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://aka.ms/mipsdkbins" rel="noopener" target="_blank"&gt;Download Center&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://stackoverflow.com/questions/tagged/microsoft-information-protection" rel="noopener" target="_blank"&gt;Microsoft Information Protection on Stack Overflow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Entra Identity Governance with Entra Verified ID &#8211; Higher Fidelity Access Rights + Faster Onboarding</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-identity-governance-with-entra-verified-id-higher-fidelity/ba-p/2466934</link>
-      <pubDate>Fri, 07 Apr 2023 13:19:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-identity-governance-with-entra-verified-id-higher-fidelity/ba-p/2466934</guid>
-      <description>&lt;p&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;span&gt;I&#8217;m excited to announce the integration of Entra Identity Governance Entitlement Management with a very cool technology we recently introduced, Microsoft Entra Verified ID!&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If you think about what you need to onboard new users including employees, contractors, partners, or other business guests, it often includes verifying identity information and credentials. This process can be tedious and time-consuming, requiring users to fill out redundant online forms or paperwork, ultimately delaying hiring timelines and ramp-up periods.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To ease this friction, we previously introduced &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/onboard-partners-more-easily-with-new-azure-ad-entitlement/ba-p/2466924" rel="noopener" target="_blank"&gt;&lt;span&gt;custom questions and attribute collection in Microsoft Entra Identity Governance Entitlement Management&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Today, we&#8217;re simplifying this onboarding process even further, with the integration of Microsoft Entra Verified ID checks in entitlement management.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Let&#8217;s explore this new feature and understand how it fits into the access request management process.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Scenario: Require independently verified credentials before approving access to confidential resources&amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Imagine you&#8217;re working with an external marketing agency on a project for a new customer. Your organization requires consultants to complete a Verified Vendor certification before they can be onboarded to new projects. For this to be completed, consultants must email a notarized copy of their certificate before they can even begin the onboarding process. How inconvenient and time consuming!&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;You recently learned that the agency issuing this required Verified Vendor certification has started issuing verified IDs. Today, you rely on &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview#what-are-access-packages-and-what-resources-can-i-manage-with-them" rel="noopener" target="_blank"&gt;&lt;span&gt;access packages&lt;/span&gt;&lt;/a&gt;&lt;span&gt; containing resources needed for your projects. You decide to incorporate verified ID checks into the already existing onboarding process for these consultants when they request access to these access packages.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Here is how you can do it.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Configure automatic access to access packages with Verified ID in just 3 steps!&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;1) &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Add verified ID requirement in your access package&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: You go to &lt;/span&gt;&lt;a href="https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/elmEntitlement" rel="noopener" target="_blank"&gt;&lt;strong&gt;&lt;span&gt;Entra Identity Governance, Access Packages&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; &lt;span&gt;and choose the access package you want to protect. They add a new policy by going to the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Policies&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; section and clicking on &lt;/span&gt;&lt;strong&gt;&lt;span&gt;+&lt;/span&gt;&lt;/strong&gt; &lt;strong&gt;&lt;span&gt;Add policy. &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;On the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Requests&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; tab, you find the &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Required Verified IDs&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; section.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_0-1680720046521.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457951i8F8EB451C7FAC7D8/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_0-1680720046521.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;You click on &lt;/span&gt;&lt;strong&gt;&lt;span&gt;+ Add issuer&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Search for Contoso Supplier Agency in the Entra Verified ID network using the dropdown and select the Verified Vendor credential type.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_1-1680720046534.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457953iB8EDA0EE0FDC397D/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_1-1680720046534.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;2) &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Remove manual approvals&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: Since the Verified Vendor credential is the verified proof of the user's certification from a trusted issuer, you can opt out of having approvers review requests and make onboarding even more seamless.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_2-1680720046536.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457952i191479C22700C500/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_2-1680720046536.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;When a consultant being onboarded to the project requests access to the access package from the &lt;/span&gt;&lt;a href="https://myaccess.microsoft.com/" rel="noopener" target="_blank"&gt;&lt;span&gt;My Access portal&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, they&#8217;ll be asked to present their Verified Vendor credential from Microsoft Authenticator.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_3-1680720046540.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457955iB2E88C1F024538D6/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_3-1680720046540.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_4-1680720046543.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457954iCC38D8AA8ACFB67C/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_4-1680720046543.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;All they need to do is scan the QR code on the screen. This will allow them to present the credentials and, since the access package policy does not require manual review by an approver, the consultant will receive automatic access after their credentials have been verified by the issuing agency. For instance: &lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_5-1680720046549.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457956iBC1E3EF7374CFAB2/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_5-1680720046549.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;3) &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Check audit logs for request activity&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: You can navigate to &lt;/span&gt;&lt;a href="https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Audit%20logs" rel="noopener" target="_blank"&gt;&lt;span&gt;Entra Identity Governance, Audit Logs&lt;/span&gt;&lt;/a&gt;&lt;span&gt; and check that access to the access package has only been granted when a verified ID has been presented.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_6-1680720046554.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/457957i5BD90FF6447AF6E8/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_6-1680720046554.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;What customers and partners are already telling us&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Swiss IT is a Microsoft partner that works with customers who have an in-person manual process for identity proofing when users need to access sensitive data. Swiss IT issues verified IDs containing necessary digital proofs. Using this integration, those customers can automatically validate a user's citizenship status when the individual submits their access request.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&#8220;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;With the integration of Entra Verified ID into Entra Identity Governance, we can automate identity validation and approval in our entitlement management flow. This helps us secure collaboration environments for highly sensitive data, like pharmaceutical development, while staying compliant with company regulations and contractual obligations.&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&#8221;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;span&gt;&#8211; Jens Lorenz (Strategic Consultant, CISSP, CCSP, CIPT at Swiss IT)&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Similarly, some customers have a manual review process for external user access, even for non-privileged productivity applications. These customers would like to collaborate with people outside their organization by setting up scoped access packages that can automatically be assigned to guests if they provide the required verified ID.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&#8220;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Many large enterprises have several service providers, where they do not necessarily know which individual is coming for the maintenance, but rather just trust the employer. A lengthy pre-onboarding is in those cases not possible. Verified ID together with Entitlement Management allows &lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&lt;strong&gt;&lt;i&gt;us &lt;/i&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;to request access for those individuals on the fly by verifying their identity during an on-demand access request process.&#8221;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&lt;strong&gt;&lt;span&gt;&#8211; Erik Siebler (IAM Lead, DXC)&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Protect access to your resources with Entra Identity Governance entitlement management and incorporate Entra Verified ID in your access request flows!&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To start with Entra Identity Governance entitlement management, &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-first" rel="noopener" target="_blank"&gt;&lt;span&gt;click here for a step-by-step guide on how to set up an access package&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Once you&#8217;ve set up your access package, &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-verified-id-settings" rel="noopener" target="_blank"&gt;&lt;span&gt;check out this guide on how to configure your access package with a verified ID requirement&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To use a verified ID check during the entitlement management request process, you&#8217;ll need to onboard your tenant to the Verified ID service. Check out this tutorial on &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant" rel="noopener" target="_blank"&gt;&lt;span&gt;how to configure your tenant for Microsoft Entra Verified ID&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Go today and issue a verified ID to your users and configure an access package with a verified ID requirement to test out this feature! &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We'd love to hear your feedback and are excited to continue evolving user identity together!&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Joseph Dadzie,&amp;nbsp;Partner Director of Product Management&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;LinkedIn:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq" href="https://www.linkedin.com/in/joedadzie/" rel="noreferrer noopener nofollow" target="_blank" title="https://www.linkedin.com/in/joedadzie/"&gt;@joedadzie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Twitter:&amp;nbsp;&lt;a class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq" href="https://twitter.com/joe_dadzie" rel="noreferrer noopener nofollow" target="_blank" title="https://twitter.com/joe_dadzie"&gt;@joe_dadzie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;Learn more about Microsoft identity:&lt;/i&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Learn more about Entra Verified ID at &lt;/span&gt;&lt;/i&gt;&lt;a href="http://aka.ms/verifyonce" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;http://aka.ms/verifyonce&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Learn more about Entra Entitlement Management&lt;/span&gt;&lt;/i&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt; here&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Specific instructions on how to &lt;/span&gt;&lt;/i&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-verified-id-settings" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;configure verified ID settings for an access package&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Return to the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Active Directory Identity blog home&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Azure Feedback Forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
