@@ -3,7 +3,7 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Apr 2023 11:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2023 12:14:22 GMT</lastBuildDate>
     <item>
       <title>Azure Monitor: Use Dynamic Thresholds in Log Alerts</title>
       <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-use-dynamic-thresholds-in-log-alerts/ba-p/3792066</link>
