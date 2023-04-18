@@ -3,7 +3,75 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Apr 2023 15:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 16:08:21 GMT</lastBuildDate>
+    <item>
+      <title>Discovering internet-facing devices using Microsoft Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</link>
+      <pubDate>Tue, 18 Apr 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</guid>
+      <description>&lt;p&gt;&lt;span&gt;Last year, we &lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-inventory-the-evolution-of-the-endpoint-view/ba-p/3301557" rel="noopener" target="_blank"&gt;announced&amp;nbsp;&lt;/a&gt;the evolution of the device inventory view in Microsoft Defender for Endpoint. The revamped device inventory view gave SOC analysts visibility into all discovered devices, counts and functional features (such as, search) that enhanced the overall user experience. To build on top of this work, we are expanding our device discovery capabilities through our existing network telemetry and RiskIQ integration. We&#8217;re thrilled to&lt;strong&gt; announce the ability to discover internet-facing devices is now in public preview.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Threat actors are constantly scanning the internet to identify exposed devices, whether it&#8217;s part of an opportunistic malicious activity or a wider targeted campaign. These devices serve as highly accessible entry points to an organization&#8217;s environment. Mapping your organization&#8217;s external attack surface is a key part of security posture management. However, security teams are faced with the challenges of identifying and prioritizing exposed devices to address the greatest threats on their most critical devices.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="TextRun SCXW173846656 BCX8"&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;T&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;o&lt;/span&gt; &lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;help &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;organizations&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; extend their threat protection across &lt;/span&gt;&lt;span class="NormalTextRun CommentStart SCXW173846656 BCX8"&gt;internet&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;-facing &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;devices, &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;Microsoft Defender for &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;Endpoint &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;will&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; automatically &lt;/span&gt;&lt;span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW173846656 BCX8"&gt;map&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; and &lt;/span&gt;&lt;span class="NormalTextRun CommentStart SCXW173846656 BCX8"&gt;flag&lt;/span&gt; &lt;span class="NormalTextRun CommentStart SCXW173846656 BCX8"&gt;onboarded&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; devices that are &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;exposed&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; to the internet&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; in the Microsoft 365 Defender portal&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;, providing more context to security teams and deeper insights into device exploitability.&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; &amp;nbsp;&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;By providing &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;a view&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; into internet-facing devices, security teams can better prioritize &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;alerts,&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt; recommendations &lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;and incidents as&lt;/span&gt; &lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;internet-facing devices oftentimes become an adversary's&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;entry point into the&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;corporate network&lt;/span&gt;&lt;span class="NormalTextRun SCXW173846656 BCX8"&gt;.&lt;/span&gt; &lt;/span&gt;&lt;span class="EOP SCXW173846656 BCX8"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span&gt;New capabilities to map internet-facing devices&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;&lt;span class="ui-provider gq b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak"&gt;Mapping &lt;a href="https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/internet-facing-devices?view=o365-worldwide" target="_self"&gt;internet-facing devices&lt;/a&gt;&lt;span class="ui-provider gr b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak"&gt;&amp;nbsp;is often challenging since there is not a single indicator or logic used to determine that a device is accessible from the internet. With many organizations using public IP ranges, numerous data sources, and classification logics to cross-reference their devices, these varying methodologies make it more difficult for admins to gather the visibility and verify the accuracy of the insights generated across their digital estate. With the new capabilities in Microsoft 365 Defender, we can leverage our existing Microsoft Defender for Endpoint telemetries and integration with RiskIQ to map internet-facing devices through a standardized approach that helps gather these insights with precision and less manual effort.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span&gt;Integration with RiskIQ&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;font size="3"&gt;&lt;a href="https://www.microsoft.com/security/blog/2021/07/12/microsoft-to-acquire-riskiq-to-strengthen-cybersecurity-of-digital-transformation-and-hybrid-work/" rel="noopener" target="_blank"&gt;RiskIQ&lt;/a&gt;&lt;/font&gt;&lt;font size="3"&gt; has catalogued the services, applications, and devices exposed on the IPv4 Internet. By leveraging the integration within Microsoft Defender for Endpoint, administrators are able to identify the exact devices that are internet facing. In addition to gaining visibility into internet-facing devices, the RiskIQ integration works hand-in-hand with Defender for Endpoint&#8217;s &lt;/font&gt;&lt;font size="3"&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/hunting-for-network-signatures-in-microsoft-defender-for/ba-p/3429520" target="_self"&gt;network traffic parsing capability&lt;/a&gt;,&amp;nbsp;to provide concrete evidence of network exposures through the obscured view of the NAT.&lt;/font&gt;&lt;/p&gt;
+&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;
+&lt;h2&gt;&lt;span&gt;Relying on Microsoft Defender for Endpoint Signals&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;The device network connections captured as part of Microsoft Defender for Endpoint signals help to identify internet-facing devices&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt; Using this information, we can identify which external, incoming connections indicate a machine to be facing the internet.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To identify the external IPs that are communicating with internal devices, we need to determine which subnets are part of the corporate network. We can see subnets for machines that are protected by Defender for Endpoint. This information helps to determine whether a connection captured by Microsoft Defender for Endpoint is internal, or external.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span&gt;Let&#8217;s take a look at the user experience&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;The classified internet-facing devices will appear with the corresponding tag in the device inventory and will also be available via Advanced Hunting.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="Nick_C_0-1681833093947.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461562iBDAB25AF39B2B259/image-size/large?v=v2&amp;amp;px=999" title="Nick_C_0-1681833093947.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Notice how the internet-facing devices which were publicly scanned and masked behind the NAT configuration, can now be observed as part of the below query results.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="Nick_C_1-1681830719979.jpeg" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461555iFB19B35EDEAE7E78/image-size/large?v=v2&amp;amp;px=999" title="Nick_C_1-1681830719979.jpeg" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Figure 2 - Querying for internet facing devices via Advanced Hunting&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The device pane now shows the internet-facing properties:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 443px;"&gt;&lt;img alt="Nick_C_0-1681830660626.jpeg" height="762" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461554i69D3520FB7616EF8/image-dimensions/443x762?v=v2" title="Nick_C_0-1681830660626.jpeg" width="443" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Figure 3 - Device pane&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Try this for yourself by using this example query which returns the latest results on internet-facing devices:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+DeviceInfo
+| where IsInternetFacing
+| extend InternetFacingInfo  = AdditionalFields
+| extend  InternetFacingReason = extractjson("$.InternetFacingReason", InternetFacingInfo, typeof(string)), InternetFacingLocalPort = extractjson("$.InternetFacingLocalPort", InternetFacingInfo, typeof(int)), InternetFacingScannedPublicPort = extractjson("$.InternetFacingScannedPublicPort", InternetFacingInfo, typeof(int)), InternetFacingScannedPublicIp = extractjson("$.InternetFacingScannedPublicIp", InternetFacingInfo, typeof(string)), InternetFacingLocalIp = extractjson("$.InternetFacingLocalIp", InternetFacingInfo, typeof(string)),    InternetFacingTransportProtocol=extractjson("$.InternetFacingTransportProtocol", InternetFacingInfo, typeof(string)), InternetFacingLastSeen = extractjson("$.InternetFacingLastSeen", InternetFacingInfo, typeof(datetime))
+| summarize arg_max(Timestamp, *) by DeviceId
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The results here will provide streamed instances of the internet-facing devices with their aggregated evidence in the &#8220;AdditionalFields&#8221; column.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;InternetFacingLastSeen&lt;/strong&gt; &#8211; last time the device was updated as internet facing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;InternetFacingReason&lt;/strong&gt; &#8211; the detection method used to identify internet facing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;InternetFacingPublicScannedIp&lt;/strong&gt; &#8211; what the external address is, in case NAT was detected.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h1&gt;&lt;span&gt;Resources&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;For those looking to learn more about device discovery, here are some additional resources you can explore.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Learn more about &lt;a href="https://review.learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/internet-facing-devices?view=o365-worldwide&amp;amp;branch=siosulli-internetfacing#use-advanced-hunting" rel="noopener" target="_blank"&gt;Investigating internet-facing devices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/device-discovery?view=o365-worldwide" rel="noopener" target="_blank"&gt;Microsoft Defender Device Discovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/network-device-discovery-and-vulnerability-assessments/ba-p/2267548" rel="noopener" target="_blank"&gt;Network Device Discovery&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>Onboarding your AWS/GCP environment to Microsoft Defender for Cloud with Terraform</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/onboarding-your-aws-gcp-environment-to-microsoft-defender-for/ba-p/3798664</link>
@@ -16353,86 +16421,6 @@ New-AzResourceGroupDeployment -name &amp;lt;firewallname&amp;gt; -ResourceGroupN
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;To move this deployment from one subscription to another with your customizations, we offer &lt;a href="https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Playbook-ARM-Template-Generator" target="_self"&gt;this playbook&lt;/a&gt;. This PowerShell utility evaluates your Logic App and API connections present and then generates the template resources with the necessary parameters for deployment. A demo is available here:&amp;nbsp;&lt;a href="https://www.youtube.com/watch?v=scTtVHVzrQw" rel="noopener noreferrer" tabindex="-1" target="_blank" title="https://www.youtube.com/watch?v=scTtVHVzrQw"&gt;https://www.youtube.com/watch?v=scTtVHVzrQw&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to deploy Attack Surface Reduction rules to Azure VMs using Azure Guest Configurations</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-deploy-attack-surface-reduction-rules-to-azure-vms-using/ba-p/3602433</link>
-      <pubDate>Fri, 19 Aug 2022 14:34:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-deploy-attack-surface-reduction-rules-to-azure-vms-using/ba-p/3602433</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Under normal circumstances ASR rules should only be deployed using the following methods mentioned in this &lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide" target="_self"&gt;document&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide#intune" rel="noopener" target="_blank"&gt;Microsoft Intune&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide#mdm" rel="noopener" target="_blank"&gt;Mobile Device Management (MDM)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide#microsoft-endpoint-configuration-manager" rel="noopener" target="_blank"&gt;Microsoft Endpoint Configuration Manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide#group-policy" rel="noopener" target="_blank"&gt;Group Policy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide#powershell" rel="noopener" target="_blank"&gt;PowerShell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In rare cases where VMs are server OSs, non-domain joined, &lt;em&gt;and&lt;/em&gt; not managed by SCCM or third-party management solutions, Azure Automation State Configuration or the new version of Azure DSC, using the guest configuration feature of Azure Policy, can be used as an alternative solution to centrally deploy ASR rules. Learn more about&amp;nbsp;&lt;a href="https://docs.microsoft.com/en-us/azure/governance/machine-configuration/overview" target="_self"&gt;Azure Guest configuration.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example Scenario:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Let's assume there is a requirement to enable and deploy the ASR rule:&amp;nbsp;&lt;span&gt;Block execution of potentially obfuscated scripts (GUID:&amp;nbsp;&lt;code&gt;5beb7efe-fd9a-4556-801d-275e5ffc04cc&lt;/code&gt;) Follow the steps below to accomplish this task.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;Step 1: Create the MOF configuration file&lt;/h3&gt;
-&lt;p&gt;&lt;span&gt;The following is a sample state configuration script using the &lt;a href="https://docs.microsoft.com/en-us/powershell/dsc/reference/resources/windows/scriptresource?view=dsc-1.1" target="_self"&gt;DSC Script resource.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
- 
-$asr_rules=(Get-MpPreference).AttackSurfaceReductionRules_Ids
-$test= $asr_rules.Contains("5beb7efe-fd9a-4556-801d-275e5ffc04cc")
-
- Configuration ASRDSC
-{
-    Import-DscResource -ModuleName 'PSDscResources'
-    Node localhost
-    {
-        Script ASRTest
-        {
-          SetScript = { 
-                 Add-MpPreference -AttackSurfaceReductionRules_Ids "5beb7efe-fd9a-4556-801d-275e5ffc04cc" -AttackSurfaceReductionRules_Actions AuditMode
-                          }
-
-          TestScript ={ 
-                       $using:test
-                          
-                          }
-                        
-
-          GetScript = { @{ Result = &#8220;String" } }
-        }
-    }
-}
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Once the state configuration checks whether or not the ASR rule ID&amp;nbsp;5beb7efe-fd9a-4556-801d-275e5ffc04cc exists, it will run the &lt;strong&gt;Add-MpPreference&lt;/strong&gt; command, setting the rule into an audit state on the local VM. ASR rules can also be set into enabled state using the same,&amp;nbsp;&lt;strong&gt;Add-MpPreference,&lt;/strong&gt; command.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This script can be compiled using the &lt;a href="https://docs.microsoft.com/en-us/powershell/dsc/configurations/write-compile-apply-configuration?view=dsc-1.1" target="_self"&gt;dot sourcing method&lt;span&gt;.&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Example:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-. C:\Scripts\asrtest.ps1
-asrtest
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Once resolved, a file called&amp;nbsp;&lt;span&gt;localhost.mof should be created and found under the C:\Scripts\ASRTEST folder.&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Step 2: Create the artifacts package&lt;/h3&gt;
-&lt;p&gt;Now that we have the MOF file, we can&amp;nbsp;create the package.&amp;nbsp;&lt;span class="hljs-pscommand"&gt;Step-by-step instructions can be found &lt;a href="https://docs.microsoft.com/en-us/azure/governance/machine-configuration/machine-configuration-create" target="_self"&gt;here.&lt;/a&gt;&lt;/span&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-# Create a package 
-New-GuestConfigurationPackage `
-  -Name 'MyConfig' `
-  -Configuration './ASRTEST/localhost.mof' `
-  -path 'C:\scripts' `
-  -Type Audit `
-  -Force
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;Step 3: Publish the package&lt;/h3&gt;
-&lt;p&gt;Now that the package is ready, we can publish (upload) the package to an Azure Storage account&amp;nbsp;where it is ready to be consumed by Azure Policy.&amp;nbsp;&lt;span class="hljs-pscommand"&gt;Step-by-step instructions can be found &lt;a href="https://docs.microsoft.com/en-us/azure/governance/machine-configuration/machine-configuration-create-publish" target="_self"&gt;here.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;Step 4: Create a policy definition&lt;/h3&gt;
-&lt;p&gt;To start deploying this package to target VMs in a resource group, for example, a new Azure policy definition needs to be created. We want to create this policy definition by using the "guest configuration" category. Creating this new policy requires using the&amp;nbsp;&lt;strong&gt;&lt;span class="hljs-pscommand"&gt;New-GuestConfigurationPolicy&lt;/span&gt;&lt;/strong&gt;&lt;span class="hljs-pscommand"&gt;&amp;nbsp;and &lt;strong&gt;New-AzPolicyDefinition&amp;nbsp;&lt;/strong&gt;commands to publish the policy to the Azure Policy portal. Step-by-step instructions can be found &lt;a href="https://docs.microsoft.com/en-us/azure/governance/machine-configuration/machine-configuration-create-definition" target="_self"&gt;here.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="hljs-pscommand"&gt;Now we can deploy ASR rules centrally and have a compliance view right from Azure Policy.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="hljs-pscommand"&gt;&lt;strong&gt;Please note:&lt;/strong&gt; This method for deploying ASR should only be used as a&lt;em&gt; last resort&lt;/em&gt; due to the complex nature and knowledge necessary for using DSC powershell scripting and its limitation.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="hljs-pscommand"&gt;We hope that you found this article and the additional step-by-step resources helpful.&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stream Microsoft Defender for IoT alerts to a 3rd party SIEM</title>
