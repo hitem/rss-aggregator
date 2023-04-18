@@ -3,7 +3,59 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Apr 2023 16:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 17:05:30 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Authenticator Lite (in Outlook)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-authenticator-lite-in-outlook/ba-p/3773139</link>
+      <pubDate>Tue, 18 Apr 2023 16:58:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-authenticator-lite-in-outlook/ba-p/3773139</guid>
+      <description>&lt;p&gt;&lt;span&gt;Two years ago, we shared that &#8220;&lt;/span&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/it-s-time-to-hang-up-on-phone-transports-for-authentication/ba-p/1751752" rel="noopener" target="_blank"&gt;&lt;span&gt;It's Time to Hang Up on Phone Transports for Authentication.&#8221;&lt;/span&gt;&lt;/a&gt;&lt;span&gt; Today, we&#8217;re adding the public preview of &lt;/span&gt;&lt;strong&gt;&lt;span&gt;Authenticator Lite&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; to the tools we are offering to help you move from text message (SMS) and voice-based authentication. Our priority is getting every user to sign in with modern strong authentication &#8211; passwordless, hardened against phishing, easy to use and adaptable to evolving attacks.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Our top recommendation for modern strong authentication is the &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-authenticator-app" rel="noopener" target="_blank"&gt;&lt;span&gt;Authenticator&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, which offers the most robust security features, updated the most frequently, for free. Microsoft Authenticator app has over 100 million users worldwide who trust it as a secure and easy way to authenticate, making it the most popular way to sign in with strong authentication in Azure.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span class="ui-provider gq b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak"&gt;Because modern strong authentication is so important, we're making it even more accessible by embedding it right into the Outlook client! We call this embedded experience &lt;a class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq" href="https://aka.ms/authappliteadmindocs" rel="noopener noreferrer" target="_blank" title="https://aka.ms/authappliteadmindocs"&gt;Authenticator Lite&lt;/a&gt; - and we're excited to announce it is now in public preview! For users that haven&#8217;t yet downloaded Authenticator, they can now complete MFA for their work or school account for free using the Outlook app on their iOS or Android devices. Users can approve authentication requests and receive TOTP codes, bringing the security of Authenticator to a convenient location while simplifying users&#8217; move off phone transports for authentication.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;During public preview, admins can choose to enable or disable this capability for a group of users or to leave the feature in a Microsoft managed state. Enabling a group for Authenticator Lite is possible from the Entra portal via the Authenticator configuration page. &amp;nbsp;It&#8217;s also possible to &lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-authenticator-lite#enable-authenticator-lite" rel="noopener" target="_blank"&gt;enable the feature through MS Graph.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_0-1681480846426.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/460580iDAD3A98396357C5E/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_0-1681480846426.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Authenticator Lite, as the name suggests, will extend a subset of the Authenticator&#8217;s capabilities into Outlook. Each verification notification will include a number matching prompt and biometric or pin verification if enabled on the device. More information on the Authenticator Lite notification configurations can be found &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-authenticator-lite#enable-authenticator-lite" rel="noopener" target="_blank"&gt;&lt;span&gt;here.&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Once enabled for Authenticator Lite, users on the &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-authenticator-lite#prerequisites" rel="noopener" target="_blank"&gt;&lt;span&gt;latest version of Outlook&lt;/span&gt;&lt;/a&gt;&lt;span&gt; without the Authenticator app will be prompted to register Outlook as an MFA method when they launch the app on their device.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_1-1681480846433.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/460581i5A2C7047F9723629/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_1-1681480846433.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Once users are registered, during their next authentication, users will be prompted to authenticate using a push notification in their Outlook app.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_2-1681480846456.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/460582i58150669B93DDA55/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_2-1681480846456.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Registered users will also have access to a TOTP code found in their Outlook settings under Authenticator. &lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_3-1681480846461.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/460583iA6C729E4A5EFB135/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_3-1681480846461.png" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;For more information on enabling this feature for your users, see &lt;/span&gt;&lt;a href="https://aka.ms/authAppLiteAdminDocs" rel="noopener" target="_blank"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Rollout to support this feature in Outlook is currently underway.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This feature will roll out to tenants in the state &lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-default-enablement" rel="noopener" target="_blank"&gt;&lt;span&gt;&#8216;&lt;i&gt;Microsoft managed&lt;/i&gt;&#8217;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt; For the duration of public preview, leaving the feature set to &#8216;&lt;/span&gt;&lt;i&gt;&lt;span&gt;Microsoft managed&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&#8217; will have no impact on your users and the feature will remain turned off unless you explicitly change the state to enabled. In late April 2023, we will remove preview tags and enter general availability. On May 26, 2023, if the feature is left set to &#8216;&lt;/span&gt;&lt;i&gt;&lt;span&gt;Microsoft managed,&#8217;&lt;/span&gt;&lt;/i&gt;&lt;span&gt; your tenant will be enabled for Authenticator Lite by Microsoft. If you do not wish for this feature to be enabled on May 26, set the state to &#8216;&lt;/span&gt;&lt;i&gt;&lt;span&gt;disabled&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&#8217; or assign users to include and exclude groups &lt;/span&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;prior to May 26&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;We hope you and your users enjoy this new feature, and, as always, please let us know of any questions or feedback by leaving comments down below or reaching out to us at &lt;/span&gt;&lt;a href="http://aka.ms/azureADfeedback" rel="noopener" target="_blank"&gt;&lt;span&gt;aka.ms/AzureADFeedback.&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Regards,&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Alex Weinert&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;VP Director of Identity Security, Microsoft&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Microsoft Identity Division&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Learn more about Microsoft identity:&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Get to know &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-microsoft-entra-modern-identity-and-access-solutions/ba-p/2520440" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Microsoft Entra&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; &#8211; a comprehensive identity and access product family&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Return to the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Microsoft Entra (Azure AD) blog home&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&#8239;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Entra (Azure AD) forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Discovering internet-facing devices using Microsoft Defender for Endpoint</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</link>
@@ -11227,80 +11279,6 @@ AzureActivity
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Introducing enhanced company branding for sign-in experiences in Azure AD</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-enhanced-company-branding-for-sign-in-experiences-in/ba-p/3094110</link>
-      <pubDate>Thu, 02 Feb 2023 21:39:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-enhanced-company-branding-for-sign-in-experiences-in/ba-p/3094110</guid>
-      <description>&lt;p&gt;&lt;span&gt;Hello friends,&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;I'm thrilled to announce that we have redesigned the&#8239;company branding functionality&#8239;to allow&#8239;more flexible and user-centric customization&#8239;of the built-in identity flows for Azure AD and Microsoft 365 apps. The new experience controls apply to sign-in for users in the directory and for external users, including use cases for B2B, B2E and first-party applications running on Azure AD. You can try the public preview today.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Your users, your experience&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;span&gt;We added these customization options based on your feedback that you wanted more control over the experience for your users. For those building customer facing apps, we know from our experience on the B2C platform that a beautifully branded experience is critical in building a trusted relationship.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;With enhanced Company Branding, you&#8217;ll be able to create a custom look and feel for the default sign in pages&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;as well as pages targeting specific browser languages&lt;/span&gt;&lt;span&gt;. In addition, you can &lt;/span&gt;&lt;span&gt;now customize self-service password reset&#8239;(SSPR), footer hyperlinks, and browser icon, style sign-in experiences using cascading style sheets (CSS) and enable header and footer using one of the pre-defined templates.&#8239;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Configure the sign in experience&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;span&gt;Enhanced customization can be configured using the company branding blade in the Azure portal for your tenant. There, you can configure settings that automatically display customizations to your users when they land on your organization&#8217;s sign in &lt;/span&gt;&lt;span&gt;pages, &lt;/span&gt;&lt;span&gt;as well as pages targeting specific browser languages.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The following are all new settings available on the company branding blades.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;Configure layout&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; &#8211; This allows you to specify the placement of web page elements on the sign-in page.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_0-1670621874983.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/424963i236D6E09385ED4EC/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_0-1670621874983.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;Set up custom self-service password reset hyperlink&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; &#8211; This provides the ability to show, hide, or customize the self-service password reset link on the sign-in page.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_1-1670621893304.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/424964iBD609C8A33DB9172/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_1-1670621893304.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;Customize footer hyperlinks&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; - the URLs and link text for privacy and terms of use hyperlinks that appear in the footer of the sign-in page:&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_2-1670621904119.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/424965i2468CF514AC6E576/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_2-1670621904119.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;Set up &#8216;Favicon&#8217;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; - the icon that displays in the web browser tab:&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_3-1670621911120.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/424966i85888CE555EB28A4/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_3-1670621911120.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;Customize header&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; - a custom logo to display in the header of the sign-in page:&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Once your settings are uploaded, you can view the resulting end user experience.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 999px;"&gt;&lt;img alt="SHDriggers_4-1670621923136.png" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/424967i0E69B0ADB5BB7658/image-size/large?v=v2&amp;amp;px=999" title="SHDriggers_4-1670621923136.png" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Get started using company branding by setting up Azure AD Premium or Office 365.&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/how-to-customize-branding" rel="noopener" target="_blank"&gt;&lt;span&gt;Learn more&lt;/span&gt;&lt;/a&gt; &lt;span&gt;about company branding.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;As always, we love hearing from you, so please share your feedback on these updates through the links below.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;Robin Goldstein&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Director of Product Management, Microsoft identity&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;span&gt;: &lt;/span&gt;&lt;span&gt;Robin Goldstein | LinkedIn&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Learn more about Microsoft identity:&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Related Articles: &lt;/span&gt;&lt;/i&gt;&lt;span&gt;&lt;span&gt;&#8203;&lt;/span&gt;&lt;a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/how-to-customize-branding" rel="noopener" target="_blank"&gt;&lt;span&gt;Add company branding to your organization's sign-in page (preview) - Azure AD - Microsoft Entra | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&#8203;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Get to know &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-microsoft-entra-modern-identity-and-access-solutions/ba-p/2520440" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Microsoft Entra&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; &#8211; a comprehensive identity and access product family&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Return to the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Microsoft Entra (Azure AD) blog home&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&#8239;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Entra (Azure AD) forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seamless Application Access and Lifecycle Management for Multi-tenant Azure AD Organizations</title>
