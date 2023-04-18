@@ -28,20 +28,16 @@ for url in rss_feed_urls:
     feed = feedparser.parse(url)
     all_entries.extend(feed.entries)
 
-# Remove duplicates based on the 'title', 'published', and 'link' fields
-entry_key = lambda entry: (entry.title, entry.published, entry.link)
+# Remove duplicates based on the 'title', 'published', 'link', and 'id' fields
+entry_key = lambda entry: (entry.title, entry.published, entry.link, entry.id if hasattr(entry, "id") else None)
 unique_entries = {entry_key(entry): entry for entry in all_entries}.values()
 
 # Filter entries published within the last 2 hours
 time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
 recent_entries = [entry for entry in unique_entries if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z") >= time_threshold]
 
-# Filter out entries older than a year
-max_age = datetime.datetime.utcnow() - datetime.timedelta(days=365)
-filtered_entries = [entry for entry in recent_entries if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z") >= max_age]
-
 # Sort entries by published date in descending order
-sorted_entries = sorted(filtered_entries, key=lambda x: x.published_parsed, reverse=True)
+sorted_entries = sorted(recent_entries, key=lambda x: x.published_parsed, reverse=True)
 
 # Create a new XML tree for the aggregated RSS feed
 root = etree.Element("rss", version="2.0")
