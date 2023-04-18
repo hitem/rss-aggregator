@@ -58,7 +58,9 @@ for entry in sorted_entries:
     etree.SubElement(item, "link").text = entry.link
     etree.SubElement(item, "pubDate").text = entry.published
     etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(entry, "id") else entry.link
-    etree.SubElement(item, "description").text = entry.summary
+    # Change number depending on how many lines you want to include
+    line_summary = '\n'.join(entry.summary.split('\n')[:5])
+    etree.SubElement(item, "description").text = line_summary
 
 # Write the output to a file
 with open(output_file, "wb") as f:
