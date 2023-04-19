@@ -5,6 +5,7 @@ import feedparser
 from lxml import etree
 import datetime
 import os
+from bs4 import BeautifulSoup
 
 # Define the list of RSS feed URLs
 rss_feed_urls = [
@@ -55,8 +56,11 @@ for entry in sorted_entries:
     etree.SubElement(item, "pubDate").text = entry.published
     etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(entry, "id") else entry.link
     # Change number depending on how many lines you want to include
-    line_summary = '\n'.join(entry.summary.split('\n')[:5])
-    etree.SubElement(item, "description").text = line_summary
+    soup = BeautifulSoup(entry.summary, "lxml")
+    summary_text = soup.get_text()
+    lines_summary = '\n'.join(summary_text.split('\n')[:5])
+    etree.SubElement(item, "description").text = lines_summary
+
 
 # Write the output to a file
 with open(output_file, "wb") as f:
