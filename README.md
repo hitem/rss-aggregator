@@ -10,7 +10,7 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/Mic
 1. Create a new GitHub repository and upload files: \
     Create a new public GitHub repository (e.g., "rss-aggregator"). You'll store the Python script, aggregated RSS feed and the workflow file in this repository. \
     Personally, i ran the python script localy to generate the ```aggregated_feed.xml``` file - but the workflow should be able to do that for you, but maybe you dont want to wait. If you do so you have to install:
-    > pip install feedparser lxml
+    > pip install feedparser lxml beautifulsoup4
 
     then run 
     > python3 rss_aggregator.py

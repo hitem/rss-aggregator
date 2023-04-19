@@ -34,7 +34,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install feedparser lxml
+        pip install feedparser lxml beautifulsoup4
         touch .env
 
     - name: Run RSS aggregator script
