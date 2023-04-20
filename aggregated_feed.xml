@@ -3,6 +3,251 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 20 Apr 2023 10:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2023 11:06:17 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - November 2022</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-november-2022/ba-p/3689841</link>
+      <pubDate>Thu, 20 Apr 2023 10:28:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-november-2022/ba-p/3689841</guid>
+      <description>
+
+
+
+Microsoft 365 DefenderMonthly newsNovember 2022
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various assets we have across our Defender products.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft 365 Defender
+
+
+
+
+
+
+
+Investigate incidents more effectively with the new attack story view in Microsoft 365 Defender.
+
+
+
+Identity Protection alerts are now available in Microsoft 365 Defender.&#160;
+
+
+
+(Preview) Microsoft Defender Exper...</description>
+    </item>
+    <item>
+      <title>Monthly news - January 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-january-2023/ba-p/3712287</link>
+      <pubDate>Thu, 20 Apr 2023 10:28:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-january-2023/ba-p/3712287</guid>
+      <description>
+
+
+
+Microsoft 365 DefenderMonthly newsJanuary 2023 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this January edition, we are looking at all the goodness from December 2022. NEW: At the end we now include a list of the latest threat analytics reports, as well as other Microsoft security blogs for you.&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+...</description>
+    </item>
+    <item>
+      <title>Monthly news - February 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-february-2023/ba-p/3734717</link>
+      <pubDate>Thu, 20 Apr 2023 10:27:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-february-2023/ba-p/3734717</guid>
+      <description>
+
+
+
+Microsoft 365 DefenderMonthly newsFebruary 2023 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2023. NEW: At the end we now include a list of the latest threat analytics reports, as well as other Microsoft security blogs for you.&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Micro...</description>
+    </item>
+    <item>
+      <title>Monthly news - March 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-march-2023/ba-p/3758308</link>
+      <pubDate>Thu, 20 Apr 2023 10:27:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-march-2023/ba-p/3758308</guid>
+      <description>
+
+
+
+Microsoft 365 DefenderMonthly newsMarch 2023 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from February 2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft 365 Defender
+
+
+
+
+
+
+
+The virtual Ninja Show is back with Season 3.&#160;Check out the show schedule and add the episodes to your ca...</description>
+    </item>
   </channel>
 </rss>
