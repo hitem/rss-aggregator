@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 20 Apr 2023 14:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2023 15:07:19 GMT</lastBuildDate>
+    <item>
+      <title>Discovering internet-facing devices using Microsoft Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</link>
+      <pubDate>Thu, 20 Apr 2023 15:00:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</guid>
+      <description>Last year, we announced&#160;the evolution of the device inventory view in Microsoft Defender for Endpoint. The revamped device inventory view gave SOC analysts visibility into all discovered devices, counts and functional features (such as, search) that enhanced the overall user experience. To build on top of this work, we are expanding our device discovery capabilities through our existing network telemetry and RiskIQ integration. We&#8217;re thrilled to announce the ability to discover internet-facing devices is now in public preview.
+&#160;
+Threat actors are constantly scanning the internet to identify ex...</description>
+    </item>
   </channel>
 </rss>
