@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Apr 2023 23:07:18 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Data collaboration in Microsoft Purview data catalog with Ratings feature</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-data-collaboration-in-microsoft-purview-data-catalog/ba-p/3800375</link>
-      <pubDate>Wed, 19 Apr 2023 21:59:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-data-collaboration-in-microsoft-purview-data-catalog/ba-p/3800375</guid>
-      <description>Research suggests that ratings and reviews are critical in identifying trustworthy products. Customers can see these reviews across various industries and outlets, from Amazon's e-commerce platform, to TripAdvisor, and Yelp. This suggests that a similar approach can be adopted and ratings will be crucial to provide trust and confidence to users discovering data assets in Microsoft Purview data catalog for usage either in an analytical pipeline, reporting dashboard, etc.&#160;
-&#160;
-Imagine you are a data analyst tasked with building customer usage metrics for the last six months. Using Microsoft Purview data catalog, you can now search and find all the customer related data assets. However, you will now face the challenge that there are multiple data assets which have customer information, and you are not sure which one is the trusted one.&#160; One way to understand this would be to get access to all the customer data assets which you think are relevant, read the data, and then determine which one to use. This process can be cumbersome and time consuming, and ratings can help alleviate some of the inefficiencies.&#160;As users in your organization use data assets, they can now provide a rating of 1- 5 and leave comments on the data asset. Now, as an analyst you can use these ratings and reviews to understand and use the most trusted and used data.
-&#160;
-You can also provide your rating and leave comments on the data asset based on your experiences of using that data asset.</description>
-    </item>
+    <lastBuildDate>Thu, 20 Apr 2023 00:36:12 GMT</lastBuildDate>
   </channel>
 </rss>
