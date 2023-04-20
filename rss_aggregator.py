@@ -58,7 +58,7 @@ for entry in sorted_entries:
     # Change number depending on how many characters you want to include
     soup = BeautifulSoup(entry.summary, "lxml")
     summary_text = soup.get_text()
-    limited_summary = summary_text[:350] + "..." if len(summary_text) > 350 else summary_text
+    limited_summary = summary_text[:600] + "..." if len(summary_text) > 350 else summary_text
     etree.SubElement(item, "description").text = limited_summary
 
 
