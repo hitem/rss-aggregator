@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 20 Apr 2023 17:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2023 18:08:45 GMT</lastBuildDate>
     <item>
       <title>Azure Network Security @ RSA Conference 2023 (April 23-27)</title>
       <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-rsa-conference-2023-april-23-27/ba-p/3800541</link>
@@ -17,19 +17,6 @@ Azure Network Security @ Microsoft Booth
 Join us at the Microsoft booth for our 2 theater sessions focused on Azure Network Security:
 &#160;
 Secure your network infrastructure with Zero Trust, cloud-native network security | Thursday, April 27th, 10:40AM - ...</description>
-    </item>
-    <item>
-      <title>Azure Monitor: Logs Ingestion API Tips &amp; Tricks</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-logs-ingestion-api-tips-amp-tricks/ba-p/3792081</link>
-      <pubDate>Thu, 20 Apr 2023 15:27:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-logs-ingestion-api-tips-amp-tricks/ba-p/3792081</guid>
-      <description>Hello followers and welcome back to this new post of mine 
-&#160;
-Today I am going to share with you an interesting experience in configuring the Logs ingestion using the new API in Azure Monitor in a data collection rule created using ARM templates.
-&#160;
-In my previous HTTP Data Collector API in a real customer scenario post, I showed a possible use of the old HTTP Data Collector API but since things changed a lot with the release of the Azure Monitor Agent I decided to give the new Logs Ingestion API a try.
-&#160;
-I basically followed the Tutorial: Send data to Azure Monitor Logs using REST API (Resource...</description>
     </item>
   </channel>
 </rss>
