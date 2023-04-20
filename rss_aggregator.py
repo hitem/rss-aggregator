@@ -55,11 +55,11 @@ for entry in sorted_entries:
     etree.SubElement(item, "link").text = entry.link
     etree.SubElement(item, "pubDate").text = entry.published
     etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(entry, "id") else entry.link
-    # Change number depending on how many lines you want to include
+    # Change number depending on how many characters you want to include
     soup = BeautifulSoup(entry.summary, "lxml")
     summary_text = soup.get_text()
-    lines_summary = '\n'.join(summary_text.split('\n')[:5])
-    etree.SubElement(item, "description").text = lines_summary
+    limited_summary = summary_text[:350] + "..." if len(summary_text) > 350 else summary_text
+    etree.SubElement(item, "description").text = limited_summary
 
 
 # Write the output to a file
