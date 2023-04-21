@@ -3,19 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 21 Apr 2023 17:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 18:09:07 GMT</lastBuildDate>
     <item>
-      <title>Introducing Windows Local Administrator Password Solution with Microsoft Entra (Azure AD)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</link>
-      <pubDate>Fri, 21 Apr 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</guid>
-      <description>Howdy folks,&#8239;&#160;
-&#8239;&#160;
-Today we have some news I know many of you will be excited about! As part of our vision to give you comprehensive security solutions, we&#8217;ve joined forces with the Windows and Microsoft Intune teams to release a public preview of Windows Local Administrator Password Solution (LAPS) for Azure AD (which is now part of Microsoft Entra).&#160;
+      <title>Three steps to master information governance in your organization</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/three-steps-to-master-information-governance-in-your/ba-p/3797815</link>
+      <pubDate>Fri, 21 Apr 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/three-steps-to-master-information-governance-in-your/ba-p/3797815</guid>
+      <description>This month's episode of Uncovering Hidden Risks will discuss Information Governance and the industry trends we are seeing in this space. Information governance is the overall strategy for managing information at an organization. It is a discipline that spans several markets, including data governance, security, compliance, data privacy, content services, and more. Recently, these markets have begun to converge, highlighting the sometimes conflicting requirements between these disciplines.
 &#160;
-I&#8217;ve asked Sandeep Deo, one of the Product Managers behind this release, to give you the low down on all these updates and explain how you can start using Windows LAPS with Microsoft Entra (Azure AD). You&#8217;ll find Sandeep&#8217;s blog post below.&#160;
-&#160;
-B...</description>
+Joining our host Erica Toelle is our guest, Randolph Kahn. Mr. Kahn is a globally recognized leader in I...</description>
     </item>
   </channel>
 </rss>
