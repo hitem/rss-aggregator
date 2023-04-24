@@ -3,66 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Apr 2023 18:58:42 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Windows Local Administrator Password Solution with Microsoft Entra (Azure AD)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</link>
-      <pubDate>Mon, 24 Apr 2023 15:52:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</guid>
-      <description>Howdy folks,&#8239;&#160;
-&#8239;&#160;
-Today we have some news I know many of you will be excited about! As part of our vision to give you comprehensive security solutions, we&#8217;ve joined forces with the Windows and Microsoft Intune teams to release a public preview of Windows Local Administrator Password Solution (LAPS) for Azure AD (which is now part of Microsoft Entra).
-&#160;
-I&#8217;ve asked Sandeep Deo, one of the Product Managers behind this release, to give you the low down on all these updates and explain how you can start using Windows LAPS with Microsoft Entra (Azure AD). You&#8217;ll find Sandeep&#8217;s blog post below.&#160;
-&#160;
-Be...</description>
-    </item>
-    <item>
-      <title>Azure Data Studio - Connections to Azure Government</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592</link>
-      <pubDate>Mon, 24 Apr 2023 15:43:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592</guid>
-      <description>&#160;
-Connections to Azure Government aren't automatically enabled in Azure Data Studio. This article will guide you through the process of enabling connections to Azure Government from Azure Data Studio.&#8195;
-&#160;
-Begin by connecting to your subscription in the Azure Government Portal. Then, navigate to Azure Active Directory &gt; Groups
-Identify or create a group that will contain the users you wish to provision access for. In this article, we&#8217;ll use &#8220;MI_Admins&#8221;.
-&#160;
-
-&#160;
-In Azure Portal, navigate to the Azure SQL Managed Instance or the server for the Azure SQL DB you wish to grant access to. On the networki...</description>
-    </item>
-    <item>
-      <title>Microsoft bolsters cloud-native security in Defender for Cloud with new API security capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-bolsters-cloud-native-security-in-defender-for-cloud/ba-p/3801818</link>
-      <pubDate>Mon, 24 Apr 2023 14:40:51 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-bolsters-cloud-native-security-in-defender-for-cloud/ba-p/3801818</guid>
-      <description>Application Programming Interfaces (APIs) power modern applications, fuel digital experiences, and enable faster business growth. APIs are at the heart of communication between users, cloud services, and data &#8211; more and more so as organizations move from monolithic to microservice based application architectures. But the interesting challenge is that APIs are loved by developers and threat actors alike. Threat actors increasingly use APIs as their primary attack vector to breach data from cloud applications, which means API security is now a critical priority for CISOs.&#160;
-&#160;
-To combat API securi...</description>
-    </item>
-    <item>
-      <title>Azure AD Go Local Data Residency Goes Public Preview in Japan</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-go-local-data-residency-goes-public-preview-in-japan/ba-p/3751028</link>
-      <pubDate>Mon, 24 Apr 2023 14:28:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-go-local-data-residency-goes-public-preview-in-japan/ba-p/3751028</guid>
-      <description>Hi folks,&#160;
-&#160;
-Azure Active Directory (Azure AD) B2C, part of Microsoft Entra, enables organizations and individuals across the globe to achieve more by addressing their key security and privacy requirements, including the question of where your data is located. Today, we&#8217;re thrilled to announce Go Local Data Residency is in public preview for Japan.&#160;
-&#160;
-In Azure AD, Data Residency is determined by the country/region selected when creating a tenant. The Go Local data residency add-on is an option that enables Azure AD Premium P1 and P2 customers to purchase local data residency rights for their c...</description>
-    </item>
-    <item>
-      <title>Customize your authentication flows with custom claims providers!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/customize-your-authentication-flows-with-custom-claims-providers/ba-p/2464388</link>
-      <pubDate>Mon, 24 Apr 2023 14:12:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/customize-your-authentication-flows-with-custom-claims-providers/ba-p/2464388</guid>
-      <description>Howdy folks,&#160;
-&#160;
-I&#8217;m super excited to announce the public preview of custom claims providers for Azure Active Directory (Azure AD), now part of Microsoft Entra. &#160;
-&#160;
-A custom claims provider lets you call an API and map custom claims into the token during the authentication flow. The API call is made after the user has completed all their authentication challenges, and a token is about to be issued to the app.&#160;&#160;
-We heard from many of you that you need to return additional claims into the tokens sent to your apps so that they could function as intended. And these claims were being sourced from ex...</description>
-    </item>
+    <lastBuildDate>Mon, 24 Apr 2023 19:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
