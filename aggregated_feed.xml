@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Apr 2023 18:46:08 GMT</lastBuildDate>
-    <item>
-      <title>Improve your app posture and hygiene using Microsoft Defender for Cloud Apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361</link>
-      <pubDate>Mon, 24 Apr 2023 17:27:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361</guid>
-      <description>In today's digital age, where Software as a Service (SaaS) has become ubiquitous, it is critical to have a line of sight into the SaaS applications being used in your organization. The challenge is managing the growing number of apps and knowing which apps may be misconfigured or unused. This leaves an open attack vector that can be easily taken advantage of by adversaries. In our recent announcement,&#160;we shared that Microsoft Defender for Cloud Apps is shifting to a comprehensive SaaS Security solution and how critical it is to implement holistic SaaS Security strategy. Strengthening app postu...</description>
-    </item>
-    <item>
-      <title>Discovering internet-facing devices using Microsoft Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</link>
-      <pubDate>Mon, 24 Apr 2023 16:52:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</guid>
-      <description>Last year, we announced&#160;the evolution of the device inventory view in Microsoft Defender for Endpoint. The revamped device inventory view gave SOC analysts visibility into all discovered devices, counts and functional features (such as, search) that enhanced the overall user experience. To build on top of this work, we are expanding our device discovery capabilities through our existing network telemetry and RiskIQ integration. We&#8217;re thrilled to announce the ability to discover internet-facing devices is now in public preview.
-&#160;
-Threat actors are constantly scanning the internet to identify ex...</description>
-    </item>
+    <lastBuildDate>Mon, 24 Apr 2023 18:52:47 GMT</lastBuildDate>
   </channel>
 </rss>
