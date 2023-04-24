@@ -25,7 +25,7 @@ output_file = "aggregated_feed.xml"
 
 # Read previously processed links
 with open("processed_links.txt", "r") as f:
-    processed_links = set(f.read().splitlines())
+    processed_links = set(line.split()[1] for line in f if line.strip())
 
 # Parse and aggregate the RSS feeds
 all_entries = []
@@ -72,7 +72,8 @@ with open(output_file, "wb") as f:
 # Update the processed links file with new links
 with open("processed_links.txt", "a") as f:
     for entry in recent_entries:
-        f.write(f"{entry.link}\n")
+        timestamp = datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%dT%H:%M:%S")
+        f.write(f"{timestamp} {entry.link}\n")
 
 # Set the RSS_FEED_ENTRIES environment variable
 with open(os.environ["GITHUB_ENV"], "a") as f:
