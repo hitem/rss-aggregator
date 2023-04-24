@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Apr 2023 17:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 18:09:24 GMT</lastBuildDate>
+    <item>
+      <title>Improve your app posture and hygiene using Microsoft Defender for Cloud Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361</link>
+      <pubDate>Mon, 24 Apr 2023 17:27:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361</guid>
+      <description>In today's digital age, where Software as a Service (SaaS) has become ubiquitous, it is critical to have a line of sight into the SaaS applications being used in your organization. The challenge is managing the growing number of apps and knowing which apps may be misconfigured or unused. This leaves an open attack vector that can be easily taken advantage of by adversaries. In our recent announcement,&#160;we shared that Microsoft Defender for Cloud Apps is shifting to a comprehensive SaaS Security solution and how critical it is to implement holistic SaaS Security strategy. Strengthening app postu...</description>
+    </item>
     <item>
       <title>Discovering internet-facing devices using Microsoft Defender for Endpoint</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975</link>
@@ -12,34 +19,6 @@
       <description>Last year, we announced&#160;the evolution of the device inventory view in Microsoft Defender for Endpoint. The revamped device inventory view gave SOC analysts visibility into all discovered devices, counts and functional features (such as, search) that enhanced the overall user experience. To build on top of this work, we are expanding our device discovery capabilities through our existing network telemetry and RiskIQ integration. We&#8217;re thrilled to announce the ability to discover internet-facing devices is now in public preview.
 &#160;
 Threat actors are constantly scanning the internet to identify ex...</description>
-    </item>
-    <item>
-      <title>Introducing Windows Local Administrator Password Solution with Microsoft Entra (Azure AD)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</link>
-      <pubDate>Mon, 24 Apr 2023 15:52:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</guid>
-      <description>Howdy folks,&#8239;&#160;
-&#8239;&#160;
-Today we have some news I know many of you will be excited about! As part of our vision to give you comprehensive security solutions, we&#8217;ve joined forces with the Windows and Microsoft Intune teams to release a public preview of Windows Local Administrator Password Solution (LAPS) for Azure AD (which is now part of Microsoft Entra).
-&#160;
-I&#8217;ve asked Sandeep Deo, one of the Product Managers behind this release, to give you the low down on all these updates and explain how you can start using Windows LAPS with Microsoft Entra (Azure AD). You&#8217;ll find Sandeep&#8217;s blog post below.&#160;
-&#160;
-Be...</description>
-    </item>
-    <item>
-      <title>Azure Data Studio - Connections to Azure Government</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592</link>
-      <pubDate>Mon, 24 Apr 2023 15:43:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592</guid>
-      <description>&#160;
-Connections to Azure Government aren't automatically enabled in Azure Data Studio. This article will guide you through the process of enabling connections to Azure Government from Azure Data Studio.&#8195;
-&#160;
-Begin by connecting to your subscription in the Azure Government Portal. Then, navigate to Azure Active Directory &gt; Groups
-Identify or create a group that will contain the users you wish to provision access for. In this article, we&#8217;ll use &#8220;MI_Admins&#8221;.
-&#160;
-
-&#160;
-In Azure Portal, navigate to the Azure SQL Managed Instance or the server for the Azure SQL DB you wish to grant access to. On the networki...</description>
     </item>
   </channel>
 </rss>
