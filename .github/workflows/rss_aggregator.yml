@@ -43,6 +43,13 @@ jobs:
       run: |
         python rss_aggregator.py
 
+    - name: Update processed links file
+      run: |
+      cat processed_links.txt >> history_processed_links.txt
+      sort -u history_processed_links.txt > temp_processed_links.txt
+      awk -F ' ' -v d="$(date -u --date="365 days ago" +%Y-%m-%dT%H:%M:%S)" '$1 > d' temp_processed_links.txt > processed_links.txt
+      rm temp_processed_links.txt
+      
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:

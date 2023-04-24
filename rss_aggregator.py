@@ -23,17 +23,21 @@ rss_feed_urls = [
 # Set the output file name
 output_file = "aggregated_feed.xml"
 
+# Read previously processed links
+with open("processed_links.txt", "r") as f:
+    processed_links = set(f.read().splitlines())
+
 # Parse and aggregate the RSS feeds
 all_entries = []
 for url in rss_feed_urls:
     feed = feedparser.parse(url)
     all_entries.extend(feed.entries)
 
-# Remove duplicates based on the 'link' field
-unique_entries = {entry.link: entry for entry in all_entries}.values()
+# Remove duplicates based on the 'link' field and filter out already processed links
+unique_entries = [entry for entry in all_entries if entry.link not in processed_links]
 
 # Filter entries published within the last 60 days
-time_threshold = datetime.datetime.utcnow() - datetime.timedelta(days=60)
+time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
 recent_entries = [entry for entry in unique_entries if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z") >= time_threshold]
 
 # Sort entries by published date in descending order
@@ -64,6 +68,11 @@ for entry in sorted_entries:
 # Write the output to a file
 with open(output_file, "wb") as f:
     f.write(etree.tostring(root, pretty_print=True))
+
+# Update the processed links file with new links
+with open("processed_links.txt", "a") as f:
+    for entry in recent_entries:
+        f.write(f"{entry.link}\n")
 
 # Set the RSS_FEED_ENTRIES environment variable
 with open(os.environ["GITHUB_ENV"], "a") as f:
