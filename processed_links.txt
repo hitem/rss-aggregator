@@ -1,7 +1,7 @@
-https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592
-https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361
-https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-bolsters-cloud-native-security-in-defender-for-cloud/ba-p/3801818
-https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975
-https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-go-local-data-residency-goes-public-preview-in-japan/ba-p/3751028
-https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/customize-your-authentication-flows-with-custom-claims-providers/ba-p/2464388
-https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-bolsters-cloud-native-security-in-defender-for-cloud/ba-p/3801818
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-go-local-data-residency-goes-public-preview-in-japan/ba-p/3751028
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/customize-your-authentication-flows-with-custom-claims-providers/ba-p/2464388
+2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487
