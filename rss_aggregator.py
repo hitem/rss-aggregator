@@ -32,8 +32,8 @@ for url in rss_feed_urls:
 # Remove duplicates based on the 'link' field
 unique_entries = {entry.link: entry for entry in all_entries}.values()
 
-# Filter entries published within the last 2 hours
-time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
+# Filter entries published within the last 60 days
+time_threshold = datetime.datetime.utcnow() - datetime.timedelta(days=60)
 recent_entries = [entry for entry in unique_entries if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z") >= time_threshold]
 
 # Sort entries by published date in descending order
