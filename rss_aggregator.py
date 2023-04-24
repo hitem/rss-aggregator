@@ -29,9 +29,8 @@ for url in rss_feed_urls:
     feed = feedparser.parse(url)
     all_entries.extend(feed.entries)
 
-# Remove duplicates based on the 'title', 'published', 'link', and 'id' fields
-entry_key = lambda entry: (entry.title, entry.published, entry.link, entry.id if hasattr(entry, "id") else None)
-unique_entries = {entry_key(entry): entry for entry in all_entries}.values()
+# Remove duplicates based on the 'link' field
+unique_entries = {entry.link: entry for entry in all_entries}.values()
 
 # Filter entries published within the last 2 hours
 time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
