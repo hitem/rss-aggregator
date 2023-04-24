@@ -3,14 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Apr 2023 15:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 16:09:28 GMT</lastBuildDate>
+    <item>
+      <title>Introducing Windows Local Administrator Password Solution with Microsoft Entra (Azure AD)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</link>
+      <pubDate>Mon, 24 Apr 2023 15:52:20 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</guid>
+      <description>Howdy folks,&#8239;&#160;
+&#8239;&#160;
+Today we have some news I know many of you will be excited about! As part of our vision to give you comprehensive security solutions, we&#8217;ve joined forces with the Windows and Microsoft Intune teams to release a public preview of Windows Local Administrator Password Solution (LAPS) for Azure AD (which is now part of Microsoft Entra).
+&#160;
+I&#8217;ve asked Sandeep Deo, one of the Product Managers behind this release, to give you the low down on all these updates and explain how you can start using Windows LAPS with Microsoft Entra (Azure AD). You&#8217;ll find Sandeep&#8217;s blog post below.&#160;
+&#160;
+Be...</description>
+    </item>
     <item>
       <title>Azure Data Studio - Connections to Azure Government</title>
       <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592</link>
-      <pubDate>Mon, 24 Apr 2023 15:04:38 GMT</pubDate>
+      <pubDate>Mon, 24 Apr 2023 15:43:22 GMT</pubDate>
       <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-studio-connections-to-azure-government/ba-p/3786592</guid>
-      <description>Azure Data Studio
-Connections to Azure Government Using Azure Active Directory
+      <description>&#160;
 Connections to Azure Government aren't automatically enabled in Azure Data Studio. This article will guide you through the process of enabling connections to Azure Government from Azure Data Studio.&#8195;
 &#160;
 Begin by connecting to your subscription in the Azure Government Portal. Then, navigate to Azure Active Directory &gt; Groups
@@ -18,7 +30,7 @@ Identify or create a group that will contain the users you wish to provision acc
 &#160;
 
 &#160;
-In Azure Portal, navigate to the Azure SQL Managed Instance or...</description>
+In Azure Portal, navigate to the Azure SQL Managed Instance or the server for the Azure SQL DB you wish to grant access to. On the networki...</description>
     </item>
     <item>
       <title>Microsoft bolsters cloud-native security in Defender for Cloud with new API security capabilities</title>
@@ -51,19 +63,6 @@ I&#8217;m super excited to announce the public preview of custom claims provider
 &#160;
 A custom claims provider lets you call an API and map custom claims into the token during the authentication flow. The API call is made after the user has completed all their authentication challenges, and a token is about to be issued to the app.&#160;&#160;
 We heard from many of you that you need to return additional claims into the tokens sent to your apps so that they could function as intended. And these claims were being sourced from ex...</description>
-    </item>
-    <item>
-      <title>Introducing Windows Local Administrator Password Solution with Microsoft Entra (Azure AD)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</link>
-      <pubDate>Mon, 24 Apr 2023 14:07:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487</guid>
-      <description>Howdy folks,&#8239;&#160;
-&#8239;&#160;
-Today we have some news I know many of you will be excited about! As part of our vision to give you comprehensive security solutions, we&#8217;ve joined forces with the Windows and Microsoft Intune teams to release a public preview of Windows Local Administrator Password Solution (LAPS) for Azure AD (which is now part of Microsoft Entra).
-&#160;
-I&#8217;ve asked Sandeep Deo, one of the Product Managers behind this release, to give you the low down on all these updates and explain how you can start using Windows LAPS with Microsoft Entra (Azure AD). You&#8217;ll find Sandeep&#8217;s blog post below.&#160;
-&#160;
-Be...</description>
     </item>
   </channel>
 </rss>
