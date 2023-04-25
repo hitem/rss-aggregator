@@ -3,6 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Apr 2023 15:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 16:01:40 GMT</lastBuildDate>
+    <item>
+      <title>Building Stronger Identity Solutions with New Microsoft Entra Integrations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/building-stronger-identity-solutions-with-new-microsoft-entra/ba-p/3793175</link>
+      <pubDate>Tue, 25 Apr 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/building-stronger-identity-solutions-with-new-microsoft-entra/ba-p/3793175</guid>
+      <description>I&#8217;m excited by this year&#8217;s RSA theme of &#8220;Stronger Together.&#8221; In the Identity and Network Access Division, we believe that everyone must work together to make the world a safer place for all. Leading up to RSA this year, the team has been hard at work collaborating with a wide range of technology vendors to extend our Microsoft Entra capabilities and help our customers move forward in their Zero Trust journeys. By integrating our products together, we make better security solutions for all. Below you&#8217;ll find some highlights from the last six months of our work creating integrated solutions to a...</description>
+    </item>
+    <item>
+      <title>Protect apps that use non-standard ports with Defender for Cloud Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-apps-that-use-non-standard-ports-with-defender-for-cloud/ba-p/3685351</link>
+      <pubDate>Tue, 25 Apr 2023 15:53:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-apps-that-use-non-standard-ports-with-defender-for-cloud/ba-p/3685351</guid>
+      <description>We are happy to announce that applications that use ports other than 443 can now be protected in real-time using Microsoft Defender for Cloud Apps.&#160;
+&#160;
+One of the core challenges today for security teams is how to protect data in motion. With many employees working in hybrid environments, protecting data in both managed and unmanaged devices has become a prominent attack vector. Within Microsoft Defender for Cloud Apps, we have a dedicated set of capabilities to help customers with this challenge called real time controls.&#160;&#160;
+Using real time controls, you can protect any business web application...</description>
+    </item>
+    <item>
+      <title>Protect your sensitive data against malicious apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-your-sensitive-data-against-malicious-apps/ba-p/3708926</link>
+      <pubDate>Tue, 25 Apr 2023 15:52:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-your-sensitive-data-against-malicious-apps/ba-p/3708926</guid>
+      <description>Protecting sensitive content is a top priority for security and compliance administrators across all organizations. With Microsoft Purview Information Protection, you have the ability to track and regulate user access to content with sensitivity labels. However, with the accelerated adoption of apps and the evolution of our threat landscape, administrators need to ensure that the same protection of the sensitivity content available to users is also available to the apps running in their organization.
+&#160;
+We wanted to share more details around the recent feature rollout for&#160;insights and remediati...</description>
+    </item>
+    <item>
+      <title>Simplifying SaaS Security: Deploying Microsoft Defender for Cloud Apps in 4 steps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplifying-saas-security-deploying-microsoft-defender-for-cloud/ba-p/3788360</link>
+      <pubDate>Tue, 25 Apr 2023 15:52:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplifying-saas-security-deploying-microsoft-defender-for-cloud/ba-p/3788360</guid>
+      <description>The Software as a Service (SaaS) landscape has evolved dramatically. The proliferation of cloud-based applications has brought significant benefits in terms of scalability, accessibility, and cost-effectiveness. However, it has also led to an increased need for organizations to secure these applications and protect their data. We understand it can be challenging to know where to begin and ensure you have protection across your entire digital estate.
+&#160;
+Microsoft Defender for Cloud Apps makes it simple to secure organization&#8217;s SaaS applications. It&#160;can be deployed quickly and easily, with no oth...</description>
+    </item>
   </channel>
 </rss>
