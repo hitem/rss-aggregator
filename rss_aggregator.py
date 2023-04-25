@@ -18,6 +18,13 @@ rss_feed_urls = [
     "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftDefenderCloudBlog",
     "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog",
     "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftDefenderIoTBlog",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=DefenderExternalAttackSurfaceMgmtBlog",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Vulnerability-Management",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=DefenderThreatIntelligence",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftSecurityExperts",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog",
+    "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftDefenderforOffice365Blog",
 ]
 
 # Set the output file name
