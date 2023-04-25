@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Apr 2023 13:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 14:01:06 GMT</lastBuildDate>
+    <item>
+      <title>RSA News: Taking XDR for SaaS apps to the next level - App Governance is now included in E5 Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/rsa-news-taking-xdr-for-saas-apps-to-the-next-level-app/ba-p/3804722</link>
+      <pubDate>Tue, 25 Apr 2023 13:40:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/rsa-news-taking-xdr-for-saas-apps-to-the-next-level-app/ba-p/3804722</guid>
+      <description>Have you ever thought about how many apps you use daily? Or the apps that require you to sign in using your Microsoft credentials? The relationship between a user and an app has become instinctual. People often use apps without a second thought, unaware of the data that app is accessing on their behalf or what permissions they&#8217;ve just granted consent to. The rise of OAuth app based attacks has especially become more prominent through attacks like consent phishing or OAuth app abuse. Combined with the existing challenge of navigating through the SaaS sprawl, organizations need security solution...</description>
+    </item>
   </channel>
 </rss>

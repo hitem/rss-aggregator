@@ -5,3 +5,4 @@
 2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-go-local-data-residency-goes-public-preview-in-japan/ba-p/3751028
 2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/customize-your-authentication-flows-with-custom-claims-providers/ba-p/2464388
 2023-04-20T10:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-windows-local-administrator-password-solution-with/ba-p/1942487
+2023-04-25T13:40:42 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/rsa-news-taking-xdr-for-saas-apps-to-the-next-level-app/ba-p/3804722
