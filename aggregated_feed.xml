@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Apr 2023 07:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2023 08:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Announcing Public Preview of Microsoft Sentinel in Azure China 21Vianet</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-of-microsoft-sentinel-in-azure-china/ba-p/3800581</link>
+      <pubDate>Wed, 26 Apr 2023 07:30:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-of-microsoft-sentinel-in-azure-china/ba-p/3800581</guid>
+      <description>Over the last few months, we have been working hard to bring the Microsoft Sentinel experience to Azure China. Microsoft Azure operated by 21Vianet (Azure China) is a physically separated instance of cloud services located in China. This allows customers in China to adhere to local regulations.
+&#160;
+Today, we are happy to announce that Microsoft Sentinel is now available in Public Preview in the China East 2 region. This means that customers in China can now leverage the advanced threat detection and response capabilities of Microsoft Sentinel to protect their cloud and on-premises workloads. Eve...</description>
+    </item>
   </channel>
 </rss>
