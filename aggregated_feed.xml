@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Apr 2023 17:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2023 18:01:21 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview data catalog now supports tags</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-catalog-now-supports-tags/ba-p/3800646</link>
+      <pubDate>Wed, 26 Apr 2023 17:59:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-catalog-now-supports-tags/ba-p/3800646</guid>
+      <description>We are announcing the tags feature in Microsoft Purview Data Catalog. Tags are a form of metadata that can be added to assets in order to label or categorize them. Similar to social media hashtags, tags are free-text words that can be used to associate multiple pieces of information with a single asset. Users can utilize tags to easily locate and retrieve data assets as needed, providing valuable context for anyone who needs to access them. Examples of tags include project names, cost centers, or other relevant keywords that help to organize and differentiate data assets.
+&#160;
+Data stewards can n...</description>
+    </item>
   </channel>
 </rss>
