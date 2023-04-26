@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Apr 2023 19:00:53 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Purview Information Protection in Microsoft 365 Apps - April 2023</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-information-protection-in-microsoft-365-apps/ba-p/3789517</link>
-      <pubDate>Wed, 26 Apr 2023 18:01:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-information-protection-in-microsoft-365-apps/ba-p/3789517</guid>
-      <description>Welcome back to the quarterly newsletter from Word, Excel, PowerPoint, and Outlook discussing&#160;what&#8217;s&#160;new and coming soon with sensitivity labels, powered by Microsoft Purview&#160;Information Protection. We pick up&#160;where we left off in January 2023.
-&#160;
-From Bolt-On to Built-In: Recap
-In March 2023,
-
-We started rolling out to Current Channel the new configuration for M365 Apps that disables the AIP add-in by default, alongside a slew of new features that replace the capabilities of the add-in.
-
-&#160;
-From Bolt-On to Built-In:&#160;April 2023
-Using the various feedback channels and quality signals we rely on, ...</description>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 20:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
