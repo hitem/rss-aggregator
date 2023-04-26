@@ -12,3 +12,4 @@
 2023-04-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/building-stronger-identity-solutions-with-new-microsoft-entra/ba-p/3793175
 2023-04-26T07:30:54 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-of-microsoft-sentinel-in-azure-china/ba-p/3800581
 2023-04-26T17:59:45 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-catalog-now-supports-tags/ba-p/3800646
+2023-04-26T18:01:27 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-information-protection-in-microsoft-365-apps/ba-p/3789517
