@@ -3,31 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Apr 2023 20:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Reporting on Azure AD Password Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/reporting-on-azure-ad-password-protection/ba-p/3804035</link>
-      <pubDate>Thu, 27 Apr 2023 19:24:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/reporting-on-azure-ad-password-protection/ba-p/3804035</guid>
-      <description>Hi everyone! It's been a long time, but Graeme Bray here with you to talk about an Azure Monitor workbook you can deploy in your environment to help you report on your Azure AD Password Protection.&#160; You are running AAD Password Protection, right?&#160; If you have Azure AD P1 or P2 for your users, you're licensed for it, and it extends the exact same password protection from Azure AD to your on-premises environment.&#160; That's great, because if a user tries to reset their password via Azure AD or via Active Directory, they have the same password requirements.
-&#160;
-Either way, lets show you what kind of r...</description>
-    </item>
-    <item>
-      <title>Part 2:  Uncovering Trackers Using the Defender EASM API</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-2-uncovering-trackers-using-the-defender-easm-api/ba-p/3806494</link>
-      <pubDate>Thu, 27 Apr 2023 19:19:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-2-uncovering-trackers-using-the-defender-easm-api/ba-p/3806494</guid>
-      <description>Thanks for joining me for the second installment on leveraging Trackers in Microsoft Defender External Attack Surface Management (Defender EASM) to find and manage risk in your organization. This blog post is&#160;part two of this series, building on the concepts introduced in part one about discovering your attack surface and applying this valuable inventory data to inform your security efforts at scale.&#160;As a quick refresher, in part one, we defined Trackers in Defender EASM and learned how to search for them in the User Interface (UI).&#160;This blog post will closely examine the Defender EASM Applica...</description>
-    </item>
-    <item>
-      <title>Seeking Dead and Dying Servers with the MDEASM APIs</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/seeking-dead-and-dying-servers-with-the-mdeasm-apis/ba-p/3741412</link>
-      <pubDate>Thu, 27 Apr 2023 19:08:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/seeking-dead-and-dying-servers-with-the-mdeasm-apis/ba-p/3741412</guid>
-      <description>This post follows&#160;Seeking Dead and Dying Servers&#160;blog and introduces the&#160;Microsoft Defender for External Attack Surface Management (Defender EASM) APIs. You should start with the previous post if you haven't already done so or are brand new to Defender EASM.&#160;&#160;
-&#160;
-Defender EASM APIs provide much more capability than the UI (user interface) alone, enabling users to work with large numbers of assets in one action or piece of code. The pro of APIs is they provide an unencumbered interface between the application and the code or app interacting with it to enable exciting capabilities. However, lever...</description>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 21:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
