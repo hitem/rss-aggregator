@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Apr 2023 15:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 16:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Automating and Streamlining Vulnerability Management for Your Clients</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/automating-and-streamlining-vulnerability-management-for-your/ba-p/3807348</link>
+      <pubDate>Fri, 28 Apr 2023 15:57:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/automating-and-streamlining-vulnerability-management-for-your/ba-p/3807348</guid>
+      <description>Security teams are always engaged in a constant battle with vulnerabilities. At present, enterprise groups confront a variety of problems when trying to accomplish effective vulnerability management, such as inadequate IT resources and complexities, resulting in protracted patching periods. Taking into consideration the sped-up manner in which criminals have taken to exploiting vulnerabilities, the potential for data breaches, regulatory fines, and harm to one's reputation, these issues are unlikely to disappear soon. Fortunately, Microsoft Security Services for Incident Response is familiar w...</description>
+    </item>
   </channel>
 </rss>
