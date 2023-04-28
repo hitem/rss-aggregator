@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Apr 2023 18:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Purview DevOps policies now includes all the typical permissions for SQL support personnel</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-now-includes-all-the-typical/ba-p/3807250</link>
-      <pubDate>Fri, 28 Apr 2023 17:22:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-now-includes-all-the-typical/ba-p/3807250</guid>
-      <description>IT/DevOps personnel need access to database and system metadata so that they can keep critical database systems healthy, performing to expectations and secure. Microsoft Purview DevOps policies, a subset of Microsoft Purview access policies, are specifically designed to provide IT/DevOps personnel with the access they need so that they perform their crucial job, while at the same time helping reduce the insider threat.
-&#160;
-Microsoft Purview DevOps policies is a central, cloud-based experience. This is what the experience looks like:
-&#160;
-Figure 1: Screenshot of DevOps policies
-&#160;
-In prior blogs, we ...</description>
-    </item>
+    <lastBuildDate>Fri, 28 Apr 2023 19:01:01 GMT</lastBuildDate>
   </channel>
 </rss>
