@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 29 Apr 2023 06:01:17 GMT</lastBuildDate>
-    <item>
-      <title>Using Microsoft Intune for Local Administrator Password Management</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-microsoft-intune-for-local-administrator-password/ba-p/3805943</link>
-      <pubDate>Sat, 29 Apr 2023 06:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-microsoft-intune-for-local-administrator-password/ba-p/3805943</guid>
-      <description>As you may have heard; Windows LAPS feature is released to Public Preview in the last week of April. It has support for two main scenarios for backing up local administrator password such as storing passwords in Azure AD and Windows Server AD. It also has interoperability with legacy LAPS solution. This article on the other hand; will focus on native cloud deployment for Windows 10/11 clients that does not have legacy LAPS client installed, managed through Intune and either Hybrid Azure AD Joined or Azure AD Joined.
-&#160;
-In this blog post, I&#8217;ll walk you through basic policy configuration and core...</description>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 07:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
