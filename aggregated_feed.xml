@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 29 Apr 2023 20:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2023 21:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Why is Defender EASM Discovery Important?</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/why-is-defender-easm-discovery-important/ba-p/3745757</link>
+      <pubDate>Sat, 29 Apr 2023 20:12:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/why-is-defender-easm-discovery-important/ba-p/3745757</guid>
+      <description>The Defender External Attack Surface Management (Defender EASM) Discovery is an integral part of the external attack surface management process. Organizations often struggle to keep up with demanding business requests and create additional infrastructure not under their IT compliance. COVID increased pressure on organizations to allow employees to work from home and make rapid changes to new or existing infrastructure. 
+&#160;
+How can you get an accurate picture of your risk with all these changes happening? How could you know where your attack surface is vulnerable? Defender EASM Discovery is the ...</description>
+    </item>
   </channel>
 </rss>
