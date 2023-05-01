@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 May 2023 15:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 16:01:53 GMT</lastBuildDate>
+    <item>
+      <title>New Microsoft Entra Features Now Available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-microsoft-entra-features-now-available/ba-p/2967447</link>
+      <pubDate>Mon, 01 May 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-microsoft-entra-features-now-available/ba-p/2967447</guid>
+      <description>Microsoft has recently introduced a range of new security tools and features for their Entra product family, aimed at helping organizations to improve their security posture. With the ever-increasing sophistication of cyber-attacks and the increasing use of cloud-based services and the proliferation of mobile devices, it is essential that organizations have effective tools in place to manage their scope of security.&#160;
+&#160;
+These recent updates have been organized into capability areas or themes, making it easy to quickly find and access the latest updates. With these new features, Microsoft is aim...</description>
+    </item>
   </channel>
 </rss>
