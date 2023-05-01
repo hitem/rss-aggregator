@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 May 2023 09:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 10:01:16 GMT</lastBuildDate>
+    <item>
+      <title>Kubernetes External DNS for Azure DNS &amp; AKS</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/kubernetes-external-dns-for-azure-dns-amp-aks/ba-p/3809393</link>
+      <pubDate>Mon, 01 May 2023 09:51:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/kubernetes-external-dns-for-azure-dns-amp-aks/ba-p/3809393</guid>
+      <description>Introduction
+After deploying an application and its services into a Kubernetes cluster, a question rises on the surface, how to access it with a custom domain name ? A simple solution would be to create an A record that points the domain name into the service IP address. This could be done manually, so it will be too hard to scale as you add many services. And this could be fully automated by using External DNS! This tutorial describes how to manage custom domain names in Azure DNS using External DNS in AKS.
+External DNS is a Kubernetes controller that watches for new Ingresses and Services wi...</description>
+    </item>
   </channel>
 </rss>
