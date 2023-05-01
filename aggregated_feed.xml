@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 May 2023 03:01:07 GMT</lastBuildDate>
-    <item>
-      <title>Part 1: Uncovering Trackers Using the Defender EASM UI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-1-uncovering-trackers-using-the-defender-easm-ui/ba-p/3742726</link>
-      <pubDate>Mon, 01 May 2023 02:02:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-1-uncovering-trackers-using-the-defender-easm-ui/ba-p/3742726</guid>
-      <description>&#160;
-Also by Jamil Mirza
-&#160;
-Microsoft Defender External Attack Surface Management (Defender EASM) discovers your externally facing digital assets and provides many useful details about the assets found to help you manage risk impacting your organization. One example of this asset detail is Trackers, which can be associated with Page, Host, or IP Address assets. The definition of Trackers from the Defender EASM official documentation is as follows:&#160;
-&#160;
-Trackers are unique codes or values found within web pages and often are used to track user interaction. These codes can be used to correlate a dispa...</description>
-    </item>
+    <lastBuildDate>Mon, 01 May 2023 04:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
