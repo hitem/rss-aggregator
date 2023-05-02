@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 May 2023 18:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 19:01:12 GMT</lastBuildDate>
+    <item>
+      <title>Validating Microsoft Defender for APIs Alerts</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-apis-alerts/ba-p/3803874</link>
+      <pubDate>Tue, 02 May 2023 18:53:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-apis-alerts/ba-p/3803874</guid>
+      <description>Introduction
+Microsoft Defender for APIs, a new plan in Defender for Cloud, offers full lifecycle protection, detection, and response coverage for APIs published in Azure API Management. One of the main capabilities is the ability to detect exploits of the OWASP API Top 10 vulnerabilities through runtime observations of anomalies using machine learning-based and rule-based detections.
+&#160;
+This blog will outline the steps for simulating an action that will trigger an alert for one of your API endpoints through Defender for APIs. In this scenario, the alert will be for the detection of a suspiciou...</description>
+    </item>
   </channel>
 </rss>
