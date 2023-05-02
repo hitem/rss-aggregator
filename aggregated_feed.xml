@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 May 2023 09:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 10:00:57 GMT</lastBuildDate>
+    <item>
+      <title>Creating custom recommendations &amp; standards for AWS/GCP workloads with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/creating-custom-recommendations-amp-standards-for-aws-gcp/ba-p/3810248</link>
+      <pubDate>Tue, 02 May 2023 09:55:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/creating-custom-recommendations-amp-standards-for-aws-gcp/ba-p/3810248</guid>
+      <description>Introduction:
+Have you ever found yourself in a situation where you wanted to determine which AWS resources are missing a tag? You can accomplish this use case using custom recommendations for AWS workloads in Defender for Cloud. The following steps solve the problem of creating a custom recommendation that identifies which Amazon RDS instances are missing a tag, but they can be applied to other use cases too.
+&#160;
+Note: To use the option of creating custom recommendations and standards for AWS and GCP workloads, you need to have the Defender Cloud Security Posture Management (CSPM) plan enabled....</description>
+    </item>
   </channel>
 </rss>
