@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 May 2023 15:01:15 GMT</lastBuildDate>
-    <item>
-      <title>Get step-by-step guidance for enabling key features in Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/get-step-by-step-guidance-for-enabling-key-features-in-microsoft/ba-p/3805692</link>
-      <pubDate>Tue, 02 May 2023 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/get-step-by-step-guidance-for-enabling-key-features-in-microsoft/ba-p/3805692</guid>
-      <description>To get the most value from your Security solutions, you need to understand the business value of the different features they include to decide if, when, and how to go about turning them on. And when you&#8217;re ready to enable new features, you need clear guidance to make it happen. &#160;&#160;This is why we recently published new&#160;Microsoft Security solution feature guides on Microsoft Defender for Office 365 and Defender for Endpoint. Each guide briefly highlights five key product features and the value they provide, then points directly to step-by-step enablement instructions.&#160;&#160;
-&#160;
-Microsoft Security solut...</description>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 16:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
