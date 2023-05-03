@@ -29,3 +29,4 @@
 2023-05-02T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/get-step-by-step-guidance-for-enabling-key-features-in-microsoft/ba-p/3805692
 2023-05-02T18:53:19 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-apis-alerts/ba-p/3803874
 2023-05-02T22:04:34 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350
+2023-05-02T23:32:42 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-edit-and-monitor-data-collection-rules-with-the-data/ba-p/3810987

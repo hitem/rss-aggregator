@@ -3,13 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 May 2023 23:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2023 00:25:37 GMT</lastBuildDate>
     <item>
-      <title>What's New: APIs in Microsoft Graph</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350</link>
-      <pubDate>Tue, 02 May 2023 22:04:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350</guid>
-      <description>We're thrilled to share that unified APIs that are part of the Microsoft Graph with a single endpoint, permissions, auth model, and access token are now available in public preview.&#160;The Microsoft Defender Threat Intelligence (Defender TI) API for Incidents, Alerts, and Hunting allows organizations to query Defender TI data to operationalize intelligence gleaned from threat actors, tools, and vulnerabilities. Security teams can enrich their understanding of entities inside security incidents, automate triage efforts, and integrate with a broad ecosystem of security tools, including Microsoft Se...</description>
+      <title>Create, Edit, and Monitor Data Collection Rules with the Data Collection Rule Toolkit</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-edit-and-monitor-data-collection-rules-with-the-data/ba-p/3810987</link>
+      <pubDate>Tue, 02 May 2023 23:32:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-edit-and-monitor-data-collection-rules-with-the-data/ba-p/3810987</guid>
+      <description>*Thank you to Jing Nghik for assisting with the creation of this toolkit and to the Customer Connection Program for testing this solution.*
+&#160;
+*This is going to be a long blog. I recommend reading it but alternatively there will be a video recording soon that will cover the workbook. TLDR: This workbook serves as a toolkit for data collection rules to make creating, editing, and monitoring DCRs in an environment&#160;easier. It is available today in the Workbooks Gallery within Microsoft Sentinel.*
+&#160;
+It can be a little confusing when it comes to creating, monitoring, and modifying data collection ru...</description>
     </item>
   </channel>
 </rss>
