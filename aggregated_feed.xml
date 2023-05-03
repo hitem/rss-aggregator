@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 May 2023 17:00:58 GMT</lastBuildDate>
-    <item>
-      <title>What's New at Microsoft Secure</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure/ba-p/3773576</link>
-      <pubDate>Wed, 03 May 2023 16:16:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure/ba-p/3773576</guid>
-      <description>Since introducing Microsoft Defender Threat Intelligence (Defender TI) in August, our customers have made their organizations safer by proactively addressing threats with its array of raw intelligence and having unparalleled insight into the threat ecosystem with its extensive library of finished intelligence. Today, we are excited to announce several new features and capabilities that put more threat actor insights at our customers' fingertips and enhance SIEM and XDR capabilities in their existing tools and workflows, including the integration of Defender TI into Microsoft 365 Defender.&#160;&#160;
-&#160;
-...</description>
-    </item>
-    <item>
-      <title>What&#8217;s New: MDTI Interoperability with Microsoft 365 Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-interoperability-with-microsoft-365-defender/ba-p/3799846</link>
-      <pubDate>Wed, 03 May 2023 16:14:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-interoperability-with-microsoft-365-defender/ba-p/3799846</guid>
-      <description>Microsoft Defender Threat Intelligence (Defender TI) helps streamline security analyst triage, incident response, threat hunting, and vulnerability management workflows, aggregating and enriching critical threat information in an easy-to-use interface. At Microsoft Secure, we announced new features, including that Defender TI is now available to licensed customers within the Microsoft 365 Defender (M365 Defender) portal, placing its powerful threat intelligence side-by-side with the advanced XDR functionality of M365 Defender.
-&#160;
-For Defender users, Defender TI will now be quickly accessible an...</description>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 18:00:57 GMT</lastBuildDate>
   </channel>
 </rss>
