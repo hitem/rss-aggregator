@@ -3,17 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 May 2023 20:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 21:01:01 GMT</lastBuildDate>
     <item>
-      <title>Azure AD Certificate-Based Authentication (CBA) on Mobile now Generally Available!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-certificate-based-authentication-cba-on-mobile-now/ba-p/1144695</link>
-      <pubDate>Thu, 04 May 2023 19:42:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-certificate-based-authentication-cba-on-mobile-now/ba-p/1144695</guid>
-      <description>Howdy folks!&#160;
-&#160;
-At Ignite 2022, we announced the general availability of Azure Active Directory (Azure AD) Certificate-Based Authentication (CBA) as a part of Microsoft&#8217;s commitment to&#8239;Executive Order 14028,&#8239;Improving the Nation&#8217;s Cybersecurity.&#8239; Now, we&#8217;re thrilled to announce the general availability of Azure AD CBA support on mobile.&#160;
-&#160;
-We support both on-device certificates and external hardware security keys, like YubiKeys over USB or NFC on iOS and Android devices. With Bring Your Own Device (BYOD) on the rise, this feature will give you the ability to require phishing-resistant multi-fa...</description>
+      <title>Introducing the release of Attack Simulation Training Write API functionality (available in beta)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-release-of-attack-simulation-training-write-api/ba-p/3812297</link>
+      <pubDate>Thu, 04 May 2023 20:12:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-release-of-attack-simulation-training-write-api/ba-p/3812297</guid>
+      <description>Attack Simulation Training&#8239;is an intelligent social engineering phish risk reduction tool that measures behavior&#160;change and automates the deployment of an integrated security awareness training program across an organization. It is available with Microsoft 365 E5 or&#8239;Microsoft Defender for Office 365 P2 plan, and we also have a special teaser version available with Microsoft 365 E3.&#160;
+We are excited to announce the release of Attack Simulation Write API functionality, a powerful tool for improving your organization's defense to phishing messages. This new API, available in beta, is part of Micro...</description>
     </item>
   </channel>
 </rss>
