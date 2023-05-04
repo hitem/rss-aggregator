@@ -35,3 +35,4 @@
 2023-05-03T16:16:01 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure/ba-p/3773576
 2023-05-04T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-recommended-practices/ba-p/3798024
 2023-05-04T12:28:16 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-logs-ingestion-api-tips-amp-tricks/ba-p/3792081
+2023-05-04T15:38:40 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412
