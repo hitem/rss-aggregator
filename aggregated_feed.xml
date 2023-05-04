@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 May 2023 16:15:20 GMT</lastBuildDate>
-    <item>
-      <title>Performing a Successful Proof of Concept (PoC)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412</link>
-      <pubDate>Thu, 04 May 2023 15:38:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412</guid>
-      <description>So, you are ready to use Defender Threat Intelligence to uncover threat actors at scale and enhance your security operations. Defender Threat Intelligence can help identify and eliminate modern threats and their infrastructure with dynamic threat intelligence by applying the following capabilities:
-&#160;
-
-Identify attackers and their tools.
-Accelerate detection, incident response, investigations, and remediation.
-Enhance your security tools and workflows.
-
-&#160;
-To effectively determine the benefits of adopting Defender Threat Intelligence, you should perform a Proof of Concept (PoC). Before enabling ...</description>
-    </item>
+    <lastBuildDate>Thu, 04 May 2023 17:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
