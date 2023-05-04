@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 May 2023 06:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 07:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Azure Policy Recommended Practices</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-recommended-practices/ba-p/3798024</link>
+      <pubDate>Thu, 04 May 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-recommended-practices/ba-p/3798024</guid>
+      <description>Azure Policy has multiple uses including general governance, monitoring setup, security, and compliance. It should not be used to deal with items better handled with role-based access control (RBAC). The following rules codify this:
+
+Prohibit anybody and any service from doing something: Azure Policy.
+Prohibit specific users and service principals from doing something: RBAC.
+
+Note: Many professionals use security and compliance interchangeably. Security encompasses much more than some checkboxes on a compliance spreadsheet; however, complying with Microsoft Cloud Security Benchmark and NIST-88...</description>
+    </item>
   </channel>
 </rss>
