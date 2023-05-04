@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 May 2023 21:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Introducing the release of Attack Simulation Training Write API functionality (available in beta)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-release-of-attack-simulation-training-write-api/ba-p/3812297</link>
-      <pubDate>Thu, 04 May 2023 20:12:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-release-of-attack-simulation-training-write-api/ba-p/3812297</guid>
-      <description>Attack Simulation Training&#8239;is an intelligent social engineering phish risk reduction tool that measures behavior&#160;change and automates the deployment of an integrated security awareness training program across an organization. It is available with Microsoft 365 E5 or&#8239;Microsoft Defender for Office 365 P2 plan, and we also have a special teaser version available with Microsoft 365 E3.&#160;
-We are excited to announce the release of Attack Simulation Write API functionality, a powerful tool for improving your organization's defense to phishing messages. This new API, available in beta, is part of Micro...</description>
-    </item>
+    <lastBuildDate>Thu, 04 May 2023 22:01:15 GMT</lastBuildDate>
   </channel>
 </rss>
