@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 05 May 2023 17:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 18:01:35 GMT</lastBuildDate>
+    <item>
+      <title>Email Protection Basics in Microsoft 365:  Spoof and Impersonation</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spoof-and-impersonation/ba-p/3562938</link>
+      <pubDate>Fri, 05 May 2023 17:24:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spoof-and-impersonation/ba-p/3562938</guid>
+      <description>Click here&#160;to view additional posts in this series.&#160;Would you like us to cover more topics? Let us know in the comments.
+&#160;
+Microsoft Support is excited to continue this blog series to demystify how Microsoft 365 email protection works. Earlier, we covered how phishing has the potential to cause damage to an organization. Now, we&#8217;ll go over the two threat vectors most commonly seen in phishing attacks&#8212;spoofing and impersonation, and how Microsoft 365 protects your users against them.&#8239;We will look at what spoofing and impersonation techniques are, the difference between them, and how your Micros...</description>
+    </item>
+    <item>
+      <title>Email Protection Basics in Microsoft 365: Anti-malware, Safe Attachments, and Quarantine</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-anti-malware-safe/ba-p/3791516</link>
+      <pubDate>Fri, 05 May 2023 17:05:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-anti-malware-safe/ba-p/3791516</guid>
+      <description>&#160;
+Email Protection Basics in Microsoft 365: Anti-malware, Safe Attachments, and Quarantine&#160;
+&#160;
+Microsoft Support is excited to continue this blog series that will demystify how Microsoft 365 email protection works. In this fourth part of the series, we will cover how anti-malware and Safe Attachments protections work for known and unknown threats and review common quarantine operations, quarantine policies and notifications.&#160;&#160;
+Anti-malware protection&#160;
+Email attachments that contain malicious applications or code can cause damage and disrupt normal use of users&#8217; devices. These malware attachment...</description>
+    </item>
   </channel>
 </rss>
