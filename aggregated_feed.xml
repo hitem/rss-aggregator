@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 06 May 2023 14:01:09 GMT</lastBuildDate>
-    <item>
-      <title>Security baseline for Microsoft Edge version 113</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-113/ba-p/3814398</link>
-      <pubDate>Sat, 06 May 2023 13:19:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-113/ba-p/3814398</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 113!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 113 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 112 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 113 introduced 3 new computer settings and 3 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find them....</description>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 15:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
