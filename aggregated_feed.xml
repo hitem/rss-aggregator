@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 May 2023 06:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 07:00:53 GMT</lastBuildDate>
+    <item>
+      <title>How to Allocate Azure Monitor Logs Ingestion Costs by Resource Tag</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322</link>
+      <pubDate>Mon, 08 May 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322</guid>
+      <description>Introduction
+&#160;
+Azure Monitor Logs, also known as Log Analytics, is a fundamental tool for monitoring and reporting on your Azure, multi-cloud, and hybrid resources. It supports such a vast array of Microsoft cloud services that it has become one of the most used Azure services for all sorts of customers. Consequently, Azure Monitor Logs has also become an important cost driver for many Azure customers and being able to allocate or split those costs across the right cost centers in the organization is a pressing need most customers have. This is especially relevant for customers who centralize ...</description>
+    </item>
   </channel>
 </rss>
