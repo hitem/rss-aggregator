@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 May 2023 21:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2023 22:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Become a Microsoft Defender Threat Intelligence Ninja: The complete level 400 training</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965</link>
+      <pubDate>Tue, 09 May 2023 21:45:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965</guid>
+      <description>Welcome to Microsoft Ninja training! This blog post will walk you through Microsoft Defender Threat Intelligence (Defender TI) level 400 training and help you become a Defender TI master.
+&#160;
+
+&#160;
+Curriculum
+&#160;
+This program is comprised of six training modules that will enable users to get to know and get the most out of their Defender TI instance. Throughout this training, you'll get familiar with Defender TI, how it collects and analyzes threat intelligence, and how to use it to unmask adversaries and their tools and infrastructure. Once complete, you'll be ready to leverage the advanced intellig...</description>
+    </item>
   </channel>
 </rss>
