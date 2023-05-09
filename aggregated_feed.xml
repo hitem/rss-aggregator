@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 May 2023 15:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2023 16:01:50 GMT</lastBuildDate>
+    <item>
+      <title>Modernizing Authentication Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/modernizing-authentication-management/ba-p/2365669</link>
+      <pubDate>Tue, 09 May 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/modernizing-authentication-management/ba-p/2365669</guid>
+      <description>We&#8217;re thrilled to announce two key updates to how you manage your authentication experiences! The General Availability of Converged Authentication Methods and Public Preview of a modernized version of multifactor authentication (MFA) Fraud Alert.&#160;
+&#160;
+The General Availability of Converged Authentication Methods allows all methods used for authentication and password reset to be centrally managed and with more control, providing the ability to target groups of users.&#160;&#160;
+&#160;
+The Public Preview of modern MFA Fraud Alert brings the configuration into the authentication methods policy and integrates thi...</description>
+    </item>
   </channel>
 </rss>
