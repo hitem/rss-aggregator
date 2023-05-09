@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 May 2023 12:47:26 GMT</lastBuildDate>
-    <item>
-      <title>Azure Savings Dashboard</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131</link>
-      <pubDate>Tue, 09 May 2023 12:45:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131</guid>
-      <description>
-&#160;
-Author introduction
-Hi, I am Saira Shaik, Working Principal customer success account manager as Microsoft India.
-&#160;
-Azure Savings Dashboard
-I have created this dashboard to display the savings made due to the purchase of Reservations or Savings Plans or by signing the agreement with Microsoft to get Azure Commitment Discounts (ACD).This dashboard is helpful for Customers who:
-
-Purchased Reservations or
-Purchased Savings Plan or
-Signed Monthly Azure Consumption Commitment (MACC) and got a special discounted price.
-
-Customers can view their savings by uploading the Amortized files into this Po...</description>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 13:31:29 GMT</lastBuildDate>
   </channel>
 </rss>
