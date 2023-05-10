@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 May 2023 15:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2023 17:01:51 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Token Protection for Sign-In Sessions</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-token-protection-for-sign-in-sessions/ba-p/3815756</link>
+      <pubDate>Wed, 10 May 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-token-protection-for-sign-in-sessions/ba-p/3815756</guid>
+      <description>At the recent Microsoft Secure event, we announced a new feature called Token Protection for sign-in sessions. This is the first in a series of Microsoft Entra features designed to combat token theft and replay attacks.&#160;
+&#160;
+As you may know, attacks involving token theft are becoming more frequent. To address this, we at Microsoft are making comprehensive investments to allow you to use Azure AD Conditional Access to better protect your critical resources.&#160;
+&#160;
+Our solutions aim to provide better security characteristics than previous approaches to combat token theft. This includes resistance to m...</description>
+    </item>
   </channel>
 </rss>
