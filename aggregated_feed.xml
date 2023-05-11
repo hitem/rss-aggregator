@@ -3,6 +3,30 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 May 2023 17:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2023 18:01:14 GMT</lastBuildDate>
+    <item>
+      <title>Responding to targeted mail attacks with Microsoft 365 Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/responding-to-targeted-mail-attacks-with-microsoft-365-defender/ba-p/3819185</link>
+      <pubDate>Thu, 11 May 2023 17:22:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/responding-to-targeted-mail-attacks-with-microsoft-365-defender/ba-p/3819185</guid>
+      <description>Spear phishing campaign is a type of attack where phishing emails are tailored to specific organization, organization&#8217;s department, or even specific person. Spear phishing is a targeted attack by its definition and rely on preliminary reconnaissance, so attackers are ready to spend more time and resources to achieve their targets. In this blog post, we will discuss steps that can be taken to respond to such a malicious mailing campaign using Microsoft 365 Defender.
+&#160;
+What makes phishing &#8220;spear&#8221;
+&#160;
+Some of the attributes of such attacks are:
+
+Using local language for subject, body, and sender&#8217;s ...</description>
+    </item>
+    <item>
+      <title>Security baseline for Microsoft 365 Apps for enterprise v2206</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-365-apps-for-enterprise-v2206/ba-p/3502714</link>
+      <pubDate>Thu, 11 May 2023 17:16:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-365-apps-for-enterprise-v2206/ba-p/3502714</guid>
+      <description>Microsoft is pleased to announce the&#160;release of the recommended security configuration baseline settings for Microsoft 365 Apps for enterprise, version 2206. Please download the content from the&#160;Microsoft Security Compliance Toolkit, test the recommended configurations, and implement as appropriate.
+&#160;
+This baseline builds on the previous Office baseline we released December 2021. The highlights of this baseline include:
+
+Removed the recommendation for the policy "Junk E-mail protection". This policy controls a deprecated feature of SmartScreen for Exchange that's been replaced and setting this...</description>
+    </item>
   </channel>
 </rss>
