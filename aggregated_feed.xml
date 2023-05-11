@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 May 2023 23:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2023 00:25:21 GMT</lastBuildDate>
+    <item>
+      <title>Improving Server Vulnerability Management Efforts</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/improving-server-vulnerability-management-efforts/ba-p/3807373</link>
+      <pubDate>Wed, 10 May 2023 23:41:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/improving-server-vulnerability-management-efforts/ba-p/3807373</guid>
+      <description>As businesses switch to digital platforms, the risk of cyber-attacks has increased. IT teams have the enormous task of keeping servers secure from adversaries who are continuously finding new ways to break into systems and abuse vulnerabilities, a task that becomes exponentially more difficult to effectively perform as enterprise environments increase their complexity. Automation and optimization must be implemented if a team aims to be successful in their vulnerability management efforts against an ever-changing threat landscape. This post will discuss how Microsoft Defender for Servers, Micr...</description>
+    </item>
   </channel>
 </rss>
