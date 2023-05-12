@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 12 May 2023 12:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 13:06:48 GMT</lastBuildDate>
+    <item>
+      <title>Container Security with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/container-security-with-microsoft-defender-for-cloud/ba-p/3819956</link>
+      <pubDate>Fri, 12 May 2023 12:22:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/container-security-with-microsoft-defender-for-cloud/ba-p/3819956</guid>
+      <description>In recent years, containerization has become a popular approach to application deployment and management. Containers enable developers to build more quickly and efficiently in the cloud by offering a convenient and streamlined way to package applications and their dependencies. While lightweight and portable, containerized environments introduce new attack vectors and risks such as runtime vulnerabilities, configuration errors and lateral movement between containers. Ensuring the security of containerized environments requires a comprehensive approach that involves multiple layers of security ...</description>
+    </item>
   </channel>
 </rss>
