@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 12 May 2023 14:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 15:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Logging and Metrics Enhancements to Azure Firewall now in Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/logging-and-metrics-enhancements-to-azure-firewall-now-in/ba-p/3820087</link>
+      <pubDate>Fri, 12 May 2023 14:01:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/logging-and-metrics-enhancements-to-azure-firewall-now-in/ba-p/3820087</guid>
+      <description>Introduction: &#160;
+Azure Firewall is a cloud-native network firewall security service that provides threat protection for your cloud workloads running in Azure. It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability. Azure Firewall sits between the end user and the application server, processing critical application traffic and enforcing security policies on this traffic. In case of any latency or disconnection to the application, the firewall acts as a great point to look at this traffic and troubleshoot the root cause.&#160;Azure Firewall now ...</description>
+    </item>
   </channel>
 </rss>
