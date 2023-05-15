@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 May 2023 05:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 06:07:14 GMT</lastBuildDate>
+    <item>
+      <title>Azure Cost Management Dashboard</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-cost-management-dashboard/ba-p/3817096</link>
+      <pubDate>Mon, 15 May 2023 05:44:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-cost-management-dashboard/ba-p/3817096</guid>
+      <description>
+Author introduction
+Hi, I am Saira Shaik, Working Principal customer success account manager at Microsoft India.
+&#160;
+Azure Cost Management Dashboard
+I created this Dashboard to display the units consumed and the respective cost for Selected filters.
+&#160;
+This Dashboard will be helpful for any Azure Customer, irrespective of their contract agreement with Microsoft.&#160;
+&#160;
+Customers can view their usage and cost by uploading the Usage files into this Power BI file.&#160;You can download .pbit file and setup instructions from&#160;Setup&#160;
+&#160;
+Please note that all the screenshots on this page are mock-up screens; henc...</description>
+    </item>
   </channel>
 </rss>
