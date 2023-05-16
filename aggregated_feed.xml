@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 May 2023 05:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 06:04:17 GMT</lastBuildDate>
+    <item>
+      <title>Build reports faster with Azure Resource Graph</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/build-reports-faster-with-azure-resource-graph/ba-p/3822085</link>
+      <pubDate>Tue, 16 May 2023 06:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/build-reports-faster-with-azure-resource-graph/ba-p/3822085</guid>
+      <description>Introduction
+Hi folks! My name is Felipe Binotto, Cloud Solution Architect, based in Australia.
+&#160;
+If you are hands-on with Azure operations, I&#8217;m sure at some point you have been asked to provide some type of report containing information about your Azure environment.
+&#160;
+In the past, the only way to provide this information was to programmatically iterate through all your subscriptions and retrieve the data, subscription by subscription.
+&#160;
+Throughout this article I will provide a couple examples on how you would accomplish that task in the traditional way compared to using the Azure Resource Gra...</description>
+    </item>
   </channel>
 </rss>
