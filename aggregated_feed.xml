@@ -3,17 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 May 2023 17:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 18:01:07 GMT</lastBuildDate>
     <item>
-      <title>Building a Strong Foundation: Prioritizing Developer Security at Microsoft Build 2023</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-a-strong-foundation-prioritizing-developer-security-at/ba-p/3822181</link>
-      <pubDate>Tue, 16 May 2023 16:51:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-a-strong-foundation-prioritizing-developer-security-at/ba-p/3822181</guid>
-      <description>
-&#160;
-As the demand for secure software development continues to grow, developers and organizations face increasing pressure to do more with less. At Microsoft, we recognize the importance of developer security and are committed to sharing our knowledge, insights, and capabilities to empower developers in building robust and resilient applications. In line with the overarching theme of Microsoft Build 2023, which explores the power of AI and innovation, we are excited to bring the spotlight on Developer Security to this year's event.
-&#160;
-The evolving threat landscape necessitates a strong focus on ...</description>
+      <title>One click to cover containers &amp; Kubernetes in Defender CSPM (agentless)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/one-click-to-cover-containers-amp-kubernetes-in-defender-cspm/ba-p/3822435</link>
+      <pubDate>Tue, 16 May 2023 17:12:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/one-click-to-cover-containers-amp-kubernetes-in-defender-cspm/ba-p/3822435</guid>
+      <description>Defender CSPM contextual security capabilities assists security teams in the reduction of the risk of impactful breaches. Defender CSPM uses environment context to perform a risk assessment of your security issues. Defender CSPM identifies the biggest security risk issues, while distinguishing them from less risky issues.
+With attack path analysis and cloud security explorer Defender DCSPM customers can address the security issues that pose immediate threats with the greatest potential of being exploited and proactively identify security risks in their cloud environment by running graph-based ...</description>
     </item>
   </channel>
 </rss>
