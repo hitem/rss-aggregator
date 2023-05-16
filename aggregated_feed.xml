@@ -3,33 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 May 2023 16:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 17:01:13 GMT</lastBuildDate>
     <item>
-      <title>GA: System-preferred multifactor authentication</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/ga-system-preferred-multifactor-authentication/ba-p/3773138</link>
-      <pubDate>Tue, 16 May 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/ga-system-preferred-multifactor-authentication/ba-p/3773138</guid>
-      <description>In previous blogs, we've emphasized the importance of multifactor authentication (MFA). Today, organizations and end users are using various authentication methods, providing varying levels of security.&#160;Users often choose less secure MFA methods, despite having access to more secure options due to a range of factors such as convenience, lack of awareness, or technical limitations.
+      <title>Building a Strong Foundation: Prioritizing Developer Security at Microsoft Build 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-a-strong-foundation-prioritizing-developer-security-at/ba-p/3822181</link>
+      <pubDate>Tue, 16 May 2023 16:51:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-a-strong-foundation-prioritizing-developer-security-at/ba-p/3822181</guid>
+      <description>
 &#160;
-To encourage users to authenticate with the strongest method available to them, we&#8217;re announcing system-preferred authentication for MFA.&#160;This system prompts the user to sign in with the most secure method they&#8217;ve ...</description>
-    </item>
-    <item>
-      <title>Designs for Accomplishing Microsoft Sentinel Scalable Ingestion</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/designs-for-accomplishing-microsoft-sentinel-scalable-ingestion/ba-p/3741516</link>
-      <pubDate>Tue, 16 May 2023 15:51:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/designs-for-accomplishing-microsoft-sentinel-scalable-ingestion/ba-p/3741516</guid>
-      <description>**Thank you to the Microsoft Sentinel CxE team, Jeff Wolford, and&#160;@Preeti_Krishna&#160;for the assistance with this document.**
+As the demand for secure software development continues to grow, developers and organizations face increasing pressure to do more with less. At Microsoft, we recognize the importance of developer security and are committed to sharing our knowledge, insights, and capabilities to empower developers in building robust and resilient applications. In line with the overarching theme of Microsoft Build 2023, which explores the power of AI and innovation, we are excited to bring the spotlight on Developer Security to this year's event.
 &#160;
-This blog will provide a high-level overview of potential architecture designs that can be used to achieve a high availability, scalable ingestion pipeline.&#160;The main components that will be covered in the designs will be:&#160;
-
-Load Balancer&#160;
-Forwarder Systems&#160;
-Data Sources (Coming from endpoints)&#160;
-
-The architectures can be categorized into 3 main scenarios:&#160;
-
-Azure based: Components for collection reside within the Azure platform.&#160;
-Hybrid: One component resides outside of A...</description>
+The evolving threat landscape necessitates a strong focus on ...</description>
     </item>
   </channel>
 </rss>
