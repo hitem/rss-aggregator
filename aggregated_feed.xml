@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 May 2023 18:01:07 GMT</lastBuildDate>
-    <item>
-      <title>One click to cover containers &amp; Kubernetes in Defender CSPM (agentless)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/one-click-to-cover-containers-amp-kubernetes-in-defender-cspm/ba-p/3822435</link>
-      <pubDate>Tue, 16 May 2023 17:12:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/one-click-to-cover-containers-amp-kubernetes-in-defender-cspm/ba-p/3822435</guid>
-      <description>Defender CSPM contextual security capabilities assists security teams in the reduction of the risk of impactful breaches. Defender CSPM uses environment context to perform a risk assessment of your security issues. Defender CSPM identifies the biggest security risk issues, while distinguishing them from less risky issues.
-With attack path analysis and cloud security explorer Defender DCSPM customers can address the security issues that pose immediate threats with the greatest potential of being exploited and proactively identify security risks in their cloud environment by running graph-based ...</description>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 19:01:08 GMT</lastBuildDate>
   </channel>
 </rss>
