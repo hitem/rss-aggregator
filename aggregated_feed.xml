@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 May 2023 18:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Automatically disrupt adversary-in-the-middle (AiTM) attacks with XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatically-disrupt-adversary-in-the-middle-aitm-attacks-with/ba-p/3821751</link>
-      <pubDate>Wed, 17 May 2023 17:03:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatically-disrupt-adversary-in-the-middle-aitm-attacks-with/ba-p/3821751</guid>
-      <description>Microsoft has been on a journey to harness the power of artificial intelligence to help security teams scale more effectively. Microsoft 365 Defender correlates millions of signals across endpoints, identities, emails, collaboration tools, and SaaS apps to identify active attacks and compromised assets in an organization&#8217;s environment. Last year, we introduced automatic attack disruption, which uses these correlated insights and powerful AI models to stop some of the most sophisticated attack techniques while in progress to limit lateral movement and damage. &#160;
-&#160;
-Today, we are excited to announ...</description>
-    </item>
+    <lastBuildDate>Wed, 17 May 2023 19:00:48 GMT</lastBuildDate>
   </channel>
 </rss>
