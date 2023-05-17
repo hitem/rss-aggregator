@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 May 2023 16:01:58 GMT</lastBuildDate>
-    <item>
-      <title>Hardening Windows Clients with Microsoft Intune and Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/hardening-windows-clients-with-microsoft-intune-and-defender-for/ba-p/3807378</link>
-      <pubDate>Wed, 17 May 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/hardening-windows-clients-with-microsoft-intune-and-defender-for/ba-p/3807378</guid>
-      <description>As a major part of any corporate security program, vulnerabilities on corporate assets are required to be addressed, yet teams that solely focus on the patching aspects may be missing a key area of worry, insecure setup. Whether the asset&#8217;s configuration is unrestricted by default, or an operator has made a mistake, assets will end up in an unsecure configuration. Security teams with a proactive attitude will seek methods that automatically address asset misconfiguration, and, where possible, avert them in a centralized fashion. This blog will introduce a solution that uses multiple Microsoft ...</description>
-    </item>
+    <lastBuildDate>Wed, 17 May 2023 17:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
