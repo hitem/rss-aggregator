@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 May 2023 14:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 15:00:53 GMT</lastBuildDate>
+    <item>
+      <title>New Azure DDoS Solution for Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/new-azure-ddos-solution-for-microsoft-sentinel/ba-p/3732013</link>
+      <pubDate>Wed, 17 May 2023 14:39:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/new-azure-ddos-solution-for-microsoft-sentinel/ba-p/3732013</guid>
+      <description>Written in collaboration with Amir Dahan
+&#160;
+Introduction
+Cybercriminals demonstrate increasingly sophisticated tactics using DDoS attacks as multi-purpose tool. While DDoS attacks are commonly used to take down critical systems, applications, and infrastructure, they also serve adversaries for extortion and political or ideological motives. The crown jewel is using DDoS attacks as a smokescreen to conceal data breaches while the attention is directed to the attack. By overwhelming the targeted website or application with a large amount of traffic, the attackers can exploit vulnerabilities and s...</description>
+    </item>
   </channel>
 </rss>
