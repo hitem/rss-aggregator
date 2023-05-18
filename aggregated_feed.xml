@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 May 2023 17:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 18:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Protect Office365 and Windows365 with Azure Firewall</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-office365-and-windows365-with-azure-firewall/ba-p/3824533</link>
+      <pubDate>Thu, 18 May 2023 17:51:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-office365-and-windows365-with-azure-firewall/ba-p/3824533</guid>
+      <description>Written by Yuval Perry (Azure Firewall Product Manager)
+&#160;
+Office 365 customers are looking for the best cloud connectivity experience at scale to achieve end-to-end connectivity through the most optimized route possible. Traffic from the organization&#8217;s network to the required Office 365 endpoints should be managed and secured, which could be a time-consuming ongoing task. With the recent announcement of Azure Firewall integration with Office 365, you can now easily manage this traffic and leverage the firewall&#8217;s security features to secure it.
+&#160;
+Office 365 endpoints requirements are built of h...</description>
+    </item>
   </channel>
 </rss>
