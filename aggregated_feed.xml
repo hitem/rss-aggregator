@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 May 2023 19:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Remediating Infrastructure-as-Code Security Misconfigurations with Microsoft Defender for DevOps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135</link>
-      <pubDate>Thu, 18 May 2023 18:03:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135</guid>
-      <description>Introduction&#160;
-In today&#8217;s application development landscape, organizations are widely adopting Infrastructure-as-Code (IaC) technology to automate the provisioning and management of resources to support cloud native applications and workloads across their multi-cloud environments. By utilizing IaC, organizations can manage infrastructures with the same versioning, testing, and automation processes that they use for their application code, leading to more reliable, efficient, and secure operations.&#160;
-&#160;
-The Importance of Infrastructure-as-Code Security&#160;
-Misconfigurations in IaC templates can pose ...</description>
-    </item>
+    <lastBuildDate>Thu, 18 May 2023 20:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
