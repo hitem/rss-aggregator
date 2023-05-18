@@ -3,17 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 May 2023 18:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 19:00:50 GMT</lastBuildDate>
     <item>
-      <title>Protect Office365 and Windows365 with Azure Firewall</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-office365-and-windows365-with-azure-firewall/ba-p/3824533</link>
-      <pubDate>Thu, 18 May 2023 17:51:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-office365-and-windows365-with-azure-firewall/ba-p/3824533</guid>
-      <description>Written by Yuval Perry (Azure Firewall Product Manager)
+      <title>Remediating Infrastructure-as-Code Security Misconfigurations with Microsoft Defender for DevOps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135</link>
+      <pubDate>Thu, 18 May 2023 18:03:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135</guid>
+      <description>Introduction&#160;
+In today&#8217;s application development landscape, organizations are widely adopting Infrastructure-as-Code (IaC) technology to automate the provisioning and management of resources to support cloud native applications and workloads across their multi-cloud environments. By utilizing IaC, organizations can manage infrastructures with the same versioning, testing, and automation processes that they use for their application code, leading to more reliable, efficient, and secure operations.&#160;
 &#160;
-Office 365 customers are looking for the best cloud connectivity experience at scale to achieve end-to-end connectivity through the most optimized route possible. Traffic from the organization&#8217;s network to the required Office 365 endpoints should be managed and secured, which could be a time-consuming ongoing task. With the recent announcement of Azure Firewall integration with Office 365, you can now easily manage this traffic and leverage the firewall&#8217;s security features to secure it.
-&#160;
-Office 365 endpoints requirements are built of h...</description>
+The Importance of Infrastructure-as-Code Security&#160;
+Misconfigurations in IaC templates can pose ...</description>
     </item>
   </channel>
 </rss>
