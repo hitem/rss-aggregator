@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 May 2023 21:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 22:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Mastering AKS Troubleshooting #1: Resolving Connectivity and DNS Failures</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-1-resolving-connectivity-and-dns/ba-p/3814187</link>
+      <pubDate>Fri, 19 May 2023 21:18:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-1-resolving-connectivity-and-dns/ba-p/3814187</guid>
+      <description>Introduction
+AKS or Azure Kubernetes Service is a fully managed Kubernetes container orchestration service that enables you to deploy, scale, and manage containerized applications easily. However, even with the most robust systems issues can arise that require troubleshooting.&#160;
+&#160;
+This blog post marks the beginning of a three-part series, that originated from an intensive one-day bootcamp focused on advanced AKS networking triage and troubleshooting scenarios.&#160;It offers a practical approach to diagnosing and resolving common AKS networking issues, aiming to equip readers with quick troubleshoot...</description>
+    </item>
   </channel>
 </rss>
