@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 May 2023 23:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Public Preview: Authenticator Lite (in Outlook)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-authenticator-lite-in-outlook/ba-p/3773139</link>
-      <pubDate>Thu, 18 May 2023 22:02:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-authenticator-lite-in-outlook/ba-p/3773139</guid>
-      <description>Two years ago, we shared that &#8220;It's Time to Hang Up on Phone Transports for Authentication.&#8221; Today, we&#8217;re adding the public preview of Authenticator Lite to the tools we are offering to help you move from text message (SMS) and voice-based authentication. Our priority is getting every user to sign in with modern strong authentication &#8211; passwordless, hardened against phishing, easy to use and adaptable to evolving attacks.&#160;
-&#160;
-Our top recommendation for modern strong authentication is the Authenticator, which offers the most robust security features, updated the most frequently, for free. Micros...</description>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 00:26:09 GMT</lastBuildDate>
   </channel>
 </rss>
