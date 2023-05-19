@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 May 2023 19:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 20:00:44 GMT</lastBuildDate>
+    <item>
+      <title>Azure Firewall NAT Behaviors</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-nat-behaviors/ba-p/3825834</link>
+      <pubDate>Fri, 19 May 2023 19:21:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-nat-behaviors/ba-p/3825834</guid>
+      <description>Introduction
+The Azure Firewall is a cloud-native and intelligent network firewall security service that can be integrated into many different use cases. It&#8217;s a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability that provides both east-west and north-south traffic inspection. Depending on how traffic will flow through the Azure Firewall, there are expected NAT behaviors. NAT, or Network Address Translation, is a method of remapping an IP address into another by modifying network address information in the IP header of packets. When traffic p...</description>
+    </item>
   </channel>
 </rss>
