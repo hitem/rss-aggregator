@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 May 2023 08:01:11 GMT</lastBuildDate>
-    <item>
-      <title>Unified Update Platform with ConfigMgr &#8211; Questions from the Field</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unified-update-platform-with-configmgr-questions-from-the-field/ba-p/3815038</link>
-      <pubDate>Fri, 19 May 2023 07:16:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unified-update-platform-with-configmgr-questions-from-the-field/ba-p/3815038</guid>
-      <description>
-Hello everyone! I&#180;m Stefan R&#246;ll, Cloud Solution Architect at Microsoft Germany for Intune and Microsoft Configuration Manager. In the past weeks, I got a lot of questions from customers around the recently released Unified Update Platform (UUP). In this Blog I want to cover some of them.
-&#160;
-The challenge with large updates
-UUP Updates are a big step forward for on-prem environments that want to leverage features, which were previously reserved for online environments. However, every cumulative update (CU) is now about 10GB in size which might be a challenge to handle for slow connected systems...</description>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 09:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
