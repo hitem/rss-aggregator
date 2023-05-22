@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 May 2023 16:01:56 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for DevOps Azure DevOps Connector - Microsoft Defender for Cloud PoC Series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-azure-devops-connector-microsoft/ba-p/3827261</link>
-      <pubDate>Mon, 22 May 2023 15:40:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-azure-devops-connector-microsoft/ba-p/3827261</guid>
-      <description>Introduction
-This article is a continuation of Microsoft Defender PoC Series which provides you guidelines on how to perform a proof of concept for a specific Microsoft Defender plan. For a more holistic approach where you need to validate Microsoft Defender for Cloud, please read&#8239;How to Effectively Perform an Microsoft Defender for Cloud PoC&#8239;article.&#160;
-There are two DevOps platforms currently covered by Defender for DevOps- GitHub and Azure DevOps. This article will go into detail about Azure DevOps Services.If you'd like to also learn about the GitHub connector with Microsoft Defender for Dev...</description>
-    </item>
-    <item>
-      <title>Boost your detection and response workflows with alert tuning</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/boost-your-detection-and-response-workflows-with-alert-tuning/ba-p/3824712</link>
-      <pubDate>Mon, 22 May 2023 15:10:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/boost-your-detection-and-response-workflows-with-alert-tuning/ba-p/3824712</guid>
-      <description>As cyber threats become more sophisticated and frequent, organizations need to be vigilant in monitoring their digital assets for potential security breaches.
-&#160;
-Microsoft 365 Defender is an XDR platform that delivers a unified investigation and response experience and provides native protection across endpoints, hybrid identities, email, collaboration tools, and cloud applications with centralized visibility, powerful analytics, and automatic attack disruption.
-&#160;
-Today we are excited to introduce alert tuning in Microsoft 365 Defender to help security teams detect and respond to potential secu...</description>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 17:01:04 GMT</lastBuildDate>
   </channel>
 </rss>
