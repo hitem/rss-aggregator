@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 May 2023 18:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Revolutionize your SAP Security with Microsoft Sentinel's SOAR Capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionize-your-sap-security-with-microsoft-sentinel-s-soar/ba-p/3823857</link>
-      <pubDate>Mon, 22 May 2023 17:03:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionize-your-sap-security-with-microsoft-sentinel-s-soar/ba-p/3823857</guid>
-      <description>First, big kudos to Martin for crafting this amazing playbook and co-authoring this blogpost.Be sure to check out his SAP-focused blog for more In-Depth Insights!
-&#160;
-The purpose of this blog post is to demonstrate how the SOAR capabilities of Sentinel can be utilized in conjunction with SAP by leveraging Microsoft Sentinel Playbooks/Azure Logic Apps to automate remedial actions in SAP systems or SAP Business Technology Platform (BTP).
-&#160;
-Before we dive into the details of the SOAR capabilities in the Sentinel SAP Solution, let's take a step back and take a very quick run through of the Sentinel ...</description>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 19:01:11 GMT</lastBuildDate>
   </channel>
 </rss>
