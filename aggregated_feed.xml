@@ -3,65 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 May 2023 21:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Good UAL Hunting</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421</link>
-      <pubDate>Mon, 22 May 2023 21:00:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421</guid>
-      <description>Good UAL Hunting
-&#160;
-In our last blog on this series, Forensic artifacts in Office 365 and where to find them, we spoke about where data relating to Office 365 can be found and which endpoints can be used to effectively conduct a cybersecurity investigation. In this blog post, we will be taking a deeper dive into one of those data sources, the Office 365 Unified Audit Log (UAL). This is a key data source in any cloud investigation because it contains a record of all the activity that has occurred in Office 365 and Azure Active Directory: whether a threat actor adds a new application secret, sets...</description>
-    </item>
-    <item>
-      <title>Forensic artifacts in Office 365 and where to find them</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/forensic-artifacts-in-office-365-and-where-to-find-them/ba-p/3634865</link>
-      <pubDate>Mon, 22 May 2023 20:55:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/forensic-artifacts-in-office-365-and-where-to-find-them/ba-p/3634865</guid>
-      <description>In the Microsoft Incident Response (formerly DART/CRSP) team, we often find ourselves using the rich data available in Office 365 to help us with our investigations. During this process there are a couple of questions we consistently stumble across:
-
-Where can I go to find &#8216;x&#8217; data? (Location) 
-How far back does our data go? (Availability) 
-
-Just like traditional endpoint-based data, log data in cloud services is available based on factors largely outside of the investigator&#8217;s control. As an investigator, it is our job to work with what&#8217;s available, and sometimes work a little bit of magic to ...</description>
-    </item>
-    <item>
-      <title>Using Microsoft Security APIs for Incident Response - Part 1</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/using-microsoft-security-apis-for-incident-response-part-1/ba-p/3603646</link>
-      <pubDate>Mon, 22 May 2023 20:49:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/using-microsoft-security-apis-for-incident-response-part-1/ba-p/3603646</guid>
-      <description>This blog is part one of a three-part series focused on facilitating programmatic data pulls from Microsoft APIs.&#160;
-&#160;
-Data collection and analysis is one of the most important aspects of a reactive Incident Response investigation or a proactive threat hunt exercise. Often one of the major contributing factors to the success of these investigations is not only how comprehensive your data collection is, but how fast the data is collected, what data is highlighted, and how consistent the data collection is across different investigations.
-&#160;
-This blog series highlights ways you can leverage an Azur...</description>
-    </item>
-    <item>
-      <title>Leveraging the Power of KQL in Incident Response</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795</link>
-      <pubDate>Mon, 22 May 2023 20:47:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795</guid>
-      <description>When your organization is faced with investigating a security incident, whether that&#8217;s something as simple as a phishing campaign or more complex like a determined human adversary, time is of the essence. Collecting and analyzing data are two critical things that need to be performed to quickly get an understanding of the initial scope and impact of the incident. There are several variables around both collecting and analyzing data that can affect the speed at which you might be able to respond. While the method or process of collecting data (or even the availability of relevant incident data)...</description>
-    </item>
-    <item>
-      <title>Part 1: LockBit 2.0 ransomware bugs and database recovery attempts</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/part-1-lockbit-2-0-ransomware-bugs-and-database-recovery/ba-p/3254354</link>
-      <pubDate>Mon, 22 May 2023 20:45:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/part-1-lockbit-2-0-ransomware-bugs-and-database-recovery/ba-p/3254354</guid>
-      <description>Research by: Nino and Team Torstino (Microsoft Incident Response (formerly DART/CRSP))
-&#160;
-Disclaimer: The technical information contained in this article is provided for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any action based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of guarantee of a certain outcome or result based on the information provided. Therefore, the use or reliance of any information contained in this article is solely at your...</description>
-    </item>
-    <item>
-      <title>Total Identity Compromise: Microsoft Incident Response lessons on securing Active Directory</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-microsoft-incident-response-lessons-on/ba-p/3753391</link>
-      <pubDate>Mon, 22 May 2023 20:37:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-microsoft-incident-response-lessons-on/ba-p/3753391</guid>
-      <description>Total Identity Compromise: Microsoft Incident Response lessons on securing Active Directory
-&#160;
-When Microsoft Incident Response (formerly DART/CRSP) is engaged during an incident, almost all environments include an on-premises Active Directory component. In most of these engagements, threat actors have taken full control of Active Directory &#8211;i.e., total domain compromise.
-&#160;
-Total domain compromise often starts with the compromise of a regular non-privileged user rather than a domain admin. Threat actors can use that account to discover misconfiguration and attack paths in Active Directory that ...</description>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 22:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
