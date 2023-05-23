@@ -3,21 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 May 2023 12:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 13:08:24 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Defender for Cloud Onboarding workbook V2</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-onboarding-workbook-v2/ba-p/3828185</link>
-      <pubDate>Tue, 23 May 2023 11:09:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-onboarding-workbook-v2/ba-p/3828185</guid>
-      <description>The Defender for Cloud Onboarding Workbook V2 is the latest version of this workbook that was originally published August 2022. You can read more about the purpose of this workbook in this post.
-&#160;
-What&#8217;s New:
-&#160;
-The Defender Plans Onboarded Tab - displays the subscriptions that are onboarded to a Defender plan, status of the Defender Plan, and the resources deployed in the subscription. You can click on the status of the Defender Plan to On / Off on the subscription.
-&#160;
-
-&#160;
-You will be directed to the Defender Plans Blade on your selected Subscription. You can notice the status of each Defender P...</description>
+      <title>Transform the way you investigate by using Behaviors &amp; new detections in XDR, starting w/SaaS apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/transform-the-way-you-investigate-by-using-behaviors-amp-new/ba-p/3825154</link>
+      <pubDate>Tue, 23 May 2023 13:04:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/transform-the-way-you-investigate-by-using-behaviors-amp-new/ba-p/3825154</guid>
+      <description>Security teams have conducted their investigation using two layers of data &#8211; raw activities and alerts which previously gave them the insight they needed to effectively respond to an alert. However, with attacks becoming more advanced and spanning across multiple vectors, this has led to Security Operations Centers (SOC) being overloaded with signals resulting in alert fatigue. We are thrilled to introduce a brand-new data type, called Behaviors in Microsoft 365 Defender, that will transform how you investigate alerts across all your workloads, starting with SaaS apps. In combination with Beha...</description>
     </item>
   </channel>
 </rss>
