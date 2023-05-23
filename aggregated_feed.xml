@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 May 2023 14:01:07 GMT</lastBuildDate>
-    <item>
-      <title>NCS Case Study - End-to-End Integration of Custom BYOML model with Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ncs-case-study-end-to-end-integration-of-custom-byoml-model-with/ba-p/3817918</link>
-      <pubDate>Tue, 23 May 2023 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ncs-case-study-end-to-end-integration-of-custom-byoml-model-with/ba-p/3817918</guid>
-      <description>Introduction
-My name is Win Yan, a management associate with NCS Pte Ltd, a long-term partner of Microsoft. NCS is a leading technology services firm, operating across Asia Pacific, providing services and solutions in consulting, digital, technology, cybersecurity and more.
-&#160;
-In this blog post, I would like to share about our work done to implement an end-to-end integration of our machine learning model with Microsoft Sentinel using its Bring Your Own Machine Learning (BYO-ML) platform. Specifically, our team from the NUS-NCS Joint Laboratory for Cyber Security have developed an algorithm aime...</description>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 15:01:19 GMT</lastBuildDate>
   </channel>
 </rss>
