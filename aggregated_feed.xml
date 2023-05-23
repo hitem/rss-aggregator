@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 May 2023 11:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 12:08:46 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud Onboarding workbook V2</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-onboarding-workbook-v2/ba-p/3828185</link>
+      <pubDate>Tue, 23 May 2023 11:09:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-onboarding-workbook-v2/ba-p/3828185</guid>
+      <description>The Defender for Cloud Onboarding Workbook V2 is the latest version of this workbook that was originally published August 2022. You can read more about the purpose of this workbook in this post.
+&#160;
+What&#8217;s New:
+&#160;
+The Defender Plans Onboarded Tab - displays the subscriptions that are onboarded to a Defender plan, status of the Defender Plan, and the resources deployed in the subscription. You can click on the status of the Defender Plan to On / Off on the subscription.
+&#160;
+
+&#160;
+You will be directed to the Defender Plans Blade on your selected Subscription. You can notice the status of each Defender P...</description>
+    </item>
   </channel>
 </rss>
