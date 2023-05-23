@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 May 2023 23:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Enrich your advanced hunting experience using network layer signals from Zeek</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enrich-your-advanced-hunting-experience-using-network-layer/ba-p/3794693</link>
-      <pubDate>Mon, 22 May 2023 22:33:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enrich-your-advanced-hunting-experience-using-network-layer/ba-p/3794693</guid>
-      <description>UPDATE : May 22, 2023
-&#160;
-On July 18, 2023, Microsoft will be deprecating a subset of signatures found in the "NetworkSignaturesInspected" action type of Advanced Hunting. With the recent integration of Zeek providing advanced protocol parsing capabilities, which result in better visibility into full network sessions compared to the raw packet bytes found in the "NetworkSignaturesInspected" action type of Advanced Hunting today, the effort to consolidate will provide a better overall experience for our customers by reducing the signatures that serve similar functions without the added benefits p...</description>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 00:27:09 GMT</lastBuildDate>
   </channel>
 </rss>
