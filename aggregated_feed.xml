@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 May 2023 16:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 17:00:53 GMT</lastBuildDate>
+    <item>
+      <title>Use sensitivity labels on all e-mail messages, use encryption and protection where warranted</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/use-sensitivity-labels-on-all-e-mail-messages-use-encryption-and/ba-p/3821549</link>
+      <pubDate>Tue, 23 May 2023 16:31:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/use-sensitivity-labels-on-all-e-mail-messages-use-encryption-and/ba-p/3821549</guid>
+      <description>Many organizations would like to apply encryption to all e-mail messages since it improves the information security posture. Is encrypting all messages the right way to go?
+&#160;
+E-mail encryption is described as the process by which information is encoded so that only an authorized recipient can decode and consume the information. On top of this&#160;Microsoft Purview Information Protection (MIP) also provides effective protection after the content has been decrypted and opened. MIP provides both encryption and protection. For more information please read this document, we are only discussing Microsof...</description>
+    </item>
   </channel>
 </rss>
