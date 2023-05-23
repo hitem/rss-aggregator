@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 May 2023 22:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra External ID&#8203; Public Preview: Developer-Centric Platform</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-external-id-public-preview-developer-centric/ba-p/3823767</link>
-      <pubDate>Tue, 23 May 2023 21:46:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-external-id-public-preview-developer-centric/ba-p/3823767</guid>
-      <description>Last year we introduced our expanded vision for identity and secure access and unveiled Microsoft Entra - our new product family for all identity and access products, that included Azure Active Directory (Azure AD), part of the Microsoft Entra family, Microsoft Entra Permissions Management, and Microsoft Entra Verified ID.&#160;
-&#160;
-Today, we&#8217;re excited to announce new developer-centric capabilities for customer and partner identity experiences in our next-generation customer identity and access management (CIAM) solution - Microsoft Entra External ID, and the next milestone in making our Microsoft E...</description>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 23:00:59 GMT</lastBuildDate>
   </channel>
 </rss>
