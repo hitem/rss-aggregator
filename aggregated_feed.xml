@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 May 2023 04:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Mastering AKS Troubleshooting #2: VNet cross-connectivity and Port resolution</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-2-vnet-cross-connectivity-and-port/ba-p/3814235</link>
-      <pubDate>Wed, 24 May 2023 04:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-2-vnet-cross-connectivity-and-port/ba-p/3814235</guid>
-      <description>Introduction
-This post is the second in a three-part series on troubleshooting common networking issues with Azure Kubernetes (AKS), a managed container orchestration service.&#160;Scenarios in this post were the result of an intensive one-day bootcamp specifically targeting advanced AKS networking triage and troubleshooting scenarios. It offers comprehensive guidance on how to set up a fully functional environment and presents various fault scenarios that participants can troubleshoot using familiar tools.
-&#160;
-The previous post addressed connectivity and DNS issues. This article specifically covers ...</description>
-    </item>
+    <lastBuildDate>Wed, 24 May 2023 05:01:17 GMT</lastBuildDate>
   </channel>
 </rss>
