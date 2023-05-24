@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 May 2023 15:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 16:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Learn to defend against threats with Microsoft Defender and Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-to-defend-against-threats-with-microsoft-defender-and/ba-p/3829213</link>
+      <pubDate>Wed, 24 May 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-to-defend-against-threats-with-microsoft-defender-and/ba-p/3829213</guid>
+      <description>The combination of Microsoft Defender and Sentinel helps SecOps teams detect, investigate, respond to, and defend against threats with a fully integrated and comprehensive set of capabilities. Today we&#8217;re sharing some new training resources and opportunities to help you build skills with these solutions&#8212;so you can use them now or get ready for a Microsoft certification exam.&#160; &#160;&#160;New Microsoft training guide for SIEM and XDR&#160;&#160;
+This lightweight guide quickly walks you through business needs related to extended threat detection and response (XDR) and security information and event management (SIEM...</description>
+    </item>
+    <item>
+      <title>What's New: Intel Profiles Deliver Crucial Information, Context About Threats</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-intel-profiles-deliver-crucial-information-context/ba-p/3780076</link>
+      <pubDate>Wed, 24 May 2023 15:56:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-intel-profiles-deliver-crucial-information-context/ba-p/3780076</guid>
+      <description>We're thrilled to introduce Intel Profiles, a single, reliable source of information in Microsoft Defender Threat Intelligence (Defender TI) security operations teams can use to have instant insight into the threat ecosystem, including pertinent details about vulnerabilities, threat actors, and infrastructure used in attacks.&#160;Intel profiles combine 65 trillion threat signals with the expertise of over 8,500 dedicated security professionals to translate that global threat landscape into immediately actionable insights. By comprehending their tactics, infrastructure, and methods of operation, se...</description>
+    </item>
   </channel>
 </rss>
