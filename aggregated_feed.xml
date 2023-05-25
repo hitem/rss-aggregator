@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 May 2023 16:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 17:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Tenant Restriction v2 is now Public Preview!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/tenant-restriction-v2-is-now-public-preview/ba-p/3094113</link>
+      <pubDate>Thu, 25 May 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/tenant-restriction-v2-is-now-public-preview/ba-p/3094113</guid>
+      <description>Hello friends,&#8239;&#8239;&#160;
+&#8239;&#160;
+I'm pleased to announce the public preview of tenant restrictions version 2 (TRv2) across our commercial clouds!&#8239;&#160;
+&#8239;&#160;
+With TRv2, you can enable safe and productive cross-company collaboration while containing data exfiltration risk. Tenant restriction settings enable you to control what external tenants your users can access from your devices or network using externally issued identities and provide granular access control on a per org, user, group, and application basis.&#8239;&#8239;&#160;
+&#8239;&#160;
+Tenant restriction is a much-awaited expansion of the previously released&#8239;cross-tenant access se...</description>
+    </item>
   </channel>
 </rss>
