@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 May 2023 18:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 19:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Your Ultimate Solution for Catching Container Image Exposure Before It Happens</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-ultimate-solution-for-catching-container-image-exposure/ba-p/3831733</link>
+      <pubDate>Thu, 25 May 2023 18:33:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-ultimate-solution-for-catching-container-image-exposure/ba-p/3831733</guid>
+      <description>The Rise of the Registry
+&#160;
+As the use of container technology continues to grow, it has become increasingly important to understand the risks and potential vulnerabilities that come along with it. One of the key components of any container ecosystem is the container registry, which is responsible for storing and distributing container images. One popular registry provider is Microsoft Azure, which offers the Azure Container Registry Images.
+&#160;
+Securing container images is essential to ensure data protection, reduce the risk of data breaches, and improve regulatory compliance. By understanding p...</description>
+    </item>
   </channel>
 </rss>
