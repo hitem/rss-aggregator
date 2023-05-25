@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 May 2023 23:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Empowering developers in the new Developer Center</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/empowering-developers-in-the-new-developer-center/ba-p/3827371</link>
-      <pubDate>Wed, 24 May 2023 23:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/empowering-developers-in-the-new-developer-center/ba-p/3827371</guid>
-      <description>This week at&#8239;Microsoft Build, we introduced&#8239;Microsoft Entra External ID, our next generation of customer identity and access management (CIAM) solution that evolves Azure AD External Identities to help developers efficiently build secure and compliant applications for customers, partners, and more. As part of the launch, I want to tell you more about the important developer centric features we&#8217;ve created.
-&#160;
-To help you get started on your application development journey we&#8217;re thrilled to announce our new&#8239;Identity Platform Developer Center. It&#8217;s a one-stop shop for everything you, as developers...</description>
-    </item>
+    <lastBuildDate>Thu, 25 May 2023 00:24:33 GMT</lastBuildDate>
   </channel>
 </rss>
