@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 May 2023 16:01:43 GMT</lastBuildDate>
-    <item>
-      <title>Announcing General Availability of Authenticator Lite (in Outlook)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/announcing-general-availability-of-authenticator-lite-in-outlook/ba-p/3773136</link>
-      <pubDate>Fri, 26 May 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/announcing-general-availability-of-authenticator-lite-in-outlook/ba-p/3773136</guid>
-      <description>Last month, Authenticator Lite (in Outlook) moved to public preview, bringing the security and reliability of Microsoft Authenticator to an app users already have on their phones. Today we&#8217;re excited to announce that Authenticator Lite (in Outlook) is now generally available!&#160;
-&#160;
-According to&#160;research done by Microsoft, multifactor authentications completed via push notifications in the Microsoft Authenticator app are 71% less likely to be compromised than those completed via&#160;SMS codes. Therefore, we&#160;strongly recommend moving your users off phone transports for authentication and towards more s...</description>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 17:00:56 GMT</lastBuildDate>
   </channel>
 </rss>
