@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 May 2023 23:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Fuzzy hashing logs to find malicious activity</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/fuzzy-hashing-logs-to-find-malicious-activity/ba-p/3786669</link>
-      <pubDate>Thu, 25 May 2023 22:32:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/fuzzy-hashing-logs-to-find-malicious-activity/ba-p/3786669</guid>
-      <description>Introduction&#160;
-During a forensic investigation, malicious activity may be discovered in logs. An incident responder may want to identify related malicious activity across a range of related log files. Typically, responders would extract and search for indicators of compromise (IOCs) or write well-crafted queries to search logs for similar activity. One way we can help responders find this similar activity is using &#8220;fuzzy hashing&#8221;, a term that encompasses a range of different hashing techniques designed to broadly group together &#8220;similar&#8221; things (in this case, similar malicious activity.)
-&#160;
-Whil...</description>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 00:26:12 GMT</lastBuildDate>
   </channel>
 </rss>
