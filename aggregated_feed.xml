@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 May 2023 06:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2023 07:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Mastering AKS Troubleshooting #3: Kernel view and AKS Observability</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-3-kernel-view-and-aks/ba-p/3814339</link>
+      <pubDate>Fri, 26 May 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-3-kernel-view-and-aks/ba-p/3814339</guid>
+      <description>Introduction
+This blog post concludes the three part series that addresses common networking problems that may occur while working with Azure Kubernetes Service (AKS). Although AKS is a managed container orchestration service, issues can still arise, requiring troubleshooting.
+&#160;
+The earlier blog post covered endpoint connectivity issues across virtual networks and port configuration problems with services and their associated pods. This article focusses on solving issues using Linux toolsets to get a kernel view of the Kubernetes layout and using Container Insights to view logging and diagnost...</description>
+    </item>
   </channel>
 </rss>
