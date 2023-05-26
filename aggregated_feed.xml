@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 May 2023 12:08:02 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud - Automate Notifications when new Attack Paths are created</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-automate-notifications-when-new/ba-p/3832385</link>
-      <pubDate>Fri, 26 May 2023 11:18:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-automate-notifications-when-new/ba-p/3832385</guid>
-      <description>Introduction
-Microsoft Defender for Cloud is a Cloud Native Application Protection Platform (CNAPP) that offers crucial insights and protective measures through its Attack Path risk analysis feature. A frequent requirement from customers is the ability to receive notifications whenever new attack paths are detected. This article presents an automated solution utilizing Azure Logic Apps to address this need. By deploying a custom Logic App using an Azure Resource Manager (ARM) template, organizations can establish a streamlined notification system for newly reported attack paths by Microsoft De...</description>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 13:06:50 GMT</lastBuildDate>
   </channel>
 </rss>
