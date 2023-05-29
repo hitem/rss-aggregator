@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 May 2023 08:07:21 GMT</lastBuildDate>
-    <item>
-      <title>Cloud Management Gateway - Inbound Rule for Port 8443</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/cloud-management-gateway-inbound-rule-for-port-8443/ba-p/3833139</link>
-      <pubDate>Mon, 29 May 2023 07:56:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/cloud-management-gateway-inbound-rule-for-port-8443/ba-p/3833139</guid>
-      <description>Hello! My name is Nandan Sheth, and I am a part of Microsoft&#8217;s Customer Success Unit based out of Dublin, Ireland. I have been helping customers set up the Cloud Management Gateway for a few years now, but recently an organization with 40000+ users asked me a question that I haven&#8217;t given much thought to.&#160;When you set up the Cloud Management Gateway using a Virtual Machine Scale Set, one of the resources created in Azure is the Network Security Group. The Network Security Group has an inbound rule for port 8443.
-Why is this rule created and what is it needed for? &#160;
-&#160;
-Figure 1: Network Security...</description>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 09:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
