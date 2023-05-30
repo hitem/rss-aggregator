@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 May 2023 15:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2023 16:02:01 GMT</lastBuildDate>
+    <item>
+      <title>Cross-Tenant Synchronization for seamless application access is now generally available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-synchronization-for-seamless-application-access-is/ba-p/2466933</link>
+      <pubDate>Tue, 30 May 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-synchronization-for-seamless-application-access-is/ba-p/2466933</guid>
+      <description>Hello Everyone,&#8239;&#160;
+&#160;Today I'm thrilled to announce that&#8239;Cross-tenant synchronization is generally available!&#8239;&#8239;&#160;
+&#8239;&#160;
+In the past, many of you spent significant time and money building custom scripts to provision accounts across tenants and enable cross-tenant collaboration. Since we launched public preview of cross-tenant sync in January, many of you quickly switched to the out of the box functionality and saved your companies both time and money. It&#8217;s amazing to hear how easy it has been to deploy cross-tenant synchronization! The rich feedback has provided new use cases we&#8217;re excited to share:&#160;...</description>
+    </item>
   </channel>
 </rss>
