@@ -3,34 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 May 2023 20:00:56 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud - 'SQL servers on machines should have vulnerability findings resolved'</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-sql-servers-on-machines-should-have/ba-p/3831897</link>
-      <pubDate>Tue, 30 May 2023 19:56:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-sql-servers-on-machines-should-have/ba-p/3831897</guid>
-      <description>Databases contain some of your most sensitive data, which makes them an obvious target for attackers.&#160; Most attackers are usually looking for data, whether it is to acquire sensitive data for their own use (to sell), to encrypt it (to sell back to you), or to destroy it (to cause you reputational and operational harm).&#160; Databases have an extended attack surface and are often misconfigured which can lead to an attacker gaining access, elevating permissions, and wreaking havoc.&#160;
-&#160;
-We are happy to announce that the recommendation &#8216;SQL servers on machines should have vulnerability findings resolve...</description>
-    </item>
-    <item>
-      <title>Microsoft Purview DevOps policies API is now public</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-api-is-now-public/ba-p/3818931</link>
-      <pubDate>Tue, 30 May 2023 19:31:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-api-is-now-public/ba-p/3818931</guid>
-      <description>Many of our sophisticated customers prefer to interface with Microsoft Purview via scripts rather than via the UI. Microsoft Purview DevOps policies now support a REST API offering full CRUD capability (listing, policies for SQL Performance Monitor, policies for SQL Security Auditor). See the spec here: https://learn.microsoft.com/en-us/rest/api/purview/devopspolicydataplane/devops-policy
-&#160;
-
-&#160;
-What are Microsoft Purview DevOps policies used for?&#160;Through DevOps policies, you&#160;provision access to database system metadata at-scale, securely and inexpensively. Learn more here.
-Who needs access to d...</description>
-    </item>
-    <item>
-      <title>Threat Explorer: UX enhancements, URL clicks tab and customizable export</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/threat-explorer-ux-enhancements-url-clicks-tab-and-customizable/ba-p/3834717</link>
-      <pubDate>Tue, 30 May 2023 19:07:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/threat-explorer-ux-enhancements-url-clicks-tab-and-customizable/ba-p/3834717</guid>
-      <description>We are thrilled to announce the release of new Threat Explorer V3 by Microsoft Defender for Office 365 with improved user experience to detect and investigate potential threats in their email environment. This tool provides real-time insights and recommendations to security analysts, helping them identify and mitigate security risks quickly and effectively. With the new release, Threat Explorer V3 offers enhanced filtering into email security events, allowing administrators to proactively respond to potential threats and prevent security incidents from occurring. Additionally, the tool provide...</description>
-    </item>
+    <lastBuildDate>Tue, 30 May 2023 21:01:08 GMT</lastBuildDate>
   </channel>
 </rss>
