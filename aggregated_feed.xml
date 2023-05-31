@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 May 2023 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 20:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Conditional Access authentication strength is now Generally Available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-authentication-strength-is-now-generally/ba-p/3773134</link>
+      <pubDate>Wed, 31 May 2023 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-authentication-strength-is-now-generally/ba-p/3773134</guid>
+      <description>Greetings! I&#8217;m thrilled to announce that Conditional Access authentication strength is now generally available. This powerful feature allows organizations to choose the right authentication method requirements for specific scenarios, making it easier than ever for organizations to move towards more secure, modern, and strong authentication.
+&#160;
+With Conditional Access authentication strength, administrators can define a minimum level of authentication strength required for access, based on factors such as the user's sign-in risk level or the sensitivity of the resource being accessed. This can b...</description>
+    </item>
   </channel>
 </rss>
