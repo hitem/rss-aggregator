@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 May 2023 07:00:51 GMT</lastBuildDate>
-    <item>
-      <title>Tidying Up URLs: Removing Trailing Slashes in Azure Static Web Apps</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tidying-up-urls-removing-trailing-slashes-in-azure-static-web/ba-p/3811614</link>
-      <pubDate>Wed, 31 May 2023 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tidying-up-urls-removing-trailing-slashes-in-azure-static-web/ba-p/3811614</guid>
-      <description>Introduction
-In the ever-evolving digital landscape, the importance of clean, well-structured URLs cannot be overstated. A well-crafted URL not only improves user experience, but it also boosts your website's SEO ranking. One common issue web developers and content creators face is the presence of trailing slashes in their URLs, which can lead to duplicate content issues and negatively impact search engine performance.
-&#160;
-In this blog post, we'll share a practical solution based on a recent customer engagement, where we helped them create a file that effectively removes trailing slashes from th...</description>
-    </item>
+    <lastBuildDate>Wed, 31 May 2023 08:01:59 GMT</lastBuildDate>
   </channel>
 </rss>
