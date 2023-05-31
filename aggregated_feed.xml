@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 May 2023 16:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Enterprise SSO for Apple Devices Is Now Available for Everyone</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-enterprise-sso-for-apple-devices-is-now-available-for/ba-p/3827395</link>
-      <pubDate>Wed, 31 May 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-enterprise-sso-for-apple-devices-is-now-available-for/ba-p/3827395</guid>
-      <description>Howdy folks,&#160;
-&#160;
-Today I&#8217;m excited to announce the General Availability of the Microsoft Enterprise SSO plug-in for Apple devices. This product provides single sign-on (SSO) for Azure Active Directory (Azure AD), now a part of Microsoft Entra, accounts on macOS, iOS, and iPadOS across all applications that support Apple's enterprise single sign-on feature. This includes older applications your organization depends on that don&#8217;t use the latest libraries or protocols and may not have access to the latest Microsoft Entra features. &#160;
-&#160;
-Now any compatible application can benefit from the latest secu...</description>
-    </item>
-    <item>
-      <title>ITDR with Microsoft: Identity threat-level detections and automatic attack disruption.</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/itdr-with-microsoft-identity-threat-level-detections-and/ba-p/3834631</link>
-      <pubDate>Wed, 31 May 2023 15:40:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/itdr-with-microsoft-identity-threat-level-detections-and/ba-p/3834631</guid>
-      <description>Cyber-security is consistently one of the top concerns for business leaders across every industry and when you consider that the average cost of a breach is upwards of USD4.35 million[1], its no surprise why. While this focus has often led to investment and the implementation of robust security practices, it&#8217;s also forced cyber-criminals to rethink their attack strategies. Some of the most rapidly growing threat areas are identity-based attacks where malicious actors look to exploit identities, or the underlying infrastructure and policies that govern them. Identity Threat Detection and Respon...</description>
-    </item>
+    <lastBuildDate>Wed, 31 May 2023 17:01:14 GMT</lastBuildDate>
   </channel>
 </rss>
