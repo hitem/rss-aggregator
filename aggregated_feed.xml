@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 01 Jun 2023 15:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 16:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview Data Loss Prevention (DLP) policies for Power BI are now generally available!</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-dlp-policies-for-power-bi/ba-p/3828373</link>
+      <pubDate>Thu, 01 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-dlp-policies-for-power-bi/ba-p/3828373</guid>
+      <description>We&#8217;re excited to announce the general availability of Microsoft Purview&#8217;s DLP policies for Power BI.
+&#160;
+DLP policies help you automatically detect sensitive information managed in your Power BI tenant and take risk remediation actions, to help you comply with governmental or industry regulations, such as the European Union&#8217;s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+By using DLP policies in Power BI, you strengthen your security posture and reduce the risk of sensitive information being uploaded to the cloud without your knowledge.
+&#160;
+What we're in...</description>
+    </item>
   </channel>
 </rss>
