@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 02 Jun 2023 15:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2023 16:01:48 GMT</lastBuildDate>
+    <item>
+      <title>Manage access to business assets using collections in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/manage-access-to-business-assets-using-collections-in-microsoft/ba-p/3837379</link>
+      <pubDate>Fri, 02 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/manage-access-to-business-assets-using-collections-in-microsoft/ba-p/3837379</guid>
+      <description>You can now manage access to business assets using collections.
+&#160;
+Business assets help describe the business use and context of your data. You can show how data is used by an application service or business process to meet a particular business use case. Until recently, these were managed in Purview as a flat list. Now you can store business assets in a collection so these can be curated by the right experts and assigned to physical data.
+&#160;
+
+We've also updated the collection design so that there's more space for working with assets. When you open a collection, the assets inside will be listed ...</description>
+    </item>
   </channel>
 </rss>
