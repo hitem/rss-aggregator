@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 04 Jun 2023 22:01:12 GMT</lastBuildDate>
-    <item>
-      <title>Azure Monitor: Gain Observability Over Guest Users</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-gain-observability-over-guest-users/ba-p/3832301</link>
-      <pubDate>Sun, 04 Jun 2023 22:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-gain-observability-over-guest-users/ba-p/3832301</guid>
-      <description>Hello howdy readers,
-Not too long passed since my last post on Azure Monitor; I couldn&#8217;t leave you alone .
-&#160;
-In this post, I would like to explore something about gaining and keeping observability over guest users. Guest users in Azure Active Directory are external users to which you can grant permission on resources in your tenant, thanks to the B2B collaboration.
-Adding an external user to your tenant is remarkably simple: sending an invitation to the user&#8217;s email address is more than enough. Once the invitation is accepted, the user can sign-in and access the resources in your subscriptions...</description>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 23:01:12 GMT</lastBuildDate>
   </channel>
 </rss>
