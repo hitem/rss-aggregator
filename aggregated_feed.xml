@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jun 2023 22:01:10 GMT</lastBuildDate>
-    <item>
-      <title>Automatic disruption of Ransomware and BEC attacks with Microsoft 365 Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatic-disruption-of-ransomware-and-bec-attacks-with/ba-p/3738294</link>
-      <pubDate>Mon, 05 Jun 2023 21:28:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatic-disruption-of-ransomware-and-bec-attacks-with/ba-p/3738294</guid>
-      <description>UPDATE: Effective May 23rd, 2023, the automatic attack disruption capability in Microsoft 365 Defender has been made generally available (GA).&#160;
-&#160;
-The ever-growing volume of advanced cybersecurity attacks challenges even the most advanced Security Operations (SOC) teams. Image 1 shows a timeline of a typical human-operated ransomware attack where the attacker encrypted hundreds of devices in just minutes. It demonstrates how quickly threat actors spread and execute attacks and highlights the criticality to quickly identify and contain high-impact attacks to limit the impact to organizations.
-&#160;
-...</description>
-    </item>
-    <item>
-      <title>Defender for SQL Vulnerability Assessment Updates</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-sql-vulnerability-assessment-updates/ba-p/3837732</link>
-      <pubDate>Mon, 05 Jun 2023 21:26:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-sql-vulnerability-assessment-updates/ba-p/3837732</guid>
-      <description>Microsoft Defender for SQL&#160;provides full database protection and benefit from the following components: threat protection to detect attacks in real-time and vulnerability assessment (VA) that scans, flags, and&#160;reports on&#160;database&#160;misconfigurations that&#160;may result in vulnerabilities for attackers to exploit.&#160;
-&#160;
-A few months&#160;ago,&#160;we launched the express configuration for vulnerability assessments in Defender for SQL (in public preview) that provides a streamlined onboarding experience for SQL vulnerability assessments with one-click&#160;configuration (or a simple API call),&#160;without any additional se...</description>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 23:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
