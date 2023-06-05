@@ -3,6 +3,85 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jun 2023 12:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2023 13:09:25 GMT</lastBuildDate>
+    <item>
+      <title>Safeguarding your OAuth apps with App Governance</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/safeguarding-your-oauth-apps-with-app-governance/ba-p/3837343</link>
+      <pubDate>Mon, 05 Jun 2023 13:05:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/safeguarding-your-oauth-apps-with-app-governance/ba-p/3837343</guid>
+      <description>In today's cloud-connected world, organizations rely heavily on SaaS applications to streamline operations and improve productivity. However, this has increased reliance on cloud services which exposes organizations to potential security threats. Among these threats are OAuth applications, which can be vulnerable due to insecure implementation, frequently misconfigured permissions, relying on user consent granting permissions to third-party apps and allowing lateral movement to bad actors that can lead to phishing. &#160;
+&#160;
+App governance provides an essential layer of defense to help you to protec...</description>
+    </item>
+    <item>
+      <title>Monthly news - June 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2023/ba-p/3838969</link>
+      <pubDate>Mon, 05 Jun 2023 12:51:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2023/ba-p/3838969</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+June 2023 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from May 2023.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+Watch new episodes of the Defender for Cloud in the Field show to learn about API Security with Defender for APIs, how to cre...</description>
+    </item>
   </channel>
 </rss>
