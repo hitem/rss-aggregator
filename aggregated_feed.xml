@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jun 2023 18:00:49 GMT</lastBuildDate>
-    <item>
-      <title>Security baseline for Microsoft Edge version 114</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-114/ba-p/3839728</link>
-      <pubDate>Mon, 05 Jun 2023 17:55:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-114/ba-p/3839728</guid>
-      <description>We are pleased to announce the enterprise-ready release of the security baseline for Microsoft Edge version 114!
-&#160;
-We have reviewed the settings in Microsoft Edge version 114 and updated our guidance with the removal of two settings. A new Microsoft Edge security baseline package was just released to the Download Center. You can download the new package from the&#160;Security Compliance Toolkit.
-&#160;
-Microsoft Edge&#8217;s Password Manager (Removed)
-This release also brings some exciting password management changes that we have been discussing for quite some time.
-&#160;
-Previously, the Microsoft Edge security b...</description>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 19:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
