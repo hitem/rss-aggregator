@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Jun 2023 16:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 17:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Prevent repeat attacks with threat-informed security posture recommendations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/prevent-repeat-attacks-with-threat-informed-security-posture/ba-p/3824920</link>
+      <pubDate>Tue, 06 Jun 2023 16:53:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/prevent-repeat-attacks-with-threat-informed-security-posture/ba-p/3824920</guid>
+      <description>As organizations continue to face an ever-evolving threat landscape, it is essential to have an effective posture management strategy in place. To do this effectively, security analysts not only need to consider industry standards and vendor best practices, but also take recent attacks into consideration. Investigating incidents that affected the organization helps understanding how the adversary got in and what misconfigurations were leveraged during the attack. These learnings enable security analysts to identify which settings should be addressed to close those gaps and prevent the organiza...</description>
+    </item>
   </channel>
 </rss>
