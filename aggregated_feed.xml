@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Jun 2023 22:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 23:01:00 GMT</lastBuildDate>
+    <item>
+      <title>New Threat Actor Intel Profiles Added to Defender TI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-defender-ti/ba-p/3841181</link>
+      <pubDate>Tue, 06 Jun 2023 22:55:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-defender-ti/ba-p/3841181</guid>
+      <description>The Microsoft Defender Threat Intelligence (Defender TI) team has recently launched twenty-six new threat actor Intel Profiles&#160;and more than 50 additional articles customers can leverage immediately to take an intel-led approach to defend their organization from the latest threats.&#160;
+&#160;
+Intel Profiles are a single source of information that fully licensed security operations teams can use for instant insight into the threat ecosystem. Users can rapidly identify adversary-threat infrastructure and access actionable indicators of compromise (IOCs) and in-depth analysis of tools, tactics, and proce...</description>
+    </item>
   </channel>
 </rss>
