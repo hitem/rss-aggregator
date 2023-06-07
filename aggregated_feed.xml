@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Jun 2023 14:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2023 15:01:16 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra ID Governance is generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-is-generally-available/ba-p/2466932</link>
+      <pubDate>Wed, 07 Jun 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-is-generally-available/ba-p/2466932</guid>
+      <description>Today, I&#8217;m pleased to announce the general availability of Microsoft Entra ID Governance, our complete identity governance product that ensures the right people have the right access to the right resources at the right time. This cloud-delivered product includes capabilities that were already available in Azure Active Directory, part of Microsoft Entra, plus our most advanced tools that simplify identity, management, and governance of on-premises and cloud apps and resources.&#8239;&#160;
+&#160;
+The Microsoft Entra ID Governance dashboard for security professionals.
+&#160;
+&#160;
+For customers new to governance or thos...</description>
+    </item>
   </channel>
 </rss>
