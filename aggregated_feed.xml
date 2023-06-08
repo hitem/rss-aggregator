@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Jun 2023 15:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Don't get caught unprepared: three steps to manage the risks of multicloud</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/don-t-get-caught-unprepared-three-steps-to-manage-the-risks-of/ba-p/3821990</link>
-      <pubDate>Thu, 08 Jun 2023 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/don-t-get-caught-unprepared-three-steps-to-manage-the-risks-of/ba-p/3821990</guid>
-      <description>This month's episode of Uncovering Hidden Risks discusses what it means to support multicloud, the risks of running a multicloud strategy, and how customers can think about this as they accelerate their digital transformation. Considering over 90% of organizations are already multicloud &#8211; meaning they rely on more than one cloud provider; it is important to understand how to protect people and data in a constantly evolving digital environment. 
-&#160;
-Joining our host Erica Toelle is our guest, Ashish Kumar. Ashish has over 25 years of experience in Engineering, Consulting, and Technology sales, he...</description>
-    </item>
+    <lastBuildDate>Thu, 08 Jun 2023 16:01:55 GMT</lastBuildDate>
   </channel>
 </rss>
