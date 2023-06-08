@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Jun 2023 20:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 21:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Digital Event: Microsoft Entra Innovations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/digital-event-microsoft-entra-innovations/ba-p/3843345</link>
+      <pubDate>Thu, 08 Jun 2023 20:23:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/digital-event-microsoft-entra-innovations/ba-p/3843345</guid>
+      <description>Join us on June 20, 2023 to explore the next stage of our vision at Reimagine secure access with Microsoft Entra. During the event, hear from some of our Microsoft Security leaders and experts as they present the next set of innovations from Microsoft Entra. &#160;
+&#160;
+Corporate Vice President, Security, Compliance, Identity, and Management, Vasu Jakkal will kick off the event by introducing Microsoft&#8217;s approach to comprehensive security, and how identity serves as organizations&#8217; first line of defense. We will then be joined by Joy Chik, President, Identity and Network Access at Microsoft, who will r...</description>
+    </item>
   </channel>
 </rss>
