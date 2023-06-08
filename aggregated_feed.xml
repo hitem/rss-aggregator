@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Jun 2023 07:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 08:06:41 GMT</lastBuildDate>
+    <item>
+      <title>Moving Cloud PC from One Datacenter Region to Another - Summer 2023 Edition</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/moving-cloud-pc-from-one-datacenter-region-to-another-summer/ba-p/3842630</link>
+      <pubDate>Thu, 08 Jun 2023 07:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/moving-cloud-pc-from-one-datacenter-region-to-another-summer/ba-p/3842630</guid>
+      <description>As i have mentioned in an earlier post, moving a cloud pc from one datacenter location from another was not possible. This activity was basically a deprovisioning and reprovisioning of the existing cloud pc in the target datacenter. However, due to increasing customer demand, this behavior is being changed right now. Moving cloud pc from one datacenter location to another is currently in preview (June 2023) and probably it will be GA in the coming fall. Let&#8217;s take a look at how it is done.
+Existing Environment
+&#160;
+In my lab environment i have three cloud pc&#8217;s that is provisioned and being used b...</description>
+    </item>
   </channel>
 </rss>
