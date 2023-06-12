@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Jun 2023 10:01:02 GMT</lastBuildDate>
-    <item>
-      <title>Avoiding Disk Export and VHD Download in Azure</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/avoiding-disk-export-and-vhd-download-in-azure/ba-p/3831294</link>
-      <pubDate>Mon, 12 Jun 2023 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/avoiding-disk-export-and-vhd-download-in-azure/ba-p/3831294</guid>
-      <description>Introduction
-In an era where cloud computing and virtualization are increasingly taking center stage, Microsoft's Azure is a dominant force. One of the vital components in Azure is the Disk Export and Virtual Hard Disk (VHD) Download functionality. While it offers a wealth of conveniences, it also opens up potential vulnerabilities in terms of data security and regulatory compliance. In addition, the process of exporting and downloading can be time-consuming and resource-intensive, sometimes resulting in performance degradation. This blog post is dedicated to exploring ways of avoiding these r...</description>
-    </item>
+    <lastBuildDate>Mon, 12 Jun 2023 11:00:59 GMT</lastBuildDate>
   </channel>
 </rss>
