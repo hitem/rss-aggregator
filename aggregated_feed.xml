@@ -3,13 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Jun 2023 16:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2023 17:01:15 GMT</lastBuildDate>
     <item>
-      <title>Detection Engineering in Azure &amp; Introducing AzDetectSuite</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/detection-engineering-in-azure-amp-introducing-azdetectsuite/ba-p/3841351</link>
-      <pubDate>Mon, 12 Jun 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/detection-engineering-in-azure-amp-introducing-azdetectsuite/ba-p/3841351</guid>
-      <description>Over the past few years of performing Azure security research, I have seen many new attack primitives &amp; techniques discovered that an adversary could abuse within Azure &amp; Azure Active Directory (AAD). When explaining a technique to a client, the challenge wasn&#8217;t explaining how something could be abused, the challenge was explaining how to detect it. Last year, I released the Azure Threat Research Matrix (ATRM), which highlighted the potential techniques an adversary could abuse within Azure &amp; AzureAD. The immediate thought would be to give clients an idea of what potential abuse scenarios exis...</description>
+      <title>Announcing the monthly security summary report for Microsoft Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-monthly-security-summary-report-for-microsoft/ba-p/3840628</link>
+      <pubDate>Mon, 12 Jun 2023 16:21:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-monthly-security-summary-report-for-microsoft/ba-p/3840628</guid>
+      <description> Security teams work endlessly to reduce risk and remediate threats. Oftentimes the countless hours required to manage the large volumes of vulnerabilities and incidents running across their console at any given moment, makes building and sharing progress reports strenuous and in many cases, an afterthought that keeps getting pushed out in time. Service providers and SOC teams need a solution that helps streamline security progress reporting so stakeholders can stay informed without redirecting security teams from focusing on what matters most.
+&#160;
+To help Defenders around the world streamline t...</description>
     </item>
   </channel>
 </rss>
