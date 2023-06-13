@@ -3,6 +3,30 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 13 Jun 2023 15:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2023 16:01:49 GMT</lastBuildDate>
+    <item>
+      <title>Action required: Last chance to migrate ADAL apps!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/action-required-last-chance-to-migrate-adal-apps/ba-p/3830330</link>
+      <pubDate>Tue, 13 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/action-required-last-chance-to-migrate-adal-apps/ba-p/3830330</guid>
+      <description>Migrate ADAL applications to MSAL is now available
+&#160;
+We are announcing a new Azure Active Directory (Azure AD) recommendation helping customers migrate apps using the legacy Azure AD&#160; Authentication Library (ADAL) to the Microsoft Authentication Library (MSAL).
+&#160;
+This is part of our ongoing initiative to improve the developer experience, service reliability, and security of customer applications to end support for ADAL. The final deadline to migrate your applications to MSAL has been extended to June 30, 2023. 
+&#160;
+What do you do?
+&#160;
+We recommend customers migrate to MSAL, which is designed to en...</description>
+    </item>
+    <item>
+      <title>Share your feedback on Microsoft 365 Defender via the new feedback portal</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/share-your-feedback-on-microsoft-365-defender-via-the-new/ba-p/3845896</link>
+      <pubDate>Tue, 13 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/share-your-feedback-on-microsoft-365-defender-via-the-new/ba-p/3845896</guid>
+      <description>Microsoft is constantly looking for ways to improve its products and services, and listening to the voices of our customers is a crucial part of that process. We heard from our customers that they would appreciate an open and collaborative platform where they can provide feedback and help influence the direction of Microsoft products, and at the same time have a way to interact and have their voices heard by our product teams.
+&#160;
+We&#8217;re excited to announce that Microsoft 365 Defender is now part of the new community feedback experience, and our customers now have a dedicated platform to submit t...</description>
+    </item>
   </channel>
 </rss>
