@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 14 Jun 2023 18:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Strategies for securing identities in Azure Active Directory with Sean Metcalf</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-for-securing-identities-in-azure-active-directory/ba-p/3831945</link>
-      <pubDate>Wed, 14 Jun 2023 17:09:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-for-securing-identities-in-azure-active-directory/ba-p/3831945</guid>
-      <description>The security community is continuously changing,&#8239;growing,&#8239;and learning from each other to better position the world against cyberthreats. In&#8239;the&#8239;latest post&#8239;of&#8239;our Community Voices&#8239;blog&#8239;series, Microsoft Senior Product Marketing Manager Brooke Lynn Weenig talks&#8239;with Trimarc Founder and Chief Technology Officer Sean Metcalf, who is a Microsoft Certified Master in Active Directory, co-hosts the Enterprise Security Weekly podcast, and created the adsecurity.org website. The thoughts below reflect Sean&#8217;s views, not the views of Sean&#8217;s employer, and are not legal advice. In this blog post, Sean tal...</description>
-    </item>
+    <lastBuildDate>Wed, 14 Jun 2023 19:01:10 GMT</lastBuildDate>
   </channel>
 </rss>
