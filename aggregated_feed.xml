@@ -3,27 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 14 Jun 2023 17:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 18:01:06 GMT</lastBuildDate>
     <item>
-      <title>Announcing multicloud assessments in Compliance Manager</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-multicloud-assessments-in-compliance-manager/ba-p/3846685</link>
-      <pubDate>Wed, 14 Jun 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-multicloud-assessments-in-compliance-manager/ba-p/3846685</guid>
-      <description>Multicloud strategies have become the new norm for most enterprises, with over 90% of organizations adopting multiple cloud infrastructures (IaaS), platforms (PaaS), and services (SaaS) to run their businesses. However, a lack of visibility into this growing digital infrastructure exposes organizations to significant risks. As a customer, you may conduct business with Microsoft 365, run workloads on Azure, Amazon Web Services (AWS), and Google Cloud (GCP), and rely on services like Zoom or Salesforce. Yet in this ever-expanding digital ecosystem, you need to ensure that you uphold your regulat...</description>
-    </item>
-    <item>
-      <title>Prevent data leak through web apps with Microsoft Purview Data Loss Prevention</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/prevent-data-leak-through-web-apps-with-microsoft-purview-data/ba-p/3845899</link>
-      <pubDate>Wed, 14 Jun 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/prevent-data-leak-through-web-apps-with-microsoft-purview-data/ba-p/3845899</guid>
-      <description>The escalating prevalence of cyber threats and data breaches demands stringent measures to ensure data security. Exfiltrating sensitive information through personal emails or social media sites can not only expose sensitive data to hackers and lead to potential misuse. Implementing controls that restrict such actions provides an additional layer of security, reducing the risk of data leaks and fortifying the confidentiality of sensitive data. Additionally, as organizations adopt AI technologies, it is important to implement security AI strategies to safeguard sensitive data from the potential ...</description>
-    </item>
-    <item>
-      <title>Manage insider risks in multicloud environments</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/manage-insider-risks-in-multicloud-environments/ba-p/3845501</link>
-      <pubDate>Wed, 14 Jun 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/manage-insider-risks-in-multicloud-environments/ba-p/3845501</guid>
-      <description>The shift toward hybrid work environments has led to a significant increase in cloud service adoption in recent years. In fact, on average, organizations now use 147 public cloud services across SaaS, PaaS, and IaaS, compared with just 38 services in 2020*. While cloud services offer many benefits, they also raise concerns about the security of sensitive data that can flow and be stored everywhere without a clear perimeter. The loss of sensitive data remains the top security concern in cloud services* for IT and security professionals, and it's crucial to have integrated data security solution...</description>
+      <title>Strategies for securing identities in Azure Active Directory with Sean Metcalf</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-for-securing-identities-in-azure-active-directory/ba-p/3831945</link>
+      <pubDate>Wed, 14 Jun 2023 17:09:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-for-securing-identities-in-azure-active-directory/ba-p/3831945</guid>
+      <description>The security community is continuously changing,&#8239;growing,&#8239;and learning from each other to better position the world against cyberthreats. In&#8239;the&#8239;latest post&#8239;of&#8239;our Community Voices&#8239;blog&#8239;series, Microsoft Senior Product Marketing Manager Brooke Lynn Weenig talks&#8239;with Trimarc Founder and Chief Technology Officer Sean Metcalf, who is a Microsoft Certified Master in Active Directory, co-hosts the Enterprise Security Weekly podcast, and created the adsecurity.org website. The thoughts below reflect Sean&#8217;s views, not the views of Sean&#8217;s employer, and are not legal advice. In this blog post, Sean tal...</description>
     </item>
   </channel>
 </rss>
