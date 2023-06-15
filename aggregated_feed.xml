@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Jun 2023 06:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Use Azure Functions to remove unauthorized Role Assignments</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-azure-functions-to-remove-unauthorized-role-assignments/ba-p/3835628</link>
-      <pubDate>Thu, 15 Jun 2023 05:55:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-azure-functions-to-remove-unauthorized-role-assignments/ba-p/3835628</guid>
-      <description>&#160;
-Introduction
-Recently, one of my customers faced a challenge regarding the assignment of Role Definitions to workload teams on their Subscriptions. Their current configuration uses Entitlement Management, in combination with Privileged Identity Management (PIM), to grant a set of standing and eligible Role Assignments to workload teams. In this way, individual users would be able to elevate to the Contributor Role Definition on the scope of their own Subscription.
-&#160;
-Even though the Contributor Role Definition grants users a lot of rights, in some cases it is not sufficient. For instance, it ...</description>
-    </item>
+    <lastBuildDate>Thu, 15 Jun 2023 07:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
