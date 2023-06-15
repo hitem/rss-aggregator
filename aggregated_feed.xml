@@ -3,15 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Jun 2023 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 22:00:53 GMT</lastBuildDate>
     <item>
-      <title>Important: Azure AD Graph Retirement and Powershell Module Deprecation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/important-azure-ad-graph-retirement-and-powershell-module/ba-p/3848270</link>
-      <pubDate>Thu, 15 Jun 2023 20:24:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/important-azure-ad-graph-retirement-and-powershell-module/ba-p/3848270</guid>
-      <description>In 2019, we announced deprecation of the Azure AD Graph service. One year ago we communicated that Azure AD Graph will be retired and stop functioning after June 30, 2023. We also previously communicated that three legacy PowerShell modules (Azure AD, Azure AD Preview, and MS Online) would be deprecated on June 30, 2023. &#160;
+      <title>Introducing the Microsoft Sentinel Triage Assistant (STAT)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-triage-assistant-stat/ba-p/3845846</link>
+      <pubDate>Thu, 15 Jun 2023 21:41:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-triage-assistant-stat/ba-p/3845846</guid>
+      <description>*Note: This article was compiled and posted on behalf of Paul Bergson,&#160;Matt Lopinto, and Brian Delaney. I personally did not create or write this content.*
 &#160;
-We want to provide an update on timelines for these changes and offer further clarity on what to expect going forward. No new investment is going into Azure AD Graph and the three PowerShell modules, making it very important that all customers prioritize migration to Micro...</description>
+Non-Official Stance
+As a Microsoft Cloud Solution Architect-Engineer, I am providing the following guidance to assist customers in deploying the STAT tool. These recommendations are based on my experiences and the challenges encountered within Azure environments.
+Please note that the guidance I provide is not an official statement or directive from Microsoft. For official guidance on Azure, it is recommended to refer to the top-level Micr...</description>
     </item>
   </channel>
 </rss>
