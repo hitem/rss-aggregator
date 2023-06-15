@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Jun 2023 15:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 16:01:57 GMT</lastBuildDate>
+    <item>
+      <title>Filter by asset type, bulk delete assets, and import assets into collections in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/filter-by-asset-type-bulk-delete-assets-and-import-assets-into/ba-p/3845844</link>
+      <pubDate>Thu, 15 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/filter-by-asset-type-bulk-delete-assets-and-import-assets-into/ba-p/3845844</guid>
+      <description>Our latest release, Manage access to business assets via collections, also makes it easier to work with assets in Collections. In case you missed it:
+
+You now get a full page for working with assets. This used to be a small panel. Finally, some breathing room!
+If you're a data curator, you can now bulk-delete assets from a collection.
+
+
+&#160;
+3. You can now import business assets directly into a collection. This isn't available for physical assets yet, but is coming in the future.
+&#160;
+
+&#160;
+4. You can filter business assets by asset type. This filter also makes it easier to create a list of assets you'...</description>
+    </item>
   </channel>
 </rss>
