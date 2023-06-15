@@ -3,24 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Jun 2023 16:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 17:01:11 GMT</lastBuildDate>
     <item>
-      <title>Filter by asset type, bulk delete assets, and import assets into collections in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/filter-by-asset-type-bulk-delete-assets-and-import-assets-into/ba-p/3845844</link>
-      <pubDate>Thu, 15 Jun 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/filter-by-asset-type-bulk-delete-assets-and-import-assets-into/ba-p/3845844</guid>
-      <description>Our latest release, Manage access to business assets via collections, also makes it easier to work with assets in Collections. In case you missed it:
-
-You now get a full page for working with assets. This used to be a small panel. Finally, some breathing room!
-If you're a data curator, you can now bulk-delete assets from a collection.
-
-
+      <title>Microsoft Defender for API Security Dashboard</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-api-security-dashboard/ba-p/3848291</link>
+      <pubDate>Thu, 15 Jun 2023 16:39:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-api-security-dashboard/ba-p/3848291</guid>
+      <description>Microsoft Defender for APIs is a plan provided by&#160;Microsoft Defender for Cloud&#160;that offers full lifecycle protection, detection, and response coverage for APIs. Defender for APIs is currently in public preview and currently provides security for APIs published in Azure API Management.
 &#160;
-3. You can now import business assets directly into a collection. This isn't available for physical assets yet, but is coming in the future.
-&#160;
-
-&#160;
-4. You can filter business assets by asset type. This filter also makes it easier to create a list of assets you'...</description>
+Microsoft Defender for API plan provides us with amazing capabilities like, giving security admins the visibility to their business-critical managed APIs, provides you with security findings to investigate and improve your API security posture, also provides you with sensitive-data classification (API data clas...</description>
     </item>
   </channel>
 </rss>
