@@ -3,33 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 Jun 2023 20:01:09 GMT</lastBuildDate>
-    <item>
-      <title>Azure Firewall Basic SKU is now Available in Public Preview</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-basic-sku-is-now-available-in-public-preview/ba-p/3677670</link>
-      <pubDate>Mon, 19 Jun 2023 19:59:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-basic-sku-is-now-available-in-public-preview/ba-p/3677670</guid>
-      <description>Microsoft has recently released in public preview the new Azure Firewall Basic SKU as announced on October 4, 2022.&#160;
-&#160;
-Azure Firewall Basic is a new SKU of Azure Firewall designed to meet the needs of SMBs by providing enterprise-grade protection of their cloud environment at an affordable price point. It is a cloud-native, highly available, stateful firewall as a service offering that enables customers to centrally govern and log all their traffic flows with essential capabilities at scale.
-&#160;
-Key features of Azure Firewall Basic&#160;
-&#160;
-
-Comprehensive, cloud-native network firewall security.&#160;
-
-Net...</description>
-    </item>
-    <item>
-      <title>General Availability of Structured Logs and Single Click Upgrade/Downgrade in Azure Firewall</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-structured-logs-and-single-click-upgrade/ba-p/3851418</link>
-      <pubDate>Mon, 19 Jun 2023 19:05:38 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-structured-logs-and-single-click-upgrade/ba-p/3851418</guid>
-      <description>Azure Firewall is a&#160;Cloud-native Firewall as a Service&#160;offering that enables customers to centrally govern and log all their traffic flows using a DevOps approach. The service supports both application and network-level filtering rules and is integrated with the&#160;Microsoft Defender Threat Intelligence&#160;feed to filter known malicious IP addresses and domains. Azure Firewall is highly available with built-in auto-scaling.
-&#160;
-Structured Logs
-&#160;
-To continuously provide new troubleshooting capabilities in Azure Firewall, we have recently announced&#160;New flow logs and latency metrics. We are now happy to ...</description>
-    </item>
+    <lastBuildDate>Mon, 19 Jun 2023 21:01:10 GMT</lastBuildDate>
   </channel>
 </rss>
