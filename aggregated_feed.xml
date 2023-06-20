@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Jun 2023 19:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Live series 6/27 &amp; 7/20: Microsoft Entra Tech Accelerator</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/live-series-6-27-amp-7-20-microsoft-entra-tech-accelerator/ba-p/2520433</link>
-      <pubDate>Tue, 20 Jun 2023 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/live-series-6-27-amp-7-20-microsoft-entra-tech-accelerator/ba-p/2520433</guid>
-      <description>Our digital event Reimagine secure access with Microsoft Entra has been rescheduled for July 11, 2023 at 9:00AM PST. Please reschedule it on your calendar if you haven&#8217;t already!&#160;&#160;
-&#160;
-I&#8217;d like to be sure you&#8217;re also aware of updates to the complementary up-close conversations with technical experts in support of the latest product innovations in Microsoft Entra.&#160;&#160;
-&#160;
-The Microsoft Entra Tech Accelerator is designed to help you and your team learn about and implement our latest solutions, plus create an opportunity for you to chat live with our team. 
-&#160;
-We&#8217;ve added extra content and split it into...</description>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 20:01:12 GMT</lastBuildDate>
   </channel>
 </rss>
