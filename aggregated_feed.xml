@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Jun 2023 20:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 21:01:20 GMT</lastBuildDate>
+    <item>
+      <title>The False Identifier Anti-pattern</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/the-false-identifier-anti-pattern/ba-p/3846013</link>
+      <pubDate>Tue, 20 Jun 2023 20:23:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/the-false-identifier-anti-pattern/ba-p/3846013</guid>
+      <description>Today, we&#8217;d like to highlight a dangerous anti-pattern in the identity world: the&#160;false identifier anti-pattern. &#8239;An anti-pattern is a common response to a recurring problem that&#8217;s usually ineffective and risks being highly counter-productive. You may have also heard of the&#8239;password anti-pattern.&#8239;Today's discussion represents a possibly even more dangerous practice.&#160;
+&#8239;&#160;
+The false identifier anti-pattern&#8239;occurs&#8239;when an application or service assumes that an attribute other than the subject of an assertion from a federated identity provider is a unique, durable, and trustworthy account identifie...</description>
+    </item>
   </channel>
 </rss>
