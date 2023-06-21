@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Jun 2023 14:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 15:01:03 GMT</lastBuildDate>
+    <item>
+      <title>How eDiscovery can help you reduce data and risks in three steps</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-ediscovery-can-help-you-reduce-data-and-risks-in-three-steps/ba-p/3822083</link>
+      <pubDate>Wed, 21 Jun 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-ediscovery-can-help-you-reduce-data-and-risks-in-three-steps/ba-p/3822083</guid>
+      <description>This month's episode of Uncovering Hidden Risks discusses strategies and best practices to mitigate security and compliance risks by using in-place eDiscovery to support investigations and litigation.&#160; As data volumes continue to balloon, it's becoming clear that the quickest path to victory does not involve the fewest steps. Let&#8217;s explore ways to defensibly move data minimization decisions upstream, to collaboratively expedite the eDiscovery process and reduce risk within the safety of your own tenant.
+&#160;
+Joining our host Erica Toelle is our guest, EJ Bastien. EJ is Microsoft&#8217;s Director of Dis...</description>
+    </item>
   </channel>
 </rss>

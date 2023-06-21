@@ -143,3 +143,4 @@
 2023-06-20T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/live-series-6-27-amp-7-20-microsoft-entra-tech-accelerator/ba-p/2520433
 2023-06-20T20:23:58 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/the-false-identifier-anti-pattern/ba-p/3846013
 2023-06-21T09:31:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unlocking-insights-from-azure-activity-logs-with-power-bi/ba-p/3843116
+2023-06-21T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-ediscovery-can-help-you-reduce-data-and-risks-in-three-steps/ba-p/3822083
