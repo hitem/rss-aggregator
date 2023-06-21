@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Jun 2023 17:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Introducing the Azure Workbook for Defender CSPM Visualization: Enhance Your Cloud Security Posture</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-azure-workbook-for-defender-cspm-visualization/ba-p/3853277</link>
-      <pubDate>Wed, 21 Jun 2023 16:07:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-azure-workbook-for-defender-cspm-visualization/ba-p/3853277</guid>
-      <description>We are excited to announce the release of the Azure Workbook for Defender CSPM (Cloud Security Posture Management), an intuitive dashboard designed to easy the way you visualize and analyze your Defender for Cloud's information related to Defender CSPM plan. This comprehensive workbook serves as a central dashboard within the Azure Portal, providing you with a consolidated view of critical Defender CSPM insights and empowering you to make informed decisions to enhance your cloud security posture.&#160;
-A Centralized Defender CSPM Dashboard&#160;
-Defender for Cloud offers robust contextualized CSPM capab...</description>
-    </item>
+    <lastBuildDate>Wed, 21 Jun 2023 18:01:59 GMT</lastBuildDate>
   </channel>
 </rss>
