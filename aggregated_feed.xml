@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 23 Jun 2023 06:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 07:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Exploring Configuration Manager Automation Fundamentals&#8211; SMS Provider</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-sms/ba-p/3845566</link>
+      <pubDate>Fri, 23 Jun 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-sms/ba-p/3845566</guid>
+      <description>Hello!
+&#160;
+My name is Herbert Fuchs, and in this blog series, I want to take you on a journey exploring automation and API capabilities within Microsoft Configuration Manager. We will cover the fundamentals, share tips and tricks, and delve into advanced content.
+&#160;
+Over the next few weeks, we will cover the following topics:
+&#160;
+
+ SMS Provider
+ Windows Management Instrumentation (WMI)
+ PowerShell Cmdlets
+ Administration Service (REST API)
+
+&#160;
+Before we dive into coding examples and details, it's essential to cover some essentials. Our first stop is the SMS Provider (System Management Server). This ...</description>
+    </item>
   </channel>
 </rss>
