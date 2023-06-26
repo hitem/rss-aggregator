@@ -3,6 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Jun 2023 15:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2023 16:02:55 GMT</lastBuildDate>
+    <item>
+      <title>Is that Microsoft 365 application appropriate for storing records?</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/is-that-microsoft-365-application-appropriate-for-storing/ba-p/3853806</link>
+      <pubDate>Mon, 26 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/is-that-microsoft-365-application-appropriate-for-storing/ba-p/3853806</guid>
+      <description>Microsoft 365 has swiftly become one of the most ubiquitous collaboration platforms in organizations today. People love how easy it is to use, and the vast array of features and tools that empower them to do their best work every day.
+&#160;
+But if you&#8217;re a records management professional, you&#8217;re probably a bit concerned about Microsoft 365. You&#8217;re likely concerned about the growth in the number of Teams and SharePoint sites that are being created, or IT implementing apps and features without considering records management. And you&#8217;re probably concerned about ensuring records stored in Microsoft 36...</description>
+    </item>
+    <item>
+      <title>Azure Web Application Firewall- Bot Manager Scenarios</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-web-application-firewall-bot-manager-scenarios/ba-p/3855731</link>
+      <pubDate>Mon, 26 Jun 2023 15:12:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-web-application-firewall-bot-manager-scenarios/ba-p/3855731</guid>
+      <description>&#160;
+This article is part of our ongoing efforts to continually develop strategies against malicious bots.
+The continuous integration of bots to simulate human engagement, especially for unethical activities in web applications lead to both security incidents and diversion of engagement with web resources. The advent of new AI projects and LLMs (Large Language Models) have also opened more avenues for vulnerabilities including prompt injections, data leakage, training data poisoning, unauthorized code execution etc.
+It is essential to grant bots access to your websites. Microsoft Bot Manager Rule...</description>
+    </item>
   </channel>
 </rss>
