@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Jun 2023 07:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Exploring Configuration Manager Automation Fundamentals &#8211; WMI</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-wmi/ba-p/3845598</link>
-      <pubDate>Mon, 26 Jun 2023 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-wmi/ba-p/3845598</guid>
-      <description>Hello everyone!
-&#160;
-Welcome back to our blog series on automation and API capabilities within Microsoft Configuration Manager. In our previous post, we delved into the SMS Provider, the WMI interface that enables interaction with an MECM site. In this installment, we will take a closer look at Windows Management Instrumentation (WMI) and its significance in MECM.
-&#160;
-Recap - The SMS Provider is our WMI-Interface to interact with a MECM-Site. With the Installation of an MECM-Client we also have WMI-Namespaces to gather information or automate Tasks:
-&#160;
-
-&#160;
-Building-Blocks
-&#160;
-Before we dive into the de...</description>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 08:10:12 GMT</lastBuildDate>
   </channel>
 </rss>
