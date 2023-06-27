@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Jun 2023 18:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2023 19:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Using Resource Locks To Prevent Accidental Changes In Azure</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-resource-locks-to-prevent-accidental-changes-in-azure/ba-p/3842402</link>
+      <pubDate>Tue, 27 Jun 2023 18:32:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-resource-locks-to-prevent-accidental-changes-in-azure/ba-p/3842402</guid>
+      <description>&#160;
+Hello howdy readers, welcome to my post!&#160;My name is Khushbu Gandhi, I am Cloud Solutions Architect in Bay Area.&#160;
+&#160;
+Over the course of my learning with Azure thus far, I have realized that it&#8217;s easy to deploy resources in the Azure. In fact, it is this ease of use that has largely catapulted the push towards cloud adoption. But the shortcoming here is that it is just as easy to delete resources in the cloud as it is to deploy them. This is a common concern among organizations wanting to move their infrastructure to the cloud but are skeptical about the safety mechanisms in place to prevent wr...</description>
+    </item>
   </channel>
 </rss>
