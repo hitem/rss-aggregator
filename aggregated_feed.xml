@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Jun 2023 16:02:46 GMT</lastBuildDate>
-    <item>
-      <title>Locate Security training and resources with ease on the improved Security documentation hub</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/locate-security-training-and-resources-with-ease-on-the-improved/ba-p/3854348</link>
-      <pubDate>Tue, 27 Jun 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/locate-security-training-and-resources-with-ease-on-the-improved/ba-p/3854348</guid>
-      <description>We&#8217;re excited to announce a major refresh to our Security documentation page on Microsoft Learn. The page now serves as our Security documentation hub. Learners can use it as their jumping-off point for finding all Security technical skilling content across Microsoft, with more streamlined sections and content for easy discovery.&#160;&#160;&#160;
-&#160;
-Enhanced navigation with a new secondary menu bar
-&#160;
-
-&#160;
-The addition of a secondary menu bar helps learners easily navigate to relevant landing pages both inside and outside of Microsoft Learn, including product-specific content (such as the new training pages for...</description>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 17:01:20 GMT</lastBuildDate>
   </channel>
 </rss>
