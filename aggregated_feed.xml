@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Jun 2023 07:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 08:08:04 GMT</lastBuildDate>
+    <item>
+      <title>Exploring Configuration Manager Automation Fundamentals &#8211; PowerShell Cmdlets</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals/ba-p/3845635</link>
+      <pubDate>Wed, 28 Jun 2023 07:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals/ba-p/3845635</guid>
+      <description>Hello, everyone!
+&#160;
+Welcome back to our blog series on automation and API capabilities within Microsoft Configuration Manager. In our previous post, we delved into the Windows Management Instrumentation, where we learned about namespaces, classes, properties, and methods. Now, let's shift our focus to the PowerShell cmdlets. As with our previous post, we will start with the essentials and dive deeper into this topic.
+&#160;
+PowerShell Cmdlets &#8211; An Overview
+&#160;
+Cmdlets were introduced in System Center Configuration Manager 2012 SP1 and have continued to evolve. With Microsoft Configuration Manager 2303...</description>
+    </item>
   </channel>
 </rss>

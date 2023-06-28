@@ -151,3 +151,4 @@
 2023-06-26T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/is-that-microsoft-365-application-appropriate-for-storing/ba-p/3853806
 2023-06-27T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/locate-security-training-and-resources-with-ease-on-the-improved/ba-p/3854348
 2023-06-27T18:32:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-resource-locks-to-prevent-accidental-changes-in-azure/ba-p/3842402
+2023-06-28T07:10:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals/ba-p/3845635
