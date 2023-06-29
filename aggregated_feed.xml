@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Jun 2023 13:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2023 14:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Security Baseline for M365 Apps for enterprise v2306</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2306/ba-p/3858702</link>
+      <pubDate>Thu, 29 Jun 2023 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2306/ba-p/3858702</guid>
+      <description>Microsoft is pleased to announce the release of the recommended security configuration baseline settings for Microsoft 365 Apps for enterprise, version 2306. Please download the content from the Microsoft Security Compliance Toolkit, test the recommended configurations, and implement as appropriate.
+&#160;
+This baseline builds on the previous Office baseline we released June 2022. The highlights of this baseline include:
+
+Added a new setting to Microsoft Publisher around blocking macros from the internet
+Added a new setting around Basic Authentication
+Added a block for Excel XLL add-ins
+Added a new...</description>
+    </item>
   </channel>
 </rss>
