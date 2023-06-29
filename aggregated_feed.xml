@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Jun 2023 22:01:18 GMT</lastBuildDate>
-    <item>
-      <title>Top 5 Common Deployment Tips for US Government Agencies</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/top-5-common-deployment-tips-for-us-government-agencies/ba-p/3857792</link>
-      <pubDate>Wed, 28 Jun 2023 21:29:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/top-5-common-deployment-tips-for-us-government-agencies/ba-p/3857792</guid>
-      <description>Executive Order 14028 (EO 14028), Improving the Nation&#8217;s Cybersecurity directs the federal government to improve its efforts to identify, protect against, and respond to malicious cyber campaigns and their actors through bold changes and significant investments in cybersecurity. The Office of Management and Budget (OMB) released the Federal Zero Trust Strategy Memorandum M-22-09 adding specific guidance where federal agencies should focus their efforts with regards to identity, specifically, (1) A centralized cloud-based identity solution, (2) Strengthening authentication by implementing phish...</description>
-    </item>
+    <lastBuildDate>Thu, 29 Jun 2023 07:01:09 GMT</lastBuildDate>
   </channel>
 </rss>
