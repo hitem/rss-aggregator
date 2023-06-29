@@ -3,25 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Jun 2023 17:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2023 19:01:07 GMT</lastBuildDate>
     <item>
-      <title>Continuous Export as Trusted Service to Event Hub</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuous-export-as-trusted-service-to-event-hub/ba-p/3859983</link>
-      <pubDate>Thu, 29 Jun 2023 16:24:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuous-export-as-trusted-service-to-event-hub/ba-p/3859983</guid>
-      <description>Introduction:&#160;
-Have you ever found yourself in a situation where you needed to stream Microsoft Defender for Cloud data to another system? Microsoft Defender for Cloud provides the option of streaming data like recommendations and security alerts, to a Log Analytics workspace, event hub, or another SIEM solution. This capability is called continuous export. 
+      <title>New App Health Recommendations in Microsoft Entra Workload Identities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-app-health-recommendations-in-microsoft-entra-workload/ba-p/2959984</link>
+      <pubDate>Thu, 29 Jun 2023 17:35:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-app-health-recommendations-in-microsoft-entra-workload/ba-p/2959984</guid>
+      <description>We recently announced our 2023 State of Cloud Permissions Risks report, which laid out some interesting and eye-opening findings on not just the expansion of cloud environments, but the increase in identity types accessing critical cloud resources. The report reveals interesting findings on why securing workload identities has become more critical than ever:
 &#160;
-Imagine if the system you want to stream Microsoft Defender for Cloud data is located behind the firewall. How would you go about doing that?&#160;&#160;This article teaches you how to accomplish this scenario by configuring export as a trusted se...</description>
-    </item>
-    <item>
-      <title>Protect against PaperCut vulnerability with Azure Firewall Premium</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-papercut-vulnerability-with-azure-firewall/ba-p/3859945</link>
-      <pubDate>Thu, 29 Jun 2023 16:22:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-papercut-vulnerability-with-azure-firewall/ba-p/3859945</guid>
-      <description>Summary
-On May 16th, 2023, PaperCut, a software company known for its multi-platform print management software, released an update to their advisory, stating that the exploitation of CVE-2023-27350 had been observed in real-world attacks
-This vulnerability allows remote attackers to bypass authentication and execute arbitrary code in the context of SYSTEM. It affects PaperCut MF and NG Application and Site Servers version 8.0 and above, across all supported operating systems. A patch was made available by PaperCut in versions 20.1.7, 21.2.11, and 22.0.9 and it is recommended to apply it at the...</description>
+
+Workload identities now outnumber human identities 10:1&#8212;double that of 2021. This significant uptick introduces new security risks.
+More than 80% of workload identities are inactive, double the percentage reported in 2021.
+Workload iden...</description>
     </item>
   </channel>
 </rss>
