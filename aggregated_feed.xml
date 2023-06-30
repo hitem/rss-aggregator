@@ -3,6 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Jun 2023 15:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 16:02:49 GMT</lastBuildDate>
+    <item>
+      <title>Now in preview: Export your business assets from Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-in-preview-export-your-business-assets-from-microsoft/ba-p/3859055</link>
+      <pubDate>Fri, 30 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-in-preview-export-your-business-assets-from-microsoft/ba-p/3859055</guid>
+      <description>One of the easiest ways to curate metadata is to pull all the information you need into a csv file so you work quickly in a spreadsheet, then make updates in bulk by importing information. You can now do this in Microsoft Purview.
+&#160;
+Right now, you can only export one asset type at a time, and this only works for business assets. We plan to offer import and export for data assets in the future.
+&#160;
+Exporting assets is easy. Just go to any collection, select business assets, and export:
+&#160;
+
+&#160;
+Select the asset type you want to export. Reminder, we only support one asset type at time:
+&#160;
+
+&#160;
+You'll get...</description>
+    </item>
+    <item>
+      <title>Microsoft Entra new feature and change announcements</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-new-feature-and-change-announcements/ba-p/3796396</link>
+      <pubDate>Fri, 30 Jun 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-new-feature-and-change-announcements/ba-p/3796396</guid>
+      <description>Microsoft has recently introduced a range of new security tools and features for the Entra product family, aimed at helping organizations to improve their security posture. With the ever-increasing sophistication of cyber attacks and the increasing use of cloud-based services and the proliferation of mobile devices, it is essential that organizations have effective tools in place to manage their security scope.&#160;
+&#160;
+Today, we&#8217;re sharing the new feature releases for the last quarter (April &#8211; June 2023) and the changes to existing features (June 2023 change management train). We also communicate t...</description>
+    </item>
   </channel>
 </rss>
