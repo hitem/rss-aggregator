@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Jun 2023 12:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 13:13:39 GMT</lastBuildDate>
+    <item>
+      <title>Deep dive into Microsoft Sentinel&#8217;s new Overview dashboard</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deep-dive-into-microsoft-sentinel-s-new-overview-dashboard/ba-p/3860688</link>
+      <pubDate>Fri, 30 Jun 2023 12:13:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deep-dive-into-microsoft-sentinel-s-new-overview-dashboard/ba-p/3860688</guid>
+      <description>Special thanks to&#160;@OriLicht&#160;and&#160;@edilahav&#160;for the collaboration
+&#160;
+Microsoft Sentinel&#8217;s Overview dashboard provides operational and health insights from each of the main function domains Microsoft Sentinel and also gives an idea of SOC efficiency.
+The new overview experience consist of widgets which surface data on the core components of Microsoft Sentinel like incidents, data connectors, automation, TI, analytics, etc.
+
+&#160;
+&#160;
+In this article, we will take a deeper look into the widgets and the KQL queries that are being used (where applicable) by each widget.
+Widgets data refresh
+On top of the o...</description>
+    </item>
   </channel>
 </rss>
