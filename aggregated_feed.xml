@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Jun 2023 23:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Split Microsoft Sentinel Tables with Multi-Destination Data Collection Rules</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/split-microsoft-sentinel-tables-with-multi-destination-data/ba-p/3849526</link>
-      <pubDate>Thu, 29 Jun 2023 22:42:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/split-microsoft-sentinel-tables-with-multi-destination-data/ba-p/3849526</guid>
-      <description>Thank you to my colleague Maria de Sousa-Valadas Castano, Adi Biran, and the Azure Monitor team for assisting in writing this content and demos.
-&#160;
-Looking to better manage where logs go when they are ingested? Enter the mutli-destination data collection rule.
-&#160;
-Recently, the Azure Monitor team has released a new data collection rule functionality that allows for data ingestion streams to be split into more than one table. This leverages existing functionality and allows opportunities for use cases such as:
-
-Table volume management: Break up larger tables that may have essential and non-essenti...</description>
-    </item>
+    <lastBuildDate>Fri, 30 Jun 2023 00:30:52 GMT</lastBuildDate>
   </channel>
 </rss>
