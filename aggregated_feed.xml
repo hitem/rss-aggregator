@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Jul 2023 16:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 17:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Immutable blobs inside Azure Storage (WORM)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/immutable-blobs-inside-azure-storage-worm/ba-p/3843611</link>
+      <pubDate>Mon, 03 Jul 2023 16:52:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/immutable-blobs-inside-azure-storage-worm/ba-p/3843611</guid>
+      <description>A lot of my customers have a business requirement that -
+
+once a document is written in storage account, nobody shall be able to modify or delete it, including the administratorsAND / OR 
+audit data can be written only once, and nobody shall be able to alter them.
+
+These kind of business requirements are called WORM (Write Once, Read Many) and are common for various industries such as ISVs, financial or healthcare. Have you run into these mission-critical requirements? If yes, then immutable storage would be the solution.
+Dependencies
+The dependencies include:
+
+Versioning must be enabled on th...</description>
+    </item>
   </channel>
 </rss>
