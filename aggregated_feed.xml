@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Jul 2023 16:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 17:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Leveraging the convergence of Microsoft Defender for Identity in Microsoft 365 Defender Portal</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/leveraging-the-convergence-of-microsoft-defender-for-identity-in/ba-p/3856321</link>
+      <pubDate>Tue, 04 Jul 2023 16:55:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/leveraging-the-convergence-of-microsoft-defender-for-identity-in/ba-p/3856321</guid>
+      <description>The Microsoft Defender for Identity portal experience and functionality have been converged into&#160;Microsoft&#8217;s extended detection and response (XDR) platform, Microsoft 365 Defender.&#160;Converging core elements of the legacy Defender for Identity portal into our XDR platform experience&#160;you are better able to pair the advanced identity threat detection and investigation capabilities with other security workloads to maximize not only their identity protection but also deliver a more comprehensive security posture.
+In this blog post, we explore the remarkable advantages this convergence brings, and gu...</description>
+    </item>
   </channel>
 </rss>
