@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Jul 2023 11:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Correlating alerts in Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/correlating-alerts-in-microsoft-defender-for-cloud/ba-p/3839209</link>
-      <pubDate>Wed, 05 Jul 2023 10:07:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/correlating-alerts-in-microsoft-defender-for-cloud/ba-p/3839209</guid>
-      <description>Alerts, the hero or the devil?
-&#160;
-Alerts in Microsoft Defender for Cloud are notifications generated when potential security threats and anomalous activities are detected within your cloud environment. These alerts provide crucial information and insights, enabling SecOps teams to effectively identify, prioritize, and respond to potential malicious activity. Learn more about Defender for Cloud alerts here: https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference
-&#160;
-Too many alerts, however, can overwhelm security teams with a high volume of notifications, leading to alert fati...</description>
-    </item>
+    <lastBuildDate>Wed, 05 Jul 2023 12:11:38 GMT</lastBuildDate>
   </channel>
 </rss>
