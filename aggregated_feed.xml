@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Jul 2023 06:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 07:01:11 GMT</lastBuildDate>
+    <item>
+      <title>May 2023 cumulative update explained</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/may-2023-cumulative-update-explained/ba-p/3865541</link>
+      <pubDate>Wed, 05 Jul 2023 06:28:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/may-2023-cumulative-update-explained/ba-p/3865541</guid>
+      <description>Hi all,
+&#160;
+mitigating the Secure Boot UEFI bootkit using the May 2023 cumulative update still causes misunderstandings at some of my customers.&#160; So I wrote this short article to give you an overview and illustrate how this update works, especially regarding the elemination of the BlackLotus bootkit, covered in CVE-2023-24932. A very detailed description can be found in the official KB article:&#160;KB5025885 support page.
+&#160;
+Among many other fixes, this update adds protection against a Secure Boot security feature bypass of the BlackLotus UEFI bootkit tracked by CVE-2023-24932. However, some steps to...</description>
+    </item>
   </channel>
 </rss>
