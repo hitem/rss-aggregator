@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Jul 2023 13:18:28 GMT</lastBuildDate>
-    <item>
-      <title>Detect threats on your Power Platform based no-code/low-code applications with Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-threats-on-your-power-platform-based-no-code-low-code/ba-p/3867162</link>
-      <pubDate>Thu, 06 Jul 2023 13:05:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-threats-on-your-power-platform-based-no-code-low-code/ba-p/3867162</guid>
-      <description>Introduction
-&#160;
-In today's digital landscape, low-code and no-code development platforms have become increasingly popular among businesses looking to accelerate their application development processes. However, with the convenience and speed that these platforms offer, there are also security risks that organizations must consider.
-&#160;
-Power Platform provides a wide range of tools for citizen developers to build, run and manage low-code and no-code applications quickly, simply and at scale. With that, it also introduces a concern around the risk of security vulnerabilities introduced by citizen d...</description>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 14:01:17 GMT</lastBuildDate>
   </channel>
 </rss>
