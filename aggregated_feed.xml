@@ -3,16 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Jul 2023 15:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 16:07:13 GMT</lastBuildDate>
     <item>
-      <title>What's new: Microsoft Sentinel Solution for Dynamics 365 Finance and Operations</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-solution-for-dynamics-365-finance/ba-p/3856210</link>
-      <pubDate>Thu, 06 Jul 2023 14:49:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-solution-for-dynamics-365-finance/ba-p/3856210</guid>
-      <description>Introduction
-Today we are announcing a new Microsoft Sentinel Solution for Dynamics 365 Finance and Operations in public preview. This is a premium solution focused on monitoring, detecting threats and responding to incidents in customer's highly sensitive a business-critical ERP systems powered by Dynamics 365 Finance and Operations.&#160;&#160;The solution monitors and protects your Dynamics 365 Finance and Operations system: It collects audits and activity logs from the Dynamics 365 Finance and Operations environment, and detects threats, suspicious activities, illegitimate activities, and more.
-&#160;
-Dy...</description>
+      <title>Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641</link>
+      <pubDate>Thu, 06 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641</guid>
+      <description>Honeytokens are a great tool for defenders to augment their security posture with traps hidden within their digital environments.&#160;Similar to honeypots, Honeytokens are decoy accounts set up purely to lure attackers and divert their attention away from actual targets. Where honeypots are interactive and responsive systems pretending to be applications or services running on vulnerable servers on the network, honeytokens form a more granular item within in a database, file share, hsm key vault, or identity systems. These fake entities provide security teams a mechanism to better detect, deflect,...</description>
     </item>
   </channel>
 </rss>
