@@ -3,24 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Jul 2023 12:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 13:18:28 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Defender for APIs enriches Defender CSPM capabilities.</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-apis-enriches-defender-cspm-capabilities/ba-p/3866894</link>
-      <pubDate>Thu, 06 Jul 2023 12:06:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-apis-enriches-defender-cspm-capabilities/ba-p/3866894</guid>
-      <description>We are excited to unveil the integration of (Preview) and Defender CSPM in the Microsoft Defender for Cloud (MDC) to provide contextual API security findings and guide prioritized remediation. Microsoft Defender for APIs, announced at RSA 2023, is the latest addition to our lineup of robust Defender plans in Microsoft Defender for Cloud. Defender for APIs helps organizations' business-critical APIs managed by Azure API Management with a holistic approach to&#160;prevent, detect and respond to API security threats with integrated cloud security context.
-Improve API Security Posture:Misconfigured API...</description>
-    </item>
-    <item>
-      <title>What&#8217;s new: Monitor and optimize the execution of your scheduled analytics rules</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitor-and-optimize-the-execution-of-your-scheduled/ba-p/3864083</link>
-      <pubDate>Thu, 06 Jul 2023 11:24:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitor-and-optimize-the-execution-of-your-scheduled/ba-p/3864083</guid>
-      <description>&#160;
-Recently, we announced new capabilities to help Monitor the health and audit the integrity of your analytics rules. With Analytics Health Monitoring, organizations can get insights into the health, rule running details  and status of each analytics rule execution. This includes information on whether the execution succeeded or failed, along with the reason for any failures. You might be wondering what to do if you encounter a failed execution and want to re-run it within a specific window for validation after fixing it. We now offer an easy solution for this scenario.
+      <title>Detect threats on your Power Platform based no-code/low-code applications with Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-threats-on-your-power-platform-based-no-code-low-code/ba-p/3867162</link>
+      <pubDate>Thu, 06 Jul 2023 13:05:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-threats-on-your-power-platform-based-no-code-low-code/ba-p/3867162</guid>
+      <description>Introduction
 &#160;
-We are pleased to ann...</description>
+In today's digital landscape, low-code and no-code development platforms have become increasingly popular among businesses looking to accelerate their application development processes. However, with the convenience and speed that these platforms offer, there are also security risks that organizations must consider.
+&#160;
+Power Platform provides a wide range of tools for citizen developers to build, run and manage low-code and no-code applications quickly, simply and at scale. With that, it also introduces a concern around the risk of security vulnerabilities introduced by citizen d...</description>
     </item>
   </channel>
 </rss>
