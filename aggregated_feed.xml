@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Jul 2023 14:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 15:01:05 GMT</lastBuildDate>
+    <item>
+      <title>What's new: Microsoft Sentinel Solution for Dynamics 365 Finance and Operations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-solution-for-dynamics-365-finance/ba-p/3856210</link>
+      <pubDate>Thu, 06 Jul 2023 14:49:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-solution-for-dynamics-365-finance/ba-p/3856210</guid>
+      <description>Introduction
+Today we are announcing a new Microsoft Sentinel Solution for Dynamics 365 Finance and Operations in public preview. This is a premium solution focused on monitoring, detecting threats and responding to incidents in customer's highly sensitive a business-critical ERP systems powered by Dynamics 365 Finance and Operations.&#160;&#160;The solution monitors and protects your Dynamics 365 Finance and Operations system: It collects audits and activity logs from the Dynamics 365 Finance and Operations environment, and detects threats, suspicious activities, illegitimate activities, and more.
+&#160;
+Dy...</description>
+    </item>
   </channel>
 </rss>
