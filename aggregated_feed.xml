@@ -3,13 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Jul 2023 16:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 17:01:08 GMT</lastBuildDate>
     <item>
-      <title>Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641</link>
-      <pubDate>Thu, 06 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641</guid>
-      <description>Honeytokens are a great tool for defenders to augment their security posture with traps hidden within their digital environments.&#160;Similar to honeypots, Honeytokens are decoy accounts set up purely to lure attackers and divert their attention away from actual targets. Where honeypots are interactive and responsive systems pretending to be applications or services running on vulnerable servers on the network, honeytokens form a more granular item within in a database, file share, hsm key vault, or identity systems. These fake entities provide security teams a mechanism to better detect, deflect,...</description>
+      <title>Grant users access to data assets in your enterprise through the Microsoft Purview policies API</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grant-users-access-to-data-assets-in-your-enterprise-through-the/ba-p/3861160</link>
+      <pubDate>Thu, 06 Jul 2023 16:15:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grant-users-access-to-data-assets-in-your-enterprise-through-the/ba-p/3861160</guid>
+      <description>Microsoft Purview Data owner policies is a cloud-based service that helps you provision access to data sources and datasets securely and at scale. Data owner policies expose a REST API through which you can grant any Azure AD identity (user, group or service principal) to have Read or Modify access to a dataset or data resource. The scope for the access can range from fine-grained (e.g., Table or File) to broad (e.g., entire Azure Resource Group or Subscription).&#160;This API provides a consistent interface that abstracts the complexity of permissions for each type of data source.
+&#160;
+More about Mic...</description>
     </item>
   </channel>
 </rss>
