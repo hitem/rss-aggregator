@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jul 2023 14:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 15:01:08 GMT</lastBuildDate>
+    <item>
+      <title>[What&#8217;s New] Microsoft Sentinel Content Hub GA and OOTB Content Centralization</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-content-hub-ga-and-ootb-content/ba-p/3854807</link>
+      <pubDate>Mon, 10 Jul 2023 14:43:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-content-hub-ga-and-ootb-content/ba-p/3854807</guid>
+      <description>Today, we are announcing general availability (GA) of Microsoft Sentinel Content hub.&#160;With this, Out-of-the-box (OOTB) content centralization experiences are available too, per the 'coming soon' announcement earlier. The goal of these changes is to enable a consistent and a scenario-driven approach to onboarding OOTB content as per need.&#160;Content hub, with a growing set of ~300 solutions and 270+ standalone content, goes beyond making it easy to discover, deploy and manage content. This is achieved by organizing solutions into packages that include data connectors, analytics rules, hunting quer...</description>
+    </item>
   </channel>
 </rss>
