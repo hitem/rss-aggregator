@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jul 2023 10:01:12 GMT</lastBuildDate>
-    <item>
-      <title>Azure Policy Exemption Validation</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-exemption-validation/ba-p/3859133</link>
-      <pubDate>Mon, 10 Jul 2023 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-exemption-validation/ba-p/3859133</guid>
-      <description>Q: I&#8217;m working on Azure Policy for a large environment, how do I do some basic validation that I didn&#8217;t make common mistakes?&#160;
-A: There are a few ways I&#8217;ve validated my environment using PowerShell that I&#8217;ll walk through here.&#160;
-&#160;
-I enjoy using Azure Policy to enforce compliance and prevent mistakes that could make my clients non-compliant and cause all sorts of security problems. My clients often like to follow stricter standards than required by some regulations, while having more relaxed special exceptions to regulation for other resources. These special exceptions have the risk accepted and...</description>
-    </item>
+    <lastBuildDate>Mon, 10 Jul 2023 11:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
