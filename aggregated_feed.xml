@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jul 2023 19:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 20:01:23 GMT</lastBuildDate>
+    <item>
+      <title>Comprehensive Guide on Agent-based and Agentless Cloud Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/comprehensive-guide-on-agent-based-and-agentless-cloud/ba-p/3866705</link>
+      <pubDate>Mon, 10 Jul 2023 19:20:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/comprehensive-guide-on-agent-based-and-agentless-cloud/ba-p/3866705</guid>
+      <description>To agent or not to agent? Few debates in cloud security have attracted more attention in recent years. In this blog, we will investigate the different scenarios that involves agent-based /agentless security, analyze the arguments for and against both sides and give implementation recommendations for your environment with Microsoft Defender for Cloud.
+&#160;
+1. Introduction to agent-based/ agentless security:
+&#160;
+What is agent-based protection
+&#160;
+A cloud security agent is a piece of software installed on cloud-based or on-premises workloads. This agent enables organizations to attain in-depth visibilit...</description>
+    </item>
   </channel>
 </rss>
