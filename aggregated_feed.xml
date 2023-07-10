@@ -3,27 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jul 2023 16:07:03 GMT</lastBuildDate>
-    <item>
-      <title>New file analysis and pivoting capabilities in Microsoft 365 Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/new-file-analysis-and-pivoting-capabilities-in-microsoft-365/ba-p/3853313</link>
-      <pubDate>Mon, 10 Jul 2023 15:54:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/new-file-analysis-and-pivoting-capabilities-in-microsoft-365/ba-p/3853313</guid>
-      <description>We&#8217;re excited to introduce a new file page that revolutionizes the way security teams can analyze and pivot across devices and cloud applications. This enhancement enables defenders to gain deeper insights into files, their prevalence across the organization, and their impact on security incidents. Let's explore the exciting new file analysis and pivot capabilities in Microsoft 365 Defender.
-What&#8217;s new? 
-&#160;
-New interface: The new file page within Microsoft 365 Defender provides a range of information about files, offering insights into their prevalence and impact within your organization. You c...</description>
-    </item>
-    <item>
-      <title>Introducing the new Microsoft Sentinel simplified pricing.</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-new-microsoft-sentinel-simplified-pricing/ba-p/3869145</link>
-      <pubDate>Mon, 10 Jul 2023 15:30:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-new-microsoft-sentinel-simplified-pricing/ba-p/3869145</guid>
-      <description>We are excited to announce the new simplified pricing tiers for Microsoft Sentinel. Previously, there were separate prices for Log Analytics and Microsoft Sentinel. Now there is a single combined price for both components which simplifies budgeting, billing, and cost management.
-&#160;
-
-&#160;
-Simplified pricing is rolling out for all regions throughout July. All new Microsoft Sentinel workspaces will automatically be on simplified pricing. All your existing Microsoft Sentinel workspaces will remain unchanged until you decide to move to the simplified price within the portal. You can see the current pri...</description>
-    </item>
+    <lastBuildDate>Mon, 10 Jul 2023 17:01:08 GMT</lastBuildDate>
   </channel>
 </rss>
