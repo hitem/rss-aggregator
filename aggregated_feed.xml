@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jul 2023 07:01:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 08:08:30 GMT</lastBuildDate>
+    <item>
+      <title>Exploring Azure Firewall's Threat Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/exploring-azure-firewall-s-threat-protection/ba-p/3869571</link>
+      <pubDate>Mon, 10 Jul 2023 07:52:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/exploring-azure-firewall-s-threat-protection/ba-p/3869571</guid>
+      <description>In this blog post, I will discuss the various threat protection capabilities that customers are leveraging to safeguard their workload deployments in Azure using Azure Firewall. Azure Firewall is a cloud-native firewall-as-a-service solution that empowers customers to centrally govern and log all their traffic flows using a DevOps approach. This service offers both application and network-level filtering rules, and it seamlessly integrates with the Microsoft Threat Intelligence feed to filter known malicious IP addresses and domains. Moreover, Azure Firewall boasts high availability and comes ...</description>
+    </item>
   </channel>
 </rss>
