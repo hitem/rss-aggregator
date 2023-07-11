@@ -3,6 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Jul 2023 15:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 16:05:46 GMT</lastBuildDate>
+    <item>
+      <title>Announcing new innovations in Microsoft Entra</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-new-innovations-in-microsoft-entra/ba-p/3852424</link>
+      <pubDate>Tue, 11 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-new-innovations-in-microsoft-entra/ba-p/3852424</guid>
+      <description>This morning at our Reimagine Secure Access with Microsoft Entra digital event,&#160;we announced new product innovations within Microsoft Entra. Don&#8217;t miss our Microsoft Security blog highlighting all the announcements.&#160;
+&#160;
+A brief overview of what we shared at the event:&#160;
+Secure access to any app or resource, from anywhere &#160;Today we introduced our identity-centric&#160;Security Service Edge solution with Microsoft Entra Internet Access &#8211; an identity-centric Secure Web Gateway (SWG) to protect access to internet,&#160; SaaS, and Microsoft 365 apps, and&#160; Microsoft Entra Private Access - an identity-centric Ze...</description>
+    </item>
+    <item>
+      <title>Microsoft Entra Expands into Security Service Edge with Two New Offerings</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-expands-into-security-service-edge-with-two-new/ba-p/3847829</link>
+      <pubDate>Tue, 11 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-expands-into-security-service-edge-with-two-new/ba-p/3847829</guid>
+      <description>Flexible work arrangements and accelerating digital transformation changed the way we secure access. Traditional network security approaches just don&#8217;t scale to modern demands. They not only hurt end user experience but also grant each user excessive access to the entire corporate network. All it takes is one compromised user account, infected device, or open port for an attacker to access and laterally move anywhere inside your network, exposing your most critical assets. &#160;
+&#160;
+Legacy network security approaches are no longer sufficient&#160;
+&#160;
+Even if you adopted modern access solutions for your or...</description>
+    </item>
+    <item>
+      <title>Azure AD is Becoming Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-is-becoming-microsoft-entra-id/ba-p/2520436</link>
+      <pubDate>Tue, 11 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-is-becoming-microsoft-entra-id/ba-p/2520436</guid>
+      <description>Today we announced significant milestones for identity and network access, including the news that Microsoft Azure Active Directory (Azure AD) is becoming Microsoft Entra ID.&#160;&#160;
+&#160;&#160;
+As part of our ongoing commitment to simplify secure access experiences for everyone, the rebranding of Azure AD to Microsoft Entra ID is designed to make it easier for you to use and navigate the unified and expanded Microsoft Entra portfolio.&#160;
+&#160;
+I want to assure you that your work protecting your organization, customers, partners, and the investments you&#8217;ve made in deploying Azure AD will continue uninterrupted. Al...</description>
+    </item>
+    <item>
+      <title>Explore New Product Announcements for Microsoft Entra</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/explore-new-product-announcements-for-microsoft-entra/ba-p/2520435</link>
+      <pubDate>Tue, 11 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/explore-new-product-announcements-for-microsoft-entra/ba-p/2520435</guid>
+      <description>Today at our Reimagine Secure Access with Microsoft Entra digital event,  Microsoft Security leaders and industry experts presented the next set of innovations from Microsoft Entra. Check out our Microsoft Security blog to learn more about the product announcements.
+&#160;
+A brief overview of what we shared at the event:
+&#160;
+To provide secure access for any identity to any resource and protect all digital interactions, we announced two new Security Service Edge (SSE) products&#8212;Microsoft Entra Internet Access and Microsoft Entra Private Access. Microsoft Entra Internet Access is an identity-centric, cl...</description>
+    </item>
   </channel>
 </rss>
