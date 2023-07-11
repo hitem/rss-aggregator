@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Jul 2023 10:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 11:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Future Proof your SOC with the Power of the Azure Ecosystem and Defender Threat Intelligence</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/future-proof-your-soc-with-the-power-of-the-azure-ecosystem-and/ba-p/3866030</link>
+      <pubDate>Tue, 11 Jul 2023 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/future-proof-your-soc-with-the-power-of-the-azure-ecosystem-and/ba-p/3866030</guid>
+      <description>Future Proofing your SOC
+In today&#8217;s world of ever-evolving sophisticated threats, time is of the essence when it comes to an efficient SOC&#8217;s continuous feedback loop for reducing attacker dwell time. The days of humans writing effective rules to detect malicious activity are gone. Reducing attacker dwell time requires a host of people, processes, and modern technologies including Artificial Intelligence (AI), Machine Learning (ML), Threat Intelligence (TI), and automation to find and eliminate threats before they become a nightmare.
+&#160;
+Microsoft Sentinel, along with the Defender Extended Detect...</description>
+    </item>
   </channel>
 </rss>
