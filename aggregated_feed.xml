@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Jul 2023 13:15:44 GMT</lastBuildDate>
-    <item>
-      <title>Manage security settings for Windows, macOS, and Linux natively in Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-security-settings-for-windows-macos-and-linux-natively-in/ba-p/3870617</link>
-      <pubDate>Tue, 11 Jul 2023 12:53:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-security-settings-for-windows-macos-and-linux-natively-in/ba-p/3870617</guid>
-      <description>As advanced threats such as ransomware continue to increase in velocity, and sophistication, organizations are evolving their endpoint security strategies away from point solutions to a more holistic security approach focused on vendor consolidation. At the same time, we continue to see a gap between security and IT teams to achieve a seamless and effective operating model for effective endpoint security. &#160;
-&#160;
-While many endpoint security solutions now provide some level of endpoint management experience that include capabilities such as device inventory and policy authoring, they are often dis...</description>
-    </item>
+    <lastBuildDate>Tue, 11 Jul 2023 14:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
