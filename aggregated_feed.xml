@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Jul 2023 16:04:33 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Restricted Management Administrative Units in Microsoft Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-restricted-management-administrative-units-in/ba-p/3867839</link>
-      <pubDate>Wed, 12 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-restricted-management-administrative-units-in/ba-p/3867839</guid>
-      <description>We&#8217;re excited to share the public preview of restricted management administrative units, a new role-based access control (RBAC) feature in Microsoft Entra ID.&#160;
-&#160;
-What you can do with restricted management administrative units&#160;
-With restricted management administrative units, you can now designate specific users, security groups, or devices in your Microsoft Entra ID tenant that you want to protect from modification by tenant-level administrators.&#160;
-&#160;
-Here are some situations in which this is useful:&#160;
-&#160;
-
-You want to protect sensitive user accounts, such as C-level executives, from being able to ...</description>
-    </item>
+    <lastBuildDate>Wed, 12 Jul 2023 17:01:23 GMT</lastBuildDate>
   </channel>
 </rss>
