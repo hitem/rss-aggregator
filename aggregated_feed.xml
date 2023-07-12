@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Jul 2023 20:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Taking Azure Firewall Premium IDPS Functionality</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-premium-idps-functionality/ba-p/3872706</link>
-      <pubDate>Wed, 12 Jul 2023 19:06:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-premium-idps-functionality/ba-p/3872706</guid>
-      <description>Written by Gopikrishna Kannan (Head of Products: Azure Firewall and Firewall Manager)
-&#160;
-Intrusion detection and prevention (IDPS) is an advanced threat prevention mechanism supported by the Azure Firewall Premium SKU. Unlike simple network filtering, IDPS matches traffic patterns to a set of known malicious signatures. Azure Firewall supports more than 60,000 malicious signatures which are updated in real time. These signatures apply when malicious patterns are detected under the right conditions.&#160; The conditions include traffic direction (inbound or outbound) and network scope (private networ...</description>
-    </item>
+    <lastBuildDate>Wed, 12 Jul 2023 21:01:11 GMT</lastBuildDate>
   </channel>
 </rss>
