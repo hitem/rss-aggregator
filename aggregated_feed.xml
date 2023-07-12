@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Jul 2023 12:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 13:16:31 GMT</lastBuildDate>
+    <item>
+      <title>Azure AD Recommendations Now Help You Identify ADAL Apps to Migrate to MSAL</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-recommendations-now-help-you-identify-adal-apps-to/ba-p/3830330</link>
+      <pubDate>Wed, 12 Jul 2023 12:58:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-recommendations-now-help-you-identify-adal-apps-to/ba-p/3830330</guid>
+      <description>Migrate ADAL applications to MSAL is now available
+&#160;
+We are announcing a new Azure Active Directory (Azure AD) recommendation helping customers migrate apps using the legacy Azure AD&#160; Authentication Library (ADAL) to the Microsoft Authentication Library (MSAL).
+&#160;
+This is part of our ongoing initiative to improve the developer experience, service reliability, and security of customer applications to end support for ADAL. The final deadline to migrate your applications to MSAL has been extended to June 30, 2023. 
+&#160;
+What do you do?
+&#160;
+We recommend customers migrate to MSAL, which is designed to en...</description>
+    </item>
   </channel>
 </rss>

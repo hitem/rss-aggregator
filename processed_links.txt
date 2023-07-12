@@ -189,3 +189,4 @@
 2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/explore-new-product-announcements-for-microsoft-entra/ba-p/2520435
 2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-expands-into-security-service-edge-with-two-new/ba-p/3847829
 2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-new-innovations-in-microsoft-entra/ba-p/3852424
+2023-07-12T12:58:17 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-recommendations-now-help-you-identify-adal-apps-to/ba-p/3830330
