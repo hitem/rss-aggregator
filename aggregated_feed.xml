@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jul 2023 16:02:58 GMT</lastBuildDate>
-    <item>
-      <title>Azure Monitor: How To use Managed Identity with Log Ingestion API</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-use-managed-identity-with-log-ingestion-api/ba-p/3853114</link>
-      <pubDate>Thu, 13 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-use-managed-identity-with-log-ingestion-api/ba-p/3853114</guid>
-      <description>Hello readers!
-In one of my recent post, Azure Monitor: Logs Ingestion API Tips &amp; Tricks, I discussed some Tips and Tricks to better deal with the new Logs Ingestion API.
-In this new one, I would like to share an example of how to use Managed Identities as authentication method for custom log ingestion, focusing only on the System Assigned Managed Identities. The Tutorial: Send data to Azure Monitor Logs with Logs ingestion API (Azure portal) documentation includes good samples for sending data that use Azure AD application but nothing that uses the managed identity.
-Let me set a bit of contex...</description>
-    </item>
+    <lastBuildDate>Thu, 13 Jul 2023 17:01:26 GMT</lastBuildDate>
   </channel>
 </rss>
