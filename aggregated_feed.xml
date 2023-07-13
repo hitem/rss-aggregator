@@ -3,17 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jul 2023 15:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 16:02:58 GMT</lastBuildDate>
     <item>
-      <title>Demystifying Explicit proxy: Enhancing Security with Azure Firewall</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/demystifying-explicit-proxy-enhancing-security-with-azure/ba-p/3873445</link>
-      <pubDate>Thu, 13 Jul 2023 14:03:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/demystifying-explicit-proxy-enhancing-security-with-azure/ba-p/3873445</guid>
-      <description>Written in collaboration with&#160;@davidfrazee&#160;
-&#160;
-In today's cybersecurity threat landscape, organizations face numerous challenges in securing their networks and data. A critical aspect of every organization&#8217;s security strategy is ensuring secure and efficient outbound connectivity for users. This is where the Explicit proxy capability, available in network firewalls, emerges as a powerful tool to address these security concerns.
-&#160;
-Azure Firewall Explicit proxy feature is now available in Public Preview, and in this blog, we will explore the concept of Explicit proxy, discuss the problems it help...</description>
+      <title>Azure Monitor: How To use Managed Identity with Log Ingestion API</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-use-managed-identity-with-log-ingestion-api/ba-p/3853114</link>
+      <pubDate>Thu, 13 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-use-managed-identity-with-log-ingestion-api/ba-p/3853114</guid>
+      <description>Hello readers!
+In one of my recent post, Azure Monitor: Logs Ingestion API Tips &amp; Tricks, I discussed some Tips and Tricks to better deal with the new Logs Ingestion API.
+In this new one, I would like to share an example of how to use Managed Identities as authentication method for custom log ingestion, focusing only on the System Assigned Managed Identities. The Tutorial: Send data to Azure Monitor Logs with Logs ingestion API (Azure portal) documentation includes good samples for sending data that use Azure AD application but nothing that uses the managed identity.
+Let me set a bit of contex...</description>
     </item>
   </channel>
 </rss>
