@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jul 2023 12:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 13:16:25 GMT</lastBuildDate>
+    <item>
+      <title>Now in Public Preview: Device isolation and AV scanning for Linux and macOS</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646</link>
+      <pubDate>Thu, 13 Jul 2023 13:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646</guid>
+      <description>As cyber threats continue to target devices, security teams need an endpoint protection platform that can help them quickly and effectively respond to these threats regardless of the&#160;device's platform.&#160;Microsoft Defender for Endpoint is an endpoint security solution that provides helps organizations worldwide discover and secure devices across their multiplatform enterprise.
+&#160;
+Today we are thrilled to announce that we are adding more capabilities for macOS and Linux-based devices in Microsoft Defender for Endpoint with the introduction of Device isolation and Running Antivirus Scan&#160;as newly av...</description>
+    </item>
   </channel>
 </rss>

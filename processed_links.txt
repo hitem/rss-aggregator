@@ -193,3 +193,4 @@
 2023-07-12T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-restricted-management-administrative-units-in/ba-p/3867839
 2023-07-12T19:06:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-premium-idps-functionality/ba-p/3872706
 2023-07-12T21:47:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-idps-on-a-test-drive/ba-p/3872706
+2023-07-13T13:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646
