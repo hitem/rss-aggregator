@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jul 2023 18:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 19:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Support for DRS and Mask sensitive data on Application Gateway WAF</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-support-for-drs-and-mask-sensitive-data-on/ba-p/3871214</link>
+      <pubDate>Thu, 13 Jul 2023 19:00:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-support-for-drs-and-mask-sensitive-data-on/ba-p/3871214</guid>
+      <description>Azure WAF on Application Gateway with Default Rule Set now in Public Preview
+The long-anticipated option to use the Microsoft Default Rule Set (DRS) for Application Gateway in Web Application Firewall is now available in Public Preview. Customers can use the DRS with the latest Bot Manager rule set with their Regional WAF v2 to bring the same security&#160;experience as with Azure Front Door.
+DRS 2.1 is a Microsoft Managed Rule Set baselined off the Open Web Application Security Project (OWASP) Core Rule Set (CRS) 3.3.2 and extended to include additional proprietary protections rules developed by M...</description>
+    </item>
   </channel>
 </rss>
