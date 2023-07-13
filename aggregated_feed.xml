@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jul 2023 14:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 15:01:21 GMT</lastBuildDate>
+    <item>
+      <title>Demystifying Explicit proxy: Enhancing Security with Azure Firewall</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/demystifying-explicit-proxy-enhancing-security-with-azure/ba-p/3873445</link>
+      <pubDate>Thu, 13 Jul 2023 14:03:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/demystifying-explicit-proxy-enhancing-security-with-azure/ba-p/3873445</guid>
+      <description>Written in collaboration with&#160;@davidfrazee&#160;
+&#160;
+In today's cybersecurity threat landscape, organizations face numerous challenges in securing their networks and data. A critical aspect of every organization&#8217;s security strategy is ensuring secure and efficient outbound connectivity for users. This is where the Explicit proxy capability, available in network firewalls, emerges as a powerful tool to address these security concerns.
+&#160;
+Azure Firewall Explicit proxy feature is now available in Public Preview, and in this blog, we will explore the concept of Explicit proxy, discuss the problems it help...</description>
+    </item>
   </channel>
 </rss>
