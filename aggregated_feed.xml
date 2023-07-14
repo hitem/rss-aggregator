@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Jul 2023 15:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2023 16:03:36 GMT</lastBuildDate>
+    <item>
+      <title>Lifecycle Workflows is now generally available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/lifecycle-workflows-is-now-generally-available/ba-p/2466931</link>
+      <pubDate>Fri, 14 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/lifecycle-workflows-is-now-generally-available/ba-p/2466931</guid>
+      <description>As announced on June 7, 2023, Microsoft Entra ID Governance is now generally available, including one of our newest capabilities: Lifecycle Workflows (LCW). I'm thrilled to share more about the rich set of capabilities in LCW, including enhancements and improvements we&#8217;ve made since public preview.
+&#160;
+User identity lifecycle is a critical part of an organization&#8217;s security posture, and when managed correctly, can have a positive impact on their users&#8217; productivity for Joiners, Movers, and Leavers (JML). The ongoing digital transformation is accelerating the need for good identity lifecycle mana...</description>
+    </item>
   </channel>
 </rss>
