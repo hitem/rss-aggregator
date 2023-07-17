@@ -202,3 +202,4 @@
 2023-07-17T13:26:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-defender-for-cloud-capabilities-to-counter/ba-p/3876012
 2023-07-17T13:36:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/incident-triage-microsoft-defender-for-cloud-attack-path/ba-p/3876015
 2023-07-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-introduces-two-new-features-in/ba-p/2466930
+2023-07-17T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advancing-modern-strong-authentication/ba-p/3773135
