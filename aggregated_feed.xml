@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Jul 2023 14:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Incident Triage: Microsoft Defender for Cloud Attack Path Analysis and Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/incident-triage-microsoft-defender-for-cloud-attack-path/ba-p/3876015</link>
-      <pubDate>Mon, 17 Jul 2023 13:36:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/incident-triage-microsoft-defender-for-cloud-attack-path/ba-p/3876015</guid>
-      <description>Introduction
-If you are actively involved in the process of responding to cybersecurity incidents or work in a capacity that deals with incident response, you understand the criticality of promptly identifying and mitigating security breaches in cloud environments. Timely and accurate incident triaging is crucial to minimize the impact of potential breaches and ensure a proactive security posture. However, in many cases, security analysts are overwhelmed by the sheer volume of incidents and the manual effort required to investigate and prioritize them. To address this challenge, we have develo...</description>
-    </item>
-    <item>
-      <title>Announcing Microsoft Defender for Cloud capabilities to counter identity-based supply chain attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-defender-for-cloud-capabilities-to-counter/ba-p/3876012</link>
-      <pubDate>Mon, 17 Jul 2023 13:26:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-defender-for-cloud-capabilities-to-counter/ba-p/3876012</guid>
-      <description>In recent years, cloud identity-related security issues in supply chain attacks have gained significant attention.
-A supply chain attack occurs when attackers infiltrate a target organization by gaining access to its trusted suppliers or third-party service providers.
-&#160;
-Although supply chain attacks are not exclusive to the cloud environment, the advent of cloud computing has introduced unique considerations and risks to this type of attack.
-&#160;
-As opposed to a software supply chain attack (when an attacker gains access to third-party vendor software), like the SolarWinds attack, the type of sup...</description>
-    </item>
+    <lastBuildDate>Mon, 17 Jul 2023 15:01:22 GMT</lastBuildDate>
   </channel>
 </rss>
