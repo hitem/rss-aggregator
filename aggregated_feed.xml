@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Jul 2023 02:27:23 GMT</lastBuildDate>
-    <item>
-      <title>Azure Role Assignment Hygiene</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-role-assignment-hygiene/ba-p/3875696</link>
-      <pubDate>Mon, 17 Jul 2023 02:12:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-role-assignment-hygiene/ba-p/3875696</guid>
-      <description>Introduction
-Hello, Azure enthusiasts! I'm back again with another insightful blog post. My name is Felipe Binotto, Cloud Solution Architect, based in Australia.
-Today, we're going to delve into a topic that is often overlooked but is critical to the smooth operation of your Azure environment - Azure Role Assignment Hygiene.
-I will not cover guest user accounts as my colleague @Bruno Gabrielli&#160; has already covered it in detail in this great post.
-&#160;
-What is Role Assignment Hygiene
-Azure Role Assignment Hygiene refers to the practice of regularly reviewing and cleaning up Azure role assignments....</description>
-    </item>
+    <lastBuildDate>Mon, 17 Jul 2023 03:22:21 GMT</lastBuildDate>
   </channel>
 </rss>
