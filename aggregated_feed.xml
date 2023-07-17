@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Jul 2023 21:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Advancing Modern Strong Authentication</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advancing-modern-strong-authentication/ba-p/3773135</link>
-      <pubDate>Mon, 17 Jul 2023 20:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advancing-modern-strong-authentication/ba-p/3773135</guid>
-      <description>In a previous blog, It's Time to Hang Up on Phone Transports for Authentication, I wrote about the vulnerabilities of multifactor authentication (MFA) mechanisms such as SMS and voice. A recent MFA research study from Microsoft concludes that SMS is 40% less effective in stopping bad actors compared to the&#8239;Microsoft Authenticator app. &#160;
-&#160;
-We've also continued to bolster our Authenticator offering by upleveling security. But, despite the clear advantages to moving away from phone-based authentication, we still see around 44% of MFA traffic through SMS and voice phone calls. Bad actors continue ...</description>
-    </item>
+    <lastBuildDate>Mon, 17 Jul 2023 22:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
