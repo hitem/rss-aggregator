@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Jul 2023 16:05:47 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra ID Governance Introduces Two New Features in Access Reviews</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-introduces-two-new-features-in/ba-p/2466930</link>
-      <pubDate>Mon, 17 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-introduces-two-new-features-in/ba-p/2466930</guid>
-      <description>As announced on June 7, 2023, Microsoft Entra ID Governance is now generally available, and with it a set of new capabilities to empower businesses in their pursuit of streamlined access management. This includes machine learning (ML) powered access review recommendations and user inactivity access review scoping. These additions leverage advanced technologies to enhance access reviews, granting reviewers intelligent recommendations and simplifying security management by regularly reviewing and removing inactive accounts.&#160;
-&#160;
-Let's explore how these features assist organizations in making infor...</description>
-    </item>
+    <lastBuildDate>Mon, 17 Jul 2023 17:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
