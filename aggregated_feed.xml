@@ -3,15 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Jul 2023 15:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 16:02:31 GMT</lastBuildDate>
     <item>
-      <title>Streamline the process to bring your own detections in Microsoft Purview Insider Risk Management</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamline-the-process-to-bring-your-own-detections-in-microsoft/ba-p/3875008</link>
-      <pubDate>Tue, 18 Jul 2023 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamline-the-process-to-bring-your-own-detections-in-microsoft/ba-p/3875008</guid>
-      <description>Organizations often encounter significant challenges when attempting to gain a unified view of insider risks in their multicloud environments. Typically, this entails cross-checking multiple systems and manually correlating information to gain a comprehensive understanding of a specific user's activities that could potentially lead to data security incidents.
+      <title>Microsoft Entra ID Governance Entitlement Management New Generally Available Capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-entitlement-management-new/ba-p/2466929</link>
+      <pubDate>Tue, 18 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-entitlement-management-new/ba-p/2466929</guid>
+      <description>With Microsoft Entra ID Governance, you can effectively manage your organization&#8217;s security and identity governance needs and boost employee productivity by implementing appropriate processes and enhancing visibility. The Microsoft Entra platform empowers you with the ability to guarantee that the right people have the right access to the right resources.&#160;&#160;
+We&#8217;re excited to announce the general availability of a set of capabilities in Entitlement Management available through Microsoft Entra ID Governance to help you strengthen your identity governance posture.&#160;
 &#160;
-As we announced in the previous blogpost, Microsoft Purview Insider Risk Management allows you to bring your own detections and create custom indicators. Admins with the appropriate permissions can incorporate detections from homegrown ...</description>
+1. Extending the access lifecy...</description>
+    </item>
+    <item>
+      <title>Microsoft empowers partners to securely build their own connector on its Open App Connector Platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-empowers-partners-to-securely-build-their-own/ba-p/3876496</link>
+      <pubDate>Tue, 18 Jul 2023 15:46:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-empowers-partners-to-securely-build-their-own/ba-p/3876496</guid>
+      <description>In today's rapidly evolving business landscape, the adoption of Software as a Service (SaaS) applications has skyrocketed, enabling organizations to streamline operations and enhance productivity. However, with the growing number of SaaS applications, ensuring robust security and protecting sensitive data has become a paramount concern. Microsoft recognizes the significance of this challenge and offers a comprehensive solution through our Microsoft Defender suite.
+&#160;
+At the heart of this solution lie our app connectors, which serve as vital bridges between customers' SaaS apps and Microsoft's p...</description>
+    </item>
+    <item>
+      <title>Sensitivity label support in Microsoft Fabric and Power BI enables end-to-end information protection</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitivity-label-support-in-microsoft-fabric-and-power-bi/ba-p/3874178</link>
+      <pubDate>Tue, 18 Jul 2023 15:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitivity-label-support-in-microsoft-fabric-and-power-bi/ba-p/3874178</guid>
+      <description>Did you know that 88% of organizations lack the confidence to prevent sensitive data loss?1&#160;Discovery and classification of sensitive data is important for organizations who want to better protect sensitive personally identifiable information (PII) and corporate intellectual property. When these sensitive labeled files are used in business intelligence and analytics solutions, it&#8217;s important they remain protected and are shared and accessed only by authorized individuals.
+&#160;
+With Microsoft Purview Information Protection, we provide a built-in, intelligent, unified, and extensible solution to pr...</description>
     </item>
   </channel>
 </rss>
