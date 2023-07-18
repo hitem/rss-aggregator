@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Jul 2023 17:01:11 GMT</lastBuildDate>
-    <item>
-      <title>Become a Microsoft Priva Ninja</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888</link>
-      <pubDate>Tue, 18 Jul 2023 17:00:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888</guid>
-      <description>We are very excited and pleased to announce this edition of the Ninja Training Series. We have compiled several videos, document guides, and other resources to aid users in mastering the Microsoft Priva Ninja training realm. Our goal is to get you the most current links to the community blogs, training videos, Interactive Guides, learning paths, and any other relevant documentation.&#160;&#160;
-&#160;
-To make it easier for you to start and advance your knowledge gradually we split content for each Priva module, Risk Management and Subject Rights Requests, into three levels: beginner, intermediate, and advanc...</description>
-    </item>
-    <item>
-      <title>Defender for Endpoint is now available on Android corporate-owned personally enabled devices</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-is-now-available-on-android-corporate/ba-p/3626100</link>
-      <pubDate>Tue, 18 Jul 2023 16:58:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-is-now-available-on-android-corporate/ba-p/3626100</guid>
-      <description>With an increasing number of users choosing to access company resources from mobile devices to improve productivity, organizations are tasked with balancing more employee flexibility with where and how they work while maintaining effective security practices. To do this, organizations are implementing mobile threat defense (MTD) solutions that give IT and security teams greater visibility into the threats directed at their diverse mobile fleet. &#160;
-&#160;
-We are excited to announce that Microsoft Defender for Endpoint is now available on Android Enterprise (AE) corporate-owned personally enabled (COP...</description>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 18:00:59 GMT</lastBuildDate>
   </channel>
 </rss>
