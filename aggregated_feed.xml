@@ -3,34 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Jul 2023 16:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 17:01:11 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Entra ID Governance Entitlement Management New Generally Available Capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-entitlement-management-new/ba-p/2466929</link>
-      <pubDate>Tue, 18 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-entitlement-management-new/ba-p/2466929</guid>
-      <description>With Microsoft Entra ID Governance, you can effectively manage your organization&#8217;s security and identity governance needs and boost employee productivity by implementing appropriate processes and enhancing visibility. The Microsoft Entra platform empowers you with the ability to guarantee that the right people have the right access to the right resources.&#160;&#160;
-We&#8217;re excited to announce the general availability of a set of capabilities in Entitlement Management available through Microsoft Entra ID Governance to help you strengthen your identity governance posture.&#160;
+      <title>Become a Microsoft Priva Ninja</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888</link>
+      <pubDate>Tue, 18 Jul 2023 17:00:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888</guid>
+      <description>We are very excited and pleased to announce this edition of the Ninja Training Series. We have compiled several videos, document guides, and other resources to aid users in mastering the Microsoft Priva Ninja training realm. Our goal is to get you the most current links to the community blogs, training videos, Interactive Guides, learning paths, and any other relevant documentation.&#160;&#160;
 &#160;
-1. Extending the access lifecy...</description>
+To make it easier for you to start and advance your knowledge gradually we split content for each Priva module, Risk Management and Subject Rights Requests, into three levels: beginner, intermediate, and advanc...</description>
     </item>
     <item>
-      <title>Microsoft empowers partners to securely build their own connector on its Open App Connector Platform</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-empowers-partners-to-securely-build-their-own/ba-p/3876496</link>
-      <pubDate>Tue, 18 Jul 2023 15:46:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-empowers-partners-to-securely-build-their-own/ba-p/3876496</guid>
-      <description>In today's rapidly evolving business landscape, the adoption of Software as a Service (SaaS) applications has skyrocketed, enabling organizations to streamline operations and enhance productivity. However, with the growing number of SaaS applications, ensuring robust security and protecting sensitive data has become a paramount concern. Microsoft recognizes the significance of this challenge and offers a comprehensive solution through our Microsoft Defender suite.
+      <title>Defender for Endpoint is now available on Android corporate-owned personally enabled devices</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-is-now-available-on-android-corporate/ba-p/3626100</link>
+      <pubDate>Tue, 18 Jul 2023 16:58:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-is-now-available-on-android-corporate/ba-p/3626100</guid>
+      <description>With an increasing number of users choosing to access company resources from mobile devices to improve productivity, organizations are tasked with balancing more employee flexibility with where and how they work while maintaining effective security practices. To do this, organizations are implementing mobile threat defense (MTD) solutions that give IT and security teams greater visibility into the threats directed at their diverse mobile fleet. &#160;
 &#160;
-At the heart of this solution lie our app connectors, which serve as vital bridges between customers' SaaS apps and Microsoft's p...</description>
-    </item>
-    <item>
-      <title>Sensitivity label support in Microsoft Fabric and Power BI enables end-to-end information protection</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitivity-label-support-in-microsoft-fabric-and-power-bi/ba-p/3874178</link>
-      <pubDate>Tue, 18 Jul 2023 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitivity-label-support-in-microsoft-fabric-and-power-bi/ba-p/3874178</guid>
-      <description>Did you know that 88% of organizations lack the confidence to prevent sensitive data loss?1&#160;Discovery and classification of sensitive data is important for organizations who want to better protect sensitive personally identifiable information (PII) and corporate intellectual property. When these sensitive labeled files are used in business intelligence and analytics solutions, it&#8217;s important they remain protected and are shared and accessed only by authorized individuals.
-&#160;
-With Microsoft Purview Information Protection, we provide a built-in, intelligent, unified, and extensible solution to pr...</description>
+We are excited to announce that Microsoft Defender for Endpoint is now available on Android Enterprise (AE) corporate-owned personally enabled (COP...</description>
     </item>
   </channel>
 </rss>
