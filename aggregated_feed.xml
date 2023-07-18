@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Jul 2023 14:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 15:01:15 GMT</lastBuildDate>
+    <item>
+      <title>Streamline the process to bring your own detections in Microsoft Purview Insider Risk Management</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamline-the-process-to-bring-your-own-detections-in-microsoft/ba-p/3875008</link>
+      <pubDate>Tue, 18 Jul 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamline-the-process-to-bring-your-own-detections-in-microsoft/ba-p/3875008</guid>
+      <description>Organizations often encounter significant challenges when attempting to gain a unified view of insider risks in their multicloud environments. Typically, this entails cross-checking multiple systems and manually correlating information to gain a comprehensive understanding of a specific user's activities that could potentially lead to data security incidents.
+&#160;
+As we announced in the previous blogpost, Microsoft Purview Insider Risk Management allows you to bring your own detections and create custom indicators. Admins with the appropriate permissions can incorporate detections from homegrown ...</description>
+    </item>
   </channel>
 </rss>
