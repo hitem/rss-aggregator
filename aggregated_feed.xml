@@ -3,13 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Jul 2023 16:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 17:01:16 GMT</lastBuildDate>
     <item>
-      <title>New Microsoft Entra ID Governance Dashboard Experience Rolling Out Soon</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-microsoft-entra-id-governance-dashboard-experience-rolling/ba-p/2466928</link>
-      <pubDate>Wed, 19 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-microsoft-entra-id-governance-dashboard-experience-rolling/ba-p/2466928</guid>
-      <description>As announced on June 7, 2023, Microsoft Entra ID Governance is now generally available, and with it a set of new capabilities to empower businesses in their pursuit of streamlined access management. If you&#8217;re running your organization&#8217;s&#160; program, your primary job responsibility is linked to the business goal of ensuring that the right people have access to the right resources for the right amount of time. If you&#8217;re running your organization&#8217;s&#160; program, then identity governance &#8211; the ability to know who has access to what, when, and why &#8211; is foundational to Zero Trust. Regardless of the busines...</description>
+      <title>Grant users access to data assets through the Microsoft Purview Data owner policies API</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grant-users-access-to-data-assets-through-the-microsoft-purview/ba-p/3861160</link>
+      <pubDate>Wed, 19 Jul 2023 16:25:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grant-users-access-to-data-assets-through-the-microsoft-purview/ba-p/3861160</guid>
+      <description>Microsoft Purview Data owner policies is a cloud-based service that helps you provision access to data sources and datasets securely and at scale. Data owner policies exposes a REST API through which you can grant any Azure AD identity (user, group or service principal) Read or Modify access to a dataset or data resource. The scope for the access can range from fine-grained (e.g., Table or File) to broad (e.g., entire Azure Resource Group or Subscription).&#160;This API provides a consistent interface that abstracts the complexity of permissions for each type of data source. Data owner policies cur...</description>
     </item>
   </channel>
 </rss>
