@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Jul 2023 23:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Use the new eBPF-based sensor for Defender for Endpoint on Linux</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-ebpf-based-sensor-for-defender-for-endpoint-on-linux/ba-p/3873720</link>
-      <pubDate>Wed, 19 Jul 2023 22:35:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-ebpf-based-sensor-for-defender-for-endpoint-on-linux/ba-p/3873720</guid>
-      <description>While organizations rely on Linux-based machines to run mission critical workloads, attackers are increasingly targeting these environments. Therefore, it's critical that endpoint security solutions can help organizations protect their multi-platform estate.&#160;
-Today, we are excited to announce that a new, eBPF-based sensor for Microsoft Defender for Endpoint on Linux is now available in public preview.
-&#160;
-The initial implementation of Defender for Endpoint on Linux relies on auditd as the primary event provider, but now organizations can use eBPF as an alternative technology. It delivers additio...</description>
-    </item>
+    <lastBuildDate>Thu, 20 Jul 2023 00:31:41 GMT</lastBuildDate>
   </channel>
 </rss>
