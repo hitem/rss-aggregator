@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 21 Jul 2023 09:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 10:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Validating FTP traffic scenarios with Azure Firewall</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/validating-ftp-traffic-scenarios-with-azure-firewall/ba-p/3880683</link>
+      <pubDate>Fri, 21 Jul 2023 09:16:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/validating-ftp-traffic-scenarios-with-azure-firewall/ba-p/3880683</guid>
+      <description>Written by Gopikrishna Kannan (Head of Products: Azure Firewall and Firewall Manager)
+&#160;
+Introduction:
+The Azure Firewall is a cloud-native and intelligent network firewall security service that can be integrated into many different use cases. It&#8217;s a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability that provides both east-west and north-south traffic inspection.
+This blog will discuss FTP scenario with Azure Firewall. FTP or File Transfer Protocol is&#160; the most common use case for enterprise customers. FTP may be configured to run in&#160;active&#160;...</description>
+    </item>
   </channel>
 </rss>
