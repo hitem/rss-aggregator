@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 21 Jul 2023 12:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 14:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Enhanced Cloud Security: Value-Added with Defender CSPM's Agentless Features</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhanced-cloud-security-value-added-with-defender-cspm-s/ba-p/3880746</link>
+      <pubDate>Fri, 21 Jul 2023 13:31:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhanced-cloud-security-value-added-with-defender-cspm-s/ba-p/3880746</guid>
+      <description>Introduction
+Cloud security is a fast-evolving arena, demanding inclusive solutions to safeguard an organization's valuable assets and sensitive data. Our earlier article titled "Comprehensive Guide on Agent-Based and Agentless Cloud Security," &#160;focused on these two unique cloud security approaches. Now, we intend to delve deeper into the value-added benefits of utilizing agentless features within Defender for Cloud Security Posture Management (CSPM).
+As cloud environments become more complex and dynamic, enhanced visibility, scalability, and simplicity are paramount in security solutions. In ...</description>
+    </item>
   </channel>
 </rss>
