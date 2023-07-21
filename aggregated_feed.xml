@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 21 Jul 2023 06:01:16 GMT</lastBuildDate>
-    <item>
-      <title>Customer Offerings: Continuous Collaboration for DevOps in Teams</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-continuous-collaboration-for-devops-in-teams/ba-p/3864216</link>
-      <pubDate>Fri, 21 Jul 2023 05:40:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-continuous-collaboration-for-devops-in-teams/ba-p/3864216</guid>
-      <description>
-&#160;
-Introduction
-Developers who use Microsoft Teams for daily collaboration are more likely to build for Teams platform. Conversely, if developers do not enjoy using Teams, they will be less likely to want to build integrations that would result in more time being spent in Teams. Thus, winning developers over as end users is crucial to winning them as platform builders."
-&#160;
-The "Continuous Collaboration for DevOps in Teams," provides developers, product owners, and any other team member involved in DevOps with the necessary experience to collaborate effectively using Microsoft Teams for software...</description>
-    </item>
+    <lastBuildDate>Fri, 21 Jul 2023 07:01:02 GMT</lastBuildDate>
   </channel>
 </rss>
