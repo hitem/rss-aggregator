@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Jul 2023 17:01:14 GMT</lastBuildDate>
-    <item>
-      <title>Analyze IoT/OT device firmware with Microsoft Defender for IoT</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/analyze-iot-ot-device-firmware-with-microsoft-defender-for-iot/ba-p/3853474</link>
-      <pubDate>Mon, 24 Jul 2023 16:20:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/analyze-iot-ot-device-firmware-with-microsoft-defender-for-iot/ba-p/3853474</guid>
-      <description>Consider an organization that has thousands of endpoints on their network that are running 10-year old, unpatched SSH servers. Or when a critical vulnerability like log4shell is discovered, having no easy way to know which of those endpoints are exploitable. This is the situation organizations find themselves in when it comes to IoT and OT devices. This problem is so important that the US National Cybersecurity Strategy released a report in March 2023 indicating the IoT security threat as a strategic objective.
-&#160;
-With modern endpoint solutions, IT and security analysts get visibility into the ...</description>
-    </item>
+    <lastBuildDate>Mon, 24 Jul 2023 18:06:14 GMT</lastBuildDate>
   </channel>
 </rss>
