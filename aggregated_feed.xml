@@ -3,33 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Jul 2023 16:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 17:01:14 GMT</lastBuildDate>
     <item>
-      <title>Azure Monitor: Gain observability on your DHCP server</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-gain-observability-on-your-dhcp-server/ba-p/3865274</link>
-      <pubDate>Mon, 24 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-gain-observability-on-your-dhcp-server/ba-p/3865274</guid>
-      <description>Hello readers,
-It is common that customers need to expand the observability over the entire IT infrastructure (see Azure Monitor: Expanding the Out-of-the-Box Observability for your IT Infrastructure). This includes one of the requests I got to gain observability over DHCP servers. More in details, a customer of mine wanted to have a sort of dashboard to show DHCP events with the ability to do an easy search.
-After 5 minutes of brainstorming I got the solution in mind: I needed to ingest DHCP logs into Azure Monitor, storing them in a Log Analytics workspace and visualize the data through Azur...</description>
-    </item>
-    <item>
-      <title>Investigate URLs and domains more efficiently with the new URL page</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/investigate-urls-and-domains-more-efficiently-with-the-new-url/ba-p/3813657</link>
-      <pubDate>Mon, 24 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/investigate-urls-and-domains-more-efficiently-with-the-new-url/ba-p/3813657</guid>
-      <description>In today's ever-evolving cybersecurity landscape, the threat posed by attacks such as phishing attacks continues to intensify. A prominent hallmark of these attacks is the use of URLs to facilitate their objectives. Microsoft Threat Intelligence data shows that 417,678 URLs were taken down by Microsoft Digital Crimes Unit between May 2022 to April 2023. Speed and efficiency matter to security operations center (SOC) analyst&#8217;s daily work and central to the success of cybersecurity efforts is the effective investigation and management of URLs. SOC analysts must be equipped with cutting-edge tool...</description>
-    </item>
-    <item>
-      <title>Security baseline for Microsoft Edge version 115</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-115/ba-p/3882420</link>
-      <pubDate>Mon, 24 Jul 2023 15:08:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-115/ba-p/3882420</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 115!
+      <title>Analyze IoT/OT device firmware with Microsoft Defender for IoT</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/analyze-iot-ot-device-firmware-with-microsoft-defender-for-iot/ba-p/3853474</link>
+      <pubDate>Mon, 24 Jul 2023 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/analyze-iot-ot-device-firmware-with-microsoft-defender-for-iot/ba-p/3853474</guid>
+      <description>Consider an organization that has thousands of endpoints on their network that are running 10-year old, unpatched SSH servers. Or when a critical vulnerability like log4shell is discovered, having no easy way to know which of those endpoints are exploitable. This is the situation organizations find themselves in when it comes to IoT and OT devices. This problem is so important that the US National Cybersecurity Strategy released a report in March 2023 indicating the IoT security threat as a strategic objective.
 &#160;
-We have reviewed the new settings in Microsoft Edge version 115 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 114 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 115 introduced 9 new computer settings and 9 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find them....</description>
+With modern endpoint solutions, IT and security analysts get visibility into the ...</description>
     </item>
   </channel>
 </rss>
