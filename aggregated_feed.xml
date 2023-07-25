@@ -3,31 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Jul 2023 16:02:19 GMT</lastBuildDate>
-    <item>
-      <title>Become a Microsoft Purview Data Lifecycle and Records Management Ninja</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-data-lifecycle-and-records-management/ba-p/3874829</link>
-      <pubDate>Tue, 25 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-data-lifecycle-and-records-management/ba-p/3874829</guid>
-      <description>&#160;
-Welcome to the Microsoft Purview Data Lifecycle and Records Management ninja training! This page shares the top training resources for you to build your expertise.
-&#160;
-What is Data Lifecycle Management and Records Management?
-&#160;
-Microsoft Purview Data Lifecycle Management&#160;and&#160;Microsoft Purview Records Management help&#160;to govern your Microsoft 365 data for compliance or regulatory requirements.
-&#160;
-Microsoft Purview Data Lifecycle Management manages risk and liability by only keeping what you need and deleting what you don&#8217;t across your entire digital estate, whereas Records Management manages high...</description>
-    </item>
-    <item>
-      <title>Enhanced Company Branding for Sign-in Experiences Now Generally Available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/enhanced-company-branding-for-sign-in-experiences-now-generally/ba-p/3823765</link>
-      <pubDate>Tue, 25 Jul 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/enhanced-company-branding-for-sign-in-experiences-now-generally/ba-p/3823765</guid>
-      <description>Hello friends,&#8239;&#8239;&#160;
-&#160;
-I&#8217;m pleased to announce the general availability of the enhanced company branding functionality that allows for customization of the Microsoft Entra ID and Microsoft 365 sign-in experience with less effort.&#160;
-&#160;
-The experience controls apply to sign-in for users in the directory and for external users, including use cases for B2B, B2E, Customer Identity and Access Management (CIAM) and first-party applications running on Entra ID. With enhanced company branding, you&#8217;ll be able to create a custom look and feel for the default sign in pages,&#8239;as well as pages targeting specific ...</description>
-    </item>
+    <lastBuildDate>Tue, 25 Jul 2023 17:01:01 GMT</lastBuildDate>
   </channel>
 </rss>
