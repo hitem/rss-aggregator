@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Jul 2023 14:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 15:01:10 GMT</lastBuildDate>
+    <item>
+      <title>Taking Entity Investigation to the Next Level: Microsoft Sentinel&#8217;s Upgraded Entity Pages</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/taking-entity-investigation-to-the-next-level-microsoft-sentinel/ba-p/3878382</link>
+      <pubDate>Tue, 25 Jul 2023 14:43:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/taking-entity-investigation-to-the-next-level-microsoft-sentinel/ba-p/3878382</guid>
+      <description>Introduction
+Entities such as users, devices, or cloud resources are the cornerstone of security investigations. These entities form the core of the cyber ecosystem, with every incident stemming from their interactions. The entity pages in Microsoft Sentinel offer invaluable insights into these interactions, enabling your security teams to delve deeper into the data and understand the dynamics that lead to security incidents.
+&#160;
+By giving you access to detailed entity data via the entity pages and side panels, we facilitate a deeper exploration of incidents, allowing for a more targeted and eff...</description>
+    </item>
   </channel>
 </rss>
