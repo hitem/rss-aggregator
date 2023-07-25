@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Jul 2023 12:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 13:12:13 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud - strategy and plan towards Log Analytics Agent (MMA) deprecation</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-strategy-and-plan-towards-log/ba-p/3883341</link>
+      <pubDate>Tue, 25 Jul 2023 12:29:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-strategy-and-plan-towards-log/ba-p/3883341</guid>
+      <description>Log Analytics agent (also known as MMA) is on a deprecation path and will be retired in Aug 2024. The purpose of this blogpost is to clarify how Microsoft Defender for Cloud will align with this plan and its impact on customers.
+&#160;
+There are two Defender for Cloud plans with features relying on the Log Analytics agent: Defender for Servers Plan 2 and Defender for SQL server on machines.
+As part of an updated strategy, Azure monitoring Agent (also known as AMA), won&#8217;t be a requirement as part of our Defender for Servers offering, but will remain required as part of Defender for SQL server on mac...</description>
+    </item>
   </channel>
 </rss>
