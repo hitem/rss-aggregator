@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Jul 2023 22:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 23:01:14 GMT</lastBuildDate>
+    <item>
+      <title>Unleash the Power of Threat Intel: Introducing the MDTI GitHub</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unleash-the-power-of-threat-intel-introducing-the-mdti-github/ba-p/3884452</link>
+      <pubDate>Wed, 26 Jul 2023 22:50:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unleash-the-power-of-threat-intel-introducing-the-mdti-github/ba-p/3884452</guid>
+      <description>We are excited to announce that the Microsoft Defender Threat Intelligence (Defender TI) team has launched our official GitHub Community. There, we share technical solutions with customers to help the SOC maximize Microsoft Threat Intelligence in Defender TI for a wide range of common incident response and threat hunting scenarios. In this blog post, we'll explore how to access GitHub and run several custom scenarios that can easily enhance your security processes through powerful enrichment and automation that boost efficiency and understanding of threats.
+&#160;
+
+Access to the GitHub repository
+&#160;...</description>
+    </item>
   </channel>
 </rss>
