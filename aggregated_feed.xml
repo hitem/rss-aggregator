@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Jul 2023 13:08:14 GMT</lastBuildDate>
-    <item>
-      <title>Malware Scanning for cloud storage GA pre-announcement | prevent malicious content distribution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-for-cloud-storage-ga-pre-announcement-prevent/ba-p/3884470</link>
-      <pubDate>Wed, 26 Jul 2023 12:44:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-for-cloud-storage-ga-pre-announcement-prevent/ba-p/3884470</guid>
-      <description>Malware Scanning in Defender for Storage will be generally available (GA) for Azure Blob Storage on September 1, 2023. This add-on to Defender for Storage will be priced at $0.15 (USD) per GB of data scanned.
-&#160;
-Malware Scanning in Defender for Storage helps protect your Blob storage accounts from malicious content by performing a full, built-in, agentless malware scan on uploaded content in near real time, using Microsoft Defender Antivirus capabilities.&#160;It scans all file types and allows you to detect and prevent malware distribution events.
-&#160;
-Defender for Storage helps prevent the three majo...</description>
-    </item>
+    <lastBuildDate>Wed, 26 Jul 2023 14:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
