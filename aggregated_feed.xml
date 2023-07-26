@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Jul 2023 17:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 18:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Encryption algorithm changes in Microsoft Purview Information Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/encryption-algorithm-changes-in-microsoft-purview-information/ba-p/3831909</link>
+      <pubDate>Wed, 26 Jul 2023 17:59:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/encryption-algorithm-changes-in-microsoft-purview-information/ba-p/3831909</guid>
+      <description>Data encryption with the Azure Rights Management service is one of the most established data protection options available with Microsoft Purview Information Protection. Its foundation is a combination of cryptography and identity that enables us to move away from password-protected files to a more agile and modern access control model. This technology has been available in some form since Office 2010, available as a broad-based technology used by millions of users and a simple premise &#8211; a document protected by one user can be opened by another user having the correct access control list (ACL) ...</description>
+    </item>
+    <item>
+      <title>Microsoft Defender Vulnerability Management &#8211; Firmware Security Advisories</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-defender-vulnerability-management-firmware-security/ba-p/3884569</link>
+      <pubDate>Wed, 26 Jul 2023 17:20:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-defender-vulnerability-management-firmware-security/ba-p/3884569</guid>
+      <description>We are happy to announce a new capability for Microsoft Defender Vulnerability Management &#8211; &#8216;Firmware Security Advisories&#8217;.
+This capability allows more streamlined and efficient way to view, track, and monitor firmware advisories. With the ability to filter on exposed devices and view advisories that affect the customer environment, security teams can quickly identify potential vulnerabilities and take action to mitigate them. This is especially important in today's rapidly evolving threat landscape, where firmware vulnerabilities can be exploited by attackers to gain access to sensitive data ...</description>
+    </item>
   </channel>
 </rss>
