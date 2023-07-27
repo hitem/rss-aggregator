@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Jul 2023 22:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 23:01:20 GMT</lastBuildDate>
+    <item>
+      <title>Update on Defender Vulnerability Management capabilities in Defender for Servers Plan-2</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/update-on-defender-vulnerability-management-capabilities-in/ba-p/3882311</link>
+      <pubDate>Thu, 27 Jul 2023 22:41:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/update-on-defender-vulnerability-management-capabilities-in/ba-p/3882311</guid>
+      <description>&#160;
+The aim of this article is to give you a better understanding of the Microsoft Defender Vulnerability Management (MDVM) capabilities available to Microsoft Defender for Cloud (MDC) customers, as well as information on some recent changes in behavior, which enables these capabilities only to eligible devices.
+&#160;
+Defender Vulnerability Management premium capabilities are included in Defender for Servers Plan 2 (DfS-P2). These capabilities are available for eligible server devices, with a DfS-P2, via the Microsoft 365 Defender portal.
+&#160;
+Customers that wish to benefit from these Defender Vulnerab...</description>
+    </item>
   </channel>
 </rss>
