@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Jul 2023 17:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 18:01:10 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Strictly Enforce Location Policies with Continuous Access Evaluation</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-strictly-enforce-location-policies-with/ba-p/3773133</link>
+      <pubDate>Fri, 28 Jul 2023 17:15:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-strictly-enforce-location-policies-with/ba-p/3773133</guid>
+      <description>Greetings! At the recent Microsoft Secure event, we provided an early look at a new feature of conditional access which lets you strictly enforce location policies with continuous access evaluation (CAE), allowing you to rapidly invalidate tokens which violate your IP based location policies. Today, we&#8217;re delighted to announce this feature is in public preview. &#160;
+&#160;
+Previously, in the event of an access token theft, attackers could take advantage of the refresh interval to replay the token, regardless of whether it fell outside the location range permitted by a conditional access policy. With o...</description>
+    </item>
   </channel>
 </rss>
