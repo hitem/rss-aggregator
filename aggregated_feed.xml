@@ -3,15 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 31 Jul 2023 19:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 20:00:48 GMT</lastBuildDate>
     <item>
-      <title>GA announcement &#8212; Microsoft Purview Fairfax (USGov Virginia) and Mooncake (China North 3)</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia-and/ba-p/3887869</link>
-      <pubDate>Mon, 31 Jul 2023 18:42:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia-and/ba-p/3887869</guid>
-      <description>Today, we're announcing the General Availability of Microsoft Purview in&#160;Fairfax (US Gov Virginia) Cloud and in Mooncake (China North 3). Our Microsoft Purview Solution which is designed to &#8220;Understand and govern data across your entire data estate&#8221; is now available in the Fairfax US Gov Virginia Cloud and the Mooncake&#160;China North 3 regions.
+      <title>GA announcement &#8212; Microsoft Purview Mooncake (China North 3)</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-mooncake-china-north-3/ba-p/3887978</link>
+      <pubDate>Mon, 31 Jul 2023 19:30:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-mooncake-china-north-3/ba-p/3887978</guid>
+      <description>We are thrilled to announce that Microsoft Purview is now generally available in the Mooncake (China North 3) region. Our goal with Microsoft Purview, designed to "Understand and govern data across your entire data estate," is to provide unified data governance solutions to our valued customers, enabling them to effectively manage, govern, protect, and leverage their entire data landscape.
 &#160;
-As part of our ongoing commitment to expanding our global reach and providing Microsoft Purview to our customers, we have diligently worked hard for months to bring Purview to Fairfax and Mooncake. This expansion will allow our customers in the Fairfax a...</description>
+The journey to expand our global reach and bring Purview to Mooncake has been a diligent effort, spanning months of hard work. We are proud to open up these regions to our customers, providing them access ...</description>
+    </item>
+    <item>
+      <title>GA announcement&#8212; Microsoft Purview Fairfax (USGov Virginia)</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia/ba-p/3887980</link>
+      <pubDate>Mon, 31 Jul 2023 19:30:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia/ba-p/3887980</guid>
+      <description>Today, we're announcing the General Availability of Microsoft Purview in Fairfax cloud. Our Microsoft Purview Solution which is designed to &#8220;Understand and govern data across your entire data estate&#8221; is now available in the Fairfax US Gov Cloud Virginia.
+&#160;
+As part of our ongoing commitment to expanding our global reach and providing Microsoft Purview to our customers, we have diligently worked hard for months to bring Purview to Fairfax.
+&#160;
+This expansion will allow our customers in the Fairfax region access unified data governance solutions allowing them to manage, govern, protect, and manage ...</description>
     </item>
   </channel>
 </rss>
