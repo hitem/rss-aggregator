@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 31 Jul 2023 15:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 16:02:15 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s new with Microsoft Entra ID Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/what-s-new-with-microsoft-entra-id-protection/ba-p/3773132</link>
+      <pubDate>Mon, 31 Jul 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/what-s-new-with-microsoft-entra-id-protection/ba-p/3773132</guid>
+      <description>In this increasingly digital world, identity is the most attacked surface area, and the sophistication and frequency of attacks continue to rise. Manual investigations and responses can&#8217;t keep pace. We need to think differently about how we protect identities from compromise and respond rapidly to emerging threats. &#160;
+&#160;
+Microsoft Entra ID Protection (recently renamed from Azure AD Identity Protection) helps stop attacks before they happen. ID Protection blocks identity takeovers in real-time and automates attack mitigation by providing advanced machine learning (ML)-based detections, risk-based...</description>
+    </item>
+    <item>
+      <title>Announcing New DMARC Policy Handling Defaults for Enhanced Email Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-new-dmarc-policy-handling-defaults-for-enhanced-email/ba-p/3884203</link>
+      <pubDate>Mon, 31 Jul 2023 15:47:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-new-dmarc-policy-handling-defaults-for-enhanced-email/ba-p/3884203</guid>
+      <description>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC) is a standard that helps prevent spoofing by verifying the sender&#8217;s identity. If an email fails DMARC validation, it often means that the sender is not who they claim to be, and the email could be fraudulent.&#160;
+The &#8216;p=&#8217; value (this stands for &#8220;policy&#8221;) in a DMARC TXT DNS record represents the sender&#8217;s policy for their domain. It tells the receiver what to do if an email fails DMARC validation. There are three possible values for the policy: none, quarantine, and reject. This helps the sender protect their reputation and brand ...</description>
+    </item>
   </channel>
 </rss>
