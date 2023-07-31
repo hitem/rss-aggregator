@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 31 Jul 2023 07:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Deploying Microsoft Defender for Servers in Network-Restricted Environments</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-servers-in-network-restricted/ba-p/3886437</link>
-      <pubDate>Mon, 31 Jul 2023 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-servers-in-network-restricted/ba-p/3886437</guid>
-      <description>Microsoft Defender for Servers (part of the Microsoft Defender for Cloud security suite), being a comprehensive solution for server protection across multi-cloud and hybrid environments, requires the deployment of several agents to achieve its multiple protection capabilities. As many of our customers run their Windows/Linux server environments without direct Internet outbound connectivity, there is the need for guidance on how to successfully deploy Defender for Servers with such restrictions. This article aims thus to bring additional clarity by summarizing all the considerations that must b...</description>
-    </item>
+    <lastBuildDate>Mon, 31 Jul 2023 08:07:42 GMT</lastBuildDate>
   </channel>
 </rss>
