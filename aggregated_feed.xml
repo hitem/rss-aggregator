@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 31 Jul 2023 18:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 19:01:06 GMT</lastBuildDate>
+    <item>
+      <title>GA announcement &#8212; Microsoft Purview Fairfax (USGov Virginia) and Mooncake (China North 3)</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia-and/ba-p/3887869</link>
+      <pubDate>Mon, 31 Jul 2023 18:42:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia-and/ba-p/3887869</guid>
+      <description>Today, we're announcing the General Availability of Microsoft Purview in&#160;Fairfax (US Gov Virginia) Cloud and in Mooncake (China North 3). Our Microsoft Purview Solution which is designed to &#8220;Understand and govern data across your entire data estate&#8221; is now available in the Fairfax US Gov Virginia Cloud and the Mooncake&#160;China North 3 regions.
+&#160;
+As part of our ongoing commitment to expanding our global reach and providing Microsoft Purview to our customers, we have diligently worked hard for months to bring Purview to Fairfax and Mooncake. This expansion will allow our customers in the Fairfax a...</description>
+    </item>
   </channel>
 </rss>
