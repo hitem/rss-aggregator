@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Aug 2023 18:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 19:01:14 GMT</lastBuildDate>
+    <item>
+      <title>Announcing the availability of in-product guidance!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-the-availability-of-in-product-guidance/ba-p/3828409</link>
+      <pubDate>Tue, 01 Aug 2023 18:18:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-the-availability-of-in-product-guidance/ba-p/3828409</guid>
+      <description>Today, we are super proud to announce the general availability of our new in-product guidance, which is an evolution of the step-by-step guides documentation. (aka.ms/step-by-step)
+&#160;
+We believe in providing you the tools to become a security operations hero. This guidance is designed to help you ramp up on a feature within Microsoft Defender in a matter of minutes, while also providing all the key information you need to be successful.&#160;
+&#160;
+The key button to look out for is on the top right, labeled:&#160;"Learn More" as shown below in the animated demo.
+&#160;
+Figure 1: Animated Gif example in-product gu...</description>
+    </item>
+    <item>
+      <title>Automate tasks management to protect your organization against threats</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516</link>
+      <pubDate>Tue, 01 Aug 2023 18:02:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516</guid>
+      <description>When investigating an incident, analysts follow certain steps &#8211; tasks &#8211; to ensure that the investigation is conducted effectively and efficiently. Standardizing the process is necessary for both generic steps and specific types of incidents, and their availability in the context of the incident allows for faster and more efficient management and remediation.
+&#160;
+Tasks in Microsoft Sentinel can help security analysts streamline their workflow and improve their efficiency. Analysts can add tasks to specific incidents or alerts, enabling them to track the progress of investigations and remediation ...</description>
+    </item>
   </channel>
 </rss>
