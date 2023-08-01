@@ -3,6 +3,81 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Aug 2023 15:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 16:01:19 GMT</lastBuildDate>
+    <item>
+      <title>SharePoint support for labels configured for user-defined permissions</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sharepoint-support-for-labels-configured-for-user-defined/ba-p/3855967</link>
+      <pubDate>Tue, 01 Aug 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sharepoint-support-for-labels-configured-for-user-defined/ba-p/3855967</guid>
+      <description>Rolling out in preview, there's now limited support for labels configured for user-defined permissions. This encryption configuration refers to the setting&#160;Let users assign permissions when they apply the label&#160;and the checkbox&#160;In Word, PowerPoint, and Excel, prompt users to specify permissions&#160;is selected:
+
+
+When a document is labeled with user-defined permissions and uploaded to SharePoint or OneDrive, these services can now process the document so that it can be opened and edited in Office for the web, the label name is displayed in the&#160;Sensitivity&#160;column, and the encrypted file is returned...</description>
+    </item>
+    <item>
+      <title>Monthly news - August 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-august-2023/ba-p/3888441</link>
+      <pubDate>Tue, 01 Aug 2023 15:46:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-august-2023/ba-p/3888441</guid>
+      <description>
+
+
+
+Microsoft 365 DefenderMonthly newsAugust 2023 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from July 2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft 365 Defender
+
+
+
+
+
+
+
+
+The new file page with various new capabilities is now in public preview!&#160;The new file page revolutionizes ...</description>
+    </item>
   </channel>
 </rss>
