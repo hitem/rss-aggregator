@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Aug 2023 18:01:10 GMT</lastBuildDate>
-    <item>
-      <title>Do I Need VPN Connectivity for Windows Hello for Business Registration</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/do-i-need-vpn-connectivity-for-windows-hello-for-business/ba-p/3893177</link>
-      <pubDate>Mon, 07 Aug 2023 17:58:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/do-i-need-vpn-connectivity-for-windows-hello-for-business/ba-p/3893177</guid>
-      <description>Hello everyone, my name is Zoheb Shaikh and I&#8217;m a Solution Engineer working with the Microsoft Mission Critical team (SfMC). Today I&#8217;ll share an interesting discussion about Windows Hello and the need for VPN/Connectivity with Domain Controllers.&#160;
-&#160;
-Recently I was interacting with an SfMC customer and was told that many users fail to register to Windows Hello for Business (WHFB) unless they connect to VPN or the Office network. The critical question that came my way was how to get your users to register with the least possible hassle, and if we can help here. 
-&#160;
-I said of course I can help, af...</description>
-    </item>
+    <lastBuildDate>Mon, 07 Aug 2023 19:01:06 GMT</lastBuildDate>
   </channel>
 </rss>
