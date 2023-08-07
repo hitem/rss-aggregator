@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Aug 2023 13:07:56 GMT</lastBuildDate>
-    <item>
-      <title>Threat Detection Queries for Azure WAF</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/threat-detection-queries-for-azure-waf/ba-p/3892775</link>
-      <pubDate>Mon, 07 Aug 2023 12:14:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/threat-detection-queries-for-azure-waf/ba-p/3892775</guid>
-      <description>Introduction: 
-Web applications face frequent malicious attacks that exploit well-known vulnerabilities, such as Code Injection and Path Traversal Attacks. These attacks are hard to prevent in the application code, as they require constant maintenance, patching, and monitoring at multiple levels of the application architecture. A WAF solution can provide faster and centralized security by patching a known vulnerability for all web applications, rather than securing each one individually. Azure Web Application Firewall (WAF) is a cloud-native service that protects web apps from common web-hacki...</description>
-    </item>
+    <lastBuildDate>Mon, 07 Aug 2023 14:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
