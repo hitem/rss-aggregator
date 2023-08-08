@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Aug 2023 16:01:23 GMT</lastBuildDate>
-    <item>
-      <title>Conditional Access for Protected Actions is Now Generally Available!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-for-protected-actions-is-now-generally/ba-p/3888723</link>
-      <pubDate>Tue, 08 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-for-protected-actions-is-now-generally/ba-p/3888723</guid>
-      <description>Hi,
-&#160;
-I&#8217;m delighted to announce the general availability of Conditional Access for Protected Actions! This powerful feature empowers organizations to safeguard critical administrative operations with Conditional Access policies.
-&#160;
-Protected actions refer to high-stakes operations that carry significant risk, such as altering conditional access policies, adding credentials to an application, or changing federation trust settings. These actions, if executed by a malicious actor, can severely compromise your organization's security posture.
-&#160;
-I've asked Swetha Rai, a Senior Product Manager on the...</description>
-    </item>
-    <item>
-      <title>Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746</link>
-      <pubDate>Tue, 08 Aug 2023 15:25:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746</guid>
-      <description>Microsoft is committed to delivering best of breed, multi-platform, and multi-cloud security for all organizations on the planet. Our aim is to offer simplified, comprehensive protection that prevents breaches and enables our customers to innovate and grow, delivering security for all. As part of that commitment, last year our foundational set of industry leading prevention and protection capabilities became available for customers to purchase through Defender for Endpoint Plan 1. This offering is available as a standalone and also through various packages, including Microsoft 365 E3/A3. It de...</description>
-    </item>
+    <lastBuildDate>Tue, 08 Aug 2023 17:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
