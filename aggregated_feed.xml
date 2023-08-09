@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 09 Aug 2023 16:01:11 GMT</lastBuildDate>
-    <item>
-      <title>Availability of Defender Vulnerability Management Standalone and Container vulnerability assessments</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/availability-of-defender-vulnerability-management-standalone-and/ba-p/3894735</link>
-      <pubDate>Wed, 09 Aug 2023 15:58:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/availability-of-defender-vulnerability-management-standalone-and/ba-p/3894735</guid>
-      <description>Organizations are increasingly challenged to stay aligned with evolving business requirements and protect against expanding attack surfaces with a diverse portfolio of devices outside of traditional organizational boundaries, adding complexity to the vulnerability management process. Vulnerability management solutions provide understanding of their overall security risk posture and where to prioritize.
-&#160;
-In recent years, Microsoft has established itself as a leading solution for vulnerability risk management (VRM) by leveraging its industry-leading threat intelligence and security expertise. M...</description>
-    </item>
-    <item>
-      <title>New multicloud CNAPP innovations in Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-multicloud-cnapp-innovations-in-microsoft-defender-for-cloud/ba-p/3895154</link>
-      <pubDate>Wed, 09 Aug 2023 15:40:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-multicloud-cnapp-innovations-in-microsoft-defender-for-cloud/ba-p/3895154</guid>
-      <description>With almost 90% of organizations adopting a multicloud strategy1, successfully securing across your entire environment has never been more important. Vulnerabilities in code, overprivileged access, critical misconfigurations, and evolving threats can lead to sensitive data exposure and breaches, driving cloud security to the top of the concern list for many enterprises.&#160;&#160;Microsoft Defender for Cloud is pioneering this new era of security by offering a holistic approach to multicloud management. Trusted by industry professionals as a leading Cloud Native Application Protection Platform (CNAPP),...</description>
-    </item>
+    <lastBuildDate>Wed, 09 Aug 2023 17:01:17 GMT</lastBuildDate>
   </channel>
 </rss>
