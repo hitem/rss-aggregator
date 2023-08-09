@@ -250,3 +250,5 @@
 2023-08-08T15:25:42 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746
 2023-08-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-for-protected-actions-is-now-generally/ba-p/3888723
 2023-08-09T11:44:34 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/help-protect-your-exchange-environment-with-microsoft-sentinel/ba-p/3872527
+2023-08-09T15:40:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-multicloud-cnapp-innovations-in-microsoft-defender-for-cloud/ba-p/3895154
+2023-08-09T15:58:41 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/availability-of-defender-vulnerability-management-standalone-and/ba-p/3894735
