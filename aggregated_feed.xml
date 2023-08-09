@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 09 Aug 2023 12:09:14 GMT</lastBuildDate>
-    <item>
-      <title>Help Protect your Exchange Environment With Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/help-protect-your-exchange-environment-with-microsoft-sentinel/ba-p/3872527</link>
-      <pubDate>Wed, 09 Aug 2023 11:44:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/help-protect-your-exchange-environment-with-microsoft-sentinel/ba-p/3872527</guid>
-      <description>&#160;TL;DR; Sentinel + Exchange Servers or Exchange Online = better protected
-&#160;
-We recently published two solutions in the Sentinel content hub catalog to assist you with better detecting threats and misconfigurations of your Exchange environment. One solution is focused on on-premises Exchange Server and the second is for Exchange Online. Both solutions can be used simultaneously when you have a hybrid Exchange environment.
-&#160;
-Why now?
-In the past years, we have seen an increase in attacks against messaging environments. Taking control of an Exchange Server or abusing someone&#8217;s mailbox can have ca...</description>
-    </item>
+    <lastBuildDate>Wed, 09 Aug 2023 13:10:25 GMT</lastBuildDate>
   </channel>
 </rss>
