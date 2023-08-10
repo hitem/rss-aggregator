@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Aug 2023 07:00:51 GMT</lastBuildDate>
-    <item>
-      <title>Use PowerShell to remediate Non-Compliant Policy Definitions</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-powershell-to-remediate-non-compliant-policy-definitions/ba-p/3878321</link>
-      <pubDate>Thu, 10 Aug 2023 06:20:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-powershell-to-remediate-non-compliant-policy-definitions/ba-p/3878321</guid>
-      <description>Introduction
-Azure Policy enables an organization to enforce standards and assess compliance against regulatory requirements. In general, there are four main Azure Policy objects.
-
-A Policy Definition describes the conditions under which it is enforced. This Azure Policy object has no effect until it is assigned.
-A Policy Set can bundle Policy Definitions that are related. Again, this Azure Policy object has no effect until it is assigned.
-A Policy Assignment assigns a Policy Definition or Policy Set on a specific scope. When a Policy Assignment has been created, the Azure Policy artifacts tha...</description>
-    </item>
+    <lastBuildDate>Thu, 10 Aug 2023 08:01:25 GMT</lastBuildDate>
   </channel>
 </rss>
