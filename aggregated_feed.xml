@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Aug 2023 20:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 21:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Quarterly Cyber Signals Report: Issue 5, State of Play</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-quarterly-cyber-signals-report-issue-5-state-of-play/ba-p/3899232</link>
+      <pubDate>Mon, 14 Aug 2023 20:13:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-quarterly-cyber-signals-report-issue-5-state-of-play/ba-p/3899232</guid>
+      <description>Welcome to Microsoft&#8217;s fifth edition of Cyber Signals. Cyber Signals is a quarterly cyber threat intelligence report informed by the latest Microsoft threat data and research, offering an expert perspective into the current threat landscape, while discussing trending tactics, techniques, and strategies used by the world&#8217;s most prolific threat actors.&#160;
+&#160;
+At Microsoft, we believe that security is a team sport and by sharing what we&#8217;re learning, we can all make the world a safer place. Cyber Signals aggregates insights we see from our research and security teams on the frontlines, leveraging tril...</description>
+    </item>
   </channel>
 </rss>
