@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Aug 2023 06:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 07:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Move backups in Recovery Service Vault from LRS/GRS to ZRS while preserving the data</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/move-backups-in-recovery-service-vault-from-lrs-grs-to-zrs-while/ba-p/3897569</link>
+      <pubDate>Mon, 14 Aug 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/move-backups-in-recovery-service-vault-from-lrs-grs-to-zrs-while/ba-p/3897569</guid>
+      <description>Introduction
+Hello everyone, Andrew Coughlin here and I am a Cloud Solutions Architect at Microsoft focusing on Azure Infrastructure. I have frequently received questions from customers about how to move their virtual machines from an LRS/GRS recovery services vault to a recovery services vault that supports ZRS. As a reminder we have three options for storage replication for recovery services vaults:
+
+LRS - copies your data synchronously three times within a single physical location in the primary region. LRS is the least expensive replication option but isn't recommended for applications req...</description>
+    </item>
   </channel>
 </rss>
