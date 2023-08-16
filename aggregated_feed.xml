@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 16 Aug 2023 18:01:22 GMT</lastBuildDate>
-    <item>
-      <title>Latest functionalities uplevel asset management and enhance data visibility</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-functionalities-uplevel-asset-management-and-enhance-data/ba-p/3901170</link>
-      <pubDate>Wed, 16 Aug 2023 17:39:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-functionalities-uplevel-asset-management-and-enhance-data/ba-p/3901170</guid>
-      <description>Latest functionalities uplevel asset management and enhance data visibility
-Microsoft Defender External Attack Surface Management (Defender EASM) discovers and classifies assets and workloads across your organization's digital presence to enable teams to understand and prioritize exposed weaknesses in cloud, SaaS, and IaaS resources to strengthen security posture. Recently added features and enhancements uplevel asset management and enhance data visibility within the tool, helping customers gain efficiency and stay organized. Learn about these exciting new functionalities below and how you can...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender for Identity expands its coverage with new AD CS sensor!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-defender-for-identity-expands-its-coverage-with-new-ad/ba-p/3894215</link>
-      <pubDate>Wed, 16 Aug 2023 17:10:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-defender-for-identity-expands-its-coverage-with-new-ad/ba-p/3894215</guid>
-      <description>Active Directory (AD) continues to be a major component of most organizations&#8217; IT footprint, and as such, attackers are constantly hunting for vulnerabilities or misconfigurations they can exploit. To stay ahead of these new tactics, and ensure we continue to deliver powerful security solutions to our customers, our research and engineering teams are always evolving and updating our offerings.
-One such enhancement is a new Microsoft Defender for Identity sensor that can be deployed on Active Directory Certificate Services (AD CS) servers. This new sensor builds on the existing detections for s...</description>
-    </item>
+    <lastBuildDate>Wed, 16 Aug 2023 19:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
