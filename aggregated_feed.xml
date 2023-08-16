@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 16 Aug 2023 13:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 14:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Announcing mobile device tagging for iOS and Android</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-mobile-device-tagging-for-ios-and-android/ba-p/3897368</link>
+      <pubDate>Wed, 16 Aug 2023 13:38:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-mobile-device-tagging-for-ios-and-android/ba-p/3897368</guid>
+      <description>Today, large enterprises are operating in multiple locations with decentralized SOC teams tasked with ensuring that company endpoints and data are not only safeguarded from threats but adhere to compliance and privacy policies. Without access control for admins, analysts would have access to all device information found across these locations &#8211; even those classified as sensitive devices, which could lead to privacy and security concerns. To alleviate these concerns, admins should implement controls that only allow designated analysts to have access to specific device groups they are responsibl...</description>
+    </item>
   </channel>
 </rss>
