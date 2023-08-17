@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 17 Aug 2023 11:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 12:08:27 GMT</lastBuildDate>
+    <item>
+      <title>Proactively secure your AWS Cloud Resources with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-secure-your-aws-cloud-resources-with-microsoft/ba-p/3901698</link>
+      <pubDate>Thu, 17 Aug 2023 11:50:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-secure-your-aws-cloud-resources-with-microsoft/ba-p/3901698</guid>
+      <description>Introduction&#160;
+Misconfigurations are common entry points for attackers. Cloud misconfigurations occur when cloud resources are set up with incorrect or insecure settings, leaving them vulnerable to exploitation. Misconfigurations can lead to sensitive data being exposed to the public internet, unauthorized users, or can open up unnecessary ports, services, or permissions that attackers can exploit. Proactive security management for cloud misconfiguration is essential to maintaining a strong security posture.&#160;
+&#160;
+In this blog, I will walk through a few scenarios of misconfigured AWS Cloud resourc...</description>
+    </item>
   </channel>
 </rss>
