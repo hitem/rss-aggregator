@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 17 Aug 2023 16:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 17:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender data can now be hosted locally in Australia</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-data-can-now-be-hosted-locally-in-australia/ba-p/3898337</link>
+      <pubDate>Thu, 17 Aug 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-data-can-now-be-hosted-locally-in-australia/ba-p/3898337</guid>
+      <description>We are pleased to announce that Microsoft Defender for Endpoint, Microsoft 365 Defender and Microsoft Defender for Identity now support data residency in Australia and are available for public preview. This announcement demonstrates our commitment to providing customers with the highest levels of security and compliance by offering services that are aligned to local data sovereignty requirements. Customers can now confidently onboard to Microsoft Defender for Endpoint, Microsoft 365 Defender and Microsoft Defender for Identity in Australia, knowing that their data at rest will remain within Au...</description>
+    </item>
   </channel>
 </rss>
