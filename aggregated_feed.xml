@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Aug 2023 16:01:18 GMT</lastBuildDate>
-    <item>
-      <title>MDE Device Control &#8211; leveraging Reusable Settings in Intune</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-device-control-leveraging-reusable-settings-in-intune/ba-p/3905072</link>
-      <pubDate>Mon, 21 Aug 2023 16:00:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-device-control-leveraging-reusable-settings-in-intune/ba-p/3905072</guid>
-      <description>Introduction&#160;
-Hello everybody! We are Jorge Miguel Ferreira and Sebastian Werner and we&#8217;re consultants at Microsoft. This blog post will show you how to set up Microsoft Defender for Endpoint (MDE) Device Control Removable Storage Access Control (LINK Microsoft Defender for Endpoint Device Control Removable Storage Access Control, removable storage media).&#160;
-&#160;
-There are many ways of configuring this feature, such as GPOs, custom OMA-URIs and Intune, specifically using the new reusable settings feature in the Attack Surface Reduction (ASR) rules. This blog post will focus on the new ASR rules in...</description>
-    </item>
+    <lastBuildDate>Mon, 21 Aug 2023 17:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
