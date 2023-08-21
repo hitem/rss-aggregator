@@ -3,14 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Aug 2023 21:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 22:01:19 GMT</lastBuildDate>
     <item>
-      <title>Azure WAF &#8211; Masking Sensitive Data</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-masking-sensitive-data/ba-p/3905356</link>
-      <pubDate>Mon, 21 Aug 2023 20:09:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-masking-sensitive-data/ba-p/3905356</guid>
-      <description>Introduction
-Azure Web Application Firewall (WAF) on Azure Application Gateway provides centralized protection of web applications from common web application vulnerabilities. You can monitor how your Azure WAF resources are&#160;processing the traffic using the WAF logs which are written to the designated location i.e., Log Analytics Workspace, Storage Account, Partner Solution etc.&#160;These logs typically contain requests which are matched or blocked by the WAF rules and can provide valuable information for monitoring, auditing, and troubleshooting purposes. For ease of usage and analysis, WAF logs ...</description>
+      <title>Security review for Microsoft Edge version 116</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-116/ba-p/3905425</link>
+      <pubDate>Mon, 21 Aug 2023 21:51:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-116/ba-p/3905425</guid>
+      <description>We are pleased to announce the security review for Microsoft Edge, version 116!
+&#160;
+We have reviewed the new settings in Microsoft Edge version 116 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 114 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 116 introduced 8 new computer settings and 8 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find them....</description>
     </item>
   </channel>
 </rss>
