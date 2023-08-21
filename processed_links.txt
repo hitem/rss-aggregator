@@ -265,3 +265,4 @@
 2023-08-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-data-can-now-be-hosted-locally-in-australia/ba-p/3898337
 2023-08-18T12:40:40 https://techcommunity.microsoft.com/t5/azure-network-security-blog/new-threat-detections-for-azure-waf/ba-p/3892775
 2023-08-21T16:00:03 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-device-control-leveraging-reusable-settings-in-intune/ba-p/3905072
+2023-08-21T20:09:09 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-masking-sensitive-data/ba-p/3905356
