@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Aug 2023 12:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 13:07:04 GMT</lastBuildDate>
+    <item>
+      <title>One Microsoft: Enriching MDEASM assets with Threat Intelligence Feeds</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/one-microsoft-enriching-mdeasm-assets-with-threat-intelligence/ba-p/3905929</link>
+      <pubDate>Tue, 22 Aug 2023 12:23:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/one-microsoft-enriching-mdeasm-assets-with-threat-intelligence/ba-p/3905929</guid>
+      <description>Organizations need processes and tools such as Microsoft Defender External Attack Surface Management (MDEASM) to help with identifying and managing the points in a software system or network infrastructure that could be targeted by potential attackers. These points, often referred to as "attack vectors," are vulnerabilities or weaknesses that attackers could exploit to gain unauthorized access, compromise systems, or steal sensitive data.&#160;
+&#160;
+The External Attack Surface specifically refers to the components and interfaces of a system that are exposed to the outside world, such as public-facing ...</description>
+    </item>
   </channel>
 </rss>
