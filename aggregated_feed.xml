@@ -3,44 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Aug 2023 17:01:02 GMT</lastBuildDate>
-    <item>
-      <title>Strengthening Your Defenses: Simulation Testing for Azure DDoS Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/strengthening-your-defenses-simulation-testing-for-azure-ddos/ba-p/3905823</link>
-      <pubDate>Tue, 22 Aug 2023 16:58:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/strengthening-your-defenses-simulation-testing-for-azure-ddos/ba-p/3905823</guid>
-      <description>Introduction
-In the battle against Distributed Denial of Service (DDoS) attacks, it is crucial to have robust protection mechanisms in place. Azure DDoS Protection provides a powerful shield for your infrastructure, but how can you ensure it can handle real-world scenarios? This blog post walks you through DDoS simulation testing and its role in evaluating and enhancing Azure DDoS Protection. Discover how simulation testing can fortify your defenses and enable you to confidently withstand DDoS attacks.
-&#160;
-Azure DDoS Protection Overview
-Azure DDoS Protection is a comprehensive security solution ...</description>
-    </item>
-    <item>
-      <title>Manage Access to Microsoft Sentinel Workbooks with Lower Scoped RBAC</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280</link>
-      <pubDate>Tue, 22 Aug 2023 16:30:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280</guid>
-      <description>Leveraging Microsoft Sentinel workbooks for reporting to leadership is a common use case. A common concern is granting recipients access to Microsoft Sentinel or all of the tables within the workspace. Using some different RBAC components, this can be done.
-&#160;
-Components:
-
-Table-level RBAC
-Resource-level RBAC
-
-How It Works:
-Table-level RBAC:&#160;Access to the data that is leveraged within the workspace is set at the table level. This prevents the user from being able to read data from the other tables while still being able to see the required data within the workbook.
-
-&#160;
-Resource-level RBAC: Acces...</description>
-    </item>
-    <item>
-      <title>Send "How-to guides" to your organization from Attack Simulation training</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/send-quot-how-to-guides-quot-to-your-organization-from-attack/ba-p/3867825</link>
-      <pubDate>Tue, 22 Aug 2023 16:12:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/send-quot-how-to-guides-quot-to-your-organization-from-attack/ba-p/3867825</guid>
-      <description>Attack Simulation Training&#160;is an intelligent phish risk reduction tool that measures behavior change and automates deployment of an integrated security awareness training program across an organization. It is available with Microsoft 365 E5 or&#160;Microsoft Defender for Office 365 P2 plan.
-&#160;
-We are thrilled to announce that Attack Simulation Training now includes an exciting new feature: "How-to Guides" that can be sent to users to provide instructions to recipient on how to complete important security tasks. This capability is designed to provide a lightweight guidance to end users on how to&#160;repo...</description>
-    </item>
+    <lastBuildDate>Tue, 22 Aug 2023 18:01:12 GMT</lastBuildDate>
   </channel>
 </rss>
