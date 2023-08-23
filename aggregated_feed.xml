@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 23 Aug 2023 12:08:49 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Microsoft Sentinel Optimization Workbook</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489</link>
-      <pubDate>Wed, 23 Aug 2023 11:30:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489</guid>
-      <description>Optimizing Microsoft Sentinel ingestion cost, improving operational efficiency, and enhancing threat management is crucial for several reasons. Each of these contributes to enhancing the overall efficiency, cost-effectiveness, and efficacy&#160;of an organization's security operations. To assist with these challenges, we are introducing the Optimization Workbook.
-&#160;
-This workbook aims to empower security teams by providing invaluable insights into your Microsoft Sentinel environment and offering recommendations to enhance cost efficiency, operational effectiveness, and overall management overview.
-&#160;...</description>
-    </item>
+    <lastBuildDate>Wed, 23 Aug 2023 13:06:51 GMT</lastBuildDate>
   </channel>
 </rss>
