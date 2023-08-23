@@ -271,3 +271,4 @@
 2023-08-22T16:12:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/send-quot-how-to-guides-quot-to-your-organization-from-attack/ba-p/3867825
 2023-08-22T16:30:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280
 2023-08-22T16:58:28 https://techcommunity.microsoft.com/t5/azure-network-security-blog/strengthening-your-defenses-simulation-testing-for-azure-ddos/ba-p/3905823
+2023-08-23T11:30:23 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489
