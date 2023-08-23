@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 23 Aug 2023 16:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Introducing a New Flexible Way of Bringing Identities from Any Source into Microsoft Entra ID!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-a-new-flexible-way-of-bringing-identities-from-any/ba-p/2466927</link>
-      <pubDate>Wed, 23 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-a-new-flexible-way-of-bringing-identities-from-any/ba-p/2466927</guid>
-      <description>Hello everyone,
-&#160;
-I'm thrilled to announce that&#8239;Microsoft Entra API-driven provisioning is now&#8239;in public preview!
-&#160;
-With today&#8217;s announcement, we&#8217;re expanding our support for HR-driven provisioning to address the most common customer asks, including:&#160;
-&#160;
-
-Automatically provisioning cloud-only users and hybrid users (users that require an on-premises Active Directory account) from any trusted source&#160;
-Importing data from sources like CSV files and SQL staging tables using the automation tool of your choice&#160;
-Simplifying the integration by using standard SCIM schema attributes to abstract schema di...</description>
-    </item>
+    <lastBuildDate>Wed, 23 Aug 2023 17:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
