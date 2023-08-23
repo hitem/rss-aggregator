@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 23 Aug 2023 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 20:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Defender for APIs Better Together with Azure Web Application Firewall and Azure API Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-apis-better-together-with-azure-web-application/ba-p/3907308</link>
+      <pubDate>Wed, 23 Aug 2023 19:57:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-apis-better-together-with-azure-web-application/ba-p/3907308</guid>
+      <description>Under the Microsoft Defender for Cloud umbrella, Microsoft Defender for APIs, offers protection for APIs at every stage of their lifecycle. This service enhances the protections from Web Application Firewalls and API Gateways, resulting in a comprehensive security framework for API endpoints. In this article, we'll dive deeper into how Defender for APIs augments the security offered by Azure Web Application Firewall (Azure WAF) and Azure API Management (APIM).
+&#160;
+Defender for APIs
+Defender for APIs provides visibility into crucial APIs. It facilitates a deep dive into your API security, allowin...</description>
+    </item>
   </channel>
 </rss>
