@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 24 Aug 2023 17:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Configure Just-in-Time Access to M365 Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/configure-just-in-time-access-to-m365-defender/ba-p/3764564</link>
-      <pubDate>Thu, 24 Aug 2023 16:30:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/configure-just-in-time-access-to-m365-defender/ba-p/3764564</guid>
-      <description>PIM for Groups
-&#160;
-Entra ID (formerly Azure AD) offers the Privileged Identity Management (PIM) for Groups feature, enabling users to attain just-in-time membership and ownership of groups, thus governing access to a range of services. This feature allows the implementation of policies similar to those in PIM for Entra ID Roles and PIM for Azure Resources, allowing the configuration of actions like approval enforcement, multi-factor authentication (MFA), justification requirements, and activation time limits. Each PIM for Groups configured group features two distinct policies, catering to member...</description>
-    </item>
+    <lastBuildDate>Thu, 24 Aug 2023 18:01:25 GMT</lastBuildDate>
   </channel>
 </rss>
