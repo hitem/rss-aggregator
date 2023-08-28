@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Aug 2023 18:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Defender Experts Chronicles: A Deep Dive into Storm-0867</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-chronicles-a-deep-dive-into-storm-0867/ba-p/3911769</link>
-      <pubDate>Mon, 28 Aug 2023 17:35:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-chronicles-a-deep-dive-into-storm-0867/ba-p/3911769</guid>
-      <description>BACKGROUND
-At Microsoft, we are always on the lookout for advanced and emerging threats that could compromise the security of our customers. This has pushed our Defender Experts for XDR team to constantly stay vigilant, monitoring and responding to incidents with speed and efficiency. In late May 2023 (See Fig. 1), we encountered a surge in cases involving highly sophisticated adversary-in-the-middle (AiTM) attacks. This attack involves an attacker intercepting and manipulating the communication between two parties, such as a user and a server. The team quickly unmasked the face behind these a...</description>
-    </item>
+    <lastBuildDate>Mon, 28 Aug 2023 19:01:06 GMT</lastBuildDate>
   </channel>
 </rss>
