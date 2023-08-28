@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Aug 2023 15:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2023 16:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview Data Loss Prevention: Announcing general availability of several capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-announcing-general/ba-p/3908106</link>
+      <pubDate>Mon, 28 Aug 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-announcing-general/ba-p/3908106</guid>
+      <description>At Microsoft, we are committed to providing a unified and cloud-native solution that can help you prevent the loss of your sensitive data across your applications, services, and devices without the need to deploy and maintain costly infrastructure or agents.&#160;Microsoft Purview Data Loss Prevention (DLP)&#160;is an integrated, and extensible offering that allows organizations to manage their DLP policies from a single location and has a familiar user experience for both administrators and end-users.&#160;DLP is easy to turn on, doesn't require any agents and has protection built-in to Microsoft 365 cloud ...</description>
+    </item>
+    <item>
+      <title>Microsoft Entra Private Access: An Identity-Centric Zero Trust Network Access Solution</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-private-access-an-identity-centric-zero-trust/ba-p/3905451</link>
+      <pubDate>Mon, 28 Aug 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-private-access-an-identity-centric-zero-trust/ba-p/3905451</guid>
+      <description>On July 11, 2023, we introduced Microsoft&#8217;s identity-centric security service edge (SSE) solution and two new services: Microsoft Entra Private Access and Microsoft Entra Internet Access, which are now in public preview. In this blog, we take a deeper look into Microsoft 
+Entra Private Access.&#160;&#160;
+&#160;
+Figure 1: Traditional network security stacks and legacy VPNs are no longer sufficient
+&#160;
+&#160;
+Microsoft Entra Private Access&#160;
+&#160;
+Traditional network security approaches that use legacy VPNs simply cannot scale to modern demands. Once your remote users connect to your corporate network through VPN, they a...</description>
+    </item>
   </channel>
 </rss>
