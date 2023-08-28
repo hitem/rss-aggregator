@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Aug 2023 07:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Using Automation Runbook Webhooks To Alert on Databricks Status Updates</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-automation-runbook-webhooks-to-alert-on-databricks-status/ba-p/3905598</link>
-      <pubDate>Mon, 28 Aug 2023 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-automation-runbook-webhooks-to-alert-on-databricks-status/ba-p/3905598</guid>
-      <description>Description
-This guide walks you through the process of setting up and utilizing webhooks to receive Databricks status alerts, process them using Azure Automation Runbook, and trigger notifications to administrators about the status event.
-&#160;
-Prerequisites
-Before diving into the process, ensure you have the following prerequisites in place:
-
-An active Azure account.
-Access to Azure Automation and Azure Log Analytics.
-Familiarity with PowerShell scripting.
-Use code found in https://github.com/jvargh/Webhooks-For-Status-Alerts
-
-&#160;
-Process involved
-To subscribe to Databricks status alerts via webho...</description>
-    </item>
+    <lastBuildDate>Mon, 28 Aug 2023 08:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
