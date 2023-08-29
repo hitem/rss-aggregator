@@ -3,27 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Aug 2023 16:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 17:01:03 GMT</lastBuildDate>
     <item>
-      <title>Learn the steps needed to protect your data and manage identity</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-the-steps-needed-to-protect-your-data-and-manage-identity/ba-p/3909959</link>
-      <pubDate>Tue, 29 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-the-steps-needed-to-protect-your-data-and-manage-identity/ba-p/3909959</guid>
-      <description>Today we&#8217;re sharing some new training resources and opportunities to help you build skills with these solutions&#8212;so you can use them now or get ready for a Microsoft certification exam.&#160;&#160;
-&#160;
-Help your organization secure your data estate with the new Microsoft Purview training guide.&#160;
-Microsoft Purview plays an integral part in securing your organization's data across clouds, devices, and platforms.&#160;
-&#160;
-The&#160;Microsoft training guide for Purview and data protection is an easy-to-navigate&#160;guide that quickly walks you through business needs related to information protection, insider risk management (...</description>
-    </item>
-    <item>
-      <title>Coming Soon &#8211; Platform SSO for macOS</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/coming-soon-platform-sso-for-macos/ba-p/3902280</link>
-      <pubDate>Tue, 29 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/coming-soon-platform-sso-for-macos/ba-p/3902280</guid>
-      <description>Earlier this year we took a big step towards improving customers&#8217; experience with Apple devices by providing companies with the Microsoft Enterprise SSO plug-in for Apple devices. This plug-in enables&#160;Microsoft Entra ID users to have device-wide single sign-on (SSO) for all apps and websites in a consistent, secure, and seamless way. Best of all, it always stays up to date with the latest Microsoft technologies as they evolve.&#160;
-&#160;
-Today we're announcing a powerful enhancement to these capabilities - Platform SSO for macOS. This enhancement is designed to make using your macOS devices more seaml...</description>
+      <title>Azure WAF Tuning for Web Applications</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133</link>
+      <pubDate>Tue, 29 Aug 2023 16:40:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133</guid>
+      <description>Azure Web Application Firewall provides a comprehensive solution for protecting web applications from various types of application attacks, ensuring high availability and optimal performance. It is critical to configure WAF in such a way as to reduce the likelihood of false positives while still providing sufficient protection against actual threats.
+False positives occur when a Web Application Firewall (WAF) erroneously detects legitimate web traffic as malicious and subsequently denies access. For instance, an HTTP request that poses no threat may trigger WAF to classify it as an SQL injecti...</description>
     </item>
   </channel>
 </rss>
