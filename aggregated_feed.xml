@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Aug 2023 17:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Azure WAF Tuning for Web Applications</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133</link>
-      <pubDate>Tue, 29 Aug 2023 16:40:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133</guid>
-      <description>Azure Web Application Firewall provides a comprehensive solution for protecting web applications from various types of application attacks, ensuring high availability and optimal performance. It is critical to configure WAF in such a way as to reduce the likelihood of false positives while still providing sufficient protection against actual threats.
-False positives occur when a Web Application Firewall (WAF) erroneously detects legitimate web traffic as malicious and subsequently denies access. For instance, an HTTP request that poses no threat may trigger WAF to classify it as an SQL injecti...</description>
-    </item>
+    <lastBuildDate>Tue, 29 Aug 2023 18:01:21 GMT</lastBuildDate>
   </channel>
 </rss>
