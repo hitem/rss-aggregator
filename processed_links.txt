@@ -279,3 +279,5 @@
 2023-08-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-private-access-an-identity-centric-zero-trust/ba-p/3905451
 2023-08-28T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-announcing-general/ba-p/3908106
 2023-08-28T17:35:23 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-chronicles-a-deep-dive-into-storm-0867/ba-p/3911769
+2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/coming-soon-platform-sso-for-macos/ba-p/3902280
+2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-the-steps-needed-to-protect-your-data-and-manage-identity/ba-p/3909959
