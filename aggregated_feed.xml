@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Aug 2023 14:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 15:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Cybersecurity 101: What are the Three Pillars of a Robust Strategy?</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-101-what-are-the-three-pillars-of-a-robust/ba-p/3888034</link>
+      <pubDate>Wed, 30 Aug 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-101-what-are-the-three-pillars-of-a-robust/ba-p/3888034</guid>
+      <description>Cybersecurity is not just a defensive strategy; it can be a powerful driver of an organization's success. In this episode of the Uncovering Hidden Risks podcast, host Erica Toelle talks to Nashid Shaker, AVP Information and Cyber Security at Canadian Western Bank Financial Group, and Antonio Maio, Managing Director at Protiviti, about how to tactically create a cybersecurity strategy that aligns with business goals, fosters trust, and enables innovation.
+&#160;
+Listen to this episode on your favorite podcast platform:&#160;
+
+Main show page&#160;
+Apple Podcasts&#160;
+Spotify&#160;
+Google Podcasts&#160;
+Amazon&#160;
+RSS Feed&#160;
+
+He...</description>
+    </item>
   </channel>
 </rss>
