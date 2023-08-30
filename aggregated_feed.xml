@@ -3,24 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Aug 2023 15:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 16:01:22 GMT</lastBuildDate>
     <item>
-      <title>Cybersecurity 101: What are the Three Pillars of a Robust Strategy?</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-101-what-are-the-three-pillars-of-a-robust/ba-p/3888034</link>
-      <pubDate>Wed, 30 Aug 2023 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-101-what-are-the-three-pillars-of-a-robust/ba-p/3888034</guid>
-      <description>Cybersecurity is not just a defensive strategy; it can be a powerful driver of an organization's success. In this episode of the Uncovering Hidden Risks podcast, host Erica Toelle talks to Nashid Shaker, AVP Information and Cyber Security at Canadian Western Bank Financial Group, and Antonio Maio, Managing Director at Protiviti, about how to tactically create a cybersecurity strategy that aligns with business goals, fosters trust, and enables innovation.
+      <title>Cross-Tenant Access Settings Improvements!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-access-settings-improvements/ba-p/3822036</link>
+      <pubDate>Wed, 30 Aug 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-access-settings-improvements/ba-p/3822036</guid>
+      <description>Hello friends,
 &#160;
-Listen to this episode on your favorite podcast platform:&#160;
+Hard to believe it&#8217;s been almost a year since we made cross-tenant access settings generally available. Since then, it&#8217;s been awesome seeing you adopt this feature to secure your cross-tenant collaboration scenarios and improve end-user experiences for partners by setting up trust of multi-factor authentication (MFA) from their home tenants. With that said, we&#8217;ve also heard your feedback on a few critical areas. 
+&#160;
+We&#8217;ve been hard at work to address that feedback and we have some new improvements to share.
+&#160;
 
-Main show page&#160;
-Apple Podcasts&#160;
-Spotify&#160;
-Google Podcasts&#160;
-Amazon&#160;
-RSS Feed&#160;
-
-He...</description>
+You can create custom roles and use protected actions to secure chan...</description>
     </item>
   </channel>
 </rss>
