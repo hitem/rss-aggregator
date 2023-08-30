@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Aug 2023 16:01:22 GMT</lastBuildDate>
-    <item>
-      <title>Cross-Tenant Access Settings Improvements!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-access-settings-improvements/ba-p/3822036</link>
-      <pubDate>Wed, 30 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-access-settings-improvements/ba-p/3822036</guid>
-      <description>Hello friends,
-&#160;
-Hard to believe it&#8217;s been almost a year since we made cross-tenant access settings generally available. Since then, it&#8217;s been awesome seeing you adopt this feature to secure your cross-tenant collaboration scenarios and improve end-user experiences for partners by setting up trust of multi-factor authentication (MFA) from their home tenants. With that said, we&#8217;ve also heard your feedback on a few critical areas. 
-&#160;
-We&#8217;ve been hard at work to address that feedback and we have some new improvements to share.
-&#160;
-
-You can create custom roles and use protected actions to secure chan...</description>
-    </item>
+    <lastBuildDate>Wed, 30 Aug 2023 17:01:13 GMT</lastBuildDate>
   </channel>
 </rss>
