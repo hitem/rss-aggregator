@@ -282,3 +282,5 @@
 2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/coming-soon-platform-sso-for-macos/ba-p/3902280
 2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-the-steps-needed-to-protect-your-data-and-manage-identity/ba-p/3909959
 2023-08-29T16:40:39 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133
+2023-08-30T11:38:38 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-new-incident-experience-is-generally/ba-p/3911534
+2023-08-30T12:08:23 https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-your-azure-security-azure-ddos-sentinel-solution-and/ba-p/3913420

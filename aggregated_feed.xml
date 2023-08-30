@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Aug 2023 11:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 12:08:45 GMT</lastBuildDate>
+    <item>
+      <title>Enhancing Your Azure Security: Azure DDoS Sentinel Solution and WAF Playbook Integration</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-your-azure-security-azure-ddos-sentinel-solution-and/ba-p/3913420</link>
+      <pubDate>Wed, 30 Aug 2023 12:08:23 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-your-azure-security-azure-ddos-sentinel-solution-and/ba-p/3913420</guid>
+      <description>Introduction
+&#160;
+In today's digital landscape, the rise of complex cyber threats poses a significant challenge for businesses relying on cloud-based services. Specifically, Distributed Denial of Service (DDoS) attacks are now often being used as a diversion in multi-layer attacks. To safeguard their applications and ensure uninterrupted service availability, organizations must deploy robust security solutions. Microsoft Azure offers powerful security solutions - Azure DDoS Protection, Azure Web Application Firewall (WAF) and Microsoft Sentinel - to help you proactively defend your assets against...</description>
+    </item>
+    <item>
+      <title>Microsoft Sentinel's new incident experience is generally available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-new-incident-experience-is-generally/ba-p/3911534</link>
+      <pubDate>Wed, 30 Aug 2023 11:38:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-new-incident-experience-is-generally/ba-p/3911534</guid>
+      <description>We are excited to announce that the Microsoft Sentinel new incident experience is generally available!
+&#160;
+As part of the general availability of the incident page, we're happy to announce the general availability of the similar incidents feature and the capability to add entities directly from the incident as an indicator of compromise (IoC) to our Threat Intelligence engine.
+&#160;
+Last January of this year, Michal Shechter shared the public preview announcement in this blog post where you can find additional details. Since that time, customers have shared with us that their SOC analyst efficiency ...</description>
+    </item>
   </channel>
 </rss>
