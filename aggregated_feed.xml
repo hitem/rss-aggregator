@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 31 Aug 2023 20:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Agentless Discovery for Kubernetes is now offered as part of Defender for Containers</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-discovery-for-kubernetes-is-now-offered-as-part-of/ba-p/3915328</link>
-      <pubDate>Thu, 31 Aug 2023 19:31:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-discovery-for-kubernetes-is-now-offered-as-part-of/ba-p/3915328</guid>
-      <description>The latest addition to Defender for Containers, Agentless Discovery for Kubernetes, empowers security-conscious organizations with new capabilities to gain insights into the security landscape of their Kubernetes workloads.
-Previously available for customers in Defender Cloud Security Posture Management (DCSPM), it is now being integrated as a core component of Defender for Containers. Agentless Discovery empowers you to gain higher visibility into the security landscape of your Kubernetes workloads, if you choose not to install additional agents.
-In Defender for Containers, the following capa...</description>
-    </item>
+    <lastBuildDate>Thu, 31 Aug 2023 21:01:19 GMT</lastBuildDate>
   </channel>
 </rss>
