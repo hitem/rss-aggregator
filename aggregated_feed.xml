@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Aug 2023 23:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 00:23:54 GMT</lastBuildDate>
+    <item>
+      <title>Maximizing Effectiveness: Best Practices for Azure DDoS Protection and Application Resilience</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/maximizing-effectiveness-best-practices-for-azure-ddos/ba-p/3914324</link>
+      <pubDate>Wed, 30 Aug 2023 23:57:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/maximizing-effectiveness-best-practices-for-azure-ddos/ba-p/3914324</guid>
+      <description>Azure DDoS Protection is constantly innovating to protect customers from ever-changing DDoS attacks. As attacks become more sophisticated, it is important to keep your applications up to date with industry best practices to ensure maximum effectiveness when using Azure DDoS Protection. Below are architectural and design decisions you can make to ensure your resources are resilient to DDoS attacks.&#160;&#160;
+&#160;
+Minimizing Vulnerabilities and Enabling Relevant Protections&#160;
+It is important to launch the relevant protection services for your application. If you have any applications deployed to the interne...</description>
+    </item>
   </channel>
 </rss>
