@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 31 Aug 2023 16:01:16 GMT</lastBuildDate>
-    <item>
-      <title>Important: Update to deviceRegistrationPolicy Resource Type for MS Graph Beta API Version</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/important-update-to-deviceregistrationpolicy-resource-type-for/ba-p/3912000</link>
-      <pubDate>Thu, 31 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/important-update-to-deviceregistrationpolicy-resource-type-for/ba-p/3912000</guid>
-      <description>We have an important update to provide on MS Graph Device Registration Policy resource type currently in preview and available in beta API version. We are making some changes to resource type properties that introduce breaking changes. These changes are expected to happen in the week of September 25, 2023. To ensure continued support and functionality, and minimize impact, it&#8217;s very important that&#8239;all customers&#8239;take note of these changes and prioritize modifying their applications that depend on this resource type accordingly. &#8239;&#8239;&#160;
-&#8239;&#160;
-Why and when are we making this change?&#8239;&#160;
-&#160;
-Before we make t...</description>
-    </item>
-    <item>
-      <title>Azure Firewall: New Features and Region Availability</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-new-features-and-region-availability/ba-p/3911830</link>
-      <pubDate>Thu, 31 Aug 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-new-features-and-region-availability/ba-p/3911830</guid>
-      <description>Contributors: Eliran Azulai, Gopikrishna Kannan, and Mark Gakman
-With the increasing demand for cloud capabilities, we are continuing to observe new firewall use cases and deployment scenarios, and we are incredibly thankful for all the feedback that we have received. With today&#8217;s announcement, our goal is to continue to help IT administrators achieve their firewall goals efficiently and effectively. We are thrilled to announce a new set of releases that allows you to cater to your application needs, learn your network routes for determining SNAT behavior, migrate between SKUs with a single cl...</description>
-    </item>
+    <lastBuildDate>Thu, 31 Aug 2023 17:01:17 GMT</lastBuildDate>
   </channel>
 </rss>
