@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Sep 2023 18:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2023 19:01:08 GMT</lastBuildDate>
+    <item>
+      <title>Automating Azure VM Deployment: The Power of PowerApps, SharePoint, Flow and Azure DevOps Pipe</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-azure-vm-deployment-the-power-of-powerapps-sharepoint/ba-p/3904766</link>
+      <pubDate>Mon, 04 Sep 2023 18:11:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-azure-vm-deployment-the-power-of-powerapps-sharepoint/ba-p/3904766</guid>
+      <description>Introduction
+Many of our customers are trying to balance the productivity vs security scale at this point in time. On the one end you can provide access to the Azure Portal but that could provide certain risks and requires an understanding of the portal. On the other hand, if you do not give access to the portal your Operational Teams will not only have to deal with their original workloads of building infrastructure on premises but also creating infrastructure in multiple online clouds. That leads us to think that maybe automation is the answer. During this article I will showcase a recent sc...</description>
+    </item>
   </channel>
 </rss>
