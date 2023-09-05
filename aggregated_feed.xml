@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Sep 2023 20:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 21:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Get incident updates from Defender Experts for XDR in the SOC tools you use</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/get-incident-updates-from-defender-experts-for-xdr-in-the-soc/ba-p/3874175</link>
+      <pubDate>Tue, 05 Sep 2023 20:14:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/get-incident-updates-from-defender-experts-for-xdr-in-the-soc/ba-p/3874175</guid>
+      <description>Microsoft Defender Experts for XDR is a managed extended detection and response service that augments security operations centers (SOCs) for customers who use Microsoft 365 Defender services &#8211; Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Microsoft Defender for Identity, Microsoft Defender for Cloud Apps, and Microsoft Entra AD. Through a combination of automation and human expertise, it triages Microsoft 365 Defender incidents, prioritizes them on your behalf, filters out the noise, carries out detailed investigations, and provides actionable response to your SOC.
+&#160;
+In t...</description>
+    </item>
   </channel>
 </rss>
