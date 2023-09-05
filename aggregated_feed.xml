@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Sep 2023 07:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 08:07:33 GMT</lastBuildDate>
+    <item>
+      <title>Accelerating Zero Trust Alignment with Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerating-zero-trust-alignment-with-microsoft-sentinel/ba-p/3918125</link>
+      <pubDate>Tue, 05 Sep 2023 07:19:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerating-zero-trust-alignment-with-microsoft-sentinel/ba-p/3918125</guid>
+      <description>According to the Microsoft Digital Defense Report of 2022, the United States government network is the target of nearly half of global nation-state attacks. Over the last few years, the United States Department of Defense (DoD) has been adapting their approach to best defend against these attacks, which have been growing in volume, severity, and sophistication.
+&#160;
+As part of this effort, the DoD established a Zero Trust Portfolio Management office in January 2022 and released a Zero Trust reference architecture. The latest update from November 2022 provides crucial details for implementing the ...</description>
+    </item>
   </channel>
 </rss>
