@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Sep 2023 14:01:15 GMT</lastBuildDate>
-    <item>
-      <title>Identity hunting with an enhanced IdentityInfo table</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/identity-hunting-with-an-enhanced-identityinfo-table/ba-p/3912561</link>
-      <pubDate>Tue, 05 Sep 2023 13:28:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/identity-hunting-with-an-enhanced-identityinfo-table/ba-p/3912561</guid>
-      <description>Advanced hunting with an enhanced IdentityInfo table
-Back in June 2023, we announced the enhanced IdentityInfo table in Microsoft 365 advanced hunting for Microsoft Defender for Identity customers. Today, we are expanding the availability of this table for all Microsoft defender for Cloud apps customers as part of our journey to enable this experience for all Microsoft 365 Defender customers.
-
-&#160;
-What do I get?
-With this new table, security analysts have much broader experience with identity-based hunting, allowing them to query more attributes from all detected providers, such as Entra ID assi...</description>
-    </item>
+    <lastBuildDate>Tue, 05 Sep 2023 15:01:15 GMT</lastBuildDate>
   </channel>
 </rss>
