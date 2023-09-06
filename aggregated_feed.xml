@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Sep 2023 16:01:07 GMT</lastBuildDate>
-    <item>
-      <title>Conditional Access Overview and Templates are now Generally Available!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-overview-and-templates-are-now-generally/ba-p/3888722</link>
-      <pubDate>Wed, 06 Sep 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-overview-and-templates-are-now-generally/ba-p/3888722</guid>
-      <description>
-Today, we are excited to announce the general availability of Conditional Access overview dashboard and templates. Conditional Access protects thousands of organizations across the globe daily and customers often ask us about best practices and how to improve security coverage. Conditional Access overview dashboard and templates empower Microsoft Entra ID customers to gain insights into their security posture, assess the impact of individual policies, and simplify deployment of Microsoft&#8217;s recommendations.
-&#160;
-I&#8217;ve invited Krishna Venkit and Lisa Huang-North, product managers on the Identity Se...</description>
-    </item>
+    <lastBuildDate>Wed, 06 Sep 2023 17:00:59 GMT</lastBuildDate>
   </channel>
 </rss>
