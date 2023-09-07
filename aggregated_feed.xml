@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 07 Sep 2023 18:02:06 GMT</lastBuildDate>
-    <item>
-      <title>Intrusion Detection and Prevention System (IDPS) Based on Signatures</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/intrusion-detection-and-prevention-system-idps-based-on/ba-p/3921330</link>
-      <pubDate>Thu, 07 Sep 2023 17:34:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/intrusion-detection-and-prevention-system-idps-based-on/ba-p/3921330</guid>
-      <description>Written in collaboration between&#160;@andrewmathu&#160;and&#160;@gusmodena
-&#160;
-Introduction
-&#160;
-An Intrusion Detection and Prevention System (IDPS) is a vital component of modern cybersecurity strategy, designed to safeguard networks by actively monitoring and responding to potential security threats. Among the types of IDPS currently available such as signature-based and anomaly-based, signature based IDPS stands out as a reliable and efficient method for identifying known security risks. This blog delves into signature-based IDPS, with a specific focus on the Azure Firewall Premium IDPS.
-&#160;
-Why is IDPS based o...</description>
-    </item>
+    <lastBuildDate>Thu, 07 Sep 2023 19:01:14 GMT</lastBuildDate>
   </channel>
 </rss>
