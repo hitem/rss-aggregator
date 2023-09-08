@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Sep 2023 18:01:19 GMT</lastBuildDate>
-    <item>
-      <title>Hardware &amp; Firmware Assessment to identify devices with AMD processors</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/hardware-amp-firmware-assessment-to-identify-devices-with-amd/ba-p/3909040</link>
-      <pubDate>Fri, 08 Sep 2023 17:19:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/hardware-amp-firmware-assessment-to-identify-devices-with-amd/ba-p/3909040</guid>
-      <description>&#160;
-About this vulnerability
-In certain cases, within the microarchitecture of "Zen 2" CPUs, a register may not be properly written to 0, potentially leading to the storage of data from another process or thread in the YMM register. This vulnerability could allow an attacker to access sensitive information. The severity is classified as "Medium" with the CVE identifier CVE-2023-20593. AMD suggests implementing a microcode patch for AMD EPYC&#8482; 7002 Processors and applying BIOS updates with specific AGESA&#8482; firmware versions for other impacted products to mitigate this issue. AMD intends to provide ...</description>
-    </item>
+    <lastBuildDate>Fri, 08 Sep 2023 19:01:02 GMT</lastBuildDate>
   </channel>
 </rss>
