@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Sep 2023 00:23:28 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Purview Data Map Audit History {Private Preview}</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-map-audit-history-private-preview/ba-p/3921587</link>
-      <pubDate>Thu, 07 Sep 2023 23:19:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-map-audit-history-private-preview/ba-p/3921587</guid>
-      <description>We are excited to announce private preview of Audit history feature in Microsoft Purview&#160;
-&#160;
-When a user updates an asset in Microsoft Purview, data map history logs that change and makes the information available in the Microsoft Purview portal. Information about who added or edited an asset, what edits were made, and when the edit happened, is stored for reference later. This information helps data auditors and business owners to maintain compliance and security in their Microsoft Purview accounts. It also allows data stewards and admins to debug issues and curation in their data assets.
-&#160;
-Da...</description>
-    </item>
+    <lastBuildDate>Fri, 08 Sep 2023 01:39:16 GMT</lastBuildDate>
   </channel>
 </rss>
