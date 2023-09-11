@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Sep 2023 12:09:15 GMT</lastBuildDate>
-    <item>
-      <title>AKS Egress Traffic demystified</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-egress-traffic-demystified/ba-p/3923909</link>
-      <pubDate>Mon, 11 Sep 2023 11:10:37 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-egress-traffic-demystified/ba-p/3923909</guid>
-      <description>AKS Egress Traffic with Load Balancer, NAT Gateway, and User Defined Route
-&#160;
-Introduction
-Welcome to this lab where we will explore the different outbound types in Azure Kubernetes Service (AKS). Outbound traffic refers to the network traffic that originates from a pod or node in a cluster and is destined for external destinations. Outbound traffic will leave the cluster through one of the supported load balancing solutions for egress. These solutions are the outbound types in AKS.
-There are four outbound types.1. Load Balancer (default)2. Managed NAT Gateway3. User defined NAT Gateway4. User ...</description>
-    </item>
+    <lastBuildDate>Mon, 11 Sep 2023 13:08:22 GMT</lastBuildDate>
   </channel>
 </rss>
