@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Sep 2023 20:00:46 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Purview DevOps policies for Azure SQL MI enters Public Preview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-for-azure-sql-mi-enters-public/ba-p/3925690</link>
-      <pubDate>Tue, 12 Sep 2023 19:33:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-for-azure-sql-mi-enters-public/ba-p/3925690</guid>
-      <description>Access to system metadata is crucial for IT and DevOps personnel to ensure that critical database systems are healthy, performing to expectations, and secure. You can grant and revoke that access efficiently and at scale through Microsoft Purview DevOps policies.
-&#160;
-Microsoft Purview DevOps policies already support integrations with Azure SQL Database (GA) and SQL Server 2022 via Azure Arc (GA). DevOps policies is already Generally Available (GA) for those two data sources.&#160;I am pleased to announce that today we are adding one more data source to the list: Azure SQL Managed Instance into Public...</description>
-    </item>
+    <lastBuildDate>Tue, 12 Sep 2023 21:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
