@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Sep 2023 16:02:08 GMT</lastBuildDate>
-    <item>
-      <title>How Tenant Restrictions v2 Can be Used to Prevent Data Exfiltration</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/how-tenant-restrictions-v2-can-be-used-to-prevent-data/ba-p/3915339</link>
-      <pubDate>Wed, 13 Sep 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/how-tenant-restrictions-v2-can-be-used-to-prevent-data/ba-p/3915339</guid>
-      <description>In a previous blog, we introduced Continuous Access Evaluation&#8239;(CAE) - a product that brings Zero Trust principles to session management. Today we would like to discuss securing cross-tenant access with a focus on preventing data exfiltration.&#160;
-&#160;
-It&#8217;s impossible to imagine a successful modern organization that doesn&#8217;t collaborate with partners across organizational boundaries. While cross-company collaboration empowers employees and enables partnerships, it also lowers barriers for both accidental and malicious data exfiltration. Microsoft Cross-Tenant Access Settings is designed to address se...</description>
-    </item>
+    <lastBuildDate>Wed, 13 Sep 2023 17:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
