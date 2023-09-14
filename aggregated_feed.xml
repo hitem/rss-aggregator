@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Sep 2023 23:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 00:23:57 GMT</lastBuildDate>
+    <item>
+      <title>The Vital Role of a Service Delivery Manager: Your Defender Experts for XDR Trusted Advisor</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/the-vital-role-of-a-service-delivery-manager-your-defender/ba-p/3926763</link>
+      <pubDate>Wed, 13 Sep 2023 23:12:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/the-vital-role-of-a-service-delivery-manager-your-defender/ba-p/3926763</guid>
+      <description>In the realm of cybersecurity, the terrain of threats is in a constant state of evolution, demanding unwavering dedication from professionals to shield their organizations. However, the complexity of staying updated, adopting a zero-trust approach, and proactively identifying emerging threats often surpasses the capabilities of even the most skilled security teams. This is where managed extended detection and response (MXDR) services come into play, with Microsoft Defender Experts for XDR taking the charge to help our customers augment their SOC with human expertise and AI-powered threat intel...</description>
+    </item>
   </channel>
 </rss>
