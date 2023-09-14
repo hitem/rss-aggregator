@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Sep 2023 15:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 16:01:16 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra ID named leader in KuppingerCole&#8217;s Access Management Leadership Compass</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-named-leader-in-kuppingercole-s-access/ba-p/3827394</link>
+      <pubDate>Thu, 14 Sep 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-named-leader-in-kuppingercole-s-access/ba-p/3827394</guid>
+      <description>We&#8217;re honored that for the second year in a row KuppingerCole has recognized Microsoft Entra ID as an Overall Leader in the 2023 Leadership Compass for Access Management. This is the highest distinction that KuppingerCole grants to an identity and access management solution, writing that &#8220;Microsoft continues to move&#8239;Microsoft Entra ID&#8239;in a positive direction with innovative capabilities&#8221; while awarding us a 5/5 rating in the categories of: security, functionality, deployment, interoperability, and usability.&#8239;&#160;Additionally, Entra ID has been designated as a Product Leader, Innovation Leader, an...</description>
+    </item>
+    <item>
+      <title>Windows 365 Enterprise &#8211; Points of Clarification and PoC Proven Practices</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-enterprise-points-of-clarification-and-poc-proven/ba-p/3927525</link>
+      <pubDate>Thu, 14 Sep 2023 15:07:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-enterprise-points-of-clarification-and-poc-proven/ba-p/3927525</guid>
+      <description>Hi folks &#8211; Mike Hildebrand here, coming to you live from sunny St. Louis, MO.&#160; Summer is winding down here; it&#8217;s mid-September and the dog and I once again have the house to ourselves.&#160; I guess something about the peace and quiet activates the &#8216;time for a blog&#8217; part of my brain.&#160; Today, I&#8217;ll chat with you all a bit about the popular Windows 365 Enterprise (W365) service and the Cloud PC (CPC).
+&#160;
+There continues to be a great deal of interest in this service and we continued to add helpful and unique capabilities such as W365 Boot - W365 Switch &#8211; W365 Frontline and this one is SUPER neat &#8211; it l...</description>
+    </item>
   </channel>
 </rss>
