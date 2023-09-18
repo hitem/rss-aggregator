@@ -3,41 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Sep 2023 16:01:11 GMT</lastBuildDate>
-    <item>
-      <title>Basic cyber hygiene prevents 98% of attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856</link>
-      <pubDate>Mon, 18 Sep 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856</guid>
-      <description>In today's digital era, businesses rely heavily on technology and online systems. To help safeguard against cyber threats and ensure business continuity, maintaining basic cyber hygiene is imperative. Adhering to basic security hygiene can protect against 98% of attacks.1
-&#160;
-
-&#160;
-&#160;
-Here are five key standards every organization should adopt:
-&#160;
-
-Require phishing-resistant multifactor authentication (MFA):
-
-Enable MFA to help prevent 99.9% of attacks on your accounts.2
-Opt for MFA options with minimal user friction, like biometrics or FIDO2 compliant factors such as Feitan or Yubico security keys.
-...</description>
-    </item>
-    <item>
-      <title>Microsoft Entra Internet Access: An Identity-Centric Secure Web Gateway Solution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-internet-access-an-identity-centric-secure-web/ba-p/3922548</link>
-      <pubDate>Mon, 18 Sep 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-internet-access-an-identity-centric-secure-web/ba-p/3922548</guid>
-      <description>In our previous blog, we introduced Microsoft&#8217;s identity-centric security service edge (SSE) solution and two new services: Microsoft Entra Private Access and Microsoft Entra Internet Access. This blog continues the series around Microsoft&#8217;s new SSE solution, where we&#8217;ll take a deeper look into the Microsoft Entra Internet Access, currently in public preview for Microsoft 365 scenarios, and soon-to-be available in public preview for all internet traffic.&#8239;
-&#160;
-As digital transformation and the rise of hybrid work drive broad adoption of modern software-as-a-service (SaaS) applications, and work-f...</description>
-    </item>
-    <item>
-      <title>Respond to threats across tenants more effectively with Microsoft 365 Defender multi-tenant support</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174</link>
-      <pubDate>Mon, 18 Sep 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174</guid>
-      <description>Multi-tenant environments add an additional layer of complexity to today&#8217;s ever-evolving threat landscape. Whether organizations have grown through acquisition, or have strategically implemented multi-tenant setups, navigating across multiple environments is no small task. Mundane and repetitive tasks require security operations center (SOC) teams to log in and out of each customer environment individually. This not only consumes valuable time but also reduces the overall efficiency of the SOC teams. To improve efficiency and stay ahead of modern attacks, SOC teams need an efficient yet compre...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Sep 2023 17:01:22 GMT</lastBuildDate>
   </channel>
 </rss>
