@@ -3,6 +3,30 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 17 Sep 2023 23:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 00:24:52 GMT</lastBuildDate>
+    <item>
+      <title>Another way to personalize multiple threshold in Log Analytics Alerts</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/another-way-to-personalize-multiple-threshold-in-log-analytics/ba-p/3928827</link>
+      <pubDate>Mon, 18 Sep 2023 00:01:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/another-way-to-personalize-multiple-threshold-in-log-analytics/ba-p/3928827</guid>
+      <description>Hi all,
+This article has been created for a customer that wants to be able to create an alert for customized thresholds for each existing server and performance counter.&#160; If there is no specific server, the alert need to use a generic threshold.
+&#160;
+The are some ways that you can take to achieve this goal. This allows you to put all the logic in the Kusto query. The solution is composed by:
+&#160;
+
+CSV file
+PowerShell script
+Custom log table
+Amazing Log Kusto query
+
+&#160;
+
+&#160;
+&#160;
+Those are the main steps:
+
+CSV file : this file will contain all the details of threshold, server name, counter name , threshold ...</description>
+    </item>
   </channel>
 </rss>
