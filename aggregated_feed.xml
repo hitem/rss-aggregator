@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Sep 2023 20:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 21:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Security baseline for Microsoft Edge version 117</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-117/ba-p/3930862</link>
+      <pubDate>Mon, 18 Sep 2023 20:24:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-117/ba-p/3930862</guid>
+      <description>We are pleased to announce the enterprise-ready release of the security baseline for Microsoft Edge version 117!
+We have reviewed the settings in Microsoft Edge version 117 and updated our guidance with the addition of one setting. A new Microsoft Edge security baseline package was just released to the Download Center. You can download the new package from the Security Compliance Toolkit.
+&#160;
+Automatically open downloaded MHT or MHTML files from the web in Internet Explorer mode (Added)
+Automatically opening anything in Internet Explorer Mode is dangerous. An attacker on the internet could explo...</description>
+    </item>
   </channel>
 </rss>
