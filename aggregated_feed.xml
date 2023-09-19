@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Sep 2023 21:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 22:01:02 GMT</lastBuildDate>
+    <item>
+      <title>A day in the life of a Defender Experts for XDR analyst</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/a-day-in-the-life-of-a-defender-experts-for-xdr-analyst/ba-p/3932140</link>
+      <pubDate>Tue, 19 Sep 2023 21:58:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/a-day-in-the-life-of-a-defender-experts-for-xdr-analyst/ba-p/3932140</guid>
+      <description>Introduction
+This June Microsoft officially launched Defender Experts for XDR, a new first-party managed extended detection and response (MXDR) service. Since public preview of the service was announced last November, a frequently asked question has been &#8220;What actually happens in a day in the life of a Defender Experts analyst?&#8221; We can reveal that the analyst team spends their days in customer environments investigating and responding to incidents, threat hunting, and providing guidance on overarching security posture improvements. In fact, we even have a real-life Defender Experts analyst her...</description>
+    </item>
   </channel>
 </rss>
