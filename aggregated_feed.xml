@@ -3,27 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Sep 2023 19:01:07 GMT</lastBuildDate>
-    <item>
-      <title>Announcing device isolation support for Linux</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-device-isolation-support-for-linux/ba-p/3676400</link>
-      <pubDate>Tue, 19 Sep 2023 18:52:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-device-isolation-support-for-linux/ba-p/3676400</guid>
-      <description>Overview&#160;
-We are excited to announce public preview of device isolation for Microsoft Defender for Endpoint on Linux devices both manually through the Microsoft 365 Defender portal and using APIs.
-&#160;
-Some attack scenarios may require you to isolate a device from the network. This action can help prevent the attacker from controlling the compromised device and performing further activities such as data exfiltration and lateral movement.&#160;Just like in Windows devices, this device isolation feature disconnects the compromised device from the network while retaining connectivity to the Defender for ...</description>
-    </item>
-    <item>
-      <title>Azure AD Rename Rollout and Resources</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-rename-rollout-and-resources/ba-p/2520432</link>
-      <pubDate>Tue, 19 Sep 2023 18:17:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-rename-rollout-and-resources/ba-p/2520432</guid>
-      <description>&#160;
-
-The rename of Azure Active Directory (Azure AD) to Microsoft Entra ID is now rolling across content and product experiences from Microsoft, as per the implementation timeline outlined in the Azure AD rename announcement on July 11th. We expect the majority of text updates to be completed by mid-November of this year, and updates for on-premises software to be completed in 2024. Partners, analysts, and influencers have also started using the Microsoft Entra ID name in place of Azure AD.
-&#160;
-Along with the new product name and the icon appearing in Microsoft Azure, Azure Marketplace, Microsoft ...</description>
-    </item>
+    <lastBuildDate>Tue, 19 Sep 2023 20:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
