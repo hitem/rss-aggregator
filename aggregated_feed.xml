@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Sep 2023 16:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 17:01:10 GMT</lastBuildDate>
+    <item>
+      <title>An introduction to Microsoft Defender EASM&#8217;s Data Connections functionality</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/an-introduction-to-microsoft-defender-easm-s-data-connections/ba-p/3931727</link>
+      <pubDate>Tue, 19 Sep 2023 16:32:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/an-introduction-to-microsoft-defender-easm-s-data-connections/ba-p/3931727</guid>
+      <description>Microsoft Defender External Attack Surface Management (EASM) continuously discovers a large amount of up-to-the-minute attack surface data, helping organizations know where their internet-facing assets lie. Connecting and automating this data flow to all our customers&#8217; mission-critical systems that keep their organizations secure is essential to understanding the data holistically and gaining new insights, so organizations can make &#160;&#160;&#160; informed, data-driven decisions.
+&#160;
+In June, we released the new Data Connections feature within Defender EASM, which enables seamless integration into Azure Log...</description>
+    </item>
   </channel>
 </rss>
