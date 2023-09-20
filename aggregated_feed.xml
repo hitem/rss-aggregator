@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 20 Sep 2023 11:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 12:08:51 GMT</lastBuildDate>
+    <item>
+      <title>How to keep track of Defender for Cloud Coverage</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-defender-for-cloud-coverage/ba-p/3932602</link>
+      <pubDate>Wed, 20 Sep 2023 11:34:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-defender-for-cloud-coverage/ba-p/3932602</guid>
+      <description>While Defender for Cloud plans are enabled per subscription, and can become challenging to know which plan has been enabled on which subscription; especially in larger environments. That is why we added the Coverage workbook to Defender for Cloud's Workbook Gallery. While some plans simply need to be enabled, others will have additional dependencies. For example, in Defender CSPM, it is not enough to enable the plan on an Azure subscription, or multicloud connector, you will also want to enable agentless scanning for machines, agentless Kubernetes discovery, sensitive data discovery, and agent...</description>
+    </item>
   </channel>
 </rss>
