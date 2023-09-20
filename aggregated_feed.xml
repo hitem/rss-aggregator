@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 20 Sep 2023 17:01:07 GMT</lastBuildDate>
-    <item>
-      <title>Enforcing and Managing Azure DDoS Protection with Azure Policy</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/enforcing-and-managing-azure-ddos-protection-with-azure-policy/ba-p/3933172</link>
-      <pubDate>Wed, 20 Sep 2023 16:43:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/enforcing-and-managing-azure-ddos-protection-with-azure-policy/ba-p/3933172</guid>
-      <description>Introduction
-In today's interconnected digital landscape, Distributed Denial of Service (DDoS) attacks have become a persistent threat to organizations of all sizes. These attacks can disrupt services, compromise sensitive data, and lead to financial losses. To counter this threat, Microsoft Azure offers robust DDoS protection capabilities. In this blog post, we will explore how organizations can leverage Azure Policy to enforce and manage Azure DDoS Protection, enhancing their security posture and ensuring uninterrupted services.
-&#160;
-The main objective of this post is to equip you with the know...</description>
-    </item>
+    <lastBuildDate>Wed, 20 Sep 2023 18:03:53 GMT</lastBuildDate>
   </channel>
 </rss>
