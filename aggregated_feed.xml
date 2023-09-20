@@ -3,13 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 20 Sep 2023 12:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 13:08:24 GMT</lastBuildDate>
     <item>
-      <title>How to keep track of Defender for Cloud Coverage</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-defender-for-cloud-coverage/ba-p/3932602</link>
-      <pubDate>Wed, 20 Sep 2023 11:34:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-defender-for-cloud-coverage/ba-p/3932602</guid>
-      <description>While Defender for Cloud plans are enabled per subscription, and can become challenging to know which plan has been enabled on which subscription; especially in larger environments. That is why we added the Coverage workbook to Defender for Cloud's Workbook Gallery. While some plans simply need to be enabled, others will have additional dependencies. For example, in Defender CSPM, it is not enough to enable the plan on an Azure subscription, or multicloud connector, you will also want to enable agentless scanning for machines, agentless Kubernetes discovery, sensitive data discovery, and agent...</description>
+      <title>Azure WAF Post Deployment Check - Best Practices</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-post-deployment-check-best-practices/ba-p/3932724</link>
+      <pubDate>Wed, 20 Sep 2023 12:16:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-post-deployment-check-best-practices/ba-p/3932724</guid>
+      <description>Written in collaboration with&#160;@tobiotolorin&#160;
+Introduction &#160;
+&#160;
+Customers using Azure Web Application Firewall (WAF) are often interested in post-deployment steps to ensure they have the best security practices in place in their environment. Although deploying a WAF will protect your web applications from common attacks and improve performance by filtering out malicious traffic, it is recommended to take post-deployment actions to ensure the security and reliability of your web applications. As a post-deployment check, you can ensure the following steps are performed for your web application wit...</description>
     </item>
   </channel>
 </rss>
