@@ -3,15 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Sep 2023 22:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 23:01:14 GMT</lastBuildDate>
     <item>
-      <title>Active Directory Hardening Series - Part 1 &#8211; Disabling NTLMv1</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-1-disabling-ntlmv1/ba-p/3934787</link>
-      <pubDate>Thu, 21 Sep 2023 21:55:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-1-disabling-ntlmv1/ba-p/3934787</guid>
-      <description>Active Directory Hardening Series - Part 1 &#8211; Disabling NTLMv1
+      <title>Fortifying Your Defenses: How Microsoft Sentinel Safeguards Your Organization from BEC Attacks</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/fortifying-your-defenses-how-microsoft-sentinel-safeguards-your/ba-p/3934807</link>
+      <pubDate>Thu, 21 Sep 2023 22:02:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/fortifying-your-defenses-how-microsoft-sentinel-safeguards-your/ba-p/3934807</guid>
+      <description>Business Email Compromise (BEC) attacks continue to be some of the most prevalent and costly attacks facing organizations worldwide. Between April 2022 and April 2023, Microsoft Threat Intelligence detected and investigated 35 million BEC attempts with an adjusted average of 156,000 attempts daily[1]. In just the last 30 days we have observed potential BEC attack related activity in over 150 customers.
 &#160;
-Hello everyone, Jerry Devore back again after to along break from blogging to talk about Active Directory hardening. &#160;In my role at Microsoft, I have found every organization has room to improve when it comes to hardening Active Directory.&#160; Many times, customers are aware of issues but are afraid of unintended impacts if they make a change.&#160; In other words, organizations are getting stuck in the "analysis paralysis" stage.&#160; In this series my goal is to help you understand how to move forward with confidence by better understanding...</description>
+&#160;Microsoft 365 Defender has comprehensive prevention, detection, and disruption options for BEC attacks across Microsoft&#8217;s products and solutions. Using Microsoft Sentinel&#8217;s ability to collect...</description>
     </item>
   </channel>
 </rss>
