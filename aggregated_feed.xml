@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Sep 2023 13:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 14:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Introducing credit monitoring and privacy protection for Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-credit-monitoring-and-privacy-protection-for/ba-p/3931972</link>
+      <pubDate>Thu, 21 Sep 2023 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-credit-monitoring-and-privacy-protection-for/ba-p/3931972</guid>
+      <description>Staying safer online in a modern world
+Where there once was a clear distinction between our online identities and our offline selves, today they are increasingly intertwined. Similarly, where people were previously occasionally offline, today we&#8217;re living in a world of constant connectivity.
+This has brought with it many innovations and improvements to our lives but have also made the risks of cyber attacks seriously disrupting our lives a lot more real.
+A thriller like 1995&#8217;s &#8220;The Net&#8221; might've seemed like a far-fetched scenario when that movie came out nearly 30 years ago, but today people a...</description>
+    </item>
   </channel>
 </rss>
