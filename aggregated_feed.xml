@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Sep 2023 20:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 21:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Catch Defender Experts for XDR on the Ninja Show</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/catch-defender-experts-for-xdr-on-the-ninja-show/ba-p/3933282</link>
+      <pubDate>Thu, 21 Sep 2023 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/catch-defender-experts-for-xdr-on-the-ninja-show/ba-p/3933282</guid>
+      <description>Security teams face talent shortages and are unable to scale their security programs to keep up with their growing attack surface. Managed services can deliver expertise to security teams immediately, help address coverage gaps, and add critical capabilities to jumpstart their SOC. Our Microsoft Defender Experts for XDR managed extended detection and response (MXDR) service can bring expertise to your team quickly to triage, investigate and remediate incidents and improve your security posture.
+&#160;
+Want to learn more? Join Defender Experts for XDR service delivery managers Sebastien Molendijk an...</description>
+    </item>
   </channel>
 </rss>
