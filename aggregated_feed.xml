@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Sep 2023 23:01:14 GMT</lastBuildDate>
-    <item>
-      <title>Fortifying Your Defenses: How Microsoft Sentinel Safeguards Your Organization from BEC Attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/fortifying-your-defenses-how-microsoft-sentinel-safeguards-your/ba-p/3934807</link>
-      <pubDate>Thu, 21 Sep 2023 22:02:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/fortifying-your-defenses-how-microsoft-sentinel-safeguards-your/ba-p/3934807</guid>
-      <description>Business Email Compromise (BEC) attacks continue to be some of the most prevalent and costly attacks facing organizations worldwide. Between April 2022 and April 2023, Microsoft Threat Intelligence detected and investigated 35 million BEC attempts with an adjusted average of 156,000 attempts daily[1]. In just the last 30 days we have observed potential BEC attack related activity in over 150 customers.
-&#160;
-&#160;Microsoft 365 Defender has comprehensive prevention, detection, and disruption options for BEC attacks across Microsoft&#8217;s products and solutions. Using Microsoft Sentinel&#8217;s ability to collect...</description>
-    </item>
+    <lastBuildDate>Fri, 22 Sep 2023 00:24:30 GMT</lastBuildDate>
   </channel>
 </rss>
