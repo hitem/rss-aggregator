@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 22 Sep 2023 06:07:28 GMT</lastBuildDate>
-    <item>
-      <title>Rate Limiting Feature for Azure WAF on Application Gateway now in Preview.</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/rate-limiting-feature-for-azure-waf-on-application-gateway-now/ba-p/3934957</link>
-      <pubDate>Fri, 22 Sep 2023 05:10:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/rate-limiting-feature-for-azure-waf-on-application-gateway-now/ba-p/3934957</guid>
-      <description>Introduction:
-Web applications are often exposed to various types of attacks, such as denial-of-service (DoS), brute force, or credential stuffing. These attacks can overwhelm your application with a large number of requests, affecting its performance and availability. To prevent these attacks, you need a way to detect and block abnormal traffic patterns and limit the rate of requests to your application.
-In this blog post, we will introduce a new feature - Rate limiting for Azure Web Application Firewall on Application Gateway&#160;that is currently in Public Preview. This feature allows you to de...</description>
-    </item>
+    <lastBuildDate>Fri, 22 Sep 2023 07:01:13 GMT</lastBuildDate>
   </channel>
 </rss>
