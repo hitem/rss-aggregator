@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 25 Sep 2023 19:01:10 GMT</lastBuildDate>
-    <item>
-      <title>Test your team&#8217;s security readiness with the Gone Phishing Tournament</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/test-your-team-s-security-readiness-with-the-gone-phishing/ba-p/3931804</link>
-      <pubDate>Mon, 25 Sep 2023 18:19:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/test-your-team-s-security-readiness-with-the-gone-phishing/ba-p/3931804</guid>
-      <description>Test your team&#8217;s security readiness with the Gone Phishing Tournament
-&#160;
-74% of breaches involve the&#160;human element. Let's face it&#8212;technology alone isn't sufficient in the relentless fight against cyber-attacks.
-With AI technology like LLMs becoming more ubiquitous, phishing attacks are getting more sophisticated and cyber-attackers are honing in on the easiest targets: the users.
-From nation-states to basement-dwelling hackers, the strategy is simple yet effective: exploit human behavior to find a way in, then sit back as the defenses fall like dominos.
-Luckily, with all this going on, you don'...</description>
-    </item>
+    <lastBuildDate>Mon, 25 Sep 2023 20:01:18 GMT</lastBuildDate>
   </channel>
 </rss>
