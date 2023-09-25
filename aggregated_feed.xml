@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 25 Sep 2023 08:07:50 GMT</lastBuildDate>
-    <item>
-      <title>Infrastructure as Code Testing with Azure Policy</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/infrastructure-as-code-testing-with-azure-policy/ba-p/3921765</link>
-      <pubDate>Mon, 25 Sep 2023 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/infrastructure-as-code-testing-with-azure-policy/ba-p/3921765</guid>
-      <description>Have you ever wanted to test an ARM template or Bicep template against Azure Policy deployed in your environment &#8211; so that you could determine if the resource was going to be compliant or non-compliant? Or develop some tests against deployed policy to ensure that the policies themselves were working? Until now this would require long testing cycles where resources would be deployed, you would trigger a policy scan and then wait until a result was returned before deciding if the test was successful.
-&#160;
-The post examines how you can use PSRule for Azure and Enterprise Policy as Code (EPAC) togeth...</description>
-    </item>
+    <lastBuildDate>Mon, 25 Sep 2023 09:01:11 GMT</lastBuildDate>
   </channel>
 </rss>
