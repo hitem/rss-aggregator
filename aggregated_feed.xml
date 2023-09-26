@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Sep 2023 14:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 15:01:07 GMT</lastBuildDate>
+    <item>
+      <title>New expanded visibility into multicloud data security in Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-expanded-visibility-into-multicloud-data-security-in/ba-p/3913010</link>
+      <pubDate>Tue, 26 Sep 2023 14:23:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-expanded-visibility-into-multicloud-data-security-in/ba-p/3913010</guid>
+      <description>Co-authors:
+Asaf Nakash&#160;(@Asaf_Nakash), Senior Program Manager, Microsoft Defender for Cloud
+@Catalin Esanu, Senior Program Manager, Microsoft Defender for Cloud
+&#160;
+In recent years we&#8217;ve witnessed an accelerated migration of data to the cloud with data sprawl with security blind spots as unintended consequences. Attackers have turned their attention to finding these &#8220;unknown unknowns&#8221; and easily exploit unintentionally misconfigured and exposed cloud data resources. It should come as no surprise that it&#8217;s more critical than ever to identify where sensitive data exists and is accessed in resourc...</description>
+    </item>
   </channel>
 </rss>
