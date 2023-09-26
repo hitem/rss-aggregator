@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Sep 2023 13:09:04 GMT</lastBuildDate>
-    <item>
-      <title>Optimizing Azure Firewall logging costs</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimizing-azure-firewall-logging-costs/ba-p/3908958</link>
-      <pubDate>Tue, 26 Sep 2023 12:33:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimizing-azure-firewall-logging-costs/ba-p/3908958</guid>
-      <description>
-Introduction
-Last year Microsoft introduced resource specific structured logging in Azure Firewall, it is well documented&#160;here. This year it was announced the general availability as described&#160;here.
-
-In this post I will dive deep and show the expected cost optimization of this new structured logging, and what is causing this saving. I will use a sample record of a network rule log to explain it. Please note that this saving applies only if the sink is Log Analytics.
-
-Log Analytics
-Log Analytics is a widely used logging solution from Microsoft and its main cost driver is the ingestion, measure...</description>
-    </item>
+    <lastBuildDate>Tue, 26 Sep 2023 14:01:20 GMT</lastBuildDate>
   </channel>
 </rss>
