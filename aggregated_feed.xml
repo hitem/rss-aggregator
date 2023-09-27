@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Sep 2023 14:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 15:01:20 GMT</lastBuildDate>
+    <item>
+      <title>Cloud Security Posture Management: Top risks and best practice solutions</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cloud-security-posture-management-top-risks-and-best-practice/ba-p/3938301</link>
+      <pubDate>Wed, 27 Sep 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cloud-security-posture-management-top-risks-and-best-practice/ba-p/3938301</guid>
+      <description>&#160;
+Have you ever thought about the hidden risks behind cloud-native applications and how you can take a proactive approach to mitigating these risks across the development lifecycle? In this episode of the Uncovering Hidden Risks podcast, host Erica Toelle talks to Drew Nicholas, a Microsoft Principal Security Global Belt with in-depth experience as a cloud architect, and Daniela Villarreal a Sr. Product Marketing Manager for Microsoft Defender for Cloud.
+&#160;
+Listen to this episode on your favorite podcast platform:&#160;
+
+Main show page&#160;
+Apple Podcasts&#160;
+Spotify&#160;
+Google Podcasts&#160;
+Amazon&#160;
+RSS Feed&#160;
+
+&#160;
+...</description>
+    </item>
   </channel>
 </rss>
