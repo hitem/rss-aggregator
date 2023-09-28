@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Sep 2023 17:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 18:01:18 GMT</lastBuildDate>
+    <item>
+      <title>Remediate User Risks in Microsoft Entra ID Protection Through On-premises Password Changes</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/remediate-user-risks-in-microsoft-entra-id-protection-through-on/ba-p/3773129</link>
+      <pubDate>Thu, 28 Sep 2023 17:35:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/remediate-user-risks-in-microsoft-entra-id-protection-through-on/ba-p/3773129</guid>
+      <description>A Zero Trust breach prevention strategy based on user risk is critical for organizations in today's digital landscape. However, managing user risks in hybrid environments has posed several challenges. Today, we&#8217;re making it easier to manage user risk in hybrid environments in Microsoft Entra ID Protection (formerly Azure AD Identity Protection) &#8211; on-premises password change can now automatically remediate user risk!
+&#160;
+While we recommend mastering password changes in Entra ID to take advantage of Password Protection, hybrid customers who do password changes on-premises found it challenging to e...</description>
+    </item>
   </channel>
 </rss>
