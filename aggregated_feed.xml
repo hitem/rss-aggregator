@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Sep 2023 15:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 16:01:17 GMT</lastBuildDate>
+    <item>
+      <title>Part 1 - Managing Network Rules by using Azure Tags with Illumio for Microsoft Azure Firewall</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/part-1-managing-network-rules-by-using-azure-tags-with-illumio/ba-p/3940905</link>
+      <pubDate>Thu, 28 Sep 2023 15:51:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/part-1-managing-network-rules-by-using-azure-tags-with-illumio/ba-p/3940905</guid>
+      <description>Written in collaboration between&#160;@andrewmathu&#160;and&#160;@gusmodena
+&#160;
+Introduction
+&#160;
+In today's ever-evolving realm of the present IT infrastructure, where virtualization and cloud computing have become standard practices, the orchestration of firewall rules has evolved into a delicate balancing act between security and adaptability. Traditionally, firewall rules have relied heavily on the use of IP addresses to control access, which, while effective, often proves to be a complex and labor-intensive approach. The moment has arrived to adopt a more streamlined and effective approach that not only bols...</description>
+    </item>
   </channel>
 </rss>
