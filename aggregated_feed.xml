@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Sep 2023 00:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 01:39:48 GMT</lastBuildDate>
+    <item>
+      <title>Enriching Anomali and Other TIPS with MDTI Feeds</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/enriching-anomali-and-other-tips-with-mdti-feeds/ba-p/3898815</link>
+      <pubDate>Thu, 28 Sep 2023 00:26:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/enriching-anomali-and-other-tips-with-mdti-feeds/ba-p/3898815</guid>
+      <description>Prerequisites
+&#160;
+
+Microsoft Sentinel Log Analytics workspace
+Enabled Microsoft Defender Threat Intelligence Data Connector
+Azure Logic Apps
+Microsoft Defender Threat Intelligence API Access and Client App Registered
+Anomali ThreatStream API Credentials
+Access to the MDTI Feed playbook&#160;
+
+&#160;
+Introduction
+&#160;
+Ever-evolving cloud computing innovations have provided immeasurable benefits to individuals and businesses by publicly making technology available. Unfortunately, cybercriminals exploit this availability using a wide range of digital infrastructure to commit their attacks. With this growing dig...</description>
+    </item>
   </channel>
 </rss>
