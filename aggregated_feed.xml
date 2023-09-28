@@ -3,33 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Sep 2023 04:01:14 GMT</lastBuildDate>
-    <item>
-      <title>Azure Firewall Tips from the Field</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-firewall-tips-from-the-field/ba-p/3940170</link>
-      <pubDate>Thu, 28 Sep 2023 04:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-firewall-tips-from-the-field/ba-p/3940170</guid>
-      <description>Introduction&#160;
-Hi folks! My name is Felipe Binotto, Cloud Solution Architect, based in Australia.&#160;
-In this post, I will provide some tips and clarifications about Azure Firewall based on my experience from the field.&#160;
-&#160;
-Topics&#160;
-The following are the topics we are going to discuss.&#160;
-
-Azure Firewall Policy Inheritance&#160;
-Azure Firewall Rule Processing Logic&#160;
-Azure Firewall Rule Collection Group, Rule Collection and Rule naming&#160;
-Azure Firewall DNS&#160;
-Azure Firewall FQDN and URL&#160;
-Azure Firewall Logging&#160;
-IP Groups&#160;
-Inbound and Outbound connections&#160;
-SNAT&#160;
-Infrastructure-as-Code
-
-&#160;
-Rule Processing Logic&#160;
-...</description>
-    </item>
+    <lastBuildDate>Thu, 28 Sep 2023 05:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
