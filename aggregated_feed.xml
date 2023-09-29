@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 29 Sep 2023 17:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 18:01:17 GMT</lastBuildDate>
+    <item>
+      <title>Defending Against UDP Flood Attacks with Azure DDoS Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/defending-against-udp-flood-attacks-with-azure-ddos-protection/ba-p/3941758</link>
+      <pubDate>Fri, 29 Sep 2023 17:59:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/defending-against-udp-flood-attacks-with-azure-ddos-protection/ba-p/3941758</guid>
+      <description>Introduction
+`
+Distributed Denial of Service (DDoS) attacks have become a frequent threat, wreaking havoc on businesses and their online services. These relentless assaults overwhelm network resources, rendering websites and applications inaccessible to genuine users. One such attack vector, the UDP flood, predominantly leverages reflected amplification techniques to magnify its impact, causing not only service interruptions but also significant consumption of network resources. In this blog post, we delve into how Azure DDoS Protection serves as a formidable defense mechanism against such DDo...</description>
+    </item>
   </channel>
 </rss>
