@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Oct 2023 19:00:57 GMT</lastBuildDate>
-    <item>
-      <title>Unlocking Azure Secrets: Using Identities for Key Vault Access</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unlocking-azure-secrets-using-identities-for-key-vault-access/ba-p/3943727</link>
-      <pubDate>Mon, 02 Oct 2023 18:28:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unlocking-azure-secrets-using-identities-for-key-vault-access/ba-p/3943727</guid>
-      <description>Azure Key Vault is essential for securely managing keys, secrets, and certificates. Managed Identities (MI) allow Azure resources to authenticate to any service that supports Azure AD authentication without any credentials in your code. &#160;For those looking to swiftly test Managed Identities for Azure Key Vault access from a Virtual Machine, this blog provides step-by-step implementation details. We will delve into both User Assigned Managed Identity (UAMI) and System Assigned Managed Identity (SAMI), helping you determine the best approach for your needs.
-&#160;
-Prerequisites
-
-An Azure subscription ...</description>
-    </item>
+    <lastBuildDate>Mon, 02 Oct 2023 20:01:11 GMT</lastBuildDate>
   </channel>
 </rss>
