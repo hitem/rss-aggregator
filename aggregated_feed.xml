@@ -3,23 +3,33 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Oct 2023 11:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 12:09:32 GMT</lastBuildDate>
     <item>
       <title>Monthly news - October 2023</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-october-2023/ba-p/3943236</link>
-      <pubDate>Mon, 02 Oct 2023 10:22:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-october-2023/ba-p/3943236</guid>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2023/ba-p/3942602</link>
+      <pubDate>Mon, 02 Oct 2023 11:32:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2023/ba-p/3942602</guid>
       <description>
 
 
 
-Microsoft 365 DefenderMonthly newsOctober 2023 Edition
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+October 2023 Edition
 
 
 
 
 
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from September 2023.&#160;&#160;
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from September 2023.
 
 
 
@@ -33,7 +43,7 @@ Legend:
 
 Product videos
 
-Webcast (recordings)
+Webcasts (recordings)
 
 Docs on Microsoft
 
@@ -43,11 +53,11 @@ Blogs on Microsoft
 
 GitHub
 
-External
+External content
 
 Product improvements
 
-Previews / Announcements
+Announcements
 
 
 
@@ -58,16 +68,13 @@ Previews / Announcements
 
 
 
-Microsoft 365 Defender
+&#160;Microsoft Defender for Cloud
 
 
 
+&#160;
 
-
-
-
-
-Respond to threats across tenants more effectively with Microsoft 365 Defender multi-tenant support.&#160;...</description>
+The data security dashboard is now available in public preview as part of the Defender CSPM plan. The data securi...</description>
     </item>
   </channel>
 </rss>
