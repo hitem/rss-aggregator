@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Oct 2023 06:07:24 GMT</lastBuildDate>
-    <item>
-      <title>What&#8217;s New: Introducing Microsoft Sentinel Web Session Essentials Solution.</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-microsoft-sentinel-web-session-essentials/ba-p/3925274</link>
-      <pubDate>Tue, 03 Oct 2023 05:51:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-microsoft-sentinel-web-session-essentials/ba-p/3925274</guid>
-      <description>Thank you for liking and using both our ASIM based domain solutions, Network session and DNS essentials. Today, we are announcing the new web session Essentials solution in Public Preview. This is a domain solution and third Microsoft Sentinel solution to leverage Advanced Security Information Model (ASIM). This solution provides a set of generic OOTB (out-of-the-box) content for different products like web server, web proxies and web security gateways that provide web session data currently the solution supports &#160;11 vendor solutions that gathers web session level logs and services which inclu...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Oct 2023 07:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
