@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Oct 2023 16:02:12 GMT</lastBuildDate>
-    <item>
-      <title>Using advanced hunting to secure OAuth apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/using-advanced-hunting-to-secure-oauth-apps/ba-p/3939832</link>
-      <pubDate>Tue, 03 Oct 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/using-advanced-hunting-to-secure-oauth-apps/ba-p/3939832</guid>
-      <description>The use of SaaS applications has become widespread in businesses of all sizes. With more SaaS apps in use, there are more potential targets for attackers. They frequently exploit centralized user authentication systems targeting unaware users with phishing attacks. Attackers can take advantage of this lack of awareness to trick users into authorizing malicious apps, steal credentials and gain access to multiple services. Attack techniques are getting more sophisticated and frequent exploits of poorly designed of SaaS applications are on the rise. &#160;
-&#160;
-In this blog, we'll demonstrate how SOC tea...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Oct 2023 17:01:01 GMT</lastBuildDate>
   </channel>
 </rss>
