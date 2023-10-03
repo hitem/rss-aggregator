@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Oct 2023 19:01:02 GMT</lastBuildDate>
-    <item>
-      <title>Just-in-time access to groups and Conditional Access integration in Privileged Identity Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/just-in-time-access-to-groups-and-conditional-access-integration/ba-p/2466926</link>
-      <pubDate>Tue, 03 Oct 2023 18:04:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/just-in-time-access-to-groups-and-conditional-access-integration/ba-p/2466926</guid>
-      <description>As part of our mission to enable customers to manage access with least privilege, we&#8217;re excited to announce the general availability of two additions to Microsoft Entra Privileged Identity Management (PIM): PIM for Groups and PIM integration with Conditional Access.
-&#160;
-Just-in-time access to privileged roles&#160;with PIM for groups
-&#160;
-Part of Microsoft Entra ID Governance and Microsoft Entra ID P2, PIM enables you to manage just-in-time access to privileged roles in Microsoft Entra, Microsoft 365 services, and Azure.
-With the new just-in-time group membership capability, you can now further simplify...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Oct 2023 20:01:14 GMT</lastBuildDate>
   </channel>
 </rss>
