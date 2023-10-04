@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Oct 2023 16:01:29 GMT</lastBuildDate>
-    <item>
-      <title>Keep Microsoft Teams meetings compliant with Communication Compliance</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-microsoft-teams-meetings-compliant-with-communication/ba-p/3933446</link>
-      <pubDate>Wed, 04 Oct 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-microsoft-teams-meetings-compliant-with-communication/ba-p/3933446</guid>
-      <description>In today&#8217;s digital age, collaboration platforms like Microsoft Teams have become the norm for businesses to communicate, stay connected, and share information. However, as organizations increasingly rely on these platforms, there has also been a surge in regulatory compliance and business conduct violations that occur on these platforms. Collaboration and messaging apps are one of the top three sources and that&#8217;s concerning. Many organizations, particularly financial institutions, healthcare providers, and other regulated industries face significant legal and reputational risks if non-complian...</description>
-    </item>
+    <lastBuildDate>Wed, 04 Oct 2023 17:01:20 GMT</lastBuildDate>
   </channel>
 </rss>
