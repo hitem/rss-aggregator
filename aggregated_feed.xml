@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Oct 2023 06:07:31 GMT</lastBuildDate>
-    <item>
-      <title>Mobile Application Management on Windows 11</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mobile-application-management-on-windows-11/ba-p/3944144</link>
-      <pubDate>Thu, 05 Oct 2023 06:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mobile-application-management-on-windows-11/ba-p/3944144</guid>
-      <description>Introduction
-&#160;
-Intune is very well known for its ability to manage both devices (aka. MDM) and applications (aka.MAM). The core difference between these two options lies back to the level of management that companies require, or employees accept.
-While MDM is seen an appropriate way to manage company-owned devices or a full zero trust environment; MAM is useful when a company wants to make sure employees can use their personal devices to run applications that access to company data, and limit what can be done with that data. From that perspective, it can improve zero trust posture of a company...</description>
-    </item>
+    <lastBuildDate>Thu, 05 Oct 2023 07:01:15 GMT</lastBuildDate>
   </channel>
 </rss>
