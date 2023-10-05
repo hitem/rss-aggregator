@@ -3,31 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Oct 2023 17:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 18:01:13 GMT</lastBuildDate>
     <item>
-      <title>Utilize Microsoft Learn during exams and discover community in Security.</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/utilize-microsoft-learn-during-exams-and-discover-community-in/ba-p/3945471</link>
-      <pubDate>Thu, 05 Oct 2023 16:36:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/utilize-microsoft-learn-during-exams-and-discover-community-in/ba-p/3945471</guid>
-      <description>Leverage Microsoft Learn to help you complete your role-based certification exams.
+      <title>Unveiling digital threats: East Asia&#8217;s emerging threat landscape</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unveiling-digital-threats-east-asia-s-emerging-threat-landscape/ba-p/3945766</link>
+      <pubDate>Thu, 05 Oct 2023 17:32:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unveiling-digital-threats-east-asia-s-emerging-threat-landscape/ba-p/3945766</guid>
+      <description>
 &#160;
-With Microsoft Learn, anyone can master core concepts at their speed and on their schedule.&#160;You can now&#160;access&#8239;Microsoft Learn&#8239;as a resource to help you complete your Microsoft Certification exams. This resource will be available in SC-100, SC-200, SC-300, SC-400, and other role-based exams in all languages.&#160;
+In a recent report from the Microsoft Threat Analysis Center (MTAC), we delve into the evolving threat landscape originating from East Asia, with a specific focus on China, which conducts widespread cyber and influence operations (IO), and North Korean cyber threat actors, who are demonstrating increased sophistication. As the cyber threat landscape continues to evolve, so do the strategies and tactics employed in these regions.
 &#160;
-Here's what you need to know about this new resource:&#160;
+Here are some key takeaways:
 
-Access to everything in the learn.microsoft.com domain except Q&amp;A and your profile.&#160;
-No extra time will be added to complete the exam.&#160;
-The exam t...</description>
-    </item>
-    <item>
-      <title>Proactively secure your Google Cloud Resources with Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-secure-your-google-cloud-resources-with-microsoft/ba-p/3946460</link>
-      <pubDate>Thu, 05 Oct 2023 16:14:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-secure-your-google-cloud-resources-with-microsoft/ba-p/3946460</guid>
-      <description>Introduction&#8239;&#160;
-In today's digital landscape, where over 90 percent of organizations have embraced multicloud1&#160;&#160;solutions, security teams face the growing complexity of maintaining robust security controls and cloud security posture across multi-cloud environments. Microsoft Defender for Cloud&#8239;offers protection for cloud infrastructure, applications, and data providing a single contextual view of cloud risks across Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).&#160;
-&#160;
-According to the Google Cloud Threat Horizons Report, credential theft accounted for over 60% of compromise fact...</description>
+Chinese cyber operations: China has significantly intensified its cyber activities, targeting regions such as the South China Sea, t...</description>
     </item>
   </channel>
 </rss>
