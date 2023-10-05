@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Oct 2023 18:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Unveiling digital threats: East Asia&#8217;s emerging threat landscape</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unveiling-digital-threats-east-asia-s-emerging-threat-landscape/ba-p/3945766</link>
-      <pubDate>Thu, 05 Oct 2023 17:32:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unveiling-digital-threats-east-asia-s-emerging-threat-landscape/ba-p/3945766</guid>
-      <description>
-&#160;
-In a recent report from the Microsoft Threat Analysis Center (MTAC), we delve into the evolving threat landscape originating from East Asia, with a specific focus on China, which conducts widespread cyber and influence operations (IO), and North Korean cyber threat actors, who are demonstrating increased sophistication. As the cyber threat landscape continues to evolve, so do the strategies and tactics employed in these regions.
-&#160;
-Here are some key takeaways:
-
-Chinese cyber operations: China has significantly intensified its cyber activities, targeting regions such as the South China Sea, t...</description>
-    </item>
+    <lastBuildDate>Thu, 05 Oct 2023 19:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
