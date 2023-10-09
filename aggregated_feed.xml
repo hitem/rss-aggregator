@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Oct 2023 06:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2023 07:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Quick-Start Guide to Azure Private Endpoints with AKS &amp; Storage</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-start-guide-to-azure-private-endpoints-with-aks-amp/ba-p/3943803</link>
+      <pubDate>Mon, 09 Oct 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-start-guide-to-azure-private-endpoints-with-aks-amp/ba-p/3943803</guid>
+      <description>Introduction
+Azure Private Endpoints (PE) offer a robust and secure method for establishing connections via a private link. This blog focuses on utilizing PEs to link a Private Azure Kubernetes Service (AKS) cluster with a Storage account, aiming to assist in quick Proof-of-Concept setups. Although we spotlight the Storage service, the insights can be seamlessly applied to other Azure services. We will explore two specific scenarios for setting up Private Endpoints for AKS to interface with Azure Storage:
+
+A Private Endpoint part of the same Virtual Network (VNet) as AKS and in a distinct subn...</description>
+    </item>
   </channel>
 </rss>
