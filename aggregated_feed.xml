@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Oct 2023 18:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 19:00:59 GMT</lastBuildDate>
+    <item>
+      <title>High severity curl vulnerability: prepare with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/high-severity-curl-vulnerability-prepare-with-microsoft-defender/ba-p/3950812</link>
+      <pubDate>Tue, 10 Oct 2023 18:42:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/high-severity-curl-vulnerability-prepare-with-microsoft-defender/ba-p/3950812</guid>
+      <description>On October 2nd, high severity vulnerabilities in curl were preannounced. The curl project has announced that curl8.4.0 will be released on October 11th, earlier than expected. While the vulnerabilities have yet to be disclosed, it is expected that two vulnerabilities will be released: high-severity CVE-2023-38545 and low-severity CVE-2023-38546. &#160;
+&#160;
+curl is a popular command-line tool and library (libcurl) used to transfer data across network protocols using URL syntax. The library is one of the most widely used open-source projects across most operating systems, including Windows and Linux, a...</description>
+    </item>
   </channel>
 </rss>
