@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Oct 2023 14:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 15:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Elevating communication compliance with Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/elevating-communication-compliance-with-microsoft-purview/ba-p/3948003</link>
+      <pubDate>Tue, 10 Oct 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/elevating-communication-compliance-with-microsoft-purview/ba-p/3948003</guid>
+      <description>Amid a digitally driven business landscape that&#8217;s shaped by technology fusion and hybrid work models, the spotlight on communication compliance shines brighter than ever. Intensified by strict regulations and pervasive cross-platform communication, organizations are navigating a vast amount of data to satisfy communication compliance mandates. These heightened compliance standards also lead to increased penalties. For example, in 2022 the United States Securities and Exchange Commission imposed a combined $1.8 billion in fines on investment banking firms because employees had violated communic...</description>
+    </item>
   </channel>
 </rss>
