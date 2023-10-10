@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Oct 2023 16:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Step-by-Step Guide to Identify Inactive Users by using Microsoft Entra ID Governance Access Reviews</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/step-by-step-guide-to-identify-inactive-users-by-using-microsoft/ba-p/3944705</link>
-      <pubDate>Tue, 10 Oct 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/step-by-step-guide-to-identify-inactive-users-by-using-microsoft/ba-p/3944705</guid>
-      <description>Within an organization, inactive user accounts can persist for various reasons, including former employees, service providers, and service accounts associated with products or services. These accounts may remain inactive temporarily or for extended periods. If an account remains inactive for 90 days or more, it is more likely to remain inactive. It&#8217;s crucial to periodically review these inactive accounts and eliminate any that are unnecessary. Microsoft Entra ID Governance Access Reviews now offers the capability to detect inactive accounts effectively.&#160;
-&#160;
-Using the Entra ID Governance Access ...</description>
-    </item>
+    <lastBuildDate>Tue, 10 Oct 2023 17:01:12 GMT</lastBuildDate>
   </channel>
 </rss>
