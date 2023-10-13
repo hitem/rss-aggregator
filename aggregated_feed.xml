@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 13 Oct 2023 15:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 16:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Graph Activity Log is Now Available in Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-graph-activity-log-is-now-available-in-public-preview/ba-p/3848269</link>
+      <pubDate>Fri, 13 Oct 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-graph-activity-log-is-now-available-in-public-preview/ba-p/3848269</guid>
+      <description>Hi friends,
+&#160;
+Today we&#8217;re excited to announce the public preview of Microsoft Graph Activity Logs. Have you wondered what applications are doing with the access you've granted them? Have you discovered a compromised user and hoped to find out what operations they have performed? If so, you can now gain full visibility into all HTTP requests accessing your tenant&#8217;s resources through the Microsoft Graph API.
+&#160;
+*Note: We're enabling&#160;the feature starting today. Public preview will be available in all regions within two weeks.&#160;
+You&#8217;re currently able to collect SignIn logs to analyze authentication ...</description>
+    </item>
   </channel>
 </rss>
