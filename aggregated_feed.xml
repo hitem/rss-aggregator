@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 15 Oct 2023 22:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Security review for Microsoft Edge version 118</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-118/ba-p/3955123</link>
-      <pubDate>Sun, 15 Oct 2023 21:42:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-118/ba-p/3955123</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 118!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 118 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 117 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 118 introduced 12 new computer settings and 12 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find the...</description>
-    </item>
+    <lastBuildDate>Sun, 15 Oct 2023 23:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
