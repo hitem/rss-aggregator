@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Oct 2023 18:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Defender Definition Updates with ConfigMgr - Part 2 &#8211; How to set it up</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/defender-definition-updates-with-configmgr-part-2-how-to-set-it/ba-p/3955809</link>
-      <pubDate>Mon, 16 Oct 2023 17:12:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/defender-definition-updates-with-configmgr-part-2-how-to-set-it/ba-p/3955809</guid>
-      <description>Hello everyone!
-I'm Stefan R&#246;ll, Cloud Solution Architect at Microsoft Germany for Microsoft Intune and Configuration Manager.
-Here is Part 2 of my Blog Defender Definition Updates with ConfigMgr - Part 1 - Learnings from the Field
-&#160;
-Currently Defender Definition Updates are called Security Intelligence Update for Windows Defender Antivirus. To keep it consistent with Part 1 of my Blog, I will keep calling them Definition Updates &#8211; The updates that are released multiple times per day.
-&#160;
-Check Settings of your Software Update Point
-In the ConfigMgr Console go to Administration =&gt; Site Configura...</description>
-    </item>
+    <lastBuildDate>Mon, 16 Oct 2023 19:01:09 GMT</lastBuildDate>
   </channel>
 </rss>
