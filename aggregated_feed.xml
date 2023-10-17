@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Oct 2023 19:00:52 GMT</lastBuildDate>
-    <item>
-      <title>Celebrate 20 years of Cybersecurity Awareness Month with Microsoft</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/celebrate-20-years-of-cybersecurity-awareness-month-with/ba-p/3953488</link>
-      <pubDate>Tue, 17 Oct 2023 18:53:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/celebrate-20-years-of-cybersecurity-awareness-month-with/ba-p/3953488</guid>
-      <description>This year marks the twentieth anniversary of Cybersecurity Awareness Month, which signifies a global movement where Microsoft collaboration with organizations across the world to amplify the importance of being cyber smart. The focus of this moment is reinforcing the critical role of cybersecurity best practices and raising awareness that people, not technology, are organizations&#8217; first and last lines of defense against cyber threats.
-&#160;
-With data breaches resulting in staggering costs and phishing attacks occurring at astonishing speed, it is vital to emphasize the importance of helping people...</description>
-    </item>
+    <lastBuildDate>Tue, 17 Oct 2023 20:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
