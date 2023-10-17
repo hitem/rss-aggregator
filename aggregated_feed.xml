@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Oct 2023 22:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 23:01:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender Cloud Now Supports CIS Azure Security Foundations Benchmark 2.0.0</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-cloud-now-supports-cis-azure-security/ba-p/3944860</link>
+      <pubDate>Tue, 17 Oct 2023 22:05:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-cloud-now-supports-cis-azure-security/ba-p/3944860</guid>
+      <description>&#160;
+We are thrilled to announce that Microsoft Defender Cloud, in collaboration with the&#160;Center for Internet Security&#160;(CIS), now supports the latest&#160;CIS Azure Security Foundations Benchmark - version 2.0.0. This release also includes the new corresponding built-in policy initiative in the Azure Policy blade. &#160;
+&#160;
+
+&#160;
+
+&#160;
+Please refer to our&#160;product documentation&#160;to learn how to add CIS Azure Security Foundations Benchmark 2.0.0&#160;to your dashboard.&#160;
+&#160;
+The release of CIS Azure Security Foundations Benchmark v2.0.0 represents a major version shift of CIS Azure benchmark product support in Azure platfor...</description>
+    </item>
   </channel>
 </rss>
