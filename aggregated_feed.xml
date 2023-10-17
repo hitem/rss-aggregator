@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Oct 2023 16:01:52 GMT</lastBuildDate>
-    <item>
-      <title>Entra ID now enables you to receive emails in your preferred language.</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-id-now-enables-you-to-receive-emails-in-your-preferred/ba-p/3939717</link>
-      <pubDate>Tue, 17 Oct 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-id-now-enables-you-to-receive-emails-in-your-preferred/ba-p/3939717</guid>
-      <description>Hello friends,&#8239;&#8239;&#160;
-&#160;
-We have received feedback from you&#8212;our customers&#8212;about the need to have user level language localization. We understand that users would like to receive notifications that have their text adapted to their local language, customs, and standards.&#160;
-&#160;
-We have added logic to check multiple places for language information to make the best possible choice for what language we should send an email in, and these changes are now generally available for Privileged Identity Management, Access Reviews and Entitlement Management. 
-&#160;
-The new approach is:&#160;
-Figure 1: Diagram showing how the...</description>
-    </item>
+    <lastBuildDate>Tue, 17 Oct 2023 17:01:10 GMT</lastBuildDate>
   </channel>
 </rss>
