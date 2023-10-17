@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Oct 2023 17:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 18:06:56 GMT</lastBuildDate>
+    <item>
+      <title>Authenticate Outbound Email to Improve Deliverability</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/authenticate-outbound-email-to-improve-deliverability/ba-p/3956184</link>
+      <pubDate>Tue, 17 Oct 2023 18:03:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/authenticate-outbound-email-to-improve-deliverability/ba-p/3956184</guid>
+      <description>Email authentication is crucial for sending email. It helps protect recipients from malicious messages, such as spoofing and phishing. By setting up email authentication for your domain, you can ensure that your messages are less likely to be rejected or marked as spam by email providers like&#160;Gmail, Yahoo, AOL, Outlook.com. This is especially important when sending&#160;bulk email&#160;(large volume email), as it helps maintain the deliverability and reputation of your email campaigns.&#160;Please note that using Microsoft 365 to send bulk (mass) email is not a supported use of the service (more details belo...</description>
+    </item>
   </channel>
 </rss>
