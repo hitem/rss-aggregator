@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 19 Oct 2023 15:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 16:02:12 GMT</lastBuildDate>
+    <item>
+      <title>Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877</link>
+      <pubDate>Thu, 19 Oct 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877</guid>
+      <description>In a Security Operations Center (SOC), time to resolve and mitigate both alerts and incidents are of the highest importance. This time can mean the difference between controlled risk and impact, and large risk and impact. While our core products detect and respond at machine speed, our ongoing mission is to upskill SOC analysts and empower them to be more efficient where they&#8217;re needed to engage. To bridge this gap, we are bringing Security Copilot into our industry-leading XDR platform, Microsoft 365 Defender, which is like adding the ultimate expert SOC analyst to your team, both raising the...</description>
+    </item>
   </channel>
 </rss>
