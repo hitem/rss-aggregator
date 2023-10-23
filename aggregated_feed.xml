@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Oct 2023 17:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Support for legacy TLS protocols and cipher suites in Azure Offerings</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/support-for-legacy-tls-protocols-and-cipher-suites-in-azure/ba-p/3952099</link>
-      <pubDate>Mon, 23 Oct 2023 16:32:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/support-for-legacy-tls-protocols-and-cipher-suites-in-azure/ba-p/3952099</guid>
-      <description>Overview
-&#160;
-Microsoft Azure services already operate in TLS 1.2-only mode. There are a limited number of services that still allow TLS 1.0 and 1.1 to support customers with legacy needs.&#160; For customers who use services that still support legacy protocol versions and must meet compliance requirements, we have provided instructions on how to ensure legacy protocols and cipher suites are not negotiated. For example, HDInsight provides the minSupportedTlsVersion property as part of the Resource Manager template.&#160; This property supports three values: "1.0", "1.1" and "1.2", which correspond to TLS 1...</description>
-    </item>
+    <lastBuildDate>Mon, 23 Oct 2023 18:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
