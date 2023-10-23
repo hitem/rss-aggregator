@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Oct 2023 15:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 16:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Windows Local Administrator Password Solution with Microsoft Entra ID now Generally Available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/windows-local-administrator-password-solution-with-microsoft/ba-p/3911999</link>
+      <pubDate>Mon, 23 Oct 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/windows-local-administrator-password-solution-with-microsoft/ba-p/3911999</guid>
+      <description>Today we&#8217;re excited to announce the general availability of Windows Local Administrator Password Solution (LAPS) with Microsoft Entra ID and Microsoft Intune. This capability is available for both Microsoft Entra joined and Microsoft Entra hybrid joined devices. It empowers every organization to protect and secure their local administrator account on Windows and mitigate any Pass-the-Hash (PtH) and lateral traversal type of attacks.&#160;
+&#160;
+Since our public preview announcement in April 2023, we&#8217;ve continued to see significant growth in deployment and usage of Windows LAPS across thousands of custo...</description>
+    </item>
   </channel>
 </rss>
