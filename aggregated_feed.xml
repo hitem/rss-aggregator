@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 24 Oct 2023 15:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 16:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Service endpoints vs Private Endpoints</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/service-endpoints-vs-private-endpoints/ba-p/3962134</link>
+      <pubDate>Tue, 24 Oct 2023 15:47:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/service-endpoints-vs-private-endpoints/ba-p/3962134</guid>
+      <description>For a long time, if you were using the multi-tenant, PaaS version on many Azure services, then you had to access them over the internet with no way to restrict access just to your resources. This restriction was primarily down to the complexity of doing this sort of restrictions with a multi-tenant service. At that time, the only way to get this sort of restriction was to look at using single-tenant solutions like App Service Environment or running service yourself in a VM instead of using PaaS.
+This public access was a concern for many, and so Microsoft implemented new services that allow you...</description>
+    </item>
   </channel>
 </rss>
