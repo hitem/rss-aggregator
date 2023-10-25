@@ -3,15 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Oct 2023 16:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 17:01:22 GMT</lastBuildDate>
     <item>
-      <title>Delegate Azure role assignment management using conditions</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/delegate-azure-role-assignment-management-using-conditions/ba-p/3954216</link>
-      <pubDate>Wed, 25 Oct 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/delegate-azure-role-assignment-management-using-conditions/ba-p/3954216</guid>
-      <description>We&#8217;re excited to share the public preview of delegating Azure role assignment management using conditions. This preview gives you the ability to enable others to assign Azure roles but add restrictions on the roles they can assign and who they can assign roles to.&#8239;&#160;
-&#160;
-As the owner of an Azure subscription, you likely get requests from developers to grant them the ability to assign roles in your subscription. You could assign them the Owner or User Access Administrator role, but those roles grant permission to assign any Azure role (including Owner!), and that&#8217;s probably a lot more permission t...</description>
+      <title>Unveil Data Security Paradoxes | Uncovering Hidden Risks Podcast</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unveil-data-security-paradoxes-uncovering-hidden-risks-podcast/ba-p/3962251</link>
+      <pubDate>Wed, 25 Oct 2023 16:39:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unveil-data-security-paradoxes-uncovering-hidden-risks-podcast/ba-p/3962251</guid>
+      <description>There are many industry reports that focus on the cost of data incidents, but have you ever wondered about the best practices to manage security? Microsoft has recently released a new report called the Data Security Index. We partnered with the independent research agency Hypothesis Group to conduct a multinational survey involving more than 800 data security professionals. In this episode of the Uncovering Hidden Risks podcast, host Erica Toelle talks to Herain Oberoi, the General Manager of Data Security, Privacy, and Compliance at Microsoft, about the findings in this research. Also joining...</description>
     </item>
   </channel>
 </rss>
