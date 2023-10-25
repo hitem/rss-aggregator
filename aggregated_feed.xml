@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Oct 2023 15:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 16:01:08 GMT</lastBuildDate>
+    <item>
+      <title>Delegate Azure role assignment management using conditions</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/delegate-azure-role-assignment-management-using-conditions/ba-p/3954216</link>
+      <pubDate>Wed, 25 Oct 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/delegate-azure-role-assignment-management-using-conditions/ba-p/3954216</guid>
+      <description>We&#8217;re excited to share the public preview of delegating Azure role assignment management using conditions. This preview gives you the ability to enable others to assign Azure roles but add restrictions on the roles they can assign and who they can assign roles to.&#8239;&#160;
+&#160;
+As the owner of an Azure subscription, you likely get requests from developers to grant them the ability to assign roles in your subscription. You could assign them the Owner or User Access Administrator role, but those roles grant permission to assign any Azure role (including Owner!), and that&#8217;s probably a lot more permission t...</description>
+    </item>
   </channel>
 </rss>
