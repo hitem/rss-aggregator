@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Oct 2023 18:05:18 GMT</lastBuildDate>
-    <item>
-      <title>Announcing a streamlined device connectivity experience for Microsoft Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-a-streamlined-device-connectivity-experience-for/ba-p/3956236</link>
-      <pubDate>Wed, 25 Oct 2023 18:02:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-a-streamlined-device-connectivity-experience-for/ba-p/3956236</guid>
-      <description>Deploying new security services can be an uphill battle. In the past, engineering teams looking to establish connectivity between endpoints and Defender for Endpoint services had to configure their firewalls and proxies using a more granular list of URLs. Some network devices required the use of static IPs to achieve the same goal. Once deployment was completed, the configured URLs needed to be maintained in case new services were introduced.
-&#160;
-To help simplify device connectivity and management, we are excited to announce a new method that streamlines the device connectivity and onboarding ex...</description>
-    </item>
+    <lastBuildDate>Wed, 25 Oct 2023 19:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
