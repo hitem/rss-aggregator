@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Oct 2023 16:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2023 17:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Learn how to investigate Microsoft Purview Data Loss Prevention alerts in Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-investigate-microsoft-purview-data-loss-prevention/ba-p/3951592</link>
+      <pubDate>Fri, 27 Oct 2023 16:55:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-investigate-microsoft-purview-data-loss-prevention/ba-p/3951592</guid>
+      <description>This is a step-by-step guided walkthrough of the Microsoft Sentinel experience for Microsoft Purview Data Loss Prevention (DLP) incident management. This is based on the open-source connector that can be found here&#160; Learn how to install the open source connector to investigate Microsoft Purview Data Loss Prevention - Microsoft Community Hub .
+&#160;
+Prerequisites
+
+License requirements for Microsoft Purview Information Protection depend on the scenarios and features you use. To understand your licensing requirements and options for Microsoft Purview Information Protection, see the&#160;Information Protec...</description>
+    </item>
+    <item>
+      <title>Learn how to install the open source connector to investigate Microsoft Purview Data Loss Prevention</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-install-the-open-source-connector-to-investigate/ba-p/3951632</link>
+      <pubDate>Fri, 27 Oct 2023 16:53:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-install-the-open-source-connector-to-investigate/ba-p/3951632</guid>
+      <description>This is a step-by-step guided walkthrough of setting up the open-source, Microsoft Purview Data Loss Prevention (DLP) incident management solution for Microsoft Sentinel. Three years ago, we presented the initial version of the connector.
+&#160;
+My colleague&#160;@Alex_Anders&#160;has added slipstreamed deployment and updated the store code to use Data Collection Rules. Another great addition is a Log Analytics function that helps with normalization of the queries. We have improved the code to make use of new and enhanced Sentinel features.&#160;
+&#160;
+This project has adopted the&#160;Microsoft Open Source Code of Conduc...</description>
+    </item>
   </channel>
 </rss>
