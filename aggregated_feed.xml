@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Oct 2023 18:01:10 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Information Protection SDK 1.14: Now Available!</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-information-protection-sdk-1-14-now-available/ba-p/3965606</link>
-      <pubDate>Fri, 27 Oct 2023 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-information-protection-sdk-1-14-now-available/ba-p/3965606</guid>
-      <description>We're pleased to announce that the Microsoft Information Protection SDK version 1.14 is now generally available via&#160;NuGet&#160;and&#160;Download Center.
-&#160;
-In this release of the Microsoft Information Protection SDK, we added support for CBC encryption of Office files by default, upgraded to Open SSL 3.0, added support for masking PII in log files, and more.
-&#160;
-CBC Encryption by default for Office Files
-We've made updates to how MIP SDK encrypts Office files, including Word, Excel, PowerPoint and email documents. Office documents and emails are now encrypted by default using 256-bit AES encryption in CBC ...</description>
-    </item>
+    <lastBuildDate>Fri, 27 Oct 2023 19:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
