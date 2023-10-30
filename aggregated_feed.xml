@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Oct 2023 14:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 15:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Release of Keyword Highlighting &amp; new Business Context Classifier</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/release-of-keyword-highlighting-amp-new-business-context/ba-p/3964690</link>
+      <pubDate>Mon, 30 Oct 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/release-of-keyword-highlighting-amp-new-business-context/ba-p/3964690</guid>
+      <description>We are pleased to announce that Microsoft Purview&#8217;s keyword highlighting feature (currently available for Sensitive Information Types) will soon be generally for built-in trainable classifiers.
+Keyword highlighting allows you to quickly locate the text in your files that trigger positive matches to those trainable classifiers. By being able to rapidly identify the causes of these matches, you can more quickly decide whether further action is necessary. Furthermore, with the addition of keyword highlighting, you can be more confident that the built-in trainable classifiers are truly effective.
+...</description>
+    </item>
   </channel>
 </rss>
