@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 31 Oct 2023 16:02:04 GMT</lastBuildDate>
-    <item>
-      <title>Complete the new 30 Days to Learn It Challenge and explore the new trainings in Security</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/complete-the-new-30-days-to-learn-it-challenge-and-explore-the/ba-p/3966324</link>
-      <pubDate>Tue, 31 Oct 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/complete-the-new-30-days-to-learn-it-challenge-and-explore-the/ba-p/3966324</guid>
-      <description>&#160;Security Operations Analyst: Take the 30 Days to Learn It Cloud Skills Challenge&#8239;&#160;
-&#160;30 Days to Learn It helps technology professionals build skills and start preparing for Microsoft Certifications across a range of topics and solutions, with gamified Cloud Skills Challenges that reward you for timely completion. &#8239;&#160;&#8239;&#160;
-The Security Operations Analyst is for current and aspiring security professionals who want to gain expertise in monitoring, identifying, investigating, and responding to threats by using Microsoft Sentinel, Microsoft 365 Defender, and third-party security solutions. This learnin...</description>
-    </item>
-    <item>
-      <title>Calling Azure Resource APIs from Power Automate using Graph Explorer</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/calling-azure-resource-apis-from-power-automate-using-graph/ba-p/3946147</link>
-      <pubDate>Tue, 31 Oct 2023 15:04:38 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/calling-azure-resource-apis-from-power-automate-using-graph/ba-p/3946147</guid>
-      <description>Introduction
-In today's fast-paced technological landscape, cloud integration and automation have ascended as twin pillars of modern business efficiency. Microsoft's Azure and Power Automate are two titans in this arena, each offering a unique set of capabilities. But what if we could marry the vast cloud resources of Azure with the intuitive workflow automation of Power Automate? In this article, we'll embark on a digital journey to explore how you can seamlessly call Azure Resource APIs from Power Automate, unlocking new vistas of potential for your business processes. Whether you're an Azur...</description>
-    </item>
+    <lastBuildDate>Tue, 31 Oct 2023 17:01:13 GMT</lastBuildDate>
   </channel>
 </rss>
