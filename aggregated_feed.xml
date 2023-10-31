@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 31 Oct 2023 18:02:51 GMT</lastBuildDate>
-    <item>
-      <title>Windows 11, version 23H2 security baseline</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-23h2-security-baseline/ba-p/3967618</link>
-      <pubDate>Tue, 31 Oct 2023 17:18:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-23h2-security-baseline/ba-p/3967618</guid>
-      <description>Microsoft is pleased to announce the release of the security baseline package for Windows 11, version 23H2!
-&#160;
-Please download the content from the Microsoft Security Compliance Toolkit, test the recommended configurations, and customize / implement as appropriate.
-&#160;
-This release includes several changes to further assist in the security of enterprise customers. Changes have been made to provide additional protections to the local admin account, Microsoft Defender Antivirus updates, and a new setting in response to an MSRC bulletin.
-&#160;
-Re-introducing the Local Administrator Password Solution (LA...</description>
-    </item>
+    <lastBuildDate>Tue, 31 Oct 2023 19:00:56 GMT</lastBuildDate>
   </channel>
 </rss>
