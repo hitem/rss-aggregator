@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 31 Oct 2023 20:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 21:00:52 GMT</lastBuildDate>
+    <item>
+      <title>Simplified deployment with Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplified-deployment-with-defender-for-identity/ba-p/3966035</link>
+      <pubDate>Tue, 31 Oct 2023 20:50:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplified-deployment-with-defender-for-identity/ba-p/3966035</guid>
+      <description>Introduction
+Microsoft Defender for Identity is an essential part of a modern security practice, helping your organization protect against,&#160;and respond to, identity-based threats.&#160;In this blog we will show you the simple steps for deploying Microsoft Defender for Identity within your environment.
+&#160;
+Before we get into the deployment overview however, let&#8217;s quickly cover some of the benefits of deploying Defender for Identity:
+
+Reduce your attack surface - Understand your Identity risk posture to proactively minimize exposure to attacks.
+Detect threats in real time - Be alerted to suspicious act...</description>
+    </item>
   </channel>
 </rss>
