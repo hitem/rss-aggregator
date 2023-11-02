@@ -3,6 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 Nov 2023 12:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 13:07:18 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - November 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-november-2023/ba-p/3970796</link>
+      <pubDate>Thu, 02 Nov 2023 12:30:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-november-2023/ba-p/3970796</guid>
+      <description>
+
+
+
+Microsoft 365 DefenderMonthly newsNovember 2023 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from October 2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft 365 Defender
+
+
+
+
+
+
+
+
+Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity.&#160;(Preview)&#160;Microsoft Security...</description>
+    </item>
   </channel>
 </rss>
