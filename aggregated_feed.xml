@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 03 Nov 2023 18:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 20:01:10 GMT</lastBuildDate>
+    <item>
+      <title>E2E Bootstrap Solution for Malicious File Scanning Using Microsoft Defender for Storage in Azure</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/e2e-bootstrap-solution-for-malicious-file-scanning-using/ba-p/3972370</link>
+      <pubDate>Fri, 03 Nov 2023 18:29:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/e2e-bootstrap-solution-for-malicious-file-scanning-using/ba-p/3972370</guid>
+      <description>This blog post elucidates one of the architectural patterns that can be employed for efficiently monitoring the malware scan status while utilizing Microsoft Defender for storage malware scanning.
+Real-world Scenario:
+&#160;
+In a typical complex web application, file uploads are a common occurrence across various application scenarios (for instance an application responsible for handling employee payroll may have one module accepting proof of identity documents from employees for personal information updates and other module handling employee reimbursement requests based on the uploaded expense rec...</description>
+    </item>
   </channel>
 </rss>
