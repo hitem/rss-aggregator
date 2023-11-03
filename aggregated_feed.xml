@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 03 Nov 2023 15:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 16:02:05 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra ID Governance licensing for business guests</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-licensing-for-business-guests/ba-p/3575579</link>
+      <pubDate>Fri, 03 Nov 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-licensing-for-business-guests/ba-p/3575579</guid>
+      <description>Thousands of customers have tested or deployed Microsoft Entra ID Governance since it launched on July 1, 2023, seeing the value in governing the identities of their workforce. Many of those customers have asked about extending this governance to the identities of their business guests&#8212;contractors, partners, and external collaborators&#8212;to more fully follow least privilege access principles while still enabling seamless collaboration.&#160;
+&#160;
+I'm pleased to announce that we're helping organizations to more easily manage this situation by creating a new ID Governance license for business guests. This ...</description>
+    </item>
   </channel>
 </rss>
