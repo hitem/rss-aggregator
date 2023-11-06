@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Nov 2023 22:01:07 GMT</lastBuildDate>
-    <item>
-      <title>What's New: Hash and URL Search Intelligence</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-hash-and-url-search-intelligence/ba-p/3781430</link>
-      <pubDate>Mon, 06 Nov 2023 21:48:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-hash-and-url-search-intelligence/ba-p/3781430</guid>
-      <description>Microsoft Defender Threat Intelligence (Defender TI) now includes File Hash and URL Search capabilities, enabling researchers, analysts, hunters, and security responders to search for high-quality threat intelligence, including verdicts and associated metadata. This feature empowers security professionals to effectively utilize threat intelligence in their threat-hunting and investigation activities.
-&#160;
-Defender TI leverages Microsoft's threat intelligence through static and dynamic analysis of files and URLs within and outside its ecosystem, providing comprehensive coverage of potential threat...</description>
-    </item>
+    <lastBuildDate>Mon, 06 Nov 2023 23:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
