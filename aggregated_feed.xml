@@ -3,6 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Nov 2023 16:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 17:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Emphasizing Security by Default with Advanced Microsoft Authenticator Features.</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/emphasizing-security-by-default-with-advanced-microsoft/ba-p/3773130</link>
+      <pubDate>Mon, 06 Nov 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/emphasizing-security-by-default-with-advanced-microsoft/ba-p/3773130</guid>
+      <description>We&#8216;ve repeatedly emphasized the importance of multifactor authentication (MFA) and emphasized that not all MFA is equal &#8211; the Authenticator is much more secure than phone authentication (so hang up!). Through the implementation of number matching, we've successfully thwarted criminals engaging in MFA fatigue attacks.&#160;
+&#160;
+While this has been very effective, attackers attempting these methods can still annoy users, and Authenticator prompts&#8212;while extremely helpful when a user is trying to log in&#8212;can provide a &#8220;hook&#8221; for social phishing when triggered by a hacker. In response to this, we took addi...</description>
+    </item>
+    <item>
+      <title>Service Delivery Manager Profile: Sachin Kumar</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-sachin-kumar/ba-p/3973959</link>
+      <pubDate>Mon, 06 Nov 2023 16:06:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-sachin-kumar/ba-p/3973959</guid>
+      <description>&#160;
+
+&#160;
+
+
+
+&#160;
+Service Delivery Manager Profile: Sachin Kumar
+Defender Experts for XDR
+
+&#160;
+
+&#160;
+"As an SDM, I am committed to walking this path of security alongside our Defender Experts for XDR customers."
+-Sachin Kumar, Product Manager
+
+&#160;
+
+&#160;
+In the realm of cybersecurity, where digital threats are ever evolving, there are dedicated professionals like Sachin Kumar, who steer organizations towards a more secure future. Sachin is a Service Delivery Manager (SDM) on the Microsoft Defender Experts for XDR service. With a mission to not only mitigate cyberthreats but also foresee them, he plays a vital ro...</description>
+    </item>
   </channel>
 </rss>
