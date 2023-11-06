@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Nov 2023 20:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Enterprise IoT security with Defender for IoT now included in Microsoft 365 E5 and E5 Security plans</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/enterprise-iot-security-with-defender-for-iot-now-included-in/ba-p/3967533</link>
-      <pubDate>Mon, 06 Nov 2023 19:33:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/enterprise-iot-security-with-defender-for-iot-now-included-in/ba-p/3967533</guid>
-      <description>In this evolving digital landscape, more organizations are adopting enterprise IoT (eIoT) to streamline their business processes. According to Transforma Insights, IoT connections are expected to double to 30 billion by 20301. The surge in IoT adoption is expected to outnumber IT devices 3:1 by 20252 and expand the attack service exponentially. Organizations need a security solution that evolves with their existing endpoint security investments and empowers the SOC to secure IT and eIoT devices centrally.
-&#160;
-To help organizations achieve a more holistic endpoint security strategy that traverses...</description>
-    </item>
+    <lastBuildDate>Mon, 06 Nov 2023 21:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
