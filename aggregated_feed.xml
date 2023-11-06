@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Nov 2023 18:06:06 GMT</lastBuildDate>
-    <item>
-      <title>Securing Cloud Resources: Assessing Internet Exposure for Enhanced Defense and Risk Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-resources-assessing-internet-exposure-for/ba-p/3974018</link>
-      <pubDate>Mon, 06 Nov 2023 17:37:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-resources-assessing-internet-exposure-for/ba-p/3974018</guid>
-      <description>Introduction
-Organizations increasingly rely on cloud resources to power their infrastructure and deliver scalable services. However, the internet exposure of these resources introduces security challenges that must be addressed to protect sensitive data and mitigate potential breaches. Assessing the level of internet exposure of cloud resources, such as Virtual Machines (VMs), Storage Accounts, Containers, and Databases, plays a vital role in fortifying defenses and safeguarding against potential breaches.
-In this article, we will delve into the significance of assessing internet exposure as ...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender for Cloud latest protection against sophisticated abuse of Azure VM Extensions</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-latest-protection-against/ba-p/3970121</link>
-      <pubDate>Mon, 06 Nov 2023 17:06:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-latest-protection-against/ba-p/3970121</guid>
-      <description>Introduction
-Throughout recent years, the IT world has shifted its workloads, management layers, and machines to the cloud, thus introducing a new attack surface, accompanied by new attack vectors.&#160;The following introduced a tactic for threat actors to deploy their cyber-attacks against organizations&#8217; cloud environments, gaining strong permissions, operating for financial gain, and more.
-&#160;
-Upon succeeding in compromising an identity with sufficient permissions in Azure, threat actors often try to abuse existing features within the environment that allow them to deploy their malicious activity ...</description>
-    </item>
+    <lastBuildDate>Mon, 06 Nov 2023 19:00:56 GMT</lastBuildDate>
   </channel>
 </rss>
