@@ -3,6 +3,78 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 07 Nov 2023 12:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 13:07:31 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - November 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2023/ba-p/3974568</link>
+      <pubDate>Tue, 07 Nov 2023 12:44:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2023/ba-p/3974568</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+November 2023 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from October 2023.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+&#160;
+
+Microsoft Defender for Cloud now supports the latest CIS Azure Security Foundations Benchmark - version 2.0.0 in t...</description>
+    </item>
   </channel>
 </rss>
