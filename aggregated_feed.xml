@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 07 Nov 2023 16:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 17:01:10 GMT</lastBuildDate>
+    <item>
+      <title>Get insights on identity and network access solutions at Microsoft Ignite, Nov 14-16 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/get-insights-on-identity-and-network-access-solutions-at/ba-p/2520431</link>
+      <pubDate>Tue, 07 Nov 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/get-insights-on-identity-and-network-access-solutions-at/ba-p/2520431</guid>
+      <description>Microsoft Ignite runs from November 15 &#8211; 17, 2023! We&#8217;re looking forward to you joining us online starting at 9:00 AM PDT for the global digital sessions. Even though the in-person passes are no longer available, you can still register for the free digital pass. This will give you access to discover the latest innovations from Microsoft, learn from product experts and partners, and make meaningful connections. We're very happy to bring this global community together and to have everyone join us virtually and in-person!&#160;
+&#8239;&#8239;
+
+&#160;
+Watch and participate in our hybrid sessions&#8239;&#160;
+&#160;
+View our Breakout S...</description>
+    </item>
+    <item>
+      <title>Simplified security settings management is now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplified-security-settings-management-is-now-generally/ba-p/3975158</link>
+      <pubDate>Tue, 07 Nov 2023 16:55:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplified-security-settings-management-is-now-generally/ba-p/3975158</guid>
+      <description>At a time when threats like ransomware are becoming increasingly sophisticated and agile, having device security settings properly configured can be the difference between preventing an attack and experiencing a breach. Misconfigurations account for 21% of all error-related breaches, so security teams need a solution that makes posture management easy.
+&#160;
+Microsoft Defender for Endpoint enables organizations to proactively harden their security configurations, with tailored recommendations for resolving at-risk devices. Today we are excited to announce the General Availability of simplified set...</description>
+    </item>
   </channel>
 </rss>
