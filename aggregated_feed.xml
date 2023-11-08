@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 Nov 2023 13:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 14:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Using Microsoft Defender Threat Intelligence with the Diamond Model for Threat Intelligence</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-microsoft-defender-threat-intelligence-with-the-diamond/ba-p/3976100</link>
+      <pubDate>Wed, 08 Nov 2023 13:23:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-microsoft-defender-threat-intelligence-with-the-diamond/ba-p/3976100</guid>
+      <description>Cybersecurity incidents can be complex and challenging to investigate, requiring advanced tools and techniques to identify the scope of the attack, determine the adversary's tactics and procedures, and develop an effective response strategy. Microsoft Defender Threat Intelligence (MDTI) provides robust tools and features that enable security analysts to quickly investigate incidents and respond to cyber threats by applying the Diamond Model for Intrusion Analysis Framework to threat intelligence.
+&#160;
+The Diamond Model is a framework for understanding cyber threats that was first introduced by Se...</description>
+    </item>
   </channel>
 </rss>
