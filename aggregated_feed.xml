@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 Nov 2023 17:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 18:05:09 GMT</lastBuildDate>
+    <item>
+      <title>Architecture Guidance: How to ingest GCP Firewall\VPC logs into Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architecture-guidance-how-to-ingest-gcp-firewall-vpc-logs-into/ba-p/3974767</link>
+      <pubDate>Wed, 08 Nov 2023 18:02:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architecture-guidance-how-to-ingest-gcp-firewall-vpc-logs-into/ba-p/3974767</guid>
+      <description>Firstly,&#160;I would like to thank &#160;Benjamin Kovacevic&#160;and Yael Bergman for their help with this article.
+&#160;
+While the existing Sentinel GCP Pub/Sub Audit Logs connector documented here&#160;provides a way to ingest GCP platform audit logs, ingesting GCP Firewall logs or VPS logs remains a needed capability.
+&#160;
+In this blog post I will show a simple way to ingest Google Cloud GCP Firewall logs or VPS logs.
+&#160;
+In order to do this ingestion, I have utilized the Log Ingestion API with PowerShell to accomplish this.&#160;
+&#160;
+Note: The code provided in this post is just a sample provided AS-IS. Further code optimiza...</description>
+    </item>
   </channel>
 </rss>
