@@ -3,15 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 Nov 2023 14:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 15:01:06 GMT</lastBuildDate>
     <item>
-      <title>Using Microsoft Defender Threat Intelligence with the Diamond Model for Threat Intelligence</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-microsoft-defender-threat-intelligence-with-the-diamond/ba-p/3976100</link>
-      <pubDate>Wed, 08 Nov 2023 13:23:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-microsoft-defender-threat-intelligence-with-the-diamond/ba-p/3976100</guid>
-      <description>Cybersecurity incidents can be complex and challenging to investigate, requiring advanced tools and techniques to identify the scope of the attack, determine the adversary's tactics and procedures, and develop an effective response strategy. Microsoft Defender Threat Intelligence (MDTI) provides robust tools and features that enable security analysts to quickly investigate incidents and respond to cyber threats by applying the Diamond Model for Intrusion Analysis Framework to threat intelligence.
+      <title>Part 2 - Managing Azure Firewall Network Rules with Illumination</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/part-2-managing-azure-firewall-network-rules-with-illumination/ba-p/3976181</link>
+      <pubDate>Wed, 08 Nov 2023 14:30:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/part-2-managing-azure-firewall-network-rules-with-illumination/ba-p/3976181</guid>
+      <description>Written in collaboration between&#160;@andrewmathu&#160;and&#160;@gusmodena
 &#160;
-The Diamond Model is a framework for understanding cyber threats that was first introduced by Se...</description>
+Introduction
+&#160;
+The second tutorial in this 2-part blog series about Illumio for Microsoft Azure Firewall is going to explore how to use Illumination to visualize and manage the network traffic and security policies of your environment. Illumination provides a unique new way to reveal the traffic flows in your network and to help you configure policies to secure your applications.
+&#160;
+Before you deep dive into this blog post, we recommend you read part 1 of the blog series: Part 1 - Managing Network Rules by using Azure Tags with Illu...</description>
     </item>
   </channel>
 </rss>
