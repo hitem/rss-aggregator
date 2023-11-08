@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 Nov 2023 08:07:17 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Assessments - Milestones</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-assessments-milestones/ba-p/3975841</link>
-      <pubDate>Wed, 08 Nov 2023 07:56:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-assessments-milestones/ba-p/3975841</guid>
-      <description>Introduction&#160;
-Hi folks! My name is Felipe Binotto, Cloud Solution Architect, based in Australia.
-&#160;
-In this post, I want to talk about Microsoft Assessments but more specifically Microsoft Assessments Milestones because they are a very useful tool which is not widely used.
-&#160;
-In case you don&#8217;t know what Microsoft Assessments are, they are a free, online platform that helps you evaluate your business strategies and workloads. They work through a series of questions and recommendations that result in a curated guidance report that is actionable and informative. Here&#8217;s how they work:
-&#160;
-Start: Choos...</description>
-    </item>
+    <lastBuildDate>Wed, 08 Nov 2023 09:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
