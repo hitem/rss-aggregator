@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 09 Nov 2023 16:02:03 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Ignite 2023 guide to Microsoft Purview and Priva</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-2023-guide-to-microsoft-purview-and-priva/ba-p/3976678</link>
-      <pubDate>Thu, 09 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-2023-guide-to-microsoft-purview-and-priva/ba-p/3976678</guid>
-      <description>We are excited for you to join us at Microsoft Ignite! This post is your one-stop for all the Microsoft Purview and Priva sessions and activities we have planned.
-&#160;
-About Microsoft Ignite
-Discover the best of what's next in technology, problem-solve with experts, and make global connections. Empower yourself to lead your organization by attending Microsoft Ignite.
-
-What:&#160;Visit&#160;Microsoft Ignite&#160;to learn more |&#160;Register&#160;today&#160;|&#160;Session&#160;Scheduler&#160;(now live - register, sign in, and build out your agenda)
-When:&#160;Online: November 15&#8211;16, 2023 | In Seattle: November 14&#8211;17, 2023
-Presenters: Microsoft, M...</description>
-    </item>
+    <lastBuildDate>Thu, 09 Nov 2023 17:01:08 GMT</lastBuildDate>
   </channel>
 </rss>
