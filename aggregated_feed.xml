@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 11 Nov 2023 09:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Security baseline for Microsoft Edge version 108</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-108/ba-p/3691250</link>
-      <pubDate>Sat, 11 Nov 2023 08:33:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-108/ba-p/3691250</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 108!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 108 and determined that there are no additional security settings that require enforcement, however there is one setting that attention should be given to. The Microsoft Edge version 107 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
-&#160;
-TLS Encrypted ClientHello Enabled (Consider)
-An interesting setting Admin&#8217;s may wish to consider, particularly if using Windows Defen...</description>
-    </item>
+    <lastBuildDate>Sat, 11 Nov 2023 10:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
