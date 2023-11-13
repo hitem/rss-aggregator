@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Nov 2023 22:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Azure MMA Agent Bulk Removal</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-mma-agent-bulk-removal/ba-p/3980631</link>
-      <pubDate>Mon, 13 Nov 2023 21:08:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-mma-agent-bulk-removal/ba-p/3980631</guid>
-      <description>Hello, it has been a while since I have posted any articles, but my little buddy Raven (my miniature schnauzer) and I are here to talk about the Microsoft Monitoring Agent (MMA).
-Raven has an old, worn-out bed that she has been using for years. It has lost its cushioning, doesn&#8217;t offer much comfort anymore, and you can see the years of use etched into it. But Raven, being the creature of habit that she is, refuses to part with it. This bed is her comfort zone, her familiar territory, much like the Microsoft Monitoring Agent is for many of us. It has been reliable over the years, but it doesn&#8217;t...</description>
-    </item>
+    <lastBuildDate>Mon, 13 Nov 2023 23:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
