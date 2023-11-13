@@ -3,6 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Nov 2023 15:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 16:02:52 GMT</lastBuildDate>
+    <item>
+      <title>Service Delivery Manager Profile: Meiko Lopez</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-meiko-lopez/ba-p/3977838</link>
+      <pubDate>Mon, 13 Nov 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-meiko-lopez/ba-p/3977838</guid>
+      <description>
+&#160;
+Service Delivery Manager Profile: Meiko Lopez 
+
+Defender Experts for XDR
+
+&#160;
+
+"Be steadfast in the truth - providing comfort and assurance to the customers that you will help them to a resolution."
+-Meiko Lopez, Sr. Product Manager
+&#160;
+
+&#160;
+
+
+
+In the dynamic world of cybersecurity, heroes emerge to safeguard our customers&#8217; digital realm. One such hero is Meiko Lopez, a senior product manager within Microsoft's service delivery arm for the Defender Experts for XDR service. With almost 13 years of experience at Microsoft, Meiko brings a wealth of knowledge, skills, and a unique approach to the cyb...</description>
+    </item>
   </channel>
 </rss>
