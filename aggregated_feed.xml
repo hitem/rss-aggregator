@@ -3,29 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Nov 2023 16:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 17:01:10 GMT</lastBuildDate>
     <item>
-      <title>Service Delivery Manager Profile: Meiko Lopez</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-meiko-lopez/ba-p/3977838</link>
-      <pubDate>Mon, 13 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-meiko-lopez/ba-p/3977838</guid>
-      <description>
+      <title>New Threat Actor Intel Profiles Added to MDTI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-mdti/ba-p/3841181</link>
+      <pubDate>Mon, 13 Nov 2023 16:44:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-mdti/ba-p/3841181</guid>
+      <description>The Microsoft Defender Threat Intelligence (Defender TI) team has recently launched twenty-six new threat actor Intel Profiles&#160;and more than 50 additional articles customers can leverage immediately to take an intel-led approach to defend their organization from the latest threats.&#160;
 &#160;
-Service Delivery Manager Profile: Meiko Lopez 
-
-Defender Experts for XDR
-
+Intel Profiles are a single source of information that fully licensed security operations teams can use for instant insight into the threat ecosystem. Users can rapidly identify adversary-threat infrastructure and access actionable indicators of compromise (IOCs) and in-depth analysis of tools, tactics, and proce...</description>
+    </item>
+    <item>
+      <title>Using MDTI with the Diamond Model for Threat Intelligence</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-mdti-with-the-diamond-model-for-threat-intelligence/ba-p/3976100</link>
+      <pubDate>Mon, 13 Nov 2023 16:42:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-mdti-with-the-diamond-model-for-threat-intelligence/ba-p/3976100</guid>
+      <description>Cybersecurity incidents can be complex and challenging to investigate, requiring advanced tools and techniques to identify the scope of the attack, determine the adversary's tactics and procedures, and develop an effective response strategy. Microsoft Defender Threat Intelligence (MDTI) provides robust tools and features that enable security analysts to quickly investigate incidents and respond to cyber threats by applying the Diamond Model for Intrusion Analysis Framework to threat intelligence.
 &#160;
-
-"Be steadfast in the truth - providing comfort and assurance to the customers that you will help them to a resolution."
--Meiko Lopez, Sr. Product Manager
-&#160;
-
-&#160;
-
-
-
-In the dynamic world of cybersecurity, heroes emerge to safeguard our customers&#8217; digital realm. One such hero is Meiko Lopez, a senior product manager within Microsoft's service delivery arm for the Defender Experts for XDR service. With almost 13 years of experience at Microsoft, Meiko brings a wealth of knowledge, skills, and a unique approach to the cyb...</description>
+The Diamond Model is a framework for understanding cyber threats that was first introduced by Se...</description>
     </item>
   </channel>
 </rss>
