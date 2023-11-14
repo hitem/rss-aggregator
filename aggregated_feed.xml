@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 Nov 2023 21:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 22:01:03 GMT</lastBuildDate>
+    <item>
+      <title>What's New: MDTI Intel Reporting Dashboard and Workbook</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-intel-reporting-dashboard-and-workbook/ba-p/3812899</link>
+      <pubDate>Tue, 14 Nov 2023 21:06:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-intel-reporting-dashboard-and-workbook/ba-p/3812899</guid>
+      <description>Strategic threat intelligence involves gathering and analyzing information to identify potential threats to an organization's security. This proactive approach helps companies anticipate and mitigate potential security risks. Reporting plays a crucial role in strategic threat intelligence by providing insights and data-driven recommendations to decision-makers. Threat intelligence reports are designed to deliver accurate and actionable information, enabling organizations to take appropriate measures to protect against potential threats.
+&#160;
+In this blog post, we are excited to announce the launc...</description>
+    </item>
   </channel>
 </rss>
