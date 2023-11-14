@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 Nov 2023 00:25:41 GMT</lastBuildDate>
-    <item>
-      <title>Introducing the Microsoft Defender Threat Intelligence Community</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-microsoft-defender-threat-intelligence-community/ba-p/3657956</link>
-      <pubDate>Tue, 14 Nov 2023 00:20:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-microsoft-defender-threat-intelligence-community/ba-p/3657956</guid>
-      <description>Microsoft Defender Threat Intelligence (MDTI) is a complete threat intelligence platform that enables security professionals to ingest, analyze and act upon massive signal collected from across the internet, processed by security experts and machine learning. It allows users to uncover and understand their organization's external attack surface, including context around vulnerabilities and the tools and systems adversaries use to attack and exploit them.
-&#160;
-Microsoft Defender Threat Intelligence Standard Edition (formerly known as Community) is a free, lightweight version of MDTI, offering the ...</description>
-    </item>
+    <lastBuildDate>Tue, 14 Nov 2023 01:42:23 GMT</lastBuildDate>
   </channel>
 </rss>
