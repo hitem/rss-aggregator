@@ -422,3 +422,10 @@
 2023-11-15T16:00:02 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-xdr-in-an-era-of-end-user-to-cloud-cyberattacks-and/ba-p/3982002
 2023-11-15T16:00:02 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-data-in-an-ai-first-world-with-microsoft-purview/ba-p/3981279
 2023-11-15T16:00:08 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-a-unified-security-operations-platform-with/ba-p/3983341
+2023-11-15T16:04:38 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-defender-cspm-across-the-application-lifecycle/ba-p/3982046
+2023-11-15T16:05:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-announces-general-availability-of-defender-for-apis/ba-p/3981488
+2023-11-15T16:10:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/what-s-new-in-microsoft-defender-experts-for-xdr/ba-p/3982765
+2023-11-15T16:21:45 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-mdti-free-experience-for-microsoft-defender-xdr/ba-p/3976635
+2023-11-15T16:25:24 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-security-copilot/ba-p/3973731
+2023-11-15T16:27:36 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-ignite-2023/ba-p/3980487
+2023-11-15T16:33:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767

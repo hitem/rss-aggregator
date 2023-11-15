@@ -3,156 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Nov 2023 16:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 17:01:12 GMT</lastBuildDate>
     <item>
-      <title>Introducing a Unified Security Operations Platform with Microsoft Sentinel and Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-a-unified-security-operations-platform-with/ba-p/3983341</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-a-unified-security-operations-platform-with/ba-p/3983341</guid>
-      <description>Introducing a Unified Security Operations Platform with Microsoft Sentinel and Defender XDR
+      <title>Understanding Azure DDoS Protection: A Closer Look</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767</link>
+      <pubDate>Wed, 15 Nov 2023 16:33:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767</guid>
+      <description>Introduction
+Azure DDoS Protection is a service that constantly innovates itself to protect customers from ever-changing distributed denial-of-service (DDoS) attacks. One of the major challenges of cloud computing is ensuring customer solutions maintain security and application availability. Microsoft has been addressing this challenge with its Azure DDoS Protection service, which was launched in public preview in 2017 and became generally available in 2018. Since its inception, Microsoft has renamed its Azure DDoS Protection service to better reflect its capabilities and features. We&#8217;ll discu...</description>
+    </item>
+    <item>
+      <title>What's New at Microsoft Ignite 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-ignite-2023/ba-p/3980487</link>
+      <pubDate>Wed, 15 Nov 2023 16:27:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-ignite-2023/ba-p/3980487</guid>
+      <description>The Microsoft Defender Threat Intelligence team (MDTI) continuously introduces innovations that make its strategic, tactical, and operational threat intelligence - built from 65 trillion signals and over 10,000 multidisciplinary experts - more accessible to access, ingest, and act upon. Today, we are excited to announce several new features that enhance Microsoft's comprehensive security offering and AI-powered security with crucial context around threat actors, vulnerabilities, and the tools and systems they use to attack and exploit organizations.&#160;&#160;
+Below, read more about these new features ...</description>
+    </item>
+    <item>
+      <title>How MDTI Helps Power Security Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-security-copilot/ba-p/3973731</link>
+      <pubDate>Wed, 15 Nov 2023 16:25:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-security-copilot/ba-p/3973731</guid>
+      <description>Today's cybersecurity challenges mandate that security teams invest more in high-quality threat intelligence to understand the mechanics of sophisticated attacks led by cybercriminals, nation-state actors, and others. With the introduction of Microsoft Security Copilot, security professionals can use Generative AI to quickly understand the full scope of attacks, anticipate the next steps of an ongoing campaign, and drive an optimal security plan for their organizations - all amid the intense, challenging time during an attack.&#160;
 &#160;
-Security teams are tasked with more responsibilities than ever before, and the complexity of today&#8217;s security tooling landscape doesn&#8217;t make their job any easier. They need to sift through vast amounts of data from various sources that can lead to slower threat response and resolution, increased time spent on learning new technologies, more integrations, and less comprehensive insights. Furthermore, managing the costs associated with data handling remains a significant challenge.
+This blog post will delve into Security Copilot, focusing on the...</description>
+    </item>
+    <item>
+      <title>Introducing MDTI Free Experience for Microsoft Defender XDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-mdti-free-experience-for-microsoft-defender-xdr/ba-p/3976635</link>
+      <pubDate>Wed, 15 Nov 2023 16:21:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-mdti-free-experience-for-microsoft-defender-xdr/ba-p/3976635</guid>
+      <description>Today, we are thrilled to announce that we are unleashing the power of threat intelligence to all Microsoft Defender XDR tenants. Starting at Microsoft Ignite, all Defender XDR users will see Microsoft Defender Threat Intelligence (MDTI) in the threat intelligence blade of Defender XDR. This free experience, which is a limited version of MDTI, enables security professionals of all levels to review recent threat research from Microsoft security experts and open-source (OSINT) feeds, search for and pivot between Indicators of Compromise (IoCs) to augment your investigations, and gain actionable ...</description>
+    </item>
+    <item>
+      <title>What&#8217;s new in Microsoft Defender Experts for XDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/what-s-new-in-microsoft-defender-experts-for-xdr/ba-p/3982765</link>
+      <pubDate>Wed, 15 Nov 2023 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/what-s-new-in-microsoft-defender-experts-for-xdr/ba-p/3982765</guid>
+      <description>Since the general availability of Microsoft Defender Experts for XDR, our extended managed detection and response (MXDR) service, in June 2023, our Defender Experts team has been busy providing around the clock service to our customers and soliciting their feedback on how we can make our service better. As the cyberthreat landscape continues to grow in complexity, the workforce gap has followed, with an increase of 13% from 2022 to roughly four million cybersecurity professionals needed worldwide.[1] Our goal is to address these challenges by becoming an extension of our customers&#8217; SOC team an...</description>
+    </item>
+    <item>
+      <title>Microsoft Announces General Availability of Defender for APIs</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-announces-general-availability-of-defender-for-apis/ba-p/3981488</link>
+      <pubDate>Wed, 15 Nov 2023 16:05:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-announces-general-availability-of-defender-for-apis/ba-p/3981488</guid>
+      <description>[Redmond, 11/15/2023] &#8211; We are excited to announce the General Availability of Microsoft Defender for APIs, designed to protect organizations against API security threats. Defender for APIs offers full lifecycle protection, detection, and response coverage for organizations&#8217; managed APIs.
 &#160;
-Microsoft is commit...</description>
+Recognized by Gartner as a Representative Vendor in its 2023 Market Guide on Cloud Native-Application Protection Platform (CNAPP),&#160;Microsoft&#160;Defender for Cloud&#160;seamlessly combines cloud security and compliance capabilities into a single platform&#160;to provide end-to-end protection for your cloud applications. ...</description>
     </item>
     <item>
-      <title>Securing data in an AI-first world with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-data-in-an-ai-first-world-with-microsoft-purview/ba-p/3981279</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-data-in-an-ai-first-world-with-microsoft-purview/ba-p/3981279</guid>
-      <description>
-We are living in an artificial intelligence (AI) first world in which organizations have a once-in-a-lifetime opportunity to leverage AI to transform their business and drive innovation at an accelerated rate. AI is a powerful tool that can enable organizations leverage data and insights in new ways, generate novel solutions to complex problems, and enhance human capabilities and experiences. It is no surprise that organizations are racing to adopt AI &#8211; a recent Microsoft research showed that 97% of organizations have implemented, developed, or are developing an AI strategy[1]. But with these...</description>
-    </item>
-    <item>
-      <title>Ignite news: XDR in an era of end-user-to-cloud cyberattacks and securing the use of AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-xdr-in-an-era-of-end-user-to-cloud-cyberattacks-and/ba-p/3982002</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-xdr-in-an-era-of-end-user-to-cloud-cyberattacks-and/ba-p/3982002</guid>
-      <description>Cyber criminals are continuously evolving their tactics, and as trends shift, it&#8217;s critical that defenders have solutions that are adapting alongside new cyberattack patterns and security risks. As cloud adoption continues to soar, Microsoft&#8217;s security researchers are seeing an increasing trend of attackers crossing the lines from end-user assets into cloud workloads. In just one class of cyberattacks observed by Microsoft over the last few months, targeted organizations incurred more than $300,000 in fees due to cryptojacking.
+      <title>Enhancing Defender CSPM across the application lifecycle</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-defender-cspm-across-the-application-lifecycle/ba-p/3982046</link>
+      <pubDate>Wed, 15 Nov 2023 16:04:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-defender-cspm-across-the-application-lifecycle/ba-p/3982046</guid>
+      <description>Organizations are challenged with managing multicloud security due to the complexity of coordinating security measures across diverse cloud environments, each with its unique configurations and vulnerabilities. Visibility across cloud environments can be limited, making it challenging to effectively triage issues that arise. Additionally, ensuring consistent security policies and followed amidst a changing threat landscape can be daunting, especially when dealing with multiple providers.
 &#160;
-Separately, Generative AI is introducing opportunities and chall...</description>
-    </item>
-    <item>
-      <title>Gain comprehensive data protection and efficient investigation with Microsoft Purview DLP</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/gain-comprehensive-data-protection-and-efficient-investigation/ba-p/3980776</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/gain-comprehensive-data-protection-and-efficient-investigation/ba-p/3980776</guid>
-      <description>Data is not only an asset but also a potential liability if it falls into the wrong hands inadvertently or maliciously. In the age of AI, applications can analyze large volumes of data and derive insights faster than humans can providing immense benefits to an organization. However, organizations are also struggling and concerned about ensuring their sensitive or business critical data is not intentionally or inadvertently lost as they adopt AI. A recent Microsoft research showed that 97% of organizations had concerns about AI with the top concern being data leak through AI applications and ri...</description>
-    </item>
-    <item>
-      <title>Supercharge security and compliance efficiency with Microsoft Security Copilot in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/supercharge-security-and-compliance-efficiency-with-microsoft/ba-p/3980765</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/supercharge-security-and-compliance-efficiency-with-microsoft/ba-p/3980765</guid>
-      <description>In the face of ever-looming security threats, SOC teams need effective detection and response capabilities. However, identifying risks and knowing what to prioritize is a daunting task, especially in a fragmented landscape where organizations use multiple tools to secure their data and their environment. This requires teams to deduplicate multiple alerts, manually correlate insights, and determine the nature of an incident across teams and solutions - ultimately resulting in longer time to conclude an investigation. It&#8217;s therefore no surprise that customers who deploy multiple security tools e...</description>
-    </item>
-    <item>
-      <title>The Next Era of eDiscovery: Embracing Advanced Capabilities for a Comprehensive Digital Landscape</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-next-era-of-ediscovery-embracing-advanced-capabilities-for-a/ba-p/3980511</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-next-era-of-ediscovery-embracing-advanced-capabilities-for-a/ba-p/3980511</guid>
-      <description>In today's rapidly evolving digital world, the art of eDiscovery is undergoing a transformative shift. As organizations increasingly rely on sophisticated platforms for their daily operations, the challenge of managing, locating, and analyzing data intensifies. The emergence of modern communication tools and complex data storage locations necessitates eDiscovery tools to be more agile, comprehensive, and integrated than ever before.
-&#160;
-eDiscovery, at its heart, is about discovering the truth and ensuring justice in a digital world. As the digital realm continues to grow in complexity, tools and...</description>
-    </item>
-    <item>
-      <title>Protect your entire data estate with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-your-entire-data-estate-with-microsoft-purview/ba-p/3978758</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-your-entire-data-estate-with-microsoft-purview/ba-p/3978758</guid>
-      <description>In today&#8217;s world, data is generated at an unprecedented pace. It exists in unstructured formats like emails and documents as well as structured forms like spreadsheets, often stored in relational databases. This sheer volume makes it challenging to keep track of where sensitive data resides. Additionally, data is spread across cloud environments, on-premises servers, and a vast array of employee devices. Considering that over 80% of data within an organization is dark. In our most recent data security index report, we found that:
-
-Although most decision makers agree comprehensive integrated so...</description>
-    </item>
-    <item>
-      <title>Trusted launch for Azure Arc VMs on Azure Stack HCI, version 23H2 preview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-launch-for-azure-arc-vms-on-azure-stack-hci-version-23h2/ba-p/3978051</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-launch-for-azure-arc-vms-on-azure-stack-hci-version-23h2/ba-p/3978051</guid>
-      <description>Trusted launch for virtual machines
-You may be familiar with Trusted launch for Azure virtual machines (VMs). It supports secure boot, virtual TPM (Trusted Platform Module), and boot integrity monitoring for virtual machines that run on Azure.
-&#160;
-Trusted launch support is now available for Azure Arc VMs on Azure Stack HCI. Trusted launch for Azure Arc VMs on Azure Stack HCI is now available for preview with the public preview release of Azure Stack HCI, version 23H2. This release of Trusted launch for Azure Arc VMs supports secure boot, virtual Trusted Platform Module (vTPM), and vTPM state tra...</description>
-    </item>
-    <item>
-      <title>Protect sensitive data across Azure SQL DB, Azure Data Lake using label-based access</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-sensitive-data-across-azure-sql-db-azure-data-lake-using/ba-p/3977977</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-sensitive-data-across-azure-sql-db-azure-data-lake-using/ba-p/3977977</guid>
-      <description>One of the challenges for organizations is to manage and protect sensitive information, which may be distributed across data assets in different clouds or on-prem datacenters, to maintain customer trust and avoid potential penalties.
-&#160;
-Microsoft Purview provides a unified solution and a single plane to centrally manage access of sensitive information across an organization&#8217;s multi-cloud data estate and that helps with compliance with data regulations set forth by various&#160;governing bodies, regulatory authorities, and legal jurisdictions.
-&#160;
-Today, Purview identifies sensitive data elements in da...</description>
-    </item>
-    <item>
-      <title>Unleash the Future of Communication Compliance at Microsoft Ignite 2023</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unleash-the-future-of-communication-compliance-at-microsoft/ba-p/3977722</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unleash-the-future-of-communication-compliance-at-microsoft/ba-p/3977722</guid>
-      <description>Ensuring robust communication compliance is more crucial than ever. In today&#8217;s dynamic digital business landscape, defined by technology integration and the rise of hybrid work models, organizations must navigate a vast sea of data while adhering to stringent compliance mandates to avoid significant penalties, such as the eye-opening $1.8 billion in fines levied on top investment banks by the United States Securities and Exchange Commission (SEC) in 2022. These penalties were a result of employees violating communication requirements by using personal devices and company applications for busin...</description>
-    </item>
-    <item>
-      <title>Insightful and intelligent classification and protection are key to data security</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/insightful-and-intelligent-classification-and-protection-are-key/ba-p/3974278</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/insightful-and-intelligent-classification-and-protection-are-key/ba-p/3974278</guid>
-      <description>80% of those recently surveyed agree that comprehensive data security with integrated solutions is superior to using multiple best-of-breed solutions that have to be manually integrated and managed. The reason is that having more tools does not mean greater data security or efficiency &#8211; it&#8217;s the opposite. It may create a false sense of security, gaps in visibility and coverage, and increased complexity, time, and resources to manage siloed disparate solutions.1
-&#160;
-With Microsoft Purview Information Protection, we provide an integrated solution that is built-in, intelligent, unified, and extensi...</description>
-    </item>
-    <item>
-      <title>Protect sensitive data Using Microsoft Purview Information Protection for Amazon S3 buckets</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-sensitive-data-using-microsoft-purview-information/ba-p/3969138</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-sensitive-data-using-microsoft-purview-information/ba-p/3969138</guid>
-      <description>Data is one of the most valuable assets for any organization, but it also comes with many challenges and risks. Data can be stored in various formats and locations such as cloud, on-prem, and it can be accessed by different users, applications, and devices. How can organizations ensure that their data is secure and compliant with various regulations and policies?
-&#160;
-Microsoft Purview is a unified data governance service that helps organizations discover, catalog, classify, and protect their data across multiple sources and platforms. With Microsoft Purview, you can apply sensitivity labels to y...</description>
-    </item>
-    <item>
-      <title>Empower data security teams to proactively manage critical insider risks across diverse digital esta</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empower-data-security-teams-to-proactively-manage-critical/ba-p/3975623</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empower-data-security-teams-to-proactively-manage-critical/ba-p/3975623</guid>
-      <description>In today's era of digital and AI transformation, an organization's data stands as the driving force behind its operations and future trajectory. With businesses increasingly reliant on data, the imperative task for security teams is safeguarding this invaluable resource from cyber threats and insider incidents.
-&#160;
-Our Data Security Index report highlights the ongoing issue of insider risks within organizations, shedding light on the fact that malicious insiders are often perceived as one of the least prepared causes of data security incidents by decision makers1. These findings are aligned with...</description>
-    </item>
-    <item>
-      <title>Identity at Microsoft Ignite: Securing access in the era of AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/identity-at-microsoft-ignite-securing-access-in-the-era-of-ai/ba-p/2747279</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/identity-at-microsoft-ignite-securing-access-in-the-era-of-ai/ba-p/2747279</guid>
-      <description>As the digital world continues to expand, so do the risks and challenges of cybersecurity. There are more identities, endpoints, apps, and data to protect from nefarious groups staffed by skilled talent with funding from nation states and criminal syndicates. And in the new era of AI, there will be infinite new ways for malicious actors&#8212;including insiders&#8212;to cause damage.
-&#160;
-Everything we&#8217;re adding to Microsoft Entra is designed to help you stay ahead of the evolving threat landscape. It all comes down to one principle: make it easier for you to stay secure. Whether you&#8217;re a large enterprise wi...</description>
-    </item>
-    <item>
-      <title>Optimize insights and efficiency with latest Defender EASM features and generative AI integrations</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/optimize-insights-and-efficiency-with-latest-defender-easm/ba-p/3976482</link>
-      <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/optimize-insights-and-efficiency-with-latest-defender-easm/ba-p/3976482</guid>
-      <description>Discovering and prioritizing vulnerabilities that often arise as a result of known and unknown internet-exposed assets &#8211; which can emerge from shadow IT, the supply chain, and the shift of moving to the cloud, for example &#8211; is an essential practice our customers take to reduce external risk and stay secure.
-&#160;
-Over the last six months, Microsoft Defender External Attack Surface Management (EASM) has released updates that help Defender EASM customers increase the speed to operationalize its findings. Now, vulnerability management teams are using labels to drive workflows and denote asset ownersh...</description>
-    </item>
-    <item>
-      <title>Announcing new CNAPP capabilities in Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-new-cnapp-capabilities-in-defender-for-cloud/ba-p/3981941</link>
-      <pubDate>Wed, 15 Nov 2023 15:58:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-new-cnapp-capabilities-in-defender-for-cloud/ba-p/3981941</guid>
-      <description>In the fast-paced world of cloud computing, security teams are facing unprecedented challenges. As organizations increasingly adopt multicloud environments and prioritize the development of cloud-native applications, the complexity of ensuring robust security has grown exponentially. To tackle these evolving cloud security needs, a powerful solution has emerged &#8211; Cloud-Native Application Protection Platforms (CNAPP).
-CNAPP platforms are designed to consolidate multicloud threat prevention and detection, offering comprehensive security from code to cloud. They cover vital aspects of cloud secur...</description>
-    </item>
-    <item>
-      <title>Ignite News: Augment your EDR with deception tactics to catch adversaries early</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-news-augment-your-edr-with-deception-tactics-to-catch/ba-p/3982253</link>
-      <pubDate>Wed, 15 Nov 2023 15:58:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-news-augment-your-edr-with-deception-tactics-to-catch/ba-p/3982253</guid>
-      <description>Endpoints remain critical entryways for adversaries to begin their reconnaissance before moving laterally through an organization. That&#8217;s why Endpoint Detection and Response (EDR) solutions have become a critical component in most cyber tool sets and are essential in helping SOC teams detect and respond to these threats early.
-&#160;
-Today we are excited to announce deception as a built-in capability in Microsoft Defender for Endpoint. Augmenting its powerful EDR capabilities, you can now create an artificial attack surface that entices adversaries to access assets you created just for them, and tr...</description>
+To address these challenges, Cloud Security Posture Management (CSPM) solutions help security teams take ...</description>
     </item>
   </channel>
 </rss>
