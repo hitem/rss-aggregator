@@ -3,63 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Nov 2023 17:01:12 GMT</lastBuildDate>
-    <item>
-      <title>Understanding Azure DDoS Protection: A Closer Look</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767</link>
-      <pubDate>Wed, 15 Nov 2023 16:33:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767</guid>
-      <description>Introduction
-Azure DDoS Protection is a service that constantly innovates itself to protect customers from ever-changing distributed denial-of-service (DDoS) attacks. One of the major challenges of cloud computing is ensuring customer solutions maintain security and application availability. Microsoft has been addressing this challenge with its Azure DDoS Protection service, which was launched in public preview in 2017 and became generally available in 2018. Since its inception, Microsoft has renamed its Azure DDoS Protection service to better reflect its capabilities and features. We&#8217;ll discu...</description>
-    </item>
-    <item>
-      <title>What's New at Microsoft Ignite 2023</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-ignite-2023/ba-p/3980487</link>
-      <pubDate>Wed, 15 Nov 2023 16:27:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-ignite-2023/ba-p/3980487</guid>
-      <description>The Microsoft Defender Threat Intelligence team (MDTI) continuously introduces innovations that make its strategic, tactical, and operational threat intelligence - built from 65 trillion signals and over 10,000 multidisciplinary experts - more accessible to access, ingest, and act upon. Today, we are excited to announce several new features that enhance Microsoft's comprehensive security offering and AI-powered security with crucial context around threat actors, vulnerabilities, and the tools and systems they use to attack and exploit organizations.&#160;&#160;
-Below, read more about these new features ...</description>
-    </item>
-    <item>
-      <title>How MDTI Helps Power Security Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-security-copilot/ba-p/3973731</link>
-      <pubDate>Wed, 15 Nov 2023 16:25:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-security-copilot/ba-p/3973731</guid>
-      <description>Today's cybersecurity challenges mandate that security teams invest more in high-quality threat intelligence to understand the mechanics of sophisticated attacks led by cybercriminals, nation-state actors, and others. With the introduction of Microsoft Security Copilot, security professionals can use Generative AI to quickly understand the full scope of attacks, anticipate the next steps of an ongoing campaign, and drive an optimal security plan for their organizations - all amid the intense, challenging time during an attack.&#160;
-&#160;
-This blog post will delve into Security Copilot, focusing on the...</description>
-    </item>
-    <item>
-      <title>Introducing MDTI Free Experience for Microsoft Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-mdti-free-experience-for-microsoft-defender-xdr/ba-p/3976635</link>
-      <pubDate>Wed, 15 Nov 2023 16:21:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-mdti-free-experience-for-microsoft-defender-xdr/ba-p/3976635</guid>
-      <description>Today, we are thrilled to announce that we are unleashing the power of threat intelligence to all Microsoft Defender XDR tenants. Starting at Microsoft Ignite, all Defender XDR users will see Microsoft Defender Threat Intelligence (MDTI) in the threat intelligence blade of Defender XDR. This free experience, which is a limited version of MDTI, enables security professionals of all levels to review recent threat research from Microsoft security experts and open-source (OSINT) feeds, search for and pivot between Indicators of Compromise (IoCs) to augment your investigations, and gain actionable ...</description>
-    </item>
-    <item>
-      <title>What&#8217;s new in Microsoft Defender Experts for XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/what-s-new-in-microsoft-defender-experts-for-xdr/ba-p/3982765</link>
-      <pubDate>Wed, 15 Nov 2023 16:10:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/what-s-new-in-microsoft-defender-experts-for-xdr/ba-p/3982765</guid>
-      <description>Since the general availability of Microsoft Defender Experts for XDR, our extended managed detection and response (MXDR) service, in June 2023, our Defender Experts team has been busy providing around the clock service to our customers and soliciting their feedback on how we can make our service better. As the cyberthreat landscape continues to grow in complexity, the workforce gap has followed, with an increase of 13% from 2022 to roughly four million cybersecurity professionals needed worldwide.[1] Our goal is to address these challenges by becoming an extension of our customers&#8217; SOC team an...</description>
-    </item>
-    <item>
-      <title>Microsoft Announces General Availability of Defender for APIs</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-announces-general-availability-of-defender-for-apis/ba-p/3981488</link>
-      <pubDate>Wed, 15 Nov 2023 16:05:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-announces-general-availability-of-defender-for-apis/ba-p/3981488</guid>
-      <description>[Redmond, 11/15/2023] &#8211; We are excited to announce the General Availability of Microsoft Defender for APIs, designed to protect organizations against API security threats. Defender for APIs offers full lifecycle protection, detection, and response coverage for organizations&#8217; managed APIs.
-&#160;
-Recognized by Gartner as a Representative Vendor in its 2023 Market Guide on Cloud Native-Application Protection Platform (CNAPP),&#160;Microsoft&#160;Defender for Cloud&#160;seamlessly combines cloud security and compliance capabilities into a single platform&#160;to provide end-to-end protection for your cloud applications. ...</description>
-    </item>
-    <item>
-      <title>Enhancing Defender CSPM across the application lifecycle</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-defender-cspm-across-the-application-lifecycle/ba-p/3982046</link>
-      <pubDate>Wed, 15 Nov 2023 16:04:38 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-defender-cspm-across-the-application-lifecycle/ba-p/3982046</guid>
-      <description>Organizations are challenged with managing multicloud security due to the complexity of coordinating security measures across diverse cloud environments, each with its unique configurations and vulnerabilities. Visibility across cloud environments can be limited, making it challenging to effectively triage issues that arise. Additionally, ensuring consistent security policies and followed amidst a changing threat landscape can be daunting, especially when dealing with multiple providers.
-&#160;
-To address these challenges, Cloud Security Posture Management (CSPM) solutions help security teams take ...</description>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 18:06:58 GMT</lastBuildDate>
   </channel>
 </rss>
