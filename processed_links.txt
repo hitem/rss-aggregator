@@ -429,3 +429,4 @@
 2023-11-15T16:25:24 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-security-copilot/ba-p/3973731
 2023-11-15T16:27:36 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-ignite-2023/ba-p/3980487
 2023-11-15T16:33:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767
+2023-11-15T22:26:45 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-partner-solution-contributions-update-ignite/ba-p/3982485
