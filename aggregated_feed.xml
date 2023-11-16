@@ -3,15 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Nov 2023 17:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 18:00:59 GMT</lastBuildDate>
     <item>
-      <title>Introducing AD FS Application Migration: Your Path to Simplicity and Security</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232</link>
-      <pubDate>Thu, 16 Nov 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232</guid>
-      <description>Are you tired of dealing with the hassles of managing your Active Directory Federation Services (AD FS) applications? Do you want to enjoy the benefits of a modern, secure, and cloud-based identity platform? If so, we have some great news for you, a new tool feature - AD FS Application Migration - is here to help!&#160;
+      <title>Public Preview of Airflow/OpenLineage Support in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-of-airflow-openlineage-support-in-microsoft/ba-p/3969395</link>
+      <pubDate>Thu, 16 Nov 2023 17:30:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-of-airflow-openlineage-support-in-microsoft/ba-p/3969395</guid>
+      <description>Microsoft Purview now provides an endpoint that supports collecting lineage from Apache Airflow via integration with&#8239;OpenLineage, an open framework for data lineage collection and analysis. This capability is now in public preview. This endpoint accepts OpenLineage payloads (assets &amp; lineage) in the Data Map. The capability is available via both UX and API.&#160;
 &#160;
-We're thrilled to announce a game-changing feature, AD FS Application Migration, that will make your life as an IT administrator much easier. We understand the complexities and challenges that come with managing your organization's applications and ensuring the security of your da...</description>
+
+&#160;
+Teams across Microsoft and OpenLineage community have partnered closely on this effort. The work has also laid the foundation to integrate asset and lineage information from more data sources that support OpenLineage (such as Spark, d...</description>
+    </item>
+    <item>
+      <title>Integration of Azure Machine Learning with Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/integration-of-azure-machine-learning-with-microsoft-purview/ba-p/3984976</link>
+      <pubDate>Thu, 16 Nov 2023 17:28:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/integration-of-azure-machine-learning-with-microsoft-purview/ba-p/3984976</guid>
+      <description>Previously in the blog post Bringing ML assets to the Microsoft Purview Data Map we announced the public preview of Azure Machine Learning assets in Microsoft Purview. With the integration, AI/ML and data professionals can benefit from data discovery, lineage tracking and responsible AI governance in the whole MLOps lifecycle. The integration is only available for the enterprise version of Microsoft Purview.
+&#160;
+Source registration
+You can find a new source type named &#8220;Azure Machine Learning&#8221; in Microsoft Purview Data Map to register your Azure Machine Learning workspace. After the registration,...</description>
+    </item>
+    <item>
+      <title>Microsoft Purview expands data estate support &#8211; Amazon Redshift and Tableau</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-expands-data-estate-support-amazon-redshift/ba-p/3985080</link>
+      <pubDate>Thu, 16 Nov 2023 17:25:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-expands-data-estate-support-amazon-redshift/ba-p/3985080</guid>
+      <description>Microsoft Purview enables organizations to easily create a comprehensive, up-to-date map of their data landscape across on-premises, multi-cloud, and SaaS applications with automated data discovery. Purview keeps expanding the data system coverage to meet our customers&#8217; diverse needs. We are glad to announce the latest integration with Amazon Redshift and Tableau.
+&#160;
+Amazon Redshift | Public Preview
+Microsoft Purview now supports scanning Amazon Redshift to extract metadata including server, databases, schemas, tables/views and their columns, stored procedures, and functions. To try it out, reg...</description>
+    </item>
+    <item>
+      <title>Enhanced Snowflake integration in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enhanced-snowflake-integration-in-microsoft-purview/ba-p/3985020</link>
+      <pubDate>Thu, 16 Nov 2023 17:24:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enhanced-snowflake-integration-in-microsoft-purview/ba-p/3985020</guid>
+      <description>Microsoft Purview keeps strengthening its Snowflake integration to help you enrich your data map with metadata from Snowflake. We are glad to share some new features available in Snowflake scan.
+&#160;
+When setting up a scan for Snowflake source, you can now:
+
+Choose different flavors of integration runtime to power the scan:
+
+Default Azure integration runtime: use this when both Snowflake and Microsoft Purview allow public access. You don&#8217;t need to set up anything to use this type of fully managed runtime.
+Managed Virtual Network integration runtime: applicable when your Snowflake allows public ac...</description>
+    </item>
+    <item>
+      <title>Introducing new version of Managed Virtual Network in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-new-version-of-managed-virtual-network-in-microsoft/ba-p/3984969</link>
+      <pubDate>Thu, 16 Nov 2023 17:18:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-new-version-of-managed-virtual-network-in-microsoft/ba-p/3984969</guid>
+      <description>Managed Virtual Network (VNet) in Microsoft Purview enables the scenario when your Microsoft Purview and/or data systems restrict network access, you can run the scan on the Managed VNet Integration Runtime (IR) &#8211; a fully managed service by Purview &#8211; to securely connect to them via private endpoints.
+&#160;
+We heard your growing demand and feedback for this solution, and we&#8217;re excited to announce that the new version of Managed Virtual Network support is now available.
+&#160;
+We have built on top of the existing architecture (diagram below). There are several advantages of using the new version of Manag...</description>
     </item>
   </channel>
 </rss>

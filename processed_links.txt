@@ -431,3 +431,8 @@
 2023-11-15T16:33:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-azure-ddos-protection-a-closer-look/ba-p/3983767
 2023-11-15T22:26:45 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-partner-solution-contributions-update-ignite/ba-p/3982485
 2023-11-16T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232
+2023-11-16T17:18:47 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-new-version-of-managed-virtual-network-in-microsoft/ba-p/3984969
+2023-11-16T17:24:32 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enhanced-snowflake-integration-in-microsoft-purview/ba-p/3985020
+2023-11-16T17:25:40 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-expands-data-estate-support-amazon-redshift/ba-p/3985080
+2023-11-16T17:28:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/integration-of-azure-machine-learning-with-microsoft-purview/ba-p/3984976
+2023-11-16T17:30:33 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-of-airflow-openlineage-support-in-microsoft/ba-p/3969395
