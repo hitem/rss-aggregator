@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Nov 2023 16:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 17:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Introducing AD FS Application Migration: Your Path to Simplicity and Security</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232</link>
+      <pubDate>Thu, 16 Nov 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232</guid>
+      <description>Are you tired of dealing with the hassles of managing your Active Directory Federation Services (AD FS) applications? Do you want to enjoy the benefits of a modern, secure, and cloud-based identity platform? If so, we have some great news for you, a new tool feature - AD FS Application Migration - is here to help!&#160;
+&#160;
+We're thrilled to announce a game-changing feature, AD FS Application Migration, that will make your life as an IT administrator much easier. We understand the complexities and challenges that come with managing your organization's applications and ensuring the security of your da...</description>
+    </item>
   </channel>
 </rss>
