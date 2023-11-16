@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Nov 2023 20:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Unified MDTI APIs in Microsoft Graph Now GA</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unified-mdti-apis-in-microsoft-graph-now-ga/ba-p/3981912</link>
-      <pubDate>Thu, 16 Nov 2023 19:53:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unified-mdti-apis-in-microsoft-graph-now-ga/ba-p/3981912</guid>
-      <description>We&#8217;re thrilled to share that the unified APIs that are part of the Microsoft Graph are now generally available! These APIs come with a single endpoint, permissions, auth model, and access token. The Microsoft Defender Threat Intelligence (Defender TI) API for Incidents, Alerts, and Hunting allows organizations to query Defender TI data to operationalize intelligence gleaned from threat actors, tools, and vulnerabilities. Security teams can enrich their understanding of entities inside security incidents, automate triage efforts, and integrate with a broad ecosystem of security tools, including...</description>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 21:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
