@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 17 Nov 2023 07:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Now in Public Preview: Microsoft Purview integration with Microsoft Dataverse</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-in-public-preview-microsoft-purview-integration-with/ba-p/3985044</link>
-      <pubDate>Fri, 17 Nov 2023 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-in-public-preview-microsoft-purview-integration-with/ba-p/3985044</guid>
-      <description>In the previous blog Govern your business applications data with Microsoft Purview, we announced the private preview for the integration between Microsoft Purview and Microsoft Dataverse. With the integration organizations can enable automated data discovery and sensitive data classification by scanning their Dataverse environments, and better understand and govern their data estate from Microsoft Dynamics 365 and Microsoft Power Platforms. Today we are excited to announce that integration is launching to public preview. You can now start to scan your Dataverse environments and enrich your Mic...</description>
-    </item>
+    <lastBuildDate>Fri, 17 Nov 2023 08:07:28 GMT</lastBuildDate>
   </channel>
 </rss>
