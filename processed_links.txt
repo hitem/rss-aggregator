@@ -437,3 +437,4 @@
 2023-11-16T17:28:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/integration-of-azure-machine-learning-with-microsoft-purview/ba-p/3984976
 2023-11-16T17:30:33 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-of-airflow-openlineage-support-in-microsoft/ba-p/3969395
 2023-11-16T19:53:09 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unified-mdti-apis-in-microsoft-graph-now-ga/ba-p/3981912
+2023-11-17T07:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-in-public-preview-microsoft-purview-integration-with/ba-p/3985044
