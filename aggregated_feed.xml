@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 20 Nov 2023 21:01:09 GMT</lastBuildDate>
-    <item>
-      <title>Active Directory Hardening Series - Part 2 &#8211; Removing SMBv1</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-2-removing-smbv1/ba-p/3988317</link>
-      <pubDate>Mon, 20 Nov 2023 20:47:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-2-removing-smbv1/ba-p/3988317</guid>
-      <description>Hi All!&#8239; Jerry Devore back again with another hardening Active Directory topic.&#8239; Before we jump into the technical stuff, I would like to briefly share some tips for structuring a protocol hardening project.&#8239; I picked up these suggestions from working with customers who have been successful in their protocol hardening efforts.&#160;
-&#8239;&#160;
-Tip #1 - Collaborate with Applications Owners - Application dependencies always seem to be the preverbal "long pole in the tent" when it comes to removing insecure protocols.&#8239; Often application owners lack an understanding of the risks or how their applications could...</description>
-    </item>
+    <lastBuildDate>Mon, 20 Nov 2023 22:01:17 GMT</lastBuildDate>
   </channel>
 </rss>
