@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 20 Nov 2023 16:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 17:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Explore new credentials, get trained by experts and more with our Microsoft Ignite Recap</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-new-credentials-get-trained-by-experts-and-more-with-our/ba-p/3986301</link>
+      <pubDate>Mon, 20 Nov 2023 16:18:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-new-credentials-get-trained-by-experts-and-more-with-our/ba-p/3986301</guid>
+      <description>Ignite has come to an end, but that doesn't mean you can't still get in on the action!
+&#160;
+Display&#160;Your Skills and Earn a New Credential with Microsoft Applied Skills&#160;
+Advancements in AI, cloud computing, and emerging technologies have increased the importance of showcasing proficiency in sought-after technical skills. Organizations are now adopting a skills-based approach to quickly find the right people with the appropriate skills for specific tasks. With this in mind, we are thrilled to announce Microsoft Applied Skills, a new platform that enables you to demonstrate your technical abilities ...</description>
+    </item>
   </channel>
 </rss>
