@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Nov 2023 07:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Elevating Cybersecurity Intelligence with Microsoft Sentinel's Enrichment Widgets</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255</link>
-      <pubDate>Tue, 21 Nov 2023 06:27:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255</guid>
-      <description>At Microsoft, we are continually advancing our tools to empower users in making data-driven and informed decisions. Our latest advancement in Microsoft Sentinel is the introduction of Enrichment Widgets.
-&#160;
-Widgets provide critical enrichment data, delivering key insights often encapsulated in just a few lines of text, which is pivotal in the realm of cybersecurity.
-&#160;
-&#160;
-What are Enrichment Widgets?
-Enrichment Widgets in Microsoft Sentinel are dynamic components designed to provide you with in-depth, actionable intelligence about entities. They integrate external and internal content and data fr...</description>
-    </item>
+    <lastBuildDate>Tue, 21 Nov 2023 08:07:41 GMT</lastBuildDate>
   </channel>
 </rss>
