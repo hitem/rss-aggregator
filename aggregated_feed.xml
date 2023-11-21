@@ -3,15 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Nov 2023 15:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 16:03:57 GMT</lastBuildDate>
     <item>
-      <title>Get email notifications for any actions in Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/get-email-notifications-for-any-actions-in-defender-xdr/ba-p/3976330</link>
-      <pubDate>Tue, 21 Nov 2023 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/get-email-notifications-for-any-actions-in-defender-xdr/ba-p/3976330</guid>
-      <description>Effective cybersecurity operations are a team effort. When there is an important incident, it is crucial to ensure that key stakeholders on the team are promptly informed. Providing immediate notifications for critical activities to relevant team members not only raises awareness but reduces response times and improves alignment among stakeholders. These critical notifications can often involve remediation or response actions that take place on entities such as identities or devices in am organization&#8217;s environment.
+      <title>2023 Holiday DDoS Protection Guide</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/2023-holiday-ddos-protection-guide/ba-p/3989069</link>
+      <pubDate>Tue, 21 Nov 2023 15:23:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/2023-holiday-ddos-protection-guide/ba-p/3989069</guid>
+      <description>Preface
+As the holiday season approaches, businesses and organizations should brace for an increase in Distributed Denial of Service (DDoS) attacks. Historically, this period has seen a spike in such attacks, targeting sectors like e-commerce and gaming that experience heightened activity. DDoS threats persist throughout the year, but the holiday season's unique combination of increased online activity and heightened cyber threats makes it a critical time for heightened vigilance.
 &#160;
-To ensure visibility across the right stakeholders, whether actions are init...</description>
+The Rising Tide of DDoS Attacks in the Holiday Season
+The holiday season is synonymous with a surge in online sh...</description>
     </item>
   </channel>
 </rss>
