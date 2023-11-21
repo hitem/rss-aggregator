@@ -3,17 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Nov 2023 18:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 19:00:58 GMT</lastBuildDate>
     <item>
-      <title>Enhanced action experience (Action wizard V2) from Email entity / Summary panel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-action-experience-action-wizard-v2-from-email-entity/ba-p/3975872</link>
-      <pubDate>Tue, 21 Nov 2023 17:30:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-action-experience-action-wizard-v2-from-email-entity/ba-p/3975872</guid>
-      <description>We are excited to announce the new &#8220;Take actions&#8221; experience in the Email Entity and Email Summary panel. This new experience will allow users to act on threats faster, while also enabling more efficient resolution of issues like False Positives/False Negatives (FP/FN)
-&#160;
-In August 2022, we announced similar functionality with the Action wizard being introduced to the Email Entity panel. After receiving&#160;feedback that users wanted the ability to combine multiple actions together, and for this feature to be accessible in the Email Summary Panel in addition to the Email Entity Panel.
-&#160;
-Now, with t...</description>
+      <title>Securing your GitLab Environment with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-gitlab-environment-with-microsoft-defender-for/ba-p/3989278</link>
+      <pubDate>Tue, 21 Nov 2023 18:35:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-gitlab-environment-with-microsoft-defender-for/ba-p/3989278</guid>
+      <description>Introduction&#160;
+In the dynamic landscape of software development, developers across diverse organizations are embracing a wide variety of Source Code Management (SCM) and CI/CD pipeline systems to optimize their workloads. While this trend presents flexibility, collaboration, and speed to software development, the challenges of securing the application lifecycle become increasingly complex.&#160;As organizations strive to improve security posture by embedding security and compliance capabilities from code to cloud, having a unified and robust platform to help manage and prioritize security signal bec...</description>
     </item>
   </channel>
 </rss>
