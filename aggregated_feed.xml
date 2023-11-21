@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Nov 2023 19:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Securing your GitLab Environment with Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-gitlab-environment-with-microsoft-defender-for/ba-p/3989278</link>
-      <pubDate>Tue, 21 Nov 2023 18:35:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-gitlab-environment-with-microsoft-defender-for/ba-p/3989278</guid>
-      <description>Introduction&#160;
-In the dynamic landscape of software development, developers across diverse organizations are embracing a wide variety of Source Code Management (SCM) and CI/CD pipeline systems to optimize their workloads. While this trend presents flexibility, collaboration, and speed to software development, the challenges of securing the application lifecycle become increasingly complex.&#160;As organizations strive to improve security posture by embedding security and compliance capabilities from code to cloud, having a unified and robust platform to help manage and prioritize security signal bec...</description>
-    </item>
+    <lastBuildDate>Tue, 21 Nov 2023 20:01:09 GMT</lastBuildDate>
   </channel>
 </rss>
