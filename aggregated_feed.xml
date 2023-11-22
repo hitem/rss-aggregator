@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Nov 2023 16:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 17:01:08 GMT</lastBuildDate>
+    <item>
+      <title>Security Tech Accelerator - Join us on December 6</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-join-us-on-december-6/ba-p/3988451</link>
+      <pubDate>Wed, 22 Nov 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-join-us-on-december-6/ba-p/3988451</guid>
+      <description>We hope you were able to join us at Microsoft Ignite this past week! As a follow-up, the&#160;Security, Compliance, and Identity Tech Community will be hosting a virtual Tech Accelerator event.
+&#160;
+What is a Tech Accelerator?
+A Tech Accelerator is a virtual event hosted on the Microsoft Tech Community Platform. The event consists of a variety of deep dives and live AMAs for you to engage with Microsoft Product Experts and ask questions. Our goal is to connect you to your security peers and equip you with the technical knowledge that will help you and your team safely and confidently adopt AI.
+&#160;
+Where...</description>
+    </item>
   </channel>
 </rss>
