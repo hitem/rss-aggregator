@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Nov 2023 14:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 15:01:21 GMT</lastBuildDate>
+    <item>
+      <title>Defender for Cloud unified Vulnerability Assessment powered by Defender Vulnerability Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-unified-vulnerability-assessment-powered-by/ba-p/3990112</link>
+      <pubDate>Wed, 22 Nov 2023 14:48:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-unified-vulnerability-assessment-powered-by/ba-p/3990112</guid>
+      <description>Microsoft Defender for Cloud is a multicloud application protection platform (CNAPP) designed to protect your cloud-based applications from code-to-cloud. A key component of cloud security is continuously monitoring and managing new vulnerabilities across your cloud workloads. Vulnerability management helps organizations improve their security posture, reduce the attack surface, and prevent security breaches.
+We are thrilled to announce that Defender for Cloud is unifying our vulnerability assessment engine to Microsoft Defender Vulnerability Management (MDVM)&#160;across servers and containers. Se...</description>
+    </item>
   </channel>
 </rss>
