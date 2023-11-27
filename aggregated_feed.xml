@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 27 Nov 2023 13:09:19 GMT</lastBuildDate>
-    <item>
-      <title>Effective novelty detection in cloud security domain</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/effective-novelty-detection-in-cloud-security-domain/ba-p/3987688</link>
-      <pubDate>Mon, 27 Nov 2023 12:31:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/effective-novelty-detection-in-cloud-security-domain/ba-p/3987688</guid>
-      <description>Introduction
-In cloud security domain, we often need to monitor entities &#8211; such as users, IP addresses, applications, or access tokens &#8211; and their patterns of behavior. We might want to detect &#8216;novelties&#8217; &#8211; unexpected and previously unseen values of these entities - which can indicate security issues. Some examples of such scenarios are:
-
-IP address belonging to a previously unseen ASN range accesses cloud storage.
-Previously unseen application logs to SQL database.
-A new user logs to an administration portal.
-
-Novelty might indicate a security incident &#8211; in which case an alert should be sent ...</description>
-    </item>
+    <lastBuildDate>Mon, 27 Nov 2023 14:01:10 GMT</lastBuildDate>
   </channel>
 </rss>
