@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 27 Nov 2023 21:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 22:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel: Public preview of Microsoft Defender for Cloud to Defender XDR integration</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-public-preview-of-microsoft-defender-for/ba-p/3992792</link>
+      <pubDate>Mon, 27 Nov 2023 21:21:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-public-preview-of-microsoft-defender-for/ba-p/3992792</guid>
+      <description>At Ignite 2023 we announced the Public Preview of Microsoft Defender for Cloud integration into Microsoft Defender XDR. As a Microsoft Sentinel customer, you can benefit from this powerful integration in your own workspaces using the Defender XDR Incidents and Alerts connector simplifying attack detection by streaming merged detections from various sources. Security teams can now have visibility across all their cloud resources, devices and identities.&#160;
+&#160;
+To take advantage of this integration and synchronize their entire collection of subscriptions with their tenant-based Defender for Cloud in...</description>
+    </item>
   </channel>
 </rss>
