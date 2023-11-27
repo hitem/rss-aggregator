@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 27 Nov 2023 19:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 20:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Simplifying Onboarding to Microsoft Defender for Cloud with Terraform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/simplifying-onboarding-to-microsoft-defender-for-cloud-with/ba-p/3974789</link>
+      <pubDate>Mon, 27 Nov 2023 19:17:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/simplifying-onboarding-to-microsoft-defender-for-cloud-with/ba-p/3974789</guid>
+      <description>If you are looking for a way to onboard Microsoft Defender for Cloud (MDC) with Terraform, you are in luck! In this blog post, we will introduce you to a new Terraform module that simplifies and enhances the onboarding experience for MDC. This module allows you to configure MDC plans for your subscriptions or management groups with just a few lines of code. You will also learn how to use this module in different scenarios, such as onboarding a single subscription, multiple subscriptions, or all subscriptions where you have owner permissions. By the end of this blog post, you will be able to on...</description>
+    </item>
   </channel>
 </rss>
