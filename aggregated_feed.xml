@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Nov 2023 22:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Connecting to Azure Services on the Microsoft Global Network</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/connecting-to-azure-services-on-the-microsoft-global-network/ba-p/3994886</link>
-      <pubDate>Tue, 28 Nov 2023 21:20:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/connecting-to-azure-services-on-the-microsoft-global-network/ba-p/3994886</guid>
-      <description>In this article&#160;
-Microsoft Global Network&#160;
-Default Public Access&#160;
-Service Endpoints&#160;
-Private Link&#160;
-Internet Routing Preference&#160;
-&#160;
-Azure Services and the solutions you deploy into Azure are connected to the Microsoft global wide-area network also known as the Microsoft Global Network or the Azure Backbone. There are a few different ways to connect to an Azure service from a subnet, depending on your requirements around securing access to these services. Your requirements should dictate which method you choose.&#8239;There are some common misconceptions around connectivity, and the goal of this articl...</description>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2023 23:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
