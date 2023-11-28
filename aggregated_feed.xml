@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Nov 2023 05:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Public Preview: Microsoft Fabric Items in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-microsoft-fabric-items-in-microsoft-purview/ba-p/3991085</link>
-      <pubDate>Tue, 28 Nov 2023 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-microsoft-fabric-items-in-microsoft-purview/ba-p/3991085</guid>
-      <description>With Microsoft Fabric and Microsoft Purview together you can store, analyze, and govern your data seamlessly and efficiently. In addition to integrating Purview data security and compliance capabilities throughout Fabric, we are also infusing Fabric items into the Microsoft Purview Data Map. The Data Map is automatically provisioned and attached to every Fabric instance by default with no set-up required. You can browse and search your Fabric a. For easy access to all these Purview capabilities, we&#8217;ve created a centralized page called the Purview Hub, currently in public preview, which serves ...</description>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2023 06:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
