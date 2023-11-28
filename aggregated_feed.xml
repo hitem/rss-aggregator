@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Nov 2023 11:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 12:09:32 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas:  No.1 - A Creative Use for Intune Remediations</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-1-a-creative-use-for-intune/ba-p/3992433</link>
+      <pubDate>Tue, 28 Nov 2023 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-1-a-creative-use-for-intune/ba-p/3992433</guid>
+      <description>Happy Holidays folks!&#160;
+&#160;
+I had a wild-hair idea to write one short blog post, per day, for 12 days along the theme of the &#8220;Twelve Days of Christmas&#8221; song.&#160; I made the mistake of mentioning the idea to one Arnab Mitra - yes, THAT Arnab Mitra.&#160; Don't let the smile fool you - he twisted my arm to follow through on the idea, soooo here you go.&#160;&#160;
+&#160;
+You won&#8217;t find seven swans a-swimming, nor ten lords a-leaping, but here&#8217;s one drummer-drumming (queue Neil Peart). &#160;&#160;
+&#160;
+P.S. I created a temporary user, a temporary PC and other temporary elements to use for making this content.&#160; I've since deleted them...</description>
+    </item>
   </channel>
 </rss>
