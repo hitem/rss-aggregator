@@ -3,16 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Nov 2023 17:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 18:07:02 GMT</lastBuildDate>
     <item>
-      <title>Defender EASM - Performing a Successful Proof of Concept (PoC)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/defender-easm-performing-a-successful-proof-of-concept-poc/ba-p/3994862</link>
-      <pubDate>Wed, 29 Nov 2023 16:06:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/defender-easm-performing-a-successful-proof-of-concept-poc/ba-p/3994862</guid>
-      <description>Welcome to an introduction of the concepts and simple approach required for executing a successful Proof of Concept (PoC) for Microsoft Defender External Attack Surface Management (Defender EASM). This article will serve as a high-level guide to help you execute a simple framework for evaluating Defender EASM, and other items to consider when embarking on the journey to understand the Internet exposed digital assets that comprise your external attack surface, so you can view risks through the same lens as a malicious threat actor. 
-&#160;
-Planning for the PoC&#160;
-To ensure success, the first step is p...</description>
+      <title>Defender for cloud's Agentless secret scanning for virtual machines is now generally available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-s-agentless-secret-scanning-for-virtual/ba-p/3994018</link>
+      <pubDate>Wed, 29 Nov 2023 17:41:53 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-s-agentless-secret-scanning-for-virtual/ba-p/3994018</guid>
+      <description>Cloud cybersecurity is of paramount importance in today's digital landscape, as organizations increasingly rely on cloud services to store and manage sensitive data, applications, and infrastructure. Attacks on cloud infrastructure pose severe risks to organizations such as data theft, ransomware attacks, crypto mining attacks, and service disruption.
+During a cyber-attack, after gaining initial access to the target network, the attacker begins to move deeper into the network in search of sensitive data and other high-value assets. This stage, called lateral movement, is critical, as it enable...</description>
     </item>
   </channel>
 </rss>
