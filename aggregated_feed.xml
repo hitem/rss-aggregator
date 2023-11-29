@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Nov 2023 12:09:33 GMT</lastBuildDate>
-    <item>
-      <title>The Twelve Days of Blog-mas:  No.2 - Windows Web Sign in and Passwordless</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-2-windows-web-sign-in-and/ba-p/3992445</link>
-      <pubDate>Wed, 29 Nov 2023 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-2-windows-web-sign-in-and/ba-p/3992445</guid>
-      <description>Hi folks - welcome to the second post in the holiday '23 series.
-&#160;
-Today's post is about a&#160;capability that came to preview long ago but recently surprised much of the world and moved to General Availability (GA).
-&#160;
-This allows you to sign-in to a Windows PC itself via the familiar web sign in form/pop-up dialog box:
-
-&#160;
-With this sign-in method, you certainly can use your password but passwords are so &#8216;yesterday&#8217; &#8230; &#160;Let&#8217;s go passwordless and use MS Authenticator - which can be a form of &#8216;multi-factor&#8217; sign in.
-
-IMPORTANT: This sign in method is called &#8216;web sign in&#8217; &#8211; if there is no &#8216;web,&#8217; then ...</description>
-    </item>
+    <lastBuildDate>Wed, 29 Nov 2023 13:08:33 GMT</lastBuildDate>
   </channel>
 </rss>
