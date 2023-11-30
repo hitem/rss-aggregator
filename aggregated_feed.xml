@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Nov 2023 07:01:02 GMT</lastBuildDate>
-    <item>
-      <title>Identifying Adversary-in-the-Middle (AiTM) Phishing Attacks through 3rd-Party Network Detection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/identifying-adversary-in-the-middle-aitm-phishing-attacks/ba-p/3991358</link>
-      <pubDate>Thu, 30 Nov 2023 06:13:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/identifying-adversary-in-the-middle-aitm-phishing-attacks/ba-p/3991358</guid>
-      <description>Adversary-in-the-Middle (AiTM) phishing attacks represent an emerging and concerning trend, surpassing conventional phishing methods in their sophistication. These attacks possess the capability to maneuver around the security measures of multifactor authentication (MFA) by leveraging reverse-proxy functionality.
-&#160;
-&#160;One prominent actor, identified as DEV-1101 and tracked by Microsoft, stands responsible for the development, facilitation, and promotion of various AiTM phishing kits. These kits are made available for purchase or rental, enabling other cybercriminals to perpetrate sophisticated p...</description>
-    </item>
+    <lastBuildDate>Thu, 30 Nov 2023 08:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
