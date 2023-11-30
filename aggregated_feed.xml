@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Nov 2023 11:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 12:09:29 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas:  No.3 - Windows Local Admin Password Solution (LAPS)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-3-windows-local-admin-password/ba-p/3992457</link>
+      <pubDate>Thu, 30 Nov 2023 12:05:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-3-windows-local-admin-password/ba-p/3992457</guid>
+      <description>Buenos d&#237;as and welcome to n&#250;mero tres in the holiday '23 series.&#160;
+&#160;
+This one is sure to please the crowd &#8211; it&#8217;s the NEW AND IMPRVOED easy to setup/deploy/use solution for when IT Ops/Support needs a local admin ID and password to perform some management task(s) on a Windows endpoint.&#160;
+&#160;
+As many people know, we have long-had a popular solution for this - but now it's been updated to work on-prem or in the cloud and has a robust set of features:
+
+Secure storage of the password value in on-prem AD or Entra ID
+Manage the built in Administrator account or a custom local account
+PowerShell support
+...</description>
+    </item>
   </channel>
 </rss>
