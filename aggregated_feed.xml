@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 01 Dec 2023 11:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 12:09:26 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas:  No.4 - Sync Cloud Groups from AAD/Entra ID back to Active Directory</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-4-sync-cloud-groups-from-aad/ba-p/3992464</link>
+      <pubDate>Fri, 01 Dec 2023 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-4-sync-cloud-groups-from-aad/ba-p/3992464</guid>
+      <description>"Number four?" &lt;spoken in the deli counter attendant's dead-pan voice&gt;
+&#160;
+For a loooong time, you and I have been waiting for the ability to sync &#8216;cloud-born-and-managed&#8217; security groups (and their memberships) back into on-premises AD.&#160; This takes us further on our journey of moving "the management plane" from on-prem AD to the cloud - and provides you the ability to create/manage groups in the cloud to manage resource access in Active Directory.&#160;&#160;
+&#160;
+BLINKING CAUTION LIGHT:&#160;
+
+This V2 Group Writeback feature is in public preview.
+You're playing with Directory Services fire here.
+This is a helpf...</description>
+    </item>
   </channel>
 </rss>
