@@ -3,30 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Nov 2023 23:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Security Tech Accelerator &#8211; Next week!</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-next-week/ba-p/3994656</link>
-      <pubDate>Thu, 30 Nov 2023 22:55:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-next-week/ba-p/3994656</guid>
-      <description>Save the date today for the post-Ignite Security Tech Accelerator - aka.ms/AccelerateSecurity
-&#160;
-As a follow-up from Ignite, we will be hosting a deeper dive into the announcements shared and give you the chance to ask our product teams questions (register for a Tech Community Profile now so you can ask questions live, during the event). Our goal is to connect you to your security peers and equip you with the technical knowledge that will help you and your team safely and confidently adopt AI.
-&#160;
-Preview of the December 6 Tech Accelerator:
-
-
-
-
-Sessions
-
-
-Time
-
-
-
-
-Improve your security posture wi...</description>
-    </item>
+    <lastBuildDate>Fri, 01 Dec 2023 00:29:48 GMT</lastBuildDate>
   </channel>
 </rss>
