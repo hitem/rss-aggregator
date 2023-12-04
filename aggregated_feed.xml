@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Dec 2023 10:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 11:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Azure Firewall: New Embedded Workbooks</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-new-embedded-workbooks/ba-p/3999795</link>
+      <pubDate>Mon, 04 Dec 2023 10:13:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-new-embedded-workbooks/ba-p/3999795</guid>
+      <description>After our previous announcement in August 2023, we want to delve deeper into the enhanced capabilities of the new embedded workbooks. Within Azure, Workbooks serve as a versatile canvas for conducting data analysis and generating visually compelling reports directly within the Azure portal. They empower users to access diverse data sources across Azure, amalgamating them into cohesive, interactive experiences. Workbooks enable the amalgamation of various visualizations and analyses, making them ideal for unrestricted exploration.
+Notably, the Azure Firewall Portal has now incorporated embedded...</description>
+    </item>
   </channel>
 </rss>
