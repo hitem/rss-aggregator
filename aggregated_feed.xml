@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Dec 2023 16:04:36 GMT</lastBuildDate>
-    <item>
-      <title>Deploy secret-less Conditional Access policies with Microsoft Entra ID Workload Identity Federation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/deploy-secret-less-conditional-access-policies-with-microsoft/ba-p/3997289</link>
-      <pubDate>Mon, 04 Dec 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/deploy-secret-less-conditional-access-policies-with-microsoft/ba-p/3997289</guid>
-      <description>Background&#160;
-&#160;
-Many customers face challenges in managing their Conditional Access (CA) policies. Over time, they accumulate more and more policies that are created ad-hoc to solve specific business scenarios, resulting in a loss of overview and increased troubleshooting efforts. Microsoft has provided guidance on how to structure your Conditional Access policies in a way that follows the Zero Trust principles, using a persona-based approach.&#160;The guidance includes a set of Conditional Access policies that can serve as a starting point. These CA policies can be automated from a CI/CD pipeline us...</description>
-    </item>
+    <lastBuildDate>Mon, 04 Dec 2023 17:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
