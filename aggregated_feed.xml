@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Dec 2023 14:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 15:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Better Together = Defender CSPM + Database Protections</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-defender-cspm-database-protections/ba-p/3999976</link>
+      <pubDate>Mon, 04 Dec 2023 14:43:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-defender-cspm-database-protections/ba-p/3999976</guid>
+      <description>By default, there are over 30 recommendations pertaining to database resources spread across Azure, AWS, and GCP.&#160; Quite often, the Cloud Security Admin who is spending time in Defender for Cloud isn&#8217;t the person responsible for the configuration or remediation of a database resource.&#160; If your Database Administrators are swamped with work (highly likely), the Cloud Security Admin needs to ensure that their asks of the Database Administrators have a high return on investment.&#160; With the combination of Defender CSPM + database protection plans, we can achieve that ROI with Attack Paths and Cloud ...</description>
+    </item>
   </channel>
 </rss>
