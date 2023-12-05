@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Dec 2023 13:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 14:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Discover, monitor and protect the use of Generative AI apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-monitor-and-protect-the-use-of-generative-ai-apps/ba-p/3999228</link>
+      <pubDate>Tue, 05 Dec 2023 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-monitor-and-protect-the-use-of-generative-ai-apps/ba-p/3999228</guid>
+      <description>Organizations are adopting Generative AI at a rapid rate. For instance, it took only 2 months for ChatGPT to reach 100 million users, one of the fastest adopted technologies ever. A core challenge is having visibility into hundreds of newly developed Generative AI apps and understanding their risk. As employees incorporate Generative AI apps into their daily activities, security teams struggle with how to effectively manage these apps in a secure way without disrupting productivity. According to Gartner, more than 80% of enterprises will be using Generative AI apps or deploy Generative AI-enab...</description>
+    </item>
   </channel>
 </rss>
