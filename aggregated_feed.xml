@@ -3,28 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Dec 2023 00:27:14 GMT</lastBuildDate>
-    <item>
-      <title>Switch to the new Defender for Resource Manager pricing plan</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/switch-to-the-new-defender-for-resource-manager-pricing-plan/ba-p/4001636</link>
-      <pubDate>Tue, 05 Dec 2023 23:13:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/switch-to-the-new-defender-for-resource-manager-pricing-plan/ba-p/4001636</guid>
-      <description>Introduction
-Hi folks! My name is Felipe Binotto, Cloud Solution Architect, based in Australia.
-&#160;
-In case you missed it, a new pricing plan has been announced for Microsoft Defender for Resource Manager.
-&#160;
-The legacy pricing plan (per-API call) is priced at $4 per 1M API Calls, which can become a bit expensive if there is a lot going on in your subscriptions.
-&#160;
-
-&#160;
-The new pricing plan (per-subscription) is priced at $5 per subscription per month.
-&#160;
-
-&#160;
-We have made available a workbook which provides a cost estimation for all the Defender plans across all your subscriptions.
-&#160;
-For more informat...</description>
-    </item>
+    <lastBuildDate>Wed, 06 Dec 2023 01:45:52 GMT</lastBuildDate>
   </channel>
 </rss>
