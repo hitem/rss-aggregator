@@ -3,27 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 07 Dec 2023 12:09:37 GMT</lastBuildDate>
-    <item>
-      <title>The Twelve Days of Blog-mas: No. 7 - Architecture Visuals - for Your Reference or Your Own Docs</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-7-architecture-visuals-for-your/ba-p/4002939</link>
-      <pubDate>Thu, 07 Dec 2023 12:03:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-7-architecture-visuals-for-your/ba-p/4002939</guid>
-      <description>A softball for #7 &#8230; enjoy!&#160;&#160;
-&#160;
-Learn from Ours:
-I am a visual learner - so I love these!&#160;
-
-Browse Azure Architectures - Azure Architecture Center | Microsoft Learn
-High-level architecture for Microsoft Intune | Microsoft Learn
-Apps Workload slider in Co-management
-Windows 365 high-level architecture diagram | Microsoft Learn
-
-&#160;
-Make Your Own:
-I like Visio, icons and graphics to help me make sense of things but as I peruse my own visual creations on my posts, it's clear I'm lazy and informal with how I use them.&#160; I'll grab one icon from one style, and another icon from a different style&#160;.
-
-Azur...</description>
-    </item>
+    <lastBuildDate>Thu, 07 Dec 2023 13:08:53 GMT</lastBuildDate>
   </channel>
 </rss>
