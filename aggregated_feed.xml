@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Dec 2023 19:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 20:01:12 GMT</lastBuildDate>
+    <item>
+      <title>Azure WAF tuning with AD B2C applications</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-with-ad-b2c-applications/ba-p/4000480</link>
+      <pubDate>Fri, 08 Dec 2023 19:24:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-with-ad-b2c-applications/ba-p/4000480</guid>
+      <description>Azure Active Directory B2C (Azure AD B2C) provides business-to-customer identity as a service to get single sign-on access to your applications and APIs. This provides an authorization layer for applications hosted behind Application Gateway and Azure Front Door. However, some false positives may occur during the final authentication process. 
+When working on false positives, a good practice is to look out for results with a similar tracking reference. (See Understanding WAF logs). Tracking references give an overall idea of the added scores that led to a block. This can be seen in logs with a...</description>
+    </item>
   </channel>
 </rss>
