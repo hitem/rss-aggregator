@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Dec 2023 12:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 13:07:46 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas: No. 8 - The Evolution of Windows Server Management</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-8-the-evolution-of-windows-server/ba-p/4002958</link>
+      <pubDate>Fri, 08 Dec 2023 12:54:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-8-the-evolution-of-windows-server/ba-p/4002958</guid>
+      <description>Aloha and Happy Friday!
+&#160;
+As was discussed previously, our Endpoint Management modernization story is compelling.&#160; The server team overheard that good news and is curious - but the Server Management discipline is quite different than Endpoint management.
+&#160;
+Server teams manage/operate systems that are usually locked away in datacenters &#8211; either their own and/or a cloud provider.&#160; They&#8217;re usually not exposed to physical loss or theft, nor people shoulder-surfing at a coffee shop.&#160; They&#8217;re usually only accessible via remote management capabilities.&#160; They usually have much more stringent change co...</description>
+    </item>
   </channel>
 </rss>
