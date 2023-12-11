@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Dec 2023 16:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 17:01:09 GMT</lastBuildDate>
+    <item>
+      <title>Security Tech Accelerator Thank You and Resources</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-thank-you-and-resources/ba-p/4003677</link>
+      <pubDate>Mon, 11 Dec 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-thank-you-and-resources/ba-p/4003677</guid>
+      <description>Thank you to everyone who attended the Tech Accelerator last week! And thank you as well to the speakers and presenters. We hope you all found value hearing directly from Microsoft Experts as well as got your questions answered throughout the day.
+&#160;
+Below are a couple of resources and next steps:
+&#160;
+
+We know most of you have BUT, if you have not yet created your Microsoft Tech Community profile you can visit aka.ms/communityregistration to do so today. This will allow you to engage in discussions, comment on blog posts, and ask questions at the next Tech Community AMA or event!
+Visit the Micros...</description>
+    </item>
+    <item>
+      <title>Microsoft Defender XDR unified role-based access control (RBAC) model is now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-xdr-unified-role-based-access-control-rbac/ba-p/3993793</link>
+      <pubDate>Mon, 11 Dec 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-xdr-unified-role-based-access-control-rbac/ba-p/3993793</guid>
+      <description>Managing permissions within large organizations across various workloads can be complex and time-consuming. For security operation center (SOC) teams, speed and efficiency matter in their daily work. To streamline permission management and improve efficiency for the SOC, this January we announced the public preview of the new role-based access control (RBAC) capability in Microsoft Defender XDR to help unify roles and permissions management across various domains.
+&#160;
+Microsoft has continuously enhanced and expanded the unified RBAC model in our Microsoft Defender XDR. Today we are excited to sh...</description>
+    </item>
   </channel>
 </rss>
