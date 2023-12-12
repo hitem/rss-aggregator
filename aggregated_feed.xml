@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Dec 2023 20:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 21:00:54 GMT</lastBuildDate>
+    <item>
+      <title>Protect your organizations against QR code phishing with Defender for Office 365</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protect-your-organizations-against-qr-code-phishing-with/ba-p/4007041</link>
+      <pubDate>Tue, 12 Dec 2023 20:37:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protect-your-organizations-against-qr-code-phishing-with/ba-p/4007041</guid>
+      <description>QR code phishing campaigns have most recently become the fastest growing type of email-based attack. These types of attacks are growing and embed QR code images linked to malicious content directly into the email body, to evade detection. They often entice unwitting users with seemingly genuine prompts, like a password reset or a two-factor authentication request. Microsoft Defender for Office 365 is continuously adapting as threat actors evolve their methodologies. In this blog post we&#8217;ll share more details on how we&#8217;re helping defenders address this threat and keeping end-users safe.What is ...</description>
+    </item>
   </channel>
 </rss>
