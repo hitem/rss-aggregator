@@ -3,15 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Dec 2023 17:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 18:01:30 GMT</lastBuildDate>
     <item>
-      <title>&#8203;&#8203;Strengthening identity protection in the face of highly sophisticated attacks&#8203;&#8203;</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthening-identity-protection-in-the-face-of-highly/ba-p/4006009</link>
-      <pubDate>Tue, 12 Dec 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthening-identity-protection-in-the-face-of-highly/ba-p/4006009</guid>
-      <description>When it comes to security at Microsoft, we&#8217;re customer zero as our Chief Security Advisor and CVP Bret Arsenault often emphasizes. That means we think a lot about how we build security into everything we do&#8212;not only for our customers&#8212;but for ourselves. We continuously work to improve the built-in security of our products and platforms. With the unparalleled breadth of our digital landscape and the integral role we play in our customers&#8217; businesses, we feel a unique responsibility to take a leadership role in securing the future for our customers, ourselves, and our community.&#160;
-&#160;
-To that end, o...</description>
+      <title>Securing AD CS: Microsoft Defender for Identity's Sensor Unveiled</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-ad-cs-microsoft-defender-for-identity-s-sensor-unveiled/ba-p/3980265</link>
+      <pubDate>Tue, 12 Dec 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-ad-cs-microsoft-defender-for-identity-s-sensor-unveiled/ba-p/3980265</guid>
+      <description>Active Directory Certificate Services (AD CS) is commonly used in Active Directory environments to manage Public Key Infrastructure (PKI) and it plays a critical role in instrumenting digital certificates. Because of its ability to generate password-equivalent digital certificates, AD CS servers are classified as tier-0 assets whose compromise can be as catastrophic as a compromise to a Domain Controller itself. Despite being a prime target, AD CS security has been largely overlooked by security products and professionals over the years allowing cyber-criminals to continue exploiting gaps in p...</description>
     </item>
   </channel>
 </rss>
