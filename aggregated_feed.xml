@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Dec 2023 16:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 17:00:50 GMT</lastBuildDate>
+    <item>
+      <title>&#8203;&#8203;Strengthening identity protection in the face of highly sophisticated attacks&#8203;&#8203;</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthening-identity-protection-in-the-face-of-highly/ba-p/4006009</link>
+      <pubDate>Tue, 12 Dec 2023 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthening-identity-protection-in-the-face-of-highly/ba-p/4006009</guid>
+      <description>When it comes to security at Microsoft, we&#8217;re customer zero as our Chief Security Advisor and CVP Bret Arsenault often emphasizes. That means we think a lot about how we build security into everything we do&#8212;not only for our customers&#8212;but for ourselves. We continuously work to improve the built-in security of our products and platforms. With the unparalleled breadth of our digital landscape and the integral role we play in our customers&#8217; businesses, we feel a unique responsibility to take a leadership role in securing the future for our customers, ourselves, and our community.&#160;
+&#160;
+To that end, o...</description>
+    </item>
   </channel>
 </rss>
