@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Dec 2023 11:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:09:56 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas: No.9 - It&#8217;s a Multi-Tenant and Cross-Platform World: Part I</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-9-it-s-a-multi-tenant-and-cross/ba-p/4005290</link>
+      <pubDate>Tue, 12 Dec 2023 12:08:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-9-it-s-a-multi-tenant-and-cross/ba-p/4005290</guid>
+      <description>Greetings!&#160; Before the cloud, when on-prem Active Directory was the hub of many enterprise architectures, business needs often drove the requirement to expand single-domain AD forests into multi-domain AD forests.&#160; Even in the NT days, one might have 'Account Domains' and 'Resource Domains' - connected via one-ways trusts.&#160; As was often the case, multiple existing NT 4.0 domains were 'upgraded' into a single AD forest, as additional domains.&#160; These days, a single-domain AD Forest is pretty rare for main-stream use.
+&#160;
+Over time, mergers and acquisitions, divestitures, compliance requirements, a...</description>
+    </item>
   </channel>
 </rss>
