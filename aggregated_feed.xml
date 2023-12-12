@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Dec 2023 18:01:30 GMT</lastBuildDate>
-    <item>
-      <title>Securing AD CS: Microsoft Defender for Identity's Sensor Unveiled</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-ad-cs-microsoft-defender-for-identity-s-sensor-unveiled/ba-p/3980265</link>
-      <pubDate>Tue, 12 Dec 2023 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-ad-cs-microsoft-defender-for-identity-s-sensor-unveiled/ba-p/3980265</guid>
-      <description>Active Directory Certificate Services (AD CS) is commonly used in Active Directory environments to manage Public Key Infrastructure (PKI) and it plays a critical role in instrumenting digital certificates. Because of its ability to generate password-equivalent digital certificates, AD CS servers are classified as tier-0 assets whose compromise can be as catastrophic as a compromise to a Domain Controller itself. Despite being a prime target, AD CS security has been largely overlooked by security products and professionals over the years allowing cyber-criminals to continue exploiting gaps in p...</description>
-    </item>
+    <lastBuildDate>Tue, 12 Dec 2023 19:01:01 GMT</lastBuildDate>
   </channel>
 </rss>
