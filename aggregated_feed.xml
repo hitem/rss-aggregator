@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Dec 2023 16:04:29 GMT</lastBuildDate>
-    <item>
-      <title>Enhancements to Microsoft Entra certificate-based authentication</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhancements-to-microsoft-entra-certificate-based-authentication/ba-p/1061417</link>
-      <pubDate>Wed, 13 Dec 2023 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhancements-to-microsoft-entra-certificate-based-authentication/ba-p/1061417</guid>
-      <description>At Ignite 2022, we announced the general availability of Microsoft Entra certificate-based authentication (CBA) as part of Microsoft&#8217;s commitment to Executive Order 14028, Improving the Nation&#8217;s Cybersecurity. Based on our experience working with government customers, PIV/CAC cards are the most common authentication method used within the federal government. While valuable for all customers, the ability to use X.509 certificate for authentication directly against Entra ID is particularly critical for federal government organizations using PIV/CAC cards and looking to easily comply with the Exe...</description>
-    </item>
+    <lastBuildDate>Wed, 13 Dec 2023 17:01:06 GMT</lastBuildDate>
   </channel>
 </rss>
