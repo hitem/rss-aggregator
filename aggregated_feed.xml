@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Dec 2023 21:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 22:01:00 GMT</lastBuildDate>
+    <item>
+      <title>How to Manage Risk and Compliance Initiatives</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-manage-risk-and-compliance-initiatives/ba-p/4000488</link>
+      <pubDate>Wed, 13 Dec 2023 21:33:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-manage-risk-and-compliance-initiatives/ba-p/4000488</guid>
+      <description>This month's episode of Uncovering Hidden Risks discusses how organizations today are faced with high volumes of information and increasing compliance requirements. How can we successfully execute policies and meet regulatory requirements without burdening employees?
+&#160;
+Joining our host Erica Toelle is our guest, Patrick Chavez. Patrick is the Chief Privacy Officer at Edward Jones. He leads the firm&#8217;s privacy efforts and develops and implements policies and processes related to preparing for and responding to cyber and privacy incidents. He also oversees the firm&#8217;s Records and Information Manag...</description>
+    </item>
   </channel>
 </rss>
