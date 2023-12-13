@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Dec 2023 11:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 12:09:31 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas: No.10 - It&#8217;s a Multi-Tenant and Cross-Platform World: Part II</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-10-it-s-a-multi-tenant-and-cross/ba-p/4006060</link>
+      <pubDate>Wed, 13 Dec 2023 12:07:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-10-it-s-a-multi-tenant-and-cross/ba-p/4006060</guid>
+      <description>In Part I of this mini-series, I discussed some of the new hotness around multi-tenant capabilities in our Entra ID space.&#160; In Part II, I'll cover cross-platform support across several of our cloud services.&#160; The cloud era ushered in mainstream cross-platform support from many Microsoft services.&#160; Like the title of this post says, anymore, it's a cross-platform world.&#160; &#160; &#160; &#160; &#160; &#160; &#160;
+&#160;
+Intune
+Nowhere is this more pronounced than in Intune, which now provides a very polished and rich set of MDM and MAM capabilities for numerous platforms.&#160; Device enrollment and configuration, application deploymen...</description>
+    </item>
   </channel>
 </rss>
