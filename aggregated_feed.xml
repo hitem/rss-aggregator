@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Dec 2023 18:00:57 GMT</lastBuildDate>
-    <item>
-      <title>A new, modern, and secure print experience from Windows</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645</link>
-      <pubDate>Wed, 13 Dec 2023 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645</guid>
-      <description>Over the past year, the MORSE team has been working in collaboration with the Windows Print team to modernize the Windows Print System. This new design represents one of the largest changes to the Windows Print stack in more than 20 years. The goal was to build a more modern and secure print system that maximizes compatibility and puts users first. We are calling this new platform Windows Protected Print Mode (WPP). We believe users should be Secure-by-Default which is why WPP will eventually be on by default in Windows.
-&#160;
-Recently, we announced our plan to end servicing for third-party driver...</description>
-    </item>
-    <item>
-      <title>Malware Detection in Sentinel for Azure Firewall</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/malware-detection-in-sentinel-for-azure-firewall/ba-p/4006106</link>
-      <pubDate>Wed, 13 Dec 2023 17:57:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/malware-detection-in-sentinel-for-azure-firewall/ba-p/4006106</guid>
-      <description>Malware refers to any software that is designed to cause damage, disruption, or compromise the security and functionality of computer systems, networks, or devices. It includes diverse types of threats, such as viruses, worms, trojans, ransomware, spyware, adware, rootkits, and more. Malware can have various negative impacts, such as stealing sensitive data, encrypting, or deleting files, displaying unwanted ads, slowing down performance, or even taking control of the device.
-&#160;
-Azure Firewall IDPS feature automatically detects and denies Malware by default and can prevent the cloud workloads f...</description>
-    </item>
+    <lastBuildDate>Wed, 13 Dec 2023 19:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
