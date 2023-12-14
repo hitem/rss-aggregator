@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Dec 2023 14:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 15:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Security Analyst Profile: Amanda Cantero Schilling</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-amanda-cantero-schilling/ba-p/4006182</link>
+      <pubDate>Thu, 14 Dec 2023 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-amanda-cantero-schilling/ba-p/4006182</guid>
+      <description>
+
+&#160;
+Security Analyst Profile: Amanda Cantero Schilling
+
+Defender Experts for XDR
+
+
+&#160;
+"Securing the digital frontier is not just about stopping cyber threats; it's about understanding the ever-evolving landscape, fostering genuine connections with our customers, and embracing the endless possibilities that Artificial Intelligence brings to our cybersecurity toolset."
+- Amanda Cantero Schilling, Security Analyst
+&#160;
+
+&#160;
+Meet Amanda Cantero Schilling, a highly skilled cybersecurity analyst on a mission to fortify the defenses of Microsoft Defender Experts for XDR customers. As a vigilant guardian of...</description>
+    </item>
   </channel>
 </rss>
