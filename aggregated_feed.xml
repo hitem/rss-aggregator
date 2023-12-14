@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Dec 2023 18:07:13 GMT</lastBuildDate>
-    <item>
-      <title>Get greater flexibility across iOS deployments with User Enrollment support in Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-flexibility-across-ios-deployments-with-user/ba-p/4002544</link>
-      <pubDate>Thu, 14 Dec 2023 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-flexibility-across-ios-deployments-with-user/ba-p/4002544</guid>
-      <description>The evolution of modern work sparked widespread adoption of bring-your-own device (BYOD) policies in organizations. This trend added complexity to mobile security deployments by challenging security and IT teams to protect work data without accessing personal data on those devices. With deployment options like Apple&#8217;s &#8220;User Enrollment&#8221;, work data and personal data on user-enrolled iOS devices are containerized on separate volumes on the same phone. This separation of work and personal data makes it easier than ever for security and IT teams to protect the most critical work data and applicatio...</description>
-    </item>
+    <lastBuildDate>Thu, 14 Dec 2023 19:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
