@@ -3,27 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Dec 2023 15:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 16:01:05 GMT</lastBuildDate>
     <item>
-      <title>Security Analyst Profile: Amanda Cantero Schilling</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-amanda-cantero-schilling/ba-p/4006182</link>
-      <pubDate>Thu, 14 Dec 2023 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-amanda-cantero-schilling/ba-p/4006182</guid>
-      <description>
-
+      <title>Introducing New Features of Microsoft Entra Permissions Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-features-of-microsoft-entra-permissions/ba-p/2466925</link>
+      <pubDate>Thu, 14 Dec 2023 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-features-of-microsoft-entra-permissions/ba-p/2466925</guid>
+      <description>Microsoft Entra Permissions Management is a Cloud Infrastructure Entitlement Management (CIEM) solution that helps organizations manage the permissions of any identity across organizations&#8217; multicloud infrastructure. With Permissions Management, organizations can assess, manage, and monitor identities and their permissions continuously and right-size them based on past activity.
 &#160;
-Security Analyst Profile: Amanda Cantero Schilling
-
-Defender Experts for XDR
-
-
+Today, we&#8217;re thrilled to unveil the details of our Ignite announcement and introduce new features and APIs for Permissions Management, enhancing your overall permissions management experience.&#160;
 &#160;
-"Securing the digital frontier is not just about stopping cyber threats; it's about understanding the ever-evolving landscape, fostering genuine connections with our customers, and embracing the endless possibilities that Artificial Intelligence brings to our cybersecurity toolset."
-- Amanda Cantero Schilling, Security Analyst
-&#160;
-
-&#160;
-Meet Amanda Cantero Schilling, a highly skilled cybersecurity analyst on a mission to fortify the defenses of Microsoft Defender Experts for XDR customers. As a vigilant guardian of...</description>
+Permissions Manageme...</description>
     </item>
   </channel>
 </rss>
