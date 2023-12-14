@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Dec 2023 11:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 12:09:36 GMT</lastBuildDate>
+    <item>
+      <title>The Twelve Days of Blog-mas: No.11 - The Kitchen Sink</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-11-the-kitchen-sink/ba-p/4008421</link>
+      <pubDate>Thu, 14 Dec 2023 12:05:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-11-the-kitchen-sink/ba-p/4008421</guid>
+      <description>Hi folks!
+&#160;
+I am running out of days for my &#8220;Twelve Days&#8221; timeframe, so I&#8217;m dropping a pile of topics here that I feel are important/helpful but less-known.
+&#160;
+Apologies in advance for the brevity and link-breadcrumbs.
+&#160;
+On-prem App Provisioning + MIM Connector Re-use
+
+For a loooong time, we have been waiting for the ability to provision on-prem users/apps as well as re-use existing MIM connectors.&#160; There are some caveats (a big one is no support for AD provisioning at this time) but there is good progress here.
+
+Microsoft Entra on-premises application provisioning architecture | Microsoft Lear...</description>
+    </item>
   </channel>
 </rss>
