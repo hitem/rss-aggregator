@@ -3,16 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Dec 2023 17:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 18:07:13 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Purview Exact Data Match (EDM) support for multi-token corroborative evidence</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-exact-data-match-edm-support-for-multi-token/ba-p/3924695</link>
-      <pubDate>Thu, 14 Dec 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-exact-data-match-edm-support-for-multi-token/ba-p/3924695</guid>
-      <description>Introducing multi-token support for corroborative evidence in Exact Data Match
-A new feature that improves the accuracy and effectiveness of EDM detection.
-&#160;
-Exact Data Match (EDM) is a powerful feature that allows you to detect sensitive data, such as customers&#8217; personally identifiable information (PII), in your organization based on your own data sources; this may include customer records, employee records, or patient records. EDM works by hashing your data and uploading the hashes to Microsoft 365, where it can be used to create custom sensitive information types (SITs) that match the hashe...</description>
+      <title>Get greater flexibility across iOS deployments with User Enrollment support in Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-flexibility-across-ios-deployments-with-user/ba-p/4002544</link>
+      <pubDate>Thu, 14 Dec 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-flexibility-across-ios-deployments-with-user/ba-p/4002544</guid>
+      <description>The evolution of modern work sparked widespread adoption of bring-your-own device (BYOD) policies in organizations. This trend added complexity to mobile security deployments by challenging security and IT teams to protect work data without accessing personal data on those devices. With deployment options like Apple&#8217;s &#8220;User Enrollment&#8221;, work data and personal data on user-enrolled iOS devices are containerized on separate volumes on the same phone. This separation of work and personal data makes it easier than ever for security and IT teams to protect the most critical work data and applicatio...</description>
     </item>
   </channel>
 </rss>
