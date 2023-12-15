@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Dec 2023 13:08:05 GMT</lastBuildDate>
-    <item>
-      <title>The Twelve Days of Blog-mas: No.12 - Copilot(s) - Your AI Assistant(s)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-12-copilot-s-your-ai-assistant-s/ba-p/4009497</link>
-      <pubDate>Fri, 15 Dec 2023 12:14:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-12-copilot-s-your-ai-assistant-s/ba-p/4009497</guid>
-      <description>Tally ho!
-&#160;
-Now, you didn't really think I would go for 12 without one about Copilot, did you?&#160;
-&#160;
-Our AI/ML efforts have been on-going for a long time, but very recently, they've gone mainstream -and SUCH a cool logo/icon.&#160; Be aware, though, for now, this space changes frequently, varies by region/market and software version (Windows, Office apps, Edge, etc.).&#160; Docs, product names, major and minor functionality are all moving very fast.&#160; Do your brain a favor and make some peace with that - but then, jump into the pool!&#160;
-&#160;
-So, what IS Copilot?&#160;
-After working with these technologies a lot recen...</description>
-    </item>
+    <lastBuildDate>Fri, 15 Dec 2023 14:01:21 GMT</lastBuildDate>
   </channel>
 </rss>
