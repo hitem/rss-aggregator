@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Dec 2023 17:00:53 GMT</lastBuildDate>
-    <item>
-      <title>Advancing Cybersecurity: The Latest enhancement in Phishing-Resistant Authentication</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advancing-cybersecurity-the-latest-enhancement-in-phishing/ba-p/2365681</link>
-      <pubDate>Fri, 15 Dec 2023 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advancing-cybersecurity-the-latest-enhancement-in-phishing/ba-p/2365681</guid>
-      <description>Today, I&#8217;m excited to share with you several new developments in the journey towards phishing-resistant authentication for all users!&#160; This isn&#8217;t just essential for compliance with Executive Order&#160;14028 on Improving the Nation's Cybersecurity but is increasingly critical for the safety of all the orgs and users who bet on digital identity.
-&#160;
-TL;DR? Here&#8217;s the cheat sheet!
-&#160;
-
-Microsoft Authenticator announces phishing-resistant passkey support.
-Microsoft Authenticator is FIPS 140-3 compliant on all platforms.
-More configuration options for PIV/CAC authentication.
-FIDO2 support for iOS and MacOS...</description>
-    </item>
+    <lastBuildDate>Fri, 15 Dec 2023 18:07:11 GMT</lastBuildDate>
   </channel>
 </rss>
