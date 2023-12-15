@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Dec 2023 04:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 05:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview and Azure Databricks Better Together</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-and-azure-databricks-better-together/ba-p/4009551</link>
+      <pubDate>Fri, 15 Dec 2023 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-and-azure-databricks-better-together/ba-p/4009551</guid>
+      <description>Microsoft Purview integrates with Azure Databricks and Unity Catalog to help you discover Lakehouse data and bring its metadata into Data Map. Microsoft Purview empowers you to govern your entire data estate across on-premises, multi-cloud, and SaaS applications, serving as a complete &#8220;catalog of catalogs&#8221;.
+&#160;
+General Availability of Metadata Integration
+We are thrilled to announce the general availability of Azure Databricks Unity Catalog metadata scan. With this integration, you can now:
+
+Scan Azure Databricks in both public and private networks, powered by the fully managed Microsoft Purview...</description>
+    </item>
+    <item>
+      <title>Investigating malicious OAuth applications using the Unified Audit Log</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/investigating-malicious-oauth-applications-using-the-unified/ba-p/4007172</link>
+      <pubDate>Fri, 15 Dec 2023 04:08:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/investigating-malicious-oauth-applications-using-the-unified/ba-p/4007172</guid>
+      <description>Abstract
+Supply chain attacks continue to evolve in sophistication with new TTPs emerging every few months. In this article we highlight some of the most recently observed TTPs and our recommendations for investigating and mitigating them in your environments. Specifically, Microsoft is seeing new and ongoing incidents where Threat Actors are compromising a trusted partner such as a cloud solution provider or reseller partner to gain access to a victim organization. This access is often in the form of creating or modifying an enterprise application so that the Threat Actor can use that applica...</description>
+    </item>
   </channel>
 </rss>
