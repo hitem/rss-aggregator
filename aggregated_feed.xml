@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Dec 2023 06:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 07:00:52 GMT</lastBuildDate>
+    <item>
+      <title>Designing Cloud Architecture: Creating Professional Azure Diagrams with PowerPoint</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/designing-cloud-architecture-creating-professional-azure/ba-p/3996707</link>
+      <pubDate>Mon, 18 Dec 2023 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/designing-cloud-architecture-creating-professional-azure/ba-p/3996707</guid>
+      <description>Introduction
+&#160;
+In the fast-evolving landscape of cloud computing, the ability to visually represent complex architectures is not just a skill but a necessity. Among the myriad of tools and platforms, Microsoft Azure stands as a titan, offering a vast array of services that cater to diverse computing needs. However, the true challenge lies in effectively communicating the structure and functionality of Azure-based solutions. This is where the power of visualization comes into play, and surprisingly, a tool as familiar as PowerPoint emerges as an unlikely ally.
+&#160;
+Imagine transforming the humble ...</description>
+    </item>
   </channel>
 </rss>
