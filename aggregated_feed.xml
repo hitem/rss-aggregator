@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Dec 2023 19:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Agentless scanning for virtual machines in the cloud &#8211; technical deep dive</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-scanning-for-virtual-machines-in-the-cloud-technical/ba-p/4012256</link>
-      <pubDate>Mon, 18 Dec 2023 18:45:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-scanning-for-virtual-machines-in-the-cloud-technical/ba-p/4012256</guid>
-      <description>Over the past three years, a notable shift has unfolded in the realm of cloud security. Increasingly, security vendors are introducing agentless scanning solutions to enhance the protection of their customers. These solutions empower users with visibility into their security posture and the ability to detect threats &#8212; all achieved without the need to install any additional software, commonly referred to as an agent, onto their workloads.
-This transformative phase in cloud security, embracing the agentless approach, owes its development to the robust suite of management APIs offered by cloud se...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Dec 2023 20:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
