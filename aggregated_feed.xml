@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Dec 2023 16:06:28 GMT</lastBuildDate>
-    <item>
-      <title>Introduction to Network Trace Analysis 4: DNS (it's always DNS)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-4-dns-it-s-always-dns/ba-p/4005803</link>
-      <pubDate>Mon, 18 Dec 2023 15:41:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-4-dns-it-s-always-dns/ba-p/4005803</guid>
-      <description>Howdy everyone! I'm back to talk about one of my favorite causes of heartache, the domain name system (DNS). This will be our first foray into an&#8239;application layer protocol. The concept of DNS is simple enough, but it can lead to some confusing situations if you don't keep its function in mind. No time to waste, let's get going!&#160;
-&#160;
-What's the deal with DNS?&#160;
-&#160;
-The core of DNS is that it is used like a key-value pair. You ask a DNS server for information with a key, and it provides the value. This can be things like:&#160;
-
-Computer names to IPv4 addresses (A records)&#160;
-Computer names to IPv6 address...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Dec 2023 17:01:23 GMT</lastBuildDate>
   </channel>
 </rss>
