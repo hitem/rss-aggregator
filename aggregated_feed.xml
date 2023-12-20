@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Dec 2023 23:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:21:51 GMT</lastBuildDate>
+    <item>
+      <title>MDTI Adds Microsoft Threat Intelligence to Silobreaker</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-adds-microsoft-threat-intelligence-to-silobreaker/ba-p/4013296</link>
+      <pubDate>Tue, 19 Dec 2023 23:07:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-adds-microsoft-threat-intelligence-to-silobreaker/ba-p/4013296</guid>
+      <description>We are pleased to announce Microsoft Defender Threat Intelligence (MDTI)&#8217;s powerful new integration with Silobreaker. Silobreaker produces a reputation score for indicators of compromise (IOCs) based on a variety of open and commercial intelligence sources. Silobreaker users can now also access MDTI&#8217;s rich reputation scoring against IOCs, specifically IP addresses and domains, using Silobreaker&#8217;s 360 Search. MDTI&#8217;s reputation feature combines the power of its raw and finished threat intelligence, which tap into more than 65 trillion daily threat signals, machine learning algorithms, and over 8...</description>
+    </item>
   </channel>
 </rss>
