@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Dec 2023 19:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Azure Firewall's Auto Learn SNAT Routes: A Guide to Dynamic Routing and SNAT Configuration</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-s-auto-learn-snat-routes-a-guide-to-dynamic/ba-p/4014744</link>
-      <pubDate>Thu, 21 Dec 2023 18:05:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-s-auto-learn-snat-routes-a-guide-to-dynamic/ba-p/4014744</guid>
-      <description>Introduction&#160;
-&#160;
-Azure Firewall is a cloud-native network security service that protects your Azure virtual network resources. It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability. However, some Azure Firewall customers may face challenges when they need to configure non-RFC-1918 address spaces to not SNAT through the Azure Firewall. This can cause issues with routing, connectivity, and performance. To address this problem, Azure Firewall has introduced a new feature that allows customers to specify which address spaces should not be SN...</description>
-    </item>
+    <lastBuildDate>Thu, 21 Dec 2023 20:00:47 GMT</lastBuildDate>
   </channel>
 </rss>
