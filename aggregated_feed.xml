@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Dec 2023 16:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Securing DevOps with Microsoft's CNAPP: Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-devops-with-microsoft-s-cnapp-defender-for-cloud/ba-p/4014608</link>
-      <pubDate>Thu, 21 Dec 2023 15:54:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-devops-with-microsoft-s-cnapp-defender-for-cloud/ba-p/4014608</guid>
-      <description>As the landscape of DevOps continues to expand and confront increasingly sophisticated security threats, the need for proactive attack surface reduction measures has never been more critical. To enhance DevOps security and prevent attacks, Defender for Cloud, a Cloud Native Application Protection Platform (CNAPP), is enabling customers with new capabilities: DevOps Environment Posture Management, Code to Cloud Mapping for Service Principals, and new DevOps Attack Paths. These features represent a strategic shift towards a more integrated and holistic approach to cloud native application securi...</description>
-    </item>
+    <lastBuildDate>Thu, 21 Dec 2023 17:00:57 GMT</lastBuildDate>
   </channel>
 </rss>
