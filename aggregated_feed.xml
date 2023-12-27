@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Dec 2023 17:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 18:01:37 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Separation of scan levels for Azure SQL Database and Snowflake in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-separation-of-scan-levels-for-azure-sql-database/ba-p/4016255</link>
+      <pubDate>Wed, 27 Dec 2023 17:39:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-separation-of-scan-levels-for-azure-sql-database/ba-p/4016255</guid>
+      <description>Scanning is a key function that captures metadata from data sources and brings it to Microsoft Purview. In Microsoft Purview Data Map terminology, there are three different levels of scanning based on the metadata scope and functionalities:
+
+L1 scan: Extracts basic information and metadata like file name, size, and fully qualified name
+L2 scan: Extracts schema for structured file types and database tables
+L3 scan: Extracts schema where applicable and subjects the sampled file to the system and custom classification rules
+
+So far the different scan levels are integral parts of the scanning proc...</description>
+    </item>
   </channel>
 </rss>
