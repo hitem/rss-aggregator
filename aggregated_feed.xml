@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Jan 2024 17:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Addressing Data Exfiltration: Token Theft Talk</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/addressing-data-exfiltration-token-theft-talk/ba-p/3915337</link>
-      <pubDate>Tue, 02 Jan 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/addressing-data-exfiltration-token-theft-talk/ba-p/3915337</guid>
-      <description>Let&#8217;s continue our discussion on preventing data exfiltration. In previous blogs, we shared Microsoft&#8217;s approach to securing authentication sessions with Continuous Access Evaluation (CAE) and discussed securing cross-tenant access with Tenant Restrictions v2. Today our topic is stolen authentication artifacts.
-&#160;
-Stolen authentication artifacts &#8211; tokens and cookies &#8211; can be used to impersonate the victim and gain access to everything the victim had access to. Up until a few years ago, token theft was a rare attack and was most often exercised by corporate Red Teams. Why? Because it&#8217;s simpler t...</description>
-    </item>
+    <lastBuildDate>Tue, 02 Jan 2024 18:07:11 GMT</lastBuildDate>
   </channel>
 </rss>
