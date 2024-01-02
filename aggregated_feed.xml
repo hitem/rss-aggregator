@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Jan 2024 11:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Become a Microsoft Unified SOC Platform Ninja</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565</link>
-      <pubDate>Tue, 02 Jan 2024 10:26:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565</guid>
-      <description>(Last updated January 2024)
-&#160;
-** The integration of Microsoft Sentinel into the Defender portal is currently in private preview, with the eventual goal of a fully integrated and aligned user experience.&#160; The early preview, specific feature information mentioned here is under development and therefore subject to change. Our recommendation is to regularly check for new developments and improvements.&#160;**
-&#160;
-Getting started with XDR+SIEM Unified Experience? Watch the Ignite video:Unifying XDR + SIEM: A new era in SecOps
-&#160;
-What is happening to Microsoft Sentinel and Defender XDR?
-We are bringing toge...</description>
-    </item>
+    <lastBuildDate>Tue, 02 Jan 2024 12:09:16 GMT</lastBuildDate>
   </channel>
 </rss>
