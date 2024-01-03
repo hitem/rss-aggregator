@@ -3,6 +3,36 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Jan 2024 19:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 20:01:10 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Microsoft Purview Data Map Audit History</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-microsoft-purview-data-map-audit-history/ba-p/4020723</link>
+      <pubDate>Wed, 03 Jan 2024 19:52:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-microsoft-purview-data-map-audit-history/ba-p/4020723</guid>
+      <description>We are excited to announce the public preview of the Data Map Audit history feature in Microsoft Purview.
+&#160;
+When a user updates an asset in Microsoft Purview, data map history logs that change and makes the information available in the Microsoft Purview portal. Information about who added or edited an asset, what edits were made, and when the edit happened, is stored for reference later. This information helps data auditors and business owners to maintain compliance and security in their Microsoft Purview accounts. It also allows data stewards and admins to debug issues and curation in their d...</description>
+    </item>
+    <item>
+      <title>Security Analyst Profile: Arlette Umuhire Sangwa</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-arlette-umuhire-sangwa/ba-p/4018243</link>
+      <pubDate>Wed, 03 Jan 2024 19:04:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-arlette-umuhire-sangwa/ba-p/4018243</guid>
+      <description>
+
+&#160;
+Security Analyst Profile: Arlette Umuhire Sangwa
+
+Defender Experts for XDR
+
+
+&#160;
+"I remember hearing about hospitals suffering from ransomware attacks at the heights of the COVID-19 pandemic. Events like that highlight to me the urgency of early detection and effective communication to defend organizations against bad actors online. It's not just about protecting data - it's about safeguarding the very services and institutions that are crucial for our society, especially in times of crisis."
+- Arlette Umuhire Sangwa, Security Analyst 
+&#160;
+
+&#160;
+In our ongoing Microsoft Defender Experts for XDR b...</description>
+    </item>
   </channel>
 </rss>
