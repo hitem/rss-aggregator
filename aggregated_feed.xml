@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Jan 2024 21:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 22:00:54 GMT</lastBuildDate>
+    <item>
+      <title>Onboarding Intune managed iOS User Enrollment devices to Microsoft Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/onboarding-intune-managed-ios-user-enrollment-devices-to/ba-p/4020858</link>
+      <pubDate>Wed, 03 Jan 2024 21:39:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/onboarding-intune-managed-ios-user-enrollment-devices-to/ba-p/4020858</guid>
+      <description>Overview
+Microsoft Defender for Endpoint is a unified endpoint security platform that provides protection, detection, investigation, and response capabilities. To use Microsoft Defender for Endpoint on iOS devices, you need to onboard them to the service and assign licenses to users.
+This blog post explains the onboarding process of the recently announced support of Microsoft Defender for Endpoint on Intune managed iOS/iPadOS devices enrolled with Apple User Enrollment mode. This enrollment method was introduced with iOS 13 that allows users to enroll their personal devices in a way that prote...</description>
+    </item>
   </channel>
 </rss>
