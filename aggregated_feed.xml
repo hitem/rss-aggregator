@@ -3,6 +3,79 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 07 Jan 2024 15:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 16:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - January 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-january-2024/ba-p/4022467</link>
+      <pubDate>Sun, 07 Jan 2024 15:21:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-january-2024/ba-p/4022467</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+January 2024 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from December 2023.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+&#160;
+
+
+It is now possible to manage Defender for Servers on specific resources within your subscription, giving you full...</description>
+    </item>
   </channel>
 </rss>
