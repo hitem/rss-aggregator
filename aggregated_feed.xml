@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Jan 2024 16:04:12 GMT</lastBuildDate>
-    <item>
-      <title>Easily Manage Privileged Role Assignments in Microsoft Entra ID Using Audit Logs</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/easily-manage-privileged-role-assignments-in-microsoft-entra-id/ba-p/4013854</link>
-      <pubDate>Mon, 08 Jan 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/easily-manage-privileged-role-assignments-in-microsoft-entra-id/ba-p/4013854</guid>
-      <description>One of the best practices for securing your organization's data is to follow the principle of least privilege, which means granting users the minimum level of permissions they need to perform their tasks. Microsoft Entra ID helps you apply this principle by offering a wide range of built-in roles as well as allowing you to create custom roles and assign them to users or groups based on their responsibilities and access needs. You can also use Entra ID to review and revoke any role assignments that are no longer needed or appropriate.
-&#160;
-It can be easy to lose track of role assignments if admin ...</description>
-    </item>
+    <lastBuildDate>Mon, 08 Jan 2024 17:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
