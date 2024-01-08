@@ -519,3 +519,5 @@
 2024-01-08T13:29:43 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/intune-ios-ipados-management-in-a-nutshell/ba-p/4015363
 2024-01-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/easily-manage-privileged-role-assignments-in-microsoft-entra-id/ba-p/4013854
 2024-01-08T17:19:06 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783
+2024-01-08T19:10:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-azure-devops-to-manage-sentinel-for-mssps-and-multi-tenant/ba-p/4008109
+2024-01-08T19:11:49 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leveraging-cef-with-azure-monitor-agent-ama-for-gcp-hosted/ba-p/3948748

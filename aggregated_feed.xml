@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Jan 2024 19:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 20:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Leveraging CEF with Azure Monitor Agent (AMA) for GCP-Hosted Fortinet Firewall and Syslog Forwarder,</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leveraging-cef-with-azure-monitor-agent-ama-for-gcp-hosted/ba-p/3948748</link>
+      <pubDate>Mon, 08 Jan 2024 19:11:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leveraging-cef-with-azure-monitor-agent-ama-for-gcp-hosted/ba-p/3948748</guid>
+      <description>Understand What purpose this Blog Serves:
+Let's break down the blog title to understand its purpose:
+Leveraging CEF with Azure Monitor Agent (AMA) for GCP-Hosted Fortinet Firewall and Syslog Forwarder:
+This part emphasizes using Common Event Format (CEF) with Azure Monitor Agent (AMA) for monitoring and analysing logs from Fortinet firewall and Syslog Forwarder hosted in Google Cloud Platform (GCP).
+Connecting via Azure Arc:
+Azure Arc is introduced to onboard non-Azure machines. This step ensures that even resources outside of Azure can be integrated into Azure's monitoring and security infras...</description>
+    </item>
+    <item>
+      <title>Use Azure DevOps to manage Sentinel for MSSPs and Multi-tenant Environments</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-azure-devops-to-manage-sentinel-for-mssps-and-multi-tenant/ba-p/4008109</link>
+      <pubDate>Mon, 08 Jan 2024 19:10:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-azure-devops-to-manage-sentinel-for-mssps-and-multi-tenant/ba-p/4008109</guid>
+      <description>One of the challenges of managing Sentinel instances in multi-tenant scenarios is ensuring consistent and secure deployment of Sentinel resources (connectors, analytics rules, playbooks, workbooks, etc.) across different Sentinel instances. Manually configuring these components for each tenant can be time-consuming, error-prone, and difficult to scale. Using Azure DevOps to automate and streamline the deployment and configuration of Sentinel components can address these challenges.
+&#160;
+A feature in Sentinel that enables this automation and streamlining is Sentinel Repositories. Sentinel Reposito...</description>
+    </item>
   </channel>
 </rss>
