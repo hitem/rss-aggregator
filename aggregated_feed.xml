@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Jan 2024 17:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 18:07:14 GMT</lastBuildDate>
+    <item>
+      <title>10 essential insights from the Microsoft Digital Defense Report 2023</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783</link>
+      <pubDate>Mon, 08 Jan 2024 17:19:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783</guid>
+      <description>In an era marked by escalating cyber threats, Microsoft sheds light on the global security landscape through the Microsoft Digital Defense Report 2023. Harnessing extensive security research and a unique vantage point, Microsoft not only comprehends the current state of cybersecurity but also utilizes a diverse range of security data to predict and identify indicators of cyber threats.
+&#160;
+Below are&#160;10 essential insights&#160;from the Microsoft Digital Defense Report 2023
+&#160;
+
+Basic security hygiene still protects against 99% of attacks
+
+Implementing fundamental security practices can prevent most cybe...</description>
+    </item>
   </channel>
 </rss>
