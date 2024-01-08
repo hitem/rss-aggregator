@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Jan 2024 13:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 14:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Intune iOS/iPadOS Management In a Nutshell</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/intune-ios-ipados-management-in-a-nutshell/ba-p/4015363</link>
+      <pubDate>Mon, 08 Jan 2024 13:29:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/intune-ios-ipados-management-in-a-nutshell/ba-p/4015363</guid>
+      <description>Hi, Jonas here!&#160;
+Or as we say in the north of Germany: "Moin Moin!"&#160;
+I&#8217;m a Microsoft Cloud Solution Architect and this blog post should give a brief overview of how to manage iOS and iPadOS devices with Microsoft Intune and how to get started.&#160;If you are planning to migrate to Intune, I highly recommend the following link to a migration guide some colleagues wrote: https://aka.ms/intunemigrationguide&#160;&#160;&#160;&#160;
+&#160;
+Device Enrollment&#160;
+Enrollment is the process of registering a device with Intune and applying the necessary policies and settings to manage it. There are different methods of enrolling iOS a...</description>
+    </item>
   </channel>
 </rss>
