@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Jan 2024 09:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 10:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Defender for Cloud - Qualys retirement plan for Vulnerability assessment on cloud workloads</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-qualys-retirement-plan-for-vulnerability/ba-p/4024533</link>
+      <pubDate>Tue, 09 Jan 2024 09:54:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-qualys-retirement-plan-for-vulnerability/ba-p/4024533</guid>
+      <description>At Ignite 2023, we unveiled a strategic decision to consolidate our vulnerability assessment engine to the cutting-edge Microsoft Defender Vulnerability Management offering. This strategic shift empowers security administrators with Microsoft's unparalleled threat intelligence, breach likelihood predictions, and business contexts, facilitating the identification, assessment, prioritization, and remediation of vulnerabilities. It also helps simplify how security admins manage an expanded attack surface, reduce overall cloud risk across the software development lifecycle, and cut remediation tim...</description>
+    </item>
   </channel>
 </rss>
