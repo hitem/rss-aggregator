@@ -3,6 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Jan 2024 14:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 15:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - January 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2024/ba-p/4025630</link>
+      <pubDate>Wed, 10 Jan 2024 14:32:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2024/ba-p/4025630</guid>
+      <description>
+
+
+
+Microsoft Defender XDRMonthly newsJanuary 2024 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from November 2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Product improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft Defender XDR
+
+
+
+
+
+
+
+
+"Defender Boxed" is back! During January you can get your personalized SOC summary via Defender Boxed....</description>
+    </item>
   </channel>
 </rss>
