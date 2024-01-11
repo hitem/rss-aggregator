@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Jan 2024 01:46:32 GMT</lastBuildDate>
-    <item>
-      <title>Experience Defender Experts above the fold</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/experience-defender-experts-above-the-fold/ba-p/4026320</link>
-      <pubDate>Thu, 11 Jan 2024 01:42:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/experience-defender-experts-above-the-fold/ba-p/4026320</guid>
-      <description>Since we announced our latest enhancements to Defender Experts for XDR in November 2023, we have received positive feedback from our customers, and continue to take in their suggestions as we work to continuously enhance our service to help elevate their security posture and overall experience throughout our partnership. This blog highlights our newest updates that enable you to experience Defender Experts above the fold, giving you more visibility into what our experts are doing on your behalf.
-&#160;
-New and improved homepage experience&#160;
-As an extended managed detection and response customer, it&#8217;...</description>
-    </item>
+    <lastBuildDate>Thu, 11 Jan 2024 02:23:02 GMT</lastBuildDate>
   </channel>
 </rss>
