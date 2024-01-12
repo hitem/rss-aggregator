@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 12 Jan 2024 17:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Automatic File and URL (Detonation) Analysis</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-automatic-file-and-url-detonation-analysis/ba-p/4000489</link>
-      <pubDate>Fri, 12 Jan 2024 16:53:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-automatic-file-and-url-detonation-analysis/ba-p/4000489</guid>
-      <description>The Microsoft Defender Threat Intelligence (MDTI) team continuously adds new threat intelligence capabilities to MDTI and Defender XDR, giving customers new ways to hunt, research, and contextualize threats. 
-&#160;
-Today, we are excited to share a new feature that enhances our file and URL analysis (detonation) capabilities in the threat intelligence blade within the Defender XDR user interface.&#160;If MDTI cannot return any results when a customer searches for a file or URL, MDTI now automatically detonates it to improve search coverage and add to our corpus of knowledge of the global threat landscap...</description>
-    </item>
+    <lastBuildDate>Fri, 12 Jan 2024 18:07:02 GMT</lastBuildDate>
   </channel>
 </rss>
