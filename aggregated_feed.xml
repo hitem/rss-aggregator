@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 12 Jan 2024 21:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 22:01:08 GMT</lastBuildDate>
+    <item>
+      <title>Identity in focus: Exploring the new ITDR experience within Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-in-focus-exploring-the-new-itdr-experience-within/ba-p/4027129</link>
+      <pubDate>Fri, 12 Jan 2024 21:28:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-in-focus-exploring-the-new-itdr-experience-within/ba-p/4027129</guid>
+      <description>Earlier this year I shared the news that the features and functionality of Microsoft Defender for Identity had been converged into Microsoft Defender XDR and were&#160;now a core part of that experience. Today I am excited to discuss some new enhancements to how our customers can find and engage with their Identity security capabilities. &#160;
+&#160;
+New navigation 
+Identities have become an inherent part of modern security and the latest update to the Microsoft Defender XDR navigation further elevates Identity security within the SOC experience with a new dedicated section for the domain. As illustrated in...</description>
+    </item>
   </channel>
 </rss>
