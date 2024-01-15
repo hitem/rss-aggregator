@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Jan 2024 12:10:03 GMT</lastBuildDate>
-    <item>
-      <title>ConfigMgr CMG Least Privilege Setup Approach</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-cmg-least-privilege-setup-approach/ba-p/4015374</link>
-      <pubDate>Mon, 15 Jan 2024 11:48:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-cmg-least-privilege-setup-approach/ba-p/4015374</guid>
-      <description>Hi, Jonas here!
-Or as we say in the north of Germany: "Moin Moin!"
-I&#8217;m a Microsoft Cloud Solution Architect and this blog post is meant as a guide to setup a ConfigMgr Cloud Management Gateway (CMG) without the need for a Global Admin to use the ConfigMgr console.I will also briefly explain what a CMG is and how the setup looks like in Azure. This part is a mix of the official documentation and of my own view on the product. If you are just looking for the setup guide, you can directly jump to section Least privilege approach
-Feel free to check out my other articles at:&#160;https://aka.ms/JonasOhm...</description>
-    </item>
+    <lastBuildDate>Mon, 15 Jan 2024 13:08:49 GMT</lastBuildDate>
   </channel>
 </rss>
