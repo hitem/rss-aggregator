@@ -3,21 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Jan 2024 16:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 17:01:10 GMT</lastBuildDate>
     <item>
-      <title>Querying Watchlists</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-watchlists/ba-p/4030714</link>
-      <pubDate>Tue, 16 Jan 2024 15:20:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-watchlists/ba-p/4030714</guid>
-      <description>special thanks to&#160;@Ofer_Shezaf for showing me the new function call.
+      <title>Visualize Entra Sign-in Logs using an Interactive Map</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/visualize-entra-sign-in-logs-using-an-interactive-map/ba-p/4013853</link>
+      <pubDate>Tue, 16 Jan 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/visualize-entra-sign-in-logs-using-an-interactive-map/ba-p/4013853</guid>
+      <description>There&#8217;s a plethora of data connectors for Microsoft Sentinel, from Microsoft and Azure services to third party sources and custom logs. This data is only as good as the analytical value it brings. During investigations &#8211; both proactive and reactive &#8211; visualizing data in different formats offers value into finding anomalies, patterns, and insights difficult to spot.
 &#160;
-Watchlists
-Watchlists are a feature of Microsoft Sentinel that provide great flexibility and useability.&#160; They allow for user-defined tables that can be used in KQL queries to provide additional data.&#160; By uploading data using CSV files, users control the data that are in the watchlists and that data can be modified and new rows added as needed.
+When working with data which includes geographic related information such as Microsoft Entra sign-in logs, visualizing the data through a proper medium is essential to making the most use of the data. This is where using interacti...</description>
+    </item>
+    <item>
+      <title>Introducing the new PowerShell Module for Microsoft Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734</link>
+      <pubDate>Tue, 16 Jan 2024 16:53:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734</guid>
+      <description>Today, I am excited to introduce a new PowerShell module designed to help further simplify the deployment and configuration of Microsoft Defender for Identity. This tool will make it easier than ever to protect your organization from identity-based cyber-threats.
 &#160;
-Watchlists provide a "searchkey" field that is unique across the watchlist and can be used to reference an individual row as discussed below.
-&#160;
-Querying Watchlists
-The Microsoft Se...</description>
+Getting started with Identity security can often seem like a daunting task, especially for modern organizations wrangling hybrid, multi-domain environments. Minor misconfigurations can lead to unnecessary stress on Identity infrastructure or worse, blind spots in protection.
+Over the past few months our team has been working hard st...</description>
     </item>
   </channel>
 </rss>
