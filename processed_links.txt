@@ -528,3 +528,4 @@
 2024-01-12T16:53:07 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-automatic-file-and-url-detonation-analysis/ba-p/4000489
 2024-01-12T21:28:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-in-focus-exploring-the-new-itdr-experience-within/ba-p/4027129
 2024-01-15T11:48:16 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-cmg-least-privilege-setup-approach/ba-p/4015374
+2024-01-16T15:20:30 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-watchlists/ba-p/4030714

@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Jan 2024 15:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 16:04:25 GMT</lastBuildDate>
+    <item>
+      <title>Querying Watchlists</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-watchlists/ba-p/4030714</link>
+      <pubDate>Tue, 16 Jan 2024 15:20:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-watchlists/ba-p/4030714</guid>
+      <description>special thanks to&#160;@Ofer_Shezaf for showing me the new function call.
+&#160;
+Watchlists
+Watchlists are a feature of Microsoft Sentinel that provide great flexibility and useability.&#160; They allow for user-defined tables that can be used in KQL queries to provide additional data.&#160; By uploading data using CSV files, users control the data that are in the watchlists and that data can be modified and new rows added as needed.
+&#160;
+Watchlists provide a "searchkey" field that is unique across the watchlist and can be used to reference an individual row as discussed below.
+&#160;
+Querying Watchlists
+The Microsoft Se...</description>
+    </item>
   </channel>
 </rss>
