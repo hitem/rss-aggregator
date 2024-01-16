@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Jan 2024 18:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 19:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Train your users to be more resilient against QR code phishing</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/train-your-users-to-be-more-resilient-against-qr-code-phishing/ba-p/4022667</link>
+      <pubDate>Tue, 16 Jan 2024 18:29:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/train-your-users-to-be-more-resilient-against-qr-code-phishing/ba-p/4022667</guid>
+      <description>QR codes are becoming more popular as a convenient way to access information, services, and products. As a result, bad actors are also using QR codes to trick individuals into scanning malicious QR codes that can compromise the individual&#8217;s devices, accounts, or data. This increasing trend underscores the critical role of end-users being proactively vigilant to avoid these threats.&#160;
+Defender for Office 365 offers comprehensive email security, which includes providing the latest training content about realistic cyber security and social engineering attacks to enable organizations to inform and ...</description>
+    </item>
   </channel>
 </rss>
