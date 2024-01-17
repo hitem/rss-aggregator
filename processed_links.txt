@@ -532,3 +532,4 @@
 2024-01-16T16:53:41 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734
 2024-01-16T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/visualize-entra-sign-in-logs-using-an-interactive-map/ba-p/4013853
 2024-01-16T18:29:30 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/train-your-users-to-be-more-resilient-against-qr-code-phishing/ba-p/4022667
+2024-01-17T13:27:32 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570
