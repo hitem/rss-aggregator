@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Jan 2024 14:01:09 GMT</lastBuildDate>
-    <item>
-      <title>Unleash the full potential of User and Entity Behavior Analytics with our updated workbook</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570</link>
-      <pubDate>Wed, 17 Jan 2024 13:27:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570</guid>
-      <description>This blog post introduces a new and improved version of the User and Entity Behavior Analytics workbook. This workbook uses data from User and Entity Behavior Analytics (UEBA), a feature of Microsoft Sentinel that leverages machine learning and threat intelligence to detect anomalous and potentially malicious behavior of users and devices in your network (for more information see&#160;Identify advanced threats with UEBA).
-&#160;
-UEBA is a powerful tool that can help you identify and respond to various types of cyberattacks, such as insider threats, brute-force attacks, DDoS attacks, and phishing campaig...</description>
-    </item>
+    <lastBuildDate>Wed, 17 Jan 2024 15:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
