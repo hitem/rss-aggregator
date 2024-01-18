@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Jan 2024 16:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 17:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Zero Touch Enrollment of MDE on iOS/iPadOS devices managed by Intune</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-touch-enrollment-of-mde-on-ios-ipados-devices-managed-by/ba-p/4033722</link>
+      <pubDate>Thu, 18 Jan 2024 16:50:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-touch-enrollment-of-mde-on-ios-ipados-devices-managed-by/ba-p/4033722</guid>
+      <description>Introduction
+Microsoft Defender for Endpoint (MDE) is a unified endpoint security platform that helps protect your devices from advanced threats. MDE on iOS/iPadOS devices provides protection against phishing and unsafe network connections. To use MDE on iOS devices, you need to enroll them in Microsoft Intune, a cloud-based service that helps you manage and secure your mobile devices.
+&#160;
+This blog post helps you prepare your environment for zero-touch aka silent enrollment of MDE on your Intune managed iOS/iPadOS devices. Zero Touch enrollment is not available for all scenarios, below is a mat...</description>
+    </item>
   </channel>
 </rss>
