@@ -535,3 +535,4 @@
 2024-01-17T13:27:32 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570
 2024-01-18T14:23:57 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-malware-scanning-for-servers-with-defender-for-cloud/ba-p/4033427
 2024-01-18T16:50:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-touch-enrollment-of-mde-on-ios-ipados-devices-managed-by/ba-p/4033722
+2024-01-19T03:38:36 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/test-your-configurations-and-experience-defender-experts/ba-p/4031434

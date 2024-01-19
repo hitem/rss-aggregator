@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Jan 2024 03:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 04:07:15 GMT</lastBuildDate>
+    <item>
+      <title>Test your configurations and experience Defender Experts Notifications early</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/test-your-configurations-and-experience-defender-experts/ba-p/4031434</link>
+      <pubDate>Fri, 19 Jan 2024 03:38:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/test-your-configurations-and-experience-defender-experts/ba-p/4031434</guid>
+      <description>Threat hunting, an integral part of our Defender Experts services, helps our customers by proactively hunting across endpoints, Office 365, cloud applications and identity for emerging cyberthreats. Defender Experts will investigate anything they find and hand off contextual alert information along with remediation instructions for customers to quickly respond through a Defender Experts Notification.
+&#160;
+We have released the Sample Defender Experts Notification feature which will enable customers to:
+&#160;
+
+Get the Defender Experts Notification experience earlier than when the actual Defender Expert...</description>
+    </item>
   </channel>
 </rss>
