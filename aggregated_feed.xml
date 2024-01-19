@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Jan 2024 18:07:18 GMT</lastBuildDate>
-    <item>
-      <title>Protect faster with Microsoft Defender XDR&#8217;s latest UX enhancements</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497</link>
-      <pubDate>Fri, 19 Jan 2024 17:08:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497</guid>
-      <description>Organizations are facing an unprecedented surge in cyberthreats and a global shortage of security experts, and Security Operations Center (SOC) teams are struggling with managing a rising influx of alerts, incidents, and raw telemetry produced by a variety of security tools to protect endpoints, email, identity, SaaS apps, data, and cloud infrastructure. Balancing the speed of response with the precision required for effective threat detection poses an ongoing challenge for SOC teams in optimizing their operational efficiency.
-To help SOC teams protect faster, this week we are excited to share...</description>
-    </item>
+    <lastBuildDate>Fri, 19 Jan 2024 19:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
