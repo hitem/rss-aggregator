@@ -3,13 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Jan 2024 17:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 18:07:18 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Entra&#8217;s Top 50 Features of 2023</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-s-top-50-features-of-2023/ba-p/3796392</link>
-      <pubDate>Fri, 19 Jan 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-s-top-50-features-of-2023/ba-p/3796392</guid>
-      <description>To kick off 2024, we&#8217;re revisiting the top features delivered in Microsoft Entra over the last calendar year. We served thousands of customers to verify all types of identities and secure, manage, and govern their access to any resource with multicloud identity and network access products. We introduced the latest wave of advancements from Microsoft Entra, expanding into Security Service Edge (SSE), Artificial Intelligence (AI), and accelerating innovations in other key areas like Decentralized Identities, multicloud, and non-human identities, delivering more than a hundred features. Below, yo...</description>
+      <title>Protect faster with Microsoft Defender XDR&#8217;s latest UX enhancements</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497</link>
+      <pubDate>Fri, 19 Jan 2024 17:08:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497</guid>
+      <description>Organizations are facing an unprecedented surge in cyberthreats and a global shortage of security experts, and Security Operations Center (SOC) teams are struggling with managing a rising influx of alerts, incidents, and raw telemetry produced by a variety of security tools to protect endpoints, email, identity, SaaS apps, data, and cloud infrastructure. Balancing the speed of response with the precision required for effective threat detection poses an ongoing challenge for SOC teams in optimizing their operational efficiency.
+To help SOC teams protect faster, this week we are excited to share...</description>
     </item>
   </channel>
 </rss>
