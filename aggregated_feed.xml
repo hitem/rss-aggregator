@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Jan 2024 17:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Create Tasks Repository in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4034558</link>
-      <pubDate>Mon, 22 Jan 2024 16:18:51 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4034558</guid>
-      <description>Important note:
-Before we start with the main topic, Tasks repository, we are happy to announce that starting today, Tasks feature in Microsoft Sentinel is also reaching GA (General Availability)!
-&#160;
-&#160;
-One of the most important factors in running your security operations (SecOps) effectively and efficiently is the standardization of processes. SecOps analysts are expected to perform a list of steps, or tasks, in the process of triaging, investigating, or remediating an incident. Standardizing and formalizing the list of tasks can help keep your SOC running smoothly, ensuring the same requiremen...</description>
-    </item>
+    <lastBuildDate>Mon, 22 Jan 2024 18:07:19 GMT</lastBuildDate>
   </channel>
 </rss>
