@@ -539,3 +539,4 @@
 2024-01-19T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-s-top-50-features-of-2023/ba-p/3796392
 2024-01-19T17:08:28 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497
 2024-01-22T11:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/contextual-risk-estimation-for-effective-prioritization/ba-p/4035425
+2024-01-22T15:45:51 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerable-components-inventory-now-in-public-preview/ba-p/4035357

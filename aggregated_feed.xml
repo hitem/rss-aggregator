@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Jan 2024 15:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 16:06:50 GMT</lastBuildDate>
+    <item>
+      <title>Vulnerable Components Inventory now in public preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerable-components-inventory-now-in-public-preview/ba-p/4035357</link>
+      <pubDate>Mon, 22 Jan 2024 15:45:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerable-components-inventory-now-in-public-preview/ba-p/4035357</guid>
+      <description>In recent years, software supply chain vulnerabilities and related supply chain attacks have become a major concern for security teams across industries. As software systems become increasingly complex and software developers rely more on open-source software packages and commercial third-party software components, it has become difficult for security teams to keep track of and mitigate new vulnerabilities found within software being used in their organizations.
+To address this challenge, Microsoft Defender Vulnerability Management is introducing a dedicated inventory that lists known vulnerab...</description>
+    </item>
   </channel>
 </rss>
