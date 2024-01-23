@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 Jan 2024 16:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 17:00:53 GMT</lastBuildDate>
+    <item>
+      <title>Collect Event Ids using Azure Monitor Agent</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-event-ids-using-azure-monitor-agent/ba-p/4037710</link>
+      <pubDate>Tue, 23 Jan 2024 16:27:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-event-ids-using-azure-monitor-agent/ba-p/4037710</guid>
+      <description>Introduction
+Hello everyone, I am Bindusar (CSA) working with Intune. I have received multiple requests from customers asking to collect specific event IDs from internet-based client machines with either Microsoft Entra ID or Hybrid Joined and upload to Log Analytics Workspace for further use cases. There are several options available like:
+
+Running a local script on client machines and collecting logs. Then using &#8220;Send-OMSAPIIngestionFile&#8221; to upload required information to Log Analytics Workspace.
+
+The biggest challenge with this API is to allow client machines to authenticate directly in Log...</description>
+    </item>
   </channel>
 </rss>

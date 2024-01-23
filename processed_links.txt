@@ -541,3 +541,4 @@
 2024-01-22T11:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/contextual-risk-estimation-for-effective-prioritization/ba-p/4035425
 2024-01-22T15:45:51 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerable-components-inventory-now-in-public-preview/ba-p/4035357
 2024-01-22T16:18:51 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4034558
+2024-01-23T16:27:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-event-ids-using-azure-monitor-agent/ba-p/4037710
