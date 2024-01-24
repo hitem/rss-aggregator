@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Jan 2024 16:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 17:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Navigating the New Frontier: Information Security in the Era of M365 Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/navigating-the-new-frontier-information-security-in-the-era-of/ba-p/4035789</link>
+      <pubDate>Wed, 24 Jan 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/navigating-the-new-frontier-information-security-in-the-era-of/ba-p/4035789</guid>
+      <description>Microsoft Purview with M365 Copilot integration marks a critical juncture in the journey of AI-enhanced productivity tools. As businesses increasingly rely on these technologies, understanding and implementing robust security measures becomes paramount.
+&#160;
+Microsoft Purview enhances Copilot's capabilities and offers a multi-faceted approach to security that cannot be stated.&#160;
+&#160;
+Some of these core capabilities include:
+
+Sensitivity labels: that ensure data categorization aligns with organizational security policies. This plays a crucial role in preventing unintended disclosures.
+Advanced data cl...</description>
+    </item>
   </channel>
 </rss>
