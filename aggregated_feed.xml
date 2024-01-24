@@ -3,20 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Jan 2024 17:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 18:07:24 GMT</lastBuildDate>
     <item>
-      <title>Navigating the New Frontier: Information Security in the Era of M365 Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/navigating-the-new-frontier-information-security-in-the-era-of/ba-p/4035789</link>
-      <pubDate>Wed, 24 Jan 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/navigating-the-new-frontier-information-security-in-the-era-of/ba-p/4035789</guid>
-      <description>Microsoft Purview with M365 Copilot integration marks a critical juncture in the journey of AI-enhanced productivity tools. As businesses increasingly rely on these technologies, understanding and implementing robust security measures becomes paramount.
+      <title>Sensitive info types are now available for non-M365 data assets</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitive-info-types-are-now-available-for-non-m365-data-assets/ba-p/4038292</link>
+      <pubDate>Wed, 24 Jan 2024 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitive-info-types-are-now-available-for-non-m365-data-assets/ba-p/4038292</guid>
+      <description>We are excited to announce that Microsoft Purview has extended the support of Sensitive info types (SITs) to Azure and 3P data assets. Before this release, SITs had only been available for M365-related scenarios. This capability is now available as a Preview to new Microsoft Purview Data Map customers. Existing Microsoft Purview Data Map customers will be offered this capability at a later point.
 &#160;
-Microsoft Purview enhances Copilot's capabilities and offers a multi-faceted approach to security that cannot be stated.&#160;
-&#160;
-Some of these core capabilities include:
-
-Sensitivity labels: that ensure data categorization aligns with organizational security policies. This plays a crucial role in preventing unintended disclosures.
-Advanced data cl...</description>
+With this new capability, you will be able to apply SITs to Azure and 3P data objects manually or automatically, and even for custom SITs. Sensitivity labels will be derived automatically from SITs....</description>
     </item>
   </channel>
 </rss>
