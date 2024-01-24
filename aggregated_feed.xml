@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Jan 2024 13:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 14:00:52 GMT</lastBuildDate>
+    <item>
+      <title>Agentless Container Posture Management in Multicloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-container-posture-management-in-multicloud/ba-p/4037481</link>
+      <pubDate>Wed, 24 Jan 2024 13:58:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-container-posture-management-in-multicloud/ba-p/4037481</guid>
+      <description>&#160;
+Container security is an integral part of Microsoft Defender for Cloud, a Cloud Native Application Platform (CNAPP) as it addresses the unique challenges presented by containerized environments, providing a holistic approach to securing applications and infrastructure in the cloud-native landscape. As organizations embrace multicloud, the silos between cloud environments can become barriers for a holistic approach to container security. Defender for Cloud continues to adapt, offering new capabilities that resonate with the fluidity of multicloud architecture. Our latest additions to AWS and ...</description>
+    </item>
   </channel>
 </rss>
