@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 Jan 2024 19:01:07 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Multi-region and Multi-VNets for Managed Virtual Network in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-multi-region-and-multi-vnets-for-managed-virtual/ba-p/4034144</link>
-      <pubDate>Thu, 25 Jan 2024 18:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-multi-region-and-multi-vnets-for-managed-virtual/ba-p/4034144</guid>
-      <description>Managed Virtual Network (VNet) in Microsoft Purview enables the scenario when your Microsoft Purview and/or data systems restrict network access, you can run the scan on the Managed VNet Integration Runtime (IR) &#8211; a fully managed service by Purview &#8211; to securely connect to them via private endpoints.
-&#160;
-We are excited to announce a new feature enabling multi-region and mult-Vnet support for Managed VNets.
-&#160;
-The new feature provides the ability to:
-
-Create (max 5 Managed VNets) across different regions within a single Purview Account
-Network isolation within their own organizations to address po...</description>
-    </item>
+    <lastBuildDate>Thu, 25 Jan 2024 20:01:08 GMT</lastBuildDate>
   </channel>
 </rss>
