@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 Jan 2024 16:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 17:01:17 GMT</lastBuildDate>
+    <item>
+      <title>Securing the Clouds: Navigating Multi-Cloud Security with Advanced SIEM Strategies</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-the-clouds-navigating-multi-cloud-security-with/ba-p/4035236</link>
+      <pubDate>Thu, 25 Jan 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-the-clouds-navigating-multi-cloud-security-with/ba-p/4035236</guid>
+      <description>Note: this is the first of a four-part blog series that explores the complexities of securing multiple clouds and the limitations of traditional Security Information and Event Management (SIEM) tools. This first article is by a team of Microsoft experts who share their insights and experiences in establishing a comprehensive security posture in a multi-cloud environment. It explores strategies for achieving a unified security stance, implementing Microsoft's security solutions, and realizing the benefits and greater insights of a multi-cloud SOC. It also explores how a threat-based approach is...</description>
+    </item>
   </channel>
 </rss>
