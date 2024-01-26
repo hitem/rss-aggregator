@@ -548,3 +548,6 @@
 2024-01-25T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-the-clouds-navigating-multi-cloud-security-with/ba-p/4035236
 2024-01-25T18:30:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-multi-region-and-multi-vnets-for-managed-virtual/ba-p/4034144
 2024-01-26T01:25:30 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-recommendations-for-impactful-security-posture/ba-p/4040147
+2024-01-26T16:37:44 https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-cybersecurity-geomatch-custom-rules-in-azure-waf/ba-p/4040750
+2024-01-26T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-search-adminauditlog-and/ba-p/4036537
+2024-01-26T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-now-supports-availability-zones/ba-p/4040256

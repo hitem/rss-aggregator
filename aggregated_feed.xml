@@ -3,6 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 Jan 2024 16:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 17:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Important Announcement: Deprecation of Search-AdminAuditLog and New-AdminAuditLogSearch cmdlets</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-search-adminauditlog-and/ba-p/4036537</link>
+      <pubDate>Fri, 26 Jan 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-search-adminauditlog-and/ba-p/4036537</guid>
+      <description>Dear customers,&#160;
+&#160;
+We are writing to inform you about an upcoming change that will affect the way you access and manage your Exchange Online audit logs. Starting from April 30, 2024, we will be deprecating the following four cmdlets in the Exchange Online V3 module:&#160;
+
+Search-AdminAuditLog&#160;
+Search-MailboxAuditLog&#160;
+New-AdminAuditLogSearch&#160;
+New-MailboxAuditLogSearch&#160;
+
+These cmdlets will no longer be available for use after this date, and you will need to switch to a  Search-UnifiedAuditLog cmdlet or Microsoft Purview portal to access your audit logs.&#160;
+&#160;
+Why are we deprecating these cmdlets?&#160;
+We a...</description>
+    </item>
+    <item>
+      <title>Microsoft Purview now supports Availability Zones</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-now-supports-availability-zones/ba-p/4040256</link>
+      <pubDate>Fri, 26 Jan 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-now-supports-availability-zones/ba-p/4040256</guid>
+      <description>Microsoft purview for governance experiences has enabled partial support for availability zones in certain regions and services. The availability zone support would continue to expand to accommodate more regions and services.
+&#160;
+What are Availability Zones?
+Availability Zones provide redundancy for Azure services, enabling tolerance to failures caused by software and hardware issues or natural disasters like earthquakes, floods, and fires. Each availability zone in Azure has its own power, cooling, and networking infrastructure, and consists of one or more datacenters. A high-performance networ...</description>
+    </item>
+    <item>
+      <title>Enhancing Cybersecurity: Geomatch Custom Rules in Azure WAF</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-cybersecurity-geomatch-custom-rules-in-azure-waf/ba-p/4040750</link>
+      <pubDate>Fri, 26 Jan 2024 16:37:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-cybersecurity-geomatch-custom-rules-in-azure-waf/ba-p/4040750</guid>
+      <description>Web application firewalls (WAFs) are essential tools for cyber security professionals who want to protect their web applications from malicious attacks. WAFs can filter, monitor, and block web traffic based on predefined as well as custom rules. Custom rules allow you to create your own unique rule that is evaluated for each request that passes through the WAF. These rules hold higher priority than rules in the managed rulesets and will be processed first. One of the most powerful features of Azure Web Application Firewall is the ability to create geomatch custom rules, which allow you to matc...</description>
+    </item>
   </channel>
 </rss>
