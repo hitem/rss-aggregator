@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 Jan 2024 01:40:12 GMT</lastBuildDate>
-    <item>
-      <title>Defender Experts&#8217; recommendations for impactful security posture management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-recommendations-for-impactful-security-posture/ba-p/4040147</link>
-      <pubDate>Fri, 26 Jan 2024 01:25:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-recommendations-for-impactful-security-posture/ba-p/4040147</guid>
-      <description>Introduction
-The&#160;Microsoft Defender Experts for XDR service provides value to customers from both a proactive and reactive perspective. Proactively, we provide guidance to customers on overall security posture improvements and perform threat hunting to surface malicious activity in their environments. Simultaneously, our team reactively investigates and responds to incidents that occur in customer environments on their behalf. Working with both sides of the security equation, Defender Experts for XDR is uniquely positioned to understand the value of security controls and configurations in term...</description>
-    </item>
+    <lastBuildDate>Fri, 26 Jan 2024 02:15:01 GMT</lastBuildDate>
   </channel>
 </rss>
