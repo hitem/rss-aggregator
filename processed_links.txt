@@ -551,3 +551,4 @@
 2024-01-26T16:37:44 https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-cybersecurity-geomatch-custom-rules-in-azure-waf/ba-p/4040750
 2024-01-26T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-search-adminauditlog-and/ba-p/4036537
 2024-01-26T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-now-supports-availability-zones/ba-p/4040256
+2024-01-29T13:20:44 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-from-the-azure-mma-to-ama-agent/ba-p/4027227

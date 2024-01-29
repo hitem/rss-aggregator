@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Jan 2024 13:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 14:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Migrating from the Azure MMA to AMA Agent</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-from-the-azure-mma-to-ama-agent/ba-p/4027227</link>
+      <pubDate>Mon, 29 Jan 2024 13:20:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-from-the-azure-mma-to-ama-agent/ba-p/4027227</guid>
+      <description>I have another conversation about the sunset of the Microsoft Monitoring Agent (MMA). Back on November 13, 2023 I posted and article on how to do a bulk removal of the Azure MMA agent, but before you can remove the MMA agent you need to have the AMA agent ready to take over the work. Below are details to assist in this endeavor.&#160; *17
+&#160;
+Just as my miniature schnauzer, Raven, loves to explore the backyard, sniffing out new scents and chasing after squirrels, so too must we venture into the world of Azure&#8217;s new AMA agent. Raven&#8217;s curiosity and adaptability are traits we can admire and emulate as ...</description>
+    </item>
   </channel>
 </rss>
