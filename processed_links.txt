@@ -552,3 +552,4 @@
 2024-01-26T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-search-adminauditlog-and/ba-p/4036537
 2024-01-26T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-now-supports-availability-zones/ba-p/4040256
 2024-01-29T13:20:44 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-from-the-azure-mma-to-ama-agent/ba-p/4027227
+2024-01-29T17:38:15 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/scan-microsoft-fabric-items-in-microsoft-purview/ba-p/4041470

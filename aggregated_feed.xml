@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Jan 2024 17:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 18:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Scan Microsoft Fabric Items in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/scan-microsoft-fabric-items-in-microsoft-purview/ba-p/4041470</link>
+      <pubDate>Mon, 29 Jan 2024 17:38:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/scan-microsoft-fabric-items-in-microsoft-purview/ba-p/4041470</guid>
+      <description>Previously we have announced the Public preview for Microsoft Fabric Items in Microsoft Purview and starting from December 13th 2023, scanning Fabric tenants registered with the Fabric data source in Microsoft Purview will capture metadata and lineage from Fabric items including Power BI. The new feature is available in all Microsoft Purview public cloud regions.
+&#160;
+There are no additional configuration steps needed to enable scanning Fabric items besides Power BI for existing scans. To create a new scan, the experience of registering a Fabric tenant and setting up the scan is similar to the Po...</description>
+    </item>
   </channel>
 </rss>
