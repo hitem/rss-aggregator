@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Jan 2024 21:00:54 GMT</lastBuildDate>
-    <item>
-      <title>Bridging the Gap Between Code and Cloud with Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bridging-the-gap-between-code-and-cloud-with-defender-for-cloud/ba-p/4042557</link>
-      <pubDate>Mon, 29 Jan 2024 20:44:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bridging-the-gap-between-code-and-cloud-with-defender-for-cloud/ba-p/4042557</guid>
-      <description>Introduction
-While containers have revolutionized modern software development, the complexity of dependencies in containerized environments and the expanded attack surface they present are still significant hurdles for security professionals. The initial step in securing these environments involves identifying vulnerabilities within container images. Yet, the most time-consuming task can often be identifying the right development team to address these vulnerabilities, particularly the mission-critical ones.
-&#160;
-Microsoft Defender for Cloud addresses this critical need with its container mapping ...</description>
-    </item>
+    <lastBuildDate>Mon, 29 Jan 2024 22:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
