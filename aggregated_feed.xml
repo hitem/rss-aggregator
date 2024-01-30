@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Jan 2024 17:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 18:00:57 GMT</lastBuildDate>
+    <item>
+      <title>Introducing More Granular Certificate-Based Authentication Configuration in Conditional Access</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-more-granular-certificate-based-authentication/ba-p/2365668</link>
+      <pubDate>Tue, 30 Jan 2024 17:04:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-more-granular-certificate-based-authentication/ba-p/2365668</guid>
+      <description>I&#8217;m thrilled to announce the public preview of advanced certificate-based authentication (CBA) options in Conditional Access, which provides the ability to allow access to specific resources based on the certificate Issuer or Policy Object Identifiers (OIDs) properties.&#160;
+&#160;
+Our customers, particularly those in highly regulated industries and government, have expressed the need for more flexibility in their CBA configurations. Using the same certificate for all Entra ID federated applications is not always sufficient. Some resources may require access with a certificate issued by specific issuer...</description>
+    </item>
   </channel>
 </rss>
