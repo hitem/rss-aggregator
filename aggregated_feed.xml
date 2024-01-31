@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 Jan 2024 17:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 18:01:14 GMT</lastBuildDate>
+    <item>
+      <title>Enable your key business needs within Microsoft Sentinel with step-by-step guidance</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enable-your-key-business-needs-within-microsoft-sentinel-with/ba-p/4043687</link>
+      <pubDate>Wed, 31 Jan 2024 17:04:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enable-your-key-business-needs-within-microsoft-sentinel-with/ba-p/4043687</guid>
+      <description>Modernize your security operations center (SOC) with Microsoft Sentinel. Uncover sophisticated threats and respond decisively with an intelligent, comprehensive security information and event management (SIEM) solution for proactive threat detection, investigation, and response.&#160;
+&#160;
+This lightweight guide quickly walks you through business needs related to modernizing your SOC. It helps you make the most of Microsoft security solutions by pointing you to specific training and technical documentation so you can:&#160;
+
+Protect the digital estate&#160;
+Detect issues quickly&#160;
+Focus on what matters&#160;&#160;
+Investi...</description>
+    </item>
   </channel>
 </rss>
