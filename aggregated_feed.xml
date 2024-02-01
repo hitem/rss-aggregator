@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 Jan 2024 23:01:19 GMT</lastBuildDate>
-    <item>
-      <title>Learn more about LinkedIn Smart Link Phish Campaigns</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/learn-more-about-linkedin-smart-link-phish-campaigns/ba-p/4037048</link>
-      <pubDate>Wed, 31 Jan 2024 22:02:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/learn-more-about-linkedin-smart-link-phish-campaigns/ba-p/4037048</guid>
-      <description>Microsoft Defender for Office 365 security research team has observed a rise in the LinkedIn Smart Link phishing campaign. LinkedIn Smart Links are used by LinkedIn business accounts to deliver content and track user content engagements through the LinkedIn Sales Navigator. A typical Smart Link uses the LinkedIn domain followed by a &#8216;code&#8217; parameter with an eight-alphanumeric character ID that may contain underscores and dashes.&#160;&#160;
-However, malicious Smart Links can include other parts of information, such as obfuscated victim emails. Smart Links have proven to bypass security email gateways (S...</description>
-    </item>
+    <lastBuildDate>Thu, 01 Feb 2024 00:27:02 GMT</lastBuildDate>
   </channel>
 </rss>
