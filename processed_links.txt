@@ -557,3 +557,4 @@
 2024-01-30T17:04:18 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-more-granular-certificate-based-authentication/ba-p/2365668
 2024-01-31T17:04:47 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enable-your-key-business-needs-within-microsoft-sentinel-with/ba-p/4043687
 2024-01-31T22:02:03 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/learn-more-about-linkedin-smart-link-phish-campaigns/ba-p/4037048
+2024-02-02T12:29:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2024/ba-p/4046948

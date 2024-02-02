@@ -3,6 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 02 Feb 2024 12:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 13:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - February 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2024/ba-p/4046948</link>
+      <pubDate>Fri, 02 Feb 2024 12:29:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2024/ba-p/4046948</guid>
+      <description>
+
+
+
+Microsoft Defender XDRMonthly newsFebruary&#160;2024 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft Defender XDR
+
+
+
+
+
+
+
+
+Protect faster with Microsoft Defender XDR&#8217;s latest UX enhancements.&#160;To help SOC teams protect faster, we are ...</description>
+    </item>
   </channel>
 </rss>
