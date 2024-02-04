@@ -3,6 +3,78 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 04 Feb 2024 13:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 14:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - February 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-february-2024/ba-p/4048218</link>
+      <pubDate>Sun, 04 Feb 2024 13:50:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-february-2024/ba-p/4048218</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+February2024 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from January 2024.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+&#160;
+
+We're announcing the release of Defender for Cloud's agentless malware detection for Azure virtual machines (VM), A...</description>
+    </item>
   </channel>
 </rss>
