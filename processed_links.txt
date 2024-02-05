@@ -560,3 +560,4 @@
 2024-02-02T12:29:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2024/ba-p/4046948
 2024-02-04T13:50:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-february-2024/ba-p/4048218
 2024-02-05T06:22:58 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-crowdstrike-falcon-data-replicator-v2-data-connector/ba-p/4046961
+2024-02-05T12:13:36 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/monitoring-for-an-azure-server-going-offline/ba-p/4027353
