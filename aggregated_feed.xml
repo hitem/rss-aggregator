@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Feb 2024 06:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 07:01:04 GMT</lastBuildDate>
+    <item>
+      <title>What's New: CrowdStrike Falcon Data Replicator V2 Data Connector is now Generally Available!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-crowdstrike-falcon-data-replicator-v2-data-connector/ba-p/4046961</link>
+      <pubDate>Mon, 05 Feb 2024 06:22:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-crowdstrike-falcon-data-replicator-v2-data-connector/ba-p/4046961</guid>
+      <description>The CrowdStrike Falcon Data replicator V2 Data connector is now Generally Available as a part of the CrowdStrike Falcon Endpoint Protection solution in Microsoft Sentinel Content Hub. The connector leverages an Azure Function based backend to poll and ingest CrowdStrike FDR logs at scale.&#160;Some of the advantages this new V2 data connector offers are:
+&#160;
+
+Improved scaling as per data volume - keeping the performance of ingestion high.
+More data ingestion with the Consumption plan, hence, optimizing cost.
+Ingestion-time Normalization to the ASIM data model, enabling customers to use various normal...</description>
+    </item>
   </channel>
 </rss>
