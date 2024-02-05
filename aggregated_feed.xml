@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Feb 2024 13:01:09 GMT</lastBuildDate>
-    <item>
-      <title>Monitoring for an Azure Server Going Offline</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/monitoring-for-an-azure-server-going-offline/ba-p/4027353</link>
-      <pubDate>Mon, 05 Feb 2024 12:13:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/monitoring-for-an-azure-server-going-offline/ba-p/4027353</guid>
-      <description>My miniature schnauzer, Raven, is a smart and lively dog who loves to hunt for rodents in the yard. She has a keen sense of smell and can detect the slightest movement of her prey. She barks loudly to alert me whenever she finds a potential target and chases after it with all her speed. However, the rodents are too cunning and often escape to a tree or a hole in the ground before she can catch them. She then returns to me with a disappointed look on her face, hoping for a treat or a pat on the head.
-Azure Monitor is like Raven, but much more efficient and reliable. It can monitor your Azure se...</description>
-    </item>
+    <lastBuildDate>Mon, 05 Feb 2024 14:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
