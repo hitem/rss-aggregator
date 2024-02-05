@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Feb 2024 22:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Important Announcement: Deprecation of AdminAuditLog and MailboxAuditLog Cmdlets</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-adminauditlog-and/ba-p/4036537</link>
-      <pubDate>Mon, 05 Feb 2024 21:38:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-adminauditlog-and/ba-p/4036537</guid>
-      <description>Dear customers,&#160;
-&#160;
-We are writing to inform you about an upcoming change that will affect the way you access and manage your Exchange Online audit logs. Starting from April 30, 2024, we will be deprecating the following four cmdlets in the Exchange Online V3 module:&#160;
-
-Search-AdminAuditLog&#160;
-Search-MailboxAuditLog&#160;
-New-AdminAuditLogSearch&#160;
-New-MailboxAuditLogSearch&#160;
-
-These cmdlets will no longer be available for use after this date, and you will need to switch to a  Search-UnifiedAuditLog cmdlet or Microsoft Purview portal to access your audit logs.&#160;
-&#160;
-Why are we deprecating these cmdlets?&#160;
-We a...</description>
-    </item>
+    <lastBuildDate>Mon, 05 Feb 2024 23:01:14 GMT</lastBuildDate>
   </channel>
 </rss>
