@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Feb 2024 11:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 12:09:26 GMT</lastBuildDate>
+    <item>
+      <title>Create Tasks Repository in Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4038563</link>
+      <pubDate>Tue, 06 Feb 2024 12:03:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4038563</guid>
+      <description>One of the most important factors in running your security operations (SecOps) effectively and efficiently is the standardization of processes. SecOps analysts are expected to perform a list of steps, or tasks, in the process of triaging, investigating, or remediating an incident. Standardizing and formalizing the list of tasks can help keep your SOC running smoothly, ensuring the same requirements apply to all analysts. This way, regardless of who is on-shift, an incident will always get the same treatment and SLAs. Analysts don't need to spend time thinking about what to do, or worry about m...</description>
+    </item>
   </channel>
 </rss>
