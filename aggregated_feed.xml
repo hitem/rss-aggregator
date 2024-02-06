@@ -3,15 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Feb 2024 17:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:00:44 GMT</lastBuildDate>
     <item>
-      <title>Auto Rollout of Conditional Access Policies in Microsoft Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/auto-rollout-of-conditional-access-policies-in-microsoft-entra/ba-p/4044870</link>
-      <pubDate>Tue, 06 Feb 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/auto-rollout-of-conditional-access-policies-in-microsoft-entra/ba-p/4044870</guid>
-      <description>In November 2023 at Microsoft Ignite, we announced Microsoft-managed policies and the auto-rollout of multifactor authentication (MFA)-related Conditional Access&#160;policies in customer tenants. Since then, we&#8217;ve rolled out report-only policies for over 500,000 tenants. These policies are part of our Secure Future Initiative,&#160;which includes key engineering advances to improve security for customers against cyberthreats that we anticipate will increase over time.&#160;
+      <title>Latest Defender EASM Features Increase Visibility and Enhance Querying for Faster Remediation</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-defender-easm-features-increase-visibility-and-enhance/ba-p/4037760</link>
+      <pubDate>Tue, 06 Feb 2024 17:04:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-defender-easm-features-increase-visibility-and-enhance/ba-p/4037760</guid>
+      <description>Microsoft Defender External Attack Surface Management (Defender EASM) discovers and classifies assets and workloads across your organization's digital presence to enable teams to understand and prioritize exposed weaknesses in cloud, SaaS, and IaaS resources to strengthen security posture. Features recently added increase CWE and CVE visibility and boost query efficiency so users can focus on finding the information that's most important to their environment. Below, learn about these powerful new enhancements and how you can begin using them today. &#160;&#160;
+New Features&#160;
 &#160;
-This follow-up blog will dive deeper into these policies to provide you with a comprehensive understanding of what they entail and ho...</description>
+CWE Top 25 Software Weakne...</description>
     </item>
   </channel>
 </rss>
