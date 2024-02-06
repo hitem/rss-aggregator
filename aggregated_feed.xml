@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Feb 2024 18:00:44 GMT</lastBuildDate>
-    <item>
-      <title>Latest Defender EASM Features Increase Visibility and Enhance Querying for Faster Remediation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-defender-easm-features-increase-visibility-and-enhance/ba-p/4037760</link>
-      <pubDate>Tue, 06 Feb 2024 17:04:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-defender-easm-features-increase-visibility-and-enhance/ba-p/4037760</guid>
-      <description>Microsoft Defender External Attack Surface Management (Defender EASM) discovers and classifies assets and workloads across your organization's digital presence to enable teams to understand and prioritize exposed weaknesses in cloud, SaaS, and IaaS resources to strengthen security posture. Features recently added increase CWE and CVE visibility and boost query efficiency so users can focus on finding the information that's most important to their environment. Below, learn about these powerful new enhancements and how you can begin using them today. &#160;&#160;
-New Features&#160;
-&#160;
-CWE Top 25 Software Weakne...</description>
-    </item>
+    <lastBuildDate>Tue, 06 Feb 2024 19:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
