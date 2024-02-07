@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Feb 2024 22:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 23:00:41 GMT</lastBuildDate>
+    <item>
+      <title>How MDTI Helps Power Copilot for Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-copilot-for-security/ba-p/3973731</link>
+      <pubDate>Wed, 07 Feb 2024 22:49:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-copilot-for-security/ba-p/3973731</guid>
+      <description>Today's cybersecurity challenges mandate that security teams invest more in high-quality threat intelligence to understand the mechanics of sophisticated attacks led by cybercriminals, nation-state actors, and others. With the introduction of Microsoft Copilot for Security, security professionals can use Generative AI to quickly understand the full scope of attacks, anticipate the next steps of an ongoing campaign, and drive an optimal security plan for their organizations - all amid the intense, challenging time during an attack.&#160;
+&#160;
+This blog post will delve into Copilot for Security, focusin...</description>
+    </item>
   </channel>
 </rss>
