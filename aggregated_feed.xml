@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Feb 2024 16:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 17:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Become a Microsoft Defender Vulnerability Management Ninja</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/become-a-microsoft-defender-vulnerability-management-ninja/ba-p/4003011</link>
+      <pubDate>Wed, 07 Feb 2024 16:37:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/become-a-microsoft-defender-vulnerability-management-ninja/ba-p/4003011</guid>
+      <description>Do you want to become a ninja for Microsoft Defender Vulnerability Management? We can help you get there! We collected content with multiple modules.&#160;We will keep updating this training on a regular basis.&#160;
+&#160;
+In addition, we offer you a&#160;knowledge check&#160;based on the training material! Since there&#8217;s a lot of content, the goal of the knowledge checks is to help ensure understanding of the key concepts that were covered. Lastly, there&#8217;ll be a fun&#160;certificate&#160;issued at the end of the training: Disclaimer:&#160;This is not an official Microsoft certification and only acts as a way of recognizing your par...</description>
+    </item>
   </channel>
 </rss>

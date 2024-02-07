@@ -565,3 +565,4 @@
 2024-02-06T12:03:07 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4038563
 2024-02-06T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/auto-rollout-of-conditional-access-policies-in-microsoft-entra/ba-p/4044870
 2024-02-06T17:04:07 https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-defender-easm-features-increase-visibility-and-enhance/ba-p/4037760
+2024-02-07T16:37:41 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/become-a-microsoft-defender-vulnerability-management-ninja/ba-p/4003011
