@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Feb 2024 16:02:59 GMT</lastBuildDate>
-    <item>
-      <title>Upcoming Content Hub AMA supported Data Connectors</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-content-hub-ama-supported-data-connectors/ba-p/4052304</link>
-      <pubDate>Thu, 08 Feb 2024 15:58:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-content-hub-ama-supported-data-connectors/ba-p/4052304</guid>
-      <description>Hello Sentinel community!
-Today we are happy to share that new data connectors with AMA support will soon be available in Sentinel's Content Hub.
-&#160;
-What's coming:
-
-For data sources that currently use the MMA agent, new connectors supporting AMA will be available in the Microsoft Sentinel Content Hub.
-These connectors will leverage DCRs for log ingestion.
-A new tag "Recommended" will be visible to highlight the new connectors in the Content Hub.
-The legacy connectors will be tagged "Deprecated".
-Full backwards compatibility for the updated Solutions: Parsers, Analytic Rules, Workbooks, etc.
-All...</description>
-    </item>
+    <lastBuildDate>Thu, 08 Feb 2024 17:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
