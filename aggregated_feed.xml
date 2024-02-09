@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 09 Feb 2024 18:01:26 GMT</lastBuildDate>
-    <item>
-      <title>Enforcement of Defender CSPM for Premium DevOps Security Capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enforcement-of-defender-cspm-for-premium-devops-security/ba-p/4053335</link>
-      <pubDate>Fri, 09 Feb 2024 17:44:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enforcement-of-defender-cspm-for-premium-devops-security/ba-p/4053335</guid>
-      <description>Microsoft&#8217;s Defender for Cloud will begin enforcing the Defender Cloud Security Posture Management (DCSPM) plan check for premium DevOps security value beginning&#8239;March 7th, 2024. If you have the Defender CSPM plan enabled on a cloud environment (Azure, AWS, GCP) within the same tenant your DevOps connectors are created in, you'll continue to receive premium code to cloud DevOps capabilities at no additional cost. If you aren't a Defender CSPM customer, you have until&#8239;March 7th, 2024&#8239;to enable Defender CSPM before losing access to these security features. To enable Defender CSPM on a connected ...</description>
-    </item>
+    <lastBuildDate>Fri, 09 Feb 2024 19:01:08 GMT</lastBuildDate>
   </channel>
 </rss>
