@@ -569,3 +569,4 @@
 2024-02-07T22:49:51 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/how-mdti-helps-power-copilot-for-security/ba-p/3973731
 2024-02-08T15:58:52 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-content-hub-ama-supported-data-connectors/ba-p/4052304
 2024-02-09T17:44:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enforcement-of-defender-cspm-for-premium-devops-security/ba-p/4053335
+2024-02-12T08:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/test-your-patches-a-staged-patching-solution-with-azure-update/ba-p/4051716

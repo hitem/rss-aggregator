@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Feb 2024 07:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 08:08:02 GMT</lastBuildDate>
+    <item>
+      <title>Test your Patches! A Staged Patching Solution with Azure Update Manager</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/test-your-patches-a-staged-patching-solution-with-azure-update/ba-p/4051716</link>
+      <pubDate>Mon, 12 Feb 2024 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/test-your-patches-a-staged-patching-solution-with-azure-update/ba-p/4051716</guid>
+      <description>A common challenge faced by most enterprise organizations who, hopefully, automate their operating systems patching cycles is to ensure that only the Windows and Linux packages updates that were tested in dev/test pre-production environments reach production machines. This article is for those readers who have been implementing automated, scheduled patching with Azure Update Manager and now want to put into practice a staged patching solution following good patching reliability practices. Keep tuned and read the solution my colleague&#160;@Wiszanyel&#160;Cruz and myself have developed and helped put it ...</description>
+    </item>
   </channel>
 </rss>
