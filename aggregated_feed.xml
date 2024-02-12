@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Feb 2024 12:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 13:02:13 GMT</lastBuildDate>
+    <item>
+      <title>Hunting for QR Code AiTM Phishing and User Compromise</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-qr-code-aitm-phishing-and-user-compromise/ba-p/4053324</link>
+      <pubDate>Mon, 12 Feb 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-qr-code-aitm-phishing-and-user-compromise/ba-p/4053324</guid>
+      <description>In the dynamic landscape of adversary-in-the-middle (AiTM) attacks, the Microsoft Defender Experts team has recently observed a notable trend &#8211; QR code-themed phishing campaigns. The attackers employ deceptive QR codes to manipulate users into accessing fraudulent websites or downloading harmful content.
+&#160;
+These attacks exploit the trust and curiosity of users who scan QR codes without verifying their source or content. Attackers can create QR codes that redirect users to phishing sites that mimic legitimate ones, such as banks, social media platforms, or online services. The targeted user sca...</description>
+    </item>
   </channel>
 </rss>
