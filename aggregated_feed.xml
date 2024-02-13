@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 13 Feb 2024 18:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Announcing New Monitoring and Scaling Updates in Azure Firewall</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/announcing-new-monitoring-and-scaling-updates-in-azure-firewall/ba-p/4055166</link>
-      <pubDate>Tue, 13 Feb 2024 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/announcing-new-monitoring-and-scaling-updates-in-azure-firewall/ba-p/4055166</guid>
-      <description>We are pleased to introduce some new features and improvements for the service today. These features include capabilities that enhance the monitoring and scalability of your Azure Firewall:
-&#160;
-
-Flow Trace logs are now generally available.
-Autoscaling based on the number of connections is now generally available.
-Parallel IP Group update support is now in public preview.
-
-&#160;
-Azure Firewall is a&#160;cloud-native firewall as a service&#160;offering that enables customers to centrally govern and log all their traffic flows using a DevOps approach. The service supports both application and network-level filte...</description>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 19:01:01 GMT</lastBuildDate>
   </channel>
 </rss>
