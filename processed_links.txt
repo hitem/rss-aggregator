@@ -571,3 +571,4 @@
 2024-02-09T17:44:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enforcement-of-defender-cspm-for-premium-devops-security/ba-p/4053335
 2024-02-12T08:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/test-your-patches-a-staged-patching-solution-with-azure-update/ba-p/4051716
 2024-02-12T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-qr-code-aitm-phishing-and-user-compromise/ba-p/4053324
+2024-02-13T18:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/announcing-new-monitoring-and-scaling-updates-in-azure-firewall/ba-p/4055166
