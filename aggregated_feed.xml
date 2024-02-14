@@ -3,34 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 14 Feb 2024 17:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Labeling with Microsoft Purview Data Map now supports Dataverse, Azure Databricks, and Snowflake</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/labeling-with-microsoft-purview-data-map-now-supports-dataverse/ba-p/4052587</link>
-      <pubDate>Wed, 14 Feb 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/labeling-with-microsoft-purview-data-map-now-supports-dataverse/ba-p/4052587</guid>
-      <description>We are pleased to announce that Labeling with Purview Data Map now supports three new data sources:
-
-Dataverse,
-Azure Databricks and
-Snowflake.
-
-For the complete list of data sources supported please refer to:
-Microsoft Purview Data Map supported data sources and file types | Microsoft Learn
-&#160;
-Background
-Data has transformative potential in the predictive and AI era to propel business outcomes. Organizations need to create data agility but at the same time manage risk and ensure the right usage and compliance with regulations. To achieve this, the first step is to be able to discover and ident...</description>
-    </item>
-    <item>
-      <title>Security review for Microsoft Edge version 121</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-121/ba-p/4057135</link>
-      <pubDate>Wed, 14 Feb 2024 16:19:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-121/ba-p/4057135</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 121!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 121 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 117 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 121 introduced 11 new computer settings and 11 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find the...</description>
-    </item>
+    <lastBuildDate>Wed, 14 Feb 2024 18:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
