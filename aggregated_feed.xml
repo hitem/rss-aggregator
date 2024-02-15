@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Feb 2024 16:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 17:00:42 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft and SAP collaborate to modernize identity for SAP customers</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-and-sap-collaborate-to-modernize-identity-for-sap/ba-p/4056600</link>
+      <pubDate>Thu, 15 Feb 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-and-sap-collaborate-to-modernize-identity-for-sap/ba-p/4056600</guid>
+      <description>Microsoft is pleased to announce that we&#8217;re collaborating with SAP &#8211; the market leader in enterprise application software to develop a solution that enables customers to migrate their identity management scenarios from SAP Identity Management (SAP IDM) to Microsoft Entra ID. &#160;
+SAP recently confirmed the end of maintenance of their IDM solution by 2027 with extended maintenance until 2030. As noted in their blog published February 6, 2024, and stated by Juergen Mueller, CTO and member of the Executive Board, SAP SE, during the keynote at the yearly DSAG Technology Days 2024, SAP is partnering w...</description>
+    </item>
   </channel>
 </rss>
