@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Feb 2024 00:25:26 GMT</lastBuildDate>
-    <item>
-      <title>Managing MDTI Premium licenses in Microsoft Entra Admin Center</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/managing-mdti-premium-licenses-in-microsoft-entra-admin-center/ba-p/4056072</link>
-      <pubDate>Wed, 14 Feb 2024 23:47:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/managing-mdti-premium-licenses-in-microsoft-entra-admin-center/ba-p/4056072</guid>
-      <description>This blog details how to assign and manage Defender Threat Intelligence (MDTI) licenses and contains links to helpful content and resources. It is intended for customers who recently purchased the MDTI Premium SKU or a SKU that enables MDTI Premium access for its user base, such as Copilot for Security. Global administrators or identity governance administrators responsible for assigning MDTI user seat assignments will find it particularly useful.&#160;
-&#160;
-Prerequisites to assigning MDTI premium licenses&#160;
-&#160;
-Your Microsoft account team should have notified you that your MDTI procurement processing ha...</description>
-    </item>
+    <lastBuildDate>Thu, 15 Feb 2024 01:38:40 GMT</lastBuildDate>
   </channel>
 </rss>
