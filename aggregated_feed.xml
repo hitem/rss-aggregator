@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Feb 2024 19:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 20:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Protect unmanaged or 3rd party MDM managed iOS/Android devices with MDE</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-unmanaged-or-3rd-party-mdm-managed-ios-android-devices/ba-p/4057691</link>
+      <pubDate>Thu, 15 Feb 2024 19:59:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-unmanaged-or-3rd-party-mdm-managed-ios-android-devices/ba-p/4057691</guid>
+      <description>Introduction
+Mobile devices are increasingly targeted by cyberattacks that can compromise your data, privacy, and productivity. To protect your devices from these threats, you need a Mobile Threat Defense (MTD) solution that can detect and respond to malicious activities on your device and network.
+&#160;
+Microsoft Defender for Endpoint is a unified endpoint security platform that provides comprehensive protection for your devices, including Windows, macOS, Linux, iOS, and Android. It leverages cloud-powered intelligence, behavioral analysis, and machine learning to detect and block advanced threat...</description>
+    </item>
   </channel>
 </rss>
