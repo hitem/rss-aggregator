@@ -574,3 +574,4 @@
 2024-02-13T18:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/announcing-new-monitoring-and-scaling-updates-in-azure-firewall/ba-p/4055166
 2024-02-14T16:19:05 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-121/ba-p/4057135
 2024-02-14T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/labeling-with-microsoft-purview-data-map-now-supports-dataverse/ba-p/4052587
+2024-02-14T23:47:20 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/managing-mdti-premium-licenses-in-microsoft-entra-admin-center/ba-p/4056072
