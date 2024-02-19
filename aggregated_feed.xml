@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 Feb 2024 12:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 13:01:33 GMT</lastBuildDate>
+    <item>
+      <title>Protecting Tier 0 the modern Way</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-tier-0-the-modern-way/ba-p/4052851</link>
+      <pubDate>Mon, 19 Feb 2024 12:48:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-tier-0-the-modern-way/ba-p/4052851</guid>
+      <description>How should your Tier 0 Protection look like?
+
+&#160;
+Almost every attack on Active Directory you hear about today &#8211; no matter if ransomware is involved or not &#8211; (ab)uses credential theft techniques as the key factor for successful compromise. Microsoft&#8217;s State of Cybercrime report confirms this statement: &#8220;The top finding among ransomware incident response engagements was insufficient privilege access and lateral movement controls.&#8221;
+&#160;
+Despite the fantastic capabilities of modern detection and protection tools (like the Microsoft Defender family of products), we should not forget that prevention is ...</description>
+    </item>
   </channel>
 </rss>
