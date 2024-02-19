@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 Feb 2024 01:39:31 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (January 2024)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-january-2024/ba-p/4060557</link>
-      <pubDate>Mon, 19 Feb 2024 00:35:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-january-2024/ba-p/4060557</guid>
-      <description>&#160;
-Hi everyone! Brandon Wilson here once again with this month&#8217;s &#8220;Check This Out!&#8221; (CTO!) guide. Apologies for the late post this month; its been a busy month!
-These posts are only intended to be your guide, to lead you to some content of interest, and are just a way we are trying to help our readers a bit more, whether that is learning, troubleshooting, or just finding new content sources! We will give you a bit of a taste of the blog content itself, provide you a way to get to the source content directly, and help to introduce you to some other blogs you may not be aware of that you might fin...</description>
-    </item>
+    <lastBuildDate>Mon, 19 Feb 2024 02:14:30 GMT</lastBuildDate>
   </channel>
 </rss>
