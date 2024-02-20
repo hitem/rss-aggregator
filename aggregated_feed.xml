@@ -3,28 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Feb 2024 17:00:45 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Secure 2024: Showcasing new generative AI cybersecurity features to help you defend</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-2024-showcasing-new-generative-ai-cybersecurity/ba-p/4058453</link>
-      <pubDate>Tue, 20 Feb 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-2024-showcasing-new-generative-ai-cybersecurity/ba-p/4058453</guid>
-      <description>
-&#160;
-AI, in the wrong hands, fuels sophisticated attacks exploiting system vulnerabilities. In the right hands, it empowers defenders, giving organizations a decisive advantage.&#160;&#160;
-&#160;
-Security practitioners - don't miss Microsoft Secure on March 13, 2024. Join us for a two-hour digital event from 9:00 AM to 11:00 AM PST where our experts share insights, practices, and most importantly&#8212;new technology&#8212;to safeguard your organization.&#160;&#160;
-&#160;
-Through the security keynote and demos, you&#8217;ll gain product knowledge, discover new offerings from the Microsoft Security portfolio, including AI for security, secur...</description>
-    </item>
-    <item>
-      <title>Introducing Microsoft Entra License Utilization Insights</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-microsoft-entra-license-utilization-insights/ba-p/3796393</link>
-      <pubDate>Tue, 20 Feb 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-microsoft-entra-license-utilization-insights/ba-p/3796393</guid>
-      <description>Over 800,000 organizations rely on Microsoft Entra to navigate the ever-changing threat landscape, ensuring their security while enhancing the productivity of their end users. Customers have frequently expressed their desire for greater transparency into their Entra usage, with licensing being a particularly popular request. Today, we&#8217;re excited to announce the public preview of Microsoft Entra license utilization portal, a new feature that enables customers to optimize their Entra ID Premium licenses by providing insights into the current usage of premium features.
-&#160;
-In this post, we&#8217;ll provi...</description>
-    </item>
+    <lastBuildDate>Tue, 20 Feb 2024 18:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
