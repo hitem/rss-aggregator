@@ -3,14 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Feb 2024 15:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 16:01:41 GMT</lastBuildDate>
     <item>
-      <title>Defender for Cloud deployment in AWS/GCP - Agents, Resources, IAM and Cleanup options</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127</link>
-      <pubDate>Tue, 20 Feb 2024 14:16:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127</guid>
-      <description>Objective of the article
-The purpose of this article is to provide organizations with a comprehensive understanding of all the agents and resources deployed as part of Defender for Server, Defender for Container, Defender for SQL in their AWS/GCP environment by Defender for Cloud. The article aims to guide organizations on the impact of Defender for Cloud on their environment and what they need to remove when&#160;switching&#160;Defender for Cloud plans on the security connector. Where possible this article should avoid duplicating information that is already available on Microsoft Learn and focus on pr...</description>
+      <title>Welcome to the Microsoft Defender Experts Ninja Hub</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4061509</link>
+      <pubDate>Tue, 20 Feb 2024 15:20:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4061509</guid>
+      <description>We&#8217;re excited to announce our Microsoft Defender Experts Ninja Hub. We have compiled document guides, videos, and other resources to help you get familiar with our Defender Experts services and stay up to date on the latest from the Defender Experts team.
+&#160;
+We&#8217;ll update this post as we add resources, so make sure to bookmark this page: https://aka.ms/DefenderExpertsNinjaHub
+&#160;
+Microsoft Defender Experts for XDR
+Microsoft Defender Experts for XDR is a managed extended detection and response (MXDR) service that triages, investigates, and responds to incidents for you to help stop cyberattackers a...</description>
+    </item>
+    <item>
+      <title>Monitoring Kubernetes Clusters, Image Build Environment and Container Registries with Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-kubernetes-clusters-image-build-environment-and/ba-p/4062115</link>
+      <pubDate>Tue, 20 Feb 2024 15:04:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-kubernetes-clusters-image-build-environment-and/ba-p/4062115</guid>
+      <description>A guide to using Microsoft Sentinel for monitoring the security of your containerized applications and orchestration platforms.
+Part 1 of&#160;3 part&#160;series about security monitoring of your Kubernetes Clusters and CI/CD pipelines by @singhabhi&#160;and&#160;@Umesh_Nagdev
+&#160;
+Introduction&#160;
+Microsoft Sentinel is a cloud-native security information and event management (SIEM) platform that provides comprehensive threat detection and response capabilities across your hybrid environment. Microsoft Sentinel can help you monitor and protect your containerized applications by collecting and analyzing data from variou...</description>
     </item>
   </channel>
 </rss>
