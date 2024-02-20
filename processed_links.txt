@@ -582,3 +582,5 @@
 2024-02-20T14:16:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127
 2024-02-20T15:04:58 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-kubernetes-clusters-image-build-environment-and/ba-p/4062115
 2024-02-20T15:20:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4061509
+2024-02-20T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-microsoft-entra-license-utilization-insights/ba-p/3796393
+2024-02-20T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-2024-showcasing-new-generative-ai-cybersecurity/ba-p/4058453

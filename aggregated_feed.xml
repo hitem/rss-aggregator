@@ -3,29 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Feb 2024 16:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 17:00:45 GMT</lastBuildDate>
     <item>
-      <title>Welcome to the Microsoft Defender Experts Ninja Hub</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4061509</link>
-      <pubDate>Tue, 20 Feb 2024 15:20:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4061509</guid>
-      <description>We&#8217;re excited to announce our Microsoft Defender Experts Ninja Hub. We have compiled document guides, videos, and other resources to help you get familiar with our Defender Experts services and stay up to date on the latest from the Defender Experts team.
+      <title>Microsoft Secure 2024: Showcasing new generative AI cybersecurity features to help you defend</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-2024-showcasing-new-generative-ai-cybersecurity/ba-p/4058453</link>
+      <pubDate>Tue, 20 Feb 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-2024-showcasing-new-generative-ai-cybersecurity/ba-p/4058453</guid>
+      <description>
 &#160;
-We&#8217;ll update this post as we add resources, so make sure to bookmark this page: https://aka.ms/DefenderExpertsNinjaHub
+AI, in the wrong hands, fuels sophisticated attacks exploiting system vulnerabilities. In the right hands, it empowers defenders, giving organizations a decisive advantage.&#160;&#160;
 &#160;
-Microsoft Defender Experts for XDR
-Microsoft Defender Experts for XDR is a managed extended detection and response (MXDR) service that triages, investigates, and responds to incidents for you to help stop cyberattackers a...</description>
+Security practitioners - don't miss Microsoft Secure on March 13, 2024. Join us for a two-hour digital event from 9:00 AM to 11:00 AM PST where our experts share insights, practices, and most importantly&#8212;new technology&#8212;to safeguard your organization.&#160;&#160;
+&#160;
+Through the security keynote and demos, you&#8217;ll gain product knowledge, discover new offerings from the Microsoft Security portfolio, including AI for security, secur...</description>
     </item>
     <item>
-      <title>Monitoring Kubernetes Clusters, Image Build Environment and Container Registries with Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-kubernetes-clusters-image-build-environment-and/ba-p/4062115</link>
-      <pubDate>Tue, 20 Feb 2024 15:04:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-kubernetes-clusters-image-build-environment-and/ba-p/4062115</guid>
-      <description>A guide to using Microsoft Sentinel for monitoring the security of your containerized applications and orchestration platforms.
-Part 1 of&#160;3 part&#160;series about security monitoring of your Kubernetes Clusters and CI/CD pipelines by @singhabhi&#160;and&#160;@Umesh_Nagdev
+      <title>Introducing Microsoft Entra License Utilization Insights</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-microsoft-entra-license-utilization-insights/ba-p/3796393</link>
+      <pubDate>Tue, 20 Feb 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-microsoft-entra-license-utilization-insights/ba-p/3796393</guid>
+      <description>Over 800,000 organizations rely on Microsoft Entra to navigate the ever-changing threat landscape, ensuring their security while enhancing the productivity of their end users. Customers have frequently expressed their desire for greater transparency into their Entra usage, with licensing being a particularly popular request. Today, we&#8217;re excited to announce the public preview of Microsoft Entra license utilization portal, a new feature that enables customers to optimize their Entra ID Premium licenses by providing insights into the current usage of premium features.
 &#160;
-Introduction&#160;
-Microsoft Sentinel is a cloud-native security information and event management (SIEM) platform that provides comprehensive threat detection and response capabilities across your hybrid environment. Microsoft Sentinel can help you monitor and protect your containerized applications by collecting and analyzing data from variou...</description>
+In this post, we&#8217;ll provi...</description>
     </item>
   </channel>
 </rss>
