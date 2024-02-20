@@ -579,3 +579,4 @@
 2024-02-15T19:59:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-unmanaged-or-3rd-party-mdm-managed-ios-android-devices/ba-p/4057691
 2024-02-19T00:35:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-january-2024/ba-p/4060557
 2024-02-19T12:48:40 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-tier-0-the-modern-way/ba-p/4052851
+2024-02-20T14:16:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127

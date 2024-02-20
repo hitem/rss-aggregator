@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Feb 2024 14:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Defender for Cloud deployment in AWS/GCP - Agents, Resources, IAM and Cleanup options</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127</link>
+      <pubDate>Tue, 20 Feb 2024 14:16:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127</guid>
+      <description>Objective of the article
+The purpose of this article is to provide organizations with a comprehensive understanding of all the agents and resources deployed as part of Defender for Server, Defender for Container, Defender for SQL in their AWS/GCP environment by Defender for Cloud. The article aims to guide organizations on the impact of Defender for Cloud on their environment and what they need to remove when&#160;switching&#160;Defender for Cloud plans on the security connector. Where possible this article should avoid duplicating information that is already available on Microsoft Learn and focus on pr...</description>
+    </item>
   </channel>
 </rss>
