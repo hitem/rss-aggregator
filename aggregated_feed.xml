@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Feb 2024 22:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Respond to threats across tenants more effectively with Microsoft Defender XDR multi-tenant support</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174</link>
-      <pubDate>Wed, 21 Feb 2024 21:09:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174</guid>
-      <description>UPDATE: Effective February 20th, 2024, the new multi-tenant management experience in Microsoft Defender XDR (formerly Microsoft 365 Defender) has been made generally available (GA).
-&#160;
-Multi-tenant environments add an additional layer of complexity to today&#8217;s ever-evolving threat landscape. Whether organizations have grown through acquisition, or have strategically implemented multi-tenant setups, navigating across multiple environments is no small task. Mundane and repetitive tasks require security operations center (SOC) teams to log in and out of each customer environment individually. This ...</description>
-    </item>
+    <lastBuildDate>Wed, 21 Feb 2024 23:01:19 GMT</lastBuildDate>
   </channel>
 </rss>
