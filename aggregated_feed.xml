@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 Feb 2024 16:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 17:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Keeping track of object deletions in Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/keeping-track-of-object-deletions-in-microsoft-entra-id/ba-p/4053415</link>
+      <pubDate>Thu, 22 Feb 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/keeping-track-of-object-deletions-in-microsoft-entra-id/ba-p/4053415</guid>
+      <description>Like any other service, Microsoft Entra ID is not immune to human errors, accidental deletions, or malicious attacks that could result in the loss of important data. Therefore, it is essential to have a Microsoft Entra ID recovery strategy, especially for the objects that are hard deleted when removed from the service.&#8239;&#160;
+&#160;
+Hard deletion means the object is permanently erased and cannot be restored by any means. The good news is that many objects support soft deletion, which means the object is marked as deleted in the service and moved to the recycle bin but not actually removed. The advantage...</description>
+    </item>
   </channel>
 </rss>
