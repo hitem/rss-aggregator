@@ -585,3 +585,4 @@
 2024-02-20T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-microsoft-entra-license-utilization-insights/ba-p/3796393
 2024-02-20T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-2024-showcasing-new-generative-ai-cybersecurity/ba-p/4058453
 2024-02-21T21:09:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174
+2024-02-22T04:27:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-check-it-out-before-it-s-too-late-azure-cost-optimization/ba-p/4064174

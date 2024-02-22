@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 Feb 2024 04:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 05:01:22 GMT</lastBuildDate>
+    <item>
+      <title>Quick, Check It Out Before It's Too Late! Azure Cost Optimization At It's Finest!</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-check-it-out-before-it-s-too-late-azure-cost-optimization/ba-p/4064174</link>
+      <pubDate>Thu, 22 Feb 2024 04:27:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-check-it-out-before-it-s-too-late-azure-cost-optimization/ba-p/4064174</guid>
+      <description>&#160;
+Good evening or morning to our readers! Brandon here to give you a last second heads up (sorry) on some great references for optimizing your costs in Azure. As many of our readers know, I have a particular affinity for cost savings for our customers, so I wanted to get this out quickly! Act fast!
+&#160;
+2/22/2024:&#160;
+&#160;
+Check out this livestream event for optimizing your Azure costs with Azure savings plans and reservations, presented by Obinna Nwokolo (Principal Technical Program Manager) and Priyanshi Mittal (Senior Product Manager):https://developer.microsoft.com/en-us/reactor/events/21719/
+&#160;
+Add...</description>
+    </item>
   </channel>
 </rss>
