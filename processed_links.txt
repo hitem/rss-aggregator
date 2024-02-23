@@ -587,3 +587,4 @@
 2024-02-21T21:09:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174
 2024-02-22T04:27:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-check-it-out-before-it-s-too-late-azure-cost-optimization/ba-p/4064174
 2024-02-22T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/keeping-track-of-object-deletions-in-microsoft-entra-id/ba-p/4053415
+2024-02-23T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-and-sap-work-together-to-transform-identity-for-sap/ba-p/2520430

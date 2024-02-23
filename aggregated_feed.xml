@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 23 Feb 2024 16:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 17:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft and SAP work together to transform identity for SAP customers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-and-sap-work-together-to-transform-identity-for-sap/ba-p/2520430</link>
+      <pubDate>Fri, 23 Feb 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-and-sap-work-together-to-transform-identity-for-sap/ba-p/2520430</guid>
+      <description>SAP has recently announced its collaboration with Microsoft and advises their SAP Identity Management (IDM) customers to move their identity management scenarios to Microsoft Entra ID as their IDM approaches the end of maintenance.&#160;This latest collaboration creates new possibilities for Microsoft Entra and SAP to offer enhanced integration that will support a comprehensive identity and access governance framework.&#160;
+&#160;
+Microsoft and SAP will deepen our longstanding partnership to combine our unique areas of expertise. We are committed to delivering the best identity management solutions for our ...</description>
+    </item>
   </channel>
 </rss>
