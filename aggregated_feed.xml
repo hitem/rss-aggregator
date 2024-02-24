@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 23 Feb 2024 23:01:26 GMT</lastBuildDate>
-    <item>
-      <title>Sensitive info types can now be applied at column level in structured data assets</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitive-info-types-can-now-be-applied-at-column-level-in/ba-p/4038292</link>
-      <pubDate>Fri, 23 Feb 2024 22:30:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitive-info-types-can-now-be-applied-at-column-level-in/ba-p/4038292</guid>
-      <description>We are excited to announce that Microsoft Purview has extended the support of Sensitive info types (SITs) to Azure and 3P data assets in the Data Map/Catalog. Before this release, SITs could only be applied at file level. Now, SITs can be applied more granularly, i.e., at column level, for structured non-M365 assets. This capability is now available as a Preview to new Microsoft Purview Data Map customers. Existing Microsoft Purview Data Map customers will be offered this capability at a later point.
-&#160;
-With this new capability, you will be able to apply SITs to Azure and 3P data objects manual...</description>
-    </item>
+    <lastBuildDate>Sat, 24 Feb 2024 00:23:50 GMT</lastBuildDate>
   </channel>
 </rss>
