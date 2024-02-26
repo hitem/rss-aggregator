@@ -593,3 +593,4 @@
 2024-02-26T15:17:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/best-practices-for-upgrading-azure-waf-ruleset/ba-p/4067438
 2024-02-26T15:19:11 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-windows-update-compliance-reporting-faq/ba-p/4034299
 2024-02-26T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/prompt-users-for-reauthentication-on-sensitive-apps-and-high/ba-p/4062703
+2024-02-26T17:48:18 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-earns-impactful-trio-of-iso-certificates/ba-p/4067591
