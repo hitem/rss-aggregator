@@ -3,6 +3,32 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Feb 2024 15:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 16:01:49 GMT</lastBuildDate>
+    <item>
+      <title>ConfigMgr Windows Update Compliance Reporting FAQ</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-windows-update-compliance-reporting-faq/ba-p/4034299</link>
+      <pubDate>Mon, 26 Feb 2024 15:19:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-windows-update-compliance-reporting-faq/ba-p/4034299</guid>
+      <description>Hi, Jonas here!
+Or as we say in the north of Germany: "Moin Moin!"
+I wrote a frequently asked questions document about the report solution I created some years ago. Mainly because I still receive questions about the report solution and how to deal with update related errors. If you haven&#8217;t seen my ConfigMgr report solution yet, here is the link: &#8220;Mastering Configuration Manager Patch Compliance Reporting&#8221;
+Hopefully the Q&amp;A list will help others to reach 100% patch compliance. If that&#8217;s even possible ;)
+&#160;
+First things first
+If you spend a lot of time dealing with update related issues or proces...</description>
+    </item>
+    <item>
+      <title>Best Practices for Upgrading Azure WAF Ruleset</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/best-practices-for-upgrading-azure-waf-ruleset/ba-p/4067438</link>
+      <pubDate>Mon, 26 Feb 2024 15:17:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/best-practices-for-upgrading-azure-waf-ruleset/ba-p/4067438</guid>
+      <description>This blog is written in collaboration with&#160;@davidfrazee.
+&#160;
+Introduction:&#160;
+In today&#8217;s digital landscape, web applications are the lifeblood of businesses. They enable seamless communication, transactions, and interactions with customers. However, this increased reliance on web apps also makes them prime targets for cyberattacks. To safeguard your applications and protect sensitive data, implementing a robust&#8239;Web Application Firewall (WAF)&#8239;is essential.&#160;
+&#160;
+What is a Web Application Firewall (WAF)?&#160;
+A WAF acts as a protective barrier between your web applications and potential threats. It analyse...</description>
+    </item>
   </channel>
 </rss>
