@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Feb 2024 21:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 22:01:00 GMT</lastBuildDate>
+    <item>
+      <title>How to Set Up Sentinel Data Connectors for Kubernetes and GitHub</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-set-up-sentinel-data-connectors-for-kubernetes-and-github/ba-p/4068994</link>
+      <pubDate>Tue, 27 Feb 2024 21:20:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-set-up-sentinel-data-connectors-for-kubernetes-and-github/ba-p/4068994</guid>
+      <description>A guide to configure and use Sentinel Connectors to collect logs and data from your Kubernetes clusters and GitHub CI/CD pipelines.
+Part 2 of&#160;3 part&#160;series about security monitoring of your Kubernetes Clusters and CI/CD pipelines by&#160;@singhabhi&#160;and&#160;@Umesh_Nagdev
+Link to Part 1
+&#160;
+Introduction
+In part 1 of this series, we discussed the type of log sources you should consider for monitoring the security of your Kubernetes environment. This blog will demonstrate how to connect some of the critical log sources using Sentinel Data Connectors.
+&#160;
+Sentinel Data Connectors are a set of tools that enable ...</description>
+    </item>
   </channel>
 </rss>
