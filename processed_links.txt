@@ -595,3 +595,4 @@
 2024-02-26T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/prompt-users-for-reauthentication-on-sensitive-apps-and-high/ba-p/4062703
 2024-02-26T17:48:18 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-earns-impactful-trio-of-iso-certificates/ba-p/4067591
 2024-02-27T21:20:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-set-up-sentinel-data-connectors-for-kubernetes-and-github/ba-p/4068994
+2024-02-28T13:55:44 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-new-dimensions-in-cybersecurity-advanced-export-for/ba-p/4069854
