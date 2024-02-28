@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Feb 2024 14:00:54 GMT</lastBuildDate>
-    <item>
-      <title>Unlocking New Dimensions in Cybersecurity - Advanced Export for Defender for Cloud  Attack Insights</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-new-dimensions-in-cybersecurity-advanced-export-for/ba-p/4069854</link>
-      <pubDate>Wed, 28 Feb 2024 13:55:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-new-dimensions-in-cybersecurity-advanced-export-for/ba-p/4069854</guid>
-      <description>Microsoft Defender for Cloud (MDC) has been instrumental in offering proactive security management through its detailed Attack Path insights, helping organizations identify and mitigate potential vulnerabilities before they can be exploited. While these insights have long provided value within the MDC portal and through one-time snapshots via Azure Resource Graph, a significant update enhances how organizations can leverage this information. The introduction of continuous export capabilities for these insights represents a transformative step forward, enabling the integration of MDC's proactiv...</description>
-    </item>
+    <lastBuildDate>Wed, 28 Feb 2024 15:01:04 GMT</lastBuildDate>
   </channel>
 </rss>
