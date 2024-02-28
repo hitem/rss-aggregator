@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Feb 2024 16:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 17:01:09 GMT</lastBuildDate>
+    <item>
+      <title>Updates to Configuration Analyzer in Microsoft defender for Office 365</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updates-to-configuration-analyzer-in-microsoft-defender-for/ba-p/4043087</link>
+      <pubDate>Wed, 28 Feb 2024 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updates-to-configuration-analyzer-in-microsoft-defender-for/ba-p/4043087</guid>
+      <description>Configuration analyzer&#160;in Microsoft Defender for Office 365 helps you find and fix security policies that are less secure than the recommended settings. It allows you to compare your current policies with the standard or strict preset policies, lets you apply recommendations to improve your security posture, and view historical changes to your policies.&#160;
+&#160;
+We are excited to announce several updates to Configuration analyzer. This update includes:
+
+New recommendations covering more scenarios.
+New flyout which adds more context around the&#160;recommendations.
+New export button which lets you easily ...</description>
+    </item>
   </channel>
 </rss>
