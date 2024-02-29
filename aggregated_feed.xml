@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Feb 2024 17:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:03:06 GMT</lastBuildDate>
+    <item>
+      <title>Azure DDoS Protection &#8211; SecOps Deep Dive</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-secops-deep-dive/ba-p/4071789</link>
+      <pubDate>Thu, 29 Feb 2024 17:12:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-secops-deep-dive/ba-p/4071789</guid>
+      <description>This blog is written in collaboration with @SaleemBseeu&#160;
+&#160;
+Introduction:&#160;&#160;
+&#160;
+Azure DDoS protection is a security solution offered by Microsoft Azure to protect applications and resources from Distributed Denial of Service (DDoS) attacks. DDoS attacks are a type of attacks that attempt to overwhelm a target application or service by flooding it with a massive volume of malicious traffic, thereby rendering it unavailable to legitimate users. Azure DDoS protection addresses these concerns by providing advanced mitigation capabilities and ensuring the availability of resources.&#160;&#160;
+&#160;
+Some of the key...</description>
+    </item>
   </channel>
 </rss>
