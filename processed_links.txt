@@ -597,3 +597,4 @@
 2024-02-27T21:20:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-set-up-sentinel-data-connectors-for-kubernetes-and-github/ba-p/4068994
 2024-02-28T13:55:44 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-new-dimensions-in-cybersecurity-advanced-export-for/ba-p/4069854
 2024-02-28T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updates-to-configuration-analyzer-in-microsoft-defender-for/ba-p/4043087
+2024-02-29T15:12:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-trust-rapid-off-boarding-with-intune-and-microsoft-entra-id/ba-p/4067612
