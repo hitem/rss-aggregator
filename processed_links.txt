@@ -599,3 +599,4 @@
 2024-02-28T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updates-to-configuration-analyzer-in-microsoft-defender-for/ba-p/4043087
 2024-02-29T15:12:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-trust-rapid-off-boarding-with-intune-and-microsoft-entra-id/ba-p/4067612
 2024-02-29T17:12:42 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-secops-deep-dive/ba-p/4071789
+2024-03-01T14:14:42 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-122/ba-p/4073142
