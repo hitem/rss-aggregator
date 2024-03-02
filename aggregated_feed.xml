@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 02 Mar 2024 17:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Zero Trust: Rapid Offboarding with Intune and Microsoft Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-trust-rapid-offboarding-with-intune-and-microsoft-entra-id/ba-p/4067612</link>
-      <pubDate>Sat, 02 Mar 2024 16:44:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-trust-rapid-offboarding-with-intune-and-microsoft-entra-id/ba-p/4067612</guid>
-      <description>Hi Jason Cody here!
-I would like to talk about using Intune policies with Microsoft Entra ID Governance as part of the offboarding process. Using the method below you can rapidly offboard an employee/contractor while preserving device data, Entra ID join status, and Intune enrollment. This could be used for multi-user endpoints or in events where forensics may be necessary for the device.
-&#160;
-In the past, quickly offboarding users while preserving data on the devices was fairly easy.&#160; As soon as the decision was made to offboard an employee\contractor they would lose physical access to their equ...</description>
-    </item>
+    <lastBuildDate>Sat, 02 Mar 2024 18:01:12 GMT</lastBuildDate>
   </channel>
 </rss>
