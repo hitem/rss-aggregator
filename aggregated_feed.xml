@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Mar 2024 15:01:11 GMT</lastBuildDate>
-    <item>
-      <title>Active Directory Hardening Series - Part 3 &#8211; Enforcing LDAP Signing</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-3-enforcing-ldap-signing/ba-p/4066233</link>
-      <pubDate>Mon, 04 Mar 2024 14:38:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-3-enforcing-ldap-signing/ba-p/4066233</guid>
-      <description>Hi all!&#160; Jerry Devore back again to continue talking about hardening Active Directory.&#160; If you have been following this series, I hope you have been able to enforce NTLMv2, remove SMBv1 from your domain controllers, and you are ready to tackle the next important topic which is enforcing LDAP signing.&#160; Preventing unsecure&#160;LDAP communication by enforcing signing is an issue that the security community feels strongly about, and much has already been written on the topic.&#160; However, there seems to be a considerable amount of confusion and misunderstanding about the impact of enforcing LDAP signing....</description>
-    </item>
+    <lastBuildDate>Mon, 04 Mar 2024 16:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
