@@ -3,6 +3,78 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Mar 2024 12:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 13:07:45 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - March 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-march-2024/ba-p/4073200</link>
+      <pubDate>Mon, 04 Mar 2024 12:49:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-march-2024/ba-p/4073200</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+March 2024 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from February 2024.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+&#160;
+
+The container vulnerability assessment powered by Trivy has been retired. Any customers who were previously using th...</description>
+    </item>
   </channel>
 </rss>

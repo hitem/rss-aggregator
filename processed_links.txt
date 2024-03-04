@@ -601,3 +601,4 @@
 2024-02-29T17:12:42 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-secops-deep-dive/ba-p/4071789
 2024-03-01T14:14:42 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-122/ba-p/4073142
 2024-03-02T16:44:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/zero-trust-rapid-offboarding-with-intune-and-microsoft-entra-id/ba-p/4067612
+2024-03-04T12:49:51 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-march-2024/ba-p/4073200
