@@ -3,6 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Mar 2024 10:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 11:00:53 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - March 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2024/ba-p/4075876</link>
+      <pubDate>Tue, 05 Mar 2024 10:17:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2024/ba-p/4075876</guid>
+      <description>
+
+
+
+Microsoft Defender XDRMonthly newsMarch 2024 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from February&#160;2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft Defender XDR
+
+
+
+
+
+
+
+
+(Generally available) Dark mode&#160;is now available in the Microsoft Defender portal. In the Defender portal, on th...</description>
+    </item>
   </channel>
 </rss>
