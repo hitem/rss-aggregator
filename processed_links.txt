@@ -604,3 +604,4 @@
 2024-03-04T12:49:51 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-march-2024/ba-p/4073200
 2024-03-04T14:38:43 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-3-enforcing-ldap-signing/ba-p/4066233
 2024-03-05T10:17:30 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2024/ba-p/4075876
+2024-03-05T12:14:45 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-investigation-and-response-capabilities-for-macos/ba-p/4054492

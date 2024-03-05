@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Mar 2024 12:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 13:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Use the new investigation and response capabilities for macOS and Linux</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-investigation-and-response-capabilities-for-macos/ba-p/4054492</link>
+      <pubDate>Tue, 05 Mar 2024 12:14:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-investigation-and-response-capabilities-for-macos/ba-p/4054492</guid>
+      <description>It has become the norm for organizations of all sizes to operate environments with multiplatform endpoints. That&#8217;s why Microsoft Defender for Endpoint provides comprehensive endpoint security and detection and response capabilities across operating systems including Windows, macOS, Linux, iOS, and Android. Our team is focused on delivering critical capabilities across ecosystems, while also tailoring detections and more to the respective OS and its unique requirements.
+&#160;
+Today we are excited to announce a new set of investigation and response capabilities across macOS and Linux operating syste...</description>
+    </item>
   </channel>
 </rss>
