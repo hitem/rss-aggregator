@@ -605,3 +605,5 @@
 2024-03-04T14:38:43 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-3-enforcing-ldap-signing/ba-p/4066233
 2024-03-05T10:17:30 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2024/ba-p/4075876
 2024-03-05T12:14:45 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-investigation-and-response-capabilities-for-macos/ba-p/4054492
+2024-03-05T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/navigating-permissions-management-microsoft-defender-xdr-s-rbac/ba-p/4064288
+2024-03-05T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/frequently-asked-question-about-tls-and-cipher-suite/ba-p/3965784
