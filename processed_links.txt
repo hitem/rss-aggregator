@@ -610,3 +610,4 @@
 2024-03-05T17:44:01 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/use-sensitive-info-types-to-classify-your-structured-data-assets/ba-p/4038292
 2024-03-05T17:50:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/permissions-management-defender-xdr-s-rbac-walkthrough-for/ba-p/4064288
 2024-03-05T17:51:24 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/securing-the-clouds-achieving-a-unified-security-stance-and/ba-p/4073446
+2024-03-06T14:42:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/guarding-the-gates-exploring-supported-scenarios-for-azure-ddos/ba-p/4077391

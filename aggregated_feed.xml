@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Mar 2024 14:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 15:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Guarding the Gates: Exploring Supported Scenarios for Azure DDoS Protection and Public IP Prefixes</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/guarding-the-gates-exploring-supported-scenarios-for-azure-ddos/ba-p/4077391</link>
+      <pubDate>Wed, 06 Mar 2024 14:42:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/guarding-the-gates-exploring-supported-scenarios-for-azure-ddos/ba-p/4077391</guid>
+      <description>Introduction
+In the face of an ever-evolving digital landscape, businesses are constantly under the threat of Distributed Denial of Service (DDoS) attacks. These relentless assaults have the potential to overwhelm network resources, disrupt services, compromise sensitive data, and lead to significant financial losses. As these threats become increasingly common, the need for a robust defense mechanism has never been more critical.
+&#160;
+In this blog post we are showing you the scenarios where Azure DDoS Protection can help protect Public IP Prefixes from these attacks.
+&#160;
+What is Azure DDoS Protect...</description>
+    </item>
   </channel>
 </rss>
