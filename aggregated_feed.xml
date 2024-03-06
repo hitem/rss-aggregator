@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Mar 2024 17:01:16 GMT</lastBuildDate>
-    <item>
-      <title>Announcing persistent views and UX enhancements in Threat Explorer</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679</link>
-      <pubDate>Wed, 06 Mar 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679</guid>
-      <description>In response to the ever-evolving landscape of cyber threats, Threat Explorer plays a critical role in identifying and mitigating security risks within Office 365 environments. Microsoft Defender for Office 365 is focused on refining the user interface and functionality in threat Explorer to provide a more intuitive, responsive, and seamless experience for users to empower them with robust security solutions, ensuring a proactive and effective defense against cyber threats.
-&#160;
-Recently, we released a couple of enhancements to Threat Explorer&#8217;s user experience to make URL click based threat hunti...</description>
-    </item>
+    <lastBuildDate>Wed, 06 Mar 2024 18:01:17 GMT</lastBuildDate>
   </channel>
 </rss>
