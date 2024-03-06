@@ -3,19 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Mar 2024 16:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 17:01:16 GMT</lastBuildDate>
     <item>
-      <title>Learn about AI and Microsoft Copilot for Security with Learn Live</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-about-ai-and-microsoft-copilot-for-security-with-learn/ba-p/4076305</link>
-      <pubDate>Wed, 06 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-about-ai-and-microsoft-copilot-for-security-with-learn/ba-p/4076305</guid>
-      <description>Want to learn more about Generative AI and Microsoft Copilot? &#160;
+      <title>Announcing persistent views and UX enhancements in Threat Explorer</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679</link>
+      <pubDate>Wed, 06 Mar 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679</guid>
+      <description>In response to the ever-evolving landscape of cyber threats, Threat Explorer plays a critical role in identifying and mitigating security risks within Office 365 environments. Microsoft Defender for Office 365 is focused on refining the user interface and functionality in threat Explorer to provide a more intuitive, responsive, and seamless experience for users to empower them with robust security solutions, ensuring a proactive and effective defense against cyber threats.
 &#160;
-Microsoft is launching a Learn Live Series called &#8220;Getting Started with Microsoft Copilot for Security.&#8221; This weekly online seminar series will run from March 19th through April 9th and will review skill development resources and discuss topics related to AI and Copilot for Security.&#160;
-&#160;
-Hosts Edward Walton, Andrea Fisher, and Rod Trent will guide you through four topics each with a corresponding Microsoft Learn module designed to help anyone interested in getting users ready for Microsoft Copilot for Security.&#160;
-&#160;
-Fundamentals of...</description>
+Recently, we released a couple of enhancements to Threat Explorer&#8217;s user experience to make URL click based threat hunti...</description>
     </item>
   </channel>
 </rss>
