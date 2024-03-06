@@ -3,18 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Mar 2024 15:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 16:01:44 GMT</lastBuildDate>
     <item>
-      <title>Guarding the Gates: Exploring Supported Scenarios for Azure DDoS Protection and Public IP Prefixes</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/guarding-the-gates-exploring-supported-scenarios-for-azure-ddos/ba-p/4077391</link>
-      <pubDate>Wed, 06 Mar 2024 14:42:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/guarding-the-gates-exploring-supported-scenarios-for-azure-ddos/ba-p/4077391</guid>
-      <description>Introduction
-In the face of an ever-evolving digital landscape, businesses are constantly under the threat of Distributed Denial of Service (DDoS) attacks. These relentless assaults have the potential to overwhelm network resources, disrupt services, compromise sensitive data, and lead to significant financial losses. As these threats become increasingly common, the need for a robust defense mechanism has never been more critical.
+      <title>Learn about AI and Microsoft Copilot for Security with Learn Live</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-about-ai-and-microsoft-copilot-for-security-with-learn/ba-p/4076305</link>
+      <pubDate>Wed, 06 Mar 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-about-ai-and-microsoft-copilot-for-security-with-learn/ba-p/4076305</guid>
+      <description>Want to learn more about Generative AI and Microsoft Copilot? &#160;
 &#160;
-In this blog post we are showing you the scenarios where Azure DDoS Protection can help protect Public IP Prefixes from these attacks.
+Microsoft is launching a Learn Live Series called &#8220;Getting Started with Microsoft Copilot for Security.&#8221; This weekly online seminar series will run from March 19th through April 9th and will review skill development resources and discuss topics related to AI and Copilot for Security.&#160;
 &#160;
-What is Azure DDoS Protect...</description>
+Hosts Edward Walton, Andrea Fisher, and Rod Trent will guide you through four topics each with a corresponding Microsoft Learn module designed to help anyone interested in getting users ready for Microsoft Copilot for Security.&#160;
+&#160;
+Fundamentals of...</description>
     </item>
   </channel>
 </rss>
