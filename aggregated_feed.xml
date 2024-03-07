@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 07 Mar 2024 17:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 18:06:47 GMT</lastBuildDate>
+    <item>
+      <title>Troubleshoot and Manage Microsoft Purview Data Loss Prevention for your Endpoint Devices</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/troubleshoot-and-manage-microsoft-purview-data-loss-prevention/ba-p/4077992</link>
+      <pubDate>Thu, 07 Mar 2024 17:30:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/troubleshoot-and-manage-microsoft-purview-data-loss-prevention/ba-p/4077992</guid>
+      <description>Endpoint Data Loss Prevention (Endpoint DLP) is part of the Microsoft Purview Data Loss Prevention (DLP) suite of features you can use to discover and protect sensitive items across Microsoft 365 services. Microsoft Endpoint DLP allows you to detect and protect sensitive content across&#160;onboarded Windows 10, Windows 11&#160;and macOS devices. Learn more about all of Microsoft's DLP offerings.
+&#160;
+Welcome to our comprehensive guide to assist you in navigating any potential challenges with your endpoint devices for Microsoft Purview Endpoint DLP! This playbook provides detailed instructions for effectiv...</description>
+    </item>
   </channel>
 </rss>
