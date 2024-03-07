@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 07 Mar 2024 21:01:12 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Cloud for Sovereignty: Empowering Digital Transformation with Data Sovereignty</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-cloud-for-sovereignty-empowering-digital/ba-p/4078029</link>
-      <pubDate>Thu, 07 Mar 2024 20:30:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-cloud-for-sovereignty-empowering-digital/ba-p/4078029</guid>
-      <description>In our interconnected world, governments and public sector organizations face a delicate balancing act. On one hand, they must embrace digital transformation to enhance citizen services, drive economic growth, and improve operational efficiency. On the other hand, they must safeguard sensitive data, adhere to regulatory requirements, and maintain control over their digital assets. Enter&#8239;Microsoft Cloud for Sovereignty, a comprehensive solution designed to address these complex challenges.&#160;
-&#160;
-What Is Microsoft Cloud for Sovereignty?&#160;
-Microsoft Cloud for Sovereignty is a cloud environment tailor...</description>
-    </item>
+    <lastBuildDate>Thu, 07 Mar 2024 22:01:09 GMT</lastBuildDate>
   </channel>
 </rss>
