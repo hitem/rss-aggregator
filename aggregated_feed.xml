@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Mar 2024 16:01:00 GMT</lastBuildDate>
-    <item>
-      <title>MDTI Standalone Portal Retirement and Transition to Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-standalone-portal-retirement-and-transition-to-defender-xdr/ba-p/4077806</link>
-      <pubDate>Fri, 08 Mar 2024 15:15:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-standalone-portal-retirement-and-transition-to-defender-xdr/ba-p/4077806</guid>
-      <description>On June 30th, 2024, the Microsoft Defender Threat Intelligence (MDTI) standalone portal will reach end-of-life and the Microsoft Defender XDR portal will become MDTI&#8217;s exclusive home for both standard and premium users. In this blog, we&#8217;ll guide customers using the standalone portal that wish to continue using MDTI in Defender XDR through the simple migration process. We&#8217;ll also help customers, and their teams, prepare to take advantage of the benefits MDTI brings to Microsoft&#8217;s XDR, SIEM, and AI solutions.&#160;
-&#160;
-What is happening to the MDTI standalone portal?&#160;
-&#160;
-On June 30th, 2024, the MDTI sta...</description>
-    </item>
+    <lastBuildDate>Fri, 08 Mar 2024 17:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
