@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Mar 2024 10:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Azure PowerShell Tips and Tricks</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-powershell-tips-and-tricks/ba-p/4066848</link>
-      <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-powershell-tips-and-tricks/ba-p/4066848</guid>
-      <description>&#160;
-I&#8217;ve spent most of my days lately writing PowerShell and using REST APIs as part of my work in Azure. &#160;When I&#8217;m screen sharing with colleagues, I frequently learn different and better ways to do my work. This post is to share with you several tips and tricks I&#8217;ve shared with my colleagues, and I hope helps you shave minutes or hours off of your work.
-&#160;
-Use ConvertTo-JSON to more easily read output.
-When I&#8217;m working with a new object in Azure I often don&#8217;t know where the information I care about is actually found in output. PowerShell makes it easy to navigate through objects, however it isn&#8217;...</description>
-    </item>
+    <lastBuildDate>Mon, 11 Mar 2024 11:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
