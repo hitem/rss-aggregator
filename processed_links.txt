@@ -617,3 +617,4 @@
 2024-03-07T17:30:29 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/troubleshoot-and-manage-microsoft-purview-data-loss-prevention/ba-p/4077992
 2024-03-07T20:30:29 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-cloud-for-sovereignty-empowering-digital/ba-p/4078029
 2024-03-08T15:15:23 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-standalone-portal-retirement-and-transition-to-defender-xdr/ba-p/4077806
+2024-03-11T10:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-powershell-tips-and-tricks/ba-p/4066848
