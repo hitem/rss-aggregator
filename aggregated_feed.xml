@@ -3,145 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Mar 2024 17:03:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 18:06:44 GMT</lastBuildDate>
     <item>
-      <title>How business conduct violations can help understand data security risks</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-business-conduct-violations-can-help-understand-data/ba-p/4083002</link>
-      <pubDate>Wed, 13 Mar 2024 17:00:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-business-conduct-violations-can-help-understand-data/ba-p/4083002</guid>
-      <description>Recent statistics show that insider risks are a major concern for organizations, with 74% saying insider incidents have become more frequent[1]. These companies have a responsibility to protect business- critical data and to maintain a productive and positive work environment for employees. Balancing data security and employee empowerment can be difficult in today&#8217;s digital landscape. Employees must be protected from business conduct violations such as discriminatory language or hate speech, and sensitive data must be protected from leakage to external parties. Microsoft Purview Communication ...</description>
-    </item>
-    <item>
-      <title>What&#8217;s new in Defender: How Copilot for Security can transform your SOC</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222</link>
-      <pubDate>Wed, 13 Mar 2024 16:41:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222</guid>
-      <description>What&#8217;s new in Defender: How Copilot for Security can transform your SOC
-Today at Secure, we announced that Microsoft Copilot for Security will be generally available on April 1. &#160;Copilot equips security teams with purpose-built capabilities at every stage of the security lifecycle, embedded right into the unified security operations platform in the Defender portal. Early users of Copilot for Security have already seen significant measurable results when integrated in their SOC, transforming their operations and boosting their defense and posture against both ongoing and emerging threats. Read ...</description>
-    </item>
-    <item>
-      <title>New at Secure: Corpus of Intel Profiles Available in Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-corpus-of-intel-profiles-available-in-defender-xdr/ba-p/4083161</link>
-      <pubDate>Wed, 13 Mar 2024 16:26:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-corpus-of-intel-profiles-available-in-defender-xdr/ba-p/4083161</guid>
-      <description>The Microsoft Defender Threat Intelligence (MDTI) team is excited to announce that we are revealing previews for each of our 350+ intel profiles to all Defender XDR customers for the first time. This represents Microsoft&#8217;s broadest expansion of threat intelligence content to non-MDTI premium customers yet, adding nearly 340 intel profiles to Defender XDR customers' view,&#160;including over 200 tracked threat actors, tools, and vulnerabilities that Microsoft has not named anywhere else.
+      <title>Microsoft Secure Tech Accelerator: Securing AI-- RSVP now</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340</link>
+      <pubDate>Wed, 13 Mar 2024 18:02:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340</guid>
+      <description>Join us April 3rd for another Microsoft Secure Tech Accelerator! We will be joined by members of our product engineering and customer adoption teams to help you explore, expand, and improve the way you secure and implement AI.
 &#160;
-We are also revealing the full content for an additional 31 profiles, building on our initial set of 17 profile...</description>
-    </item>
-    <item>
-      <title>New at Secure: MDTI in Defender XDR Global Search</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-mdti-in-defender-xdr-global-search/ba-p/4083158</link>
-      <pubDate>Wed, 13 Mar 2024 16:25:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-mdti-in-defender-xdr-global-search/ba-p/4083158</guid>
-      <description>On the heels of introducing Microsoft Defender Threat Intelligence (MDTI) premium and standard editions into the Microsoft Defender XDR portal, we are thrilled to introduce an even greater integrated threat intelligence experience by making results for MDTI content available within Defender XDR&#8217;s global search bar.
-&#160;
-Users will notice that they can now use the top-level Defender XDR search to discover results from MDTI on indicators of compromise (IOCs), common vulnerabilities and exposures (CVEs), articles, threat actors and more. From anywhere in the portal, customers now can readily find MD...</description>
-    </item>
-    <item>
-      <title>What's New at Microsoft Secure 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure-2024/ba-p/4083184</link>
-      <pubDate>Wed, 13 Mar 2024 16:11:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure-2024/ba-p/4083184</guid>
-      <description>At Microsoft Secure, we are excited to announce several new innovations from the Microsoft Defender Threat Intelligence (MDTI) team. These updates enable our customers to access valuable, high-fidelity threat intelligence where, when, and how they need it:
-&#160;
-
-To optimize MDTI content for customers, we have enhanced the look and feel of vulnerability profiles and are releasing the full corpus of Microsoft&#8217;s intel profiles to the MDTI standard version. 
-We are keeping pace with Copilot for Security as it evolves, launching a new side card experience in the threat intelligence blade of Defender X...</description>
-    </item>
-    <item>
-      <title>New at Secure: Enhanced Vulnerability Profiles and CVE Search within MDTI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-enhanced-vulnerability-profiles-and-cve-search/ba-p/4083159</link>
-      <pubDate>Wed, 13 Mar 2024 16:03:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-enhanced-vulnerability-profiles-and-cve-search/ba-p/4083159</guid>
-      <description>The Microsoft Defender Threat Intelligence (MDTI) team revamped vulnerability profiles to improve customers&#8217; ability to access world-class intelligence on vulnerabilities and exposures within the Defender XDR portal.
-&#160;
-These exciting updates include:
-&#160;
-
-A new layout that mirrors the design of our Threat Actor and Tool intel profiles for a more consistent experience
-Vulnerability profiles sorted by published date by default in list view to display a steady feed of new, high importance CVEs
-The decoupling of Vulnerability Profiles from open-source Common Vulnerabilities and Exposures (CVEs) so c...</description>
-    </item>
-    <item>
-      <title>The dynamic duo for your data security &#8211; Adaptive Protection integration with Conditional Access</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-dynamic-duo-for-your-data-security-adaptive-protection/ba-p/4079264</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-dynamic-duo-for-your-data-security-adaptive-protection/ba-p/4079264</guid>
-      <description>In the rapidly evolving digital era, organizations face an uphill battle in securing sensitive data - as evidenced by our recent Microsoft &#8220;Rethinking Security from the Inside Out&#8221; report where 87% of organizations stated that they experienced data breaches in the past year. A substantial 63% of these incidents stem from inadvertent or malicious insiders with access to sensitive information.
-&#160;
-Organizations struggle to keep up with the dynamic nature of risks due to their reliance on fragmented tools and one-size-fits-all security policies, causing friction for users who need to use and access...</description>
-    </item>
-    <item>
-      <title>Discover, protect, and govern AI usage with Microsoft Security</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/discover-protect-and-govern-ai-usage-with-microsoft-security/ba-p/4078883</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/discover-protect-and-govern-ai-usage-with-microsoft-security/ba-p/4078883</guid>
-      <description>Generative AI (GenAI) is being adopted at an unprecedented rate as organizations actively engage with or experiment with GenAI in various capacities. Excitement and anxiety coexist as businesses embrace this transformative technology&#8212;as the technological advancements enabling innovations and business opportunities also introduce additional security and governance risks. Recent research indicates that 93 percent of businesses are either implementing or developing an AI strategy1. Meanwhile, leaders are feeling the generative AI-nxiety2 with GenAI adoptions. Moreover, a recent survey highlights ...</description>
-    </item>
-    <item>
-      <title>Protect at the speed and scale of AI with Copilot for Security in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-at-the-speed-and-scale-of-ai-with-copilot-for-security/ba-p/4078785</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-at-the-speed-and-scale-of-ai-with-copilot-for-security/ba-p/4078785</guid>
-      <description>In today's fast-paced AI-driven world, data security and compliance admins face the daunting task of keeping up with the overwhelming volume and complexity of alerts. To effectively prioritize and address critical alerts, organizations need the power of AI to provide concise alert summaries, integrated insights, and natural language support within their trusted investigation workflows.
-&#160;
-To help address these challenges, we announced two experiences back in November. First was the standalone experience to help SOC teams gain visibility across security data &#8211; bringing signals together from Defe...</description>
-    </item>
-    <item>
-      <title>Security for AI: How to Secure and govern AI usage</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-for-ai-how-to-secure-and-govern-ai-usage/ba-p/4082269</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-for-ai-how-to-secure-and-govern-ai-usage/ba-p/4082269</guid>
-      <description>Today, at the Microsoft Secure online event, Herain and I discussed best practices for securing and governing AI usage. In this blog post, we provide detailed guidance on implementing the controls demonstrated during the session.&#160;
-&#160;
-Generative Artificial Intelligence (GenAI) is changing the game in the workplace. It sparks incredible productivity and innovation everywhere you look and across all kinds of industries and regions. According to a recent research study: 93% of businesses are either implementing or developing an AI strategy[1]. At the same time, about the same percentage of risk lea...</description>
-    </item>
-    <item>
-      <title>Introducing Microsoft Security Exposure Management</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-security-exposure-management/ba-p/4080907</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-security-exposure-management/ba-p/4080907</guid>
-      <description>In an era of expanding interconnected attack surfaces, organizations face a growing concern about a myriad of exposures, including software vulnerabilities, control misconfigurations, overprivileged access, and evolving threats leading to sensitive data exposure.
-&#160;
-Navigating, and, more importantly, understanding this threat landscape and where you may be exposed can be extremely difficult, costly, and complex.
-&#160;
-Therefore, it's important for you to increase visibility across your digital estate so that you can not only identify potential threats, but also take proactive measures to prevent th...</description>
-    </item>
-    <item>
-      <title>Strengthen protection to mitigate data overexposure in GenAI tools with data classification/labeling</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthen-protection-to-mitigate-data-overexposure-in-genai/ba-p/4080187</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthen-protection-to-mitigate-data-overexposure-in-genai/ba-p/4080187</guid>
-      <description>Organizations are faced with the challenge of discovering and protecting sensitive data across their digital estate in order to prevent unauthorized access and sharing of corporate intellectual property and PII. As organizations adopt generative AI tools to boost worker productivity, which is estimated to be as much as 40% for highly skilled workers and reduce operating costs, these tools also introduce new user activities and produce a lot of additional data &#8211; requiring security and compliance management. Proliferation of GenAI applications and content is a top security challenge in AI adopti...</description>
-    </item>
-    <item>
-      <title>Microsoft Entra adds identity skills to Copilot for Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-adds-identity-skills-to-copilot-for-security/ba-p/4081857</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-adds-identity-skills-to-copilot-for-security/ba-p/4081857</guid>
-      <description>Today we announced that Microsoft Copilot for Security will be generally available worldwide on April 1. The following new Microsoft Entra skills will be available in the standalone Copilot for Security experience: User Details, Group Details, Sign-in Logs, Audit Logs, and Diagnostic Logs. User Risk Investigation, a skill embedded in Microsoft Entra, will also be available in public preview.&#160;&#160;
-&#160;&#160;
-These skills help identity admins protect against identity compromise through providing identity context and&#8239;insights for security incidents and helping to resolve identity-related risks and sign-in i...</description>
-    </item>
-    <item>
-      <title>Get visibility into your curated external assets with enhanced generative AI capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/get-visibility-into-your-curated-external-assets-with-enhanced/ba-p/4081757</link>
-      <pubDate>Wed, 13 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/get-visibility-into-your-curated-external-assets-with-enhanced/ba-p/4081757</guid>
-      <description>Finding, tracking, and managing all the assets found within an organization&#8217;s vast &#8211; and often unknown &#8211; digital attack surface can be a daunting task. &#160;A lack of knowing and monitoring all your assets, including shadow IT, leads to security gaps that can be exploited by attackers.
-&#160;
-Understanding and documenting your entire attack surface with relevant asset tracking is critical to securing your environment. This highlights the importance of adding an external attack surface management (EASM) tool to your security stack.
-&#160;
-EASM solutions are designed to provide a view of your digital attack s...</description>
-    </item>
-    <item>
-      <title>Defender CSPM enhances risk prioritization, remediation, and compliance for multicloud environments</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-cspm-enhances-risk-prioritization-remediation-and/ba-p/4082119</link>
-      <pubDate>Wed, 13 Mar 2024 15:58:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-cspm-enhances-risk-prioritization-remediation-and/ba-p/4082119</guid>
-      <description>With almost 90% of organizations adopting a multicloud strategy, successfully securing the entire environment has never been more important. However, the complexities of multicloud environments can introduce security risks, particularly if there is lack of visibility across environments and security is managed in siloes. Microsoft Defender for Cloud helps organizations break down their multicloud security siloes by offering a market-leading cloud-native application protection platform, integrating security &#8211; not just across clouds, but also throughout the application life cycle.&#160;&#160;
-&#160;
-Mitigating...</description>
+In this edition of Microsoft Secure Tech Accelerator, we are focusing on Microsoft Copilot for Security, Securing AI, and Exposure Management. We want to help you understand how you can make sure that the way you implement your AI tools is secure. We&#8217;ll also cover some of the newly available solutions in the Microsoft Security suite that allows you to make securing you...</description>
     </item>
   </channel>
 </rss>

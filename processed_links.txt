@@ -633,3 +633,4 @@
 2024-03-13T16:26:13 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-secure-corpus-of-intel-profiles-available-in-defender-xdr/ba-p/4083161
 2024-03-13T16:41:30 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222
 2024-03-13T17:00:42 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-business-conduct-violations-can-help-understand-data/ba-p/4083002
+2024-03-13T18:02:02 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340
