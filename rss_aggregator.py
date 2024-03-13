@@ -32,7 +32,7 @@ output_file = "aggregated_feed.xml"
 
 # Read previously processed links
 with open("processed_links.txt", "r") as f:
-    processed_links = set(line.split(maxsplit=1)[1].strip() for line in f if line.strip())
+    processed_links = set(line.split()[1] for line in f if line.strip())
 
 # Parse and aggregate the RSS feeds
 all_entries = []
@@ -65,29 +65,22 @@ for entry in sorted_entries:
     etree.SubElement(item, "link").text = entry.link
     etree.SubElement(item, "pubDate").text = entry.published
     etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(entry, "id") else entry.link
+    # Change number depending on how many characters you want to include
     soup = BeautifulSoup(entry.summary, "lxml")
     summary_text = soup.get_text()
     limited_summary = summary_text[:600] + "..." if len(summary_text) > 350 else summary_text
     etree.SubElement(item, "description").text = limited_summary
 
+
 # Write the output to a file
 with open(output_file, "wb") as f:
     f.write(etree.tostring(root, pretty_print=True))
 
-# Implement logic to keep processed links from the last 600 days only
-retention_period = datetime.timedelta(days=600)
-current_time = datetime.datetime.utcnow()
-
-# Read and filter the existing processed links
-with open("processed_links.txt", "r") as f:
-    existing_entries = [line for line in f if line.strip() and (current_time - datetime.datetime.strptime(line.split(maxsplit=1)[0], "%Y-%m-%dT%H:%M:%S") <= retention_period)]
-
-# Append new entries
-new_entries = [f"{datetime.datetime.strptime(entry.published, '%a, %d %b %Y %H:%M:%S %Z').strftime('%Y-%m-%dT%H:%M:%S')} {entry.link}\n" for entry in recent_entries]
-
-# Write the cleaned and updated list back to the file
-with open("processed_links.txt", "w") as f:
-    f.writelines(existing_entries + new_entries)
+# Update the processed links file with new links
+with open("processed_links.txt", "a") as f:
+    for entry in recent_entries:
+        timestamp = datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%dT%H:%M:%S")
+        f.write(f"{timestamp} {entry.link}\n")
 
 # Set the RSS_FEED_ENTRIES environment variable
 with open(os.environ["GITHUB_ENV"], "a") as f:

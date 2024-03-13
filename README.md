@@ -23,4 +23,5 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/Mic
     etree.SubElement(channel, "link").text = "https://<username>.github.io/<repo name>/aggregated_feed.xml"
     ```
 4. Update the workflow:\
-   Change the timer accordingly in ```rss_aggregator.yml```
+   Change the timer accordingly in ```rss_aggregator.yml```\
+   The Cron job is the main one (how often it runs). But one more such setting is that links are only stored for 365 days under ```name: Update processed links file``` to prevent ```processed_links.txt``` to grow to big.
