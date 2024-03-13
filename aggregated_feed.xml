@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Mar 2024 18:06:44 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Secure Tech Accelerator: Securing AI-- RSVP now</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340</link>
-      <pubDate>Wed, 13 Mar 2024 18:02:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340</guid>
-      <description>Join us April 3rd for another Microsoft Secure Tech Accelerator! We will be joined by members of our product engineering and customer adoption teams to help you explore, expand, and improve the way you secure and implement AI.
-&#160;
-In this edition of Microsoft Secure Tech Accelerator, we are focusing on Microsoft Copilot for Security, Securing AI, and Exposure Management. We want to help you understand how you can make sure that the way you implement your AI tools is secure. We&#8217;ll also cover some of the newly available solutions in the Microsoft Security suite that allows you to make securing you...</description>
-    </item>
+    <lastBuildDate>Wed, 13 Mar 2024 19:00:47 GMT</lastBuildDate>
   </channel>
 </rss>
