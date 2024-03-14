@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Mar 2024 23:01:29 GMT</lastBuildDate>
-    <item>
-      <title>Exposure Management: The Evolution of Vulnerability Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposure-management-the-evolution-of-vulnerability-management/ba-p/4084587</link>
-      <pubDate>Wed, 13 Mar 2024 22:41:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposure-management-the-evolution-of-vulnerability-management/ba-p/4084587</guid>
-      <description>Traditional Vulnerability Management
-&#160;
-As security professionals, we&#8217;re tasked with the seemingly impossible job of staying one step ahead of attackers. This task is made more challenging by the constantly evolving threat landscape as well as the silos that exist within our businesses, security teams, and even our tooling. The technology and architecture required to support a modern enterprise has caused the attack surface to expand rapidly in recent years&#8212;this includes things like leveraging a hybrid cloud/on-premises architecture, enabling a fully remote workforce, and using a myriad of tool...</description>
-    </item>
+    <lastBuildDate>Thu, 14 Mar 2024 00:25:13 GMT</lastBuildDate>
   </channel>
 </rss>
