@@ -635,3 +635,4 @@
 2024-03-13T17:00:42 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-business-conduct-violations-can-help-understand-data/ba-p/4083002
 2024-03-13T18:02:02 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340
 2024-03-13T22:41:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposure-management-the-evolution-of-vulnerability-management/ba-p/4084587
+2024-03-14T08:30:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-azure-cost-optimization-a-comprehensive-guide/ba-p/4084926

@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Mar 2024 08:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 09:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Mastering Azure Cost Optimization - A Comprehensive Guide</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-azure-cost-optimization-a-comprehensive-guide/ba-p/4084926</link>
+      <pubDate>Thu, 14 Mar 2024 08:30:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-azure-cost-optimization-a-comprehensive-guide/ba-p/4084926</guid>
+      <description>Introduction
+Hi folks! My name is Felipe Binotto, Cloud Solution Architect, based in Australia.
+&#160;
+I understand and you probably do as well, that cost savings in the cloud is a very hot topic for any organization.
+&#160;
+Believe it or not, there is a huge number of people (including me) doing their best to allow you to get the best value for your money. This is imperative for us.
+&#160;
+The plan here is to highlight the most used cost savings artifacts as well as the most effective cost savings actions you can take for cost savings.
+&#160;
+I will give you some personal tips, but most of the content already ex...</description>
+    </item>
   </channel>
 </rss>
