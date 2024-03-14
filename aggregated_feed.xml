@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Mar 2024 15:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 16:02:02 GMT</lastBuildDate>
+    <item>
+      <title>&#8203;&#8203;Microsoft named as a Leader in three IDC MarketScapes for Modern Endpoint Security 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-as-a-leader-in-three-idc-marketscapes-for-modern/ba-p/4083116</link>
+      <pubDate>Thu, 14 Mar 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-as-a-leader-in-three-idc-marketscapes-for-modern/ba-p/4083116</guid>
+      <description>Organizations have seen the number of human-operated ransomware attacks increase more than 200% since September 2022 and about 70% of organizations encountering these attacks had fewer than 500 employees[1]. With these security concerns top of mind, there is no surprise that in the last five years, the Modern Endpoint Security (MES) market has nearly tripled in size to defend against emerging, sophisticated, and persistent threats. Microsoft continues to develop solutions that help protect organizations of all sizes and today we are thrilled to announce that we have been recognized as a Leader...</description>
+    </item>
   </channel>
 </rss>
