@@ -637,3 +637,4 @@
 2024-03-13T22:41:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposure-management-the-evolution-of-vulnerability-management/ba-p/4084587
 2024-03-14T08:30:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-azure-cost-optimization-a-comprehensive-guide/ba-p/4084926
 2024-03-14T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-as-a-leader-in-three-idc-marketscapes-for-modern/ba-p/4083116
+2024-03-15T00:21:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-codeless-connectors-with-the-codeless-connector-builder/ba-p/4082050
