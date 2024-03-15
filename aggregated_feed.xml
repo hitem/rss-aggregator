@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Mar 2024 00:25:26 GMT</lastBuildDate>
-    <item>
-      <title>Create Codeless Connectors with the Codeless Connector Builder (Preview)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-codeless-connectors-with-the-codeless-connector-builder/ba-p/4082050</link>
-      <pubDate>Fri, 15 Mar 2024 00:21:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-codeless-connectors-with-the-codeless-connector-builder/ba-p/4082050</guid>
-      <description>*Please note: This workbook is considered Public Preview as there is some supplementary content that is still being finalized while the core functionality is finished. There will be an update in the future to move this to GA.*
-&#160;
-Hate JSON templates? Looking to make your own Codeless Connectors for Microsoft Sentinel? You&#8217;re in luck. This workbook sets out to create a UI experience for creating Codeless Connectors in order to make it as easy as possible.
-&#160;
-This solution currently has not been merged with the main Microsoft Sentinel repository, so it will not appear in Content Hub yet. You can f...</description>
-    </item>
+    <lastBuildDate>Fri, 15 Mar 2024 01:39:03 GMT</lastBuildDate>
   </channel>
 </rss>
