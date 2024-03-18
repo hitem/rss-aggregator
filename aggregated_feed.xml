@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Mar 2024 16:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Cross-tenant access settings - Notes from the field</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/cross-tenant-access-settings-notes-from-the-field/ba-p/4081841</link>
-      <pubDate>Mon, 18 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/cross-tenant-access-settings-notes-from-the-field/ba-p/4081841</guid>
-      <description>The introduction of cross-tenant access settings for Microsoft Entra External ID marked a pivotal shift in how organizations manage security and collaboration across different tenants. This blog post dives into the essence of these settings, focusing on their significance for secure B2B collaboration.&#160;&#160;
-&#160;
-Three key areas of focus, include:&#160;&#160;
-&#160;
-
-The critical aspect of trusting multifactor authentication (MFA) from business collaborators, including the exploration into the balance between maintaining high security standards and ensuring a seamless user experience for B2B guest users, plus highli...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Mar 2024 17:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
