@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Mar 2024 06:07:33 GMT</lastBuildDate>
-    <item>
-      <title>Vulnerability Descriptions enhanced with AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerability-descriptions-enhanced-with-ai/ba-p/4073501</link>
-      <pubDate>Tue, 19 Mar 2024 05:28:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerability-descriptions-enhanced-with-ai/ba-p/4073501</guid>
-      <description>Addressing software vulnerabilities can be challenging, especially when remediation and impact of the CVE may vary across different sources.&#160;To address this challenge, the Defender Vulnerability Management team has developed an enhanced description for CVEs using AI technology. This innovative approach involves gathering information from diverse public online sources and validating it through Microsoft dedicated research teams providing a comprehensive summary of CVEs, their impact and recommended remediation steps to minimize risk.
-&#160;
-The problem
-Understanding a CVE is important to comprehend ...</description>
-    </item>
+    <lastBuildDate>Tue, 19 Mar 2024 07:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
