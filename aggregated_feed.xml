@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Mar 2024 15:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 16:02:01 GMT</lastBuildDate>
+    <item>
+      <title>Act now: Turn on or customize Microsoft-managed Conditional Access policies</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/act-now-turn-on-or-customize-microsoft-managed-conditional/ba-p/4078809</link>
+      <pubDate>Tue, 19 Mar 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/act-now-turn-on-or-customize-microsoft-managed-conditional/ba-p/4078809</guid>
+      <description>As part of our Secure Future Initiative, we announced Microsoft-managed Conditional Access policies in November 2023. These policies are designed to help you secure your organization's resources and data based on your usage patterns, risk factors, and existing policy configuration, all while minimizing your effort. Our top recommendation for improving your identity secure posture is enabling multifactor authentication (MFA), which reduces the risk of compromise by 99.2%. This is why our first three policies are all related to MFA for different scenarios.&#160;
+&#160;
+Since we announced Microsoft-managed...</description>
+    </item>
   </channel>
 </rss>

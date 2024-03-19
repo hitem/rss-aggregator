@@ -641,3 +641,4 @@
 2024-03-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/cross-tenant-access-settings-notes-from-the-field/ba-p/4081841
 2024-03-19T05:28:24 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerability-descriptions-enhanced-with-ai/ba-p/4073501
 2024-03-19T11:30:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-export-data-from-defender-for-endpoint-to-azure-data/ba-p/4089821
+2024-03-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/act-now-turn-on-or-customize-microsoft-managed-conditional/ba-p/4078809
