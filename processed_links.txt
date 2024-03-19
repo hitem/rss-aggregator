@@ -640,3 +640,4 @@
 2024-03-15T00:21:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-codeless-connectors-with-the-codeless-connector-builder/ba-p/4082050
 2024-03-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/cross-tenant-access-settings-notes-from-the-field/ba-p/4081841
 2024-03-19T05:28:24 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerability-descriptions-enhanced-with-ai/ba-p/4073501
+2024-03-19T11:30:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-export-data-from-defender-for-endpoint-to-azure-data/ba-p/4089821

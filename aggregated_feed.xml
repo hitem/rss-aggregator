@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Mar 2024 11:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:09:42 GMT</lastBuildDate>
+    <item>
+      <title>How to export data from Defender for Endpoint to Azure Data Explorer</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-export-data-from-defender-for-endpoint-to-azure-data/ba-p/4089821</link>
+      <pubDate>Tue, 19 Mar 2024 11:30:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-export-data-from-defender-for-endpoint-to-azure-data/ba-p/4089821</guid>
+      <description>In the lush grass of my backyard, Raven, my miniature Schnauzer, finds her bliss. She lies there, soaking in the sun&#8217;s rays, much like the data we export from Defender for Endpoint into Azure Storage. It sits there, in the cloud&#8217;s protective realm, unassuming yet essential. Raven, ever alert for critters that might encroach on her territory, is like the data that lies in wait&#8212;seemingly still but always ready to serve our needs.
+This blog will lead you through the steps of moving crucial data to a secure spot, just as Raven seeks out her sunny haven. We&#8217;ll explore the technical aspects of data ...</description>
+    </item>
   </channel>
 </rss>
