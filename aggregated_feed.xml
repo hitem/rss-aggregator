@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Mar 2024 07:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 08:07:27 GMT</lastBuildDate>
+    <item>
+      <title>Azure Monitor: Create Dedicated Clusters Using Any Commitment Tier</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-create-dedicated-clusters-using-any-commitment/ba-p/4089859</link>
+      <pubDate>Thu, 21 Mar 2024 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-create-dedicated-clusters-using-any-commitment/ba-p/4089859</guid>
+      <description>Hello readers,
+You might have noticed the supportability for any existing commitment tier, including the small 100, 200, 300, 400 GB/Day ones, for Azure Monitor Logs Dedicated Cluster have been announced by the Azure Monitor product group. The official announcement went live on January 25, 2024 and can be found HERE.
+As short recap, an Azure Monitor Logs Dedicated Cluster might be required if you would like to use one or more of the capabilities reported below:
+&#160;
+
+Customer-managed keys - Encrypt cluster data using keys that you provide and control.
+Lockbox - Control Microsoft Support engineer ...</description>
+    </item>
   </channel>
 </rss>
