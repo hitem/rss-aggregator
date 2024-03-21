@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Mar 2024 15:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 16:01:53 GMT</lastBuildDate>
+    <item>
+      <title>Upgrade your tenant restrictions to v2</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upgrade-your-tenant-restrictions-to-v2/ba-p/4081855</link>
+      <pubDate>Thu, 21 Mar 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upgrade-your-tenant-restrictions-to-v2/ba-p/4081855</guid>
+      <description>In a previous blog in the Data Exfiltration series, we discussed different types of tenant restrictions policy. In this blog, we&#8217;ll discuss migrating from tenant restrictions v1 to authentication plane tenant restrictions v2. In future blogs, we&#8217;ll discuss migrating to Universal tenant restrictions v2.&#160;&#160;
+&#160;
+Tenant restrictions are a vital tool to help prevent data exfiltration from unauthorized access to external Microsoft Entra ID tenants and consumer Microsoft accounts. Tenant restrictions v1 lets you create an allow list of tenant IDs and Microsoft sign-in endpoints to ensure that users acce...</description>
+    </item>
+    <item>
+      <title>Follow the Breadcrumbs with Microsoft Incident Response and MDI: Working Together to Fight Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-incident-response-and-mdi/ba-p/4089623</link>
+      <pubDate>Thu, 21 Mar 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-incident-response-and-mdi/ba-p/4089623</guid>
+      <description>In cybersecurity incidents, one of the first to gain credentials and elevate their privileges. For this reason, they will almost always target user identities and the underlying identity infrastructure. This blog post discusses how Microsoft Incident Response and Microsoft Defender for Identity (MDI) work together to fight identity-based attacks. We demonstrate how MDI can be used to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions. MDI is an identity security solution that monitors key identity systems&#8212;both on-premises and hybrid&#8212;to det...</description>
+    </item>
   </channel>
 </rss>
