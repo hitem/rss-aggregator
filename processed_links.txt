@@ -646,3 +646,4 @@
 2024-03-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upgrade-your-tenant-restrictions-to-v2/ba-p/4081855
 2024-03-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-incident-response-and-mdi/ba-p/4089623
 2024-03-23T17:44:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-against-owasp-api-top-10-security-risks-using-defender/ba-p/4093913
+2024-03-25T17:43:40 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/migrating-from-windows-information-protection-to-microsoft/ba-p/4093824
