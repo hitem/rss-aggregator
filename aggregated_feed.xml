@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:00:52 GMT</lastBuildDate>
-    <item>
-      <title>Migrating from Windows Information Protection to Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/migrating-from-windows-information-protection-to-microsoft/ba-p/4093824</link>
-      <pubDate>Mon, 25 Mar 2024 17:43:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/migrating-from-windows-information-protection-to-microsoft/ba-p/4093824</guid>
-      <description>Introduction 
-In July 2022 we announced the sunsetting &#160;here: Announcing the sunset of Windows Information Protection (WIP) - Microsoft Community Hub of Windows Information Protection (WIP). The last version of windows to ship with WIP will be Win11 24H2.
-&#160;
-Why are we doing this?
-Windows Information Protection, previously known as Enterprise Data Protection (EDP), was originally released to help organizations protect enterprise apps and data against accidental data leaks without interfering with the employee experience on Windows. Over time, many of you have expressed a need for a data protect...</description>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 19:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
