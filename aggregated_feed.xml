@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Mar 2024 04:00:57 GMT</lastBuildDate>
-    <item>
-      <title>Continue to safeguard your organization during NVD update delays</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/continue-to-safeguard-your-organization-during-nvd-update-delays/ba-p/4096409</link>
-      <pubDate>Tue, 26 Mar 2024 03:04:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/continue-to-safeguard-your-organization-during-nvd-update-delays/ba-p/4096409</guid>
-      <description>The National Institute of Standards and Technology (NIST) recently announced updates to the National Vulnerability Database (NVD) program causing delays in enrichment process of its analysis of Common Vulnerabilities and Exposures (CVEs). &#160;This means that important data is missing for a significant number of recent CVEs, lacking metadata, including severity scores and affected product details.
-&#160;
-Message from NIST
-&#8220;NIST is currently working to establish a consortium to address challenges in the NVD program and develop improved tools and methods. You will temporarily see delays in analysis effor...</description>
-    </item>
+    <lastBuildDate>Tue, 26 Mar 2024 05:01:10 GMT</lastBuildDate>
   </channel>
 </rss>
