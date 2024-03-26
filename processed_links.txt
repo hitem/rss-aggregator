@@ -648,3 +648,4 @@
 2024-03-23T17:44:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-against-owasp-api-top-10-security-risks-using-defender/ba-p/4093913
 2024-03-25T17:43:40 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/migrating-from-windows-information-protection-to-microsoft/ba-p/4093824
 2024-03-26T03:04:32 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/continue-to-safeguard-your-organization-during-nvd-update-delays/ba-p/4096409
+2024-03-26T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/seamlessly-secure-your-data-estate-with-microsoft-purview/ba-p/4095930
