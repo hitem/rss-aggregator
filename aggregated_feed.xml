@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Mar 2024 15:01:16 GMT</lastBuildDate>
-    <item>
-      <title>Seamlessly secure your data estate with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/seamlessly-secure-your-data-estate-with-microsoft-purview/ba-p/4095930</link>
-      <pubDate>Tue, 26 Mar 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/seamlessly-secure-your-data-estate-with-microsoft-purview/ba-p/4095930</guid>
-      <description>In the era of AI, data is the fuel that drives innovation and progress. It powers the algorithms that drive our businesses, our economies, and our daily lives. As we generate and consume more data than ever before, it is crucial that we take the necessary steps to secure it. Failing to do so can have consequences, from data breaches and identity theft to the loss of trust and reputation. To run responsible analytics and business processes, organizations are looking for ways to seamlessly secure data across the entire lifecycle, from creation to consumption. Only then can we unlock its full pot...</description>
-    </item>
+    <lastBuildDate>Tue, 26 Mar 2024 16:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
