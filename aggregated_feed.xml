@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Mar 2024 10:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 11:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Prepare for upcoming transitions in Defender for Servers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prepare-for-upcoming-transitions-in-defender-for-servers/ba-p/4098135</link>
+      <pubDate>Wed, 27 Mar 2024 10:39:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prepare-for-upcoming-transitions-in-defender-for-servers/ba-p/4098135</guid>
+      <description>When we released Defender for Cloud (which was formerly known as Azure Security Center) a few years back, we had to rely on Log Analytics agent for some capabilities in both, our foundational CSPM, and in our server protection offerings. In the meantime, there had been many changes especially in the Microsoft Security platform stack, and with the upcoming deprecation of this legacy monitoring agent in summer 2024, we now had the unique chance to re-evaluate our dependencies, to remove some of them while further improving our capabilities at the same time.
+With that approach, we were able to re...</description>
+    </item>
   </channel>
 </rss>
