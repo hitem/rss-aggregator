@@ -651,3 +651,5 @@
 2024-03-26T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/seamlessly-secure-your-data-estate-with-microsoft-purview/ba-p/4095930
 2024-03-27T10:39:33 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prepare-for-upcoming-transitions-in-defender-for-servers/ba-p/4098135
 2024-03-27T12:16:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-level-billing-change-for-defender-for-servers-customers/ba-p/4098143
+2024-03-27T15:22:01 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-123/ba-p/4098458
+2024-03-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368
