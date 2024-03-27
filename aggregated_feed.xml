@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Mar 2024 12:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 13:01:58 GMT</lastBuildDate>
+    <item>
+      <title>Resource-level billing change for Defender for Servers Customers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-level-billing-change-for-defender-for-servers-customers/ba-p/4098143</link>
+      <pubDate>Wed, 27 Mar 2024 12:16:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-level-billing-change-for-defender-for-servers-customers/ba-p/4098143</guid>
+      <description>Who does this change applies to:
+This update is relevant for users with Defender for Servers activated on their Workspaces (with agent installed) or those utilizing the AWS Connector with Defender for Servers enabled.
+What's new:&#160;
+Effective Monday, &lt;30 days from release&gt;, only when Defender for Servers is enabled for the resources' subscription or the subscription hosting a Connector for AWS resources:&#160;
+
+Direct Billing to Resources: We're changing how we report your billing. Instead of using a general workspace ID, your bills will now be directly linked to each compute resource ID. This means ...</description>
+    </item>
   </channel>
 </rss>

@@ -650,3 +650,4 @@
 2024-03-26T03:04:32 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/continue-to-safeguard-your-organization-during-nvd-update-delays/ba-p/4096409
 2024-03-26T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/seamlessly-secure-your-data-estate-with-microsoft-purview/ba-p/4095930
 2024-03-27T10:39:33 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prepare-for-upcoming-transitions-in-defender-for-servers/ba-p/4098135
+2024-03-27T12:16:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-level-billing-change-for-defender-for-servers-customers/ba-p/4098143
