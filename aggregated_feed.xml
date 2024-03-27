@@ -3,28 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Mar 2024 16:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra: Top content creators to follow</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368</link>
-      <pubDate>Wed, 27 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368</guid>
-      <description>You&#8217;re probably familiar with Microsoft Entra documentation and What's new / Release notes for Entra ID. And perhaps you&#8217;ve also explored training for Microsoft Entra, Microsoft Certification for identity and access management, or Microsoft Security on YouTube.&#160;
-&#160;
-Beyond these official channels, an incredible community of talented identity practitioners and passionate Microsoft employees are also sharing their knowledge so that you can get the most from Microsoft Entra. I hope you&#8217;ll review the list and comment if I missed any other good ones!&#160;
-&#160;
-Links below are to external sites and do not re...</description>
-    </item>
-    <item>
-      <title>Security review for Microsoft Edge version 123</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-123/ba-p/4098458</link>
-      <pubDate>Wed, 27 Mar 2024 15:22:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-123/ba-p/4098458</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 123!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 123 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 117 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 123 introduced 11 new computer settings and 11 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find the...</description>
-    </item>
+    <lastBuildDate>Wed, 27 Mar 2024 17:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
