@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Mar 2024 23:00:52 GMT</lastBuildDate>
-    <item>
-      <title>FAQ: Protecting the Data of our Commercial and Public Sector Customers in the AI Era</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/faq-protecting-the-data-of-our-commercial-and-public-sector/ba-p/4097231</link>
-      <pubDate>Wed, 27 Mar 2024 22:52:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/faq-protecting-the-data-of-our-commercial-and-public-sector/ba-p/4097231</guid>
-      <description>Q: How is my organization&#8217;s data protected when I use Microsoft&#8217;s Generative AI Services?&#160;
-
-At Microsoft, we have a long-standing practice of protecting our customers&#8217; information. We are committed to security, privacy, and compliance across everything we do, and our approach to generative AI is no different.&#160;
-
-
-The privacy commitments our commercial and public sector customers have long relied on for our enterprise cloud products also apply to our enterprise generative AI solutions, including Azure OpenAI Service and our Copilots.&#160;&#160;
-
-
-In Protecting the Data of our Commercial and Public Sector...</description>
-    </item>
+    <lastBuildDate>Thu, 28 Mar 2024 00:25:52 GMT</lastBuildDate>
   </channel>
 </rss>
