@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Mar 2024 21:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 22:01:06 GMT</lastBuildDate>
+    <item>
+      <title>[What's New] Easily migrate to Microsoft Sentinel with the new SIEM migration experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-easily-migrate-to-microsoft-sentinel-with-the-new/ba-p/4100351</link>
+      <pubDate>Thu, 28 Mar 2024 21:56:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-easily-migrate-to-microsoft-sentinel-with-the-new/ba-p/4100351</guid>
+      <description>Today we're announcing the general availability of the SIEM Migration experience in Microsoft Sentinel, that unlocks the capability to bring over your SIEM detections into Microsoft Sentinel.&#160;This is an initial step in the direction to help customers accelerate and simplify migrations to Microsoft Sentinel.&#160;Migrating a SIEM solution is often complex, resource-intensive, and expensive and current processes in this space are manual and arduous.&#160;
+&#160;
+The experience supports SIEM migrations from Splunk to Microsoft Sentinel. The migration experience is compatible with both Splunk Enterprise and Splu...</description>
+    </item>
   </channel>
 </rss>
