@@ -3,23 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Mar 2024 16:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 17:00:42 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Entra Internet Access: Unify Security Service Edge with Identity and Access Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-unify-security-service-edge-with/ba-p/4088980</link>
-      <pubDate>Thu, 28 Mar 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-unify-security-service-edge-with/ba-p/4088980</guid>
-      <description>At our latest Microsoft Ignite event, we announced and demonstrated new capabilities within Microsoft Entra Internet Access, an identity-centric Secure Web Gateway (SWG) solution capable of converging all enterprise access governance in one place. These capabilities unify identity and network access controls to help eliminate the security loopholes and manageability created by using multiple security solutions. This helps protect enterprises against malicious internet traffic and other threats from the open internet.
+      <title>Securing Monitoring Services</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-monitoring-services/ba-p/4097602</link>
+      <pubDate>Thu, 28 Mar 2024 16:46:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-monitoring-services/ba-p/4097602</guid>
+      <description>Howdy Readers! Welcome to my post!
 &#160;
-Figure 1: Secure access to all internet sources, Software as a Service (Saa...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender for API Security - Estimate Your Plan Cost Easily</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-api-security-estimate-your-plan-cost/ba-p/4099671</link>
-      <pubDate>Thu, 28 Mar 2024 15:19:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-api-security-estimate-your-plan-cost/ba-p/4099671</guid>
-      <description>With cyber threats becoming more sophisticated, ensuring the security of your business-critical APIs is non-negotiable.
-Microsoft Defender for Cloud introduces an efficient solution with its Defender for APIs feature, designed to provide comprehensive lifecycle protection, detection, and response coverage for your APIs. Defender for APIs is designed to help you protect your APIs from OWASP top API risks and empower you with the visibility needed to enhance your API security posture. With the ability to detect real-time threats swiftly, you're always a step ahead in responding to API security t...</description>
+I get lot of questions around how to secure Monitor services and why Azure monitor needs to be secured. So, I decided to write this blog which explains about securing monitoring services and why we care about Azure Monitor Private Link Scope (AMPLS).
+&#160;
+Let&#8217;s talk about Azure Monitor first, it is one of the most critical and must-have services for monitoring data for your cloud and on-premises environments. You can learn more about&#160;Azure Monitor. Microsoft includes a few different services into Azure monitor like Log Analytics, App Insights, VM Insights, Con...</description>
     </item>
   </channel>
 </rss>
