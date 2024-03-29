@@ -658,3 +658,4 @@
 2024-03-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-unify-security-service-edge-with/ba-p/4088980
 2024-03-28T16:46:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-monitoring-services/ba-p/4097602
 2024-03-28T21:56:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-easily-migrate-to-microsoft-sentinel-with-the-new/ba-p/4100351
+2024-03-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-resilience-update-workload-identity/ba-p/4094704

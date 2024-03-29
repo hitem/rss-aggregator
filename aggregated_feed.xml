@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 29 Mar 2024 15:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 16:01:26 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra resilience update: workload identity authentication</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-resilience-update-workload-identity/ba-p/4094704</link>
+      <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-resilience-update-workload-identity/ba-p/4094704</guid>
+      <description>Microsoft Entra is not only the identity system for users; it&#8217;s also the identity and access management (IAM) system for Azure-based services, all internal infrastructure services at Microsoft, and our customers&#8217; workload identities. This is why our 99.99% service-level promise extends to workload identity authentication, and why we continue to improve our service&#8217;s resilience through a multilayered approach that includes the backup authentication system.&#160;
+&#160;
+In 2021, we introduced the backup authentication system, as an industry-first innovation that automatically and transparently handles aut...</description>
+    </item>
   </channel>
 </rss>
