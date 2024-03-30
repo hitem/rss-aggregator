@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 30 Mar 2024 15:01:14 GMT</lastBuildDate>
-    <item>
-      <title>Navigating Azure WAF Exclusions</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/navigating-azure-waf-exclusions/ba-p/4101418</link>
-      <pubDate>Sat, 30 Mar 2024 14:09:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/navigating-azure-waf-exclusions/ba-p/4101418</guid>
-      <description>Introduction
-Exclusions in Azure WAF (Web Application Firewall) are a critical feature that allows administrators to fine-tune security rules by specifying elements that should not be evaluated by WAF rules. This capability is essential for reducing false positives and ensuring that legitimate traffic flows unimpeded. Exclusions are designed to fine-tune the WAF&#8217;s sensitivity, allowing legitimate traffic to pass through while maintaining robust security measures. They are particularly useful in scenarios where certain request attributes, such as specific cookie values or query strings, are kno...</description>
-    </item>
+    <lastBuildDate>Sat, 30 Mar 2024 16:01:40 GMT</lastBuildDate>
   </channel>
 </rss>
