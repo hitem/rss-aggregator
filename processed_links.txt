@@ -662,3 +662,7 @@
 2024-03-30T14:09:01 https://techcommunity.microsoft.com/t5/azure-network-security-blog/navigating-azure-waf-exclusions/ba-p/4101418
 2024-04-01T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750
 2024-04-01T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730
+2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-vulnerability-management-ga-in-government-cloud/ba-p/4101955
+2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-api-retirement/ba-p/4090534
+2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-deprecation-of-azure-ad-powershell-and-msonline/ba-p/4094536
+2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra/ba-p/3796391

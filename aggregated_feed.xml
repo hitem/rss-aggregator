@@ -3,13 +3,50 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:02:23 GMT</lastBuildDate>
     <item>
-      <title>Hunting and responding to QR code-based phishing attacks with Defender for Office 365</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730</link>
-      <pubDate>Mon, 01 Apr 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730</guid>
-      <description>Phishing is one of the most common and effective cyberattack vectors that threat actors use to compromise email accounts, steal sensitive data, and deliver malware. Recently, we have observed a new trend in phishing campaigns that leverage QR codes embedded in emails to evade detection and trick users into visiting malicious links. QR codes are two-dimensional barcodes that can store various kinds of data, such as URLs, text, or contact information. They are widely used for convenience and ease of access, especially with mobile devices. However, they can also pose a security risk, as users may...</description>
+      <title>What's new in Microsoft Entra</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra/ba-p/3796391</link>
+      <pubDate>Mon, 01 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra/ba-p/3796391</guid>
+      <description>With the ever-increasing sophistication of cyber-attacks, the increasing use of cloud-based services, and the proliferation of mobile devices, it&#8217;s essential that organizations secure access for both human and non-human identities to all on-premises and cloud resources, while working continuously to improve their security posture.&#160;
+&#160;
+Today, we&#8217;re sharing feature release information for January &#8211; March 2024, and first quarter change announcements. We also communicate these via release notes, email, and the Microsoft Entra admin center.&#160;&#160;
+&#160;
+The blog is organized by Microsoft Entra products, so y...</description>
+    </item>
+    <item>
+      <title>Important update: Azure AD Graph API retirement</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-api-retirement/ba-p/4090534</link>
+      <pubDate>Mon, 01 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-api-retirement/ba-p/4090534</guid>
+      <description>In June 2023, we shared an update on the completion of a three-year notice period for the deprecation of the Azure Active Directory (Azure AD) Graph API service. This service is now in the retirement cycle, and retirement (shut down) will be done with future incremental stages. In this update, we&#8217;ll provide more details about this first stage and a new Entra recommendations experience to help you identify applications that are using retiring Azure AD Graph APIs.
+&#160;
+We&#8217;re committed to supporting our customers through this retirement with regular updates as we work through this change.
+&#160;
+Azure AD...</description>
+    </item>
+    <item>
+      <title>Important update: Deprecation of Azure AD PowerShell and MSOnline PowerShell modules</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-deprecation-of-azure-ad-powershell-and-msonline/ba-p/4094536</link>
+      <pubDate>Mon, 01 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-deprecation-of-azure-ad-powershell-and-msonline/ba-p/4094536</guid>
+      <description>In 2021, we described our plans to invest in Microsoft Graph PowerShell SDK as the PowerShell provider for Microsoft Entra and transition away from Azure AD and MSOnline PowerShell modules. In 2023, we announced that the deprecation of Azure AD and MSOnline PowerShell modules would occur on March 30, 2024. We&#8217;ve since made substantial progress closing remaining parity gaps in Microsoft Graph PowerShell SDK, and as of March 30, 2024, these PowerShell modules are now deprecated:
+&#160;
+
+Azure AD PowerShell (AzureAD)&#160;
+Azure AD PowerShell Preview (AzureADPreview)&#160;
+MS Online (MSOnline)&#160;
+
+&#160;
+You should mi...</description>
+    </item>
+    <item>
+      <title>Defender Vulnerability Management GA in government cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-vulnerability-management-ga-in-government-cloud/ba-p/4101955</link>
+      <pubDate>Mon, 01 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-vulnerability-management-ga-in-government-cloud/ba-p/4101955</guid>
+      <description>Microsoft has established itself as a leading solution for vulnerability risk management (VRM) by leveraging its industry-leading threat intelligence and security expertise. Microsoft Defender Vulnerability Management covers the end-to-end VRM lifecycle to identify, assess, prioritize, and remediate vulnerabilities across platforms and workloads.&#160; Making it an ideal tool for an expanded attack surface taking advantage of our context-aware, risk-based prioritization breach likelihood predictions and business contexts to prioritize vulnerabilities across their portfolio of managed and unmanaged ...</description>
     </item>
   </channel>
 </rss>
