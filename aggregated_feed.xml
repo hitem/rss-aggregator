@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Apr 2024 07:00:44 GMT</lastBuildDate>
-    <item>
-      <title>Get Azure Reservations and Savings Plans Insights with the Azure Optimization Engine</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750</link>
-      <pubDate>Mon, 01 Apr 2024 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750</guid>
-      <description>Introduction
-&#160;
-Azure Reservations and Savings Plans commitments have been adopted by many customers with a predictable and steady Azure consumption to achieve considerable savings over on-demand prices. Depending on your on-demand Azure Compute consumption patterns, you may choose one over the other, or even have both working in tandem (see a comparison).
-&#160;
-When adopting Azure commitments, customers face typically two types of challenges:
-&#160;
-
-Estimating the quantities or amount to commit for &#8211; e.g., how many VM Reservations of a given size and region, what Saving Plan hourly commitment, and for...</description>
-    </item>
+    <lastBuildDate>Mon, 01 Apr 2024 08:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
