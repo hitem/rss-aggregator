@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Apr 2024 20:01:21 GMT</lastBuildDate>
-    <item>
-      <title>Native-first cloud security approach</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/native-first-cloud-security-approach/ba-p/4102367</link>
-      <pubDate>Mon, 01 Apr 2024 19:14:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/native-first-cloud-security-approach/ba-p/4102367</guid>
-      <description>Overview
-Customers are migrating to&#160;Public Cloud&#160;(Azure, AWS, Google Cloud) often doing lift and shift with their existing toolset. Or in many cases customers have a misleading notion that a best of breed approach is better than using&#160;Cloud&#160;Native&#160;solutions. As a result, their&#160;cloud&#160;workloads suffer from security and efficiency gaps.&#160;
-&#160;
-These 3rd&#160;party solutions rely on the visibility provided by CSPs APIs. However, each solution comes with its own set of limitations/blind spots as a result, customers&#8217; security becomes a combination of these blind spots. Making it harder for security engineers...</description>
-    </item>
+    <lastBuildDate>Mon, 01 Apr 2024 21:01:46 GMT</lastBuildDate>
   </channel>
 </rss>
