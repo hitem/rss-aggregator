@@ -660,3 +660,4 @@
 2024-03-28T21:56:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-easily-migrate-to-microsoft-sentinel-with-the-new/ba-p/4100351
 2024-03-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-resilience-update-workload-identity/ba-p/4094704
 2024-03-30T14:09:01 https://techcommunity.microsoft.com/t5/azure-network-security-blog/navigating-azure-waf-exclusions/ba-p/4101418
+2024-04-01T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750
