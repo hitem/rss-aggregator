@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Apr 2024 14:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 15:00:43 GMT</lastBuildDate>
+    <item>
+      <title>Hunting and responding to QR code-based phishing attacks with Defender for Office 365</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730</link>
+      <pubDate>Mon, 01 Apr 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730</guid>
+      <description>Phishing is one of the most common and effective cyberattack vectors that threat actors use to compromise email accounts, steal sensitive data, and deliver malware. Recently, we have observed a new trend in phishing campaigns that leverage QR codes embedded in emails to evade detection and trick users into visiting malicious links. QR codes are two-dimensional barcodes that can store various kinds of data, such as URLs, text, or contact information. They are widely used for convenience and ease of access, especially with mobile devices. However, they can also pose a security risk, as users may...</description>
+    </item>
   </channel>
 </rss>
