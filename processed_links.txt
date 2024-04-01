@@ -666,3 +666,5 @@
 2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-api-retirement/ba-p/4090534
 2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-deprecation-of-azure-ad-powershell-and-msonline/ba-p/4094536
 2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra/ba-p/3796391
+2024-04-01T17:03:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-the-ingestion-of-aws-cloudwatch-logs-into-microsoft/ba-p/4100565
+2024-04-01T17:44:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-in-public-preview/ba-p/4102370

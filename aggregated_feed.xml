@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Apr 2024 17:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:06:55 GMT</lastBuildDate>
+    <item>
+      <title>Offline Security Intelligence Update is now in Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-in-public-preview/ba-p/4102370</link>
+      <pubDate>Mon, 01 Apr 2024 17:44:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-in-public-preview/ba-p/4102370</guid>
+      <description>We are extremely excited to share that Offline Security Intelligence Update is now in Public Preview!
+&#160;
+Organizations can now update security intelligence (also referred to as &#8220;signatures&#8221;) on Linux endpoints with limited or no exposure to the internet using a local hosting server. Exercise better control over the download and deployment of&#160;signatures on their Linux servers running critical workloads.
+&#160;
+In addition, these are the benefits of the new offline security intelligence update capability:
+
+Control and manage the frequency of&#160;signature&#160;downloads on the local server and endpoints pullin...</description>
+    </item>
+    <item>
+      <title>Enhance the ingestion of AWS CloudWatch logs into Microsoft Sentinel with AWS Lambda</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-the-ingestion-of-aws-cloudwatch-logs-into-microsoft/ba-p/4100565</link>
+      <pubDate>Mon, 01 Apr 2024 17:03:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-the-ingestion-of-aws-cloudwatch-logs-into-microsoft/ba-p/4100565</guid>
+      <description>Microsoft Sentinel has recently made its AWS S3 data connector generally available (GA), offering users the capability to ingest logs from various AWS services such as CloudTrail, CloudWatch, VPCFlow Logs, and CloudWatch into Microsoft Sentinel using an S3 bucket and AWS's simple message queuing service.To learn more about the AWS S3 connector, see&#160;Connect Microsoft Sentinel to Amazon Web Services to ingest AWS service log data | Microsoft Learn
+&#160;
+AWS CloudWatch is a powerful monitoring and observability service offered by Amazon Web Services (AWS) that plays a crucial role in managing the hea...</description>
+    </item>
   </channel>
 </rss>
