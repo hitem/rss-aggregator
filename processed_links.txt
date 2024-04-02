@@ -669,3 +669,4 @@
 2024-04-01T17:03:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-the-ingestion-of-aws-cloudwatch-logs-into-microsoft/ba-p/4100565
 2024-04-01T17:44:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-in-public-preview/ba-p/4102370
 2024-04-01T19:14:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/native-first-cloud-security-approach/ba-p/4102367
+2024-04-02T01:32:12 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961
