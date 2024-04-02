@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Apr 2024 18:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 19:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Introducing new and upcoming Entra Recommendations to enhance security and productivity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-and-upcoming-entra-recommendations-to-enhance/ba-p/3796390</link>
+      <pubDate>Tue, 02 Apr 2024 18:42:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-and-upcoming-entra-recommendations-to-enhance/ba-p/3796390</guid>
+      <description>Managing the myriad settings and resources within your tenant can be daunting. In an era of escalating security risks and an unprecedented global threat landscape, organizations seek trusted guidance to enhance their security posture That&#8217;s why we introduced Microsoft Entra Recommendations to diligently monitor your tenant&#8217;s status, ensuring it remains secure and healthy. Moreover, they empower you to extract maximum value from the features offered by Microsoft Entra ID. Since the launch of Microsoft Entra recommendations, thousands of customers have adopted these recommendations and resolved ...</description>
+    </item>
   </channel>
 </rss>

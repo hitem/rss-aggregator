@@ -674,3 +674,4 @@
 2024-04-02T12:10:51 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-free-trial-per-plan/ba-p/4102865
 2024-04-02T13:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/five-new-capabilities-for-microsoft-priva-now-in-public-preview/ba-p/4102479
 2024-04-02T15:58:41 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/a-copilot-for-security-customer-s-guide-to-mdti/ba-p/4103238
+2024-04-02T18:42:11 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-and-upcoming-entra-recommendations-to-enhance/ba-p/3796390
