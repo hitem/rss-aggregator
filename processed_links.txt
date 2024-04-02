@@ -671,3 +671,5 @@
 2024-04-01T19:14:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/native-first-cloud-security-approach/ba-p/4102367
 2024-04-02T01:32:12 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961
 2024-04-02T12:01:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secrets-scanning-for-cloud-deployments/ba-p/4102965
+2024-04-02T12:10:51 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-free-trial-per-plan/ba-p/4102865
+2024-04-02T13:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/five-new-capabilities-for-microsoft-priva-now-in-public-preview/ba-p/4102479

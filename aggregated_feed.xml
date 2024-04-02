@@ -3,14 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Apr 2024 12:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 13:04:20 GMT</lastBuildDate>
     <item>
-      <title>Secrets scanning for Cloud deployments</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secrets-scanning-for-cloud-deployments/ba-p/4102965</link>
-      <pubDate>Tue, 02 Apr 2024 12:01:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secrets-scanning-for-cloud-deployments/ba-p/4102965</guid>
-      <description>Over the past year, our CNAPP solution has gone through progressive enhancements, particularly around secret management. It all began with the ability to identify various secret types across virtual machines (VMs). Subsequently, we expanded our focus to include a wide range of metadata associated with these secrets, providing valuable context.&#160;
-Today, we are excited to unveil a new capability in Public Preview: Secrets scanning for cloud deployments! Covering Azure and AWS during Public Preview, this capability marks an important step in our commitment to providing a holistic secret management...</description>
+      <title>Five new capabilities for Microsoft Priva&#8212;now in Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/five-new-capabilities-for-microsoft-priva-now-in-public-preview/ba-p/4102479</link>
+      <pubDate>Tue, 02 Apr 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/five-new-capabilities-for-microsoft-priva-now-in-public-preview/ba-p/4102479</guid>
+      <description>As privacy professionals gather for the International Association of Privacy Professionals (IAPP) Summit in Washington, D.C. on April 2-5th, we&#8217;re rolling out an expansion of the Microsoft Priva portfolio of products into Public Preview! Establishing transparent and ethical data practices to build and maintain customer trust has never been more important for organizations. Robust privacy solutions help organizations fortify their defenses, meet their existing and evolving regulatory obligations, and maintain compliance. Beyond that, organizations can also gain deeper insights into customer pre...</description>
+    </item>
+    <item>
+      <title>Microsoft Defender for Cloud  Free Trial per Plan</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-free-trial-per-plan/ba-p/4102865</link>
+      <pubDate>Tue, 02 Apr 2024 12:10:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-free-trial-per-plan/ba-p/4102865</guid>
+      <description>IntroductionMDC is rolling out the "Trial per Plan". This change is designed with flexibility and customer needs in mind.
+Before diving into the nitty-gritty details, let's summarize what this blog will cover. We'll explore the essence of the new "Trial per Plan" feature, how it differs from the previous trial setup, the benefits it brings to the table, and how you can make the most out of this opportunity. This feature is poised to change the game for how businesses test and implement security measures, ensuring that each plan you explore is fully leveraged to protect your digital assets with...</description>
     </item>
   </channel>
 </rss>
