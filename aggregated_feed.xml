@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Apr 2024 01:43:08 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft FAQ and guidance for XZ Utils backdoor</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961</link>
-      <pubDate>Tue, 02 Apr 2024 01:32:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961</guid>
-      <description>On March 28, 2024 a backdoor was identified in XZ Utils. This vulnerability, CVE-2024-3094 with a CVSS score of 10 is a result of a software supply chain compromise impacting versions 5.6.0 and 5.6.1 of XZ Utils. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has recommended organizations to downgrade to a previous non-compromised XZ Utils version. See below details and Microsoft response for this vulnerability.
-&#160;
-Frequently Asked Questions
-&#160;
-What is XZ Utils and what is the library used for?
-XZ Utils is data compression software included in common Linux distributions that pl...</description>
-    </item>
+    <lastBuildDate>Tue, 02 Apr 2024 02:16:42 GMT</lastBuildDate>
   </channel>
 </rss>
