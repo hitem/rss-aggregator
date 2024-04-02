@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Apr 2024 11:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 12:09:54 GMT</lastBuildDate>
+    <item>
+      <title>Secrets scanning for Cloud deployments</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secrets-scanning-for-cloud-deployments/ba-p/4102965</link>
+      <pubDate>Tue, 02 Apr 2024 12:01:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secrets-scanning-for-cloud-deployments/ba-p/4102965</guid>
+      <description>Over the past year, our CNAPP solution has gone through progressive enhancements, particularly around secret management. It all began with the ability to identify various secret types across virtual machines (VMs). Subsequently, we expanded our focus to include a wide range of metadata associated with these secrets, providing valuable context.&#160;
+Today, we are excited to unveil a new capability in Public Preview: Secrets scanning for cloud deployments! Covering Azure and AWS during Public Preview, this capability marks an important step in our commitment to providing a holistic secret management...</description>
+    </item>
   </channel>
 </rss>
