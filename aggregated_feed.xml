@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Apr 2024 19:01:11 GMT</lastBuildDate>
-    <item>
-      <title>Unleashing the Power of Microsoft Defender for Cloud &#8211; Unique Capabilities for Robust Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unleashing-the-power-of-microsoft-defender-for-cloud-unique/ba-p/4102392</link>
-      <pubDate>Wed, 03 Apr 2024 18:47:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unleashing-the-power-of-microsoft-defender-for-cloud-unique/ba-p/4102392</guid>
-      <description>Overview
-Microsoft Defender for Cloud (MDC) is a cloud-native application protection platform (CNAPP) that is made up of security measures and practices that are designed to protect cloud-based applications from various cyber threats and vulnerabilities.
-&#160;
-In this article we make a case that the unique capabilities provided by MDC will be hard to replicate with a customized/3rd party solution.
-&#160;
-Note that there are many use cases where you will find MDC to have a natural edge. However, for brevity, we have picked a few common scenarios. So, the list below is not meant to be exhaustive, rather,...</description>
-    </item>
+    <lastBuildDate>Wed, 03 Apr 2024 20:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
