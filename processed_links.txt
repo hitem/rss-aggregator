@@ -675,3 +675,5 @@
 2024-04-02T13:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/five-new-capabilities-for-microsoft-priva-now-in-public-preview/ba-p/4102479
 2024-04-02T15:58:41 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/a-copilot-for-security-customer-s-guide-to-mdti/ba-p/4103238
 2024-04-02T18:42:11 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-and-upcoming-entra-recommendations-to-enhance/ba-p/3796390
+2024-04-03T15:44:23 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2024/ba-p/4104536
+2024-04-03T15:56:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2024/ba-p/4104169

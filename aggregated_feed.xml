@@ -3,6 +3,146 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Apr 2024 15:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 16:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - April 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2024/ba-p/4104169</link>
+      <pubDate>Wed, 03 Apr 2024 15:56:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2024/ba-p/4104169</guid>
+      <description>
+
+
+
+Microsoft Defender XDRMonthly newsApril 2024 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from March&#160;2023.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Microsoft Defender XDR
+
+
+
+
+
+
+
+
+Microsoft Copilot for Security
+&#160;
+
+(GA)&#160;Copilot in Microsoft Defender&#160;is now generally available. Copilot in Defende...</description>
+    </item>
+    <item>
+      <title>Monthly news - April 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2024/ba-p/4104536</link>
+      <pubDate>Wed, 03 Apr 2024 15:44:23 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2024/ba-p/4104536</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+April 2024 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from February 2024.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+
+
+ServiceNow integration with Defender for Cloud is now generally available. This integration allows customers to prior...</description>
+    </item>
   </channel>
 </rss>
