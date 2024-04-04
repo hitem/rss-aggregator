@@ -678,3 +678,4 @@
 2024-04-03T15:44:23 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2024/ba-p/4104536
 2024-04-03T15:56:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2024/ba-p/4104169
 2024-04-03T18:47:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unleashing-the-power-of-microsoft-defender-for-cloud-unique/ba-p/4102392
+2024-04-04T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-avoiding-remote-management-point-pitfalls/ba-p/4102508
