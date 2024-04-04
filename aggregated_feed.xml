@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 Apr 2024 16:00:51 GMT</lastBuildDate>
-    <item>
-      <title>ConfigMgr: Avoiding Remote Management Point Pitfalls</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-avoiding-remote-management-point-pitfalls/ba-p/4102508</link>
-      <pubDate>Thu, 04 Apr 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-avoiding-remote-management-point-pitfalls/ba-p/4102508</guid>
-      <description>Hello!
-&#160;
-I&#8217;m Pavel Yurenev, a Support Escalation Engineer specializing in Microsoft Configuration Manager at Microsoft Customer Service &amp; Support (CSS).&#160;As Reactive Support, we assist customers with issues arising from Microsoft software products. Unfortunately, some supported product configurations are poorly&#160;supportable.
-Today, I want to discuss certain design features of Configuration Manager Management Points (MPs) and provide guidance for architects and administrators.
-TL; DR:&#160;
-Avoid installing Management Points in the remote locations from the Site Server unless:&#160;
-
-the network latency is...</description>
-    </item>
+    <lastBuildDate>Thu, 04 Apr 2024 17:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
