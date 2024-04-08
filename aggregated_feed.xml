@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Apr 2024 15:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 16:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Gone Phishing Tournament&#8482; Takeaways</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189</link>
+      <pubDate>Mon, 08 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189</guid>
+      <description>Microsoft partnered with Fortra&#8217;s Terranova Security in October 2023 once again to kick off the annual Gone Phishing Tournament. The Gone Phishing Tournament (GPT) is an annual online phishing initiative that uses real-world simulations to establish accurate phishing clickthrough rates and additional benchmarking statistics for user behaviors.&#160;This helps organizations strengthen their security awareness training programs with accurate phishing benchmarking data.
+In this blog, we would like to share the key takeaways from this report and provide insights on what it means to improve organization...</description>
+    </item>
   </channel>
 </rss>
