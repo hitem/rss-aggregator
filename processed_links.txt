@@ -680,3 +680,4 @@
 2024-04-03T18:47:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unleashing-the-power-of-microsoft-defender-for-cloud-unique/ba-p/4102392
 2024-04-04T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-avoiding-remote-management-point-pitfalls/ba-p/4102508
 2024-04-07T02:24:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-february-and-march-2024/ba-p/4108241
+2024-04-08T12:12:39 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886

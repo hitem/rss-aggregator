@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Apr 2024 12:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 13:02:31 GMT</lastBuildDate>
+    <item>
+      <title>How to better manage cost of API calls that Defender for Cloud makes to AWS</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886</link>
+      <pubDate>Mon, 08 Apr 2024 12:12:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886</guid>
+      <description>Introduction:&#8239;&#160;
+Have you ever found yourself in a situation where you enabled GuardDuty or CloudTrail on Amazon Web Service (AWS) and onboarded your AWS environment to Microsoft Defender for Cloud? Have you ever wondered how to minimize costs in AWS associated with having GuardDuty &#160;or CloudTrail enabled, while Defender for Cloud makes API calls to your AWS environment? 
+&#160;
+This article teaches you how to implement proven best practices to ensure you optimize costs if you want to onboard your AWS environment to Defender for Cloud, while having GuardDuty or CloudTrail on AWS enabled. 
+&#160;
+Just to ...</description>
+    </item>
   </channel>
 </rss>
