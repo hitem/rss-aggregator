@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Apr 2024 18:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 19:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Proxies, proxies everywhere but still no Internet. Overview of the Windows Proxies</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet-overview-of-the/ba-p/4108939</link>
+      <pubDate>Mon, 08 Apr 2024 18:03:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet-overview-of-the/ba-p/4108939</guid>
+      <description>Howdy everyone, a quick tangent from our regularly scheduled Introduction to Network Trace Analysis series to talk about the Windows Proxy ecosystem. A Windows Proxy configuration can be a little tricky, so I wanted to add clarity for configuration methods. Scoping things a bit here I will also only be referring to 64-bit applications. &#160;
+&#160;
+But first, let&#8217;s explain what I mean when I say proxy. &#160;
+&#160;
+ What even is a proxy? 
+&#160;
+Simply, it is a device or software making a network request on the client's behalf. For clarity, we will only cover web request proxies or HTTP/HTTPS proxies. &#160;
+&#160;
+In the con...</description>
+    </item>
   </channel>
 </rss>

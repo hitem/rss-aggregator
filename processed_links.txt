@@ -683,3 +683,4 @@
 2024-04-08T12:12:39 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886
 2024-04-08T13:41:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet/ba-p/4108939
 2024-04-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189
+2024-04-08T18:03:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet-overview-of-the/ba-p/4108939
