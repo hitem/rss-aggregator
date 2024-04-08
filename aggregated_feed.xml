@@ -3,18 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Apr 2024 13:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 14:01:04 GMT</lastBuildDate>
     <item>
-      <title>How to better manage cost of API calls that Defender for Cloud makes to AWS</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886</link>
-      <pubDate>Mon, 08 Apr 2024 12:12:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886</guid>
-      <description>Introduction:&#8239;&#160;
-Have you ever found yourself in a situation where you enabled GuardDuty or CloudTrail on Amazon Web Service (AWS) and onboarded your AWS environment to Microsoft Defender for Cloud? Have you ever wondered how to minimize costs in AWS associated with having GuardDuty &#160;or CloudTrail enabled, while Defender for Cloud makes API calls to your AWS environment? 
+      <title>Proxies, proxies everywhere but still no Internet</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet/ba-p/4108939</link>
+      <pubDate>Mon, 08 Apr 2024 13:41:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet/ba-p/4108939</guid>
+      <description>Howdy everyone, a quick tangent from our regularly scheduled Introduction to Network Trace Analysis series to talk about the Windows Proxy ecosystem. A Windows Proxy configuration can be a little tricky, so I wanted to add clarity for configuration methods. Scoping things a bit here I will also only be referring to 64-bit applications. &#160;
 &#160;
-This article teaches you how to implement proven best practices to ensure you optimize costs if you want to onboard your AWS environment to Defender for Cloud, while having GuardDuty or CloudTrail on AWS enabled. 
+But first, let&#8217;s explain what I mean when I say proxy. &#160;
 &#160;
-Just to ...</description>
+ What even is a proxy? 
+&#160;
+Simply, it is a device or software making a network request on the client's behalf. For clarity, we will only cover web request proxies or HTTP/HTTPS proxies. &#160;
+&#160;
+In the con...</description>
     </item>
   </channel>
 </rss>
