@@ -685,3 +685,4 @@
 2024-04-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189
 2024-04-08T18:03:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/proxies-proxies-everywhere-but-still-no-internet-overview-of-the/ba-p/4108939
 2024-04-09T04:38:31 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-ir-amp-mdi-working/ba-p/4089623
+2024-04-09T11:54:31 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-full-coverage-for-azure-open-source/ba-p/4108412
