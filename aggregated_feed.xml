@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Apr 2024 12:10:04 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud Full Coverage for Azure Open-Source Relational Databases</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-full-coverage-for-azure-open-source/ba-p/4108412</link>
-      <pubDate>Tue, 09 Apr 2024 11:54:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-full-coverage-for-azure-open-source/ba-p/4108412</guid>
-      <description>Microsoft Defender for Cloud now provides full threat protection coverage for all instances of Azure open-source relational databases: PostgreSQL, MySQL and MariaDB &#8211; helping customers safeguard their business-critical database against cyberattacks.
-In preparation for the MySQL &amp; PostgreSQL single server retirement, Defender for Cloud is expanding its threat protection coverage to include Azure Database for MySQL Flexible Server (GA as of today) and Azure Database for PostgreSQL Flexible Server (extended post-GA features), providing customers with a safe migration path and continuous protectio...</description>
-    </item>
+    <lastBuildDate>Tue, 09 Apr 2024 13:01:49 GMT</lastBuildDate>
   </channel>
 </rss>
