@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Apr 2024 15:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 16:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Strategies to Monitor and Prevent Vulnerable Driver Attacks</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985</link>
+      <pubDate>Tue, 09 Apr 2024 15:41:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985</guid>
+      <description>Introduction and History
+
+In the ever-evolving landscape of technology, the history of vulnerable drivers in Windows operating systems stands as a testament to the constant battle between innovation and security. From its inception, Windows has been a prime target for malicious actors seeking to exploit vulnerabilities in its drivers. These vulnerabilities, often overlooked, have played a significant role in the history of Windows, shaping its security policies and prompting a continuous cycle of patches and updates. The technique known as Bring Your Own Vulnerable Driver (BYOVD) has become a ...</description>
+    </item>
   </channel>
 </rss>
