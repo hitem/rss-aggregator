@@ -687,3 +687,4 @@
 2024-04-09T04:38:31 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-ir-amp-mdi-working/ba-p/4089623
 2024-04-09T11:54:31 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-full-coverage-for-azure-open-source/ba-p/4108412
 2024-04-09T15:41:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985
+2024-04-09T19:48:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-full-coverage-for-azure-open/ba-p/4108412
