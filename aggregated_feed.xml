@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Apr 2024 04:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 05:01:25 GMT</lastBuildDate>
+    <item>
+      <title>Follow the Breadcrumbs with Microsoft IR &amp; MDI: Working Together to Fight Identity-based Attacks</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-ir-amp-mdi-working/ba-p/4089623</link>
+      <pubDate>Tue, 09 Apr 2024 04:38:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/follow-the-breadcrumbs-with-microsoft-ir-amp-mdi-working/ba-p/4089623</guid>
+      <description>In cybersecurity incidents, one of the first goals of any Threat Actor is to gain credentials and elevate their privileges. For this reason, they will almost always target user identities and the underlying identity infrastructure. This blog post discusses how Microsoft Incident Response and Microsoft Defender for Identity (MDI) work together to fight identity-based attacks. We demonstrate how MDI can be used to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions. MDI is an identity security solution that monitors key identity systems&#8212;both ...</description>
+    </item>
   </channel>
 </rss>
