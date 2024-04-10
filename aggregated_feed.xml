@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Apr 2024 16:02:38 GMT</lastBuildDate>
-    <item>
-      <title>Architecting Secure Gen AI Applications: Preventing information leaks and escalated privileges</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-information/ba-p/4103019</link>
-      <pubDate>Wed, 10 Apr 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-information/ba-p/4103019</guid>
-      <description>Hello, everyone. I am writing this blog using a Generative AI (GenAI) assistant to boost my productivity. My assistant can access older documents I have written and rephrase them into blog material. While granting the assistant access to my documents significantly boosts my work efficiency, it raises important security questions. Can the assistant be used by an attacker to exfiltrate my documents? In this blog, we will show how to safely grant a GenAI based application access to sensitive or user data while lowering the risk of such data being leaked.
-&#160;
-Introduction
-If you are reading this, yo...</description>
-    </item>
+    <lastBuildDate>Wed, 10 Apr 2024 17:01:01 GMT</lastBuildDate>
   </channel>
 </rss>
