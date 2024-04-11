@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Apr 2024 19:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 20:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft announces new collaboration with MazeBolt RADAR&#8482; DDoS testing</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/microsoft-announces-new-collaboration-with-mazebolt-radar-ddos/ba-p/4111904</link>
+      <pubDate>Thu, 11 Apr 2024 19:47:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/microsoft-announces-new-collaboration-with-mazebolt-radar-ddos/ba-p/4111904</guid>
+      <description>As we highlighted in our report on recent attack trends during the last holiday season, Distributed Denial-of-Service (DDoS) attacks are one of the main security concerns today. Any endpoint that is reachable through the internet, whether in the cloud or on-premises, can be a target of a DDoS attack. Having a solid incident management response plan requires planning and preparation for a DDoS attack, and DDoS attack simulations are an essential part of this plan.
+Microsoft is pleased to introduce a new collaboration with MazeBolt, giving our customers a new option for DDoS simulation testing. ...</description>
+    </item>
   </channel>
 </rss>

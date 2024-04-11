@@ -690,3 +690,4 @@
 2024-04-09T19:48:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-full-coverage-for-azure-open/ba-p/4108412
 2024-04-10T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-information/ba-p/4103019
 2024-04-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-graph-activity-logs-is-now-generally-available/ba-p/4094535
+2024-04-11T19:47:36 https://techcommunity.microsoft.com/t5/azure-network-security-blog/microsoft-announces-new-collaboration-with-mazebolt-radar-ddos/ba-p/4111904
