@@ -3,6 +3,47 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Apr 2024 14:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 15:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Defender support for CVE-2024-3400 affecting Palo Alto Networks firewalls</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-support-for-cve-2024-3400-affecting-palo-alto-networks/ba-p/4113917</link>
+      <pubDate>Mon, 15 Apr 2024 14:35:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-support-for-cve-2024-3400-affecting-palo-alto-networks/ba-p/4113917</guid>
+      <description>On April 12, Palo Alto Networks released a security advisory on CVE-2024-3400, a critical vulnerability affecting several versions of PAN-OS, the operating system that runs on the company&#8217;s firewalls. According to the vendor advisory, the vulnerability may enable an unauthenticated attacker to execute arbitrary code with root privileges on the firewall.&#160;Starting April 14, 2024, patches are expected to become available.
+&#160;
+
+
+
+
+CVE
+
+
+Description
+
+
+CVSSv4
+
+
+Severity
+
+
+
+
+CVE-2024-3400
+
+
+Command Injection Vulnerability in the GlobalProtect Gateway feature of PAN-OS
+
+
+10.0
+
+
+Critical
+
+
+
+
+Note: Palo A...</description>
+    </item>
   </channel>
 </rss>
