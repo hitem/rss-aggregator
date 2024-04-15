@@ -692,3 +692,4 @@
 2024-04-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-graph-activity-logs-is-now-generally-available/ba-p/4094535
 2024-04-11T19:47:36 https://techcommunity.microsoft.com/t5/azure-network-security-blog/microsoft-announces-new-collaboration-with-mazebolt-radar-ddos/ba-p/4111904
 2024-04-15T14:35:35 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-support-for-cve-2024-3400-affecting-palo-alto-networks/ba-p/4113917
+2024-04-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-quot-what-s-new-quot-in-microsoft-entra/ba-p/3796389
