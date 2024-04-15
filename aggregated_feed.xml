@@ -3,30 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Apr 2024 19:00:56 GMT</lastBuildDate>
-    <item>
-      <title>Ingesting Non-Microsoft Cloud Security Data into Microsoft Sentinel for Gov &amp; DIB customers part 2</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114728</link>
-      <pubDate>Mon, 15 Apr 2024 18:17:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114728</guid>
-      <description>Ingesting AWS Commercial and GovCloud data into Azure Government Sentinel
-This blog will be focusing on how to ingest AWS Commercial and AWS GovCloud data into a Microsoft Sentinel workspace in Azure Government.
-This picture provides a high-level visual of the architecture we will walk through in this part of the blog series.&#160;
-
-Overview of ingestion architecture
-&#160;
-Installing the Solution in Sentinel from the Content Hub
-Microsoft Sentinel&#8217;s Content Hub in Azure Government includes a solution for AWS. This solution bundles the data connector and relevant analytics (rules), workbooks (dashboards...</description>
-    </item>
-    <item>
-      <title>Ingesting Non-Microsoft Cloud Security Data into Microsoft Sentinel for Government &amp; DIB Customers</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114683</link>
-      <pubDate>Mon, 15 Apr 2024 18:17:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114683</guid>
-      <description>Fed Ramp Cloud Authorizations, AWS Ingestion Scenarios &amp; Connector Architecture
-Clouds and FEDRAMP 
-Before we dive into how to ingest data from AWS into Microsoft Sentinel, we need to understand what levels each cloud is FedRamp authorized to operate.&#160; This is not a deep discussion on compliance, just a quick overview of what levels each cloud is authorized to operate at.&#160; For specific compliance or operating level guidance you are encouraged to talk to your agencies authorized approver.&#160;
-Microsoft, Amazon, and Google provide multiple cloud services designed specifically to support US governme...</description>
-    </item>
+    <lastBuildDate>Mon, 15 Apr 2024 20:01:20 GMT</lastBuildDate>
   </channel>
 </rss>
