@@ -697,3 +697,4 @@
 2024-04-15T18:17:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114728
 2024-04-15T22:01:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-4-enforcing-aes-for/ba-p/4114965
 2024-04-16T17:17:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160
+2024-04-16T19:30:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873

@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Apr 2024 19:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 20:00:49 GMT</lastBuildDate>
+    <item>
+      <title>eBPF-Powered Threat Protection using Inspektor Gadget</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873</link>
+      <pubDate>Tue, 16 Apr 2024 19:30:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873</guid>
+      <description>On February 20th, Microsoft Defender for Containers released its new sensor component, powered by Inspektor Gadget.
+&#160;
+Inspektor Gadget is a Cloud Native Computing Foundation (CNCF) project that aims to change the way we consume and execute eBPF programs by managing its packing, deployment and execution. If you aren't familiar with eBPF, you can read more about it on ebpf.io, but in short &#8211; eBPF allows us to execute sandboxed programs that extends the Linux kernel without having to change it. In this post we will use eBPF to attach to a tracepoint event when a specific system call is made by a ...</description>
+    </item>
   </channel>
 </rss>
