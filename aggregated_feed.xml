@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Apr 2024 23:00:48 GMT</lastBuildDate>
-    <item>
-      <title>Active Directory Hardening Series - Part 4 &#8211; Enforcing AES for Kerberos</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-4-enforcing-aes-for/ba-p/4114965</link>
-      <pubDate>Mon, 15 Apr 2024 22:01:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-4-enforcing-aes-for/ba-p/4114965</guid>
-      <description>Hi everyone, Jerry Devore here again with another installment in my series on Active Directory hardening.&#160; This time I want to revisit a topic I previously wrote about in September of 2020 which is enforcing AES for Kerberos.&#160; Since I wrote that blog post a few new tips have come my way.&#160; Before we dive in here is a quick re-cap of what was previously discussed:
-&#160;
-
-RC4 encryption for Kerberos is weak and susceptible to roasting attacks.
-The msDS-SupportedEncryptionTypes attribute value of the target account will determine the ticket encryption for service ticket requests (AS-REQ).&#160; When the va...</description>
-    </item>
+    <lastBuildDate>Tue, 16 Apr 2024 00:25:59 GMT</lastBuildDate>
   </channel>
 </rss>
