@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Apr 2024 18:07:09 GMT</lastBuildDate>
-    <item>
-      <title>Copy simulations in Attack Simulation Training is now GA</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160</link>
-      <pubDate>Tue, 16 Apr 2024 17:17:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160</guid>
-      <description>We are excited to announce that in Attack Simulation Training, you can now copy an existing simulation and modify it to suit your need which will save you time and effort when creating new simulations based on previous ones.&#160;
-&#160;
-Attack Simulation and Training is an intelligent phish risk reduction tool that measures behaviour change and automates deployment of an integrated security awareness training program across an organization. This pre-emptive approach not only enhances the individual's ability to spot threats but also contributes to the collective resilience of the organization against i...</description>
-    </item>
+    <lastBuildDate>Tue, 16 Apr 2024 19:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
