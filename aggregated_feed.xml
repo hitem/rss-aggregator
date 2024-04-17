@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 16:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Onboard to Azure Arc with Security in Mind</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/onboard-to-azure-arc-with-security-in-mind/ba-p/4114267</link>
+      <pubDate>Wed, 17 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/onboard-to-azure-arc-with-security-in-mind/ba-p/4114267</guid>
+      <description>Introduction
+Azure Arc allows certain on-premises resources, typically servers, to be managed from Azure, depending on the configuration mode selected and currently available features.
+&#160;
+While this allows for a more integrated approach to hybrid environments, it also further blurs the administrative boundary between on-premises and cloud.
+&#160;
+This increases the risk that a vulnerability on either side lowers the level of security across the entire plane. This article contains tips for managing this risk and approaching Arc Onboarding with security in mind.
+&#160;
+It focuses only on servers. The link ...</description>
+    </item>
   </channel>
 </rss>
