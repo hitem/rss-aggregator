@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Apr 2024 15:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 16:01:39 GMT</lastBuildDate>
+    <item>
+      <title>Enforce least privilege for Entra ID Company Branding with the new Organizational Branding role</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enforce-least-privilege-for-entra-id-company-branding-with-the/ba-p/4115772</link>
+      <pubDate>Thu, 18 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enforce-least-privilege-for-entra-id-company-branding-with-the/ba-p/4115772</guid>
+      <description>Hello friends,&#8239;&#8239;&#160;
+&#160;
+I&#8217;m pleased to announce General Availability (GA) of the Organizational Branding role for Microsoft Entra ID Company Branding.&#160;
+&#160;
+This new role is part of our ongoing efforts to implement Zero Trust network access by enforcing the principle of least privilege for users when customizing their authentication user experience (UX) via Entra ID Company Branding.&#160;
+&#160;
+Previously, users wanting to configure Entra ID Company Branding required the Global Admin role. This role, though, has sweeping privileges beyond what&#8217;s necessary for configuring Entra ID Company Branding.&#160;&#160;
+&#160;
+The ne...</description>
+    </item>
   </channel>
 </rss>

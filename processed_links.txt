@@ -699,3 +699,4 @@
 2024-04-16T17:17:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160
 2024-04-16T19:30:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873
 2024-04-17T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/onboard-to-azure-arc-with-security-in-mind/ba-p/4114267
+2024-04-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enforce-least-privilege-for-entra-id-company-branding-with-the/ba-p/4115772
