@@ -693,3 +693,5 @@
 2024-04-16T19:30:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873
 2024-04-17T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/onboard-to-azure-arc-with-security-in-mind/ba-p/4114267
 2024-04-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enforce-least-privilege-for-entra-id-company-branding-with-the/ba-p/4115772
+2024-04-19T14:55:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/setting-up-sentinel-for-kubernetes-monitoring/ba-p/4118593
+2024-04-19T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-the-microsoft-purview-audit-search-graph-api/ba-p/4115818
