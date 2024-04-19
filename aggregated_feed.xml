@@ -3,28 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Apr 2024 15:01:39 GMT</lastBuildDate>
-    <item>
-      <title>Introducing the Microsoft Purview Audit Search Graph API</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-the-microsoft-purview-audit-search-graph-api/ba-p/4115818</link>
-      <pubDate>Fri, 19 Apr 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-the-microsoft-purview-audit-search-graph-api/ba-p/4115818</guid>
-      <description>Microsoft Purview Audit provides an integrated solution to help organizations effectively respond to security incidents, forensic investigations, internal investigations, and compliance obligations.
-&#160;
-Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log. Audit records for these events are searchable by security ops, IT admins, insider risk teams, and compliance and legal investigators in your organization. This capability provides visibility into the activities performed ...</description>
-    </item>
-    <item>
-      <title>Setting up Sentinel for Kubernetes Monitoring</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/setting-up-sentinel-for-kubernetes-monitoring/ba-p/4118593</link>
-      <pubDate>Fri, 19 Apr 2024 14:55:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/setting-up-sentinel-for-kubernetes-monitoring/ba-p/4118593</guid>
-      <description>A guide to using Microsoft Sentinel for monitoring the security of your containerized applications and orchestration platforms.
-Part 3 of&#160;3 part&#160;series about security monitoring of your Kubernetes Clusters and CI/CD pipelines by Abhi Singh and Umesh Nagdev, Security GBB
-Link to&#160;Part 1
-Link to Part 2
-&#160;
-Introduction&#160;
-In part 1 and part 2&#160;of this series, we discussed the type of log sources you should consider for monitoring the security of your Kubernetes environment, most pertinent risks (and corresponding use cases) in your AKS environment, and log sources to ingest data. This blog will demons...</description>
-    </item>
+    <lastBuildDate>Fri, 19 Apr 2024 16:01:41 GMT</lastBuildDate>
   </channel>
 </rss>
