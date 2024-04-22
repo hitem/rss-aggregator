@@ -3,15 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Apr 2024 15:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 16:06:28 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Events RSAConference 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-events-rsaconference-2024/ba-p/4119075</link>
-      <pubDate>Mon, 22 Apr 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-events-rsaconference-2024/ba-p/4119075</guid>
-      <description>Join us at the Microsoft Security Leaders Lounge at RSAC
+      <title>Trusted Signing is in Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457</link>
+      <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457</guid>
+      <description>Trusted Signing has launched into Public Preview! The Trusted Signing service (formerly Azure Code Signing) is a Microsoft fully managed end-to-end signing solution for developers.&#160;&#160;
 &#160;
-Are you gearing up for RSAC 2024? As the excitement builds for this year's cybersecurity event in San Francisco, California, we at Microsoft have some exciting news to share! Whether you're a seasoned veteran or a first-time attendee, make sure to mark your calendars and join us at the Microsoft Security Leaders Lounge. We have a lineup of compelling events planned, including an executive panel on threat intelligence, discussions on AI safety, insights into Zero Trust for AI learning, and much more.&#160;These are just a few of the topics w...</description>
+What is the Trusted Signing service?&#160;
+Trusted Signing is a complete code signing service with an intuitive experience for developers and IT professionals, backed by a Microsoft managed certification authority. The service supports both public and private trust signing scenarios and includes a timestamping service. With Trusted Signing, users enjoy a productive, performant, and delightful experience on Windows wi...</description>
+    </item>
+    <item>
+      <title>Controlling AKS egress using an HTTP Proxy</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/controlling-aks-egress-using-an-http-proxy/ba-p/4119407</link>
+      <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/controlling-aks-egress-using-an-http-proxy/ba-p/4119407</guid>
+      <description>Azure Kubernetes Service (AKS) clusters, whether deployed into a managed or custom virtual network, have certain outbound dependencies necessary to function properly. Previously, in environments requiring internet access to be routed through HTTP proxies, this was a problem. Nodes had no way of bootstrapping the configuration, environment variables, and certificates necessary to access internet services.
+This feature adds HTTP proxy support to AKS clusters, exposing a straightforward interface that cluster operators can use to secure AKS-required network traffic in proxy-dependent environments...</description>
     </item>
   </channel>
 </rss>
