@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Apr 2024 13:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 14:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Expanding Privacy protection in Microsoft Defender for Individuals</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/expanding-privacy-protection-in-microsoft-defender-for/ba-p/4114918</link>
+      <pubDate>Mon, 22 Apr 2024 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/expanding-privacy-protection-in-microsoft-defender-for/ba-p/4114918</guid>
+      <description>Figure 1: Privacy protection/VPN
+At Microsoft, we believe privacy is a fundamental human right. Our apps and solutions are centered around privacy and the latest addition to Microsoft Defender for individuals1&#160;is the inclusion of privacy protection2&#160;that helps protect your privacy when browsing online or on public Wi-Fi.
+&#160;
+Privacy protection expansion
+Late last year we launched privacy protection on Android to our United States-based users. Today, we are adding privacy protection to iOS in the US and United Kingdom and extending current privacy protection on Android to the United Kingdom. Priv...</description>
+    </item>
   </channel>
 </rss>
