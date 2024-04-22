@@ -696,3 +696,4 @@
 2024-04-19T14:55:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/setting-up-sentinel-for-kubernetes-monitoring/ba-p/4118593
 2024-04-19T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-the-microsoft-purview-audit-search-graph-api/ba-p/4115818
 2024-04-22T14:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/expanding-privacy-protection-in-microsoft-defender-for/ba-p/4114918
+2024-04-22T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-events-rsaconference-2024/ba-p/4119075
