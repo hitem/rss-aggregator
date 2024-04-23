@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:01:15 GMT</lastBuildDate>
-    <item>
-      <title>Operationalizing Attack Path Insights</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/operationalizing-attack-path-insights/ba-p/4121643</link>
-      <pubDate>Tue, 23 Apr 2024 20:41:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/operationalizing-attack-path-insights/ba-p/4121643</guid>
-      <description>In the face of today's complex cybersecurity challenges, the ability to proactively manage and mitigate potential attack vectors has never been more crucial. Identifying, understanding, and countering attack paths effectively are essential steps in safeguarding an organization's digital assets. This Azure Workbook Attack Path Dashboard has been designed for monitoring attack paths over time&#8212;ranging from days to a month or more. This tool empowers organizations to leverage deep insights into their cybersecurity posture, enabling them to evaluate and enhance their processes for mitigating threat...</description>
-    </item>
-    <item>
-      <title>Embracing the Data Protection and Data Privacy Act: A Strategic Approach with Microsoft's Compliance</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/embracing-the-data-protection-and-data-privacy-act-a-strategic/ba-p/4119374</link>
-      <pubDate>Tue, 23 Apr 2024 20:35:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/embracing-the-data-protection-and-data-privacy-act-a-strategic/ba-p/4119374</guid>
-      <description>In an era where data breaches and privacy concerns are at the forefront of concerns, the Data Protection and Data Privacy (DPDP) Act 2023 emerges to enhance protection for individuals' personal information. This landmark legislation signifies a pivotal shift in the global data privacy landscape, imposing rigorous standards for data handling and compelling organizations to elevate their data protection measures. As we navigate the intricacies of compliance with the DPDP. Microsoft Compliance Manager emerges as a tool to help our customers meet regulatory obligations. Compliance regulations prot...</description>
-    </item>
+    <lastBuildDate>Tue, 23 Apr 2024 22:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
