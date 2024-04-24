@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Apr 2024 17:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:07:04 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Security Exposure Management introduces: Critical asset protection</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-introduces-critical-asset/ba-p/4122645</link>
+      <pubDate>Wed, 24 Apr 2024 17:29:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-introduces-critical-asset/ba-p/4122645</guid>
+      <description>In recent years, enterprises attack surface has exploded in volume and diversification. Security teams are struggling to keep pace with the technological advancements and changes occurring daily. New technologies, emerging work trends (such as remote work and distributed teams), expansion of the supply chain, cloud adoption, and more have led to an exponential growth in the size and complexity of the enterprise attack surface.&#160;
+This rapid expansion has brought about new risks, and in turn, new tools to deal with these risks. The rapid increase of the attack surface has led to a rapid prolifera...</description>
+    </item>
   </channel>
 </rss>
