@@ -1,4 +1,3 @@
-2023-04-25T13:40:42 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/rsa-news-taking-xdr-for-saas-apps-to-the-next-level-app/ba-p/3804722
 2023-04-25T15:52:02 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplifying-saas-security-deploying-microsoft-defender-for-cloud/ba-p/3788360
 2023-04-25T15:52:59 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-your-sensitive-data-against-malicious-apps/ba-p/3708926
 2023-04-25T15:53:26 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-apps-that-use-non-standard-ports-with-defender-for-cloud/ba-p/3685351
