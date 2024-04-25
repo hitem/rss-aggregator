@@ -3,13 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 16:07:09 GMT</lastBuildDate>
     <item>
-      <title>Understanding Cloud Native Application Protection Platforms (CNAPP)</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/understanding-cloud-native-application-protection-platforms/ba-p/4120573</link>
-      <pubDate>Thu, 25 Apr 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/understanding-cloud-native-application-protection-platforms/ba-p/4120573</guid>
-      <description>Giulio Astori, Principal Product Manager at Microsoft, joins Erica Toelle and guest host Yuri Diogenes on this week's episode of Uncovering Hidden Risks. Giulio Astori works as a Principal Program Manager for Microsoft Defender for Cloud and Yuri has been at Microsoft for the past 18 years and manages a Product Management team for the Defender for Cloud Product. In this discussion, Giulio delves into the world of Cloud Native Application Protection Platforms (CNAPPs), explaining their significance and utility in enhancing cloud security and protecting workloads. He explores the distinction bet...</description>
+      <title>&#8203;&#8203;Investigating Industrial Control Systems using Microsoft&#8217;s ICSpector open-source framework</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/investigating-industrial-control-systems-using-microsoft-s/ba-p/4120580</link>
+      <pubDate>Thu, 25 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/investigating-industrial-control-systems-using-microsoft-s/ba-p/4120580</guid>
+      <description>Industrial Control Systems (ICS) security has been a subject of research for many years, spurred, in part, by recent state-sponsored ICS-targeting malware and supply-chain attacks like the ZPMC cranes spying concerns that threaten critical infrastructure. Given the potential harm to thousands of people if water treatment facilities, power plants and nuclear reactors or other systems are breached, the stakes are high. Unfortunately, forensics for ICS devices is not as advanced as in IT environments like Windows and Linux. This can stall forensics investigation when incidents occur.&#160;
+&#160;
+To overco...</description>
+    </item>
+    <item>
+      <title>Collaborate across M365 tenants with Entra ID multi-tenant organization</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/collaborate-across-m365-tenants-with-entra-id-multi-tenant/ba-p/4120309</link>
+      <pubDate>Thu, 25 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/collaborate-across-m365-tenants-with-entra-id-multi-tenant/ba-p/4120309</guid>
+      <description>Hi everyone,&#160;
+&#160;
+I&#8217;m excited to announce the general availability of Microsoft Entra ID multi-tenant organization platform capabilities!&#160;
+&#160;
+As your organization evolves, you may need to integrate multiple tenants to facilitate collaboration; for example, your organization may have recently acquired a new company, merged with another company, or restructured with newly formed business units. With disparate identity management systems, it can be costly and complex for admins to manage multiple tenants while ensuring users across tenants have access to resources to collaborate.&#160;
+&#160;
+To enable applic...</description>
     </item>
   </channel>
 </rss>

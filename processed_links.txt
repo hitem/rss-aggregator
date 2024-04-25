@@ -698,3 +698,5 @@
 2024-04-24T17:29:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-introduces-critical-asset/ba-p/4122645
 2024-04-25T12:55:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-our-cnapp-mastery-e-book/ba-p/4118156
 2024-04-25T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/understanding-cloud-native-application-protection-platforms/ba-p/4120573
+2024-04-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/collaborate-across-m365-tenants-with-entra-id-multi-tenant/ba-p/4120309
+2024-04-25T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/investigating-industrial-control-systems-using-microsoft-s/ba-p/4120580
