@@ -696,3 +696,4 @@
 2024-04-23T20:35:09 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/embracing-the-data-protection-and-data-privacy-act-a-strategic/ba-p/4119374
 2024-04-23T20:41:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/operationalizing-attack-path-insights/ba-p/4121643
 2024-04-24T17:29:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-introduces-critical-asset/ba-p/4122645
+2024-04-25T12:55:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-our-cnapp-mastery-e-book/ba-p/4118156
