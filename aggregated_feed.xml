@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 Apr 2024 13:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Introducing our CNAPP mastery e-book!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-our-cnapp-mastery-e-book/ba-p/4118156</link>
-      <pubDate>Thu, 25 Apr 2024 12:55:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-our-cnapp-mastery-e-book/ba-p/4118156</guid>
-      <description>Have you completed all of the Microsoft security ninja training? Now we have a new CNAPP mastery e-book for you to enjoy! Today we released an e-book all about CNAPP (Cloud Native Application Protection Platform) that has been written by some of the leading experts out there.
-&#160;
-If you don&#8217;t already know, CNAPP is a framework for securing cloud-native applications and infrastructure. The book is packed with valuable information on how to create a unified, proactive, and holistic strategy that covers all aspects of cloud security. From threat detection and scaling to governance and compliance, t...</description>
-    </item>
+    <lastBuildDate>Thu, 25 Apr 2024 14:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
