@@ -1,6 +1,3 @@
-2023-04-27T19:08:12 https://techcommunity.microsoft.com/t5/microsoft-defender-external/seeking-dead-and-dying-servers-with-the-mdeasm-apis/ba-p/3741412
-2023-04-27T19:19:03 https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-2-uncovering-trackers-using-the-defender-easm-api/ba-p/3806494
-2023-04-27T19:24:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/reporting-on-azure-ad-password-protection/ba-p/3804035
 2023-04-28T15:57:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/automating-and-streamlining-vulnerability-management-for-your/ba-p/3807348
 2023-04-28T17:22:33 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-now-includes-all-the-typical/ba-p/3807250
 2023-04-29T06:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-microsoft-intune-for-local-administrator-password/ba-p/3805943
