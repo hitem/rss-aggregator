@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 27 Apr 2024 02:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:07:24 GMT</lastBuildDate>
+    <item>
+      <title>Examining the Deception infrastructure in place behind code.microsoft.com</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/examining-the-deception-infrastructure-in-place-behind-code/ba-p/4124464</link>
+      <pubDate>Sat, 27 Apr 2024 02:51:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/examining-the-deception-infrastructure-in-place-behind-code/ba-p/4124464</guid>
+      <description>The domain name code.microsoft.com has an interesting story behind it. Today it&#8217;s not linked to anything but that wasn&#8217;t always true. This is the story of one of my most successful honeypot instances and how it enabled Microsoft to collect varied threat intelligence against a broad range of actor groups targeting Microsoft. I&#8217;m writing this now as we&#8217;ve decided to retire this capability.
+&#160;
+In the past the domain &#8216;code.microsoft.com&#8217; was an early domain used to host Visual Studio Code and some helpful documentation. The domain was active until around 2021, when this documentation was moved to a...</description>
+    </item>
   </channel>
 </rss>
