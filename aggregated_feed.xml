@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 07:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Building Your Own Copilot for Credit Card Selection</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/building-your-own-copilot-for-credit-card-selection/ba-p/4125697</link>
+      <pubDate>Mon, 29 Apr 2024 06:45:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/building-your-own-copilot-for-credit-card-selection/ba-p/4125697</guid>
+      <description>The Scenario
+Have you ever found yourself lost in the maze of credit card options, navigating through countless comparison websites, unsure of the accuracy and timeliness of their information? I certainly have. Recently, I embarked on a quest to find the perfect credit card, one that rewards my spending habits with frequent flyer points. However, relying solely on popular comparison platforms left me questioning the reliability of their data, often overshadowed by biased advertisements.
+&#160;
+But then, a beacon of hope emerged: the realization that all bank product information is accessible throug...</description>
+    </item>
   </channel>
 </rss>
