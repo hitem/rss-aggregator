@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Apr 2024 16:06:57 GMT</lastBuildDate>
-    <item>
-      <title>Offline Security Intelligence Update is now GA!!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370</link>
-      <pubDate>Mon, 29 Apr 2024 16:01:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370</guid>
-      <description>We are extremely excited to share that Offline Security Intelligence Update is now GA!!
-&#160;
-Organizations can now update security intelligence (also referred to as &#8220;signatures&#8221;) on Linux endpoints with limited or no exposure to the internet using a local hosting server. Exercise better control over the download and deployment of&#160;signatures on their Linux servers running critical workloads.
-&#160;
-In addition, these are the benefits of the new offline security intelligence update capability:
-
-Control and manage the frequency of&#160;signature&#160;downloads on the local server and endpoints pulling signatures f...</description>
-    </item>
+    <lastBuildDate>Mon, 29 Apr 2024 17:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
