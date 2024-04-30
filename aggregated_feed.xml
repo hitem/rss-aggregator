@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Apr 2024 14:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Hunting in Azure Subscription</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscription/ba-p/4125875</link>
-      <pubDate>Tue, 30 Apr 2024 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscription/ba-p/4125875</guid>
-      <description>In the realm of cybersecurity, the ability to efficiently comprehend and utilize logs within Azure subscriptions for threat hunting is paramount. These investigations typically involve meticulous log analysis aimed at identifying the initial breach and the subsequent actions executed by the Threat Actor. This blog post delves into various strategies and methodologies designed to enhance our grasp of the scope and complexity of how threat actors' manoeuvre within Azure subscriptions, thereby fortifying our defenses against the ever-evolving landscape of cyberattacks.&#160;
-&#160;
-Example Azure Attack Sce...</description>
-    </item>
+    <lastBuildDate>Tue, 30 Apr 2024 15:00:46 GMT</lastBuildDate>
   </channel>
 </rss>
