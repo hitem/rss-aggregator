@@ -3,24 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Apr 2024 17:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:08:23 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Defender for Cloud extends support to enable increased API security testing visibility</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-extends-support-to-enable-increased/ba-p/4124711</link>
-      <pubDate>Tue, 30 Apr 2024 16:57:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-extends-support-to-enable-increased/ba-p/4124711</guid>
-      <description>Expanded API Security Testing Collaboration and Environment Support&#160;
+      <title>Hunting in Azure subscriptions</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscriptions/ba-p/4125875</link>
+      <pubDate>Tue, 30 Apr 2024 17:45:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscriptions/ba-p/4125875</guid>
+      <description>In the realm of cybersecurity, the ability to efficiently comprehend and utilize logs within Azure subscriptions for threat hunting is paramount. These investigations typically involve meticulous log analysis aimed at identifying the initial breach and the subsequent actions executed by the Threat Actor. This blog post delves into various strategies and methodologies designed to enhance our grasp of the scope and complexity of how threat actors' manoeuvre within Azure subscriptions, thereby fortifying our defenses against the ever-evolving landscape of cyberattacks.&#160;
 &#160;
-At Microsoft Ignite 2023, Microsoft Defender for Cloud announced the support of API security testing integration, enabling Defender for Cloud to provide full lifecycle API protection from code to cloud, which makes Microsoft the only cloud provider that enables organizations to assess risk and address API threats across the entire cloud application lifecycle. Today, we&#8217;re happy to announce this support has been extended to two additional API security testing solutions and is currently in public preview. Additionally, we&#8217;re ...</description>
-    </item>
-    <item>
-      <title>MDTI Achieves PCI DSS Certification: Elevating Security Standards</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-achieves-pci-dss-certification-elevating-security-standards/ba-p/4126581</link>
-      <pubDate>Tue, 30 Apr 2024 16:48:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-achieves-pci-dss-certification-elevating-security-standards/ba-p/4126581</guid>
-      <description>We are excited to announce that MDTI has successfully obtained the Payment Card Industry Data Security Standard (PCI DSS) certification, representing a significant milestone in our continuous pursuit of security excellence. This accomplishment follows closely after our ISO certification, highlighting our unwavering commitment to upholding the highest standards of data protection and our dedication to safeguarding information and proactively combating fraud.
-&#160;
-This certification not only strengthens our security measures but also reaffirms the trust our customers have in us to handle their most...</description>
+Example Azure attack sce...</description>
     </item>
   </channel>
 </rss>
