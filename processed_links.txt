@@ -1,4 +1,3 @@
-2023-05-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-microsoft-entra-features-now-available/ba-p/2967447
 2023-05-02T09:55:31 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/creating-custom-recommendations-amp-standards-for-aws-gcp/ba-p/3810248
 2023-05-02T12:35:47 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-may-2023/ba-p/3810351
 2023-05-02T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/get-step-by-step-guidance-for-enabling-key-features-in-microsoft/ba-p/3805692
@@ -693,3 +692,4 @@
 2024-04-29T06:45:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/building-your-own-copilot-for-credit-card-selection/ba-p/4125697
 2024-04-29T16:01:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370
 2024-04-30T14:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscription/ba-p/4125875
+2024-04-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-news-what-s-new-in-defender-xdr/ba-p/4127411

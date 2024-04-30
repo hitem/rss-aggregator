@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 16:01:06 GMT</lastBuildDate>
+    <item>
+      <title>RSA News: What's new in Defender XDR?</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-news-what-s-new-in-defender-xdr/ba-p/4127411</link>
+      <pubDate>Tue, 30 Apr 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-news-what-s-new-in-defender-xdr/ba-p/4127411</guid>
+      <description>In today's threat landscape, the realm of cyberattacks is in a constant state of flux, evolving at an unprecedented pace. Attack vectors, methodologies, and vulnerabilities are continuously changing, presenting a formidable challenge to cybersecurity teams worldwide. To effectively combat this ever-changing landscape of attacks, security teams must equip themselves with tools that are innovating and adapting based on new threats. Foundational security tools play a crucial role in modern security and they must continuously invest in improving and enhancing their offerings to ensure they remain ...</description>
+    </item>
   </channel>
 </rss>
