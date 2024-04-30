@@ -692,3 +692,4 @@
 2024-04-27T02:51:24 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/examining-the-deception-infrastructure-in-place-behind-code/ba-p/4124464
 2024-04-29T06:45:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/building-your-own-copilot-for-credit-card-selection/ba-p/4125697
 2024-04-29T16:01:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370
+2024-04-30T14:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscription/ba-p/4125875
