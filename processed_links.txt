@@ -693,3 +693,5 @@
 2024-04-29T16:01:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370
 2024-04-30T14:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscription/ba-p/4125875
 2024-04-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-news-what-s-new-in-defender-xdr/ba-p/4127411
+2024-04-30T16:48:00 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-achieves-pci-dss-certification-elevating-security-standards/ba-p/4126581
+2024-04-30T16:57:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-extends-support-to-enable-increased/ba-p/4124711
