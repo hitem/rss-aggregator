@@ -1,4 +1,3 @@
-2023-05-02T09:55:31 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/creating-custom-recommendations-amp-standards-for-aws-gcp/ba-p/3810248
 2023-05-02T12:35:47 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-may-2023/ba-p/3810351
 2023-05-02T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/get-step-by-step-guidance-for-enabling-key-features-in-microsoft/ba-p/3805692
 2023-05-02T18:53:19 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-apis-alerts/ba-p/3803874
