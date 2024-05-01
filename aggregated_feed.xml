@@ -3,56 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 01 May 2024 16:03:11 GMT</lastBuildDate>
-    <item>
-      <title>Announcing General Availability of Microsoft Entra External ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-general-availability-of-microsoft-entra-external-id/ba-p/3974961</link>
-      <pubDate>Wed, 01 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-general-availability-of-microsoft-entra-external-id/ba-p/3974961</guid>
-      <description>I'm thrilled to announce that Microsoft Entra External ID, our next-generation, developer-friendly customer identity access management (CIAM) solution will be generally available starting May 15th. Whether you're building applications for partners, business customers or consumers, External ID makes secure and customizable CIAM simple.&#160;
-&#160;
-Microsoft Entra External ID&#160;&#160;
-&#160;
-Secure and customize external identities&#8217; access to applications&#160;
-&#160;
-&#160;
-
-&#160;
-&#160;
-Microsoft Entra External ID enables you to: &#160;
-&#160;
-
-Secure all identities with a single solution&#160;
-Streamline secure collaboration&#160;
-Create frictionless end u...</description>
-    </item>
-    <item>
-      <title>Attack Simulation Training is now available for GCC High and DoD customers</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717</link>
-      <pubDate>Wed, 01 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717</guid>
-      <description>We are excited to announce that Attack Simulation Training is released for&#160;Department of Defense (DoD)&#8239;and&#8239;Government Community Cloud High&#8239;(GCC High) environments.
-&#160;
-Attack Simulation Training&#8239;is an intelligent phish risk reduction tool that measures behavior change and automates deployment of an integrated security awareness training program across an organization. Through this platform you get a safe and controlled environment to gauge awareness levels, identify vulnerabilities, and improve overall security posture. It is designed to simulate realistic phishing attack scenarios, allowing you...</description>
-    </item>
-    <item>
-      <title>Revisiting Enterprise Policy as Code v10</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/revisiting-enterprise-policy-as-code-v10/ba-p/4128448</link>
-      <pubDate>Wed, 01 May 2024 15:47:37 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/revisiting-enterprise-policy-as-code-v10/ba-p/4128448</guid>
-      <description>As EPAC has reached version 10, it is time to revisit Enterprise Policy as Code (EPAC for short) to give you an update from the original post (https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-enterprise-policy-as-code-a-new-approach/ba-p/3607843) published on September 12th, 2022.
-The maintainers of the OSS project EPAC work daily with Microsoft&#8217;s customers implementing Azure governance and security in general and more specifically Policy implementation via EPAC. EPAC was born out of the need to manage Policy at scale, while dramatically reducing the cost of implem...</description>
-    </item>
-    <item>
-      <title>Protecting Containers: A Primer for Moving from an EDR-based Threat Approach</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-containers-a-primer-for-moving-from-an-edr-based/ba-p/4128424</link>
-      <pubDate>Wed, 01 May 2024 15:47:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-containers-a-primer-for-moving-from-an-edr-based/ba-p/4128424</guid>
-      <description>Many security teams are familiar with an EDR-based approach to security. However, container protection within their cloud ecosystem can seem much more challenging and complex.&#160;
-&#160;
-Protecting containers requires an understanding of the complete attack surface that containers expose--whether you are running them using an orchestrator like Kubernetes or locally using Docker.
-&#160;
-In this article, we will describe the attack surface, how it compares and aligns with the security technologies you might already have, and then make the case for a stronger focus on pre-deployment protections, adding to sta...</description>
-    </item>
+    <lastBuildDate>Wed, 01 May 2024 17:01:02 GMT</lastBuildDate>
   </channel>
 </rss>
