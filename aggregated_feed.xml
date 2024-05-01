@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 01 May 2024 21:00:40 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft named overall leader in KuppingerCole Leadership Compass for ITDR</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-overall-leader-in-kuppingercole-leadership/ba-p/4128544</link>
-      <pubDate>Wed, 01 May 2024 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-overall-leader-in-kuppingercole-leadership/ba-p/4128544</guid>
-      <description>This blog was co-authored by Alex Weinert, VP Identity Security and Ramya Chitrakar, CVP Apps and Identity.
-&#160;
-Chances are you&#8217;ve heard the phrase &#8220;attackers don&#8217;t break in, they log in.&#8221; Identities have evolved to be the most targeted asset, because they enable cyber criminals to move and operate across environments to achieve their goals. In 2023, identity-based attacks reached a record-high with 30 billion attempted password attacks each month, as cyber-criminals capitalize on the smallest misconfigurations and gaps in your identity protection.&#160;&#160;
-&#160;
-As customers have applied MFA, device compl...</description>
-    </item>
+    <lastBuildDate>Wed, 01 May 2024 22:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
