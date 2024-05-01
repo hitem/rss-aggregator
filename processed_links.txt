@@ -695,3 +695,7 @@
 2024-04-30T17:45:51 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-in-azure-subscriptions/ba-p/4125875
 2024-05-01T14:56:49 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/best-practices-to-architect-secure-generative-ai-applications/ba-p/4116661
 2024-05-01T14:59:29 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-asset-protection-with-microsoft-security-exposure/ba-p/4122645
+2024-05-01T15:47:30 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-containers-a-primer-for-moving-from-an-edr-based/ba-p/4128424
+2024-05-01T15:47:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/revisiting-enterprise-policy-as-code-v10/ba-p/4128448
+2024-05-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717
+2024-05-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-general-availability-of-microsoft-entra-external-id/ba-p/3974961
