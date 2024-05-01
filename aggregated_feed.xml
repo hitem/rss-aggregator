@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 01 May 2024 14:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 15:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Critical Asset Protection with Microsoft Security Exposure Management</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-asset-protection-with-microsoft-security-exposure/ba-p/4122645</link>
+      <pubDate>Wed, 01 May 2024 14:59:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-asset-protection-with-microsoft-security-exposure/ba-p/4122645</guid>
+      <description>In recent years, enterprises attack surface has exploded in volume and diversification. Security teams are struggling to keep pace with the technological advancements and changes occurring daily. New technologies, emerging work trends (such as remote work and distributed teams), expansion of the supply chain, cloud adoption, and more have led to an exponential growth in the size and complexity of the enterprise attack surface.&#160;
+This rapid expansion has brought about new risks, and in turn, new tools to deal with these risks. The rapid increase of the attack surface has led to a rapid prolifera...</description>
+    </item>
+    <item>
+      <title>Best practices to architect secure generative AI applications</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/best-practices-to-architect-secure-generative-ai-applications/ba-p/4116661</link>
+      <pubDate>Wed, 01 May 2024 14:56:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/best-practices-to-architect-secure-generative-ai-applications/ba-p/4116661</guid>
+      <description>As development of applications powered by these advanced generative AI (Gen AI) tools surges, offering unprecedented capabilities in processing and generating human-like content, so does the rise of security and privacy concerns. One of the biggest security risks is exploiting those tools for leaking sensitive data or performing unauthorized actions. A critical aspect that must be addressed in your application is the prevention of information leaks and unauthorized API access due to weaknesses in your Gen AI app.
+&#160;
+This blog post delves into the best practices to securely architect Gen AI appl...</description>
+    </item>
   </channel>
 </rss>
