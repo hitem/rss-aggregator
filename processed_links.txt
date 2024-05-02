@@ -698,3 +698,4 @@
 2024-05-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-general-availability-of-microsoft-entra-external-id/ba-p/3974961
 2024-05-01T21:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-overall-leader-in-kuppingercole-leadership/ba-p/4128544
 2024-05-02T07:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-open-source-relational-databases-now/ba-p/4127655
+2024-05-02T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-expanding-passkey-support-in-microsoft-entra-id/ba-p/4062702

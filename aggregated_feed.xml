@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 May 2024 12:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 13:05:44 GMT</lastBuildDate>
+    <item>
+      <title>Public preview: Expanding passkey support in Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-expanding-passkey-support-in-microsoft-entra-id/ba-p/4062702</link>
+      <pubDate>Thu, 02 May 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-expanding-passkey-support-in-microsoft-entra-id/ba-p/4062702</guid>
+      <description>We really, really want to eliminate passwords. There&#8217;s really nothing anyone can do to make them better. As more users have adopted multifactor authentication (MFA), attackers have increased their use of Adversary-in-the-Middle (AitM) phishing and social engineering attacks, which trick people into revealing their credentials.&#160;&#160;
+&#160;
+How can we defeat these attacks while making safe sign-in even easier? Passkeys!&#160;&#160;
+&#160;
+A passkey is a strong, phishing-resistant authentication method you can use to sign in to any internet resource that supports the W3C WebAuthN standard. Passkeys represent the contin...</description>
+    </item>
   </channel>
 </rss>
