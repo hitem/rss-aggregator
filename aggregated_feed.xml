@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 May 2024 07:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Open-Source Relational Databases Now Supports Multicloud (AWS RDS)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-open-source-relational-databases-now/ba-p/4127655</link>
-      <pubDate>Thu, 02 May 2024 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-open-source-relational-databases-now/ba-p/4127655</guid>
-      <description>Introduction:
-Many organizations use multiple cloud providers today, which makes security misconfigurations more likely due to the solution scale and complexity. Moreover, different practices and concepts among each cloud provider&#8217;s implementation create bigger internal knowledge gaps.
-&#160;
-No matter how many cloud providers an organization uses, a database is the core of each application, storing the organization&#8217;s most valuable data: PII, financial and payment information, medical information, and other sensitive data. This makes databases the most attractive attack target for any threat actor ...</description>
-    </item>
+    <lastBuildDate>Thu, 02 May 2024 08:08:17 GMT</lastBuildDate>
   </channel>
 </rss>
