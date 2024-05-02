@@ -699,3 +699,4 @@
 2024-05-02T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756
 2024-05-02T16:31:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156
 2024-05-02T16:38:33 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4128544
+2024-05-02T18:38:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-may-2024/ba-p/4129743
