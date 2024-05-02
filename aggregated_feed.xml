@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 May 2024 20:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 21:00:46 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra announcements and demos at RSAC 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-announcements-and-demos-at-rsac-2024/ba-p/2520429</link>
+      <pubDate>Thu, 02 May 2024 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-announcements-and-demos-at-rsac-2024/ba-p/2520429</guid>
+      <description>The Microsoft Entra team is looking forward to connecting with you next week at RSA Conference 2024 (RSAC) from May 6 to 9, 2024, in San Francisco! As we enter the age of AI and there are more identities and access points to protect, identity security has never been more paramount. From protecting workforce and external identities to non-human identities&#8212;that outnumber human identities 10 to 1&#8212;the task of securing access and the interactions between them requires taking a more comprehensive approach.&#160;&#160;
+&#160;
+To help customers protect every identity and every access point, I&#8217;d like to highlight rec...</description>
+    </item>
+    <item>
+      <title>Public preview: External authentication methods in Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-external-authentication-methods-in-microsoft/ba-p/4078808</link>
+      <pubDate>Thu, 02 May 2024 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-external-authentication-methods-in-microsoft/ba-p/4078808</guid>
+      <description>Hi folks,
+&#160;
+Today I&#8217;m thrilled to share that the public preview of external authentication methods in Microsoft Entra ID is scheduled for release in the first half of May. This feature will allow you to use your preferred multifactor authentication (MFA) solution with Entra ID.
+&#160;
+Deploying MFA is the single most important step to securing user identities. A Microsoft Research study of MFA effectiveness showed that the use of MFA reduced the risk of compromise by more than 99.2%! Some organizations have already deployed MFA and want to reuse that MFA solution with Entra ID. External authenticat...</description>
+    </item>
   </channel>
 </rss>
