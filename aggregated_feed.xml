@@ -3,17 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 May 2024 16:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 17:00:54 GMT</lastBuildDate>
     <item>
-      <title>Introducing the new Defender for Identity Health Alert API</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756</link>
-      <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756</guid>
-      <description>Microsoft Defender for Identity (MDI) is a cloud-based security solution that helps monitor and protect identities and infrastructure across your organization.&#160;MDI is a core component of Microsoft Defender XDR, leveraging signals from both on-premises Active Directory and cloud identities to help you better identify, detect, and investigate advanced cyberthreats directed at your organization.&#160;
-Recently, Defender for Identity (MDI) introduced&#160;Graph based API to view Defender for Identity Health issues.&#160;&#160;
+      <title>Microsoft named an overall leader in KuppingerCole Leadership Compass for ITDR</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4128544</link>
+      <pubDate>Thu, 02 May 2024 16:38:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4128544</guid>
+      <description>This blog was co-authored by Alex Weinert, VP Identity Security and Ramya Chitrakar, CVP Apps and Identity.
 &#160;
-Understanding Health Alerts
-MDI Health alerts notify you of any problems or issues within...</description>
+Chances are you&#8217;ve heard the phrase &#8220;attackers don&#8217;t break in, they log in.&#8221; Identities have evolved to be the most targeted asset, because they enable cyber criminals to move and operate across environments to achieve their goals. In 2023, identity-based attacks reached a record-high with 30 billion attempted password attacks each month, as cyber-criminals capitalize on the smallest misconfigurations and gaps in your identity protection.&#160;&#160;
+&#160;
+As customers have applied MFA, device compl...</description>
+    </item>
+    <item>
+      <title>Introducing Single Sign-On (SSO) for Sensor Console: Enhanced Security and Streamlined Access</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156</link>
+      <pubDate>Thu, 02 May 2024 16:31:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156</guid>
+      <description>We are excited to announce the release of Single Sign-On (SSO) for the&#8239;Defender for IoT Sensor Console! This powerful feature simplifies the login process, enhances security, and provides a seamless experience for all users. Let&#8217;s dive into the details:&#160;
+&#160;
+What&#8217;s New?&#160;
+&#160;
+SSO Support on the sensor console&#160;
+&#160;
+With SSO, users can log in once and gain access to the sensor console without the hassle of re-entering credentials.&#160;&#160;
+&#160;
+Figure 1: Defender for IoT login page
+New integration with Microsoft Entra ID&#160;
+&#160;
+By using Entra ID, your organization ensures consistent access controls across different ...</description>
     </item>
   </channel>
 </rss>

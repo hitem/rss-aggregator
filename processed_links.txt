@@ -1,5 +1,3 @@
-2023-05-03T16:14:12 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-interoperability-with-microsoft-365-defender/ba-p/3799846
-2023-05-03T16:16:01 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure/ba-p/3773576
 2023-05-04T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-recommended-practices/ba-p/3798024
 2023-05-04T12:28:16 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-logs-ingestion-api-tips-amp-tricks/ba-p/3792081
 2023-05-04T15:38:40 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412
@@ -699,3 +697,5 @@
 2024-05-02T07:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-open-source-relational-databases-now/ba-p/4127655
 2024-05-02T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-expanding-passkey-support-in-microsoft-entra-id/ba-p/4062702
 2024-05-02T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756
+2024-05-02T16:31:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156
+2024-05-02T16:38:33 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4128544
