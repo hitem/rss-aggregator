@@ -697,3 +697,4 @@
 2024-05-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717
 2024-05-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-general-availability-of-microsoft-entra-external-id/ba-p/3974961
 2024-05-01T21:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-overall-leader-in-kuppingercole-leadership/ba-p/4128544
+2024-05-02T07:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-open-source-relational-databases-now/ba-p/4127655
