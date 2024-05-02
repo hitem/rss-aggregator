@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 May 2024 15:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 16:03:58 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the new Defender for Identity Health Alert API</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756</link>
+      <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756</guid>
+      <description>Microsoft Defender for Identity (MDI) is a cloud-based security solution that helps monitor and protect identities and infrastructure across your organization.&#160;MDI is a core component of Microsoft Defender XDR, leveraging signals from both on-premises Active Directory and cloud identities to help you better identify, detect, and investigate advanced cyberthreats directed at your organization.&#160;
+Recently, Defender for Identity (MDI) introduced&#160;Graph based API to view Defender for Identity Health issues.&#160;&#160;
+&#160;
+Understanding Health Alerts
+MDI Health alerts notify you of any problems or issues within...</description>
+    </item>
   </channel>
 </rss>
