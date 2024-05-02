@@ -1,4 +1,3 @@
-2023-05-02T23:32:42 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-edit-and-monitor-data-collection-rules-with-the-data/ba-p/3810987
 2023-05-03T15:32:38 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-microsoft-sentinel-playbooks/ba-p/3780096
 2023-05-03T16:14:12 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-interoperability-with-microsoft-365-defender/ba-p/3799846
 2023-05-03T16:16:01 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-microsoft-secure/ba-p/3773576
