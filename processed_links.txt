@@ -1,4 +1,3 @@
-2023-05-04T20:12:19 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-release-of-attack-simulation-training-write-api/ba-p/3812297
 2023-05-05T17:05:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-anti-malware-safe/ba-p/3791516
 2023-05-05T17:24:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spoof-and-impersonation/ba-p/3562938
 2023-05-06T13:19:01 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-113/ba-p/3814398
