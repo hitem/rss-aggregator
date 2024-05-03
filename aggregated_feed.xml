@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 03 May 2024 21:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 22:00:46 GMT</lastBuildDate>
+    <item>
+      <title>How to enforce usage of Privileged Access Workstations for Admins</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-enforce-usage-of-privileged-access-workstations-for/ba-p/4067207</link>
+      <pubDate>Fri, 03 May 2024 21:23:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-enforce-usage-of-privileged-access-workstations-for/ba-p/4067207</guid>
+      <description>Intro
+&#160;
+You probably already came across the challenge to make sure that administrators using a highly privileged administrative role in Entra ID or an Azure RBAC role which allows control over sensitive resources should be only allowed if administrators use a dedicated administrative workstation. At Microsoft we call those devices Privileged Access Workstations (PAW). PAWs are highly restricted and protected devices with the single purpose to secure and protect the admin&#8217;s credentials following Zero Trust and Clean Source Principle. Now, the issue is that Admins could either employ that devic...</description>
+    </item>
   </channel>
 </rss>

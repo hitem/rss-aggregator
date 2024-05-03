@@ -697,3 +697,4 @@
 2024-05-02T18:38:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-may-2024/ba-p/4129743
 2024-05-02T21:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-announcements-and-demos-at-rsac-2024/ba-p/2520429
 2024-05-02T21:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-external-authentication-methods-in-microsoft/ba-p/4078808
+2024-05-03T21:23:26 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-enforce-usage-of-privileged-access-workstations-for/ba-p/4067207
