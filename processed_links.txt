@@ -1,5 +1,3 @@
-2023-05-05T17:05:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-anti-malware-safe/ba-p/3791516
-2023-05-05T17:24:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spoof-and-impersonation/ba-p/3562938
 2023-05-06T13:19:01 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-113/ba-p/3814398
 2023-05-08T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322
 2023-05-09T12:45:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
