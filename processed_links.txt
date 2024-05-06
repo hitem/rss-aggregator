@@ -696,3 +696,4 @@
 2024-05-02T21:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-external-authentication-methods-in-microsoft/ba-p/4078808
 2024-05-03T21:23:26 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-enforce-usage-of-privileged-access-workstations-for/ba-p/4067207
 2024-05-06T10:48:03 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/end-to-end-container-security-with-unified-soc-experience/ba-p/4127734
+2024-05-06T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/send-data-to-microsoft-sentinel-using-cribl-stream/ba-p/4129664

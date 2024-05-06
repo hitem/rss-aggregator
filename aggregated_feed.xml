@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 May 2024 12:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 13:07:14 GMT</lastBuildDate>
+    <item>
+      <title>Send data to Microsoft Sentinel using Cribl Stream</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/send-data-to-microsoft-sentinel-using-cribl-stream/ba-p/4129664</link>
+      <pubDate>Mon, 06 May 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/send-data-to-microsoft-sentinel-using-cribl-stream/ba-p/4129664</guid>
+      <description>Microsoft Sentinel is a modern cloud-native SIEM, enriched by AI and threat intelligence empowering security teams with an easy and powerful security operations solution. Microsoft Sentinel offers a comprehensive toolset to collect, correlate, and analyze large volumes of security data across multicloud, multiplatform environments to detect and mitigate cyberthreats at scale.
+&#160;
+Microsoft Sentinel has over 350 partner integrations and we are excited to highlight a recent integration with Cribl Stream. Together, Microsoft and Cribl are working to drive accelerated SIEM migrations for customers l...</description>
+    </item>
   </channel>
 </rss>
