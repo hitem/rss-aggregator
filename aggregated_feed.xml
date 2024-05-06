@@ -3,135 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 May 2024 16:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 17:01:06 GMT</lastBuildDate>
     <item>
-      <title>Navigating New Application Security Challenges Posed By GenAI</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/navigating-new-application-security-challenges-posed-by-genai/ba-p/4128243</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/navigating-new-application-security-challenges-posed-by-genai/ba-p/4128243</guid>
-      <description>
+      <title>Secure your AI applications from code to runtime with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665</link>
+      <pubDate>Mon, 06 May 2024 16:32:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665</guid>
+      <description>Microsoft Defender for Cloud becomes the first CNAPP to protect enterprise-built AI applications across the application lifecycle
 &#160;
-GenAI applications&#8212;software powered by large language models (LLMs) are changing the way we interact with digital platforms. These advanced applications are designed to understand, interpret, and generate human-like text, code and various forms of media, making our digital experiences more seamless and personalized than ever before. With the increasing availability of LLMs, we can expect to see even more innovative applications of this technology in the future. However, it is important to carefully consider the potential security challenges related to GenAI applications and the underline LL...</description>
-    </item>
-    <item>
-      <title>Secure your AI transformation with Microsoft Security</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-your-ai-transformation-with-microsoft-security/ba-p/4126214</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-your-ai-transformation-with-microsoft-security/ba-p/4126214</guid>
-      <description>Generative AI is reshaping business today for every individual, every team, and every industry. Organizations engage with GenAI in a variety of ways &#8211; from purchasing and using finished GenAI apps to developing, deploying, and operating custom-built GenAI apps.
+The AI transformation has accelerated with the introduction of generative AI (GenAI), unlocking a wide range of innovations with intelligent applications. Organizations are choosing to develop new GenAI applications and embed AI into existing applications to increase business efficiency and productivity.
 &#160;
-GenAI broadens the attack surface of applications through prompts, training data, models, and more &#8211; thereby effectively changing the threat landscape with new risks such as direct or indirect prompt injection attacks, data leakage, and data oversharing.
+Attackers are increasingly looking to exploit applications to alter the designed purpose of the AI model with new attacks like prompt injections, wallet attacks...</description>
+    </item>
+    <item>
+      <title>SOC optimization: unlock the power of precision-driven security management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589</link>
+      <pubDate>Mon, 06 May 2024 16:07:20 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589</guid>
+      <description>Security operations center (SOC) teams actively look for opportunities to optimize both processes and outcomes. Every organization is unique, with its own security challenges. Teams must regularly adjust security controls to keep up with changing threat landscape and business priorities, while balancing investment (cost, SOC resources, time) and security coverage.
 &#160;
-In March this year, we shared how Microsoft Security helps organizations discov...</description>
-    </item>
-    <item>
-      <title>Empower multiple teams and prioritize investigations with Insider Risk Management</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empower-multiple-teams-and-prioritize-investigations-with/ba-p/4127558</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empower-multiple-teams-and-prioritize-investigations-with/ba-p/4127558</guid>
-      <description>Your data is a prime target in most security incidents. But when an incident occurs, do you have the information you need to prioritize incidents and contain them based on the importance of the data itself?
-&#160;
-With insider incidents becoming a bigger concern each year and 74% of organizations saying these occurrences have become more frequent[1], detecting insider risks is now a vital part of safeguarding digital landscapes. &#160;Microsoft Purview Insider Risk Management is used by organizations across the world to correlate various signals to identify potential insider risks while ensuring user pr...</description>
-    </item>
-    <item>
-      <title>Maximize data protection &amp; minimize business disruption with Microsoft Purview Data Loss Prevention</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/maximize-data-protection-amp-minimize-business-disruption-with/ba-p/4130960</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/maximize-data-protection-amp-minimize-business-disruption-with/ba-p/4130960</guid>
-      <description>Protecting your business-critical data is of the utmost importance in today&#8217;s digital landscape. Within the last 12 months, 74% of organizations have had business data exposed during a data security incident, 65% saw operational data compromised, and 58% experienced personal data being made vulnerable&#160;[1]. However, protecting that data can seem like a daunting charter for many security teams. Between the boundless volumes of data created and transformed daily by modern organizations and the difficulty of scaling legacy data loss prevention (DLP) strategies, proper prevention, investigation, an...</description>
-    </item>
-    <item>
-      <title>Secure your data to confidently take advantage of Generative AI with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-your-data-to-confidently-take-advantage-of-generative-ai/ba-p/4127335</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-your-data-to-confidently-take-advantage-of-generative-ai/ba-p/4127335</guid>
-      <description>Security teams often find themselves in the dark when it comes to data security risks associated with AI usage. An alarming 80% of leaders cite the leakage of sensitive data as their primary concern [1]. And more than 30% of decision makers say they don&#8217;t know where or what their sensitive business critical data is [2], and with generative AI generating more data, getting that visibility into how sensitive data is flowing through AI and how your users are interacting with generative AI applications is essential. Without proper visibility, organizations struggle to safeguard their assets effect...</description>
-    </item>
-    <item>
-      <title>A new era in data security with dynamic controls to manage data access and mitigate risks</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-era-in-data-security-with-dynamic-controls-to-manage-data/ba-p/4126694</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-era-in-data-security-with-dynamic-controls-to-manage-data/ba-p/4126694</guid>
-      <description>Recent research highlights a concerning trend: insider risks are surging. A majority of organizations encountered data breaches in the past year, with 63% of these breaches stemming from inadvertent or malicious insiders who had access to sensitive information. These internal threats pose a significant challenge to enterprise security.
-&#160;
-Traditionally, organizations have struggled to handle the fragmented tooling landscape and one-size-fits-all controls they many times rely on to safeguard their data. However, this approach presents many challenges. The employment of multiple disconnected solu...</description>
-    </item>
-    <item>
-      <title>Protect your data and recover from insider data sabotage</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-your-data-and-recover-from-insider-data-sabotage/ba-p/4130841</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/protect-your-data-and-recover-from-insider-data-sabotage/ba-p/4130841</guid>
-      <description>Insider risks are a top cause of data breaches. Nearly two-thirds (63%) of data breach incidents originate with insiders, while only 37% stem from external threats like stolen credentials[1]. Some of the risk from Insiders comes from well-meaning employees that make a mistake. Other activities may be malicious, like deliberate sabotage of sensitive and valuable data. Organizations may feel they need to implement stringent controls to protect their data from insider risks, but that approach can have a negative impact on employee productivity. How can organizations find a balance between appropr...</description>
-    </item>
-    <item>
-      <title>Vulnerability Management Dashboard: Microsoft Defender for Endpoint - Updated Release 2405</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/vulnerability-management-dashboard-microsoft-defender-for/ba-p/4130877</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/vulnerability-management-dashboard-microsoft-defender-for/ba-p/4130877</guid>
-      <description>Introduction
-As Microsoft Cloud Solution Architects, we get asked by Businesses, IT Managers and Cybersecurity Experts to accurately report on the Vulnerabilities and CVEs in our environments. This could be as easy as just deploying Endpoint Protection updates or as advanced as deploying every category and 3rd Party Updates using Microsoft Defender for Endpoint.
-&#160;
-Vulnerability Management Dashboard: Microsoft Defender for Endpoint
-This Spring release involves implementing a cloud-based reporting and visualization solution that brings exposure to active threats into sharp focus. It is intended ...</description>
-    </item>
-    <item>
-      <title>Platform SSO for macOS now in public preview</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/platform-sso-for-macos-now-in-public-preview/ba-p/4051574</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/platform-sso-for-macos-now-in-public-preview/ba-p/4051574</guid>
-      <description>Today we&#8217;re announcing that Platform SSO for macOS is available in public preview with Microsoft Entra ID. Platform SSO is an enhancement to the Microsoft Enterprise SSO plug-in for Apple devices that makes usage and management of Mac devices more seamless and secure.
-&#160;
-At the start of public preview, Platform SSO will work with Microsoft Intune. Additional mobile device management (MDM) providers will be added during the public preview. Please contact your MDM provider for more information on support and availability.
-&#160;
-As part of this release, we&#8217;re introducing Microsoft Entra Join for macOS...</description>
-    </item>
-    <item>
-      <title>RSA news: What's new in Defender XDR?</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-news-what-s-new-in-defender-xdr/ba-p/4127538</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-news-what-s-new-in-defender-xdr/ba-p/4127538</guid>
-      <description>In today's threat landscape, the realm of cyberattacks is in a constant state of flux, evolving at an unprecedented pace. Attack vectors, methodologies, and vulnerabilities are continuously changing, presenting a formidable challenge to cybersecurity teams worldwide. To effectively combat this ever-changing landscape of attacks, security teams must equip themselves with tools that are innovating and adapting based on new threats. Foundational security tools play a crucial role in modern security and they must continuously invest in improving and enhancing their offerings to ensure they remain ...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender for Cloud Extends Support to Enable Increased API Security Testing Visibility</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-extends-support-to-enable-increased/ba-p/4127794</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-extends-support-to-enable-increased/ba-p/4127794</guid>
-      <description>Expanded API Security Testing Collaboration and Environment Support&#160;
-&#160;
-At Microsoft Ignite 2023, Microsoft Defender for Cloud announced the support of API security testing integration, enabling Defender for Cloud to provide full lifecycle API protection from code to cloud, which makes Microsoft the only cloud provider that enables organizations to assess risk and address API threats across the entire cloud application lifecycle. Today, we&#8217;re happy to announce this support has been extended to two additional API security testing solutions and is currently in public preview. Additionally, we&#8217;re ...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender Experts Services Expanded Coverage Upcoming Preview</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-services-expanded-coverage-upcoming/ba-p/4132077</link>
-      <pubDate>Mon, 06 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-services-expanded-coverage-upcoming/ba-p/4132077</guid>
-      <description>We&#8217;re pleased to announce the upcoming preview of our Defender Experts services expanded coverage scheduled for June 2024 that extends our capabilities to include customers&#8217; cloud estates with servers and virtual machines (VMs) running in Microsoft Azure and on-premises via Defender for Servers in Microsoft Defender for Cloud. In addition, our coverage will utilize third-party network signals to enhance investigations, create more avenues to generate leads for comprehensive threat hunting, and accelerate response earlier in the attack chain.
-&#160;
-World-class security expertise now extends to Micr...</description>
-    </item>
-    <item>
-      <title>Securing cloud-native applications in the age of AI: Defender for Cloud sets a new standard</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-native-applications-in-the-age-of-ai-defender-for/ba-p/4129523</link>
-      <pubDate>Mon, 06 May 2024 15:58:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-native-applications-in-the-age-of-ai-defender-for/ba-p/4129523</guid>
-      <description>In the fast-paced world of cloud computing, security teams are facing unprecedented challenges. As organizations increasingly adopt multicloud environments and prioritize the development of cloud-native applications, the complexity of ensuring robust security has grown exponentially. Moreover, as the AI transformation accelerates innovation, productivity, and business agility, attackers are also using it to their advantage. They are exploiting Gen-AI models and applications to manipulate outcomes, steal sensitive data, or disrupt operations, posing potential significant risks to businesses. Em...</description>
-    </item>
-    <item>
-      <title>Microsoft Sentinel: Delivering value to your SOC</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-delivering-value-to-your-soc/ba-p/4132040</link>
-      <pubDate>Mon, 06 May 2024 15:47:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-delivering-value-to-your-soc/ba-p/4132040</guid>
-      <description>Microsoft Sentinel: Delivering value to your SOC
-In today&#8217;s dynamic landscape, threats are rapidly evolving, and digital transformation is the norm. Balancing security and business outcomes are significant challenges for security teams seeking robust solutions to safeguard their expanding attack surface while effectively managing their data strategy and costs.
-Microsoft Sentinel is our next-generation cloud native security information and event management (SIEM) solution, enriched by AI and threat intelligence, delivering end-to-end protection across the multicloud, multiplatform digital estat...</description>
-    </item>
-    <item>
-      <title>Respond to trending threats and adopt zero-trust with Exposure Management</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/respond-to-trending-threats-and-adopt-zero-trust-with-exposure/ba-p/4130133</link>
-      <pubDate>Mon, 06 May 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/respond-to-trending-threats-and-adopt-zero-trust-with-exposure/ba-p/4130133</guid>
-      <description>In today&#8217;s rapidly evolving threat landscape, organizations face a daunting challenge: managing their security posture effectively. With an ever-expanding attack surface, including cloud services, endpoints, apps, increasing use of SaaS applications and different types of accounts and identities, it has become more important than ever to implement proactive processes to prevent threats. &#160;As cyber threats become more sophisticated, organizations must stay ahead of the curve. The ability to implement processes to identify, assess, and remediate exposures is essential for maintaining a robust sec...</description>
+Today, we&#8217;re happy to announce the public preview of a new experience and API &#8211; Microsoft Sentinel&#8217;s&#160;SOC Optimization, designed to empower security teams with precision-driven management capabilities. SOC optimization offers&#160;action...</description>
     </item>
   </channel>
 </rss>

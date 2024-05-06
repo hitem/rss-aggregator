@@ -712,3 +712,5 @@
 2024-05-06T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-your-ai-transformation-with-microsoft-security/ba-p/4126214
 2024-05-06T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-your-data-to-confidently-take-advantage-of-generative-ai/ba-p/4127335
 2024-05-06T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/vulnerability-management-dashboard-microsoft-defender-for/ba-p/4130877
+2024-05-06T16:07:20 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589
+2024-05-06T16:32:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665
