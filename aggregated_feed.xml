@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 May 2024 10:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 11:00:48 GMT</lastBuildDate>
+    <item>
+      <title>End to end container security with unified SOC experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/end-to-end-container-security-with-unified-soc-experience/ba-p/4127734</link>
+      <pubDate>Mon, 06 May 2024 10:48:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/end-to-end-container-security-with-unified-soc-experience/ba-p/4127734</guid>
+      <description>In the dynamic landscape of cloud security, the journey from code to runtime protection is a narrative of innovation and adaptation. At the heart of this evolution lies Microsoft Defender for Cloud, a CNAPP solution designed to fortify multi-cloud environments seamlessly. 
+Today we are announcing recent releases and enhancements for container security in Defender for Cloud with the general availability of Defender for Containers in AWS and GCP, containers risk-based prioritization, attack path analysis, Kubernetes identity monitoring, new eBPF sensor, detections and investigation capabilities....</description>
+    </item>
   </channel>
 </rss>
