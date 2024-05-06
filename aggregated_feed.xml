@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 May 2024 17:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Secure your AI applications from code to runtime with Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665</link>
-      <pubDate>Mon, 06 May 2024 16:32:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665</guid>
-      <description>Microsoft Defender for Cloud becomes the first CNAPP to protect enterprise-built AI applications across the application lifecycle
-&#160;
-The AI transformation has accelerated with the introduction of generative AI (GenAI), unlocking a wide range of innovations with intelligent applications. Organizations are choosing to develop new GenAI applications and embed AI into existing applications to increase business efficiency and productivity.
-&#160;
-Attackers are increasingly looking to exploit applications to alter the designed purpose of the AI model with new attacks like prompt injections, wallet attacks...</description>
-    </item>
-    <item>
-      <title>SOC optimization: unlock the power of precision-driven security management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589</link>
-      <pubDate>Mon, 06 May 2024 16:07:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589</guid>
-      <description>Security operations center (SOC) teams actively look for opportunities to optimize both processes and outcomes. Every organization is unique, with its own security challenges. Teams must regularly adjust security controls to keep up with changing threat landscape and business priorities, while balancing investment (cost, SOC resources, time) and security coverage.
-&#160;
-Today, we&#8217;re happy to announce the public preview of a new experience and API &#8211; Microsoft Sentinel&#8217;s&#160;SOC Optimization, designed to empower security teams with precision-driven management capabilities. SOC optimization offers&#160;action...</description>
-    </item>
+    <lastBuildDate>Mon, 06 May 2024 18:08:21 GMT</lastBuildDate>
   </channel>
 </rss>
