@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 May 2024 20:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 21:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Building securely: Microsoft Build 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-securely-microsoft-build-2024/ba-p/4134981</link>
+      <pubDate>Wed, 08 May 2024 20:13:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-securely-microsoft-build-2024/ba-p/4134981</guid>
+      <description>This year&#8217;s Microsoft Build event is shaping up to be a must-attend event. The high demand for secure software development continues to grow. And with the complexity of today&#8217;s digital world, developers are being asked to do even more to keep apps, AI, and code secure&#8212;with more focus on built-in security and more integrated security at every phase of design, development, and deployment. Developers who attend Microsoft Build can learn how to manage and govern AI, securely. Our commitment is to provide developers with the knowledge, tools, and practices needed to build safely. It&#8217;s a commitment ...</description>
+    </item>
   </channel>
 </rss>
