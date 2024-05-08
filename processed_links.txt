@@ -716,3 +716,4 @@
 2024-05-08T15:57:27 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/export-dlp-policies-rules-and-settings-using-powershell/ba-p/4133230
 2024-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-cloud-apps-delivers-new-in-browser-protection/ba-p/4129857
 2024-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-health-transparency-and-observability/ba-p/4127612
+2024-05-08T17:31:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448

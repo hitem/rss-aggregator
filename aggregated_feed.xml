@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 May 2024 17:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 18:08:26 GMT</lastBuildDate>
+    <item>
+      <title>Enhanced Response Action Experience from Threat Explorer</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448</link>
+      <pubDate>Wed, 08 May 2024 17:31:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448</guid>
+      <description>Empowering SecOps with the ability to submit, block, kick off investigations and delete emails in bulk with a single action form within Explorer. - Rolling out now!
+&#160;
+Last semester we published a&#160;blog post, where we announced a new Take action feature in the Email Entity and Email Summary panel that lets you take multiple actions at once from a single wizard. This feature makes it easier and faster for SecOps to deal with email threats by giving you logical grouping of actions, contextual availability of actions, and support for tenant level block URLs and files. Overall, we received very posi...</description>
+    </item>
   </channel>
 </rss>
