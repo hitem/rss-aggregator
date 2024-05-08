@@ -713,3 +713,4 @@
 2024-05-06T16:07:20 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589
 2024-05-06T16:32:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665
 2024-05-08T11:43:09 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2024/ba-p/4134548
+2024-05-08T13:13:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/vulnerability-assessment-with-defender-for-servers-powered-by/ba-p/4134482
