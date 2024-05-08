@@ -3,6 +3,44 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 May 2024 15:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 16:02:01 GMT</lastBuildDate>
+    <item>
+      <title>Tenant health transparency and observability</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-health-transparency-and-observability/ba-p/4127612</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-health-transparency-and-observability/ba-p/4127612</guid>
+      <description>In previous resilience blog posts, we&#8217;ve shared updates about the continuous improvements we&#8217;re making to resilience and reliability, including our most recent update on regionally isolated authentication endpoints and an announcement last year of our industry-leading and first of its kind backup authentication service. These and other innovations behind the scenes enable us to deliver consistently very high rates of availability globally each month.&#8239;&#160;
+&#160;
+In this post, we&#8217;ll outline what we&#8217;re doing to help customers see how available and resilient Microsoft Entra really is for them, to not onl...</description>
+    </item>
+    <item>
+      <title>Defender for Cloud Apps delivers new in-browser protection capabilities via Microsoft Edge</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-cloud-apps-delivers-new-in-browser-protection/ba-p/4129857</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-cloud-apps-delivers-new-in-browser-protection/ba-p/4129857</guid>
+      <description>In today's increasingly online and hybrid work environment, facilitating seamless work from any location and device is crucial, especially with the growing necessity to share data externally for enhanced collaboration. On the other hand, protecting your organization's data and resources remains important. Additionally, the rising reliance on web browsers for enterprise tasks introduces new security challenges that require careful attention to keep data and apps secure.
+To address these needs effectively, it is vital to provide centralized yet flexible solutions that empower users to control ho...</description>
+    </item>
+    <item>
+      <title>Export DLP Policies, Rules and Settings using PowerShell</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/export-dlp-policies-rules-and-settings-using-powershell/ba-p/4133230</link>
+      <pubDate>Wed, 08 May 2024 15:57:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/export-dlp-policies-rules-and-settings-using-powershell/ba-p/4133230</guid>
+      <description>This blog outlines the steps to export the DLP policies, rules and settings in bulk.
+&#160;
+Here's a summary of the items covered:
+
+Exporting DLP policies, rules and settings: The document explains how to use PowerShell cmdlets to export the DLP policies, rules and settings in bulk from the Security and Compliance Center PowerShell.
+Viewing the value of switches: The document shows how to view the value of switches that are parsed by the cmdlets, such as the groups or users that are scoped or excluded from a policy.
+Exporting as a CSV file: The document provides examples of how to export the policy...</description>
+    </item>
+    <item>
+      <title>Archive MDE Data to Event Hubs to ADX</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/archive-mde-data-to-event-hubs-to-adx/ba-p/4089821</link>
+      <pubDate>Wed, 08 May 2024 15:16:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/archive-mde-data-to-event-hubs-to-adx/ba-p/4089821</guid>
+      <description>In the lush grass of my backyard, Raven, my miniature Schnauzer, finds her bliss. She lies there, soaking in the sun&#8217;s rays, much like the data we export from Defender for Endpoint into Azure Storage. It sits there, in the cloud&#8217;s protective realm, unassuming yet essential. Raven, ever alert for critters that might encroach on her territory, is like the data that lies in wait&#8212;seemingly still but always ready to serve our needs.
+This blog will lead you through the steps of moving crucial data to a secure spot, just as Raven seeks out her sunny haven. We&#8217;ll explore the technical aspects of data ...</description>
+    </item>
   </channel>
 </rss>

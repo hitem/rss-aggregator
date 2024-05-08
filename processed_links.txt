@@ -1,4 +1,3 @@
-2023-05-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/modernizing-authentication-management/ba-p/2365669
 2023-05-09T16:22:09 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-defender-ti-intel-reporting-dashboard-and-workbook/ba-p/3812899
 2023-05-09T21:45:56 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965
 2023-05-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-token-protection-for-sign-in-sessions/ba-p/3815756
@@ -714,3 +713,7 @@
 2024-05-06T16:32:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665
 2024-05-08T11:43:09 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2024/ba-p/4134548
 2024-05-08T13:13:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/vulnerability-assessment-with-defender-for-servers-powered-by/ba-p/4134482
+2024-05-08T15:16:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/archive-mde-data-to-event-hubs-to-adx/ba-p/4089821
+2024-05-08T15:57:27 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/export-dlp-policies-rules-and-settings-using-powershell/ba-p/4133230
+2024-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-cloud-apps-delivers-new-in-browser-protection/ba-p/4129857
+2024-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-health-transparency-and-observability/ba-p/4127612
