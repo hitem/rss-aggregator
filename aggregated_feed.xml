@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 May 2024 14:00:51 GMT</lastBuildDate>
-    <item>
-      <title>Vulnerability Assessment with Defender for Servers, Powered by Defender Vulnerability Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/vulnerability-assessment-with-defender-for-servers-powered-by/ba-p/4134482</link>
-      <pubDate>Wed, 08 May 2024 13:13:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/vulnerability-assessment-with-defender-for-servers-powered-by/ba-p/4134482</guid>
-      <description>&#160;Microsoft Defender for Cloud is a comprehensive multicloud application protection platform (CNAPP) meticulously designed to safeguard your cloud-based applications from every angle, covering the entire journey from code to cloud. A pivotal aspect of cloud security involves the continuous monitoring and management of emerging vulnerabilities across your cloud workloads. By implementing strong vulnerability management practices, organizations can enhance their security posture, minimize the attack surface, and reinforce defenses against potential security breaches.&#160;
-We&#8217;re excited to share that ...</description>
-    </item>
+    <lastBuildDate>Wed, 08 May 2024 15:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
