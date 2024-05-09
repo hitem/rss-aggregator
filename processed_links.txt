@@ -1,4 +1,3 @@
-2023-05-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-token-protection-for-sign-in-sessions/ba-p/3815756
 2023-05-10T23:41:19 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/improving-server-vulnerability-management-efforts/ba-p/3807373
 2023-05-11T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-april-2023/ba-p/3816275
 2023-05-11T13:04:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-github-connector-microsoft/ba-p/3818803
@@ -717,3 +716,5 @@
 2024-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-health-transparency-and-observability/ba-p/4127612
 2024-05-08T17:31:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448
 2024-05-08T20:13:04 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-securely-microsoft-build-2024/ba-p/4134981
+2024-05-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-developments-in-microsoft-entra-id-protection/ba-p/4062701
+2024-05-09T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-the-microsoft-purview-audit-search-graph-api/ba-p/4135267

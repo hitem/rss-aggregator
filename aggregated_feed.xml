@@ -3,6 +3,33 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 09 May 2024 15:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 16:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Using the Microsoft Purview Audit Search Graph API</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-the-microsoft-purview-audit-search-graph-api/ba-p/4135267</link>
+      <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-the-microsoft-purview-audit-search-graph-api/ba-p/4135267</guid>
+      <description>We recently shared the news about the upcoming release of the Microsoft Purview Audit Search Graph API, a new feature that is currently in Public Preview and will be Generally Available by June 2024.
+&#160;
+The new API available through Microsoft Graph would allow to programmatically search and get relevant audit logs with improvements in search completeness, reliability, and performance This API is an improved option compared to the existing PowerShell cmdlet, Search-UnifiedAuditLog.
+&#160;
+In this blog, we will demonstrate how we can use the API to get the DLP Rule Matches across all the workloads.
+&#160;
+...</description>
+    </item>
+    <item>
+      <title>New developments in Microsoft Entra ID Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-developments-in-microsoft-entra-id-protection/ba-p/4062701</link>
+      <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-developments-in-microsoft-entra-id-protection/ba-p/4062701</guid>
+      <description>In the Microsoft Digital Defense Report 2023 (MDDR), we shared that on average, there are 11 token replay detections per 100,000 active users in Microsoft Entra ID each month. In addition, there are approximately 18,000 multifactor authentication (MFA) fatigue attempts observed per month.
+&#160;
+The latest developments in Entra ID Protection help you reduce the risks of these attacks by making it easier to deploy risk policies, understand their impact, and protect your organization from emerging threats.&#160;&#160;
+&#160;
+Here are the highlights:&#160;
+&#160;
+
+ Deploying Entra ID Protection just became easier with Microso...</description>
+    </item>
   </channel>
 </rss>
