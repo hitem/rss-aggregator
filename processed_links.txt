@@ -1,5 +1,3 @@
-2023-05-11T17:16:45 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-365-apps-for-enterprise-v2206/ba-p/3502714
-2023-05-11T17:22:51 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/responding-to-targeted-mail-attacks-with-microsoft-365-defender/ba-p/3819185
 2023-05-12T12:22:50 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/container-security-with-microsoft-defender-for-cloud/ba-p/3819956
 2023-05-12T14:01:27 https://techcommunity.microsoft.com/t5/azure-network-security-blog/logging-and-metrics-enhancements-to-azure-firewall-now-in/ba-p/3820087
 2023-05-15T05:44:41 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-cost-management-dashboard/ba-p/3817096
