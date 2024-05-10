@@ -1,4 +1,3 @@
-2023-05-11T13:04:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-github-connector-microsoft/ba-p/3818803
 2023-05-11T17:16:45 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-365-apps-for-enterprise-v2206/ba-p/3502714
 2023-05-11T17:22:51 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/responding-to-targeted-mail-attacks-with-microsoft-365-defender/ba-p/3819185
 2023-05-12T12:22:50 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/container-security-with-microsoft-defender-for-cloud/ba-p/3819956
