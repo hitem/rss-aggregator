@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 May 2024 17:00:57 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Teams DLP Playbook</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-teams-dlp-playbook/ba-p/4137462</link>
-      <pubDate>Mon, 13 May 2024 16:15:37 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-teams-dlp-playbook/ba-p/4137462</guid>
-      <description>May 2024 Edition
-&#160;
-We're so excited to publish the updated Teams DLP Playbook!
-&#160;
-This document provides an overview of how enterprise customers can deploy Microsoft Teams-DLP for protecting sensitive information. Microsoft Purview Data Loss Prevention has integrations with multiple workloads that help to protect customer data with a single policy. Teams DLP is one of the workloads within Microsoft Purview Data Loss Prevention. This guide walks through the different aspects of deploying use cases across content/containers.
-&#160;
-In summary, this playbook will help to:
-
-Understand the new Microsoft ...</description>
-    </item>
+    <lastBuildDate>Mon, 13 May 2024 18:05:40 GMT</lastBuildDate>
   </channel>
 </rss>
