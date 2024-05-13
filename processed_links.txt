@@ -711,3 +711,5 @@
 2024-05-08T20:13:04 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/building-securely-microsoft-build-2024/ba-p/4134981
 2024-05-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-developments-in-microsoft-entra-id-protection/ba-p/4062701
 2024-05-09T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-the-microsoft-purview-audit-search-graph-api/ba-p/4135267
+2024-05-13T15:14:19 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/part-3-ingesting-aws-govcloud-microsoft-sentinel-in-azure/ba-p/4138757
+2024-05-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-delivers-increased-transparency/ba-p/3796388
