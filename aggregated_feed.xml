@@ -3,22 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 May 2024 16:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 17:00:57 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Entra delivers increased transparency</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-delivers-increased-transparency/ba-p/3796388</link>
-      <pubDate>Mon, 13 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-delivers-increased-transparency/ba-p/3796388</guid>
-      <description>Seventy-five percent of cybersecurity professionals say the current threat landscape is the most challenging it has been in the last five years, according to the 2023 ISC2 Cybersecurity Workforce Study. You&#8217;re probably on the hook to secure access for your organization &#8211; preventing identity attacks and securing least privilege access. And we know it&#8217;s intense.
+      <title>Microsoft Teams DLP Playbook</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-teams-dlp-playbook/ba-p/4137462</link>
+      <pubDate>Mon, 13 May 2024 16:15:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-teams-dlp-playbook/ba-p/4137462</guid>
+      <description>May 2024 Edition
 &#160;
-One of the ways we strive to assist you is by providing accurate, reliable, and timely information to monitor and optimize the strength of your identity and network access security posture. This transparency gives you visibility that&#8217;s...</description>
-    </item>
-    <item>
-      <title>PART 3 - Ingesting AWS GovCloud Microsoft Sentinel in Azure Commercial</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/part-3-ingesting-aws-govcloud-microsoft-sentinel-in-azure/ba-p/4138757</link>
-      <pubDate>Mon, 13 May 2024 15:14:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/part-3-ingesting-aws-govcloud-microsoft-sentinel-in-azure/ba-p/4138757</guid>
-      <description>In the first part of this series Ingesting Non-Microsoft Cloud Security Data into Microsoft Sentinel for Government &amp; DIB Customers we looked into the compliance levels of the clouds and the architecture of the AWS connector.&#160; In part 2 Ingesting Non-Microsoft Cloud Security Data into Microsoft Sentinel for Gov &amp; DIB customers part 2 we walked thru setting up the connectors from AWS GovCloud and AWS into Microsoft Sentinel in Azure Government.&#160; In this blog we&#8217;ll discuss connecting AWS GovCloud into Microsoft Sentinel in Azure Commercial. &#160;We recognize that many Government and DIB customers us...</description>
+We're so excited to publish the updated Teams DLP Playbook!
+&#160;
+This document provides an overview of how enterprise customers can deploy Microsoft Teams-DLP for protecting sensitive information. Microsoft Purview Data Loss Prevention has integrations with multiple workloads that help to protect customer data with a single policy. Teams DLP is one of the workloads within Microsoft Purview Data Loss Prevention. This guide walks through the different aspects of deploying use cases across content/containers.
+&#160;
+In summary, this playbook will help to:
+
+Understand the new Microsoft ...</description>
     </item>
   </channel>
 </rss>
