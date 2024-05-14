@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 May 2024 22:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 23:01:16 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft will require MFA for all Azure users</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-will-require-mfa-for-all-azure-users/ba-p/4140391</link>
+      <pubDate>Tue, 14 May 2024 22:47:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-will-require-mfa-for-all-azure-users/ba-p/4140391</guid>
+      <description>This July, Azure teams will begin rolling out additional tenant-level security measures to require multi-factor authentication (MFA). Establishing this security baseline at the tenant level puts in place additional security to protect your cloud investments and company.&#160;
+MFA is a security method commonly required among cloud service providers and requires users to provide two or more pieces of evidence to verify their identity before accessing a service or a resource. It adds an extra layer of protection to the standard username and password authentication.
+&#160;
+The roll-out of this requirement w...</description>
+    </item>
   </channel>
 </rss>
