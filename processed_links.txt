@@ -714,3 +714,4 @@
 2024-05-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-delivers-increased-transparency/ba-p/3796388
 2024-05-13T16:15:37 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-teams-dlp-playbook/ba-p/4137462
 2024-05-14T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/meet-us-at-identiverse-may-28-31-in-las-vegas/ba-p/4085367
+2024-05-14T16:24:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035

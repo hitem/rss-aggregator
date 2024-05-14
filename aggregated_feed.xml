@@ -3,17 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 May 2024 16:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 17:00:46 GMT</lastBuildDate>
     <item>
-      <title>Meet us at Identiverse: May 28-31 in Las Vegas</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/meet-us-at-identiverse-may-28-31-in-las-vegas/ba-p/4085367</link>
-      <pubDate>Tue, 14 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/meet-us-at-identiverse-may-28-31-in-las-vegas/ba-p/4085367</guid>
-      <description>The annual Identiverse conference is a great opportunity to meet with our community, immerse in the latest challenges and innovations, and hear from leaders in the identity industry. And it&#8217;s happening soon! Identiverse 2024 is taking place from May 28 to 31 in Las Vegas, Nevada at ARIA Resort &amp; Casino.&#160;
-&#160;
-By attending, you&#8217;ll be among the first to hear about what&#8217;s new with Microsoft Entra, our work in identity standards, and how it will help you navigate the constantly evolving identity and network access threat landscape.&#160;
-&#160;
-Plus, you can request a 1:1 meeting with a Microsoft identity expe...</description>
+      <title>Email Protection Basics in Microsoft 365 Part Five: Mastering Overrides</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035</link>
+      <pubDate>Tue, 14 May 2024 16:24:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035</guid>
+      <description>Microsoft Support is excited to continue the blog series that will demystify how Microsoft 365 email protection works. In this fifth and final part of the series,&#8239;we will cover the different overrides, why you may need them, and why it isn&#8217;t a good idea to keep them permanently.&#160;&#160;
+Email security is a critical aspect of modern business operations, and Microsoft 365 provides a robust set of tools to keep your communications safe. But what should you do when legitimate emails are blocked? This is where submissions and overrides come into play. As we have covered in part 2 of this series, Submissi...</description>
     </item>
   </channel>
 </rss>
