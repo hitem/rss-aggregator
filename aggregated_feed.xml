@@ -3,6 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 May 2024 15:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 16:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Securing your API Management service from day one with Defender for APIs</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-api-management-service-from-day-one-with-defender/ba-p/4141620</link>
+      <pubDate>Wed, 15 May 2024 15:58:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-api-management-service-from-day-one-with-defender/ba-p/4141620</guid>
+      <description>Introduction
+&#160;
+We are excited to announce that you can now secure your Azure API Management (APIM) managed APIs from day one with Defender for APIs. This allows you to enable security as soon as you create your APIM service within the Azure portal. This means that security for APIs is no longer an afterthought and API management administrators do not need to leave the Azure API Management portal experience to turn on protection for their APIs which is a critical entry point into the API attack surface.
+Defender for APIs provides full lifecycle protection, detection, and response coverage. Defe...</description>
+    </item>
+    <item>
+      <title>Host Microsoft Defender data locally in Switzerland</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490</link>
+      <pubDate>Wed, 15 May 2024 15:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490</guid>
+      <description>We are pleased to announce that local data residency support in Switzerland is now generally available for Microsoft Defender for Endpoint and Microsoft Defender for Identity.&#160;
+&#160;
+This announcement demonstrates our commitment to providing customers with the highest levels of security and compliance by offering services that are aligned to local data sovereignty requirements. Swiss customers can now confidently onboard to Defender for Endpoint and Defender for Identity in Switzerland, knowing that their data at rest will remain within Swiss boundaries, which ensures that customers in Switzerland...</description>
+    </item>
   </channel>
 </rss>
