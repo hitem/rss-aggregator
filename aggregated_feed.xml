@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 May 2024 13:07:45 GMT</lastBuildDate>
-    <item>
-      <title>Organizing rule collections and rule collection groups in Azure Firewall Policy</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/organizing-rule-collections-and-rule-collection-groups-in-azure/ba-p/4138881</link>
-      <pubDate>Wed, 15 May 2024 13:02:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/organizing-rule-collections-and-rule-collection-groups-in-azure/ba-p/4138881</guid>
-      <description>Firewall Policy is the recommended method to manage Azure Firewall security and operational configurations. When using Firewall Policy, any rules must be part of a rule collection and rule collection group. Rule collections are sets of rules that share the same priority and action, and can be of type DNAT, Network, or Application. Rule collection groups are containers for rule collections of any type and are processed first by Azure Firewall based on priority. To learn more about rules, rule collections, and rule collections groups, see Azure Firewall Policy rule sets.
-&#160;
-This article provides ...</description>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 14:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
