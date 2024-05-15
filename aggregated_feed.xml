@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 May 2024 20:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 21:00:53 GMT</lastBuildDate>
+    <item>
+      <title>Easily detect CVE-2024-21427 with Microsoft Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587</link>
+      <pubDate>Wed, 15 May 2024 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587</guid>
+      <description>The recently published&#160;CVE-2024-21427 Windows Kerberos Security Feature Bypass Vulnerability&#160;fixed the potential bypass of authentication policies configured in Active Directory. We strongly recommend that you deploy the latest security updates, including the most recent patch, to your servers and devices to help ensure you have the latest protections available.
+&#160;
+As with every vulnerability or attack surface disclosure, our research teams actively investigate possible exploits, working to patch potential issues and provide out-of-the-box detection methods. Before being made generally availabl...</description>
+    </item>
   </channel>
 </rss>

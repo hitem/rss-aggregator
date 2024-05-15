@@ -714,3 +714,4 @@
 2024-05-15T13:02:19 https://techcommunity.microsoft.com/t5/azure-network-security-blog/organizing-rule-collections-and-rule-collection-groups-in-azure/ba-p/4138881
 2024-05-15T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490
 2024-05-15T15:58:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-api-management-service-from-day-one-with-defender/ba-p/4141620
+2024-05-15T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587
