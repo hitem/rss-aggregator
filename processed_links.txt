@@ -715,3 +715,4 @@
 2024-05-14T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/meet-us-at-identiverse-may-28-31-in-las-vegas/ba-p/4085367
 2024-05-14T16:24:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035
 2024-05-14T22:47:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-will-require-mfa-for-all-azure-users/ba-p/4140391
+2024-05-15T13:02:19 https://techcommunity.microsoft.com/t5/azure-network-security-blog/organizing-rule-collections-and-rule-collection-groups-in-azure/ba-p/4138881
