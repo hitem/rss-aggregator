@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 May 2024 18:07:08 GMT</lastBuildDate>
-    <item>
-      <title>Loop DDoS Attacks: Understanding the Threat and Azure's Defense</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/loop-ddos-attacks-understanding-the-threat-and-azure-s-defense/ba-p/4141291</link>
-      <pubDate>Thu, 16 May 2024 17:25:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/loop-ddos-attacks-understanding-the-threat-and-azure-s-defense/ba-p/4141291</guid>
-      <description>In the realm of cybersecurity, Distributed Denial-of-Service (DDoS) attacks are a significant concern. The recent holiday season has unveiled a complex and evolving threat landscape, marked by sophisticated tactics and diversification. From botnet delivery via misconfigured Docker API endpoints to the NKAbuse malware's exploitation of blockchain technology for DDoS attacks, the tactics and scale of these attacks have shown significant sophistication and diversification.
-Understanding and staying abreast of recent DDoS trends and attack vectors is crucial for maintaining robust network security...</description>
-    </item>
+    <lastBuildDate>Thu, 16 May 2024 19:00:48 GMT</lastBuildDate>
   </channel>
 </rss>
