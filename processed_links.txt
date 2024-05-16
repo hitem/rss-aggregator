@@ -1,4 +1,3 @@
-2023-05-17T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/hardening-windows-clients-with-microsoft-intune-and-defender-for/ba-p/3807378
 2023-05-17T17:03:47 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatically-disrupt-adversary-in-the-middle-aitm-attacks-with/ba-p/3821751
 2023-05-18T17:51:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-office365-and-windows365-with-azure-firewall/ba-p/3824533
 2023-05-18T18:03:50 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135
@@ -714,3 +713,4 @@
 2024-05-15T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490
 2024-05-15T15:58:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-api-management-service-from-day-one-with-defender/ba-p/4141620
 2024-05-15T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587
+2024-05-16T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-on-prem-users/ba-p/3905450

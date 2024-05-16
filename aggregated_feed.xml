@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 May 2024 15:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 16:03:45 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra Private Access for on-prem users</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-on-prem-users/ba-p/3905450</link>
+      <pubDate>Thu, 16 May 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-on-prem-users/ba-p/3905450</guid>
+      <description>The emergence of cloud technology and the hybrid work model, along with the rapidly increasing intensity and sophistication of cyber threats, are significantly reshaping the work landscape. As organizational boundaries become increasingly blurred, private applications and resources that were once secure for authenticated users are now vulnerable to intrusion from compromised systems and users. When users connect to a corporate network through a traditional virtual private network (VPN), they&#8217;re granted extensive access to the entire network, which potentially poses significant security risks. ...</description>
+    </item>
   </channel>
 </rss>
