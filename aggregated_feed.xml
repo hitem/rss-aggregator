@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 17 May 2024 15:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Enable Zero Touch Enrollment of MDE on macOS devices managed by Microsoft Intune</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enable-zero-touch-enrollment-of-mde-on-macos-devices-managed-by/ba-p/4144066</link>
-      <pubDate>Fri, 17 May 2024 14:27:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enable-zero-touch-enrollment-of-mde-on-macos-devices-managed-by/ba-p/4144066</guid>
-      <description>Introduction
-Microsoft Defender for Endpoint (MDE) is a unified endpoint security platform that helps protect your organization from advanced threats. MDE provides threat detection, investigation, and response capabilities across Windows, Linux, Android, and macOS devices.
-To deploy MDE on macOS devices, you need to install the MDE agent and enroll the devices to the MDE service. You can use Microsoft Intune, a cloud-based device management service, to automate the installation and enrollment process. This blog post explains how to use Intune to achieve zero touch enrollment of MDE on macOS de...</description>
-    </item>
+    <lastBuildDate>Fri, 17 May 2024 16:01:04 GMT</lastBuildDate>
   </channel>
 </rss>
