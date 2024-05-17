@@ -1,5 +1,3 @@
-2023-05-18T17:51:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-office365-and-windows365-with-azure-firewall/ba-p/3824533
-2023-05-18T18:03:50 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-security-misconfigurations/ba-p/3824135
 2023-05-18T22:02:08 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-authenticator-lite-in-outlook/ba-p/3773139
 2023-05-19T07:16:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unified-update-platform-with-configmgr-questions-from-the-field/ba-p/3815038
 2023-05-19T19:21:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-nat-behaviors/ba-p/3825834
