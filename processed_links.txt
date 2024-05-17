@@ -1,4 +1,3 @@
-2023-05-18T22:02:08 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-authenticator-lite-in-outlook/ba-p/3773139
 2023-05-19T07:16:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unified-update-platform-with-configmgr-questions-from-the-field/ba-p/3815038
 2023-05-19T19:21:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-nat-behaviors/ba-p/3825834
 2023-05-19T21:18:13 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-aks-troubleshooting-1-resolving-connectivity-and-dns/ba-p/3814187
