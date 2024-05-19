@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 19 May 2024 03:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 04:00:54 GMT</lastBuildDate>
+    <item>
+      <title>A BlackByte Ransomware intrusion case study</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/a-blackbyte-ransomware-intrusion-case-study/ba-p/3841810</link>
+      <pubDate>Sun, 19 May 2024 03:03:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/a-blackbyte-ransomware-intrusion-case-study/ba-p/3841810</guid>
+      <description>Introduction&#160;
+As ransomware attacks grow in number and sophistication every year, threat actors can quickly impact business operations if organizations are not well prepared. In this blog, we detail an investigation into a ransomware event. During this intrusion the threat actor progressed through the full attack chain, from initial access through to impact, in less than five days, causing significant business disruption for the victim organization. &#160;
+During the investigation, the Microsoft Incident Response team (formerly known as DART) identified the threat actor employing a range of tools &amp;...</description>
+    </item>
   </channel>
 </rss>
