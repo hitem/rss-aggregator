@@ -710,3 +710,4 @@
 2024-05-16T17:25:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/loop-ddos-attacks-understanding-the-threat-and-azure-s-defense/ba-p/4141291
 2024-05-17T14:27:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enable-zero-touch-enrollment-of-mde-on-macos-devices-managed-by/ba-p/4144066
 2024-05-19T03:03:12 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/a-blackbyte-ransomware-intrusion-case-study/ba-p/3841810
+2024-05-20T08:19:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimizing-cloud-management-leveraging-azure-update-manager-with/ba-p/4116373
