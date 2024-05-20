@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 20 May 2024 09:07:53 GMT</lastBuildDate>
-    <item>
-      <title>Optimizing Cloud Management: Leveraging Azure Update Manager with Pre and Post Events</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimizing-cloud-management-leveraging-azure-update-manager-with/ba-p/4116373</link>
-      <pubDate>Mon, 20 May 2024 08:19:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimizing-cloud-management-leveraging-azure-update-manager-with/ba-p/4116373</guid>
-      <description>Introduction
-As Azure Update Manager becomes the go-to solution for patching Azure VMs, it&#8217;s crucial to integrate efficient pre and post tasks to enhance reliability and control. This blog outlines a systematic approach to setting up these tasks, starting with initiating specific VMs based on their tags, and creating snapshots of the OS disk before updates. This preemptive measure ensures that if updates cause issues, restoring the system is straightforward and quick. Additional tasks will be integrated as needed to adapt to evolving requirements.
-&#160;
-Requirements
-To effectively implement the st...</description>
-    </item>
+    <lastBuildDate>Mon, 20 May 2024 10:00:48 GMT</lastBuildDate>
   </channel>
 </rss>
