@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 20 May 2024 16:07:35 GMT</lastBuildDate>
-    <item>
-      <title>Increased security visibility through new Standard Logs in Microsoft Purview Audit</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/increased-security-visibility-through-new-standard-logs-in/ba-p/4144454</link>
-      <pubDate>Mon, 20 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/increased-security-visibility-through-new-standard-logs-in/ba-p/4144454</guid>
-      <description>Microsoft Purview Audit provides an integrated solution to help organizations effectively respond to security incidents, forensic investigations, internal investigations, and compliance obligations. As announced in the previous Microsoft blogs in&#160;July 2023 and October 2023, Microsoft Purview Audit is expanding access to wider cloud security activity logs. As part of the changes, Audit (Standard) license holders will be able to access an additional 30 audit logs that were previously generated only for Audit (Premium) license holders.&#160;Eleven new Standard logs under Stream and Viva Engage workloa...</description>
-    </item>
-    <item>
-      <title>Security review for Microsoft Edge version 125</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-125/ba-p/4146218</link>
-      <pubDate>Mon, 20 May 2024 15:03:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-125/ba-p/4146218</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 125!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 125 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 117 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 125 introduced 4 new computer settings and 4 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find them....</description>
-    </item>
+    <lastBuildDate>Mon, 20 May 2024 17:01:06 GMT</lastBuildDate>
   </channel>
 </rss>
