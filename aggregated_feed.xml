@@ -3,32 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 May 2024 15:34:13 GMT</lastBuildDate>
-    <item>
-      <title>Accelerate cloud security risk remediation with Microsoft Copilot for Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accelerate-cloud-security-risk-remediation-with-microsoft/ba-p/4143161</link>
-      <pubDate>Tue, 21 May 2024 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accelerate-cloud-security-risk-remediation-with-microsoft/ba-p/4143161</guid>
-      <description>As cloud environments experience rapid expansion, evolution, and increasing complexity, security teams face a significant and growing challenge in identifying, assessing, and remediating cloud security risks across multicloud environments and developer pipelines.
-&#160;
-With Copilot in Defender for Cloud, security teams can efficiently identify critical risks across their multicloud environments and developer pipelines and streamline remediation efforts to make the most impact on their security posture.
-&#160;
-The embedded Copilot capabilities in Defender for Cloud help you accelerate time to remediatio...</description>
-    </item>
-    <item>
-      <title>Leverage Generative AI to expedite attack surface investigations in Defender EASM</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-external/leverage-generative-ai-to-expedite-attack-surface-investigations/ba-p/4110163</link>
-      <pubDate>Tue, 21 May 2024 15:27:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-external/leverage-generative-ai-to-expedite-attack-surface-investigations/ba-p/4110163</guid>
-      <description>A prerequisite to securing an organization on the internet is first knowing what digital assets in the organization are internet-facing. With the constantly changing internet, the migration to multi-cloud environments, the evolution of organizations with mergers and acquisitions, and the emergence of shadow IT, it is often difficult to maintain an updated external view of an organization&#8217;s attack surface, leading to security gaps emerging for attackers to exploit.
-Microsoft Defender External Attack Surface Management (EASM) solves this challenge by discovering externally facing assets and iden...</description>
-    </item>
-    <item>
-      <title>Secure and Govern Your Custom-Built AI Apps with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-and-govern-your-custom-built-ai-apps-with-microsoft/ba-p/4146187</link>
-      <pubDate>Tue, 21 May 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-and-govern-your-custom-built-ai-apps-with-microsoft/ba-p/4146187</guid>
-      <description>The rise of generative AI unlocks new opportunities for developers to create groundbreaking applications. Studies show that 75% of organizations are more likely to adopt AI apps when they come with assurance mechanisms for secure and compliant use. This underscores the importance of building apps that can handle and govern sensitive data appropriately. But despite this growing demand for secure and compliant AI applications, developers often lack security expertise and tools to build these controls into custom-built applications. What developers need are easy to use APIs that enable them to bu...</description>
-    </item>
+    <lastBuildDate>Tue, 21 May 2024 16:01:16 GMT</lastBuildDate>
   </channel>
 </rss>
