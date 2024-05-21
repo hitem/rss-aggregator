@@ -1,4 +1,3 @@
-2023-05-22T15:10:33 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/boost-your-detection-and-response-workflows-with-alert-tuning/ba-p/3824712
 2023-05-22T15:40:42 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-azure-devops-connector-microsoft/ba-p/3827261
 2023-05-22T17:03:22 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionize-your-sap-security-with-microsoft-sentinel-s-soar/ba-p/3823857
 2023-05-22T20:37:11 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-microsoft-incident-response-lessons-on/ba-p/3753391
@@ -714,3 +713,6 @@
 2024-05-20T15:03:40 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-125/ba-p/4146218
 2024-05-20T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/increased-security-visibility-through-new-standard-logs-in/ba-p/4144454
 2024-05-21T13:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-development-lifecycle-sdl/ba-p/4146661
+2024-05-21T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-and-govern-your-custom-built-ai-apps-with-microsoft/ba-p/4146187
+2024-05-21T15:27:00 https://techcommunity.microsoft.com/t5/microsoft-defender-external/leverage-generative-ai-to-expedite-attack-surface-investigations/ba-p/4110163
+2024-05-21T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accelerate-cloud-security-risk-remediation-with-microsoft/ba-p/4143161
