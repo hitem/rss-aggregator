@@ -713,3 +713,4 @@
 2024-05-20T08:19:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimizing-cloud-management-leveraging-azure-update-manager-with/ba-p/4116373
 2024-05-20T15:03:40 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-125/ba-p/4146218
 2024-05-20T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/increased-security-visibility-through-new-standard-logs-in/ba-p/4144454
+2024-05-21T13:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-development-lifecycle-sdl/ba-p/4146661
