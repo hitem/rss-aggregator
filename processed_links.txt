@@ -1,4 +1,3 @@
-2023-05-22T17:03:22 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionize-your-sap-security-with-microsoft-sentinel-s-soar/ba-p/3823857
 2023-05-22T20:37:11 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-microsoft-incident-response-lessons-on/ba-p/3753391
 2023-05-22T20:45:48 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/part-1-lockbit-2-0-ransomware-bugs-and-database-recovery/ba-p/3254354
 2023-05-22T20:47:52 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795
@@ -716,3 +715,5 @@
 2024-05-21T15:27:00 https://techcommunity.microsoft.com/t5/microsoft-defender-external/leverage-generative-ai-to-expedite-attack-surface-investigations/ba-p/4110163
 2024-05-21T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accelerate-cloud-security-risk-remediation-with-microsoft/ba-p/4143161
 2024-05-21T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/recover-an-adcs-platform-from-compromise/ba-p/4120889
+2024-05-21T18:05:02 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-copilot-for-security-protect-web/ba-p/4145547
+2024-05-21T18:06:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-integration-in-copilot-for-security-protect/ba-p/4144614
