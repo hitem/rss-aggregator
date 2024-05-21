@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 May 2024 13:36:37 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Security Development Lifecycle (SDL)</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-development-lifecycle-sdl/ba-p/4146661</link>
-      <pubDate>Tue, 21 May 2024 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-development-lifecycle-sdl/ba-p/4146661</guid>
-      <description>Security and privacy should never be an afterthought when developing software.&#160; A formal process must become standard practice to ensure they are considered at all points of the product's lifecycle. The rise of software supply chain attacks&#8212;including the XZ Utils, SolarWinds attack and Log4j vulnerabilities&#8212;highlights the critical need to build security into the software development process, from the ground up.&#160;&#160;
-&#160;
-Over the last 20 years, there have been many improvements to the security development lifecycle (SDL) reflecting changes in internal tools and processes. We are excited to announce ...</description>
-    </item>
+    <lastBuildDate>Tue, 21 May 2024 14:22:03 GMT</lastBuildDate>
   </channel>
 </rss>
