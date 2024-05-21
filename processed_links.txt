@@ -1,4 +1,3 @@
-2023-05-22T22:33:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enrich-your-advanced-hunting-experience-using-network-layer/ba-p/3794693
 2023-05-23T11:09:45 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-onboarding-workbook-v2/ba-p/3828185
 2023-05-23T13:04:03 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/transform-the-way-you-investigate-by-using-behaviors-amp-new/ba-p/3825154
 2023-05-23T14:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ncs-case-study-end-to-end-integration-of-custom-byoml-model-with/ba-p/3817918
