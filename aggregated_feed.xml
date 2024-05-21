@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 May 2024 16:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 17:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Recover an ADCS platform from compromise</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/recover-an-adcs-platform-from-compromise/ba-p/4120889</link>
+      <pubDate>Tue, 21 May 2024 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/recover-an-adcs-platform-from-compromise/ba-p/4120889</guid>
+      <description>The crucial role of backup and restore in ADCS
+Active Directory Certificate Services (ADCS) serves as a pivotal part within identity and access management (IAM), playing a critical role in ensuring secure authentication and encryption. These functionalities are integral for fostering trust across the enterprise application and service ecosystem. In modern organizations, the significance of Active Directory Certificate Services has grown exponentially, fortifying digital identities, communication channels and data. Given its pervasive role, the potential loss of this service due to systemic ide...</description>
+    </item>
   </channel>
 </rss>

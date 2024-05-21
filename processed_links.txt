@@ -715,3 +715,4 @@
 2024-05-21T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/secure-and-govern-your-custom-built-ai-apps-with-microsoft/ba-p/4146187
 2024-05-21T15:27:00 https://techcommunity.microsoft.com/t5/microsoft-defender-external/leverage-generative-ai-to-expedite-attack-surface-investigations/ba-p/4110163
 2024-05-21T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accelerate-cloud-security-risk-remediation-with-microsoft/ba-p/4143161
+2024-05-21T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/recover-an-adcs-platform-from-compromise/ba-p/4120889
