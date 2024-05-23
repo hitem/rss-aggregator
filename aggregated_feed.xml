@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 May 2024 18:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 19:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Configuring archive period for tables at Mass for Data Retention within Log Analytics Workspace</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/configuring-archive-period-for-tables-at-mass-for-data-retention/ba-p/4118220</link>
+      <pubDate>Thu, 23 May 2024 18:23:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/configuring-archive-period-for-tables-at-mass-for-data-retention/ba-p/4118220</guid>
+      <description>How does this Blog help in Configuring archive period for tables at Mass for Data Retention in Log Analytics Workspace:
+
+Simplified Data Archival: Implementing archival within Log Analytics Workspace provides a straightforward and integrated solution for retaining log data over extended periods. This ensures compliance with regulatory requirements, making it easier for organizations to meet data retention mandates without resorting to complex external storage solutions.
+Efficient Data Management: The article&#8217;s primary focus on mass applying archival to multiple tables within Log Analytics Work...</description>
+    </item>
   </channel>
 </rss>
