@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 May 2024 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 22:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Automated end-user feedback response is now GA</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055</link>
+      <pubDate>Thu, 23 May 2024 21:23:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055</guid>
+      <description>We are excited to announce that the automated end-user feedback response feature is now GA! The user submission automatic feedback response capability in Microsoft Defender for Office 365 enables organizations to automatically respond to end user submissions of phish based on the verdict from the automated investigation.&#160;
+&#160;
+This feature saves SecOps time by converting the process of sending manual responses back to end users on reported messages to be automated. This layers additional value to the automated investigation and response (AIR) feature for SecOps teams and also helps encourage end ...</description>
+    </item>
   </channel>
 </rss>

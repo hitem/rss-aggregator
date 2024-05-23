@@ -701,3 +701,4 @@
 2024-05-21T18:05:02 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-copilot-for-security-protect-web/ba-p/4145547
 2024-05-21T18:06:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-integration-in-copilot-for-security-protect/ba-p/4144614
 2024-05-23T18:23:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/configuring-archive-period-for-tables-at-mass-for-data-retention/ba-p/4118220
+2024-05-23T21:23:26 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055
