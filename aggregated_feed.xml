@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 24 May 2024 08:00:48 GMT</lastBuildDate>
-    <item>
-      <title>Public Preview: Log Analytics Workspace Replication</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-log-analytics-workspace-replication/ba-p/4150933</link>
-      <pubDate>Fri, 24 May 2024 07:54:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-log-analytics-workspace-replication/ba-p/4150933</guid>
-      <description>[This is a repost of the same blog released on the&#160;Azure Observability Blog]
-&#160;
-Azure Monitor Log Analytics uses workspaces as a logical container for logs. Workspaces are region-bound, but workspace replication allows you to create cross-regional redundancy to increase workspace resilience to regional incidents.
-&#160;
-What is Workspace Replication?
-Workspace replication creates a replica of your workspace on another region, that you chose from a set of regions. The original instance of your workspace is referred to as the primary workspace, and the replica on the second region is referred to as se...</description>
-    </item>
+    <lastBuildDate>Fri, 24 May 2024 09:00:46 GMT</lastBuildDate>
   </channel>
 </rss>
