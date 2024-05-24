@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 24 May 2024 19:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Security Exposure Management Graph: unveiling the power</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-unveiling-the-power/ba-p/4148546</link>
-      <pubDate>Fri, 24 May 2024 18:28:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-unveiling-the-power/ba-p/4148546</guid>
-      <description>Introduction
-In the complicated and rapidly evolving realm of cybersecurity, Exposure Management plays a pivotal role in fortifying organization's defenses against potential threats. To empower security teams, Microsoft Security Exposure Management has unveiled two new powerful tables within Advanced Hunting: ExposureGraphNodes and ExposureGraphEdges.
-&#160;
-The introduction of these tables opens novel capabilities for security teams. It enables efficient investigation of security posture across organizational assets. This is the first in a series of posts where we will present the tables and share...</description>
-    </item>
+    <lastBuildDate>Fri, 24 May 2024 20:01:26 GMT</lastBuildDate>
   </channel>
 </rss>
