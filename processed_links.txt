@@ -1,4 +1,3 @@
-2023-05-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/announcing-general-availability-of-authenticator-lite-in-outlook/ba-p/3773136
 2023-05-29T07:56:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/cloud-management-gateway-inbound-rule-for-port-8443/ba-p/3833139
 2023-05-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-synchronization-for-seamless-application-access-is/ba-p/2466933
 2023-05-30T19:07:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/threat-explorer-ux-enhancements-url-clicks-tab-and-customizable/ba-p/3834717
