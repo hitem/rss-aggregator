@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 May 2024 16:06:50 GMT</lastBuildDate>
-    <item>
-      <title>Best Practices to Manage and Mitigate Security Recommendations</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/best-practices-to-manage-and-mitigate-security-recommendations/ba-p/4153869</link>
-      <pubDate>Tue, 28 May 2024 15:11:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/best-practices-to-manage-and-mitigate-security-recommendations/ba-p/4153869</guid>
-      <description>In the fast-evolving landscape of cloud security, Microsoft Defender for Cloud (MDC) stands as a robust Cloud Native Application Protection Platform (CNAPP). One of its standout features is the premium Cloud Security Posture Management (CSPM) solution, known as Defender CSPM. Among the myriads of advanced capabilities offered by Defender CSPM, the "Governance Rule" feature is a game-changer. This empowers security teams to streamline and automate the assignment, management, and tracking of security recommendations.
-In this blog, we'll delve into best practices for leveraging Governance Rule to...</description>
-    </item>
+    <lastBuildDate>Tue, 28 May 2024 17:00:56 GMT</lastBuildDate>
   </channel>
 </rss>
