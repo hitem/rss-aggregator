@@ -697,3 +697,4 @@
 2024-05-24T07:54:10 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-log-analytics-workspace-replication/ba-p/4150933
 2024-05-24T18:28:03 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-unveiling-the-power/ba-p/4148546
 2024-05-28T04:16:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-april-2024/ba-p/4153388
+2024-05-28T15:11:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/best-practices-to-manage-and-mitigate-security-recommendations/ba-p/4153869
