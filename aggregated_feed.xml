@@ -3,14 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 May 2024 12:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 13:07:49 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Entra ID Tenant Starters Guide: Understanding Identity Management and Licensing</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-id-tenant-starters-guide-understanding-identity/ba-p/4154857</link>
-      <pubDate>Wed, 29 May 2024 11:28:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-id-tenant-starters-guide-understanding-identity/ba-p/4154857</guid>
-      <description>Introduction
-Microsoft Entra ID Tenant is a cloud-based identity and access management service that helps you manage your organization's users, devices, applications, and resources[1]. It is a powerful and flexible solution that enables you to securely connect your employees, customers, and partners to the digital resources they need, while protecting your organization from unauthorized access and identity threats. In this guide, you will learn the basics of Microsoft Entra ID Tenant, how to access and use it, how to manage licenses for different Microsoft products and services, and how to add...</description>
+      <title>Simplify triage with the new Alert Timeline</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653</link>
+      <pubDate>Wed, 29 May 2024 12:50:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653</guid>
+      <description>Every second counts when it comes to detecting and responding to potential security breaches, and in today's ever-evolving cybersecurity landscape, tools that facilitate rapid triage and decision-making become essential for upholding strong security hygiene. &#160;
+&#160;
+Today, we're excited to introduce the latest feature to our rich reporting feature set &#8212;the alert timeline&#8212;a new view that minimizes the time needed for triage and investigation without compromising the quality of analysis. &#160;&#160;
+&#160;Simplifying alerts for faster response&#160; &#160;
+Alerts are an important factor to consider amongst the broader data...</description>
     </item>
   </channel>
 </rss>

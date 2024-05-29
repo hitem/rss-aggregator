@@ -699,3 +699,4 @@
 2024-05-28T04:16:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-april-2024/ba-p/4153388
 2024-05-28T15:11:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/best-practices-to-manage-and-mitigate-security-recommendations/ba-p/4153869
 2024-05-29T11:28:20 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-id-tenant-starters-guide-understanding-identity/ba-p/4154857
+2024-05-29T12:50:37 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653
