@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 May 2024 18:07:22 GMT</lastBuildDate>
-    <item>
-      <title>Hunting for MFA manipulations in Entra ID tenants using KQL</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039</link>
-      <pubDate>Wed, 29 May 2024 17:10:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039</guid>
-      <description>Cloud security is a top priority for many organizations, especially given that threat actors are constantly looking for ways to compromise cloud accounts and access sensitive data. One of the common, and highly effective, methods that attackers use is changing the multi-factor authentication (MFA) properties for users in compromised tenants. This can allow the attacker to satisfy MFA requirements, disable MFA for other users, or enroll new devices for MFA. Some of these changes can be hard to detect and monitor, as they are typically performed as part of standard helpdesk processes and may be ...</description>
-    </item>
+    <lastBuildDate>Wed, 29 May 2024 19:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
