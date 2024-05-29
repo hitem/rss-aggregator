@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 May 2024 13:07:49 GMT</lastBuildDate>
-    <item>
-      <title>Simplify triage with the new Alert Timeline</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653</link>
-      <pubDate>Wed, 29 May 2024 12:50:37 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653</guid>
-      <description>Every second counts when it comes to detecting and responding to potential security breaches, and in today's ever-evolving cybersecurity landscape, tools that facilitate rapid triage and decision-making become essential for upholding strong security hygiene. &#160;
-&#160;
-Today, we're excited to introduce the latest feature to our rich reporting feature set &#8212;the alert timeline&#8212;a new view that minimizes the time needed for triage and investigation without compromising the quality of analysis. &#160;&#160;
-&#160;Simplifying alerts for faster response&#160; &#160;
-Alerts are an important factor to consider amongst the broader data...</description>
-    </item>
+    <lastBuildDate>Wed, 29 May 2024 14:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
