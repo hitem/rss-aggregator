@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 May 2024 16:07:15 GMT</lastBuildDate>
-    <item>
-      <title>Securing access to any resource, anywhere</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-access-to-any-resource-anywhere/ba-p/4120308</link>
-      <pubDate>Wed, 29 May 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-access-to-any-resource-anywhere/ba-p/4120308</guid>
-      <description>Zero Trust has become the industry standard for safeguarding your entire digital estate. Central to Zero Trust is securing identity and access, which is essential for protecting resources, enforcing security policies, and ensuring compliance in today&#8217;s dynamic digital landscape.
-&#160;
-With Microsoft Entra, we help our customers create a trust fabric that securely connects any trustworthy identity with anything, anywhere. Driven by the adoption of multicloud strategies in the era of AI, customers are encountering more challenges in securing access, not just across multiple public and private clouds...</description>
-    </item>
+    <lastBuildDate>Wed, 29 May 2024 17:01:32 GMT</lastBuildDate>
   </channel>
 </rss>
