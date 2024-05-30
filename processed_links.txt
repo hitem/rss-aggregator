@@ -1,4 +1,3 @@
-2023-05-31T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tidying-up-urls-removing-trailing-slashes-in-azure-static-web/ba-p/3811614
 2023-05-31T15:40:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/itdr-with-microsoft-identity-threat-level-detections-and/ba-p/3834631
 2023-05-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-enterprise-sso-for-apple-devices-is-now-available-for/ba-p/3827395
 2023-05-31T20:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-authentication-strength-is-now-generally/ba-p/3773134
