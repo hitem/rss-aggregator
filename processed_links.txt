@@ -1,4 +1,3 @@
-2023-05-31T20:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-authentication-strength-is-now-generally/ba-p/3773134
 2023-06-01T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-dlp-policies-for-power-bi/ba-p/3828373
 2023-06-02T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/manage-access-to-business-assets-using-collections-in-microsoft/ba-p/3837379
 2023-06-02T19:43:25 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2023/ba-p/3838687
