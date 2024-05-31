@@ -694,3 +694,4 @@
 2024-05-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-access-to-any-resource-anywhere/ba-p/4120308
 2024-05-29T17:10:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039
 2024-05-30T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/addressing-common-entra-id-protection-deployment-and-maintenance/ba-p/4154082
+2024-05-31T16:07:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-june-2024/ba-p/4157023

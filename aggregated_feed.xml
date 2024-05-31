@@ -3,6 +3,70 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 31 May 2024 16:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 17:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - June 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-june-2024/ba-p/4157023</link>
+      <pubDate>Fri, 31 May 2024 16:07:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-june-2024/ba-p/4157023</guid>
+      <description>
+
+
+
+Microsoft Defender XDRMonthly newsJune 2024 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from May&#160;2024.&#160;&#160;
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Unified Security Operations Platform:&#160;Microsoft Defender XDR &amp; Microsoft Sentinel
+
+
+
+
+
+
+
+Host Microsoft Defender data locally in Switzerland.&#160;We are ...</description>
+    </item>
   </channel>
 </rss>
