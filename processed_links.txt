@@ -1,4 +1,3 @@
-2023-06-02T19:43:25 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2023/ba-p/3838687
 2023-06-04T22:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-gain-observability-over-guest-users/ba-p/3832301
 2023-06-05T12:51:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2023/ba-p/3838969
 2023-06-05T13:05:01 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/safeguarding-your-oauth-apps-with-app-governance/ba-p/3837343
