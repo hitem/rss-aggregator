@@ -1,5 +1,3 @@
-2023-06-05T21:26:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-sql-vulnerability-assessment-updates/ba-p/3837732
-2023-06-05T21:28:32 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatic-disruption-of-ransomware-and-bec-attacks-with/ba-p/3738294
 2023-06-06T10:51:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-june-2023/ba-p/3840524
 2023-06-06T16:53:54 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/prevent-repeat-attacks-with-threat-informed-security-posture/ba-p/3824920
 2023-06-06T18:38:32 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/increasing-transparency-into-azure-active-directory-s-resilience/ba-p/2147047
@@ -691,3 +689,4 @@
 2024-05-31T16:07:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-june-2024/ba-p/4157023
 2024-06-01T21:19:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2024/ba-p/4157822
 2024-06-04T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-our-new-whitepaper-gdpr-amp-generative-ai-a-guide/ba-p/4158935
+2024-06-04T21:34:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2024/ba-p/4159552
