@@ -1,4 +1,3 @@
-2023-06-05T17:55:56 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-114/ba-p/3839728
 2023-06-05T21:26:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-sql-vulnerability-assessment-updates/ba-p/3837732
 2023-06-05T21:28:32 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatic-disruption-of-ransomware-and-bec-attacks-with/ba-p/3738294
 2023-06-06T10:51:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-june-2023/ba-p/3840524
