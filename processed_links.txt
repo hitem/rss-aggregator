@@ -691,3 +691,4 @@
 2024-05-30T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/addressing-common-entra-id-protection-deployment-and-maintenance/ba-p/4154082
 2024-05-31T16:07:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-june-2024/ba-p/4157023
 2024-06-01T21:19:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2024/ba-p/4157822
+2024-06-04T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-our-new-whitepaper-gdpr-amp-generative-ai-a-guide/ba-p/4158935
