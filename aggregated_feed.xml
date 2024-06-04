@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Jun 2024 15:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Our New Whitepaper: GDPR &amp; Generative AI &#8211; A Guide for Customers</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-our-new-whitepaper-gdpr-amp-generative-ai-a-guide/ba-p/4158935</link>
-      <pubDate>Tue, 04 Jun 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-our-new-whitepaper-gdpr-amp-generative-ai-a-guide/ba-p/4158935</guid>
-      <description>We are excited to share some great news with our commercial customers! Today, we're launching a new whitepaper, GDPR &amp; Generative AI &#8211; A Guide for Customers. This guide is specifically tailored for customers subject to GDPR who want to understand and harness the full potential of Microsoft&#8217;s generative AI solutions and complements our earlier whitepaper specifically focusing on public sector customers, GDPR &amp; Generative AI &#8211; A Guide for the Public Sector&#160;
-&#160;
-Leading with Innovation, Compliance, and Trust&#160;
-At Microsoft, we're all about bringing you cutting-edge AI solutions while ensuring compli...</description>
-    </item>
+    <lastBuildDate>Tue, 04 Jun 2024 16:07:00 GMT</lastBuildDate>
   </channel>
 </rss>
