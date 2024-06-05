@@ -1,4 +1,3 @@
-2023-06-06T18:38:32 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/increasing-transparency-into-azure-active-directory-s-resilience/ba-p/2147047
 2023-06-06T22:55:47 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-defender-ti/ba-p/3841181
 2023-06-07T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-is-generally-available/ba-p/2466932
 2023-06-08T07:10:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/moving-cloud-pc-from-one-datacenter-region-to-another-summer/ba-p/3842630
