@@ -1,4 +1,3 @@
-2023-06-06T10:51:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-june-2023/ba-p/3840524
 2023-06-06T16:53:54 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/prevent-repeat-attacks-with-threat-informed-security-posture/ba-p/3824920
 2023-06-06T18:38:32 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/increasing-transparency-into-azure-active-directory-s-resilience/ba-p/2147047
 2023-06-06T22:55:47 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-defender-ti/ba-p/3841181
