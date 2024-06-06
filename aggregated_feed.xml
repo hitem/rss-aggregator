@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Jun 2024 16:07:04 GMT</lastBuildDate>
-    <item>
-      <title>Cloud security posture and contextualization across cloud boundaries from a single dashboard</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703</link>
-      <pubDate>Thu, 06 Jun 2024 15:52:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703</guid>
-      <description>Introduction:&#160;&#160;
-Have you ever found yourself in a situation where you wanted to prioritize the riskiest misconfigurations on cloud workloads across Azure, AWS, and GCP? Have you ever wondered how to implement a unified dashboard for cloud security posture across a multicloud environment? 
-&#160;
-This article covers how you can achieve these scenarios by using Defender Cloud Security Posture Management's (CSPM) native support for resources inside Azure, and resources in AWS and/or GCP. &#160;
-&#160;
-For more information about Defender for Cloud&#8217;s multicloud support you can start at https://learn.microsoft.com...</description>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 17:01:06 GMT</lastBuildDate>
   </channel>
 </rss>
