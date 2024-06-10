@@ -1,4 +1,3 @@
-2023-06-11T12:43:20 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-sentinel-solution-for-sap-btp/ba-p/3780794
 2023-06-12T10:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/avoiding-disk-export-and-vhd-download-in-azure/ba-p/3831294
 2023-06-12T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/detection-engineering-in-azure-amp-introducing-azdetectsuite/ba-p/3841351
 2023-06-12T16:21:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-monthly-security-summary-report-for-microsoft/ba-p/3840628
