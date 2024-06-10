@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jun 2024 06:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 07:01:23 GMT</lastBuildDate>
+    <item>
+      <title>Seamless Recovery: How to Automate Azure VM Evictions Start Ups with Azure Functions</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-recovery-how-to-automate-azure-vm-evictions-start-ups/ba-p/4147563</link>
+      <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-recovery-how-to-automate-azure-vm-evictions-start-ups/ba-p/4147563</guid>
+      <description>Introduction
+Azure has some incredible services that we can use for all business sizes and even budgets. One of these amazing services we find is a highly discounted virtual machine called a spot instance. A spot instance in essence is a special kind of Virtual Machine that can at any time be evicted when capacity is required for the standard or default Virtual Machines. Why would I want to run it then? Because it is super cheap! How cheap? In some cases, up to 90% Off.
+&#160;
+Here are a few key points to consider:
+
+Cost Savings: Spot VMs can provide discounts of up to 90% compared to regular prici...</description>
+    </item>
   </channel>
 </rss>

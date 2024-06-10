@@ -682,3 +682,4 @@
 2024-06-04T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-our-new-whitepaper-gdpr-amp-generative-ai-a-guide/ba-p/4158935
 2024-06-04T21:34:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2024/ba-p/4159552
 2024-06-06T15:52:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703
+2024-06-10T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-recovery-how-to-automate-azure-vm-evictions-start-ups/ba-p/4147563
