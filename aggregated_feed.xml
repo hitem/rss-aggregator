@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jun 2024 19:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 20:01:28 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud Apps&#8217; Shadow IT Discovery Capabilities Now Support MacOS</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677</link>
+      <pubDate>Mon, 10 Jun 2024 19:31:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677</guid>
+      <description>The rapid growth of SaaS apps makes it challenging to gain visibility across the apps used in an organization&#8217;s environment. SaaS apps are often used without the awareness of IT departments, a phenomenon known as Shadow IT. Moreover, the swift adoption of generative AI apps introduces an additional layer of security complexity and risks. Organizations need effective app security solutions more than ever to ensure that employees only access approved and safe apps.
+&#160;
+A key aspect of combating Shadow IT is ensuring comprehensive visibility into all the apps used in an organization&#8217;s environment, ...</description>
+    </item>
   </channel>
 </rss>
