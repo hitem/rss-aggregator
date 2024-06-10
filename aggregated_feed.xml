@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Jun 2024 15:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 16:07:46 GMT</lastBuildDate>
+    <item>
+      <title>NIST CSF 2.0 - Protect (PR) - Applications for Microsoft 365 (Part 1)</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/nist-csf-2-0-protect-pr-applications-for-microsoft-365-part-1/ba-p/4163650</link>
+      <pubDate>Mon, 10 Jun 2024 16:06:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/nist-csf-2-0-protect-pr-applications-for-microsoft-365-part-1/ba-p/4163650</guid>
+      <description>
+&#160;
+The National Institute of Standards and Technology (NIST) published the first version of its Cybersecurity Framework (CSF) in 2014. Ten years later NIST released the second iteration of CSF, entitled NIST CSF 2.0. Microsoft and its partners have supported organizations in implementing the original CSF guidance, going as far as building and enhancing an assessment in Microsoft Purview Compliance Manager since 2018. This blog and series will look to apply NIST CSF 2.0 to Microsoft 365 and discuss changes from the previous publication.
+&#160;
+It is somewhat improper to look at any particular CSF Fu...</description>
+    </item>
+    <item>
+      <title>SAP Identity Management to Microsoft Entra ID Migration Guidance Now Available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sap-identity-management-to-microsoft-entra-id-migration-guidance/ba-p/2520428</link>
+      <pubDate>Mon, 10 Jun 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sap-identity-management-to-microsoft-entra-id-migration-guidance/ba-p/2520428</guid>
+      <description>We&#8217;re excited to announce that guidance for SAP Identity Management (IDM) customers planning to migrate their identity management scenarios to Microsoft Entra is now available. In a&#160;previous post, we discussed SAP ending maintenance for their identity management solution (SAP IDM) by 2030.&#160;We've since begun jointly developing documentation to help customers plan a seamless migration to the recommended alternative&#8212;Microsoft Entra ID.&#160;For many customers, it may be possible to get started immediately, leveraging the subscriptions that they already own with Microsoft 365 suites. Microsoft 365 ente...</description>
+    </item>
   </channel>
 </rss>

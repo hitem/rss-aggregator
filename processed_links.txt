@@ -682,3 +682,5 @@
 2024-06-04T21:34:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2024/ba-p/4159552
 2024-06-06T15:52:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703
 2024-06-10T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-recovery-how-to-automate-azure-vm-evictions-start-ups/ba-p/4147563
+2024-06-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sap-identity-management-to-microsoft-entra-id-migration-guidance/ba-p/2520428
+2024-06-10T16:06:40 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/nist-csf-2-0-protect-pr-applications-for-microsoft-365-part-1/ba-p/4163650
