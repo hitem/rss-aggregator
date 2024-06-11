@@ -1,4 +1,3 @@
-2023-06-12T16:21:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-monthly-security-summary-report-for-microsoft/ba-p/3840628
 2023-06-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/share-your-feedback-on-microsoft-365-defender-via-the-new/ba-p/3845896
 2023-06-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/action-required-last-chance-to-migrate-adal-apps/ba-p/3830330
 2023-06-14T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-multicloud-assessments-in-compliance-manager/ba-p/3846685
@@ -683,3 +682,5 @@
 2024-06-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sap-identity-management-to-microsoft-entra-id-migration-guidance/ba-p/2520428
 2024-06-10T16:06:40 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/nist-csf-2-0-protect-pr-applications-for-microsoft-365-part-1/ba-p/4163650
 2024-06-10T19:31:50 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677
+2024-06-11T16:11:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-azure-waf-bot-manager1-1-ruleset/ba-p/4165296
+2024-06-11T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/effective-strategies-for-conducting-mass-password-resets-during/ba-p/4159408

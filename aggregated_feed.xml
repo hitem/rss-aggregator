@@ -3,6 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Jun 2024 16:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 17:00:42 GMT</lastBuildDate>
+    <item>
+      <title>Effective strategies for conducting Mass Password Resets during cybersecurity incidents</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/effective-strategies-for-conducting-mass-password-resets-during/ba-p/4159408</link>
+      <pubDate>Tue, 11 Jun 2024 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/effective-strategies-for-conducting-mass-password-resets-during/ba-p/4159408</guid>
+      <description>You're in the middle of a cyber incident, and you know certain accounts have been compromised, but you are not certain of the full extent of the Threat Actor&#8217;s impact. What do you do? Oftentimes, Microsoft Incident Response will recommend a mass password reset. This helps you regain control of your identity plane, deny other avenues of access, and disrupt any persistence the attacker may have established in your environment. However, and especially for larger organizations, navigating mass password resets can be a complex task. In this blog post, we'll discuss the practical challenges of perfo...</description>
+    </item>
+    <item>
+      <title>General availability of Azure WAF Bot Manager1.1 Ruleset</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-azure-waf-bot-manager1-1-ruleset/ba-p/4165296</link>
+      <pubDate>Tue, 11 Jun 2024 16:11:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-azure-waf-bot-manager1-1-ruleset/ba-p/4165296</guid>
+      <description>Today, we are launching the general availability of Bot Manager1.1 ruleset in Azure WAF integrated with Azure Front Door. 
+Bot Manager1.1 extends all the rules in the existing Bot Manager1.0 ruleset and adds multiple new rules to provide comprehensive bot management capabilities to web applications. The new capabilities introduced in this ruleset include new Goodbots rules and a new Badbots rule.
+&#160;
+The main value prop of the new ruleset is to reduce false positives in good bot detections and increase true positives in malicious bot detections.
+&#160;
+Benefits of the new rules in the Goodbots rule g...</description>
+    </item>
   </channel>
 </rss>
