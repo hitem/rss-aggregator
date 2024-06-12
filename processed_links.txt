@@ -684,3 +684,4 @@
 2024-06-10T19:31:50 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677
 2024-06-11T16:11:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-azure-waf-bot-manager1-1-ruleset/ba-p/4165296
 2024-06-11T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/effective-strategies-for-conducting-mass-password-resets-during/ba-p/4159408
+2024-06-12T14:06:33 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374

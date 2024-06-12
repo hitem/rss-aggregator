@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Jun 2024 14:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 15:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Debugging Playbooks</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374</link>
+      <pubDate>Wed, 12 Jun 2024 14:06:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374</guid>
+      <description>This article assumes knowledge of how to create Microsoft Sentinel Analytic Rules, Automation Rules, and playbooks.
+&#160;
+Create the playbook
+You will want to create the playbook first, since one will need to be created before it can be used in the Automation rule.&#160; &#160;In the example shown below, the playbook will iterate through all the alerts in the incident and generate a task based on information in that alert.
+
+Keep in mind that you will need to grant the Managed Identity access to the Microsoft Sentinel instance so that it can add the task to the incident.
+&#160;
+Create sample Analytic rule
+When yo...</description>
+    </item>
   </channel>
 </rss>
