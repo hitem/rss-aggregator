@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jun 2024 17:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 18:07:50 GMT</lastBuildDate>
+    <item>
+      <title>Detect suspicious processes running on hidden desktops</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322</link>
+      <pubDate>Thu, 13 Jun 2024 17:34:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322</guid>
+      <description>With ransomware campaigns continuing to grow, they remain top of mind for security leaders. Across these sophisticated cyberattacks, the use of remote desktop protocol (RDP) compromise has reached record levels, making it even more critical to provide analysts with full visibility into potentially malicious RDP session use. &#160;
+&#160;
+That&#8217;s why today we are excited to announce a new way to identify potentially compromised&#160;devices in your organization via the new &#8216;DesktopName&#8217; field in Defender for Endpoint, which enables analysts to easily detect, investigate, and hunt for suspicious interactive pro...</description>
+    </item>
   </channel>
 </rss>
