@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Jun 2024 19:00:46 GMT</lastBuildDate>
-    <item>
-      <title>A Closer Look at Azure WAF&#8217;s Data Masking Capabilities for Azure Front Door</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-closer-look-at-azure-waf-s-data-masking-capabilities-for-azure/ba-p/4167558</link>
-      <pubDate>Thu, 13 Jun 2024 18:17:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-closer-look-at-azure-waf-s-data-masking-capabilities-for-azure/ba-p/4167558</guid>
-      <description>The Azure Web Application Firewall (WAF) on Azure Front Door offers centralized protection for your web applications against vulnerabilities and threats. The effectiveness of your Azure WAF in managing traffic can be assessed through WAF logs stored in specified locations such as a Log Analytics Workspace or Storage Accounts. These logs document requests that have been either matched or blocked by WAF rules. This data is crucial for monitoring, auditing, and resolving issues. By default, WAF logs are maintained in a plain text format for user convenience and analysis. However, these client req...</description>
-    </item>
+    <lastBuildDate>Thu, 13 Jun 2024 20:01:07 GMT</lastBuildDate>
   </channel>
 </rss>
