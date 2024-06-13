@@ -680,3 +680,4 @@
 2024-06-11T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/effective-strategies-for-conducting-mass-password-resets-during/ba-p/4159408
 2024-06-12T14:06:33 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374
 2024-06-13T17:34:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322
+2024-06-13T18:17:43 https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-closer-look-at-azure-waf-s-data-masking-capabilities-for-azure/ba-p/4167558
