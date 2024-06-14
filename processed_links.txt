@@ -1,4 +1,3 @@
-2023-06-15T21:41:03 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-triage-assistant-stat/ba-p/3845846
 2023-06-19T19:05:38 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-structured-logs-and-single-click-upgrade/ba-p/3851418
 2023-06-19T19:59:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-basic-sku-is-now-available-in-public-preview/ba-p/3677670
 2023-06-20T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/live-series-6-27-amp-7-20-microsoft-entra-tech-accelerator/ba-p/2520433
