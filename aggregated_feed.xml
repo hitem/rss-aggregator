@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Jun 2024 14:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 15:00:53 GMT</lastBuildDate>
+    <item>
+      <title>Security review for Microsoft Edge version 126</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-126/ba-p/4168263</link>
+      <pubDate>Fri, 14 Jun 2024 14:22:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-126/ba-p/4168263</guid>
+      <description>We are pleased to announce the security review for Microsoft Edge, version 126!
+&#160;
+We have reviewed the new settings in Microsoft Edge version 126 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 117 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 126 introduced 2 new computer settings and 2 new user settings. We have included a spreadsheet listing the new settings in the release to make it easier for you to find them....</description>
+    </item>
   </channel>
 </rss>
