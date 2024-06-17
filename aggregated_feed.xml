@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Jun 2024 07:06:35 GMT</lastBuildDate>
-    <item>
-      <title>Dynamically Updating Azure IP Ranges with PowerShell and DevOps</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/dynamically-updating-azure-ip-ranges-with-powershell-and-devops/ba-p/4147565</link>
-      <pubDate>Mon, 17 Jun 2024 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/dynamically-updating-azure-ip-ranges-with-powershell-and-devops/ba-p/4147565</guid>
-      <description>Introduction
-Keeping your Azure IP ranges up-to-date is crucial for maintaining the security and efficiency of your cloud environment. This blog post will guide you through the process of dynamically updating your Azure IP ranges using the official Azure documentation, PowerShell scripts, and DevOps practices.
-Table of Contents
-
-Understanding Azure IP Ranges
-Official Azure Documentation
-Using PowerShell to Retrieve and Update IP Ranges
-Automating Updates with Azure DevOps
-Conclusion
-
-1. Understanding Azure IP Ranges
-Azure IP ranges are used to define the network boundaries for your services in...</description>
-    </item>
+    <lastBuildDate>Mon, 17 Jun 2024 08:09:08 GMT</lastBuildDate>
   </channel>
 </rss>
