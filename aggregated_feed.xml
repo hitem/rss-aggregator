@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Jun 2024 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 16:02:17 GMT</lastBuildDate>
+    <item>
+      <title>Simplifying Cloud Security with Azure Firewall Manager and Illumio</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/simplifying-cloud-security-with-azure-firewall-manager-and/ba-p/4157326</link>
+      <pubDate>Tue, 18 Jun 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/simplifying-cloud-security-with-azure-firewall-manager-and/ba-p/4157326</guid>
+      <description>Introduction
+In today&#8217;s dynamic and ever-evolving cloud environment, ensuring strong security measures is essential. This involves not only implementing the right tools, but also having effective processes in place to oversee and maintain these security measures. With Azure Firewall Manager, Microsoft offers a comprehensive and centralized platform to simplify the management of multiple firewalls at scale, addressing the challenges of managing security in a dynamic cloud landscape.
+&#160;
+Illumio for Microsoft Azure Firewall helps Azure Firewall customers enforce Zero Trust Segmentation and go beyo...</description>
+    </item>
+    <item>
+      <title>Host Microsoft Defender data locally in Switzerland</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/host-microsoft-defender-data-locally-in-switzerland/ba-p/4136166</link>
+      <pubDate>Tue, 18 Jun 2024 15:27:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/host-microsoft-defender-data-locally-in-switzerland/ba-p/4136166</guid>
+      <description>We are pleased to announce that local data residency support in Switzerland is now generally available for Microsoft Defender for Endpoint and Microsoft Defender for Identity. This announcement demonstrates our commitment to providing customers with the highest levels of security and compliance by offering services that are aligned to local data sovereignty requirements. Swiss customers can now confidently onboard to Defender for Endpoint and Defender for Identity in Switzerland, knowing that their data at rest will remain within Swiss boundaries, which ensures that customers in Switzerland ca...</description>
+    </item>
   </channel>
 </rss>
