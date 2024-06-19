@@ -25,3 +25,7 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/Mic
 4. Update the workflow:\
    Change the timer accordingly in ```rss_aggregator.yml```\
    The Cron job is the main one (how often it runs). But one more such setting is that links are only stored for 365 days under ```name: Update processed links file``` to prevent ```processed_links.txt``` to grow to big.
+5. Then you take the link to `aggregated_feed.xml` and paste it in to your RSS hook (and ingest frequenzy to match your cron configuration in `rss_aggregator.yml`) \
+Example from teams: \
+![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0)
+
