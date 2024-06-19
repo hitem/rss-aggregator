@@ -3,11 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Jun 2024 17:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:07:30 GMT</lastBuildDate>
     <item>
-      <title>Octo Tempest: Hybrid Identity Compromise Recovery</title>
+      <title>Microsoft Entra ID Governance licensing clarifications</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499</link>
+      <pubDate>Wed, 19 Jun 2024 17:38:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499</guid>
+      <description>In the past few weeks, we&#8217;ve announced the general availability of Microsoft Entra External ID and Microsoft Entra ID multi-tenant collaboration. We&#8217;ve received requests for more detail from some of you regarding licensing, so I&#8217;d like to provide additional clarity for both of these scenarios.
+&#160;
+One person, one license
+&#160;
+Included in the first announcement of more multi-tenant organization (MTO) features to enhance collaboration between users, we stated that only one Microsoft Entra ID P1 license is required per employee per multi-tenant organization. Expanding on that, the term &#8220;multi-tenant o...</description>
+    </item>
+    <item>
+      <title>Octo Tempest: Hybrid identity compromise recovery</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783</link>
-      <pubDate>Wed, 19 Jun 2024 16:30:00 GMT</pubDate>
+      <pubDate>Wed, 19 Jun 2024 17:09:15 GMT</pubDate>
       <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783</guid>
       <description>Have you ever gone toe to toe with the threat actor known as Octo Tempest? This increasingly aggressive threat actor group has evolved their targeting, outcomes, and monetization over the past two years to become a dominant force in the world of cybercrime. But what exactly defines this entity, and why should we proceed with caution when encountering them?
 &#160;

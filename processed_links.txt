@@ -677,4 +677,5 @@
 2024-06-14T14:22:36 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-126/ba-p/4168263
 2024-06-17T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/dynamically-updating-azure-ip-ranges-with-powershell-and-devops/ba-p/4147565
 2024-06-18T15:27:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/host-microsoft-defender-data-locally-in-switzerland/ba-p/4136166
-2024-06-18T16:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/simplifying-cloud-security-with-azure-firewall-manager-and/ba-p/4157326
+2024-06-18T16:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/simplifying-cloud-security-with-azure-firewall-manager-and/ba-p/41573262024-06-19T17:38:10 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499
+2024-06-19T17:09:15 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783
