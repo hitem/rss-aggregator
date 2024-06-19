@@ -29,10 +29,14 @@ rss_feed_urls = [
 
 # Set the output file name
 output_file = "aggregated_feed.xml"
+processed_links_file = "processed_links.txt"
 
 # Read previously processed links
-with open("processed_links.txt", "r") as f:
-    processed_links = set(line.split()[1] for line in f if line.strip())
+try:
+    with open(processed_links_file, "r") as f:
+        processed_links = set(line.split()[1] for line in f if line.strip())
+except FileNotFoundError:
+    processed_links = set()
 
 # Parse and aggregate the RSS feeds
 all_entries = []
@@ -43,7 +47,7 @@ for url in rss_feed_urls:
 # Remove duplicates based on the 'link' field and filter out already processed links
 unique_entries = [entry for entry in all_entries if entry.link not in processed_links]
 
-# Filter entries published within the last 60 days
+# Filter entries published within the last 2 hours
 time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
 recent_entries = [entry for entry in unique_entries if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z") >= time_threshold]
 
@@ -71,13 +75,12 @@ for entry in sorted_entries:
     limited_summary = summary_text[:600] + "..." if len(summary_text) > 350 else summary_text
     etree.SubElement(item, "description").text = limited_summary
 
-
 # Write the output to a file
 with open(output_file, "wb") as f:
     f.write(etree.tostring(root, pretty_print=True))
 
 # Update the processed links file with new links
-with open("processed_links.txt", "a") as f:
+with open(processed_links_file, "a") as f:
     for entry in recent_entries:
         timestamp = datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%dT%H:%M:%S")
         f.write(f"{timestamp} {entry.link}\n")
