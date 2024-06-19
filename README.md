@@ -29,3 +29,10 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/Mic
 Example from teams: \
 ![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0)
 
+### Current Behavior
+- **Script Execution:** Cronjob triggers the script every hour, the script then fetches and processes RSS feed entries from the last 2 hours.
+- **Link Processing:** It writes new links to `processed_links.txt` and skips links that are already in `processed_links.txt`.
+
+It is possible to change this behavior, but keep in mind: `time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)` should never exceed your cron: `'0 */1 * * *'`.
+Example: If you collect all the links for the last 30 days, the cron job should never exceed that time - if you do, you will start to get duplicate links.
+
