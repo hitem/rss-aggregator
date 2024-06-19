@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Jun 2024 19:01:14 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra ID Governance licensing clarifications</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499</link>
-      <pubDate>Wed, 19 Jun 2024 17:38:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499</guid>
-      <description>In the past few weeks, we&#8217;ve announced the general availability of Microsoft Entra External ID and Microsoft Entra ID multi-tenant collaboration. We&#8217;ve received requests for more detail from some of you regarding licensing, so I&#8217;d like to provide additional clarity for both of these scenarios.
-&#160;
-One person, one license
-&#160;
-Included in the first announcement of more multi-tenant organization (MTO) features to enhance collaboration between users, we stated that only one Microsoft Entra ID P1 license is required per employee per multi-tenant organization. Expanding on that, the term &#8220;multi-tenant o...</description>
-    </item>
+    <lastBuildDate>Wed, 19 Jun 2024 20:02:44 GMT</lastBuildDate>
   </channel>
 </rss>
