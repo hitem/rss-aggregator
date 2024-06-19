@@ -29,11 +29,11 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/Mic
 Example from teams: \
 ![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0)
 
-### Current Behavior
+# Current Behavior
 - **Script Execution:** The cron job triggers the script every hour. The script fetches and processes RSS feed entries from the last 2 hours.
 - **Link Processing:** The script writes new links to `processed_links.txt` and skips links that are already present in `processed_links.txt`.
 
-# Customizing Behavior
+## Customizing Behavior
 If you wish to change the time window for link collection, ensure that `time_threshold` does not exceed your cron job interval. For example:  
 - **Time Threshold Setting:** `time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)`  
 - **Cron Job Interval:** `'0 */1 * * *'`
