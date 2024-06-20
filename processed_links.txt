@@ -676,3 +676,4 @@
 2024-06-19T17:09:15 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783
 2024-06-19T17:38:10 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499
 2024-06-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-break-the-token-theft-cyber-attack-chain/ba-p/4062700
+2024-06-20T16:30:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/update-on-the-deprecation-of-admin-audit-log-cmdlets/ba-p/4172019
