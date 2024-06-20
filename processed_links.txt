@@ -1,4 +1,3 @@
-2023-06-21T16:07:03 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-azure-workbook-for-defender-cspm-visualization/ba-p/3853277
 2023-06-23T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-sms/ba-p/3845566
 2023-06-26T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-wmi/ba-p/3845598
 2023-06-26T15:12:37 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-web-application-firewall-bot-manager-scenarios/ba-p/3855731
@@ -676,3 +675,4 @@
 2024-06-18T16:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/simplifying-cloud-security-with-azure-firewall-manager-and/ba-p/41573262024-06-19T17:38:10 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499
 2024-06-19T17:09:15 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783
 2024-06-19T17:38:10 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499
+2024-06-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-break-the-token-theft-cyber-attack-chain/ba-p/4062700
