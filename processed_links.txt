@@ -677,3 +677,5 @@
 2024-06-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-break-the-token-theft-cyber-attack-chain/ba-p/4062700
 2024-06-20T16:30:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/update-on-the-deprecation-of-admin-audit-log-cmdlets/ba-p/4172019
 2024-06-24T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/simplifying-azure-diagnostics-with-category-groups-and-the-new/ba-p/4171800
+2024-06-24T21:36:45 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/copilot-for-security-ti-embedded-experience-in-defender-xdr-is/ba-p/4114858
+2024-06-24T21:52:03 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131

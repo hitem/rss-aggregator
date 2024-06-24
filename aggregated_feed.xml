@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Jun 2024 21:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 22:00:46 GMT</lastBuildDate>
+    <item>
+      <title>Get more device control flexibility with BitLocker settings in Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131</link>
+      <pubDate>Mon, 24 Jun 2024 21:52:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131</guid>
+      <description>With hybrid work here to stay and data-centric cyberattacks on the rise, safeguarding sensitive information is critical to every security strategy. While data loss prevention (DLP) is often considered for cloud storage locations, the management of removable storage devices such as USBs is equally important, to help ensure that data-at-rest is encrypted and integrity and confidentiality of sensitive information is maintained.
+&#160;
+We&#8217;re excited to announce that Defender for Endpoint device control support for BitLocker is now in public preview. This new feature provides security admins with more g...</description>
+    </item>
+    <item>
+      <title>Copilot for Security TI Embedded Experience in Defender XDR is now GA</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/copilot-for-security-ti-embedded-experience-in-defender-xdr-is/ba-p/4114858</link>
+      <pubDate>Mon, 24 Jun 2024 21:36:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/copilot-for-security-ti-embedded-experience-in-defender-xdr-is/ba-p/4114858</guid>
+      <description>The Microsoft Defender Threat Intelligence (MDTI) and Defender XDR teams are pleased to announce that the Copilot for Security threat intelligence embedded experience in the Defender XDR portal is now generally available. As of today, Defender XDR customers will see a handy AI-powered sidecar in the Threat Analytics, intel profiles, intel explorer, and intel projects tabs in the threat intelligence blade (in brackets below), which returns, contextualizes, and summarizes intelligence from across MDTI and Threat Analytics about threat actors, threat tooling, and indicators of compromise (IoCs) r...</description>
+    </item>
   </channel>
 </rss>
