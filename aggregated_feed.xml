@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Jun 2024 16:06:59 GMT</lastBuildDate>
-    <item>
-      <title>Simplifying Azure Diagnostics with Category Groups and the New Built-In Policies</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/simplifying-azure-diagnostics-with-category-groups-and-the-new/ba-p/4171800</link>
-      <pubDate>Mon, 24 Jun 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/simplifying-azure-diagnostics-with-category-groups-and-the-new/ba-p/4171800</guid>
-      <description>
-&#160;
-&#160;
-Heinrich and Luke (@Luke_Alderman) here to show you the exiting capabilities enabled by v2 of the unified diagnostics settings Policies. This enables managing diagnostics settings at enterprise scale
-History
-As many of you know, deploying diagnostics settings at scale was difficult. Jim Britt wrote a widely used script to automate the generation of Policies. I personally have written ~100 Policy definitions for our customers. Luke and others realized this and introduced the concept of categoryGroups &#8220;audit&#8221; and &#8220;allLogs&#8221; to diagnostics settings enabling a uniform approach to diagnostics s...</description>
-    </item>
+    <lastBuildDate>Mon, 24 Jun 2024 17:01:24 GMT</lastBuildDate>
   </channel>
 </rss>
