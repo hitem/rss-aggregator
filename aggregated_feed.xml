@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Jun 2024 15:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 16:00:55 GMT</lastBuildDate>
+    <item>
+      <title>User insights: Analyze customer identity data</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/user-insights-analyze-customer-identity-data/ba-p/3827373</link>
+      <pubDate>Tue, 25 Jun 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/user-insights-analyze-customer-identity-data/ba-p/3827373</guid>
+      <description>Today, we're excited to announce the general availability of user insights in Microsoft Entra External ID.
+&#160;
+User insights, which was launched in public preview in October 2023, is a powerful tool that enables admins and developers to gain deeper insights into their customers&#8217; behavior, preferences, and challenges. It provides key metrics such as monthly active users (MAU), daily active users (DAU), new users added, requests over time, authentications over time, multi-factor authentication (MFA) usage by type, and MFA success versus failure rates. You can also filter and segment the data by ti...</description>
+    </item>
   </channel>
 </rss>
