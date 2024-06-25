@@ -1,4 +1,3 @@
-2023-06-26T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-configuration-manager-automation-fundamentals-wmi/ba-p/3845598
 2023-06-26T15:12:37 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-web-application-firewall-bot-manager-scenarios/ba-p/3855731
 2023-06-26T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/is-that-microsoft-365-application-appropriate-for-storing/ba-p/3853806
 2023-06-27T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/locate-security-training-and-resources-with-ease-on-the-improved/ba-p/3854348
