@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Jun 2024 17:01:12 GMT</lastBuildDate>
-    <item>
-      <title>Architecting secure Generative AI applications: Safeguarding against indirect prompt injection</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-generative-ai-applications-safeguarding/ba-p/4174083</link>
-      <pubDate>Wed, 26 Jun 2024 16:51:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-generative-ai-applications-safeguarding/ba-p/4174083</guid>
-      <description>As developers, we must be vigilant about how attackers could misuse our applications. While maximizing the capabilities of Generative AI (Gen-AI) is desirable, it's essential to balance this with security measures to prevent abuse.
-&#160;
-In a previous blog post - https://techcommunity.microsoft.com/t5/security-compliance-and-identity/best-practices-to-architect-secure-generative-ai-applications/ba-p/4116661, I covered how a Gen AI application should use user identities for accessing sensitive data and performing sensitive operations. This practice reduces the risk of jailbreak and prompt injection...</description>
-    </item>
+    <lastBuildDate>Wed, 26 Jun 2024 18:07:50 GMT</lastBuildDate>
   </channel>
 </rss>
