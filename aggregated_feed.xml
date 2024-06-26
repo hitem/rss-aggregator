@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Jun 2024 11:00:50 GMT</lastBuildDate>
-    <item>
-      <title>What's New: Create your own codeless data connector</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-create-your-own-codeless-data-connector/ba-p/4174439</link>
-      <pubDate>Wed, 26 Jun 2024 10:22:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-create-your-own-codeless-data-connector/ba-p/4174439</guid>
-      <description>Today we're announcing the general availability of the Codeless Connectors Platform (CCP) in Microsoft Sentinel that provides partners, advanced users, and developers the ability to create custom connectors for ingesting data to Microsoft Sentinel.
-&#160;
-How is this CCP different from the previous version?
-The initial version of the CCP was announced in January of 2022. Since then, we've improved upon the platform and the legacy release&#160;is no longer recommended. This new version of the CCP has the following key improvements:
-
-
-Better support for various authentication and pagination types.
-
-
-Suppo...</description>
-    </item>
+    <lastBuildDate>Wed, 26 Jun 2024 12:11:57 GMT</lastBuildDate>
   </channel>
 </rss>
