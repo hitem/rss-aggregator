@@ -3,15 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Jun 2024 16:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 17:01:12 GMT</lastBuildDate>
     <item>
-      <title>Move to cloud authentication with the AD FS migration tool!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/move-to-cloud-authentication-with-the-ad-fs-migration-tool/ba-p/4174841</link>
-      <pubDate>Wed, 26 Jun 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/move-to-cloud-authentication-with-the-ad-fs-migration-tool/ba-p/4174841</guid>
-      <description>We&#8217;re excited to announce that the migration tool for Active Directory Federation Service (AD FS) customers to move their apps to Microsoft Entra ID is now generally available! Customers can begin updating their identity management with more extensive monitoring and security infrastructure by quickly identifying which applications are capable of being migrated and assessing all their AD FS applications for compatibility.&#160;
+      <title>Architecting secure Generative AI applications: Safeguarding against indirect prompt injection</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-generative-ai-applications-safeguarding/ba-p/4174083</link>
+      <pubDate>Wed, 26 Jun 2024 16:51:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-generative-ai-applications-safeguarding/ba-p/4174083</guid>
+      <description>As developers, we must be vigilant about how attackers could misuse our applications. While maximizing the capabilities of Generative AI (Gen-AI) is desirable, it's essential to balance this with security measures to prevent abuse.
 &#160;
-In November we announced AD FS Application Migration would be moving to public preview, and the response from our partners and customers has been overwhelmingly positive. F...</description>
+In a previous blog post - https://techcommunity.microsoft.com/t5/security-compliance-and-identity/best-practices-to-architect-secure-generative-ai-applications/ba-p/4116661, I covered how a Gen AI application should use user identities for accessing sensitive data and performing sensitive operations. This practice reduces the risk of jailbreak and prompt injection...</description>
     </item>
   </channel>
 </rss>
