@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Jun 2024 16:07:13 GMT</lastBuildDate>
-    <item>
-      <title>Evolve your CIAM strategy with External ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolve-your-ciam-strategy-with-external-id/ba-p/3627348</link>
-      <pubDate>Thu, 27 Jun 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolve-your-ciam-strategy-with-external-id/ba-p/3627348</guid>
-      <description>Last month we announced the general availability of our next generation customer identity and access management solution, Microsoft Entra External ID. External ID makes Customer Identity &amp; Access Management (CIAM) secure and simple by enabling you to: &#160;
-&#160;
-
-Secure all external identities: Managing several disparate solutions can overcomplicate your security strategy. By adopting External ID as your CIAM solution, you can secure all identity types within your Microsoft Entra admin center, safeguarding all external identities with industry-leading security, including our own conditional access en...</description>
-    </item>
-    <item>
-      <title>Introducing the Microsoft Entra PowerShell module</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-the-microsoft-entra-powershell-module/ba-p/4173546</link>
-      <pubDate>Thu, 27 Jun 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-the-microsoft-entra-powershell-module/ba-p/4173546</guid>
-      <description>We&#8217;re thrilled to announce the public preview of the Microsoft Entra PowerShell module, a new high-quality and scenario-focused PowerShell module designed to streamline management and automation for the Microsoft Entra product family. In 2021, we announced that all our future PowerShell investments would be in the Microsoft Graph PowerShell SDK. Today, we&#8217;re launching the next major step on this journey. The Microsoft Entra PowerShell module (Microsoft.Graph.Entra) is a part of our ongoing commitment and increased investment in Microsoft Graph PowerShell SDK to improve your experience and empo...</description>
-    </item>
+    <lastBuildDate>Thu, 27 Jun 2024 17:01:35 GMT</lastBuildDate>
   </channel>
 </rss>
