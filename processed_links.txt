@@ -681,3 +681,5 @@
 2024-06-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolve-your-ciam-strategy-with-external-id/ba-p/3627348
 2024-06-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-the-microsoft-entra-powershell-module/ba-p/4173546
 2024-06-27T19:19:07 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-introducing-new-version-of-self-hosted-integration/ba-p/4176662
+2024-06-27T20:07:33 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/more-threat-intelligence-content-in-mdti-ta-enables-better/ba-p/4177542
+2024-06-27T20:25:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-on-mfa-requirements-for-azure-sign-in/ba-p/4177584
