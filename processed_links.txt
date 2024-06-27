@@ -677,3 +677,4 @@
 2024-06-26T10:22:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-create-your-own-codeless-data-connector/ba-p/4174439
 2024-06-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/move-to-cloud-authentication-with-the-ad-fs-migration-tool/ba-p/4174841
 2024-06-26T16:51:17 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-generative-ai-applications-safeguarding/ba-p/4174083
+2024-06-27T10:04:38 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966
