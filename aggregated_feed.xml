@@ -3,30 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Jun 2024 21:00:46 GMT</lastBuildDate>
-    <item>
-      <title>Update on MFA requirements for Azure sign-in</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-on-mfa-requirements-for-azure-sign-in/ba-p/4177584</link>
-      <pubDate>Thu, 27 Jun 2024 20:25:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-on-mfa-requirements-for-azure-sign-in/ba-p/4177584</guid>
-      <description>We would like to share an update on the announcement that Microsoft will require multi-factor authentication (MFA) for users signing into Azure. In this post, we share clarifications on the scope, timing and implementation details, along with guidance for preparation.
-&#160;
-Timing
-&#160;
-Enforcement for the MFA requirement at Azure sign-in will be rolled out in phases:
-&#160;
-Phase 1: Starting in July 2024, enforcement for MFA at sign-in for Azure portal only will roll out gradually to all tenants. This phase will not impact any other Azure clients, such as Azure CLI, Azure PowerShell and IaC tools.
-&#160;
-Phase...</description>
-    </item>
-    <item>
-      <title>More Threat Intelligence Content in MDTI, TA Enables Better Security Outcomes</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/more-threat-intelligence-content-in-mdti-ta-enables-better/ba-p/4177542</link>
-      <pubDate>Thu, 27 Jun 2024 20:07:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/more-threat-intelligence-content-in-mdti-ta-enables-better/ba-p/4177542</guid>
-      <description>Microsoft threat intelligence empowers our customers to keep up with the global threat landscape and understand the threats and vulnerabilities most relevant to their organization. We are excited to announce that we have recently accelerated the speed and scale at which we publish threat intelligence, giving our customers more critical security insights, data, and guidance than ever before.&#160;
-&#160;
-This blog will show how our 10,000 interdisciplinary experts and applied scientists reason over more than 78 trillion daily threat signals to continuously add to our understanding of threat actors and ac...</description>
-    </item>
+    <lastBuildDate>Thu, 27 Jun 2024 22:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
