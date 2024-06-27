@@ -680,3 +680,4 @@
 2024-06-27T10:04:38 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966
 2024-06-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolve-your-ciam-strategy-with-external-id/ba-p/3627348
 2024-06-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-the-microsoft-entra-powershell-module/ba-p/4173546
+2024-06-27T19:19:07 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-introducing-new-version-of-self-hosted-integration/ba-p/4176662

@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Jun 2024 19:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 20:02:26 GMT</lastBuildDate>
+    <item>
+      <title>(Preview) Introducing new version of Self-Hosted Integration Runtime (SHIR) that is Kubernetes-based</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-introducing-new-version-of-self-hosted-integration/ba-p/4176662</link>
+      <pubDate>Thu, 27 Jun 2024 19:19:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-introducing-new-version-of-self-hosted-integration/ba-p/4176662</guid>
+      <description>We heard your growing demand and feedback for this solution, and we&#8217;re excited to announce the new version of Self Hosted Integration Runtime that is Kubernetes-based for Linux is now available in public preview.
+&#160;
+We have improved the underlying infrastructure for Self Hosted Integration Runtime to provide several benefits:
+
+Scalability: Ability to scale to hundreds of machines.
+Performance: Improved performance in scanning workloads.
+Security&#160;(containerized): Ability to have containerized security on a Kubernetes cluster, instead of hosting SHIR on a Windows machine directly
+
+&#160;
+
+&#160;
+At a high-...</description>
+    </item>
   </channel>
 </rss>
