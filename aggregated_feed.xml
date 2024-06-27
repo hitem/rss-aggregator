@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Jun 2024 11:00:53 GMT</lastBuildDate>
-    <item>
-      <title>Introducing SOC Optimization API</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966</link>
-      <pubDate>Thu, 27 Jun 2024 10:04:38 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966</guid>
-      <description>SOC optimization is a new feature designed to combine the power of out of the box content with the flexibility of the SIEM to help you optimize your SOC processes and coverage to your organization&#8217;s specific needs, priorities, threats and environment. The first phase of this new feature helps you gain deep insights into your data usage patterns and coverage gaps against specific threats. It provides actionable recommendations to tighten your ingestion rates for data that doesn't provide security value, leverage correctly the data the does and improve your current coverage based on the threat l...</description>
-    </item>
+    <lastBuildDate>Thu, 27 Jun 2024 12:10:50 GMT</lastBuildDate>
   </channel>
 </rss>
