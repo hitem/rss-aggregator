@@ -1,4 +1,3 @@
-2023-06-29T14:28:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/sans-training-content-now-available-within-attack-simulation/ba-p/3827366
 2023-06-29T16:22:45 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-papercut-vulnerability-with-azure-firewall/ba-p/3859945
 2023-06-29T16:24:58 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuous-export-as-trusted-service-to-event-hub/ba-p/3859983
 2023-06-29T17:35:57 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-app-health-recommendations-in-microsoft-entra-workload/ba-p/2959984
