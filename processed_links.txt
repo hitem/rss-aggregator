@@ -1,4 +1,3 @@
-2023-06-30T13:21:45 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-july-2023/ba-p/3860740
 2023-06-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-new-feature-and-change-announcements/ba-p/3796396
 2023-06-30T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-in-preview-export-your-business-assets-from-microsoft/ba-p/3859055
 2023-07-03T13:46:44 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-july-2023/ba-p/3861124
