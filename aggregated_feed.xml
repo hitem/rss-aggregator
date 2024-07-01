@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Jul 2024 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 22:01:44 GMT</lastBuildDate>
+    <item>
+      <title>Using Cribl Stream to ingest logs into Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-cribl-stream-to-ingest-logs-into-microsoft-sentinel/ba-p/4179790</link>
+      <pubDate>Mon, 01 Jul 2024 21:52:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-cribl-stream-to-ingest-logs-into-microsoft-sentinel/ba-p/4179790</guid>
+      <description>&#160;
+I would like to thank Javier Soriano,&#160;Eric Burkholder&#160;and Maria de Sousa-Valadas for helping out on this blog post. On 06 May 2024 it was announced by Microsoft here and by Cribl here that together, Microsoft and Cribl are working to drive accelerated SIEM migrations for customers looking to modernize their security operations (SecOps) with Microsoft Sentinel.
+&#160;
+As quoted:
+&#8220;By combining Cribl&#8217;s leading data management technology with Microsoft Sentinel&#8217;s next generation SecOps SIEM solution, we are collectively helping customers transform and secure their businesses,&#8221; said Vlad Melnik, vice ...</description>
+    </item>
   </channel>
 </rss>
