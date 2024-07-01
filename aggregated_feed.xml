@@ -3,62 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Jul 2024 12:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 13:11:04 GMT</lastBuildDate>
     <item>
-      <title>Monthly news - July 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2024/ba-p/4179987</link>
-      <pubDate>Mon, 01 Jul 2024 12:11:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2024/ba-p/4179987</guid>
-      <description>
-
-
-
-Microsoft Defender XDRMonthly newsJuly 2024 Edition
-
-
-
-
-
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from June&#160;2024.&#160; Defender for Cloud has it's own Monthly News post, have a look at their blog space.
-
-
-
-
-
-
-
-Legend:
-
-
-
-Product videos
-
-Webcast (recordings)
-
-Docs on Microsoft
-
-Blogs on Microsoft
-
-
-
-GitHub
-
-External
-
-Improvements
-
-Previews / Announcements
-
-
-
-
-
-
-
-
-
-
-Unified Security Operations Platform:&#160;Microsoft Defender XDR &amp; Mi...</description>
+      <title>Introduction to Network Trace Analysis 5: SMB? Sounds good to me!</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-5-smb-sounds-good-to-me/ba-p/4180024</link>
+      <pubDate>Mon, 01 Jul 2024 12:53:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-5-smb-sounds-good-to-me/ba-p/4180024</guid>
+      <description>Howdy everyone, it&#8217;s your favorite Software Engineer, Will, back again talking about the Server Message Block (SMB) protocol!
+&#160;
+ Why talk about SMB?  &#160;
+Let's start off with the question, what is this whole SMB thing anyway? SMB is a network file system protocol. This means that it can allow Machine A to read and write files on Machine B. This protocol serves as the backbone of much of the Enterprise Windows Ecosystem. For example, did you know that the group policy SYSVOL is an SMB share? Pretty cool right? &#160;
+In recent history, there have been&#8239;  tons  &#8239;of improvements to SMB. For the sake of u...</description>
     </item>
   </channel>
 </rss>
