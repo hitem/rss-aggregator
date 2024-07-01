@@ -673,3 +673,4 @@
 2024-06-27T20:25:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-on-mfa-requirements-for-azure-sign-in/ba-p/4177584
 2024-07-01T12:11:40 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2024/ba-p/4179987
 2024-07-01T12:53:58 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-5-smb-sounds-good-to-me/ba-p/4180024
+2024-07-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/june-2024-update-on-azure-ad-graph-api-retirement/ba-p/4094534

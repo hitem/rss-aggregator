@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Jul 2024 15:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 16:00:46 GMT</lastBuildDate>
+    <item>
+      <title>June 2024 update on Azure AD Graph API retirement</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/june-2024-update-on-azure-ad-graph-api-retirement/ba-p/4094534</link>
+      <pubDate>Mon, 01 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/june-2024-update-on-azure-ad-graph-api-retirement/ba-p/4094534</guid>
+      <description>One year ago, we shared an update on the completion of a three-year notice period for the deprecation of the Azure AD Graph API service. This service is now in the retirement cycle and retirement (shut down) will occur in incremental stages. In the first stage of this retirement cycle, newly created applications will receive an error (HTTP 403) for any requests to Azure AD Graph APIs. We&#8217;re revising the date for this first stage from June 30 to August 31, and only applications created after August 31, 2024 will be impacted. After January 31, 2025, all applications &#8211; both new and existing &#8211; wil...</description>
+    </item>
   </channel>
 </rss>
