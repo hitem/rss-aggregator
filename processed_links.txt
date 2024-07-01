@@ -671,3 +671,4 @@
 2024-06-27T19:19:07 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-introducing-new-version-of-self-hosted-integration/ba-p/4176662
 2024-06-27T20:07:33 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/more-threat-intelligence-content-in-mdti-ta-enables-better/ba-p/4177542
 2024-06-27T20:25:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-on-mfa-requirements-for-azure-sign-in/ba-p/4177584
+2024-07-01T12:11:40 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2024/ba-p/4179987
