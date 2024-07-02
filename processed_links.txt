@@ -1,4 +1,3 @@
-2023-07-03T16:52:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/immutable-blobs-inside-azure-storage-worm/ba-p/3843611
 2023-07-04T16:55:05 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/leveraging-the-convergence-of-microsoft-defender-for-identity-in/ba-p/3856321
 2023-07-05T06:28:02 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/may-2023-cumulative-update-explained/ba-p/3865541
 2023-07-05T10:07:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/correlating-alerts-in-microsoft-defender-for-cloud/ba-p/3839209
