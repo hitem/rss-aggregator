@@ -675,3 +675,4 @@
 2024-07-01T17:16:16 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-june-2024/ba-p/3796387
 2024-07-01T21:52:19 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-cribl-stream-to-ingest-logs-into-microsoft-sentinel/ba-p/4179790
 2024-07-03T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-july-2024/ba-p/4180311
+2024-07-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-certificate-based-authentication-enhancements/ba-p/1751778
