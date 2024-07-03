@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Jul 2024 16:07:48 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra certificate-based authentication enhancements</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-certificate-based-authentication-enhancements/ba-p/1751778</link>
-      <pubDate>Wed, 03 Jul 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-certificate-based-authentication-enhancements/ba-p/1751778</guid>
-      <description>Howdy, folks! Today I'm excited to share the latest enhancements for Microsoft Entra certificate-based authentication (CBA).&#160;CBA is a phishing-resistant, password less, and convenient way to authenticate users with X.509 certificates, such as PIV/CAC cards, without relying on on-premises federation infrastructure, such as Active Directory Federated Service (AD FS). CBA is particularly critical for federal government organizations that are already using PIV/CAC cards and are looking to comply with Executive Order 14028, which requires phishing-resistant authentication.&#8239;
-&#160;
-Today we're announcing...</description>
-    </item>
+    <lastBuildDate>Wed, 03 Jul 2024 17:00:42 GMT</lastBuildDate>
   </channel>
 </rss>
