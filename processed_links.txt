@@ -1,4 +1,3 @@
-2023-07-06T13:05:10 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-threats-on-your-power-platform-based-no-code-low-code/ba-p/3867162
 2023-07-06T14:49:40 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-solution-for-dynamics-365-finance/ba-p/3856210
 2023-07-06T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641
 2023-07-06T16:15:05 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grant-users-access-to-data-assets-in-your-enterprise-through-the/ba-p/3861160
