@@ -1,4 +1,3 @@
-2023-07-08T17:37:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2023/ba-p/3869057
 2023-07-10T07:52:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/exploring-azure-firewall-s-threat-protection/ba-p/3869571
 2023-07-10T10:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-exemption-validation/ba-p/3859133
 2023-07-10T14:43:24 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-content-hub-ga-and-ootb-content/ba-p/3854807
