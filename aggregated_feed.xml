@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Jul 2024 21:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 22:01:12 GMT</lastBuildDate>
+    <item>
+      <title>Guidance for handling &#8220;regreSSHion&#8221; (CVE-2024-6387) using Microsoft Security capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-regresshion-cve-2024-6387-using-microsoft/ba-p/4185940</link>
+      <pubDate>Mon, 08 Jul 2024 21:11:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-regresshion-cve-2024-6387-using-microsoft/ba-p/4185940</guid>
+      <description>Investigating and assessing vulnerabilities within the software inventory is crucial, especially in light of high-severity vulnerabilities like the recent OpenSSH regreSSHion vulnerability. Such security risks are becoming increasingly common, often exploiting software dependencies and third-party services. The notoriety of incidents like the TeamViewer breach and the XZ Utils backdoor underscores the urgency for comprehensive vulnerability management and strategies to minimize the attack surface. In this blog post, we delve into the methodology for probing such incidents. We will demonstrate ...</description>
+    </item>
   </channel>
 </rss>
