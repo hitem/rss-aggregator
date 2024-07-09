@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Jul 2024 03:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 04:07:55 GMT</lastBuildDate>
+    <item>
+      <title>Workspace &amp; DCR Transformation Simplified</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/workspace-amp-dcr-transformation-simplified/ba-p/4186196</link>
+      <pubDate>Tue, 09 Jul 2024 03:54:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/workspace-amp-dcr-transformation-simplified/ba-p/4186196</guid>
+      <description>&#160;
+In this blog, I&#8217;m going to focus on a common yet very important use case: transformation (workspace and DCR) transformation.
+With transformations in Azure Monitor, you can filter or modify incoming data before it's sent to a Log Analytics workspace. Transformations are performed in Azure Monitor in the data ingestion pipeline after the data source delivers the data and before it's sent to the destination. The data source might perform its own filtering before sending data but then rely on the transformation for further manipulation before it's sent to the destination.
+The following diagram i...</description>
+    </item>
   </channel>
 </rss>

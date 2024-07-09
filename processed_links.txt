@@ -667,3 +667,4 @@
 2024-07-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-certificate-based-authentication-enhancements/ba-p/1751778
 2024-07-03T18:18:38 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-waf-rest-api-for-application-gateway/ba-p/4182475
 2024-07-08T21:11:32 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-regresshion-cve-2024-6387-using-microsoft/ba-p/4185940
+2024-07-09T03:54:29 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/workspace-amp-dcr-transformation-simplified/ba-p/4186196
