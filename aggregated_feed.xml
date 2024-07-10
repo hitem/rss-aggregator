@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Jul 2024 18:01:32 GMT</lastBuildDate>
-    <item>
-      <title>Leveraging insider risk visibility to strengthen your data security</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-insider-risk-visibility-to-strengthen-your-data/ba-p/4186965</link>
-      <pubDate>Wed, 10 Jul 2024 17:09:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-insider-risk-visibility-to-strengthen-your-data/ba-p/4186965</guid>
-      <description>Recent research reveals that insider risks are surging more each day. Over the past year, an alarming 63%[1] of data breaches were traced back to insiders, whether through inadvertent errors or malicious intent. These internal threats call for innovative solutions that can dynamically adapt to data security risks, instead of the widely available fragmented and one-size-fits-all solutions, where rigid controls can stymie legitimate business activities and lenient policies might leave the door open to data loss.
-&#160;
-Striking the right balance between productivity and data security is critical, and...</description>
-    </item>
+    <lastBuildDate>Wed, 10 Jul 2024 19:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
