@@ -1,7 +1,3 @@
-2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-is-becoming-microsoft-entra-id/ba-p/2520436
-2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/explore-new-product-announcements-for-microsoft-entra/ba-p/2520435
-2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-expands-into-security-service-edge-with-two-new/ba-p/3847829
-2023-07-11T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-new-innovations-in-microsoft-entra/ba-p/3852424
 2023-07-12T12:58:17 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-recommendations-now-help-you-identify-adal-apps-to/ba-p/3830330
 2023-07-12T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-restricted-management-administrative-units-in/ba-p/3867839
 2023-07-12T19:06:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-premium-idps-functionality/ba-p/3872706
