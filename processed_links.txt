@@ -658,3 +658,4 @@
 2024-07-09T03:54:29 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/workspace-amp-dcr-transformation-simplified/ba-p/4186196
 2024-07-10T17:09:04 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-insider-risk-visibility-to-strengthen-your-data/ba-p/4186965
 2024-07-10T19:14:35 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-public-preview-javascript-challenge/ba-p/4188302
+2024-07-11T02:59:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-virtualization-migration-options/ba-p/4188590
