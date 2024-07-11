@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Jul 2024 08:08:29 GMT</lastBuildDate>
-    <item>
-      <title>What's new: Run playbooks on incidents on-demand going GA in unified platform</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-incidents-on-demand-going-ga-in/ba-p/4188713</link>
-      <pubDate>Thu, 11 Jul 2024 08:03:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-incidents-on-demand-going-ga-in/ba-p/4188713</guid>
-      <description>Automation is a key facilitator for a SOC&#8217;s ability to save time and let the team focus on what matters most. We are happy to announce that the ability to run a playbook on incidents on demand is now hitting GA!
-Run playbooks as part of incident investigation and response
-Automation rules are incredibly useful for addressing tasks after an incident has been created. This can include identifying and closing false positives to reduce the noise of an incident queue, enriching an incident with threat intelligence, orchestrating the response to an incident across teams or taking quick action to mit...</description>
-    </item>
+    <lastBuildDate>Thu, 11 Jul 2024 09:00:47 GMT</lastBuildDate>
   </channel>
 </rss>
