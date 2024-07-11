@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Jul 2024 03:09:27 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Virtualization Migration Options</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-virtualization-migration-options/ba-p/4188590</link>
-      <pubDate>Thu, 11 Jul 2024 02:59:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-virtualization-migration-options/ba-p/4188590</guid>
-      <description>&#160;
-Happy July everyone! Brandon Wilson here today to talk to you a bit about virtualization migration options, and the recent change in landscape for it&#8230;
-&#160;
-First, let me say that this is not intended to be a deep-dive into technical aspects of the migration process, but rather a high level of how we can assist you, and what products you may want to migrate to, and why&#8230; (I will hold the door open for potential more in-depth technical articles). So, let's get started!
-&#160;
-What we are seeing in the field, is a change in landscape that is bringing Hyper-V, Azure Stack HCI, Azure virtual machines, Sys...</description>
-    </item>
+    <lastBuildDate>Thu, 11 Jul 2024 04:08:22 GMT</lastBuildDate>
   </channel>
 </rss>
