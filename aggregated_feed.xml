@@ -3,6 +3,52 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Jul 2024 15:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 16:07:12 GMT</lastBuildDate>
+    <item>
+      <title>Unified Security Operations Platform - Technical FAQ!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136</link>
+      <pubDate>Thu, 11 Jul 2024 16:03:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136</guid>
+      <description>Introduction
+&#160;
+If you are a security practitioner who uses Microsoft Sentinel and Microsoft Defender XDR in your daily workflows, and you have tried or are evaluating the unified security operations platform for your SOC &#8211; this blog is for you. With Microsoft Sentinel now Generally Available in the Microsoft Defender portal, as part of our unified security operations platform, it&#8217;s a great time to try and get started with a streamlined experience for the two products.
+&#160;
+In this blog, we aim to dive into some of the most common questions and share best practices to expedite resolution, bring mo...</description>
+    </item>
+    <item>
+      <title>(Preview) Dynamic watermarking for sensitivity labels in Word, Excel, and PowerPoint</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-for-sensitivity-labels-in-word/ba-p/4185842</link>
+      <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-for-sensitivity-labels-in-word/ba-p/4185842</guid>
+      <description>Sensitivity labels from Microsoft Purview Information Protection offer highly effective controls to limit access to sensitive files and to prevent users from taking inappropriate actions such as printing a document, while still allowing unhindered collaboration. However, it&#8217;s still possible for users to take pictures of sensitive information on their screen or of a presentation being shared either online or in-person, and some forms of screen-shotting cannot be blocked with existing technology. This loophole presents an easy way to bypass protections that sensitivity labels enforce on a docume...</description>
+    </item>
+    <item>
+      <title>Dynamic watermarking hits the mark in protecting highly sensitive data</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/dynamic-watermarking-hits-the-mark-in-protecting-highly/ba-p/4182793</link>
+      <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/dynamic-watermarking-hits-the-mark-in-protecting-highly/ba-p/4182793</guid>
+      <description>In most organizations teams collaborate and handle sensitive and business critical information, such as documents that contain blueprints, entertainment artwork, classified government secrets or strategic alliances. It&#8217;s important to protect this high-business value corporate intellectual property at all times to deter data exfiltration. Clear labeling and protection (encryption) of confidential files helps communicate the importance and sensitivity of an item and protects against exfiltration to unauthorized users, as well as can prevent copy and paste, forward or print actions.
+&#160;
+However, th...</description>
+    </item>
+    <item>
+      <title>Microsoft Entra Suite now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-suite-now-generally-available/ba-p/2520427</link>
+      <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-suite-now-generally-available/ba-p/2520427</guid>
+      <description>Today we announced the general availability of Microsoft Entra Suite - the industry&#8217;s most comprehensive secure access solution for the workforce. The Microsoft Entra Suite delivers the most comprehensive Zero Trust user access solution and enables organizations to converge access policy engine across identities, endpoints, and private and public networks.&#160;&#160;
+&#160;
+What is Microsoft Entra Suite?&#160;
+The Microsoft Entra Suite delivers a complete cloud-based solution for workforce access. It brings together identity and network access that secures employee access to any cloud or on-premises application ...</description>
+    </item>
+    <item>
+      <title>Microsoft Security Service Edge now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-service-edge-now-generally-available/ba-p/3847828</link>
+      <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-service-edge-now-generally-available/ba-p/3847828</guid>
+      <description>Today, we announced the general availability of the Microsoft Entra Suite which brings together identity and network access controls to secure access to any cloud or on-premises application or resource from any location. It consistently enforces least privilege access to achieve your governance requirements while improving your employee experience.
+&#160;
+Companies today have good reason to focus on security. On one hand, we&#8217;re reaping the advantages of increased scalability, efficiency, and cost reductions, including all the benefits gained from generative AI&#8217;s large language models. However, thes...</description>
+    </item>
   </channel>
 </rss>

@@ -1,4 +1,3 @@
-2023-07-12T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-restricted-management-administrative-units-in/ba-p/3867839
 2023-07-12T19:06:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-premium-idps-functionality/ba-p/3872706
 2023-07-12T21:47:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/taking-azure-firewall-idps-on-a-test-drive/ba-p/3872706
 2023-07-13T13:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646
@@ -659,3 +658,8 @@
 2024-07-10T19:14:35 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-public-preview-javascript-challenge/ba-p/4188302
 2024-07-11T02:59:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-virtualization-migration-options/ba-p/4188590
 2024-07-11T08:03:46 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-incidents-on-demand-going-ga-in/ba-p/4188713
+2024-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-suite-now-generally-available/ba-p/2520427
+2024-07-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-service-edge-now-generally-available/ba-p/3847828
+2024-07-11T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/dynamic-watermarking-hits-the-mark-in-protecting-highly/ba-p/4182793
+2024-07-11T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-for-sensitivity-labels-in-word/ba-p/4185842
+2024-07-11T16:03:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136
