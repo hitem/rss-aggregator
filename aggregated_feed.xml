@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 12 Jul 2024 12:11:47 GMT</lastBuildDate>
-    <item>
-      <title>Govern your Azure Firewall configuration with Azure Policies</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/govern-your-azure-firewall-configuration-with-azure-policies/ba-p/4189902</link>
-      <pubDate>Fri, 12 Jul 2024 11:31:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/govern-your-azure-firewall-configuration-with-azure-policies/ba-p/4189902</guid>
-      <description>Introduction:&#160;
-In the rapidly evolving digital landscape, securing cloud environments is more critical than ever. Azure Firewall emerges as a pivotal defense mechanism, offering stateful, cloud-native, and intelligent network firewall security services. It's designed to protect Azure Virtual Network resources and maintain the integrity of cloud workloads. With its high availability and unrestricted cloud scalability, Azure Firewall ensures robust protection against a myriad of cyber threats.&#160;
-However, the true strength of Azure Firewall lies not only in its protective capabilities but also in ...</description>
-    </item>
+    <lastBuildDate>Fri, 12 Jul 2024 13:09:33 GMT</lastBuildDate>
   </channel>
 </rss>
