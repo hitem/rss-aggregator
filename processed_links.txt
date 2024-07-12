@@ -661,3 +661,4 @@
 2024-07-11T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/dynamic-watermarking-hits-the-mark-in-protecting-highly/ba-p/4182793
 2024-07-11T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-for-sensitivity-labels-in-word/ba-p/4185842
 2024-07-11T16:03:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136
+2024-07-12T11:31:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/govern-your-azure-firewall-configuration-with-azure-policies/ba-p/4189902
