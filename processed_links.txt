@@ -658,3 +658,4 @@
 2024-07-11T16:03:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136
 2024-07-12T11:31:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/govern-your-azure-firewall-configuration-with-azure-policies/ba-p/4189902
 2024-07-13T18:18:16 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2024/ba-p/4190746
+2024-07-15T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-stop-log-based-alerts-for-specific/ba-p/4189893
