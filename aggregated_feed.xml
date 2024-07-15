@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Jul 2024 07:06:46 GMT</lastBuildDate>
-    <item>
-      <title>Azure Monitor: How To Stop Log-Based Alerts for Specific Resources</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-stop-log-based-alerts-for-specific/ba-p/4189893</link>
-      <pubDate>Mon, 15 Jul 2024 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-stop-log-based-alerts-for-specific/ba-p/4189893</guid>
-      <description>Hello howdie readers&#160;
-How many times, while dealing with alerting configured at scale, you had the need of stopping the alerts for few resources or even for only one?
-&#160;
-
-&#160;
-Creating alerts that work at scale, meaning alerts created with a wide scope (all virtual machine in a given subscription) gives you a hug advantage on alert management, but it also comes with some cons. For instance, you cannot disable the alert for a specific resource. Reason? The alert user interface does not include a feature or setting to disable an alert based on a specific resource (or resources); it only
-allows you t...</description>
-    </item>
+    <lastBuildDate>Mon, 15 Jul 2024 08:00:44 GMT</lastBuildDate>
   </channel>
 </rss>
