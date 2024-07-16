@@ -1,4 +1,3 @@
-2023-07-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-introduces-two-new-features-in/ba-p/2466930
 2023-07-17T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advancing-modern-strong-authentication/ba-p/3773135
 2023-07-18T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamline-the-process-to-bring-your-own-detections-in-microsoft/ba-p/3875008
 2023-07-18T15:30:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sensitivity-label-support-in-microsoft-fabric-and-power-bi/ba-p/3874178
