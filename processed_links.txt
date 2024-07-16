@@ -1,5 +1,3 @@
-2023-07-17T13:26:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-defender-for-cloud-capabilities-to-counter/ba-p/3876012
-2023-07-17T13:36:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/incident-triage-microsoft-defender-for-cloud-attack-path/ba-p/3876015
 2023-07-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-governance-introduces-two-new-features-in/ba-p/2466930
 2023-07-17T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advancing-modern-strong-authentication/ba-p/3773135
 2023-07-18T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamline-the-process-to-bring-your-own-detections-in-microsoft/ba-p/3875008
@@ -658,3 +656,4 @@
 2024-07-12T11:31:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/govern-your-azure-firewall-configuration-with-azure-policies/ba-p/4189902
 2024-07-13T18:18:16 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2024/ba-p/4190746
 2024-07-15T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-stop-log-based-alerts-for-specific/ba-p/4189893
+2024-07-16T13:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/make-ot-security-a-core-part-of-your-soc-strategy-with-microsoft/ba-p/4185702

@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Jul 2024 13:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 14:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Make OT security a core part of your SOC strategy with Microsoft Defender XDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/make-ot-security-a-core-part-of-your-soc-strategy-with-microsoft/ba-p/4185702</link>
+      <pubDate>Tue, 16 Jul 2024 13:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/make-ot-security-a-core-part-of-your-soc-strategy-with-microsoft/ba-p/4185702</guid>
+      <description>The convergence of Operational Technology (OT) and Information Technology (IT) has disrupted industries across the globe. However, today&#8217;s threat landscape coupled with the developing force of AI have introduced new security challenges&#8212;particularly in the realm of industrial processes and critical infrastructure.
+&#160;
+As a follow up to our announcement at RSA in April, we take a closer look at how security teams can utilize Microsoft Defender XDR to protect OT environments from emerging threats and ensure their safety, productivity, and reliability.
+&#160;
+Why yesterday's OT security is no longer enou...</description>
+    </item>
   </channel>
 </rss>
