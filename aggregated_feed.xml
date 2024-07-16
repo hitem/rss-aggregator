@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Jul 2024 18:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 19:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Power BI and Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud/ba-p/4190041</link>
+      <pubDate>Tue, 16 Jul 2024 18:16:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud/ba-p/4190041</guid>
+      <description>Introduction
+As cloud environments grow more complex and threats increase, organizations need robust tools to monitor, analyze, and respond to security issues effectively. Microsoft Defender for Cloud (MDC) offers robust security management, but to unlock its full potential, organizations need powerful visualization and analysis tools.
+While Azure Workbooks provide valuable visualizations for MDC data, integrating Microsoft Power BI offers an enhanced approach to data analysis and visualization. Power BI's advanced features, such as customizable dashboards, interactive elements, and seamless i...</description>
+    </item>
   </channel>
 </rss>
