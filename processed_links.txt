@@ -1,5 +1,3 @@
-2023-07-18T16:58:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-is-now-available-on-android-corporate/ba-p/3626100
-2023-07-18T17:00:31 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888
 2023-07-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-microsoft-entra-id-governance-dashboard-experience-rolling/ba-p/2466928
 2023-07-19T16:25:36 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grant-users-access-to-data-assets-through-the-microsoft-purview/ba-p/3861160
 2023-07-19T22:35:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-ebpf-based-sensor-for-defender-for-endpoint-on-linux/ba-p/3873720
