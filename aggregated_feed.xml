@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Jul 2024 17:00:56 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Purview integrates with ChatGPT Enterprise Compliance API to support compliance</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-integrates-with-chatgpt-enterprise-compliance/ba-p/4192868</link>
-      <pubDate>Thu, 18 Jul 2024 16:34:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-integrates-with-chatgpt-enterprise-compliance/ba-p/4192868</guid>
-      <description>The use of generative AI has nearly doubled in the past six months, with 75% of global knowledge workers now integrating it into their daily tasks [1]. Employees are eager to use AI at work and are not waiting for their employers to catch up &#8211; in fact, 78% of employees surveyed admitted to bringing their own AI tools to the workplace [2]. However, this trend poses significant risks to company data, with cybersecurity and data privacy emerging as the top concern for leaders in the coming year [3]. To mitigate these risks, organizations need to adopt enterprise-ready solutions like Microsoft Cop...</description>
-    </item>
+    <lastBuildDate>Thu, 18 Jul 2024 18:08:18 GMT</lastBuildDate>
   </channel>
 </rss>
