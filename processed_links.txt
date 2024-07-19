@@ -649,3 +649,4 @@
 2024-07-16T18:16:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud/ba-p/4190041
 2024-07-18T11:00:16 https://techcommunity.microsoft.com/t5/azure-network-security-blog/portal-extension-for-azure-firewall-with-ddos-protection/ba-p/4194796
 2024-07-18T16:34:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-integrates-with-chatgpt-enterprise-compliance/ba-p/4192868
+2024-07-19T13:42:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/4196152
