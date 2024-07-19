@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Jul 2024 14:00:57 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud PoC Series - Microsoft Defender for APIs</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/4196152</link>
-      <pubDate>Fri, 19 Jul 2024 13:42:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/4196152</guid>
-      <description>Introduction
-&#160;
-This Microsoft Defender for Cloud PoC Series provides guidelines on how to perform a proof of concept for specific Microsoft Defender plans. For a more holistic approach where you need to validate Microsoft&#8239;Defender for Cloud and Microsoft Defender plans, please read&#8239;How to Effectively Perform an Microsoft Defender for Cloud PoC&#8239;article.&#8239;
-&#160;
-Defender for APIs provides full lifecycle protection, detection, and response coverage of your APIs published within Azure API Management Platform. Defender for APIs includes unified visibility across your Azure API Management services within...</description>
-    </item>
+    <lastBuildDate>Fri, 19 Jul 2024 15:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
