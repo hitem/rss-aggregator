@@ -1,4 +1,3 @@
-2023-07-21T09:16:16 https://techcommunity.microsoft.com/t5/azure-network-security-blog/validating-ftp-traffic-scenarios-with-azure-firewall/ba-p/3880683
 2023-07-21T13:31:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhanced-cloud-security-value-added-with-defender-cspm-s/ba-p/3880746
 2023-07-21T17:34:03 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-tech-accelerator-free-training-tech-community/ba-p/2520433
 2023-07-21T18:27:29 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-tech-accelerator-technical-skilling-on-demand/ba-p/2520433
