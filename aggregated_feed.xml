@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Jul 2024 15:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 16:07:43 GMT</lastBuildDate>
+    <item>
+      <title>(Preview) How Office is improving the reliability of DLP policy tips on Windows</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-how-office-is-improving-the-reliability-of-dlp-policy/ba-p/4196461</link>
+      <pubDate>Mon, 22 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-how-office-is-improving-the-reliability-of-dlp-policy/ba-p/4196461</guid>
+      <description>If you are an administrator who uses SharePoint and OneDrive DLP rules to protect your organization's sensitive files, you may have noticed that the policy tips informing users about the policies applied to their files are not always reliable in Word, Excel, and PowerPoint on Windows.
+&#160;
+We&#8217;ve heard your feedback and are happy to announce that we&#8217;re rolling out a new update to Office apps on Windows that will significantly improve the reliability of DLP policy tips for files stored in SharePoint and OneDrive for Business. This update will change how Office determines whether a policy tip should...</description>
+    </item>
   </channel>
 </rss>
