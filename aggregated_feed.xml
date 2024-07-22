@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Jul 2024 06:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 07:00:45 GMT</lastBuildDate>
+    <item>
+      <title>Azure Monitor: How To Get Alerts for Disconnected Arc Agents</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-get-alerts-for-disconnected-arc-agents/ba-p/4192847</link>
+      <pubDate>Mon, 22 Jul 2024 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-get-alerts-for-disconnected-arc-agents/ba-p/4192847</guid>
+      <description>Ciao Readers,
+Just a week no writing&#160;. The moment of another blog post arrived&#160;.
+&#160;
+In this post, I am going to show you how to set up alerts for disconnected Arc agents using Azure Monitor. If you are not familiar with Azure Arc, it is a service that lets you manage and govern your hybrid cloud resources from a single pane of glass. More about it in the Azure Arc overview public documentation page.
+&#160;
+One of the benefits of using Arc is that it allows you to collect data from your hybrid resources, so you monitor the health and performance of them. It is &#8216;a prerequisite&#8217; for enabling Azure Moni...</description>
+    </item>
   </channel>
 </rss>

@@ -644,3 +644,4 @@
 2024-07-18T11:00:16 https://techcommunity.microsoft.com/t5/azure-network-security-blog/portal-extension-for-azure-firewall-with-ddos-protection/ba-p/4194796
 2024-07-18T16:34:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-integrates-with-chatgpt-enterprise-compliance/ba-p/4192868
 2024-07-19T13:42:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/4196152
+2024-07-22T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-get-alerts-for-disconnected-arc-agents/ba-p/4192847
