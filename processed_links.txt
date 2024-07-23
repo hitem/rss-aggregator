@@ -1,4 +1,3 @@
-2023-07-24T16:20:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/analyze-iot-ot-device-firmware-with-microsoft-defender-for-iot/ba-p/3853474
 2023-07-25T12:29:43 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-strategy-and-plan-towards-log/ba-p/3883341
 2023-07-25T14:43:02 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/taking-entity-investigation-to-the-next-level-microsoft-sentinel/ba-p/3878382
 2023-07-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/enhanced-company-branding-for-sign-in-experiences-now-generally/ba-p/3823765
