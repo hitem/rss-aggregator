@@ -1,5 +1,3 @@
-2023-07-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/enhanced-company-branding-for-sign-in-experiences-now-generally/ba-p/3823765
-2023-07-25T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-data-lifecycle-and-records-management/ba-p/3874829
 2023-07-26T12:44:54 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-for-cloud-storage-ga-pre-announcement-prevent/ba-p/3884470
 2023-07-26T17:20:21 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-defender-vulnerability-management-firmware-security/ba-p/3884569
 2023-07-26T17:59:35 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/encryption-algorithm-changes-in-microsoft-purview-information/ba-p/3831909
@@ -641,3 +639,4 @@
 2024-07-22T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-get-alerts-for-disconnected-arc-agents/ba-p/4192847
 2024-07-22T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-how-office-is-improving-the-reliability-of-dlp-policy/ba-p/4196461
 2024-07-24T06:31:50 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046
+2024-07-24T16:06:05 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-available-modernize-your-sap-environment-with-microsoft/ba-p/4196387
