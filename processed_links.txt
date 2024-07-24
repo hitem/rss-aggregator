@@ -642,3 +642,4 @@
 2024-07-19T13:42:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/4196152
 2024-07-22T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-get-alerts-for-disconnected-arc-agents/ba-p/4192847
 2024-07-22T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-how-office-is-improving-the-reliability-of-dlp-policy/ba-p/4196461
+2024-07-24T06:31:50 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046
