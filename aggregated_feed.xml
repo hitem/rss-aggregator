@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Jul 2024 07:00:51 GMT</lastBuildDate>
-    <item>
-      <title>Using Export API with Defender Vulnerability Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046</link>
-      <pubDate>Wed, 24 Jul 2024 06:31:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046</guid>
-      <description>Microsoft Defender Vulnerability Management helps organizations identify and remediate security vulnerabilities in their environment.
-It provides a centralized view of vulnerabilities across all device types in an organization and prioritizes them based on severity and exploitability.&#160;&#160;
-Defender Vulnerability Management provides an export API that allows programmatic access to vulnerability data. The API can be used to automate vulnerability management tasks, integrate vulnerability data with other security tools, and generate custom reports and dashboards.&#160;
-&#160;
-In this blog, we will share guida...</description>
-    </item>
+    <lastBuildDate>Wed, 24 Jul 2024 08:08:32 GMT</lastBuildDate>
   </channel>
 </rss>
