@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Jul 2024 16:08:05 GMT</lastBuildDate>
-    <item>
-      <title>Now available: Modernize your SAP environment with Microsoft Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-available-modernize-your-sap-environment-with-microsoft/ba-p/4196387</link>
-      <pubDate>Wed, 24 Jul 2024 16:06:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-available-modernize-your-sap-environment-with-microsoft/ba-p/4196387</guid>
-      <description>Building on our joint announcement with SAP earlier this year, we have now released guidance to help customers modernize their SAP environment and move their identity management scenarios from SAP Identity Management (SAP IDM) to Entra ID.&#160; With this documentation, SAP IDM customers can migrate seamlessly to the cloud-based IAM and identify the right partners that can assist.&#160;&#160;&#160;
-&#160;
-In February, SAP announced that the on-premises tool for managing identity would reach end-of-maintenance by 2030. We are honored that SAP has recommended Microsoft Entra ID, our cloud-based identity and access manag...</description>
-    </item>
+    <lastBuildDate>Wed, 24 Jul 2024 17:00:57 GMT</lastBuildDate>
   </channel>
 </rss>
