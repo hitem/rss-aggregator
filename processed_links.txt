@@ -1,4 +1,3 @@
-2023-07-27T15:30:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/black-hat-usa-2023-conference-theatre-sessions-presented-by/ba-p/3885068
 2023-07-27T22:41:05 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/update-on-defender-vulnerability-management-capabilities-in/ba-p/3882311
 2023-07-28T17:15:08 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-strictly-enforce-location-policies-with/ba-p/3773133
 2023-07-31T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-servers-in-network-restricted/ba-p/3886437
@@ -635,3 +634,4 @@
 2024-07-22T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-how-office-is-improving-the-reliability-of-dlp-policy/ba-p/4196461
 2024-07-24T06:31:50 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046
 2024-07-24T16:06:05 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-available-modernize-your-sap-environment-with-microsoft/ba-p/4196387
+2024-07-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/migrate-adal-apps-to-msal-with-enhanced-insights/ba-p/4194361
