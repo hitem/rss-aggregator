@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 Jul 2024 16:00:46 GMT</lastBuildDate>
-    <item>
-      <title>Migrate ADAL apps to MSAL with enhanced insights</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/migrate-adal-apps-to-msal-with-enhanced-insights/ba-p/4194361</link>
-      <pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/migrate-adal-apps-to-msal-with-enhanced-insights/ba-p/4194361</guid>
-      <description>We&#8217;re pleased to announce significant updates to the Sign-ins workbook in the Microsoft Entra admin center, a crucial tool for organizations transitioning from Azure Active Directory Authentication Libraries (ADAL) to Microsoft Authentication Libraries (MSAL). These updates aim to streamline the ADAL migration process by providing comprehensive insights into your ADAL-application-related data.
-&#160;
-Why is this Important?
-&#160;
-We announced ADAL end of life in June 2020 and stopped supporting any security updates as of June 2023&#8212;which means applications using ADAL can&#8217;t utilize the latest security fea...</description>
-    </item>
+    <lastBuildDate>Fri, 26 Jul 2024 17:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
