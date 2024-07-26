@@ -1,4 +1,3 @@
-2023-07-27T22:41:05 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/update-on-defender-vulnerability-management-capabilities-in/ba-p/3882311
 2023-07-28T17:15:08 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/public-preview-strictly-enforce-location-policies-with/ba-p/3773133
 2023-07-31T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-servers-in-network-restricted/ba-p/3886437
 2023-07-31T15:47:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-new-dmarc-policy-handling-defaults-for-enhanced-email/ba-p/3884203
