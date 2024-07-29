@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Jul 2024 17:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 18:08:28 GMT</lastBuildDate>
+    <item>
+      <title>Announcing quarantine release integration in MDO hunting experience!!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-quarantine-release-integration-in-mdo-hunting/ba-p/4198601</link>
+      <pubDate>Mon, 29 Jul 2024 17:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-quarantine-release-integration-in-mdo-hunting/ba-p/4198601</guid>
+      <description>We are excited to introduce the new quarantine release integration within Microsoft Defender for Office 365 as part of the hunting experience. This enhancement allows Security Operators (SecOps) to address false positives more efficiently and with greater flexibility in Microsoft Defender for Office 365.&#160;
+&#160;
+With this new capability, SecOps can now move quarantined messages to Inbox across hunting experiences - Threat Explorer, Advanced Hunting, Email summary panel, Email Entity Page, and custom detection.
+SecOps team members can act on both single and quarantine messages in bulk. To act on a s...</description>
+    </item>
   </channel>
 </rss>
