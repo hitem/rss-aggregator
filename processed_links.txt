@@ -633,3 +633,4 @@
 2024-07-24T06:31:50 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046
 2024-07-24T16:06:05 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/now-available-modernize-your-sap-environment-with-microsoft/ba-p/4196387
 2024-07-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/migrate-adal-apps-to-msal-with-enhanced-insights/ba-p/4194361
+2024-07-29T11:55:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/monitoring-microsoft-sentinel-reports-with-dashboard-hub-amp/ba-p/4203870
