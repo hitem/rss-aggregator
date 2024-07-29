@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Jul 2024 16:07:19 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Bulk Senders Insight: Optimizing Bulk Email Management for Enterprises</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-bulk-senders-insight-optimizing-bulk-email/ba-p/4193963</link>
-      <pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-bulk-senders-insight-optimizing-bulk-email/ba-p/4193963</guid>
-      <description>Bulk emails, ranging from promotions and transactional updates to targeted marketing campaigns, play a crucial role in modern enterprise communications. Yet, determining the right balance of these messages&#8212;what should be allowed and what should be blocked&#8212;poses a significant challenge. Many organizations default to standard settings, often leading to issues like false positives (FP) and false negatives (FN) in email workflows.
-
-&#160;
-Understanding Your Organization's Bulk Email Preferences
-In enterprise, email management falls under the purview of admins who set policies based on bulk complaint le...</description>
-    </item>
+    <lastBuildDate>Mon, 29 Jul 2024 17:01:15 GMT</lastBuildDate>
   </channel>
 </rss>
