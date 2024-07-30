@@ -636,3 +636,4 @@
 2024-07-29T11:55:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/monitoring-microsoft-sentinel-reports-with-dashboard-hub-amp/ba-p/4203870
 2024-07-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-bulk-senders-insight-optimizing-bulk-email/ba-p/4193963
 2024-07-29T17:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-quarantine-release-integration-in-mdo-hunting/ba-p/4198601
+2024-07-30T03:17:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-quarantine-release-integration-in-microsoft-defender/ba-p/4198601
