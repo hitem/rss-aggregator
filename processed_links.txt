@@ -1,4 +1,3 @@
-2023-07-31T18:42:55 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia-and/ba-p/3887869
 2023-07-31T19:30:14 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-fairfax-usgov-virginia/ba-p/3887980
 2023-07-31T19:30:37 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ga-announcement-microsoft-purview-mooncake-china-north-3/ba-p/3887978
 2023-08-01T15:46:56 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-august-2023/ba-p/3888441
