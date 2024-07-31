@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 Jul 2024 15:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 16:07:26 GMT</lastBuildDate>
+    <item>
+      <title>Announcing Microsoft Defender for Office 365 API&#8217;s for retrieving threat data and remediating emails</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-microsoft-defender-for-office-365-api-s-for/ba-p/4199777</link>
+      <pubDate>Wed, 31 Jul 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-microsoft-defender-for-office-365-api-s-for/ba-p/4199777</guid>
+      <description>We are excited to announce the release of new Microsoft Defender for Office 365 API&#8217;s which enable security teams to leverage threat information and response capabilities of Microsoft Defender for Office 365 inside automation and security orchestration tools of their choice.
+&#160;
+These new API&#8217;s enable your security teams to achieve more within their existing toolsets by leveraging the power of Microsoft Defender for Office 365!
+&#160;
+Our new API methods extend our existing Microsoft Graph API functionality with additional key benefits, such as:
+
+Integration with a range of security tools and service...</description>
+    </item>
+    <item>
+      <title>Reduce friction and protect faster with simplified Android onboarding</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-friction-and-protect-faster-with-simplified-android/ba-p/4206049</link>
+      <pubDate>Wed, 31 Jul 2024 15:31:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-friction-and-protect-faster-with-simplified-android/ba-p/4206049</guid>
+      <description>In today's interconnected digital landscape, users can choose from a range of highly-mobile devices to perform tasks&#8212;from smartphones to laptops, tablets, and IoT devices. Each of these devices can access sensitive information and interact directly with critical systems, so a robust protection capability beyond traditional endpoints is paramount to safeguarding data integrity and user privacy.&#160;&#160;
+&#160;&#160;
+Today, we&#8217;re excited to announce that a simplified onboarding experience in Microsoft Defender for Endpoint on Android devices is now available in public preview.&#160;&#160;&#160;Comprehensive detection and respo...</description>
+    </item>
   </channel>
 </rss>
