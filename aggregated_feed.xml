@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 31 Jul 2024 17:00:52 GMT</lastBuildDate>
-    <item>
-      <title>Azure Firewall Protection Against Apache Struts Vulnerability - CVE-2023-50164</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-protection-against-apache-struts-vulnerability/ba-p/4206027</link>
-      <pubDate>Wed, 31 Jul 2024 16:55:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-protection-against-apache-struts-vulnerability/ba-p/4206027</guid>
-      <description>Introduction
-&#160;
-Vulnerabilities and zero-day exploits continue to be a serious threat to systems worldwide. One such vulnerability is CVE-2023-50164, a critical issue in Apache Struts that can lead to critical security breaches if not properly mitigated. Protecting your systems from such vulnerabilities is paramount to prevent unauthorized access and data loss. Azure Firewall Premium provides a robust solution to safeguard your infrastructure against such threats. This blog post will explore the CVE-2023-50164 vulnerability and demonstrate how Azure Firewall Premium can effectively prevent this...</description>
-    </item>
+    <lastBuildDate>Wed, 31 Jul 2024 18:08:37 GMT</lastBuildDate>
   </channel>
 </rss>

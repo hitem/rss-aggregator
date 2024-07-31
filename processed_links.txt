@@ -1,4 +1,3 @@
-2023-08-01T18:02:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516
 2023-08-01T18:18:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-the-availability-of-in-product-guidance/ba-p/3828409
 2023-08-07T11:51:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2023/ba-p/3885508
 2023-08-07T12:14:26 https://techcommunity.microsoft.com/t5/azure-network-security-blog/threat-detection-queries-for-azure-waf/ba-p/3892775
