@@ -631,3 +631,4 @@
 2024-07-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-microsoft-defender-for-office-365-api-s-for/ba-p/4199777
 2024-07-31T16:55:57 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-protection-against-apache-struts-vulnerability/ba-p/4206027
 2024-07-31T20:07:31 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-127/ba-p/4205820
+2024-08-01T08:10:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-stop-log-search-alerts-for-specific/ba-p/4189893
