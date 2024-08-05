@@ -3,6 +3,79 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Aug 2024 18:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 19:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Monthly News - August 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2024/ba-p/4210674</link>
+      <pubDate>Mon, 05 Aug 2024 18:56:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2024/ba-p/4210674</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+August 2024 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from July 2024.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+
+
+Support for MMA for Defender for Servers Plan 2 has been extended for Defender for Cloud customers until the end of Nov...</description>
+    </item>
   </channel>
 </rss>
