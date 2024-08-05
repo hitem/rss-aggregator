@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Aug 2024 13:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 14:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Power BI and Microsoft Defender for Cloud &#8211; Part 2: Overcoming ARG 1000-Record Limit</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud-part-2/ba-p/4207389</link>
+      <pubDate>Mon, 05 Aug 2024 13:55:20 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud-part-2/ba-p/4207389</guid>
+      <description>In our previous blog, we explored how Power BI can complement Azure Workbook for consuming and visualizing data from Microsoft Defender for Cloud (MDC). In this second installment of our series, we dive into a common limitation faced when working with Azure Resource Graph (ARG) data &#8211; the 1000-record limit &#8211; and how Power BI can effectively address this constraint to enhance your data analysis and security insights.
+&#160;
+The 1000-Record Limit: A Bottleneck in Data Analysis
+When querying Azure Resource Graph (ARG) programmatically or using tools like Azure Workbook, users often face a limitation w...</description>
+    </item>
   </channel>
 </rss>
