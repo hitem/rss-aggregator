@@ -636,3 +636,4 @@
 2024-08-05T11:47:34 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-all-in-one-now-available-for-azure-government/ba-p/4204981
 2024-08-05T11:49:48 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhancing-security-monitoring-integrating-gitlab-cloud-edition/ba-p/4208519
 2024-08-05T13:55:20 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud-part-2/ba-p/4207389
+2024-08-05T14:59:57 https://techcommunity.microsoft.com/t5/azure-network-security-blog/leveraging-azure-ddos-protection-with-waf-rate-limiting/ba-p/4210135
