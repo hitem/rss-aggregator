@@ -3,6 +3,30 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Aug 2024 11:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 12:11:58 GMT</lastBuildDate>
+    <item>
+      <title>Enhancing Security Monitoring: Integrating GitLab Cloud Edition with Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhancing-security-monitoring-integrating-gitlab-cloud-edition/ba-p/4208519</link>
+      <pubDate>Mon, 05 Aug 2024 11:49:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhancing-security-monitoring-integrating-gitlab-cloud-edition/ba-p/4208519</guid>
+      <description>Purpose of this Blog: The absence of a dedicated connector for GitLab Cloud Edition in Microsoft Sentinel presents a challenge for complete security surveillance for firms using GitLab. To overcome this, we can utilize the API endpoints provided by GitLab to collect logs for integration into Sentinel. Establishing a custom table via Azure Monitor Data Collection Endpoint (DCE) along with Data Collection Rule (DCR), we can efficiently organize and study these logs. The use of Azure Logic Apps coupled with Azure Key Vault ensures that data handling is both secure and effective, and that sensitiv...</description>
+    </item>
+    <item>
+      <title>Microsoft Sentinel All-In-One now available for Azure Government</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-all-in-one-now-available-for-azure-government/ba-p/4204981</link>
+      <pubDate>Mon, 05 Aug 2024 11:47:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-all-in-one-now-available-for-azure-government/ba-p/4204981</guid>
+      <description>Special thanks to&#160;@Javier-Soriano,&#160;@Sreedhar_Ande, Bill Almonroeder, and Dick Lake
+&#160;
+More than a year ago,&#160;we announced the second version of Microsoft Sentinel All-in-One and one of the most requested features was to have it work with Azure Government tenants. Today, we&#8217;re happy to announce a&#160;new revamped version&#160;that does that.
+&#160;
+If you are not familiar with the All-In-One offering, it will:
+
+Create a resource group
+Create a Log Analytics workspace
+Enable Microsoft Sentinel on top of the workspace
+Set the workspace retention,&#160;daily cap&#160;and commitment tiers if desired
+Enable UEBA with the rel...</description>
+    </item>
   </channel>
 </rss>
