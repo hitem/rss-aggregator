@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Aug 2024 16:07:39 GMT</lastBuildDate>
-    <item>
-      <title>Detect compromised RDP sessions with Microsoft Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003</link>
-      <pubDate>Mon, 05 Aug 2024 15:20:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003</guid>
-      <description>Human operators play a significant part in planning, managing, and executing cyber-attacks. During each phase of their operations, they learn and adapt by observing the victims&#8217; networks and leveraging intelligence and social engineering. One of the most common tools human operators use is Remote Desktop Protocol (RDP), which gives attackers not only control, but also Graphical User Interface (GUI) visibility on remote computers. As RDP is such a popular tool in human operated attacks, it allows defenders to use the RDP context as a strong incriminator of suspicious activities. And therefore, ...</description>
-    </item>
+    <lastBuildDate>Mon, 05 Aug 2024 17:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
