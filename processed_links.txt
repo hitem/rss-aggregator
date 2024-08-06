@@ -636,3 +636,4 @@
 2024-08-05T14:59:57 https://techcommunity.microsoft.com/t5/azure-network-security-blog/leveraging-azure-ddos-protection-with-waf-rate-limiting/ba-p/4210135
 2024-08-05T15:20:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003
 2024-08-05T18:56:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2024/ba-p/4210674
+2024-08-06T20:16:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048

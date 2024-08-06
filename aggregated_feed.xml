@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Aug 2024 20:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 21:00:44 GMT</lastBuildDate>
+    <item>
+      <title>Frequently asked questions about the unified security operations platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048</link>
+      <pubDate>Tue, 06 Aug 2024 20:16:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048</guid>
+      <description>We recently announced the GA of Microsoft Sentinel in the Defender portal, as part of the unified security operations platform. In this blog we offer answers to many of the questions we&#8217;ve heard from our customers and partners, which can be used, along with our documentation&#160;, to get started with our new experience.
+&#160;
+What is a unified security operations platform?&#160;
+A unified security operations platform brings the tools a security team needs to do their job into a single experience, with a single data model and unified features to increase protection, reduce response time and improve overall ...</description>
+    </item>
   </channel>
 </rss>
