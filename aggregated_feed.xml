@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Aug 2024 15:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 16:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Public preview: Microsoft Entra ID FIDO2 provisioning APIs</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699</link>
+      <pubDate>Wed, 07 Aug 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699</guid>
+      <description>Today I'm excited to announce a great new way to onboard employees with admin provisioning of FIDO2 security keys (passkeys) on behalf of users.
+&#160;
+Our customers love passkeys as a phishing-resistant method for their users, but some were concerned that registration was limited to users registering their own security keys. Today we&#8217;re announcing the new Microsoft Entra ID FIDO2 provisioning APIs&#160;that empowers organizations to handle this provisioning for their users, providing secure and seamless authentication from day one.
+&#160;
+While customers can still deploy security keys in their default confi...</description>
+    </item>
   </channel>
 </rss>

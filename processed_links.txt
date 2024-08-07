@@ -1,5 +1,3 @@
-2023-08-08T15:25:42 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746
-2023-08-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/conditional-access-for-protected-actions-is-now-generally/ba-p/3888723
 2023-08-09T11:44:34 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/help-protect-your-exchange-environment-with-microsoft-sentinel/ba-p/3872527
 2023-08-09T15:40:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-multicloud-cnapp-innovations-in-microsoft-defender-for-cloud/ba-p/3895154
 2023-08-09T15:58:41 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/availability-of-defender-vulnerability-management-standalone-and/ba-p/3894735
@@ -638,3 +636,4 @@
 2024-08-05T18:56:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2024/ba-p/4210674
 2024-08-06T20:16:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048
 2024-08-07T12:50:11 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883
+2024-08-07T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699
