@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Aug 2024 13:12:07 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Sentinel &amp; Cyberint Threat Intel Integration Guide</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883</link>
-      <pubDate>Wed, 07 Aug 2024 12:50:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883</guid>
-      <description>Microsoft Sentinel &amp; Cyberint IOC Module Integration Guide
-In today&#8217;s cybersecurity landscape, threat intelligence plays a critical role in identifying and mitigating potential threats. Microsoft Sentinel, a powerful cloud-native SIEM (Security Information and Event Management) solution, provides robust capabilities for security monitoring and incident response.Integrating Microsoft Sentinel with Cyberint (Cyberint - Threat Intelligence &amp; Digital Risk Protection) module enhances its ability to detect and respond to emerging threats using threat intelligence feeds.
-&#160;
-This guide outlines the ste...</description>
-    </item>
+    <lastBuildDate>Wed, 07 Aug 2024 14:01:47 GMT</lastBuildDate>
   </channel>
 </rss>
