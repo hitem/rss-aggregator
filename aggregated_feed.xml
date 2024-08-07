@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Aug 2024 20:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 21:01:39 GMT</lastBuildDate>
+    <item>
+      <title>Bridging the On-premises to Cloud Security Gap: Cloud Credentials Detection</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bridging-the-on-premises-to-cloud-security-gap-cloud-credentials/ba-p/4211794</link>
+      <pubDate>Wed, 07 Aug 2024 20:15:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bridging-the-on-premises-to-cloud-security-gap-cloud-credentials/ba-p/4211794</guid>
+      <description>Identities lie at the heart of cloud security. One of the most common tactics used to breach cloud environments is Credential Access. User credentials may be obtained using various techniques. Credentials may be cracked through brute force attempts, obtained in social engineering campaigns, or stolen from compromised resources, where they are stored fand used.&#160;&#160;
+&#160;
+In this blog, we demonstrate that properly securing cloud environments requires securing credentials in the organization&#8217;s non-cloud environments. To this end, we dive into our innovative capability to detect cloud credentials in on-...</description>
+    </item>
   </channel>
 </rss>

@@ -637,3 +637,4 @@
 2024-08-06T20:16:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048
 2024-08-07T12:50:11 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883
 2024-08-07T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699
+2024-08-07T20:15:47 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bridging-the-on-premises-to-cloud-security-gap-cloud-credentials/ba-p/4211794
