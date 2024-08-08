@@ -636,3 +636,4 @@
 2024-08-07T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699
 2024-08-07T20:15:47 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bridging-the-on-premises-to-cloud-security-gap-cloud-credentials/ba-p/4211794
 2024-08-08T18:00:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/cybersecurity-incident-correlation-in-the-unified-security/ba-p/4214394
+2024-08-08T18:37:57 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/extend-allow-in-tenant-allow-block-list-allow-entries-in-a/ba-p/4213201

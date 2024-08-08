@@ -3,15 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Aug 2024 18:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 19:00:48 GMT</lastBuildDate>
     <item>
-      <title>Cybersecurity incident correlation in the unified security operations platform</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/cybersecurity-incident-correlation-in-the-unified-security/ba-p/4214394</link>
-      <pubDate>Thu, 08 Aug 2024 18:00:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/cybersecurity-incident-correlation-in-the-unified-security/ba-p/4214394</guid>
-      <description>The exponential growth of threat actors, coupled with the proliferation of cybersecurity solutions has inundated security operation centers (SOCs) with a flood of alerts. SOC teams receive an average of 4,484 alerts per day and spend up to 3 hours manually triaging to separate genuine threats from noise. In response, alert correlation has become an indispensable tool in the defender's arsenal, allowing SOCs to consolidate disparate alerts into cohesive incidents, dramatically reducing the number of analyst investigations.
-&#160;
-Earlier this year, we announced the general availability of Microsoft&#8217;...</description>
+      <title>Extend allow in Tenant Allow/Block List allow entries in a transparent data driven manner</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/extend-allow-in-tenant-allow-block-list-allow-entries-in-a/ba-p/4213201</link>
+      <pubDate>Thu, 08 Aug 2024 18:37:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/extend-allow-in-tenant-allow-block-list-allow-entries-in-a/ba-p/4213201</guid>
+      <description>This feature is Available to customers who have Exchange Online Protection or Defender for Office 365 Plan 1 or Plan 2 across WW, GCC, GCCH, DoD. 
+Transparency inside Tenant Allow/Block List
+Recently we launched the last&#160;used date for allowed or blocked domains, email addresses, URLs, or files inside the Microsoft Defender XDR. For block entries, the last used date is updated when the entity is encountered by the filtering system (at time of click or during mail flow). For allow entries, when the filtering system determines that the entity is malicious&#160;(at time of click or during mail flow), t...</description>
     </item>
   </channel>
 </rss>
