@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Aug 2024 19:00:48 GMT</lastBuildDate>
-    <item>
-      <title>Extend allow in Tenant Allow/Block List allow entries in a transparent data driven manner</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/extend-allow-in-tenant-allow-block-list-allow-entries-in-a/ba-p/4213201</link>
-      <pubDate>Thu, 08 Aug 2024 18:37:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/extend-allow-in-tenant-allow-block-list-allow-entries-in-a/ba-p/4213201</guid>
-      <description>This feature is Available to customers who have Exchange Online Protection or Defender for Office 365 Plan 1 or Plan 2 across WW, GCC, GCCH, DoD. 
-Transparency inside Tenant Allow/Block List
-Recently we launched the last&#160;used date for allowed or blocked domains, email addresses, URLs, or files inside the Microsoft Defender XDR. For block entries, the last used date is updated when the entity is encountered by the filtering system (at time of click or during mail flow). For allow entries, when the filtering system determines that the entity is malicious&#160;(at time of click or during mail flow), t...</description>
-    </item>
+    <lastBuildDate>Thu, 08 Aug 2024 20:02:23 GMT</lastBuildDate>
   </channel>
 </rss>
