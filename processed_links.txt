@@ -1,4 +1,3 @@
-2023-08-10T06:20:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-powershell-to-remediate-non-compliant-policy-definitions/ba-p/3878321
 2023-08-14T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/move-backups-in-recovery-service-vault-from-lrs-grs-to-zrs-while/ba-p/3897569
 2023-08-14T20:13:22 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-quarterly-cyber-signals-report-issue-5-state-of-play/ba-p/3899232
 2023-08-16T13:38:39 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-mobile-device-tagging-for-ios-and-android/ba-p/3897368
