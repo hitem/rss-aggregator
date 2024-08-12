@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Aug 2024 15:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 16:07:52 GMT</lastBuildDate>
+    <item>
+      <title>eDiscovery launches a modern, intuitive user experience</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ediscovery-launches-a-modern-intuitive-user-experience/ba-p/4215184</link>
+      <pubDate>Mon, 12 Aug 2024 16:06:53 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ediscovery-launches-a-modern-intuitive-user-experience/ba-p/4215184</guid>
+      <description>This month, we have launched a redesigned Microsoft Purview eDiscovery product experience in public preview. This improved user experience revolutionizes your data search, review and export tasks within eDiscovery. Our new user-friendly and feature-rich eDiscovery experience is not just about finding and preserving data, it's about doing it with unprecedented efficiency and ease. The modern user experience of eDiscovery addresses some long-standing customer requests, such as enhanced search capabilities with MessageID,&#160; Sensitive Information Types (SITs) and sensitivity labels. It also introdu...</description>
+    </item>
+    <item>
+      <title>Face Check is now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/face-check-is-now-generally-available/ba-p/4175880</link>
+      <pubDate>Mon, 12 Aug 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/face-check-is-now-generally-available/ba-p/4175880</guid>
+      <description>Earlier this year we announced the public preview of Face Check with Microsoft Entra Verified ID &#8211; a privacy-respecting facial matching feature for high-assurance identity verifications and the first premium capability of Microsoft Entra Verified ID. Today I&#8217;m excited to announce that Face Check with Microsoft Entra Verified ID is generally available. It is offered both by itself and as part of the Microsoft Entra Suite, a complete identity solution that delivers Zero Trust access by combining network access, identity protection, governance, and identity verification capabilities.
+&#160;
+Unlocking ...</description>
+    </item>
   </channel>
 </rss>
