@@ -635,3 +635,6 @@
 2024-08-08T18:37:57 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/extend-allow-in-tenant-allow-block-list-allow-entries-in-a/ba-p/4213201
 2024-08-12T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/face-check-is-now-generally-available/ba-p/4175880
 2024-08-12T16:06:53 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ediscovery-launches-a-modern-intuitive-user-experience/ba-p/4215184
+2024-08-13T14:38:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-azure-native-tooling-to-hunt-kubernetes-security/ba-p/4217705
+2024-08-13T14:44:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741
+2024-08-13T14:50:28 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-copilot-for/ba-p/4216811
