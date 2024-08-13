@@ -3,40 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 13 Aug 2024 15:00:49 GMT</lastBuildDate>
-    <item>
-      <title>Azure Firewall and WAF integrations in Microsoft Copilot for Security</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-copilot-for/ba-p/4216811</link>
-      <pubDate>Tue, 13 Aug 2024 14:50:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-copilot-for/ba-p/4216811</guid>
-      <description>Azure Firewall and WAF are critical security services that many Microsoft Azure customers use to protect their network and applications from threats and attacks. Azure Firewall is a fully managed, cloud-native network security service that safeguards your Azure resources. It ensures high availability and scalability while filtering both inbound and outbound traffic, catching threats and only allowing legitimate traffic. Azure WAF is a cloud-native service that protects your web applications from common web-hacking techniques such as SQL injection and cross-site scripting. It offers centralized...</description>
-    </item>
-    <item>
-      <title>Using Defender XDR Portal to hunt for Kubernetes security issues</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741</link>
-      <pubDate>Tue, 13 Aug 2024 14:44:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741</guid>
-      <description>As we saw in previous article, the binary drift alert gives you information about where the activity happened like the object namespace, image, cluster, etc.
-&#160;
-This might or might not be enough information for you to act. Say, if you want to identify &#8220;how&#8221; this drift came to be for example, did a user logged on to container and downloaded the said binary. To supplement the information provided by the alert we can then use Defender XDR portal (https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender-portal)
-&#160;
-Harnessing the power of the Microsoft Ecosystem
-&#160;
-If you are an E5 custom...</description>
-    </item>
-    <item>
-      <title>Leveraging Azure native tooling to hunt Kubernetes security issues</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-azure-native-tooling-to-hunt-kubernetes-security/ba-p/4217705</link>
-      <pubDate>Tue, 13 Aug 2024 14:38:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-azure-native-tooling-to-hunt-kubernetes-security/ba-p/4217705</guid>
-      <description>&#160;
-Introduction
-&#160;
-Container binary drift refers to the phenomenon where a running container deviates from its original image over time. This can happen due to various reasons, such as manual updates, automated processes, or security vulnerabilities. Essentially, the container starts to differ from the static snapshot it was created from, leading to potential inconsistencies and security risks.
-&#160;
-When thinking of container image drifts, it is important to understand the following:
-
-Security Risks: Image drift can introduce security risks, as the container may run software or processes that were ...</description>
-    </item>
+    <lastBuildDate>Tue, 13 Aug 2024 16:07:21 GMT</lastBuildDate>
   </channel>
 </rss>
