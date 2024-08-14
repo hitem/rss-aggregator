@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 14 Aug 2024 15:02:22 GMT</lastBuildDate>
-    <item>
-      <title>Enhancing vulnerability prioritization with asset context and EPSS - Now in Public Preview.</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480</link>
-      <pubDate>Wed, 14 Aug 2024 14:37:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480</guid>
-      <description>Vulnerability prioritization is a critical component of an effective Vulnerability Risk Management (VRM) program. It involves identifying and ranking security weaknesses in an organization's systems based on their potential impact and exploitability. Given the vast number of potential vulnerabilities, it is impossible to address all of them at once. Effective prioritization ensures that the most critical vulnerabilities are addressed first, maximizing security efforts. This approach is crucial for defending against cyberattacks, as it helps allocate resources effectively, reduce the attack sur...</description>
-    </item>
+    <lastBuildDate>Wed, 14 Aug 2024 16:08:02 GMT</lastBuildDate>
   </channel>
 </rss>
