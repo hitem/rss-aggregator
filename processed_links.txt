@@ -637,3 +637,4 @@
 2024-08-13T14:38:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-azure-native-tooling-to-hunt-kubernetes-security/ba-p/4217705
 2024-08-13T14:44:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741
 2024-08-13T14:50:28 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-copilot-for/ba-p/4216811
+2024-08-14T14:37:49 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480
