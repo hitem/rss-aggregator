@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Aug 2024 22:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 23:02:45 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Endpoint&#8217;s Safe Deployment Practices</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342</link>
+      <pubDate>Thu, 15 Aug 2024 22:51:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342</guid>
+      <description>For customers it is key to understand that software vendors use safe deployment practices that help them build resilient processes that maintain productivity. This blog addresses Microsoft Defender for Endpoint&#8217;s architectural design and its approach to delivering security updates, which is grounded in Safe Deployment Practices (SDP).
+&#160;
+Microsoft Defender for Endpoint helps protect organizations against sophisticated adversaries while optimizing for resiliency, performance, and compatibility, following best practices for managing security tools in Windows.
+&#160;
+Security tools running on Windows c...</description>
+    </item>
   </channel>
 </rss>
