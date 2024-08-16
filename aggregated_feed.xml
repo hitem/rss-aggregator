@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 16 Aug 2024 16:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 17:01:49 GMT</lastBuildDate>
+    <item>
+      <title>Revolutionizing log collection with Azure Monitor Agent</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129</link>
+      <pubDate>Fri, 16 Aug 2024 16:37:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129</guid>
+      <description>With the deprecation of Log analytics agent (also called MMA or OMS), it&#8217;s a great opportunity to discuss its successor &#8211; the Azure Monitor Agent or in short - (AMA), and why it is so much better and keeps improving!&#160;
+&#160;
+AMA is a lightweight log collection agent, designed to consume as little resources as possible when collecting metrics and logs from your server. It can be installed on various flavors and OS versions of both Linux as well as Windows machines hosted in Azure, on-premises or any other cloud environments. When installed on non-Azure machines, AMA requires the installation of Azur...</description>
+    </item>
   </channel>
 </rss>
