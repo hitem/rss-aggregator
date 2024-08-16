@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 16 Aug 2024 20:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 21:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the MDTI Premium Data Connector for Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-premium-data-connector-for-sentinel/ba-p/4220346</link>
+      <pubDate>Fri, 16 Aug 2024 20:53:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-premium-data-connector-for-sentinel/ba-p/4220346</guid>
+      <description>The MDTI and Unified Security Operations Platform teams are excited to introduce an MDTI premium data connector available in the Unified Security Operations Platform and standalone Microsoft Sentinel experiences. This connector enables customers with an MDTI premium license and API license to apply the powerful raw and finished threat intelligence in MDTI, including high-fidelity indicators of compromise (IoCs), across their security operations to detect and respond to the latest threats.&#160;&#160;
+&#160;
+Microsoft researchers, with the backing of interdisciplinary teams of thousands of experts spread acro...</description>
+    </item>
   </channel>
 </rss>
