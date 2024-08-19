@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 Aug 2024 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 20:07:33 GMT</lastBuildDate>
+    <item>
+      <title>Getting Started with Azure WAF REST API for Azure Front Door: A Step-by-Step Guide</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-waf-rest-api-for-azure-front-door-a/ba-p/4222832</link>
+      <pubDate>Mon, 19 Aug 2024 19:48:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-waf-rest-api-for-azure-front-door-a/ba-p/4222832</guid>
+      <description>REST API plays a pivotal role in the management of resources on Azure, offering a standardized and methodical approach for handling operations such as create, read, update, and delete (CRUD). The use of HTTP methods, such as GET, POST, PUT, and DELETE, in REST API aligns with CRUD operations, making it intuitive for administrators to manipulate resources on Azure. Additionally, REST API supports a range of data formats, including JSON and XML, providing versatility in how data is consumed and transmitted. This is particularly valuable for automating workflows and enabling continuous deployment...</description>
+    </item>
   </channel>
 </rss>
