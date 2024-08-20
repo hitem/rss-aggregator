@@ -635,3 +635,4 @@
 2024-08-16T16:37:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129
 2024-08-16T20:53:42 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-premium-data-connector-for-sentinel/ba-p/4220346
 2024-08-19T19:48:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-waf-rest-api-for-azure-front-door-a/ba-p/4222832
+2024-08-20T14:17:11 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-india/ba-p/4215053
