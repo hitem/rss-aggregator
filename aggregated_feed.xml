@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Aug 2024 17:01:06 GMT</lastBuildDate>
-    <item>
-      <title>Comprehensive coverage and cost-savings with Microsoft Sentinel&#8217;s new data tier</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293</link>
-      <pubDate>Tue, 20 Aug 2024 16:21:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293</guid>
-      <description>As digital environments grow across platforms and clouds, organizations are faced with the dual challenges of collecting relevant security data to improve protection and optimizing costs of that data to meet budget limitations. Management complexity is also an issue as security teams work with diverse datasets to run on-demand investigations, proactive threat hunting, ad hoc queries and support long-term storage for audit and compliance purposes. Each log type requires specific data management strategies to support those use cases.&#160;To address these business needs, customers need a flexible SIE...</description>
-    </item>
+    <lastBuildDate>Tue, 20 Aug 2024 18:08:03 GMT</lastBuildDate>
   </channel>
 </rss>
