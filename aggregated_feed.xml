@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Aug 2024 15:06:15 GMT</lastBuildDate>
-    <item>
-      <title>Host Microsoft Defender data locally in India</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-india/ba-p/4215053</link>
-      <pubDate>Tue, 20 Aug 2024 14:17:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-india/ba-p/4215053</guid>
-      <description>We are pleased to announce that Microsoft Defender for Endpoint and Microsoft Defender for Identity now support local data residency in India.&#160;
-&#160;
-This announcement demonstrates our commitment to providing customers with the highest level of security and compliance by offering services that are aligned to local data sovereignty requirements. Customers can now confidently onboard to Defender for Endpoint and Defender for Identity in India, knowing that this Defender data will remain at rest within the Indian boundary. This will help customers&#160;meet their regulatory obligations and maintain more c...</description>
-    </item>
+    <lastBuildDate>Tue, 20 Aug 2024 16:07:01 GMT</lastBuildDate>
   </channel>
 </rss>
