@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Aug 2024 19:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 20:07:14 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the MDTI Article Digest</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917</link>
+      <pubDate>Tue, 20 Aug 2024 19:02:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917</guid>
+      <description>The MDTI team is excited to introduce the MDTI Article Digest, a new way for customers to stay up to speed with the latest analysis of threat activity observed across more than 78 trillion daily threat signals from Microsoft's interdisciplinary teams of experts worldwide. The digest, seamlessly integrated into the MDTI user interface in the threat intelligence blade of Defender XDR, shows users everything published since their last login:&#160;&#160;
+&#160;
+Customers will get a notification banner showing the number of articles published since their last login.
+&#160;
+Customers will see that not only does the dig...</description>
+    </item>
   </channel>
 </rss>
