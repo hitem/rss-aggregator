@@ -1,4 +1,3 @@
-2023-08-21T21:51:42 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-116/ba-p/3905425
 2023-08-22T12:23:50 https://techcommunity.microsoft.com/t5/microsoft-defender-external/one-microsoft-enriching-mdeasm-assets-with-threat-intelligence/ba-p/3905929
 2023-08-22T16:12:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/send-quot-how-to-guides-quot-to-your-organization-from-attack/ba-p/3867825
 2023-08-22T16:30:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280
