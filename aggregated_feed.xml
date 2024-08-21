@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Aug 2024 13:10:34 GMT</lastBuildDate>
-    <item>
-      <title>Defender for Identity PowerShell module update</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525</link>
-      <pubDate>Wed, 21 Aug 2024 12:39:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525</guid>
-      <description>Hi everyone! I'm excited to announce an update to the PowerShell module we released for Microsoft Defender for Identity earlier this year. These enhancements are designed to add some new functionality and address some of the feedback you provided in the comments. As always, we really appreciate your feedback and engagement with this module!
-&#160;
-Now let's dive into the what and why with this new release:
-&#160;
-New MDI Service Account cmdlet:
-The service account will be used for remote Security Account Manager (SAM) access and is provisioned in the portal for Defender for Identity Active Directory ope...</description>
-    </item>
+    <lastBuildDate>Wed, 21 Aug 2024 14:00:57 GMT</lastBuildDate>
   </channel>
 </rss>
