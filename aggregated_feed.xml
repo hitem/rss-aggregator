@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Aug 2024 00:30:27 GMT</lastBuildDate>
-    <item>
-      <title>Automate Tenant Allow/Block List entries</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201</link>
-      <pubDate>Wed, 21 Aug 2024 00:09:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201</guid>
-      <description>Transparency inside your Tenant Allow/Block List
-We are excited to share that we recently launched the last&#160;used date for allowed or blocked domains, email addresses, URLs, or files for Defender for Office 365. For block entries, the last used date is updated when the entity is encountered by the filtering system (at time of click or during mail flow). For allow entries, when the filtering system determines that the entity is malicious&#160;(at time of click or during mail flow), the allow entry is triggered and the last used date is updated.
-&#160;
-
-&#160;
-Use data driven allow management
-Now you can edit e...</description>
-    </item>
+    <lastBuildDate>Wed, 21 Aug 2024 01:57:58 GMT</lastBuildDate>
   </channel>
 </rss>
