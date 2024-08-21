@@ -1,4 +1,3 @@
-2023-08-22T12:23:50 https://techcommunity.microsoft.com/t5/microsoft-defender-external/one-microsoft-enriching-mdeasm-assets-with-threat-intelligence/ba-p/3905929
 2023-08-22T16:12:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/send-quot-how-to-guides-quot-to-your-organization-from-attack/ba-p/3867825
 2023-08-22T16:30:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280
 2023-08-22T16:58:28 https://techcommunity.microsoft.com/t5/azure-network-security-blog/strengthening-your-defenses-simulation-testing-for-azure-ddos/ba-p/3905823
@@ -636,3 +635,4 @@
 2024-08-20T16:21:46 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293
 2024-08-20T19:02:14 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917
 2024-08-21T00:09:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201
+2024-08-21T12:39:47 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525
