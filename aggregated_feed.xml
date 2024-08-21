@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Aug 2024 15:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 16:08:25 GMT</lastBuildDate>
+    <item>
+      <title>Critical Cloud Assets: Identifying and Protecting the Crown Jewels of your Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-cloud-assets-identifying-and-protecting-the-crown/ba-p/4222198</link>
+      <pubDate>Wed, 21 Aug 2024 15:40:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-cloud-assets-identifying-and-protecting-the-crown/ba-p/4222198</guid>
+      <description>Cloud computing has revolutionized the way businesses operate, with many organizations shifting their business-critical services and workloads to the cloud. This transition, and the massive growth of cloud environments, has led to a surge in security issues in need of addressing. Consequently, the need for contextual and differentiated security strategies is becoming a necessity. Organizations need solutions that allow them to detect, prioritize, and address security issues, based on their business-criticality and overall importance to the organization. Identifying an organization&#8217;s business-c...</description>
+    </item>
   </channel>
 </rss>

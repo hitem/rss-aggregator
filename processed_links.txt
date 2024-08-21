@@ -636,3 +636,4 @@
 2024-08-20T19:02:14 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917
 2024-08-21T00:09:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201
 2024-08-21T12:39:47 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525
+2024-08-21T15:40:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-cloud-assets-identifying-and-protecting-the-crown/ba-p/4222198
