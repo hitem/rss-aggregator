@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Aug 2024 21:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 22:00:58 GMT</lastBuildDate>
+    <item>
+      <title>How-To Migrate ConfigMgr Apps to Intune Win32Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-migrate-configmgr-apps-to-intune-win32apps/ba-p/4215400</link>
+      <pubDate>Wed, 21 Aug 2024 21:40:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-migrate-configmgr-apps-to-intune-win32apps/ba-p/4215400</guid>
+      <description>Hi, Jonas here!
+Or as we say in the north of Germany: "Moin Moin!"
+I&#8217;m a Microsoft Cloud Solution Architect and a while back I was asked on how to migrate ConfigMgr apps to Intune. The result is a PowerShell script which can be used to analyze ConfigMgr apps and migrate them to Intune. This article starts with a general overview about the process and contains an FAQ section instead of long text sections explaining everything in detail.
+If you haven&#8217;t seen my other articles yet, feel free to check them out here: https://aka.ms/JonasOhmsenBlogs
+&#160;
+Preparation
+Before running any migration step, it...</description>
+    </item>
   </channel>
 </rss>

@@ -638,3 +638,4 @@
 2024-08-21T16:32:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147
 2024-08-21T17:52:49 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-build-the-microsoft-purview-extended-report-experience/ba-p/4122028
 2024-08-21T18:04:24 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/guided-walkthrough-of-the-microsoft-purview-extended-report/ba-p/4121083
+2024-08-21T21:40:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-migrate-configmgr-apps-to-intune-win32apps/ba-p/4215400
