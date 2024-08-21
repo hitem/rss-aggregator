@@ -3,26 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Aug 2024 17:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 18:08:23 GMT</lastBuildDate>
     <item>
-      <title>Learn how to customize and optimize Copilot for Security with the custom Data Security plugin</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147</link>
-      <pubDate>Wed, 21 Aug 2024 16:32:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147</guid>
-      <description>This is a step-by-step guided walkthrough of how to use the custom Copilot for Security pack for Microsoft Data Security and how it can empower your organization to understand the cyber security risks in a context that allows them to achieve more. By focusing on the information and organizational context to reflect the real impact/value of investments and incidents in cyber. We are working to add this to our native toolset as well, we will update once ready.
+      <title>Guided walkthrough of the Microsoft Purview extended report experience</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/guided-walkthrough-of-the-microsoft-purview-extended-report/ba-p/4121083</link>
+      <pubDate>Wed, 21 Aug 2024 18:04:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/guided-walkthrough-of-the-microsoft-purview-extended-report/ba-p/4121083</guid>
+      <description>This is a step-by-step guided walkthrough of the Microsoft Purview extended report experience and how it can empower your organization to understand the cyber security risks in a context that allows them to achieve more. By focusing on the information and organizational context to reflect the real impact/value of investments and incidents in cyber.
 &#160;
 Prerequisites
 
-License requirements for Microsoft Purview Information Protection depend on the scenarios and features you use. To under...</description>
+License requirements for Microsoft Purview Information Protection depend on the scenarios and features you use. To understand your licensing requirements and options for Microsoft Purview Information Protection, see the&#160;Information ...</description>
     </item>
     <item>
-      <title>Cybersecurity in a context that allows your organization to achieve more</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-in-a-context-that-allows-your-organization-to/ba-p/4120041</link>
-      <pubDate>Wed, 21 Aug 2024 16:17:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-in-a-context-that-allows-your-organization-to/ba-p/4120041</guid>
-      <description>You don't need us to tell you about the current Cyber Security threat landscape, if you are reading this blog post you already know. You are also aware that the absence of evidence for a breach is not the same as not being breached and that your cyber security posture is constantly being assessed by adversaries.&#160;This is not becoming easier with the boom of AI and related services that are leading to a boom in data processing in combination with new capabilities for threat actors. Or... could it?
+      <title>How to build the Microsoft Purview extended report experience</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-build-the-microsoft-purview-extended-report-experience/ba-p/4122028</link>
+      <pubDate>Wed, 21 Aug 2024 17:52:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-build-the-microsoft-purview-extended-report-experience/ba-p/4122028</guid>
+      <description>This is a step-by-step guided walkthrough of the extended report experience.
 &#160;
-We are excited to provide you with a series of posts that will help you use the new technology to...</description>
+Prerequisites
+
+License requirements for Microsoft Purview Information Protection depend on the scenarios and features you use. To understand your licensing requirements and options for Microsoft Purview Information Protection, see the&#160;Information Protection&#160;sections from&#160;Microsoft 365 guidance for security &amp; compliance&#160;and the related&#160;PDF download&#160;for feature-level licensing requirements.
+Before you start,&#160;all endpoint interaction with Sensitive content is already being included in the audit logging with Endpoint DL...</description>
     </item>
   </channel>
 </rss>

@@ -636,3 +636,5 @@
 2024-08-21T15:40:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-cloud-assets-identifying-and-protecting-the-crown/ba-p/4222198
 2024-08-21T16:17:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-in-a-context-that-allows-your-organization-to/ba-p/4120041
 2024-08-21T16:32:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147
+2024-08-21T17:52:49 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-build-the-microsoft-purview-extended-report-experience/ba-p/4122028
+2024-08-21T18:04:24 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/guided-walkthrough-of-the-microsoft-purview-extended-report/ba-p/4121083
