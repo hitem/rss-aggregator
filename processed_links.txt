@@ -1,6 +1,3 @@
-2023-08-22T16:12:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/send-quot-how-to-guides-quot-to-your-organization-from-attack/ba-p/3867825
-2023-08-22T16:30:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280
-2023-08-22T16:58:28 https://techcommunity.microsoft.com/t5/azure-network-security-blog/strengthening-your-defenses-simulation-testing-for-azure-ddos/ba-p/3905823
 2023-08-23T11:30:23 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489
 2023-08-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-a-new-flexible-way-of-bringing-identities-from-any/ba-p/2466927
 2023-08-23T19:57:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-apis-better-together-with-azure-web-application/ba-p/3907308
@@ -637,3 +634,5 @@
 2024-08-21T00:09:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201
 2024-08-21T12:39:47 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525
 2024-08-21T15:40:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-cloud-assets-identifying-and-protecting-the-crown/ba-p/4222198
+2024-08-21T16:17:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-in-a-context-that-allows-your-organization-to/ba-p/4120041
+2024-08-21T16:32:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147
