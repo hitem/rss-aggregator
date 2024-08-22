@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 Aug 2024 11:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 12:11:17 GMT</lastBuildDate>
+    <item>
+      <title>Securing Multi-Cloud Gen AI workloads using Azure Native Solutions</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728</link>
+      <pubDate>Thu, 22 Aug 2024 12:08:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728</guid>
+      <description>Note: This series is part of &#8220;Security using Azure Native services&#8221; series and assumes that you are or planning to leverage Defender for Cloud, Defender XDR Portal, and Azure Sentinel.
+Introduction
+&#160;
+AI Based Technology introduces a new set of security risks that may not be comprehensively covered by existing risk management frameworks. Based on our experience, customers often only consider the risks related to the Gen AI models like OpenAI or Anthropic. Thereby, not taking a holistic approach that cover all aspects of the workload.
+&#160;
+This article will help you:
+
+Understand a typical multi-clo...</description>
+    </item>
   </channel>
 </rss>
