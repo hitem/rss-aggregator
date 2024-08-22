@@ -639,3 +639,4 @@
 2024-08-21T17:52:49 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-build-the-microsoft-purview-extended-report-experience/ba-p/4122028
 2024-08-21T18:04:24 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/guided-walkthrough-of-the-microsoft-purview-extended-report/ba-p/4121083
 2024-08-21T21:40:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-migrate-configmgr-apps-to-intune-win32apps/ba-p/4215400
+2024-08-22T01:22:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658

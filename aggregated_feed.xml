@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 Aug 2024 00:30:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 02:00:12 GMT</lastBuildDate>
+    <item>
+      <title>What's new: Multi-tenancy in the unified security operations platform experience  in Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658</link>
+      <pubDate>Thu, 22 Aug 2024 01:22:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658</guid>
+      <description>Multi-tenancy for Microsoft Sentinel in the Defender portal (unified security operations platform)
+&#160;
+Multi-tenancy, with a single workspace is now in public preview for customers using Microsoft&#8217;s unified security operations (SecOps) platform. This will expand the use cases we can support with this innovative experience that brings together the critical tools a SOC requires into a single experience to improve protection and efficiency. Read on to learn more about what is available now, and how to get started.
+&#160;
+What is Microsoft&#8217;s unified SecOps platform?
+The unified security operations platfo...</description>
+    </item>
   </channel>
 </rss>
