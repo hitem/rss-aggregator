@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 Aug 2024 14:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 15:01:47 GMT</lastBuildDate>
+    <item>
+      <title>Secure architecture design &#8211; How Defender for Office 365 protects against EchoSpoofing</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-architecture-design-how-defender-for-office-365-protects/ba-p/4225358</link>
+      <pubDate>Thu, 22 Aug 2024 14:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-architecture-design-how-defender-for-office-365-protects/ba-p/4225358</guid>
+      <description>A new spoofing technique labeled &#8220;EchoSpoofing&#8221; was recently reported that impacted select Proofpoint customers. This blog provides a brief overview of how this particular attack exploited their specific architecture&#160;and describes&#160;the architecture best practices implemented by Microsoft Defender for Office 365 that protect against EchoSpoofing and spoofing attacks broadly.
+&#160;
+What is &#8220;Spoofing&#8221;?
+Spoofing is a tactic used by threat actors to disguise their identity by manipulating data, such as the email sender address, to appear as a trusted source through impersonation. The goal of this techni...</description>
+    </item>
   </channel>
 </rss>
