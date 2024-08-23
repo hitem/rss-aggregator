@@ -639,3 +639,4 @@
 2024-08-22T01:22:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658
 2024-08-22T12:08:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728
 2024-08-22T14:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-architecture-design-how-defender-for-office-365-protects/ba-p/4225358
+2024-08-23T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/switch-off-virtual-machines-on-a-schedule-using-an-azure-tag/ba-p/4207182

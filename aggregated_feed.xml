@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 16:08:10 GMT</lastBuildDate>
+    <item>
+      <title>Switch off Virtual Machines on a schedule using an Azure Tag</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/switch-off-virtual-machines-on-a-schedule-using-an-azure-tag/ba-p/4207182</link>
+      <pubDate>Fri, 23 Aug 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/switch-off-virtual-machines-on-a-schedule-using-an-azure-tag/ba-p/4207182</guid>
+      <description>1. Introduction
+Managing the costs associated with running virtual machines (VMs) in Azure can be challenging, especially when VMs are left running during non-business hours. One effective solution is to schedule automatic shutdowns using Azure tags. In this blog, we'll walk you through a PowerShell script that uses an Azure tag to define and enforce VM shutdown schedules.
+&#160;
+2. Prerequisites
+Before you get started, ensure you have the following:
+
+An active Azure subscription.
+Appropriate permissions to manage VMs and read tag information.
+Basic knowledge of PowerShell scripting.
+
+&#160;
+3. Script O...</description>
+    </item>
   </channel>
 </rss>
