@@ -3,30 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Aug 2024 16:07:50 GMT</lastBuildDate>
-    <item>
-      <title>Architecting secure Gen AI applications: Preventing Indirect Prompt Injection Attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-indirect/ba-p/4221859</link>
-      <pubDate>Mon, 26 Aug 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-indirect/ba-p/4221859</guid>
-      <description>As developers, we must be vigilant about how attackers could misuse our applications. While maximizing the capabilities of Generative AI (Gen-AI) is desirable, it's essential to balance this with security measures to prevent abuse.
-&#160;
-In a recent blog post, we discussed how a Gen AI application should use user identities for accessing sensitive data and performing sensitive operations. This practice reduces the risk of jailbreak and prompt injections, preventing malicious users from gaining access to resources they don&#8217;t have permissions to.
-&#160;
-However, what if an attacker manages to run a promp...</description>
-    </item>
-    <item>
-      <title>Automating Disk Cleanup in Azure Using PowerShell, Azure Resource Graph and&#160;LastOwnershipUpdateTime</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-disk-cleanup-in-azure-using-powershell-azure-resource/ba-p/4207185</link>
-      <pubDate>Mon, 26 Aug 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-disk-cleanup-in-azure-using-powershell-azure-resource/ba-p/4207185</guid>
-      <description>Automating Disk Cleanup in Azure Using PowerShell, Azure Resource Graph and&#160;LastOwnershipUpdateTime
-Managing resources in Azure efficiently is crucial for cost optimization and operational efficiency. Recently, a new property, LastOwnershipUpdateTime, was introduced for Azure disks, which helps track the last state change of a disk. In this blog, we'll explore how to automate the cleanup of unattached disks older than 60 days using PowerShell and Azure Resource Graph queries.
-&#160;
-Introduction
-In this post, we'll cover:
-
-How to query Azure resources to find unattached disks using LastOwnershipUpd...</description>
-    </item>
+    <lastBuildDate>Mon, 26 Aug 2024 17:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
