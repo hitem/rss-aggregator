@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Aug 2024 15:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 16:07:26 GMT</lastBuildDate>
+    <item>
+      <title>Security mitigation for the Common Log Filesystem (CLFS)</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-mitigation-for-the-common-log-filesystem-clfs/ba-p/4224041</link>
+      <pubDate>Tue, 27 Aug 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-mitigation-for-the-common-log-filesystem-clfs/ba-p/4224041</guid>
+      <description>Microsoft will soon be releasing a new security mitigation for the Common Log File System (CLFS) to the Windows Insiders Canary channel. In the past five years, 24 CVEs impacting CLFS have been identified and mitigated, making it one of the largest targets for vulnerability research in Windows. Rather than continuing to address single issues as they are discovered, the Microsoft Offensive Research &amp; Security Engineering (MORSE) team has worked to add a new verification step to parsing CLFS logfiles, which aims to address a class of vulnerabilities all at once. This work will help protect our c...</description>
+    </item>
+    <item>
+      <title>Research Analysis and Guidance: Ensuring Android Security Update Adoption</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/research-analysis-and-guidance-ensuring-android-security-update/ba-p/4216714</link>
+      <pubDate>Tue, 27 Aug 2024 15:53:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/research-analysis-and-guidance-ensuring-android-security-update/ba-p/4216714</guid>
+      <description>Microsoft researchers analyzed anonymized and aggregated security patch level data from millions of Android devices enrolled with Microsoft Intune to better understand Android security update availability and adoption across Android device models. In this post, we describe our analysis, and we provide guidance to users and enterprises to keep their devices up to date against discovered vulnerabilities.
+&#160;
+Mobile devices are today&#8217;s most prevalent end-user computing platform, and their unique attributes (portability, ubiquitous network connectivity, frequent physical proximity to their owner, se...</description>
+    </item>
   </channel>
 </rss>

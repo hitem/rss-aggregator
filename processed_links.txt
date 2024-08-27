@@ -1,5 +1,3 @@
-2023-08-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-private-access-an-identity-centric-zero-trust/ba-p/3905451
-2023-08-28T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-loss-prevention-announcing-general/ba-p/3908106
 2023-08-28T17:35:23 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-chronicles-a-deep-dive-into-storm-0867/ba-p/3911769
 2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/coming-soon-platform-sso-for-macos/ba-p/3902280
 2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-the-steps-needed-to-protect-your-data-and-manage-identity/ba-p/3909959
@@ -640,3 +638,5 @@
 2024-08-23T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/switch-off-virtual-machines-on-a-schedule-using-an-azure-tag/ba-p/4207182
 2024-08-26T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-disk-cleanup-in-azure-using-powershell-azure-resource/ba-p/4207185
 2024-08-26T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-indirect/ba-p/4221859
+2024-08-27T15:53:44 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/research-analysis-and-guidance-ensuring-android-security-update/ba-p/4216714
+2024-08-27T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-mitigation-for-the-common-log-filesystem-clfs/ba-p/4224041
