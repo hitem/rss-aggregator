@@ -1,5 +1,3 @@
-2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/coming-soon-platform-sso-for-macos/ba-p/3902280
-2023-08-29T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-the-steps-needed-to-protect-your-data-and-manage-identity/ba-p/3909959
 2023-08-29T16:40:39 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133
 2023-08-30T11:38:38 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-new-incident-experience-is-generally/ba-p/3911534
 2023-08-30T12:08:23 https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-your-azure-security-azure-ddos-sentinel-solution-and/ba-p/3913420
@@ -639,3 +637,4 @@
 2024-08-26T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/architecting-secure-gen-ai-applications-preventing-indirect/ba-p/4221859
 2024-08-27T15:53:44 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/research-analysis-and-guidance-ensuring-android-security-update/ba-p/4216714
 2024-08-27T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-mitigation-for-the-common-log-filesystem-clfs/ba-p/4224041
+2024-08-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165
