@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Aug 2024 17:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Save ingestion costs by splitting logs into multiple tables and opting for the basic tier!</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/save-ingestion-costs-by-splitting-logs-into-multiple-tables-and/ba-p/4230861</link>
-      <pubDate>Wed, 28 Aug 2024 16:38:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/save-ingestion-costs-by-splitting-logs-into-multiple-tables-and/ba-p/4230861</guid>
-      <description>In this blog post I am going to talk about splitting logs to multiple tables and opting for basic tier to save cost in Microsoft Sentinel. Before we delve into the details, let&#8217;s try to understand what problem we are going to solve with this approach.
-Azure Monitor offers several log plans which our customers can opt for depending on their use cases. These log plans include:
-
-Analytics Logs &#8211; This plan is designed for frequent, concurrent access and supports interactive usage by multiple users. This plan drives the features in Azure Monitor Insights and powers Microsoft Sentinel. It is designe...</description>
-    </item>
+    <lastBuildDate>Wed, 28 Aug 2024 18:08:27 GMT</lastBuildDate>
   </channel>
 </rss>
