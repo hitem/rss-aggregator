@@ -3,15 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Aug 2024 16:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 17:00:58 GMT</lastBuildDate>
     <item>
-      <title>Protect and Detect: Microsoft Defender for Identity Expands to Entra Connect Server</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165</link>
-      <pubDate>Wed, 28 Aug 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165</guid>
-      <description>We are excited to announce a new Microsoft Defender for Identity sensor for Entra Connect servers. This addition is a significant step in our ongoing commitment to expanding Defender for Identity&#8217;s coverage across hybrid identity environments. It reinforces our vision of overseeing and protecting the entire identity fabric, greatly enhancing the SOC&#8217;s visibility and protections for these complex environments.
-&#160;
-Identities are one of, if not the most targeted attack vector and cyber-criminals are always evolving their strategies to exploit new vulnerabilities or gaps in protection. Many organiz...</description>
+      <title>Save ingestion costs by splitting logs into multiple tables and opting for the basic tier!</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/save-ingestion-costs-by-splitting-logs-into-multiple-tables-and/ba-p/4230861</link>
+      <pubDate>Wed, 28 Aug 2024 16:38:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/save-ingestion-costs-by-splitting-logs-into-multiple-tables-and/ba-p/4230861</guid>
+      <description>In this blog post I am going to talk about splitting logs to multiple tables and opting for basic tier to save cost in Microsoft Sentinel. Before we delve into the details, let&#8217;s try to understand what problem we are going to solve with this approach.
+Azure Monitor offers several log plans which our customers can opt for depending on their use cases. These log plans include:
+
+Analytics Logs &#8211; This plan is designed for frequent, concurrent access and supports interactive usage by multiple users. This plan drives the features in Azure Monitor Insights and powers Microsoft Sentinel. It is designe...</description>
     </item>
   </channel>
 </rss>
