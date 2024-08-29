@@ -1,4 +1,3 @@
-2023-08-30T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/cybersecurity-101-what-are-the-three-pillars-of-a-robust/ba-p/3888034
 2023-08-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/cross-tenant-access-settings-improvements/ba-p/3822036
 2023-08-30T23:57:08 https://techcommunity.microsoft.com/t5/azure-network-security-blog/maximizing-effectiveness-best-practices-for-azure-ddos/ba-p/3914324
 2023-08-31T16:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-new-features-and-region-availability/ba-p/3911830
