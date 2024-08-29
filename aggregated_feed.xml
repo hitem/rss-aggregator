@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Aug 2024 12:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 13:13:29 GMT</lastBuildDate>
+    <item>
+      <title>Detect Container Drift with Microsoft Defender for Containers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044</link>
+      <pubDate>Thu, 29 Aug 2024 12:38:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044</guid>
+      <description>Introduction
+In cloud-native Kubernetes environments, Containers are often treated as immutable&#160;resources, meaning they shouldn&#8217;t change after deployment. Immutable containers minimize the attack surface because they do not allow modifications during runtime. This limits the potential for attackers to make unauthorized changes, install malware, or create backdoors within a running container.
+Container drift refers to unintended or unauthorized manual changes, updates, patches, or other modifications made during its runtime. When containers drift, they may incorporate untested and unverified ch...</description>
+    </item>
   </channel>
 </rss>

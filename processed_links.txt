@@ -636,3 +636,4 @@
 2024-08-27T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-mitigation-for-the-common-log-filesystem-clfs/ba-p/4224041
 2024-08-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165
 2024-08-28T16:38:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/save-ingestion-costs-by-splitting-logs-into-multiple-tables-and/ba-p/4230861
+2024-08-29T12:38:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044
