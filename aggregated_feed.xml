@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Aug 2024 17:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Monitoring traffic flows in Azure Firewall using Virtual Network Flow Logs</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-traffic-flows-in-azure-firewall-using-virtual-network/ba-p/4233245</link>
-      <pubDate>Fri, 30 Aug 2024 16:46:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-traffic-flows-in-azure-firewall-using-virtual-network/ba-p/4233245</guid>
-      <description>Azure Firewall is a managed service designed to protect your Azure Virtual Network resources, providing advanced threat protection and advanced logs and metrics that are essential tools for monitoring and managing your network security. By leveraging both logs and metrics, you can ensure the overall health and efficiency of your firewall, maintain an audit trail of configuration changes, and comply with security and auditing requirements.
-&#160;
-In this blog post we will show you a different approach to enhance the monitoring experience of Azure Firewall by using Virtual Network Flow Logs and Traff...</description>
-    </item>
+    <lastBuildDate>Fri, 30 Aug 2024 18:08:42 GMT</lastBuildDate>
   </channel>
 </rss>
