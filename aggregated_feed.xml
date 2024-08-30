@@ -3,31 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Aug 2024 16:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 17:01:05 GMT</lastBuildDate>
     <item>
-      <title>Easily deploy an Azure Open AI instance with Documents</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/easily-deploy-an-azure-open-ai-instance-with-documents/ba-p/4207187</link>
-      <pubDate>Fri, 30 Aug 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/easily-deploy-an-azure-open-ai-instance-with-documents/ba-p/4207187</guid>
-      <description>Introduction
-Deploying an Azure OpenAI instance integrated with a Search Index and a Storage Account can significantly enhance your applications' capabilities. In this guide, I will walk you through the process step-by-step.
+      <title>Monitoring traffic flows in Azure Firewall using Virtual Network Flow Logs</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-traffic-flows-in-azure-firewall-using-virtual-network/ba-p/4233245</link>
+      <pubDate>Fri, 30 Aug 2024 16:46:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-traffic-flows-in-azure-firewall-using-virtual-network/ba-p/4233245</guid>
+      <description>Azure Firewall is a managed service designed to protect your Azure Virtual Network resources, providing advanced threat protection and advanced logs and metrics that are essential tools for monitoring and managing your network security. By leveraging both logs and metrics, you can ensure the overall health and efficiency of your firewall, maintain an audit trail of configuration changes, and comply with security and auditing requirements.
 &#160;
-Prerequisites
-
-An active Azure subscription
-Azure CLI installed
-Basic understanding of Azure services
-
-&#160;
-Step 1: Setting Up the Azure OpenAI Instance
-Create a Resource Group. In our case I called it&#160;DeployOpenAI.
-&#160;
-&#160;
-&#160;
-&#160;Next we will deploy the Open AI instance by going to All Services and Searching for Open AI&#160;
-
-&#160;
-Create the Instance by placing it in your same resource G...</description>
+In this blog post we will show you a different approach to enhance the monitoring experience of Azure Firewall by using Virtual Network Flow Logs and Traff...</description>
     </item>
   </channel>
 </rss>

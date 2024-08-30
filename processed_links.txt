@@ -633,3 +633,4 @@
 2024-08-28T16:38:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/save-ingestion-costs-by-splitting-logs-into-multiple-tables-and/ba-p/4230861
 2024-08-29T12:38:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044
 2024-08-30T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/easily-deploy-an-azure-open-ai-instance-with-documents/ba-p/4207187
+2024-08-30T16:46:01 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-traffic-flows-in-azure-firewall-using-virtual-network/ba-p/4233245
