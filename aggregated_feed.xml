@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Sep 2024 18:08:40 GMT</lastBuildDate>
-    <item>
-      <title>Unlocking Real-World Security: Defending against Crypto mining attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unlocking-real-world-security-defending-against-crypto-mining/ba-p/4228815</link>
-      <pubDate>Tue, 03 Sep 2024 17:56:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unlocking-real-world-security-defending-against-crypto-mining/ba-p/4228815</guid>
-      <description>Cross-domain attacks remain a critical challenge for most security teams. As attackers use a combination of threat vectors to gain a foothold in an organization, visibility across critical assets becomes vital. With advanced attacks like cryptojacking and IaaS resource theft becoming increasingly prominent, it&#8217;s clear that attacks are crossing boundaries into cloud and hybrid workloads. The importance of natively integrating your XDR and cloud security insights becomes crucial when defending against these attacks.&#160;
-&#160;
-Since we integrated&#160;cloud workload alerts, signals and asset information from...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Sep 2024 19:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
