@@ -635,3 +635,5 @@
 2024-09-03T10:42:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-september-2024/ba-p/4235266
 2024-09-03T14:38:51 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-5-enforcing-ldap-channel/ba-p/4235497
 2024-09-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/mfa-enforcement-for-microsoft-entra-admin-center-sign-in-coming/ba-p/4230849
+2024-09-03T16:37:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-prioritization-is/ba-p/4160316
+2024-09-03T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632
