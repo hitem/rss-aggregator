@@ -3,24 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Sep 2024 17:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 18:08:40 GMT</lastBuildDate>
     <item>
-      <title>Hunting with Microsoft Graph activity logs</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632</link>
-      <pubDate>Tue, 03 Sep 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632</guid>
-      <description>Introduction
-Microsoft Graph is a unified REST API endpoint that allows you to query data from various sources, including data stored in Microsoft 365. Microsoft Graph provides access to a suite of services including Microsoft 365, Enterprise Mobility + Security, and Windows. In the wrong hands, access to Microsoft Graph API can be misused by threat actors to compromise users; for example, by reading emails or files on SharePoint.
+      <title>Unlocking Real-World Security: Defending against Crypto mining attacks</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unlocking-real-world-security-defending-against-crypto-mining/ba-p/4228815</link>
+      <pubDate>Tue, 03 Sep 2024 17:56:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unlocking-real-world-security-defending-against-crypto-mining/ba-p/4228815</guid>
+      <description>Cross-domain attacks remain a critical challenge for most security teams. As attackers use a combination of threat vectors to gain a foothold in an organization, visibility across critical assets becomes vital. With advanced attacks like cryptojacking and IaaS resource theft becoming increasingly prominent, it&#8217;s clear that attacks are crossing boundaries into cloud and hybrid workloads. The importance of natively integrating your XDR and cloud security insights becomes crucial when defending against these attacks.&#160;
 &#160;
-Responding to and detecting these cloud-based attacks is of utmost priority. Multiple products and logs are available to help with threat investigation and detecti...</description>
-    </item>
-    <item>
-      <title>Microsoft Security Exposure Management Graph: Prioritization is the king</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-prioritization-is/ba-p/4160316</link>
-      <pubDate>Tue, 03 Sep 2024 16:37:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-prioritization-is/ba-p/4160316</guid>
-      <description>Recap: Microsoft&#8217;s Security Exposure Management Graph
-In the dynamic world of cybersecurity, staying ahead of threats is not merely about reacting to threats but proactively understanding and&#160;managing the security posture of every asset within an organization. The introduction of Microsoft&#8217;s ExposureGraphEdges &amp; ExposureGraphNodes tables within Advanced Hunting signifies a substantial advancement in exposure management tools. These tables&#160;encapsulate the entire dataset of the Microsoft Security Exposure Management Graph. In this blog, we delve into key concepts and&#160;provide powerful queries tha...</description>
+Since we integrated&#160;cloud workload alerts, signals and asset information from...</description>
     </item>
   </channel>
 </rss>
