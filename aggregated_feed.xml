@@ -3,6 +3,98 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Sep 2024 19:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 20:07:29 GMT</lastBuildDate>
+    <item>
+      <title>Monthly News - September 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2024/ba-p/4235917</link>
+      <pubDate>Tue, 03 Sep 2024 19:55:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2024/ba-p/4235917</guid>
+      <description>
+
+
+
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+September 2024 Edition
+
+
+
+
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from August 2024.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcasts (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External content
+
+Product improvements
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+
+
+The new version of File Integrity Monitoring (FIM) based on Microsoft Defender for Endpoint (MDE) is now in public...</description>
+    </item>
+    <item>
+      <title>Grow Your Security Skillset in Record Time with 30 Day Plans on Microsoft Learn</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grow-your-security-skillset-in-record-time-with-30-day-plans-on/ba-p/4233368</link>
+      <pubDate>Tue, 03 Sep 2024 19:51:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grow-your-security-skillset-in-record-time-with-30-day-plans-on/ba-p/4233368</guid>
+      <description>Even in the age of AI, the need for human talent isn&#8217;t going away anytime soon, with some 4 million cybersecurity jobs still available globally. At the same time, IT professionals and security practitioners who can meet evolving security needs have much to gain. For instance, professionals with AI skills earn 21% more on average than those without.&#160;
+&#160;
+Whether you want to further your security career through technical upskilling, or need to fortify your teams&#8217; abilities with game-changing technologies like AI, Microsoft Learn&#8217;s 30 Day Plans are a smart way to meet all of these needs by helping ...</description>
+    </item>
+    <item>
+      <title>Private IP DNAT Support and Scenarios with Azure Firewall</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-and-scenarios-with-azure-firewall/ba-p/4230073</link>
+      <pubDate>Tue, 03 Sep 2024 19:45:23 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-and-scenarios-with-azure-firewall/ba-p/4230073</guid>
+      <description>Introduction
+Azure Firewall is a cloud native security service to protect your workloads running in Azure. It is a stateful firewall as a service with built-in high availability and auto scale. Azure Firewall supports three rule types: DNAT, Network and Application rules.
+&#160;
+In this blog, we will talk about enhancements to the DNAT rules. Up until recently, DNAT rules only was only supported on the Firewall Public IP addresses, mostly used for incoming traffic. In this release, we have enhanced DNAT scenario to support port translation on Azure Private IP (VIP). This capability helps with conne...</description>
+    </item>
   </channel>
 </rss>

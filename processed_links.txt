@@ -637,3 +637,6 @@
 2024-09-03T16:37:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-prioritization-is/ba-p/4160316
 2024-09-03T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632
 2024-09-03T17:56:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unlocking-real-world-security-defending-against-crypto-mining/ba-p/4228815
+2024-09-03T19:45:23 https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-and-scenarios-with-azure-firewall/ba-p/4230073
+2024-09-03T19:51:28 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/grow-your-security-skillset-in-record-time-with-30-day-plans-on/ba-p/4233368
+2024-09-03T19:55:54 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2024/ba-p/4235917
