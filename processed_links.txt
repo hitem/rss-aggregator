@@ -633,3 +633,4 @@
 2024-08-30T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/easily-deploy-an-azure-open-ai-instance-with-documents/ba-p/4207187
 2024-08-30T16:46:01 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-traffic-flows-in-azure-firewall-using-virtual-network/ba-p/4233245
 2024-09-03T10:42:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-september-2024/ba-p/4235266
+2024-09-03T14:38:51 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-5-enforcing-ldap-channel/ba-p/4235497

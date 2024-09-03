@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Sep 2024 14:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:06:05 GMT</lastBuildDate>
+    <item>
+      <title>Active Directory Hardening Series - Part 5 &#8211; Enforcing LDAP Channel Binding</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-5-enforcing-ldap-channel/ba-p/4235497</link>
+      <pubDate>Tue, 03 Sep 2024 14:38:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-5-enforcing-ldap-channel/ba-p/4235497</guid>
+      <description>Hi all! - Jerry Devore back again to talk more about securing LDAP.&#160; This time I want to cover LDAP channel binding.&#160; If you have been following this series, you already know that LDAP signing should be enforced to prevent relay and MITM attacks.&#160; So, what is the purpose of enforcing LDAP channel binding?&#160; Well, channel binding can be used to prevent relay and MITM attacks against LDAP.&#160; If you don&#8217;t find that explanation helpful you are not alone.&#160; A lot of people are struggling to understand why both are necessary.&#160; I hope to clear things up and give you the information you need to move forw...</description>
+    </item>
   </channel>
 </rss>
