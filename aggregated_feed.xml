@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Sep 2024 15:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 16:07:58 GMT</lastBuildDate>
+    <item>
+      <title>How your submissions to Defender for Office 365 are processed behind-the-scenes</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/how-your-submissions-to-defender-for-office-365-are-processed/ba-p/4231551</link>
+      <pubDate>Wed, 04 Sep 2024 15:54:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/how-your-submissions-to-defender-for-office-365-are-processed/ba-p/4231551</guid>
+      <description>Microsoft Defender for Office 365 enables users and administrators to submit suspicious items for analysis (email and Teams messages, files, or URLs) to enhance detection and prevention. Your submissions allow Microsoft to determine the nature of the item, update filtering decisions, and offer you actionable insights. We're often asked what happens after you submit an item to Microsoft, so here's a brief overview of what happens behind-the-scenes.
+&#160;
+How to submit items to Defender for Office 365
+You can submit items to Microsoft Defender for Office 365 in diverse ways, depending on your role a...</description>
+    </item>
   </channel>
 </rss>
