@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Sep 2024 21:00:49 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender Experts services are now HIPAA and ISO certified</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-services-are-now-hipaa-and-iso/ba-p/4236972</link>
-      <pubDate>Wed, 04 Sep 2024 20:29:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-services-are-now-hipaa-and-iso/ba-p/4236972</guid>
-      <description>We are pleased to announce that Microsoft Defender Experts for XDR and Microsoft Defender Experts for Hunting can help healthcare and life science customers in meeting their Health Insurance Portability and Accountability Act (HIPAA) obligations. To carry out proactive threat hunting and managed detection and response on behalf of our customers, our Defender Experts team needs access to their Microsoft Defender portal alerts, incidents, and advanced threat hunting data. We can now support our customers&#8217; compliance with HIPAA when they utilize Defender Experts services through a Business Associ...</description>
-    </item>
+    <lastBuildDate>Wed, 04 Sep 2024 22:00:42 GMT</lastBuildDate>
   </channel>
 </rss>
