@@ -639,3 +639,4 @@
 2024-09-04T20:29:47 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-services-are-now-hipaa-and-iso/ba-p/4236972
 2024-09-05T08:43:54 https://techcommunity.microsoft.com/t5/azure-network-security-blog/independent-configuration-of-size-enforcement-and-inspection/ba-p/4235543
 2024-09-05T16:24:08 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/harnessing-the-power-of-generative-ai-to-protect-your-data/ba-p/4237729
+2024-09-05T19:42:40 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-128/ba-p/4237524

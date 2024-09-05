@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Sep 2024 19:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 20:00:54 GMT</lastBuildDate>
+    <item>
+      <title>Security baseline for Microsoft Edge version 128</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-128/ba-p/4237524</link>
+      <pubDate>Thu, 05 Sep 2024 19:42:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-128/ba-p/4237524</guid>
+      <description>&#160;
+We are pleased to announce the enterprise-ready release of the security baseline for Microsoft Edge version 128!
+&#160;
+&#160;
+We have reviewed the settings in Microsoft Edge version 128 and updated our guidance with the addition of two settings and the removal of two settings. A new Microsoft Edge security baseline package was just released to the Download Center. You can download the new package from the Security Compliance Toolkit.
+&#160;
+&#160;
+Dynamic Code Settings (Added)
+&#160;
+This setting is part of our long-term strategy to prevent potentially-risky third-party code from interacting with the browser proces...</description>
+    </item>
   </channel>
 </rss>
