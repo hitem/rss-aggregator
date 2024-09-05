@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Sep 2024 09:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Independent Configuration of Size Enforcement and Inspection Limits in Application Gateway WAF</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/independent-configuration-of-size-enforcement-and-inspection/ba-p/4235543</link>
-      <pubDate>Thu, 05 Sep 2024 08:43:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/independent-configuration-of-size-enforcement-and-inspection/ba-p/4235543</guid>
-      <description>Introduction
-&#160;
-In the constantly changing world of cybersecurity, both flexibility and effective security are essential for safeguarding applications. To meet these needs, Microsoft Azure recently released, in General Availability, the independent configuration of size enforcement limits and inspection limits in Web Application Firewall (WAF) integrated in Application Gateway v2. This update also allows users to disable size limits for both request body and file uploads without affecting request body inspections. This enhancement will enable users to fine-tune these settings - providing the ab...</description>
-    </item>
+    <lastBuildDate>Thu, 05 Sep 2024 10:07:17 GMT</lastBuildDate>
   </channel>
 </rss>
