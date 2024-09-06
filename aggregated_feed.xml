@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 06 Sep 2024 21:01:42 GMT</lastBuildDate>
-    <item>
-      <title>Introducing the MDTI Home Page Widget and Article Digest</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-home-page-widget-and-article-digest/ba-p/4223917</link>
-      <pubDate>Fri, 06 Sep 2024 20:49:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-home-page-widget-and-article-digest/ba-p/4223917</guid>
-      <description>
-The MDTI team is excited to announce the Threat Intelligence Widget in the Microsoft Defender home page and the MDTI Article Digest, two handy new features that make Microsoft threat intelligence more accessible, digestible, and relevant. When customers login to the Unified SecOps platform, they will now see a&#160;widget that&#160;displays featured threat intelligence articles containing the most impactful content on the threat landscape. Via the digest, they can stay up to speed with a summary of the latest threat intelligence published since their last login. 
-&#160;
-MDTI Article Digest
-
-&#160;
-The MDTI artic...</description>
-    </item>
+    <lastBuildDate>Fri, 06 Sep 2024 22:01:46 GMT</lastBuildDate>
   </channel>
 </rss>
