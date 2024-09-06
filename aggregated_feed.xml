@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 06 Sep 2024 14:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 15:01:36 GMT</lastBuildDate>
+    <item>
+      <title>(Preview) Dynamic watermarking available on Android and iOS with new date-time variable</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-available-on-android-and-ios-with/ba-p/4238023</link>
+      <pubDate>Fri, 06 Sep 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-available-on-android-and-ios-with/ba-p/4238023</guid>
+      <description>Sensitivity labels from Microsoft Purview Information Protection offer highly effective controls to limit access to sensitive files and to prevent users from taking inappropriate actions such as printing a document, while still allowing unhindered collaboration. However, it&#8217;s still possible for users to take pictures of sensitive information on their screen or of a presentation being shared either online or in-person, and some forms of screen-shotting cannot be blocked with existing technology. This loophole presents an easy way to bypass protections that sensitivity labels enforce on a docume...</description>
+    </item>
   </channel>
 </rss>
