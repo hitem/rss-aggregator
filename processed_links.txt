@@ -639,3 +639,4 @@
 2024-09-05T16:24:08 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/harnessing-the-power-of-generative-ai-to-protect-your-data/ba-p/4237729
 2024-09-05T19:42:40 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-128/ba-p/4237524
 2024-09-06T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/preview-dynamic-watermarking-available-on-android-and-ios-with/ba-p/4238023
+2024-09-06T20:49:54 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-home-page-widget-and-article-digest/ba-p/4223917
