@@ -1,4 +1,3 @@
-2023-09-07T23:19:09 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-data-map-audit-history-private-preview/ba-p/3921587
 2023-09-08T17:19:46 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/hardware-amp-firmware-assessment-to-identify-devices-with-amd/ba-p/3909040
 2023-09-11T11:10:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-egress-traffic-demystified/ba-p/3923909
 2023-09-12T19:33:21 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-devops-policies-for-azure-sql-mi-enters-public/ba-p/3925690
