@@ -3,27 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Sep 2024 16:07:25 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft's quantum-resistant cryptography is here</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780</link>
-      <pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780</guid>
-      <description>How we are preparing for the future of cryptography
-Cryptography is the science of securing information from unauthorized access or modification. It is essential for protecting the privacy and integrity of data in the digital world. However, cryptography is not static. It evolves with advances in mathematics, computer science, and technology. One of the biggest challenges that cryptography faces today is the future threat from substantially more powerful quantum computers
-&#160;
-Quantum computing leverages the properties of quantum physics, such as superposition and entanglement, operations that ar...</description>
-    </item>
-    <item>
-      <title>The power of Data Collection Rules: Collecting events for advanced use cases in Microsoft USOP</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-collecting-events-for/ba-p/4236486</link>
-      <pubDate>Mon, 09 Sep 2024 15:29:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-collecting-events-for/ba-p/4236486</guid>
-      <description>Monitoring Windows Security events is important to every organization's security. Security events can reveal a lot of information that might lead to the discovery of an attack, a sustained effort to access the organization's network and many other threats detrimental to the organization.
-&#160;
-Using Microsoft Sentinel to collect Windows events via Azure Monitor agent (AMA) provides you with an easy way to configure and filter events of interest. In this blog post we will discuss some attacks and how to discover them using KQL queries for analytics, custom detections, hunting queries, etc.
-&#160;
-Settin...</description>
-    </item>
+    <lastBuildDate>Mon, 09 Sep 2024 17:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
