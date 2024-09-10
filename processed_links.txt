@@ -640,3 +640,5 @@
 2024-09-09T15:29:52 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-collecting-events-for/ba-p/4236486
 2024-09-09T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780
 2024-09-09T18:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-the-critical-role-of-identities/ba-p/4236688
+2024-09-10T15:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improve-end-user-resilience-against-qr-code-phishing/ba-p/4225742
+2024-09-10T15:43:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234
