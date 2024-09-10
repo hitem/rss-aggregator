@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Sep 2024 16:07:39 GMT</lastBuildDate>
-    <item>
-      <title>SIEM Migration Update: Now Migrate with contextual depth in translations with Microsoft Sentinel!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234</link>
-      <pubDate>Tue, 10 Sep 2024 15:43:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234</guid>
-      <description>What's new in SIEM Migration?
-&#160;
-The process of moving from Splunk to Microsoft Sentinel via the SIEM Migration experience has been enhanced with three key additions that help customers get more context aware translations of their detections from Splunk to Sentinel. These features let customers provide more contextual details about their Splunk environment &amp; usage to the Microsoft Sentinel SIEM Migration translation engine so it can account for them when converting the detections from SPL to KQL. These are:
-
-Schema Mapping
-Support for Splunk Macros in translation
-Support for Splunk Lookups in t...</description>
-    </item>
-    <item>
-      <title>Improve end user resilience against QR code phishing</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improve-end-user-resilience-against-qr-code-phishing/ba-p/4225742</link>
-      <pubDate>Tue, 10 Sep 2024 15:10:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improve-end-user-resilience-against-qr-code-phishing/ba-p/4225742</guid>
-      <description>QR codes are gaining popularity as an easy way to access information for services and products. While QR codes are often used as convenient shortcuts, they can also be used by cybercriminals to trick users into accidentally scanning QR codes and expose themselves to risks. Understanding the dangers of QR codes, such as being redirected to fake websites or downloading malware, is crucial. Education enables users to check if QR codes are genuine, examine destination URLs, and use reliable apps for scanning. In the ongoing fight against phishing, informed end users become an important line of def...</description>
-    </item>
+    <lastBuildDate>Tue, 10 Sep 2024 17:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
