@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 11 Sep 2024 19:01:08 GMT</lastBuildDate>
-    <item>
-      <title>Omdia&#8217;s perspective on Microsoft&#8217;s SSE solution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/omdia-s-perspective-on-microsoft-s-sse-solution/ba-p/4237794</link>
-      <pubDate>Wed, 11 Sep 2024 18:23:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/omdia-s-perspective-on-microsoft-s-sse-solution/ba-p/4237794</guid>
-      <description>In July, we announced the general availability of the Microsoft Entra Suite and Microsoft&#8217;s Security Service Edge (SSE) solution which includes Microsoft Entra Internet Access and Microsoft Entra Private Access. &#160;
-&#160;
-Microsoft&#8217;s vision for SSE
-&#160;
-Microsoft&#8217;s SSE solution aims to revolutionize the way organizations secure access to any cloud or on-premises applications. It unifies identity and network access through Conditional Access, the Zero Trust policy engine, helping to eliminate security loopholes and bolster your organization&#8217;s security stance against threats. Delivered from one of the la...</description>
-    </item>
+    <lastBuildDate>Wed, 11 Sep 2024 20:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
