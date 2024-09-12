@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 12 Sep 2024 18:09:11 GMT</lastBuildDate>
-    <item>
-      <title>Welcome to the Microsoft Incident Response Ninja Hub</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594</link>
-      <pubDate>Thu, 12 Sep 2024 18:00:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594</guid>
-      <description>We&#8217;re excited to announce the Microsoft Incident Response Ninja Hub. This page includes a compilation of guides and resources that the Microsoft Incident Response team has developed on threat hunting, case studies, incident response guides, and more. Many of these pieces were also developed in collaboration with Microsoft&#8217;s partners across Microsoft Security, providing a unique view into how the Microsoft Security ecosystem leans on cross-team collaboration to protect our customers.
-&#160;
-This page will be continually updated as the team develops and publishes more resources, so be sure to bookmar...</description>
-    </item>
+    <lastBuildDate>Thu, 12 Sep 2024 19:01:18 GMT</lastBuildDate>
   </channel>
 </rss>
