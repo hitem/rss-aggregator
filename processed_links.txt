@@ -641,3 +641,4 @@
 2024-09-10T15:10:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improve-end-user-resilience-against-qr-code-phishing/ba-p/4225742
 2024-09-10T15:43:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234
 2024-09-11T18:23:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/omdia-s-perspective-on-microsoft-s-sse-solution/ba-p/4237794
+2024-09-12T18:00:29 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594
