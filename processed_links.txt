@@ -1,5 +1,3 @@
-2023-09-14T15:07:49 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-enterprise-points-of-clarification-and-poc-proven/ba-p/3927525
-2023-09-14T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-id-named-leader-in-kuppingercole-s-access/ba-p/3827394
 2023-09-18T00:01:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/another-way-to-personalize-multiple-threshold-in-log-analytics/ba-p/3928827
 2023-09-18T14:36:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-for-cloud-storage-ga-announcement-prevent/ba-p/3884470
 2023-09-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/respond-to-threats-across-tenants-more-effectively-with/ba-p/3901174
