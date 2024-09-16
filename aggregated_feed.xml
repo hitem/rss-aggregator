@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Sep 2024 13:16:04 GMT</lastBuildDate>
-    <item>
-      <title>The power of Data Collection Rules: Monitoring PowerShell usage</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-monitoring-powershell-usage/ba-p/4236527</link>
-      <pubDate>Mon, 16 Sep 2024 12:24:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-monitoring-powershell-usage/ba-p/4236527</guid>
-      <description>This is Part 2 of our Blog series on how to collect events using DCRs for advanced use cases. For Part 1, please check The power of Data Collection Rules: Collecting events for advanced use cases in Microsoft USOP - Microsoft Community Hub.
-&#160;
-PowerShell is a great tool for administrators to manage devices and servers in their environment. When using it to administer remote systems with PSRemoting, you don&#8217;t leave credentials behind on the target systems &#8211; as opposed to RDP with which your credentials would be stored in the Local Security Authority (LSA). This provides many security benefits an...</description>
-    </item>
+    <lastBuildDate>Mon, 16 Sep 2024 14:06:48 GMT</lastBuildDate>
   </channel>
 </rss>
