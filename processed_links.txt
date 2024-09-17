@@ -1,4 +1,3 @@
-2023-09-18T20:24:27 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-117/ba-p/3930862
 2023-09-18T21:11:20 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/another-way-to-personalize-multiple-thresholds-in-log-analytics/ba-p/3928827
 2023-09-19T16:32:08 https://techcommunity.microsoft.com/t5/microsoft-defender-external/an-introduction-to-microsoft-defender-easm-s-data-connections/ba-p/3931727
 2023-09-19T18:17:49 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-rename-rollout-and-resources/ba-p/2520432
