@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Sep 2024 16:08:31 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra Internet Access now generally available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-now-generally-available/ba-p/3922547</link>
-      <pubDate>Wed, 18 Sep 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-now-generally-available/ba-p/3922547</guid>
-      <description>With the rise of hybrid work, identity and network security professionals are now at the forefront of protecting their organizations. Traditional network security tools fall short in meeting the integration, complexity, and scale requirements of anywhere access, leaving organizations exposed to security risks and poor user experiences. To address this, network security and identity must function as a unified force in defense. Only when identity and network controls deeply integrate into secure access, can we fully deliver on the core Zero Trust principles, where trust is never implicit and acc...</description>
-    </item>
+    <lastBuildDate>Wed, 18 Sep 2024 17:01:26 GMT</lastBuildDate>
   </channel>
 </rss>
