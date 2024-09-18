@@ -634,3 +634,4 @@
 2024-09-12T18:00:29 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594
 2024-09-16T12:24:24 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-monitoring-powershell-usage/ba-p/4236527
 2024-09-18T11:24:35 https://techcommunity.microsoft.com/t5/azure-network-security-blog/utilizing-azure-ddos-protection-workbook-for-ddos-attack-traffic/ba-p/4248830
+2024-09-18T13:13:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-browser-anomalies-to-disrupt-attacks-early/ba-p/4246459
