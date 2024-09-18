@@ -1,5 +1,3 @@
-2023-09-19T18:17:49 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-rename-rollout-and-resources/ba-p/2520432
-2023-09-19T18:52:26 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-device-isolation-support-for-linux/ba-p/3676400
 2023-09-19T21:58:55 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/a-day-in-the-life-of-a-defender-experts-for-xdr-analyst/ba-p/3932140
 2023-09-20T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2023/ba-p/3928874
 2023-09-20T11:34:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-defender-for-cloud-coverage/ba-p/3932602
