@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Sep 2024 11:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 12:12:18 GMT</lastBuildDate>
+    <item>
+      <title>Utilizing Azure DDoS Protection Workbook for DDoS attack traffic Analysis</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/utilizing-azure-ddos-protection-workbook-for-ddos-attack-traffic/ba-p/4248830</link>
+      <pubDate>Wed, 18 Sep 2024 11:24:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/utilizing-azure-ddos-protection-workbook-for-ddos-attack-traffic/ba-p/4248830</guid>
+      <description>In today's digital age, the security of applications, servers, and networks is paramount. One of the most significant threats to this security is Distributed Denial of Service (DDoS) attacks. These attacks can cripple your infrastructure, leading to downtime, loss of revenue, and damage to your reputation. Therefore, it is crucial to implement robust protection mechanisms to safeguard your digital assets.
+&#160;
+Azure DDoS Protection offers a comprehensive solution to defend against these malicious attacks. It provides automatic attack detection and mitigation, ensuring that your applications and s...</description>
+    </item>
   </channel>
 </rss>
