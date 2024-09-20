@@ -1,4 +1,3 @@
-2023-09-21T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/catch-defender-experts-for-xdr-on-the-ninja-show/ba-p/3933282
 2023-09-21T21:55:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-1-disabling-ntlmv1/ba-p/3934787
 2023-09-21T22:02:49 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/fortifying-your-defenses-how-microsoft-sentinel-safeguards-your/ba-p/3934807
 2023-09-22T05:10:23 https://techcommunity.microsoft.com/t5/azure-network-security-blog/rate-limiting-feature-for-azure-waf-on-application-gateway-now/ba-p/3934957
