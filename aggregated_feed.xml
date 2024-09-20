@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 20 Sep 2024 16:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 17:00:41 GMT</lastBuildDate>
+    <item>
+      <title>Implementing Governance for your Azure Cloud Using Azure Policy</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-governance-for-your-azure-cloud-using-azure-policy/ba-p/4251248</link>
+      <pubDate>Fri, 20 Sep 2024 16:25:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-governance-for-your-azure-cloud-using-azure-policy/ba-p/4251248</guid>
+      <description>&#160;
+What is Azure Policy?
+Azure Policy is a service that allows you to create, assign, and manage policies that govern your Azure resources. Policies are rules that define the desired state and configuration of your resources, such as the location, size, tags, and properties. Policies can also audit the compliance status of your resources and report any violations.
+With Azure Policy, you can ensure that your resources follow the best practices and standards that you define for your organization. You can also use Azure Policy to implement cost management, security, and regulatory compliance for y...</description>
+    </item>
   </channel>
 </rss>
