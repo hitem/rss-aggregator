@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 20 Sep 2024 18:08:59 GMT</lastBuildDate>
-    <item>
-      <title>Join us at the Microsoft Entra Suite Showcase!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-us-at-the-microsoft-entra-suite-showcase/ba-p/4250628</link>
-      <pubDate>Fri, 20 Sep 2024 17:11:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-us-at-the-microsoft-entra-suite-showcase/ba-p/4250628</guid>
-      <description>This fall, we are bringing the Microsoft Entra Suite Showcase to cities worldwide. Join us to explore how our latest advancements in secure identity and access management can help safeguard your organization's digital assets.
-&#160;
-Announced earlier this year, the Microsoft Entra Suite unifies identity and network access security&#8212;a novel and necessary approach for Zero Trust security. It provides everything you need to verify users, prevent overprivileged permissions, improve detections, and enforce granular access controls for all users and resources.
-&#160;
-
-&#160;
-Register now to join us for a half-day e...</description>
-    </item>
+    <lastBuildDate>Fri, 20 Sep 2024 19:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
