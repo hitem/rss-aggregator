@@ -630,3 +630,4 @@
 2024-09-19T22:38:42 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-129/ba-p/4250551
 2024-09-20T09:59:49 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-s-bot-manager-1-1-and-javascript-challenge-navigating/ba-p/4249652
 2024-09-20T16:25:26 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-governance-for-your-azure-cloud-using-azure-policy/ba-p/4251248
+2024-09-20T17:11:05 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-us-at-the-microsoft-entra-suite-showcase/ba-p/4250628
