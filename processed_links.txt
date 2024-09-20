@@ -629,3 +629,4 @@
 2024-09-18T13:13:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-browser-anomalies-to-disrupt-attacks-early/ba-p/4246459
 2024-09-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-now-generally-available/ba-p/3922547
 2024-09-19T22:38:42 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-129/ba-p/4250551
+2024-09-20T09:59:49 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-s-bot-manager-1-1-and-javascript-challenge-navigating/ba-p/4249652
