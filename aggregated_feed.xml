@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Sep 2024 16:07:56 GMT</lastBuildDate>
-    <item>
-      <title>Explore the key benefits of Microsoft Entra Private Access</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449</link>
-      <pubDate>Mon, 23 Sep 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449</guid>
-      <description>The traditional network security models are becoming increasingly ineffective in a world where remote work and cloud services are the norm. Conventional technologies like VPNs, while popular, offer limited protection in a boundary-less landscape, typically granting users excessive network access and posing significant risks. If compromised, these can lead to unauthorized access and potentially lateral movement within corporate networks, exposing sensitive data and resources. Microsoft Entra Private Access is at the forefront of addressing these challenges by effectively integrating identity an...</description>
-    </item>
+    <lastBuildDate>Mon, 23 Sep 2024 17:01:04 GMT</lastBuildDate>
   </channel>
 </rss>
