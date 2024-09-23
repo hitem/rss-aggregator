@@ -3,15 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Sep 2024 12:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 13:16:15 GMT</lastBuildDate>
     <item>
-      <title>How to Create an xPath Filter for a Data Collection Rule</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-create-an-xpath-filter-for-a-data-collection-rule/ba-p/4252748</link>
-      <pubDate>Mon, 23 Sep 2024 11:59:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-create-an-xpath-filter-for-a-data-collection-rule/ba-p/4252748</guid>
-      <description>In the world of data collection, efficiency is key. Just as my miniature schnauzer buddy, Raven, has a knack for sniffing out the most interesting scents while ignoring the mundane, an xPath filter can be used to streamline data collection by focusing only on the most relevant information. This document will guide you through the process of writing an xPath filter for a data collection rule, ensuring that your data ingress is as efficient and effective as Raven&#8217;s nose.
+      <title>Detecting AiTM Phishing via 3rd-Party Network events in Unified Security Operations Platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653</link>
+      <pubDate>Mon, 23 Sep 2024 13:07:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653</guid>
+      <description>Microsoft Security has been evolving from individual security products - such as endpoint, email, identity, and app - to XDR (Extended Detection and Response) solution, and it also offers a cloud-native SIEM solution, Microsoft Sentinel. Despite having these two strong security backbones, we have made tremendous progress by unifying the SIEM and XDR experience into a single platform called the Unified Security Operations Platform. Thanks to that, this platform provides comprehensive visibility, investigation, and response capabilities across endpoints, hybrid identities, emails, collaboration ...</description>
+    </item>
+    <item>
+      <title>The power of Data Collection Rules: Detect Disabling Windows Defender Real-Time Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540</link>
+      <pubDate>Mon, 23 Sep 2024 13:04:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540</guid>
+      <description>This is Part 3 of our Blog series on how to collect events using DCRs for advanced use cases:
+Part 1:&#160;The power of Data Collection Rules: Collecting events for advanced use cases in Microsoft USOP - Mic....
+Part 2:&#160;Monitoring PowerShell through Azure Monitor Agent (AMA) and Microsoft Sentinel
 &#160;
-Imagine Raven on a walk, surrounded by countless scents. If she were to investigate every single one, she&#8217;d waste a lot of t...</description>
+Although Defender for Endpoint (MDE) consists of various protections against tampering and of alerts to detect it, adversaries are constantly trying to find a way to successfully circumvent and terminate MDE.
+One product that really helps you to protect against all kinds of tampering, is Defender&#8217;s Tamp...</description>
     </item>
   </channel>
 </rss>
