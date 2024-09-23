@@ -630,3 +630,4 @@
 2024-09-23T11:59:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-create-an-xpath-filter-for-a-data-collection-rule/ba-p/4252748
 2024-09-23T13:04:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540
 2024-09-23T13:07:26 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653
+2024-09-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449
