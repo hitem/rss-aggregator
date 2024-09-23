@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Sep 2024 13:16:15 GMT</lastBuildDate>
-    <item>
-      <title>Detecting AiTM Phishing via 3rd-Party Network events in Unified Security Operations Platform</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653</link>
-      <pubDate>Mon, 23 Sep 2024 13:07:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653</guid>
-      <description>Microsoft Security has been evolving from individual security products - such as endpoint, email, identity, and app - to XDR (Extended Detection and Response) solution, and it also offers a cloud-native SIEM solution, Microsoft Sentinel. Despite having these two strong security backbones, we have made tremendous progress by unifying the SIEM and XDR experience into a single platform called the Unified Security Operations Platform. Thanks to that, this platform provides comprehensive visibility, investigation, and response capabilities across endpoints, hybrid identities, emails, collaboration ...</description>
-    </item>
-    <item>
-      <title>The power of Data Collection Rules: Detect Disabling Windows Defender Real-Time Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540</link>
-      <pubDate>Mon, 23 Sep 2024 13:04:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540</guid>
-      <description>This is Part 3 of our Blog series on how to collect events using DCRs for advanced use cases:
-Part 1:&#160;The power of Data Collection Rules: Collecting events for advanced use cases in Microsoft USOP - Mic....
-Part 2:&#160;Monitoring PowerShell through Azure Monitor Agent (AMA) and Microsoft Sentinel
-&#160;
-Although Defender for Endpoint (MDE) consists of various protections against tampering and of alerts to detect it, adversaries are constantly trying to find a way to successfully circumvent and terminate MDE.
-One product that really helps you to protect against all kinds of tampering, is Defender&#8217;s Tamp...</description>
-    </item>
+    <lastBuildDate>Mon, 23 Sep 2024 14:06:49 GMT</lastBuildDate>
   </channel>
 </rss>
