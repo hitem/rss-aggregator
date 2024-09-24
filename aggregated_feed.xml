@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 24 Sep 2024 18:09:08 GMT</lastBuildDate>
-    <item>
-      <title>Getting Started with Azure DDoS Protection REST API: A Step-by-Step Guide</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-ddos-protection-rest-api-a-step-by/ba-p/4254028</link>
-      <pubDate>Tue, 24 Sep 2024 17:01:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-ddos-protection-rest-api-a-step-by/ba-p/4254028</guid>
-      <description>REST API is a cornerstone in the management of resources on Azure, providing a streamlined and efficient approach for executing create, read, update, and delete (CRUD) operations. By leveraging HTTP methods such as GET, POST, PUT, and DELETE, REST API simplifies resource manipulation for administrators. Moreover, REST API&#8217;s support for various data formats, including JSON and XML, enhances its versatility, making it indispensable for automating workflows and facilitating continuous deployment and integration practices. Focusing on Azure DDoS Protection, we will delve into its REST API integrat...</description>
-    </item>
+    <lastBuildDate>Tue, 24 Sep 2024 19:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
