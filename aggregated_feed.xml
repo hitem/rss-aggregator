@@ -3,16 +3,106 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 24 Sep 2024 14:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:06:59 GMT</lastBuildDate>
     <item>
-      <title>Introducing the new File Integrity Monitoring with Defender for Endpoint integration</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051</link>
-      <pubDate>Tue, 24 Sep 2024 13:18:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051</guid>
-      <description>As part of the Log Analytics agent deprecation, Defender for Servers has introduced a new simplification strategy aiming at significantly simplifying the onboarding process and requirements needed to protect servers in the cloud, while enhancing existing capabilities and adding new ones.&#160;&#160;
+      <title>Identity Summary: New Security Copilot skill within Defender XDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-summary-new-security-copilot-skill-within-defender-xdr/ba-p/4236668</link>
+      <pubDate>Tue, 24 Sep 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-summary-new-security-copilot-skill-within-defender-xdr/ba-p/4236668</guid>
+      <description>&#8220;Can you summarize Defender insights about this user over the last two days?&#8221;&#160;Microsoft&#8217;s latest innovation for Copilot for Security, simplifies SOC teams&#8217; investigation with the new Identity Summary feature within Defender XDR.
 &#160;
-According to this strategy, all Defender for Servers capabilities are provided over Defender for Endpoint or cloud-native capabilities and agentless scanning for VMs, without relying on either Log Analytics Agent (MMA) or Azure Monitor Agent (AMA).&#160;
-This hybrid approach combines the strengths of agent-base...</description>
+Today, we are excited to share details on the new Identity Summary skill, available within the Microsoft Defender XDR and Copilot for Security portals, it provides a natural language summary of user behavioral anomalies and potential misconfigurations.&#160;This blog highlights how the summary can uncover discrepancies and security gaps, enabling timely actions to enhance...</description>
+    </item>
+    <item>
+      <title>Microsoft Intern Experience - Through the eyes of DART Incident Response (IR) interns</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-intern-experience-through-the-eyes-of-dart-incident/ba-p/4232416</link>
+      <pubDate>Tue, 24 Sep 2024 14:19:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-intern-experience-through-the-eyes-of-dart-incident/ba-p/4232416</guid>
+      <description>Microsoft Intern Experience 
+Blog Series 
+Microsoft DART Incident Response (IR) Internships
+&#160;
+The Microsoft Intern Experience occurs during the summer at Microsoft. Interns at Microsoft's Incident Response (IR) customer-facing business, the Detection and Response Team (DART), gain insight into what&#8217;s needed to be a cyber incident response investigator - and experience it first-hand with our team of IR threat hunters.
+&#160;
+We all agree &#8211; the threat landscape is not getting better
+There are countless statistics about cybercrime. The most alarming is that it continues to be very profitable, rising f...</description>
+    </item>
+    <item>
+      <title>Microsoft IR Internship Blog Series, Part 1 &#8211; &#8216;Not what I Expected&#8217; &#8211; Zena&#8217;s experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-1-not-what-i-expected/ba-p/4238021</link>
+      <pubDate>Tue, 24 Sep 2024 14:18:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-1-not-what-i-expected/ba-p/4238021</guid>
+      <description>Microsoft DART Incident Response (IR) Internships
+Blog Series - Part 1- Zena&#8217;s Intern Experience
+&#160;
+Not what I expected
+&#160;
+&#8216;Every day, new generations of security experts join Microsoft. They bring fresh ideas that help us address the security challenges of tomorrow.&#8217;
+&#160;
+&#160;
+The Microsoft Intern Experience occurs during the summer at Microsoft. Interns at Microsoft's Incident Response (IR) customer-facing business, the Detection and Response Team (DART), gain insight into what&#8217;s needed to be a cyber incident response investigator - and experience it first-hand with our team of IR threat hunters.
+&#160;
+...</description>
+    </item>
+    <item>
+      <title>Microsoft IR Internship Blog Series, Part 2 &#8211; &#8216;Keeping it Real&#8217; &#8211; Ataliya&#8217;s experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-2-keeping-it-real/ba-p/4238026</link>
+      <pubDate>Tue, 24 Sep 2024 14:14:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-2-keeping-it-real/ba-p/4238026</guid>
+      <description>Microsoft DART Incident Response (IR) Internships
+Blog Series - Part 2- Ataliya&#8217;s Intern Experience
+&#160;
+Keeping it real-world
+&#160;
+&#8216;College isn't always about starting your career path; sometimes, it's about exploring what's possible and finding your passion.&#8217; 
+&#160;
+The Microsoft Intern Experience occurs during the summer at Microsoft. Interns at Microsoft's Incident Response (IR) customer-facing business, the Detection and Response Team (DART), gain insight into what&#8217;s needed to be a cyber incident response investigator - and experience it first-hand with our team of IR threat hunters.
+&#160;
+This blog is...</description>
+    </item>
+    <item>
+      <title>Microsoft IR Internship Blog Series, Part 3 &#8211; &#8216;Learn &#8211; Teach &#8211; Lead&#8217; &#8211; Vadin&#8217;s experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-3-learn-teach-lead/ba-p/4238030</link>
+      <pubDate>Tue, 24 Sep 2024 14:10:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-3-learn-teach-lead/ba-p/4238030</guid>
+      <description>Microsoft DART Incident Response (IR) Internships
+Blog Series - Part 3 &#8211; Vadin's Itern Experience
+&#160;
+Learn &#8211; Teach &#8211; Lead
+&#160;
+&#8216;College students are lifelong learners, which is a good thing since you can&#8217;t learn everything there is to know about cybersecurity in a lifetime.&#8217;
+&#160;
+The Microsoft Intern Experience occurs during the summer at Microsoft. Interns at Microsoft's Incident Response (IR) customer-facing business, the Detection and Response Team (DART), gain insight into what&#8217;s needed to be a cyber incident response investigator - and experience it first-hand with our team of IR threat hunters....</description>
+    </item>
+    <item>
+      <title>Microsoft IR Internship Blog Series, Part 4&#8211; &#8216;Facing an Active Threat&#8217; &#8211; Patro&#8217;s experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-4-facing-an-active/ba-p/4238038</link>
+      <pubDate>Tue, 24 Sep 2024 14:09:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-4-facing-an-active/ba-p/4238038</guid>
+      <description>Microsoft DART Incident Response (IR) Internships
+Blog Series - Part 4 &#8211; Patro&#8217;s Intern Experience
+&#160;
+Facing an active threat
+&#160;
+&#8216;Becoming an DART intern is like reaching into a mysterious grab bag. You have no idea what you&#8217;re going to get&#8212;until you get it.&#8217;
+&#160;
+The Microsoft Intern Experience occurs during the summer at Microsoft. Interns at Microsoft's Incident Response (IR) customer-facing business, the Detection and Response Team (DART), gain insight into what&#8217;s needed to be a cyber incident response investigator - and experience it first-hand with our team of IR threat hunters.
+&#160;
+This blog i...</description>
+    </item>
+    <item>
+      <title>Microsoft IR Internship Blog Series, Part 5 &#8211; &#8216;If you care &#8211; This is for you&#8217; - Bahula&#8217;s experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-5-if-you-care-this-is/ba-p/4238046</link>
+      <pubDate>Tue, 24 Sep 2024 14:03:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-5-if-you-care-this-is/ba-p/4238046</guid>
+      <description>Microsoft DART Incident Response (IR) Internships
+Blog Series &#8211; Part 5- Bahula's Intern Experience
+&#160;
+If you care &#8211; This is for you.
+&#160;
+&#8216;Evicting bad actors from the environment isn&#8217;t the ultimate endgame; it&#8217;s when you can tell the customer that their worst day just got much better.&#8217;
+&#160;
+The Microsoft Intern Experience occurs during the summer at Microsoft. Interns at Microsoft's Incident Response (IR) customer-facing business, the Detection and Response Team (DART), gain insight into what&#8217;s needed to be a cyber incident response investigator - and experience it first-hand with our team of IR thr...</description>
     </item>
   </channel>
 </rss>

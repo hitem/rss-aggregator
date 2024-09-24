@@ -631,3 +631,10 @@
 2024-09-23T13:07:26 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653
 2024-09-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449
 2024-09-24T13:18:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051
+2024-09-24T14:03:21 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-5-if-you-care-this-is/ba-p/4238046
+2024-09-24T14:09:24 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-4-facing-an-active/ba-p/4238038
+2024-09-24T14:10:28 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-3-learn-teach-lead/ba-p/4238030
+2024-09-24T14:14:25 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-2-keeping-it-real/ba-p/4238026
+2024-09-24T14:18:38 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-1-not-what-i-expected/ba-p/4238021
+2024-09-24T14:19:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-intern-experience-through-the-eyes-of-dart-incident/ba-p/4232416
+2024-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-summary-new-security-copilot-skill-within-defender-xdr/ba-p/4236668
