@@ -630,3 +630,4 @@
 2024-09-23T13:04:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540
 2024-09-23T13:07:26 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653
 2024-09-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449
+2024-09-24T13:18:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051

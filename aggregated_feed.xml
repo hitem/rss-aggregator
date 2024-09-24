@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 24 Sep 2024 13:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 14:00:45 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the new File Integrity Monitoring with Defender for Endpoint integration</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051</link>
+      <pubDate>Tue, 24 Sep 2024 13:18:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051</guid>
+      <description>As part of the Log Analytics agent deprecation, Defender for Servers has introduced a new simplification strategy aiming at significantly simplifying the onboarding process and requirements needed to protect servers in the cloud, while enhancing existing capabilities and adding new ones.&#160;&#160;
+&#160;
+According to this strategy, all Defender for Servers capabilities are provided over Defender for Endpoint or cloud-native capabilities and agentless scanning for VMs, without relying on either Log Analytics Agent (MMA) or Azure Monitor Agent (AMA).&#160;
+This hybrid approach combines the strengths of agent-base...</description>
+    </item>
   </channel>
 </rss>
