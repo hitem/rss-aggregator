@@ -638,3 +638,5 @@
 2024-09-24T14:18:38 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-1-not-what-i-expected/ba-p/4238021
 2024-09-24T14:19:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-intern-experience-through-the-eyes-of-dart-incident/ba-p/4232416
 2024-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-summary-new-security-copilot-skill-within-defender-xdr/ba-p/4236668
+2024-09-24T16:15:15 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-azure-ddos-protection-mitigation-triggers/ba-p/4253980
+2024-09-24T16:56:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-sold-out-not-for-security-professionals-secure/ba-p/4253990

@@ -3,6 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 24 Sep 2024 16:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 17:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Ignite Sold Out? Not for Security Professionals! Secure Your Spot</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-sold-out-not-for-security-professionals-secure/ba-p/4253990</link>
+      <pubDate>Tue, 24 Sep 2024 16:56:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-sold-out-not-for-security-professionals-secure/ba-p/4253990</guid>
+      <description>Attention security professionals! Microsoft Ignite 2024 is just around the corner, taking place from Monday, November 18, 2024, through Friday, November 22, 2024, in Chicago, Illinois. This is your chance to dive deep into the latest advancements in AI and security to help you build a security-first culture within your organization.&#160;
+&#160;
+General in-person passes are sold out, but don't worry&#8212;you can still purchase a pass using Microsoft Security&#8217;s RSVP code. Use the RSVP code&#160;ATTNLIYL&#160;to purchase your in-person pass while supplies last.
+&#160;
+Why attend?
+For security professionals and teams, AI offe...</description>
+    </item>
+    <item>
+      <title>Monitoring Azure DDoS Protection Mitigation Triggers</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-azure-ddos-protection-mitigation-triggers/ba-p/4253980</link>
+      <pubDate>Tue, 24 Sep 2024 16:15:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-azure-ddos-protection-mitigation-triggers/ba-p/4253980</guid>
+      <description>Monitoring Azure DDoS Protection Mitigation Triggers
+In today&#8217;s digital landscape, Distributed Denial of Service (DDoS) attacks pose a significant threat to the availability and performance of online services. Azure DDoS Protection provides robust mechanisms to protect your applications and services against such attacks. In this blog post, we&#8217;ll explore how to monitor Azure DDoS Protection metrics for public IPs and demonstrate how to fully utilize the available metrics to monitor your public IPs for DDoS attacks.
+&#160;
+Understanding Public IP and Azure DDoS Protection Metrics
+Azure DDoS Protectio...</description>
+    </item>
   </channel>
 </rss>
