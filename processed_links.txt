@@ -640,3 +640,4 @@
 2024-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-summary-new-security-copilot-skill-within-defender-xdr/ba-p/4236668
 2024-09-24T16:15:15 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-azure-ddos-protection-mitigation-triggers/ba-p/4253980
 2024-09-24T16:56:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-sold-out-not-for-security-professionals-secure/ba-p/4253990
+2024-09-24T17:01:39 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-ddos-protection-rest-api-a-step-by/ba-p/4254028
