@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Sep 2024 19:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 20:07:51 GMT</lastBuildDate>
+    <item>
+      <title>What's New: Global Search in Unified Security Operations platform includes Sentinel user and devices</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-global-search-in-unified-security-operations-platform/ba-p/4255122</link>
+      <pubDate>Wed, 25 Sep 2024 20:03:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-global-search-in-unified-security-operations-platform/ba-p/4255122</guid>
+      <description>We are thrilled to announce a significant enhancement to our Unified Security Operations (SecOps) platform. The Global Search feature in the Defender XDR portal now supports searching for Microsoft Sentinel users and devices, providing a more comprehensive and unified search experience for the customers using Microsoft&#8217;s Unified Security Operations platform. This powerful feature allows you to search for devices, users, and other information by typing full or partial search terms. With this update, you can now search for Microsoft Sentinel entities directly within the Unified security operatio...</description>
+    </item>
   </channel>
 </rss>
