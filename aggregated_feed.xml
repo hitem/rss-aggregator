@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Sep 2024 19:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Implementing a secure by default approach with Microsoft Purview and address oversharing</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-a-secure-by-default-approach-with-microsoft-purview/ba-p/4251190</link>
-      <pubDate>Thu, 26 Sep 2024 18:58:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-a-secure-by-default-approach-with-microsoft-purview/ba-p/4251190</guid>
-      <description>Microsoft Purview provides several solutions and features that complement each other.&#160; For new-to-Purview administrators, it can be overwhelming to know where to start.&#160; Existing administrators may also be less familiar with how additional Purview features could enhance their data security posture.&#160;
-&#160;
-For example, Data Loss Prevention (DLP) administrators can benefit from features in Microsoft Information Protection (MIP) and Insider Risk Management (IRM) but may never explore them as they can be seen as &#8216;another solution&#8217;.
-&#160;
-To address this and accelerate how you can augment your data securit...</description>
-    </item>
+    <lastBuildDate>Thu, 26 Sep 2024 20:07:52 GMT</lastBuildDate>
   </channel>
 </rss>
