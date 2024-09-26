@@ -638,3 +638,4 @@
 2024-09-24T16:56:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-sold-out-not-for-security-professionals-secure/ba-p/4253990
 2024-09-24T17:01:39 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-ddos-protection-rest-api-a-step-by/ba-p/4254028
 2024-09-25T20:03:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-global-search-in-unified-security-operations-platform/ba-p/4255122
+2024-09-26T18:58:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-a-secure-by-default-approach-with-microsoft-purview/ba-p/4251190
