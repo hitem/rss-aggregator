@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Jun 2024 17:00:43 GMT</lastBuildDate>
-    <item>
-      <title>Octo Tempest: Hybrid Identity Compromise Recovery</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783</link>
-      <pubDate>Wed, 19 Jun 2024 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783</guid>
-      <description>Have you ever gone toe to toe with the threat actor known as Octo Tempest? This increasingly aggressive threat actor group has evolved their targeting, outcomes, and monetization over the past two years to become a dominant force in the world of cybercrime. But what exactly defines this entity, and why should we proceed with caution when encountering them?
-&#160;
-Octo Tempest (formerly DEV-0875) is a group known for employing social engineering, intimidation, and other human-centric tactics to gain initial access into an environment, granting themselves privilege to cloud and on-premises resources ...</description>
-    </item>
+    <lastBuildDate>Thu, 26 Sep 2024 21:01:05 GMT</lastBuildDate>
   </channel>
 </rss>
