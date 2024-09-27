@@ -3,7 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-<<<<<<< HEAD
     <lastBuildDate>Thu, 26 Sep 2024 21:01:05 GMT</lastBuildDate>
         <item>
       <title>IM DOING THE TEST</title>
@@ -15,8 +14,5 @@ For example, Data Loss Prevention (DLP) administrators can benefit from features
 &#160;
 To address this and accelerate how you can augment your data securit...</description>
     </item>
-=======
-    <lastBuildDate>Fri, 27 Sep 2024 14:01:02 GMT</lastBuildDate>
->>>>>>> cd0eb7a36da25b3be8d7262dee5b129ba82a2fad
   </channel>
 </rss>
