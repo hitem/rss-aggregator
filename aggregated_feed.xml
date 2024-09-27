@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Sep 2024 12:00:00 GMT</lastBuildDate>
-    <item>
-      <title>Test Entry: Exploring Microsoft Sentinel Best Practices</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel/exploring-microsoft-sentinel-best-practices/ba-p/4260000</link>
-      <pubDate>Fri, 27 Sep 2024 11:45:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel/exploring-microsoft-sentinel-best-practices/ba-p/4260000</guid>
-      <description>In this blog post, we explore the best practices for using Microsoft Sentinel to enhance your organization's security operations. Key topics include setting up automation rules, integrating data connectors, and maximizing analytics capabilities...</description>
-    </item>
+    <lastBuildDate>Fri, 27 Sep 2024 15:07:04 GMT</lastBuildDate>
   </channel>
 </rss>
