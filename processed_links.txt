@@ -1,4 +1,3 @@
-2023-09-28T15:51:04 https://techcommunity.microsoft.com/t5/azure-network-security-blog/part-1-managing-network-rules-by-using-azure-tags-with-illumio/ba-p/3940905
 2023-09-28T17:35:21 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/remediate-user-risks-in-microsoft-entra-id-protection-through-on/ba-p/3773129
 2023-09-29T17:59:02 https://techcommunity.microsoft.com/t5/azure-network-security-blog/defending-against-udp-flood-attacks-with-azure-ddos-protection/ba-p/3941758
 2023-10-02T10:22:16 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-october-2023/ba-p/3943236
