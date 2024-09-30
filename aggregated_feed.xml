@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Sep 2024 16:09:16 GMT</lastBuildDate>
-    <item>
-      <title>Private IP DNAT Support (Preview) and Scenarios with Azure Firewall</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-preview-and-scenarios-with-azure/ba-p/4230073</link>
-      <pubDate>Mon, 30 Sep 2024 15:51:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-preview-and-scenarios-with-azure/ba-p/4230073</guid>
-      <description>Introduction
-Azure Firewall is a cloud native security service to protect your workloads running in Azure. It is a stateful firewall as a service with built-in high availability and auto scale. Azure Firewall supports three rule types: DNAT, Network and Application rules.
-&#160;
-In this blog, we will talk about enhancements to the DNAT rules. Up until recently, DNAT rules was only supported on the Firewall Public IP addresses, mostly used for incoming traffic. In this release, we have enhanced DNAT scenario to support port translation on Azure Private IP (VIP). This capability helps with connectivi...</description>
-    </item>
+    <lastBuildDate>Mon, 30 Sep 2024 17:00:59 GMT</lastBuildDate>
   </channel>
 </rss>
