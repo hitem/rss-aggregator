@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Sep 2024 17:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 18:09:07 GMT</lastBuildDate>
+    <item>
+      <title>MDTI for Government Now Available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-for-government-now-available/ba-p/4258823</link>
+      <pubDate>Mon, 30 Sep 2024 17:08:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-for-government-now-available/ba-p/4258823</guid>
+      <description>We are thrilled to introduce Microsoft Defender Threat Intelligence (MDTI) with FedRAMP High (DOD IL2) attestation are now available for government sectors. Customers across U.S. state, local, and tribal governments utilizing GCC services can now purchase MDTI and the MDTI API SKUs to unmask adversaries and understand their organization&#8217;s security posture against threats.
+&#160;
+MDTI serves as the ultimate resource for Microsoft Threat Intelligence, empowering security teams to access, ingest, and act upon a comprehensive repository of operational, strategic, and tactical threat intelligence. With ...</description>
+    </item>
   </channel>
 </rss>

@@ -639,3 +639,4 @@
 2024-09-30T14:08:35 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ai-driven-guided-response-for-socs-with-microsoft-copilot-for/ba-p/4257138
 2024-09-30T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-your-online-activity-safer-on-public-wi-fi-with-microsoft/ba-p/4251376
 2024-09-30T15:51:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-preview-and-scenarios-with-azure/ba-p/4230073
+2024-09-30T17:08:06 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-for-government-now-available/ba-p/4258823
