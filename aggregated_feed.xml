@@ -3,29 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 16:09:16 GMT</lastBuildDate>
     <item>
-      <title>Keep your online activity safer on public Wi-Fi with Microsoft Defender for individuals</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-your-online-activity-safer-on-public-wi-fi-with-microsoft/ba-p/4251376</link>
-      <pubDate>Mon, 30 Sep 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-your-online-activity-safer-on-public-wi-fi-with-microsoft/ba-p/4251376</guid>
-      <description>&#160;
-Figure 1 - Privacy protection UI on the Defender mobile app
+      <title>Private IP DNAT Support (Preview) and Scenarios with Azure Firewall</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-preview-and-scenarios-with-azure/ba-p/4230073</link>
+      <pubDate>Mon, 30 Sep 2024 15:51:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-preview-and-scenarios-with-azure/ba-p/4230073</guid>
+      <description>Introduction
+Azure Firewall is a cloud native security service to protect your workloads running in Azure. It is a stateful firewall as a service with built-in high availability and auto scale. Azure Firewall supports three rule types: DNAT, Network and Application rules.
 &#160;
-Public Wi-Fi is usually free, easy and convenient, but not necessarily always safe. As they say, there is no &#8216;free lunch&#8217; .
-&#160;
-Microsoft Defender for individuals1 aims to provide a safer online experience wherever you go and late last year, we introduced privacy protection (VPN)2 ,&#160; so you can browse without having to worry about your personal data being intercepted over an unsecure Wi-Fi connection
-&#160;
-Check out the previous&#160;blog to learn more about the risks of unsecure WiFi and how a Defender VPN increases your online safety
-&#160;
-Evo...</description>
-    </item>
-    <item>
-      <title>AI-Driven Guided Response for SOCs with Microsoft Copilot for Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ai-driven-guided-response-for-socs-with-microsoft-copilot-for/ba-p/4257138</link>
-      <pubDate>Mon, 30 Sep 2024 14:08:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ai-driven-guided-response-for-socs-with-microsoft-copilot-for/ba-p/4257138</guid>
-      <description>In today's evolving cybersecurity landscape, security operation centers (SOCs) are constantly bombarded with incidents ranging from minor alerts to highly complex threats. Given this surge in cyberthreats, security teams are often overwhelmed by the sheer volume of incidents, many of which require time-consuming manual investigation. In response to this challenge, Microsoft&#8217;s Copilot for Security guided response has become a vital tool for enterprise customers. Copilot guided response is a state-of-the-art AI-driven system that helps analysts efficiently navigate incidents by providing real-ti...</description>
+In this blog, we will talk about enhancements to the DNAT rules. Up until recently, DNAT rules was only supported on the Firewall Public IP addresses, mostly used for incoming traffic. In this release, we have enhanced DNAT scenario to support port translation on Azure Private IP (VIP). This capability helps with connectivi...</description>
     </item>
   </channel>
 </rss>
