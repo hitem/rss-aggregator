@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Sep 2024 13:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 14:07:05 GMT</lastBuildDate>
+    <item>
+      <title>Security settings management is available for multi-tenant environments in Microsoft Defender XDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996</link>
+      <pubDate>Mon, 30 Sep 2024 13:45:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996</guid>
+      <description>Several months ago, we released device security settings management within Microsoft Defender XDR. This experience enables security administrators to configure Microsoft Defender for Endpoint security settings for devices on all platforms (including Windows, Linux, and Mac) without having to leave the Defender portal. The streamlined portal experience breaks down the wall between Security and IT teams by presenting a shared view for both, making it easier for security administrators to strengthen the security posture of their devices.
+&#160;
+Security administrators can now drive even greater effici...</description>
+    </item>
   </channel>
 </rss>
