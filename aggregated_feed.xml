@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Sep 2024 08:11:39 GMT</lastBuildDate>
-    <item>
-      <title>Unmasking DNS Timeouts: The Hidden Culprit in Azure Virtual Networks</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unmasking-dns-timeouts-the-hidden-culprit-in-azure-virtual/ba-p/4250444</link>
-      <pubDate>Mon, 30 Sep 2024 07:10:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unmasking-dns-timeouts-the-hidden-culprit-in-azure-virtual/ba-p/4250444</guid>
-      <description>&#160;
-When managing an Azure Virtual Network (VNet), understanding the intricacies of different ports and their functions is crucial. One often overlooked but vital port is UDP port 65330. This article delves into why awareness of UDP port 65330 is essential. The connectivity will impact ANYTHING using UDP port 65530, however, for this article I am going to discuss how it impacts DNS resolution, as that is a vital core service that relies on UDP for communication.
-&#160;
-Why UDP Port 65330 Matters
-&#160;
-Azure VNets are designed to facilitate secure and efficient communication between your resources. UDP Po...</description>
-    </item>
+    <lastBuildDate>Mon, 30 Sep 2024 09:08:17 GMT</lastBuildDate>
   </channel>
 </rss>
