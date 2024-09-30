@@ -3,15 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Sep 2024 14:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 15:07:41 GMT</lastBuildDate>
     <item>
-      <title>Security settings management is available for multi-tenant environments in Microsoft Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996</link>
-      <pubDate>Mon, 30 Sep 2024 13:45:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996</guid>
-      <description>Several months ago, we released device security settings management within Microsoft Defender XDR. This experience enables security administrators to configure Microsoft Defender for Endpoint security settings for devices on all platforms (including Windows, Linux, and Mac) without having to leave the Defender portal. The streamlined portal experience breaks down the wall between Security and IT teams by presenting a shared view for both, making it easier for security administrators to strengthen the security posture of their devices.
+      <title>Keep your online activity safer on public Wi-Fi with Microsoft Defender for individuals</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-your-online-activity-safer-on-public-wi-fi-with-microsoft/ba-p/4251376</link>
+      <pubDate>Mon, 30 Sep 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-your-online-activity-safer-on-public-wi-fi-with-microsoft/ba-p/4251376</guid>
+      <description>&#160;
+Figure 1 - Privacy protection UI on the Defender mobile app
 &#160;
-Security administrators can now drive even greater effici...</description>
+Public Wi-Fi is usually free, easy and convenient, but not necessarily always safe. As they say, there is no &#8216;free lunch&#8217; .
+&#160;
+Microsoft Defender for individuals1 aims to provide a safer online experience wherever you go and late last year, we introduced privacy protection (VPN)2 ,&#160; so you can browse without having to worry about your personal data being intercepted over an unsecure Wi-Fi connection
+&#160;
+Check out the previous&#160;blog to learn more about the risks of unsecure WiFi and how a Defender VPN increases your online safety
+&#160;
+Evo...</description>
+    </item>
+    <item>
+      <title>AI-Driven Guided Response for SOCs with Microsoft Copilot for Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ai-driven-guided-response-for-socs-with-microsoft-copilot-for/ba-p/4257138</link>
+      <pubDate>Mon, 30 Sep 2024 14:08:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ai-driven-guided-response-for-socs-with-microsoft-copilot-for/ba-p/4257138</guid>
+      <description>In today's evolving cybersecurity landscape, security operation centers (SOCs) are constantly bombarded with incidents ranging from minor alerts to highly complex threats. Given this surge in cyberthreats, security teams are often overwhelmed by the sheer volume of incidents, many of which require time-consuming manual investigation. In response to this challenge, Microsoft&#8217;s Copilot for Security guided response has become a vital tool for enterprise customers. Copilot guided response is a state-of-the-art AI-driven system that helps analysts efficiently navigate incidents by providing real-ti...</description>
     </item>
   </channel>
 </rss>

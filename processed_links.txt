@@ -636,3 +636,5 @@
 2024-09-26T18:58:54 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-a-secure-by-default-approach-with-microsoft-purview/ba-p/4251190
 2024-09-30T07:10:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unmasking-dns-timeouts-the-hidden-culprit-in-azure-virtual/ba-p/4250444
 2024-09-30T13:45:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996
+2024-09-30T14:08:35 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ai-driven-guided-response-for-socs-with-microsoft-copilot-for/ba-p/4257138
+2024-09-30T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-your-online-activity-safer-on-public-wi-fi-with-microsoft/ba-p/4251376
