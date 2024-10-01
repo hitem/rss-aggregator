@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Oct 2024 07:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 08:10:30 GMT</lastBuildDate>
+    <item>
+      <title>Azure WAF&#8217;s Bot Manager 1.1 and JavaScript Challenge (Preview): Navigating the Bot Threat Terrain</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-s-bot-manager-1-1-and-javascript-challenge-preview/ba-p/4249652</link>
+      <pubDate>Tue, 01 Oct 2024 08:00:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-s-bot-manager-1-1-and-javascript-challenge-preview/ba-p/4249652</guid>
+      <description>Introduction
+&#160;
+Bots are a common presence on the internet, serving a range of functions from automating customer service to indexing pages for search engines. However, their capabilities can be exploited for malicious activities, such as launching botnet attacks that can compromise web applications and disrupt services. Businesses continuously face the delicate balancing act of allowing good bots to perform their functions while preventing bad bots from causing harm.
+&#160;
+To address these challenges, Azure Web Application Firewall (WAF) has new enhancements that provide advanced protection agains...</description>
+    </item>
   </channel>
 </rss>
