@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Oct 2024 14:06:55 GMT</lastBuildDate>
-    <item>
-      <title>Windows 11, version 24H2 security baseline</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-24h2-security-baseline/ba-p/4252801</link>
-      <pubDate>Tue, 01 Oct 2024 14:01:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-24h2-security-baseline/ba-p/4252801</guid>
-      <description>Microsoft is pleased to announce the release of the security baseline package for Windows 11, version 24H2!
-&#160;
-Please download the content from the Microsoft Security Compliance Toolkit, test the recommended configurations, and customize / implement as appropriate.
-&#160;
-This release includes several changes to further assist in the security of enterprise customers, including additional protections to LAN Manager, Kerberos, User Account Control, Microsoft Defender Antivirus updates, and more.
-&#160;
-Mark of the Web
-You may have seen previous discussions on the Mark of the Web (MotW) within our baselines...</description>
-    </item>
+    <lastBuildDate>Tue, 01 Oct 2024 15:07:04 GMT</lastBuildDate>
   </channel>
 </rss>
