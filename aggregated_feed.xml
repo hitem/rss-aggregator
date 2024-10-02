@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Oct 2024 07:07:03 GMT</lastBuildDate>
-    <item>
-      <title>Guidance for handling CUPS remote code execution vulnerability using Microsoft Security capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-cups-remote-code-execution-vulnerability/ba-p/4260542</link>
-      <pubDate>Wed, 02 Oct 2024 06:22:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-cups-remote-code-execution-vulnerability/ba-p/4260542</guid>
-      <description>A new critical Remote code execution (RCE) vulnerability affecting CUPS (Common Unix Printing System) has been identified published last week, putting at risk organizations with Unix (Linux, Gnu and other systems). In this blogpost we will demonstrate how you can easily discover if your organization is vulnerable to the new critical unauthenticated RCE flaws in CUPS printing systems and view guidelines on remediation.&#160;&#160;
-Affected versions:&#160;
-
-CVE-2024-47176: cups-browsed binds on UDP port 631, accepting packets from any source. (cups-browsed &#8804; 2.0.1)&#160;
-CVE-2024-47076: libcupsfilters does not vali...</description>
-    </item>
+    <lastBuildDate>Wed, 02 Oct 2024 08:09:51 GMT</lastBuildDate>
   </channel>
 </rss>
