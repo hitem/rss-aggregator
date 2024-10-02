@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Oct 2024 16:08:20 GMT</lastBuildDate>
-    <item>
-      <title>Level Up Your Security Skills with the New Microsoft Sentinel Ninja Training!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/level-up-your-security-skills-with-the-new-microsoft-sentinel/ba-p/4260106</link>
-      <pubDate>Wed, 02 Oct 2024 15:48:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/level-up-your-security-skills-with-the-new-microsoft-sentinel/ba-p/4260106</guid>
-      <description>If you&#8217;ve explored our Microsoft Sentinel Ninja Training in the past, it&#8217;s time to revisit!
-Our training program has undergone some exciting changes to keep you ahead of the curve in the ever-evolving cybersecurity landscape.
-&#160;
-Microsoft Sentinel is a cutting-edge, cloud-native SIEM and SOAR solution designed to help security professionals protect their organizations from today&#8217;s complex threats.
-Our Ninja Training program is here to guide you through every aspect of this powerful tool.
-&#160;
-So, what&#8217;s new? In addition to the structured security roles format, the Ninja Training now offers a more ...</description>
-    </item>
+    <lastBuildDate>Wed, 02 Oct 2024 17:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
