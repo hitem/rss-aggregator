@@ -1,4 +1,3 @@
-2023-10-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/using-advanced-hunting-to-secure-oauth-apps/ba-p/3939832
 2023-10-03T18:04:43 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/just-in-time-access-to-groups-and-conditional-access-integration/ba-p/2466926
 2023-10-04T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/keep-microsoft-teams-meetings-compliant-with-communication/ba-p/3933446
 2023-10-05T06:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mobile-application-management-on-windows-11/ba-p/3944144
@@ -640,3 +639,4 @@
 2024-10-01T09:47:38 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2024/ba-p/4258305
 2024-10-01T14:01:07 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-24h2-security-baseline/ba-p/4252801
 2024-10-02T06:22:05 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-cups-remote-code-execution-vulnerability/ba-p/4260542
+2024-10-02T15:48:21 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/level-up-your-security-skills-with-the-new-microsoft-sentinel/ba-p/4260106
