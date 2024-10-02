@@ -639,3 +639,4 @@
 2024-10-01T08:00:56 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-s-bot-manager-1-1-and-javascript-challenge-preview/ba-p/4249652
 2024-10-01T09:47:38 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2024/ba-p/4258305
 2024-10-01T14:01:07 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-24h2-security-baseline/ba-p/4252801
+2024-10-02T06:22:05 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-cups-remote-code-execution-vulnerability/ba-p/4260542
