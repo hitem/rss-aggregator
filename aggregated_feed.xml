@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 03 Oct 2024 05:00:45 GMT</lastBuildDate>
-    <item>
-      <title>TLS for Sentinel Syslog CEF Data connector(Secure Transfer of logs to Sentinel Log analytics workspa</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tls-for-sentinel-syslog-cef-data-connector-secure-transfer-of/ba-p/4261533</link>
-      <pubDate>Thu, 03 Oct 2024 04:29:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tls-for-sentinel-syslog-cef-data-connector-secure-transfer-of/ba-p/4261533</guid>
-      <description>Sentinel Data connector Syslog CEF is a feature that allows you to collect data from various sources using the Common Event Format (CEF) or Syslog protocols and send it to Azure Sentinel, a cloud-native security information and event management (SIEM) solution. By using this connector, you can integrate your existing security tools and devices with&#160; Sentinel and gain more visibility and insights into your network and security events.
-&#160;
-Ingest syslog and CEF messages to Microsoft Sentinel - AMA | Microsoft Learn
-&#160;
-The connection using this method happens over TCP/UDP 514 which is in plain text....</description>
-    </item>
+    <lastBuildDate>Thu, 03 Oct 2024 06:10:27 GMT</lastBuildDate>
   </channel>
 </rss>
