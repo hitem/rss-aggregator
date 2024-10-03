@@ -640,3 +640,4 @@
 2024-10-02T06:22:05 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-cups-remote-code-execution-vulnerability/ba-p/4260542
 2024-10-02T15:48:21 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/level-up-your-security-skills-with-the-new-microsoft-sentinel/ba-p/4260106
 2024-10-02T23:59:38 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2024/ba-p/4260397
+2024-10-03T04:29:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tls-for-sentinel-syslog-cef-data-connector-secure-transfer-of/ba-p/4261533
