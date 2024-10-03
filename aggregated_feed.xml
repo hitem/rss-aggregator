@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 03 Oct 2024 16:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 17:02:51 GMT</lastBuildDate>
+    <item>
+      <title>Introducing Microsoft Purview Data Security pay-as-you-go pricing for your non-Microsoft 365 data</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-purview-data-security-pay-as-you-go/ba-p/4258819</link>
+      <pubDate>Thu, 03 Oct 2024 16:25:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-purview-data-security-pay-as-you-go/ba-p/4258819</guid>
+      <description>Microsoft Purview is an extensive set of solutions that can help organizations secure and govern their data, wherever it lives. The unification of data security and governance capabilities in Microsoft Purview reflects our belief that our customers need a simpler approach to data.
+Microsoft Purview Data Security helps customers dynamically secure their data across its lifecycle by combining data context with user context. The data security capabilities, including Microsoft Purview Information Protection and Insider Risk Management are already loved and leveraged by customers around the world f...</description>
+    </item>
   </channel>
 </rss>
