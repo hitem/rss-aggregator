@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 04 Oct 2024 17:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 18:09:04 GMT</lastBuildDate>
+    <item>
+      <title>Cowrie honeypot and its Integration with Microsoft Sentinel.</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/cowrie-honeypot-and-its-integration-with-microsoft-sentinel/ba-p/4258349</link>
+      <pubDate>Fri, 04 Oct 2024 17:37:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/cowrie-honeypot-and-its-integration-with-microsoft-sentinel/ba-p/4258349</guid>
+      <description>Cowrie is an advanced honeypot designed to emulate SSH (Secure Shell) and Telnet services to attract, detect, and analyse malicious activities. As a type of cybersecurity tool, a honeypot like Cowrie is used to create a controlled environment that mimics real systems to lure attackers. Once attackers interact with Cowrie, their activities are logged(json), providing valuable insights into their methods and motives.
+Key Features of Cowrie
+
+SSH and Telnet Emulation: Cowrie simulates SSH and Telnet services, which are commonly targeted by attackers seeking unauthorized access to systems.
+Detailed...</description>
+    </item>
   </channel>
 </rss>
