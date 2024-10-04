@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 04 Oct 2024 15:06:59 GMT</lastBuildDate>
-    <item>
-      <title>Introducing the Use Cases Mapper workbook</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-use-cases-mapper-workbook/ba-p/4202058</link>
-      <pubDate>Fri, 04 Oct 2024 14:44:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-use-cases-mapper-workbook/ba-p/4202058</guid>
-      <description>1. IntroWhile looking for the most effective use cases for Sentinel, it usually makes sense to start with data sources that already exist in some way in the corporate environment, whether due to a previous / third-party SIEM integration or due to an already implemented security stack / solution. The next logical step in this process is to determine preexisting sentinel solutions for the products already in use. Unfortunately, this often occurs only inadequately or is not carried out completely due to lack of resources.&#160; In addition, the solutions available (so called Content-Hub-Solutions) con...</description>
-    </item>
+    <lastBuildDate>Fri, 04 Oct 2024 16:08:03 GMT</lastBuildDate>
   </channel>
 </rss>
