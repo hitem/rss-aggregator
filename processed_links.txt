@@ -640,3 +640,4 @@
 2024-10-02T23:59:38 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2024/ba-p/4260397
 2024-10-03T04:29:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tls-for-sentinel-syslog-cef-data-connector-secure-transfer-of/ba-p/4261533
 2024-10-03T16:25:58 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-purview-data-security-pay-as-you-go/ba-p/4258819
+2024-10-04T14:44:36 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-use-cases-mapper-workbook/ba-p/4202058
