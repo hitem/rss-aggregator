@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Oct 2024 03:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 04:09:44 GMT</lastBuildDate>
+    <item>
+      <title>Demystifying Log Ingestion API</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-log-ingestion-api/ba-p/4263923</link>
+      <pubDate>Mon, 07 Oct 2024 03:34:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-log-ingestion-api/ba-p/4263923</guid>
+      <description>In this blog, I&#8217;m going to delve into ingesting and transforming application logs to log analytics workspace using Log Ingestion API technique. Before we jump into the details, let&#8217;s explore the different types of ingestion techniques based on the application log types.
+
+If applications and services logs information to text files instead of standard logging services such as Windows Event log or Syslog, Custom Text Logs can be leveraged to ingest such text file logs in log analytics workspace.
+If applications and services logs information to JSON files instead of standard logging services such ...</description>
+    </item>
   </channel>
 </rss>
