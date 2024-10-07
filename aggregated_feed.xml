@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:09:41 GMT</lastBuildDate>
-    <item>
-      <title>How to use Log Analytics log data exported to Storage Accounts</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-use-log-analytics-log-data-exported-to-storage-accounts/ba-p/4264045</link>
-      <pubDate>Mon, 07 Oct 2024 17:42:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-use-log-analytics-log-data-exported-to-storage-accounts/ba-p/4264045</guid>
-      <description>Introduction
-Exporting your logs from Sentinel or Log Analytics to Azure storage account blobs gives you low-cost long-term retention, as well as benefits such as immutability for legal hold, and geographical redundancy.
-&#160;
-But in the event of an incident, or perhaps a legal case, you may need the data archived away in those storage account blobs to help the investigation.
-&#160;
-Team during investigation
-&#160;
-How do you go about retrieving and analyzing that data?&#160;This blog will answer exactly that question. Hint, it does involve an Azure Data Explorer cluster. I will also briefly explain how data end...</description>
-    </item>
+    <lastBuildDate>Mon, 07 Oct 2024 19:01:11 GMT</lastBuildDate>
   </channel>
 </rss>
