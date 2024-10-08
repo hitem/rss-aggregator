@@ -640,3 +640,4 @@
 2024-10-04T17:37:51 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/cowrie-honeypot-and-its-integration-with-microsoft-sentinel/ba-p/4258349
 2024-10-07T03:34:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-log-ingestion-api/ba-p/4263923
 2024-10-07T17:42:16 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-use-log-analytics-log-data-exported-to-storage-accounts/ba-p/4264045
+2024-10-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2024/ba-p/4253153

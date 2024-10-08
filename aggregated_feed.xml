@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Oct 2024 15:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 16:08:29 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Entra - September 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2024/ba-p/4253153</link>
+      <pubDate>Tue, 08 Oct 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2024/ba-p/4253153</guid>
+      <description>We&#8217;re excited to announce the general availability of Microsoft Entra Suite&#8212;one of the industry&#8217;s most comprehensive secure access solutions for the workforce. With 66% of digital attack paths involving insecure credentials1, Microsoft Entra Suite helps prevent security breaches by enabling secure access to cloud and on-premises apps with least privilege, inside and outside the corporate perimeter. It unifies network access, identity protection, governance, and verification to streamline onboarding, modernize remote access, and ensure secure access to apps and resources. Get started with a Mic...</description>
+    </item>
   </channel>
 </rss>
