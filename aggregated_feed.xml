@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 09 Oct 2024 15:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 16:08:02 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Security announcements and demos at Authenticate 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-announcements-and-demos-at-authenticate-2024/ba-p/4263029</link>
+      <pubDate>Wed, 09 Oct 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-announcements-and-demos-at-authenticate-2024/ba-p/4263029</guid>
+      <description>The Microsoft Security team is excited to connect with you next week at Authenticate 2024 Conference, taking place October 14 to 16 in Carlsbad, CA! With the rise in identity attacks targeting passwords and MFA credentials, it&#8217;s becoming increasingly clear that phishing resistant authentication is critical to counteract these attacks. As the world shifts towards stronger, modern authentication methods, Microsoft is proud to reaffirm our commitment to passwordless authentication and to expanding our support for passkeys across products like Microsoft Entra, Microsoft Windows, and Microsoft cons...</description>
+    </item>
+    <item>
+      <title>Make the most of your time at Microsoft Ignite!</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/make-the-most-of-your-time-at-microsoft-ignite/ba-p/4265487</link>
+      <pubDate>Wed, 09 Oct 2024 15:56:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/make-the-most-of-your-time-at-microsoft-ignite/ba-p/4265487</guid>
+      <description>Companies that strengthen their security with AI and safeguard their AI with security will be the lasting industry leaders. Join us at Microsoft Ignite 2024, November 18-22, to learn how you can create a security-first culture in the age of AI. The in-person experience is sold out, but security professionals can join us virtually to be a part of the Microsoft Security @ Microsoft Ignite Experience online.
+Whether you are joining us live or catching Microsoft Ignite on-demand, you won&#8217;t want to miss the product announcements, demos and technical training across your favorite Microsoft Security ...</description>
+    </item>
   </channel>
 </rss>
