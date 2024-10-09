@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 09 Oct 2024 19:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Use community queries to hunt more effectively across email and collaboration threats</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664</link>
-      <pubDate>Wed, 09 Oct 2024 18:37:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664</guid>
-      <description>In the ever-evolving landscape of cybersecurity, staying ahead of threats is a constant challenge. Advanced hunting in Microsoft Defender XDR provides security teams with powerful tools to proactively search for threats, detect anomalies, and respond swiftly to incidents&#8212;even automatically. One of the most valuable and insightful resources within advanced hunting is the&#160;community queries feature. This collaborative repository can enhance your threat-hunting capabilities, streamline investigation processes, and empower your security operations center (SOC) team members with easily accessible sh...</description>
-    </item>
+    <lastBuildDate>Wed, 09 Oct 2024 20:07:42 GMT</lastBuildDate>
   </channel>
 </rss>
