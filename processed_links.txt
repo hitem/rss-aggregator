@@ -640,3 +640,4 @@
 2024-10-09T15:56:19 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/make-the-most-of-your-time-at-microsoft-ignite/ba-p/4265487
 2024-10-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-announcements-and-demos-at-authenticate-2024/ba-p/4263029
 2024-10-09T18:37:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664
+2024-10-13T23:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamlining-ai-compliance-introducing-the-premium-template-for/ba-p/4267428
