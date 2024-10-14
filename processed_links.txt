@@ -642,3 +642,4 @@
 2024-10-09T18:37:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664
 2024-10-13T23:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamlining-ai-compliance-introducing-the-premium-template-for/ba-p/4267428
 2024-10-14T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ai-powered-customer-success-with-semantic-kernel/ba-p/4259170
+2024-10-14T15:34:30 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/demystify-potential-data-leaks-with-insider-risk-management/ba-p/4269184
