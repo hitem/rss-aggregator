@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 13 Oct 2024 23:00:54 GMT</lastBuildDate>
-    <item>
-      <title>Streamlining AI Compliance: Introducing the Premium Template for Indonesia's PDP Law in Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamlining-ai-compliance-introducing-the-premium-template-for/ba-p/4267428</link>
-      <pubDate>Sun, 13 Oct 2024 23:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/streamlining-ai-compliance-introducing-the-premium-template-for/ba-p/4267428</guid>
-      <description>Accelerating Compliance in the AI Era: Introducing the Premium Assessment Template for Indonesia&#8217;s PDP Law in Purview Compliance Manager
-In an increasingly complex regulatory landscape, businesses are under growing pressure to comply with both local and global data privacy laws, while simultaneously building trust with their customers. As AI and digital technologies continue to transform industries, aligning solutions with regulatory requirements has never been more critical. To help organizations navigate these challenges, we&#8217;re excited to introduce the Premium Assessment Template for Indones...</description>
-    </item>
+    <lastBuildDate>Mon, 14 Oct 2024 00:36:17 GMT</lastBuildDate>
   </channel>
 </rss>
