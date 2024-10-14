@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Oct 2024 06:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 07:07:59 GMT</lastBuildDate>
+    <item>
+      <title>AI-Powered Customer Success with Semantic Kernel</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ai-powered-customer-success-with-semantic-kernel/ba-p/4259170</link>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ai-powered-customer-success-with-semantic-kernel/ba-p/4259170</guid>
+      <description>Introduction
+Semantic Kernel is a powerful SDK designed to integrate AI models into applications, enhancing responsiveness and contextual understanding. It provides essential tools for chat completion, multi-agent coordination, and data retrieval, empowering developers to build sophisticated AI solutions.
+&#160;
+The Virtual Customer Success Manager (VCSM), introduced at Hackathon &#8217;24, is a C# .NET project built using Semantic Kernel. VCSM revolutionizes customer support, onboarding, and engagement by delivering personalized interactions, proactive services, and tailored recommendations. By leveragi...</description>
+    </item>
   </channel>
 </rss>
