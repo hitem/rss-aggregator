@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Oct 2024 16:07:56 GMT</lastBuildDate>
-    <item>
-      <title>Demystify potential data leaks with Insider Risk Management insights in Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/demystify-potential-data-leaks-with-insider-risk-management/ba-p/4269184</link>
-      <pubDate>Mon, 14 Oct 2024 15:34:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/demystify-potential-data-leaks-with-insider-risk-management/ba-p/4269184</guid>
-      <description>In today's complex security landscape, understanding and mitigating data exfiltration risks is more critical than ever. Earlier this year, we announced&#160;the integration of Insider Risk Management (IRM) insights into the Defender XDR user page, offering enhanced visibility into insider risk severity and exfiltration activities. This integration empowers SOC teams to detect and respond more effectively to insider threats, enabling them to better distinguish between external and internal attacks.&#160;
-&#160;
-Microsoft Purview Insider Risk Management adds significant value by identifying and mitigating pote...</description>
-    </item>
+    <lastBuildDate>Mon, 14 Oct 2024 17:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
