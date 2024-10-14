@@ -1,4 +1,3 @@
-2023-10-15T21:42:30 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-118/ba-p/3955123
 2023-10-15T23:11:44 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2023/ba-p/3955217
 2023-10-16T17:12:17 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/defender-definition-updates-with-configmgr-part-2-how-to-set-it/ba-p/3955809
 2023-10-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/entra-id-now-enables-you-to-receive-emails-in-your-preferred/ba-p/3939717
