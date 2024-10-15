@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:01:40 GMT</lastBuildDate>
-    <item>
-      <title>Save money on your Sentinel ingestion costs with Data Collection Rules</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/save-money-on-your-sentinel-ingestion-costs-with-data-collection/ba-p/4270256</link>
-      <pubDate>Tue, 15 Oct 2024 20:22:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/save-money-on-your-sentinel-ingestion-costs-with-data-collection/ba-p/4270256</guid>
-      <description>This article is co-authored by Brain Delaney, Andrea Fisher, and Jon Shectman.
-&#160;
-As digital environments continue to expand, Security Operations teams are often asked to optimize costs even as the amount of data they need to collect and store grows exponentially. Teams may often feel they have to choose between not collecting a particular data set or log source, and balancing their limited security budget.
-&#160;
-Today, we&#8217;ll outline a strategy you can use to reduce your data volume while also collecting and retaining the information that really matters. We&#8217;ll show you how to use Data Collection Ru...</description>
-    </item>
+    <lastBuildDate>Tue, 15 Oct 2024 22:02:39 GMT</lastBuildDate>
   </channel>
 </rss>
