@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Oct 2024 12:13:13 GMT</lastBuildDate>
-    <item>
-      <title>Phish, Click, Breach: Hunting for a Sophisticated Cyber Attack</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/phish-click-breach-hunting-for-a-sophisticated-cyber-attack/ba-p/4267916</link>
-      <pubDate>Tue, 15 Oct 2024 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/phish-click-breach-hunting-for-a-sophisticated-cyber-attack/ba-p/4267916</guid>
-      <description>Authors: Krithika Ramakrishnan, Gourav Khandelwal, Akash Chaudhuri, Matthew Mesa, Sagar Patil, and Uri Oren
-&#160;
-Introduction
-&#160;
-Since April 2024, we have observed a significant increase in Teams phishing attacks, which have led to endpoint-related incidents, particularly through the abuse of Remote Monitoring and Management (RMM) tools such as Quick Assist (Ref : Threat actors misusing Quick Assist in social engineering attacks leading to ransomware | Microsoft Security Blog), and other tools such as Any Desk, and Team Viewer.
-&#160;
-Initially, the attack began with a spam flood, followed by the attac...</description>
-    </item>
+    <lastBuildDate>Tue, 15 Oct 2024 13:16:58 GMT</lastBuildDate>
   </channel>
 </rss>
