@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Oct 2024 18:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 19:01:02 GMT</lastBuildDate>
+    <item>
+      <title>What to do if your Sentinel Data Connector shows as [DEPRECATED]</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-to-do-if-your-sentinel-data-connector-shows-as-deprecated/ba-p/4270346</link>
+      <pubDate>Tue, 15 Oct 2024 18:24:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-to-do-if-your-sentinel-data-connector-shows-as-deprecated/ba-p/4270346</guid>
+      <description>Several Sentinel users raised the alarm that several of the data connectors they were using suddenly show as deprecated in the user interface.
+&#160;
+
+&#160;
+The first thing you need to know is that your data has not stopped flowing. It&#8217;s still being happily delivered to the CommonSecurityLog or Syslog table. The analytic rules are still applying to the data. Workbooks and Playbooks should work exactly the same way they always have.
+&#160;
+This change was actually meant to be a benefit. We&#8217;ve recently deprecated the log analytics agent &#8211; sometimes referred to as an MMA or OMS agent &#8211; and replaced it with the...</description>
+    </item>
   </channel>
 </rss>
