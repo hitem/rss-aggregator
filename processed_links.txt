@@ -1,4 +1,3 @@
-2023-10-18T15:50:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-now-supports-cis-azure-security/ba-p/3944860
 2023-10-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877
 2023-10-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/windows-local-administrator-password-solution-with-microsoft/ba-p/3911999
 2023-10-23T16:32:17 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/support-for-legacy-tls-protocols-and-cipher-suites-in-azure/ba-p/3952099
