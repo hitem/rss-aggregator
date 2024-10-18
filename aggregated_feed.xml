@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 18 Oct 2024 14:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Security review for Microsoft Edge version 130</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-130/ba-p/4273981</link>
-      <pubDate>Fri, 18 Oct 2024 13:28:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-130/ba-p/4273981</guid>
-      <description>We are pleased to announce the security review for Microsoft Edge, version 130!
-&#160;
-We have reviewed the new settings in Microsoft Edge version 130 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 128 security baseline continues to be our recommended configuration which can be downloaded from the&#160;Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 130 introduced one new setting and we&#160;have included a spreadsheet listing the new setting to make it easier for you to find.
-&#160;
-As a friendly reminder, all available settings ...</description>
-    </item>
+    <lastBuildDate>Fri, 18 Oct 2024 15:07:28 GMT</lastBuildDate>
   </channel>
 </rss>
