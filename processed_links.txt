@@ -639,3 +639,4 @@
 2024-10-15T20:22:32 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/save-money-on-your-sentinel-ingestion-costs-with-data-collection/ba-p/4270256
 2024-10-18T13:28:44 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-130/ba-p/4273981
 2024-10-21T13:48:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-6-enforcing-smb-signing/ba-p/4272168
+2024-10-21T17:50:58 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-e-book-building-a-comprehensive-api-security-strategy/ba-p/4275748

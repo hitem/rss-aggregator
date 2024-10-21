@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Oct 2024 17:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 18:09:57 GMT</lastBuildDate>
+    <item>
+      <title>New E-book: Building a Comprehensive API Security Strategy</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-e-book-building-a-comprehensive-api-security-strategy/ba-p/4275748</link>
+      <pubDate>Mon, 21 Oct 2024 17:50:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-e-book-building-a-comprehensive-api-security-strategy/ba-p/4275748</guid>
+      <description>APIs are everywhere &#8211; they are proliferating at a rapid pace, therefore, making them a prime target for attackers. Thus, having a plan to secure protect your APIs as part of your overall cybersecurity strategy is critical for protecting your business, as well as sensitive user data.
+&#160;
+We are excited to share our newest e-book:&#160;Building a Comprehensive API Security Strategy
+&#160;
+This e-book is filled with valuable best practices and contains the basic building blocks you need to get started on an integrated and layered approach to API security, encompassing a variety of different elements, tools, ...</description>
+    </item>
   </channel>
 </rss>
