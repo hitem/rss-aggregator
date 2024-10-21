@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Oct 2024 13:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 14:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Active Directory Hardening Series - Part 6 &#8211; Enforcing SMB Signing</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-6-enforcing-smb-signing/ba-p/4272168</link>
+      <pubDate>Mon, 21 Oct 2024 13:48:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-6-enforcing-smb-signing/ba-p/4272168</guid>
+      <description>Hi everyone!&#160; Jerry Devore here to continue the Active Directory Hardening series by addressing SMB signing.&#160; Many of my Microsoft colleagues have already written some great content on SMB signing so I was not going to cover it.&#160; However, it is just too critical a security control to skip and a series on Active Directory hardening would not be complete without it.&#160; As usual, my goal is to help clear up any confusion so you can enable this setting if you have not already.
+&#160;
+Why does SMB signing matter?
+&#160;
+The two most recognized benefits of SMB signing are ensuring message integrity and preventi...</description>
+    </item>
   </channel>
 </rss>
