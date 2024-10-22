@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Oct 2024 14:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Enhancing Server and Container Risk Score Analysis in Power BI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-server-and-container-risk-score-analysis-in-power-bi/ba-p/4276479</link>
-      <pubDate>Tue, 22 Oct 2024 13:56:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-server-and-container-risk-score-analysis-in-power-bi/ba-p/4276479</guid>
-      <description>Microsoft Defender for Cloud provides vulnerability assessments for both virtual machines (servers) and container images, identifying vulnerabilities as Common Vulnerabilities and Exposures (CVEs). The risk posed by each CVE is assessed using the Common Vulnerability Scoring System (CVSS), providing a standardized numerical score that ranges from 0.0 to 10.0, translated into severity ratings like Low, Medium, High, or Critical. While Microsoft Defender for Cloud provides a robust risk level assessment for each resource, there is an opportunity to enhance this by integrating additional factors ...</description>
-    </item>
+    <lastBuildDate>Tue, 22 Oct 2024 15:07:32 GMT</lastBuildDate>
   </channel>
 </rss>
