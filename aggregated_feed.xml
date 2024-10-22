@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 19:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Upcoming design updates: Microsoft Purview Message Encryption Portal</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/upcoming-design-updates-microsoft-purview-message-encryption/ba-p/4274433</link>
+      <pubDate>Tue, 22 Oct 2024 18:21:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/upcoming-design-updates-microsoft-purview-message-encryption/ba-p/4274433</guid>
+      <description>The Microsoft Purview Message Encryption portal will undergo minor design updates to align with Purview branding.&#160;&#160;Microsoft will be updating fonts, colors, controls, and more to align with Purview branding. These changes are designed to enhance the user experience without causing any disruptions.&#160; Microsoft will begin rolling out changes mid-October 2024 and expects to complete by mid-December 2024.
+&#160;
+Users will see minor design changes within the user interface (UI) - fonts, colors, controls, and more are updated to align with Purview branding.
+&#160;
+See below for side-by-side comparisons of Log...</description>
+    </item>
   </channel>
 </rss>

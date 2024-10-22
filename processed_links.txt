@@ -640,3 +640,4 @@
 2024-10-21T17:50:58 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-e-book-building-a-comprehensive-api-security-strategy/ba-p/4275748
 2024-10-22T13:56:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-server-and-container-risk-score-analysis-in-power-bi/ba-p/4276479
 2024-10-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-latest-enhancements-in-microsoft-authenticator/ba-p/4078807
+2024-10-22T18:21:17 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/upcoming-design-updates-microsoft-purview-message-encryption/ba-p/4274433
