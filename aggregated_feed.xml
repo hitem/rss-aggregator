@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:07:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 16:08:22 GMT</lastBuildDate>
+    <item>
+      <title>The latest enhancements in Microsoft Authenticator</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-latest-enhancements-in-microsoft-authenticator/ba-p/4078807</link>
+      <pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-latest-enhancements-in-microsoft-authenticator/ba-p/4078807</guid>
+      <description>Hi folks,
+&#160;
+I'm thrilled to announce three major Microsoft Entra ID advancements that will help you protect your users with phishing-resistant authentication:
+
+Public preview refresh: Device-bound passkey support in Microsoft Authenticator
+Public preview: Support for FIDO2 security keys on native brokered applications, such as Outlook and Teams, on Android 14
+General availability: FIPS compliance for Microsoft Authenticator on Android
+
+&#160;
+These advancements are crucial, not only for adhering to the US Executive Order 14028 on Improving the Nation's Cybersecurity, but also for safeguarding all o...</description>
+    </item>
   </channel>
 </rss>
