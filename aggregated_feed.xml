@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 24 Oct 2024 11:00:44 GMT</lastBuildDate>
-    <item>
-      <title>Deploy Microsoft Sentinel using Bicep</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploy-microsoft-sentinel-using-bicep/ba-p/4270970</link>
-      <pubDate>Thu, 24 Oct 2024 10:47:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploy-microsoft-sentinel-using-bicep/ba-p/4270970</guid>
-      <description>Bicep is a domain-specific language that uses declarative syntax to deploy Azure resources.&#160; It provides benefits over Azure Resource Management (ARM) templates including smaller file size, integrated parameter files, and better support to tools like Visual Studio code.&#160; To learn more about Bicep go to&#160;What is Bicep&#160;
-&#160;
-In order to learn more about what you can do in Microsoft Sentinel in Bicep, you can go to&#160;Microsoft Sentinel Bicep resources. Note that this link takes you to "Aggregations" as the top-level entry (which is still incorrectly called "Azure Sentinel") doesn't have a direct link.&#160;...</description>
-    </item>
+    <lastBuildDate>Thu, 24 Oct 2024 12:12:55 GMT</lastBuildDate>
   </channel>
 </rss>
