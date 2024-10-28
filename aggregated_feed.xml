@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Oct 2024 15:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 16:08:57 GMT</lastBuildDate>
+    <item>
+      <title>Manage Microsoft Entra ID role assignments with Microsoft Entra ID Governance</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/manage-microsoft-entra-id-role-assignments-with-microsoft-entra/ba-p/4120307</link>
+      <pubDate>Mon, 28 Oct 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/manage-microsoft-entra-id-role-assignments-with-microsoft-entra/ba-p/4120307</guid>
+      <description>I&#8217;m excited to announce that we now support Microsoft Entra role assignments in Microsoft Entra ID Governance's Entitlement Management feature!&#8239;
+&#160;
+To ensure least privilege, many of you are using Privileged Identity Management to provide IT administrators just-in-time (JIT) access to the least privileged role assigned. This approach allows you to minimize the attack surface in your organization by reducing the number of permissions IT administrators have. However, some admins in your organization may require long-standing permissions coupled with other resources, like specific applications.&#8239;&#8239;
+...</description>
+    </item>
   </channel>
 </rss>
