@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Oct 2024 17:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Lineage Tracking for Azure Databricks Unity Catalog in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-lineage-tracking-for-azure-databricks-unity-catalog/ba-p/4279185</link>
-      <pubDate>Mon, 28 Oct 2024 16:11:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-lineage-tracking-for-azure-databricks-unity-catalog/ba-p/4279185</guid>
-      <description>We&#8217;re thrilled to announce the release of a highly anticipated feature in Microsoft Purview: lineage tracking for Azure Databricks Unity Catalog. This marks a significant milestone in our ongoing efforts to enhance data governance and visibility across cloud environments.
-&#160;
-
-By leveraging this new functionality, users can now track data flow across their Azure Databricks notebooks, improving the ability to audit, monitor, and manage data movement. With data increasingly flowing through complex, cloud-native platforms like Azure Databricks, having clear, end-to-end visibility is crucial for com...</description>
-    </item>
+    <lastBuildDate>Mon, 28 Oct 2024 18:09:52 GMT</lastBuildDate>
   </channel>
 </rss>
