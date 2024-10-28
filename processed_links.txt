@@ -635,3 +635,4 @@
 2024-10-22T18:21:17 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/upcoming-design-updates-microsoft-purview-message-encryption/ba-p/4274433
 2024-10-24T10:47:01 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploy-microsoft-sentinel-using-bicep/ba-p/4270970
 2024-10-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/manage-microsoft-entra-id-role-assignments-with-microsoft-entra/ba-p/4120307
+2024-10-28T16:11:01 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-lineage-tracking-for-azure-databricks-unity-catalog/ba-p/4279185
