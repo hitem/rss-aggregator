@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Oct 2024 20:08:26 GMT</lastBuildDate>
-    <item>
-      <title>Defender for Identity: the critical role of identities in automatic attack disruption</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-the-critical-role-of-identities-in/ba-p/4236688</link>
-      <pubDate>Tue, 29 Oct 2024 19:44:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-the-critical-role-of-identities-in/ba-p/4236688</guid>
-      <description>In today's digital landscape, cyber-threats are becoming increasingly sophisticated and frequent. Advanced attacks are often multi-workload and cross-domain, requiring organizations to deploy robust security solutions to counter this complexity and protect their assets and data. Microsoft Defender XDR offers a comprehensive suite of tools designed to prevent, detect and respond to these threats. With speed and effectiveness being the two most important elements in incident response, Defender XDR tips the scale back to defenders with automatic attack disruption.&#160;&#160;
-&#160;
-What is Automatic attack dis...</description>
-    </item>
-    <item>
-      <title>New Security Copilot skill: Identity Summary</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-security-copilot-skill-identity-summary/ba-p/4236668</link>
-      <pubDate>Tue, 29 Oct 2024 19:43:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-security-copilot-skill-identity-summary/ba-p/4236668</guid>
-      <description>&#8220;Can you summarize Defender insights about this user over the last two days?&#8221;&#160;Microsoft&#8217;s latest innovation for Copilot for Security, simplifies SOC teams&#8217; investigation with the new Identity Summary feature within Defender XDR.
-&#160;
-Today, we are excited to share details on the new Identity Summary skill, available within the Microsoft Defender XDR and Copilot for Security portals, it provides a natural language summary of user behavioral anomalies and potential misconfigurations.&#160;This blog highlights how the summary can uncover discrepancies and security gaps, enabling timely actions to enhance...</description>
-    </item>
+    <lastBuildDate>Tue, 29 Oct 2024 21:02:07 GMT</lastBuildDate>
   </channel>
 </rss>
