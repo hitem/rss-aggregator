@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Oct 2024 16:08:48 GMT</lastBuildDate>
-    <item>
-      <title>Meet Microsoft Entra at Ignite 2024: November 18-22</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/meet-microsoft-entra-at-ignite-2024-november-18-22/ba-p/2520426</link>
-      <pubDate>Tue, 29 Oct 2024 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/meet-microsoft-entra-at-ignite-2024-november-18-22/ba-p/2520426</guid>
-      <description>Microsoft Ignite is just around the corner, taking place from Monday, November 18, 2024 through Friday, November 22, 2024, in Chicago, Illinois and digitally. This event is the ultimate gathering for IT and Security professionals, developers, and business leaders from every corner of the world. During Ignite, dive into the latest AI innovations for AI transformation to learn from the brightest minds in the industry. Plus, discover solutions to help modernize and manage intelligent apps, protect your data, supercharge productivity, and expand your services. You&#8217;ll also have endless opportunitie...</description>
-    </item>
+    <lastBuildDate>Tue, 29 Oct 2024 17:06:20 GMT</lastBuildDate>
   </channel>
 </rss>
