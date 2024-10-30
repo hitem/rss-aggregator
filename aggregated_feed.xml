@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:07:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:10:35 GMT</lastBuildDate>
+    <item>
+      <title>Update to security defaults</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/update-to-security-defaults/ba-p/4044868</link>
+      <pubDate>Wed, 30 Oct 2024 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/update-to-security-defaults/ba-p/4044868</guid>
+      <description>As part of the Secure Future Initiative, we&#8217;ve evolved our security approach to align with three security principles: secure by design, secure by default, and secure operations. Secure by default means security protections are enabled and enforced by default. In Microsoft Entra, security defaults are an example demonstrating our secure by default approach. Security defaults are enabled for every new tenant. This provides a baseline level of protection for your Entra identities and resources. To make sure that organizations relying on security defaults are well protected, we&#8217;re updating a requi...</description>
+    </item>
   </channel>
 </rss>

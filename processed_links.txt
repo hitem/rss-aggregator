@@ -1,4 +1,3 @@
-2023-10-31T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/complete-the-new-30-days-to-learn-it-challenge-and-explore-the/ba-p/3966324
 2023-10-31T17:18:12 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-23h2-security-baseline/ba-p/3967618
 2023-10-31T20:50:00 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplified-deployment-with-defender-for-identity/ba-p/3966035
 2023-11-02T12:30:36 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-november-2023/ba-p/3970796
@@ -638,3 +637,4 @@
 2024-10-29T19:43:52 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-security-copilot-skill-identity-summary/ba-p/4236668
 2024-10-29T19:44:13 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-the-critical-role-of-identities-in/ba-p/4236688
 2024-10-29T21:58:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-august-2024/ba-p/4179987
+2024-10-30T16:00:01 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/update-to-security-defaults/ba-p/4044868
