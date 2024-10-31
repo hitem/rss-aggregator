@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 31 Oct 2024 15:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 16:08:36 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft now a Leader in three major analyst reports for SIEM</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-now-a-leader-in-three-major-analyst-reports-for-siem/ba-p/4278853</link>
+      <pubDate>Thu, 31 Oct 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-now-a-leader-in-three-major-analyst-reports-for-siem/ba-p/4278853</guid>
+      <description>We&#8217;re excited and honored to be positioned in the Leaders Category in the IDC MarketScape: Worldwide SIEM (security information and event management) for Enterprise 2024 Vendor Assessment (doc #US51541324, September 2024)&#8212;our third major analyst report in SIEM to name Microsoft as a Leader. We were recognized in the most recent reports as a Leader in the 2024 Gartner&#174; Magic Quadrant&#8482; for Security Information and Event Management and as a Leader in The Forrester Wave&#8482;: Security Analytics Platforms, Q4 2022. We believe this position validates our vision and continued investments in&#8239;Microsoft Sen...</description>
+    </item>
   </channel>
 </rss>
