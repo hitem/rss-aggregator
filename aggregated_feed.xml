@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 31 Oct 2024 23:08:37 GMT</lastBuildDate>
-    <item>
-      <title>IPv6 Adoption: Enhancing Azure WAF on Front Door</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/ipv6-adoption-enhancing-azure-waf-on-front-door/ba-p/4284188</link>
-      <pubDate>Thu, 31 Oct 2024 22:45:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/ipv6-adoption-enhancing-azure-waf-on-front-door/ba-p/4284188</guid>
-      <description>The transition to IPv6 is a significant step for enterprise corporations, reflecting the evolution of internet technology and the need for a larger address space due to the exhaustion of IPv4 addresses. This shift is not just about expanding capacity; it's about ensuring that all aspects of an enterprise's digital infrastructure are future-proofed, including security measures. As enterprises adopt IPv6, it becomes crucial for security products to support this protocol to maintain robust protection against potential threats. The Azure Web Application Firewall (WAF) stands out as a product capab...</description>
-    </item>
+    <lastBuildDate>Fri, 01 Nov 2024 00:38:43 GMT</lastBuildDate>
   </channel>
 </rss>
