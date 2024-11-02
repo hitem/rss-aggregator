@@ -1,4 +1,3 @@
-2023-11-03T18:29:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/e2e-bootstrap-solution-for-malicious-file-scanning-using/ba-p/3972370
 2023-11-06T16:06:42 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/service-delivery-manager-profile-sachin-kumar/ba-p/3973959
 2023-11-06T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/emphasizing-security-by-default-with-advanced-microsoft/ba-p/3773130
 2023-11-06T17:06:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-latest-protection-against/ba-p/3970121
