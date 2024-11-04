@@ -640,3 +640,6 @@
 2024-11-04T15:55:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configuring-total-retention-period-for-log-analytics-workspace/ba-p/4286422
 2024-11-04T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-now-open-for-individual-developers-to-sign-up/ba-p/4273554
 2024-11-04T16:05:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2024/ba-p/4286476
+2024-11-04T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sync-identities-from-rippling-to-microsoft-entra-id/ba-p/4279690
+2024-11-04T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/add-authentication-to-apps-in-minutes/ba-p/4282779
+2024-11-04T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/windows-server-2025-security-book/ba-p/4283981
