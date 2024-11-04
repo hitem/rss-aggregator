@@ -3,37 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Nov 2024 17:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Windows Server 2025 Security Book</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/windows-server-2025-security-book/ba-p/4283981</link>
-      <pubDate>Mon, 04 Nov 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/windows-server-2025-security-book/ba-p/4283981</guid>
-      <description>Security affects everyone in an organization from upper-level management to the information worker. Inadequate security is a real risk for organizations as a security breach can disrupt all normal business and bring the organization to a halt. Information technology infrastructure is susceptible to a wide variety of attacks. Attackers typically take advantage of vulnerabilities in the hardware, firmware, operating system, or the application layer. Once they gain a foothold, they use techniques such as privilege escalation to move laterally to other systems in the organization. Windows Server s...</description>
-    </item>
-    <item>
-      <title>Add Authentication to Apps in Minutes</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/add-authentication-to-apps-in-minutes/ba-p/4282779</link>
-      <pubDate>Mon, 04 Nov 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/add-authentication-to-apps-in-minutes/ba-p/4282779</guid>
-      <description>Add authentication to applications in minutes&#160;with Microsoft Entra External ID extension for Visual Studio Code (GA).&#160;
-Compromised user credentials are one of the most frequent targets for hackers seeking to infiltrate organizations' networks through methods such as malware, phishing, and social engineering.&#160;
-&#160;
-Nowadays, attackers don&#8217;t break in, they log in.
-&#160;
-This highlights the essential role of strong authentication measures in protecting against unauthorized access and securing sensitive data.
-&#160;
-Introducing the Entra External ID Visual Studio Code extension
-You might be wondering how to s...</description>
-    </item>
-    <item>
-      <title>Sync identities from Rippling to Microsoft Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sync-identities-from-rippling-to-microsoft-entra-id/ba-p/4279690</link>
-      <pubDate>Mon, 04 Nov 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sync-identities-from-rippling-to-microsoft-entra-id/ba-p/4279690</guid>
-      <description>Today, we&#8217;re thrilled to announce that customers using Rippling HCM can now automatically provision users to on-premises Active Directory and then synchronize them to Microsoft Entra ID as hybrid identities.&#160;&#160;
-&#160;
-Microsoft Entra ID and on-premises Active Directory are core components of every customer&#8217;s hybrid IT environment. To ensure the right people have access to the right resources at the right time, it&#8217;s crucial that consistent and accurate HR user profile, job profile and employment status is always available in Microsoft Entra ID. Earlier this year, we delivered API-driven user provisio...</description>
-    </item>
+    <lastBuildDate>Mon, 04 Nov 2024 18:09:27 GMT</lastBuildDate>
   </channel>
 </rss>
