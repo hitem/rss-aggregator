@@ -3,6 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Nov 2024 14:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 15:07:45 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - November 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159</link>
+      <pubDate>Mon, 04 Nov 2024 14:52:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159</guid>
+      <description>
+
+
+
+Microsoft Defender XDRMonthly newsNovember 2024 Edition
+
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from October&#160;2024.&#160; Defender for Cloud has it's own Monthly News post, have a look at their blog space.
+
+
+
+
+
+
+
+Legend:
+
+
+
+Product videos
+
+Webcast (recordings)
+
+Docs on Microsoft
+
+Blogs on Microsoft
+
+
+
+GitHub
+
+External
+
+Improvements
+
+Previews / Announcements
+
+
+
+
+
+
+
+
+
+
+Unified Security Operations Platform:&#160;Microsoft Defender X...</description>
+    </item>
   </channel>
 </rss>
