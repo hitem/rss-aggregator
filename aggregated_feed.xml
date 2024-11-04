@@ -3,23 +3,33 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Nov 2024 15:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 16:09:00 GMT</lastBuildDate>
     <item>
       <title>Monthly news - November 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159</link>
-      <pubDate>Mon, 04 Nov 2024 14:52:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159</guid>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2024/ba-p/4286476</link>
+      <pubDate>Mon, 04 Nov 2024 16:05:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2024/ba-p/4286476</guid>
       <description>
 
 
 
-Microsoft Defender XDRMonthly newsNovember 2024 Edition
+
+
+
+
+Microsoft Defender for Cloud
+Monthly news
+November 2024 Edition
 
 
 
 
 
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from October&#160;2024.&#160; Defender for Cloud has it's own Monthly News post, have a look at their blog space.
+
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month. In this edition, we are looking at all the goodness from October 2024.
 
 
 
@@ -33,7 +43,7 @@ Legend:
 
 Product videos
 
-Webcast (recordings)
+Webcasts (recordings)
 
 Docs on Microsoft
 
@@ -43,13 +53,11 @@ Blogs on Microsoft
 
 GitHub
 
-External
+External content
 
-Improvements
+Product improvements
 
-Previews / Announcements
-
-
+Announcements
 
 
 
@@ -58,7 +66,47 @@ Previews / Announcements
 
 
 
-Unified Security Operations Platform:&#160;Microsoft Defender X...</description>
+
+
+
+&#160;Microsoft Defender for Cloud
+
+
+
+
+
+Security findings for IaC misconfigurations, container vulnerabilities and code weaknesses for GitHub repositories...</description>
+    </item>
+    <item>
+      <title>Trusted Signing is now open for individual developers to sign up in Public Preview!</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-now-open-for-individual-developers-to-sign-up/ba-p/4273554</link>
+      <pubDate>Mon, 04 Nov 2024 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-now-open-for-individual-developers-to-sign-up/ba-p/4273554</guid>
+      <description>Trusted Signing addresses the signing issues faced by individual developers by providing a comprehensive and affordable solution. It ensures the authenticity and integrity of code through a modern identity validation process, which is crucial for securing code signing certificates.&#160;&#160;
+&#160;
+One of the key advantages of Trusted Signing is its cost-effectiveness. Trusted Signing offers two pricing tiers, starting at $9.99/month: Basic and Premium. Both tiers are designed to provide optimal cost efficiency and cater to various signing needs. The costs for identity validation, certificate lifecycle man...</description>
+    </item>
+    <item>
+      <title>Configuring total retention period for log analytics workspace tables at scale</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configuring-total-retention-period-for-log-analytics-workspace/ba-p/4286422</link>
+      <pubDate>Mon, 04 Nov 2024 15:55:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configuring-total-retention-period-for-log-analytics-workspace/ba-p/4286422</guid>
+      <description>In this blog, we are going to discuss about an automated approach to configure total retention period for log analytics workspace tables. Before we delve into the solution, let&#8217;s understand more about the retention options for log analytics tables.
+A Log Analytics workspace retains data in two states:
+
+Interactive retention: In this state, data is available for monitoring, troubleshooting, and near-real-time analytics.
+Long-term retention: In this low-cost state, data isn't available for table plan features, but can be accessed through search jobs.
+
+By default, all tables in a Log Analytics wo...</description>
+    </item>
+    <item>
+      <title>Microsoft Entra ID Governance for government</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-for-government/ba-p/3575578</link>
+      <pubDate>Mon, 04 Nov 2024 15:27:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-for-government/ba-p/3575578</guid>
+      <description>I&#8217;m pleased to announce that as of November 1, 2024, Microsoft Entra ID Governance is available for federal agencies, state and local governments, and government contractors in the US Government community cloud (GCC), GCC-High, and Department of Defense cloud environments. Entra ID Governance launched for commercial customers on July 1, 2023, and due to strong demand, we expanded to educational (EDU) and frontline worker (FLW) customers earlier this year. Now, we&#8217;ve made the same Entra ID Governance product available for government customers.
+&#160;
+Entra ID Governance helps organizations ensure th...</description>
     </item>
   </channel>
 </rss>

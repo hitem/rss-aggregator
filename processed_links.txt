@@ -636,3 +636,7 @@
 2024-10-31T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-now-a-leader-in-three-major-analyst-reports-for-siem/ba-p/4278853
 2024-10-31T22:45:57 https://techcommunity.microsoft.com/t5/azure-network-security-blog/ipv6-adoption-enhancing-azure-waf-on-front-door/ba-p/4284188
 2024-11-04T14:52:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159
+2024-11-04T15:27:56 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-for-government/ba-p/3575578
+2024-11-04T15:55:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configuring-total-retention-period-for-log-analytics-workspace/ba-p/4286422
+2024-11-04T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-now-open-for-individual-developers-to-sign-up/ba-p/4273554
+2024-11-04T16:05:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2024/ba-p/4286476
