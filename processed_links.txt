@@ -1,4 +1,3 @@
-2023-11-06T21:48:25 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-hash-and-url-search-intelligence/ba-p/3781430
 2023-11-07T12:44:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2023/ba-p/3974568
 2023-11-07T16:55:05 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplified-security-settings-management-is-now-generally/ba-p/3975158
 2023-11-07T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/get-insights-on-identity-and-network-access-solutions-at/ba-p/2520431
