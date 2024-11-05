@@ -1,5 +1,3 @@
-2023-11-06T17:06:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-latest-protection-against/ba-p/3970121
-2023-11-06T17:37:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-resources-assessing-internet-exposure-for/ba-p/3974018
 2023-11-06T19:33:06 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/enterprise-iot-security-with-defender-for-iot-now-included-in/ba-p/3967533
 2023-11-06T21:48:25 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-hash-and-url-search-intelligence/ba-p/3781430
 2023-11-07T12:44:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2023/ba-p/3974568
