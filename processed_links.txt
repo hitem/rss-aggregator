@@ -1,4 +1,3 @@
-2023-11-07T12:44:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2023/ba-p/3974568
 2023-11-07T16:55:05 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplified-security-settings-management-is-now-generally/ba-p/3975158
 2023-11-07T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/get-insights-on-identity-and-network-access-solutions-at/ba-p/2520431
 2023-11-07T17:42:21 https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/enterprise-iot-security-is-now-included-in-microsoft-365-e5-and/ba-p/3967533
