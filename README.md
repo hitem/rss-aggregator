@@ -17,7 +17,7 @@ You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggr
     ```python
     etree.SubElement(channel, "link").text = "https://<username>.github.io/<repo name>/aggregated_feed.xml"
     ```
-4. Change to RSS or HTML feeds accordingly in ```rss_aggregator.yml```\
+4. Change to RSS or HTML feeds accordingly in ```rss_aggregator.yml```
 
    For HTML:
     ```python
@@ -29,7 +29,7 @@ You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggr
     run: |
         python rss_aggregator.py
     ```
-5. Change the timer accordingly in ```rss_aggregator.yml```\
+5. Change the timer accordingly in ```rss_aggregator.yml``` \
    The Cron job is the main one (how often it runs). But one more such setting is that links are only stored for 365 days under ```name: Update processed links file``` in the yml to prevent ```processed_links.txt``` to grow to big.
 
 6. Then you take the link to `aggregated_feed.xml` and paste it in to your RSS hook or powerautomate flow (and digest frequenzy to match your cron configuration in `rss_aggregator.yml`) \
@@ -66,7 +66,7 @@ Ingestion Frequency: 1 hour
 ```python
 time_threshold: 60 days 
 Cron Job Interval: 30 days
-daily Ingestion Frequency: 30 days
+Ingestion Frequency: 30 days
 ```
 ```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything.
 ```python
