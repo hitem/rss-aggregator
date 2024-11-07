@@ -48,7 +48,7 @@ for url in rss_feed_urls:
 unique_entries = [entry for entry in all_entries if entry.link not in processed_links]
 
 # Filter entries published within the last 2 hours
-time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
+time_threshold = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=2)
 recent_entries = [entry for entry in unique_entries if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z") >= time_threshold]
 
 # Sort entries by published date in descending order
@@ -60,7 +60,7 @@ channel = etree.SubElement(root, "channel")
 etree.SubElement(channel, "title").text = "RSS Aggregator Feed"
 etree.SubElement(channel, "link").text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
 etree.SubElement(channel, "description").text = "An aggregated feed of Microsoft blogs"
-etree.SubElement(channel, "lastBuildDate").text = datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
+etree.SubElement(channel, "lastBuildDate").text = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
 
 # Add entries to the new feed
 for entry in sorted_entries:
