@@ -2,3 +2,5 @@ feedparser
 lxml
 beautifulsoup4
 requests
+aiohttp
+asyncio
