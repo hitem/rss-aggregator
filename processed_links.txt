@@ -1,4 +1,3 @@
-2023-11-08T07:56:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-assessments-milestones/ba-p/3975841
 2023-11-08T13:23:34 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/using-microsoft-defender-threat-intelligence-with-the-diamond/ba-p/3976100
 2023-11-08T14:30:54 https://techcommunity.microsoft.com/t5/azure-network-security-blog/part-2-managing-azure-firewall-network-rules-with-illumination/ba-p/3976181
 2023-11-08T18:02:51 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architecture-guidance-how-to-ingest-gcp-firewall-vpc-logs-into/ba-p/3974767
