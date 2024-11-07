@@ -1,4 +1,3 @@
-2023-11-08T18:02:51 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architecture-guidance-how-to-ingest-gcp-firewall-vpc-logs-into/ba-p/3974767
 2023-11-09T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-2023-guide-to-microsoft-purview-and-priva/ba-p/3976678
 2023-11-10T14:36:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-119/ba-p/3978427
 2023-11-11T08:33:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-108/ba-p/3691250
