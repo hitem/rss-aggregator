@@ -46,7 +46,6 @@ time_threshold = datetime.datetime.now(datetime.timezone.utc) - datetime.timedel
 # Asynchronous function to fetch and parse articles from a blog page
 async def fetch_blog_articles(url, session):
     articles = []
-    print(f"Fetching articles from: {url}")
     try:
         async with session.get(url, timeout=10) as response:
             response_text = await response.text()
@@ -54,34 +53,32 @@ async def fetch_blog_articles(url, session):
             
             # Select articles based on the new HTML structure
             found_articles = soup.find_all("article", {"data-testid": "MessageViewCard"})
-            print(f"Found {len(found_articles)} articles on {url}")
-            for article in found_articles[:5]:  # Limit to avoid excessive output
+            for article in found_articles:
                 
-                # Extract title and link
-                title_elem = article.find("a", {"class": "MessageViewCard_lia-subject-link__OhaPD"})
-                if title_elem:
+                # Generalized selector for title and link
+                title_elem = article.find("a", {"data-testid": "MessageLink"})
+                if title_elem and "aria-label" in title_elem.attrs:
                     title = title_elem["aria-label"]
                     link = "https://techcommunity.microsoft.com" + title_elem["href"]
                 
-                # Extract publication date
-                date_elem = article.find("a", {"class": "MessageViewCard_lia-timestamp__pG_bu"}).find("span", {"data-testid": "messageTime"})
-                if date_elem and date_elem.span:
-                    date_str = date_elem.span["title"].split(" at")[0]  # Remove the time portion if present
+                # Generalized selector for publication date
+                date_elem = article.find("span", {"title": True})
+                if date_elem:
+                    date_str = date_elem["title"].split(" at")[0]
 
                     # Try parsing with both month formats
                     try:
-                        pub_date = datetime.datetime.strptime(date_str, "%B %d, %Y")  # Full month name
+                        pub_date = datetime.datetime.strptime(date_str, "%B %d, %Y")
                     except ValueError:
                         try:
-                            pub_date = datetime.datetime.strptime(date_str, "%b %d, %Y")  # Abbreviated month name
-                        except ValueError as e:
-                            print(f"Date parsing error for {title}: {e}")
+                            pub_date = datetime.datetime.strptime(date_str, "%b %d, %Y")
+                        except ValueError:
                             continue
 
-                    pub_date = pub_date.replace(tzinfo=datetime.timezone.utc)  # Ensure it's timezone-aware
+                    pub_date = pub_date.replace(tzinfo=datetime.timezone.utc)
                     
                     # Only add articles that are recent and not already processed
-                    if link not in processed_links:
+                    if pub_date >= time_threshold and link not in processed_links:
                         summary_elem = article.find("div", {"data-testid": "MessageTeaser"})
                         summary = summary_elem.get_text(strip=True) if summary_elem else "No summary available."
                         articles.append({
@@ -90,9 +87,6 @@ async def fetch_blog_articles(url, session):
                             "pubDate": pub_date.strftime("%a, %d %b %Y %H:%M:%S GMT"),
                             "description": summary[:600] + "..." if len(summary) > 600 else summary,
                         })
-                        print(f"Added article: {title}")
-                    else:
-                        print(f"Article already processed: {title}")
     except Exception as e:
         print(f"Error fetching {url}: {e}")
     
@@ -135,7 +129,7 @@ async def main():
             for entry in sorted_entries:
                 f.write(f"{entry['pubDate']} {entry['link']}\n")
 
-        # Set the RSS_FEED_ENTRIES environment variable for GitHub Actions
+        # Output the count of new RSS feed entries
         if "GITHUB_ENV" in os.environ:
             with open(os.environ["GITHUB_ENV"], "a") as f:
                 f.write(f"RSS_FEED_ENTRIES={len(sorted_entries)}\n")
