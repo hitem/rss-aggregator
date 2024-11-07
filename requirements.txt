@@ -1,3 +1,4 @@
 feedparser
 lxml
 beautifulsoup4
+requests
