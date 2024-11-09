@@ -38,7 +38,6 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        touch .env
 
     - name: Run RSS aggregator script
       run: |
