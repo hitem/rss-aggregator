@@ -41,8 +41,6 @@ jobs:
         touch .env
 
     - name: Run RSS aggregator script
-      env:
-        GITHUB_ENV: .env
       run: |
         python html_aggregator.py
 
