@@ -38,7 +38,7 @@ Note that you have the options to chose between aggregation or appending to a ``
     append_mode = False
     ```
     Persistant, appending to ```aggregated_feed.xml``` (Used for feeds such as feedly to see older entries).\
-    How long will the entries in ```aggregated_feed.xml``` persist to avoid growing to big.
+    You can also chose how long the entries will persist in ```aggregated_feed.xml```, this to avoid growing to big.
     ```python
     append_mode = True
     max_age_days = 365
