@@ -38,6 +38,10 @@ Example from teams: \
 Example from powerautomate flows: \
  ![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47)
 
+Note: You also need to set up github access token for the repo in question. Else the github action workflow will not be allowed to checkout and make pullrequests (and merge).
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens 
+Include as few permissions as possible needed for your project.
+
 
 # Current Behavior
 - **Script Execution:** The cron job triggers the script every hour. The script fetches and processes RSS or HTML feed entries from the last 2 hours.
