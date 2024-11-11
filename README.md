@@ -38,8 +38,14 @@ Example from teams: \
 Example from powerautomate flows: \
  ![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47)
 
-Note: You also need to set up github access token for the repo in question. Else the github action workflow will not be allowed to checkout and make pullrequests (and merge).
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens 
+**Note:** You also need to set up github access token for the repo in question. Else the github action workflow will not be allowed to checkout and make pullrequests (and merge). By default it uses GITHUB_TOKEN that can be configured on your repository project: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#setting-the-permissions-of-the-github_token-for-your-repository \
+I set these permissions in the workflow yml file:
+```python
+permissions:
+ contents: write
+ pages: write
+ id-token: write
+```
 Include as few permissions as possible needed for your project.
 
 
