@@ -61,6 +61,7 @@ Include as few permissions as possible needed for your project.
 
 
 # Current Behavior
+Based on default values (```append_mode = False```)
 - **Script Execution:** The cron job triggers the script every hour. The script fetches and processes RSS or HTML feed entries from the last 2 hours.
 - **Link Processing:** The script writes new links to `processed_links.txt` and skips links that are already present in `processed_links.txt`.
 
