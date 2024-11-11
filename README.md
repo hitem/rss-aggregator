@@ -2,6 +2,7 @@
 
 Simple aggregator for **RSS** & **HTML** feeds for my own pleasure \
 You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggregator.py**. If you however are working with HTML blog posts (such as Microsoft blogs) you can instead chose to use **html_aggregator.py**.
+Note that you have the options to chose between aggregation or appending to a ```aggregated_feed.xml```.
 <br>
 ```hitem```
 
@@ -31,8 +32,18 @@ You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggr
     ```
 5. Change the timer accordingly in ```rss_aggregator.yml``` \
    The Cron job is the main one (how often it runs). But one more such setting is that links are only stored for 365 days under ```name: Update processed links file``` in the yml to prevent ```processed_links.txt``` to grow to big.
-
-6. Then you take the link to `aggregated_feed.xml` and paste it in to your RSS hook or powerautomate flow (and digest frequenzy to match your cron configuration in `rss_aggregator.yml`) \
+6. Chose if you want to aggregate or append ```aggregated_feed.xml``` by settings these values in top of the ```*.py``` script.\
+    Aggregated (**default**), this is used to ingest the latest news where the digestion is triggered elsewhere, such as teams or slack).
+    ```python
+    append_mode = False
+    ```
+    Persistant, appending to ```aggregated_feed.xml``` (Used for feeds such as feedly to see older entries).\
+    How long will the entries in ```aggregated_feed.xml``` persist to avoid growing to big.
+    ```python
+    append_mode = True
+    max_age_days = 365
+    ```
+8. Then you take the link to `aggregated_feed.xml` and paste it in to your RSS hook or powerautomate flow (and digest frequenzy to match your cron configuration in `rss_aggregator.yml`) \
 Example from teams: \
 ![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0) \
 Example from powerautomate flows: \
