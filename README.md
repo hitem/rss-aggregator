@@ -34,7 +34,10 @@ You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggr
 
 6. Then you take the link to `aggregated_feed.xml` and paste it in to your RSS hook or powerautomate flow (and digest frequenzy to match your cron configuration in `rss_aggregator.yml`) \
 Example from teams: \
-![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0)
+![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0) \
+Example from powerautomate flows: \
+ ![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47)
+
 
 # Current Behavior
 - **Script Execution:** The cron job triggers the script every hour. The script fetches and processes RSS or HTML feed entries from the last 2 hours.
