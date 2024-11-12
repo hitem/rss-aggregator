@@ -1,4 +1,3 @@
-2023-11-13T21:08:33 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-mma-agent-bulk-removal/ba-p/3980631
 2023-11-14T00:20:40 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-microsoft-defender-threat-intelligence-community/ba-p/3657956
 2023-11-14T21:06:46 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-intel-reporting-dashboard-and-workbook/ba-p/3812899
 2023-11-15T15:58:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-new-cnapp-capabilities-in-defender-for-cloud/ba-p/3981941
