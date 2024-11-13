@@ -100,4 +100,7 @@ Ingestion Frequency: 30 days
 ```python
 if pub_date >= time_threshold and link not in processed_links:
 ```
-
+# Other
+For your own sanity, if you follow this repo or deploy your own, make sure to: \
+<img src="https://github.com/user-attachments/assets/e453e278-d324-45b1-9d76-f21b6c110a57" width="300"/> \
+If you run every hour it will be very chatty :)
