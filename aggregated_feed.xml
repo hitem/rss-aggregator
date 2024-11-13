@@ -3,6 +3,24 @@
     <title>HTML Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Nov 2024 20:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 20:14:29 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Security Copilot Achieves SOC 2 Certification</title>
+      <link>https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363</link>
+      <pubDate>2024-11-13T20:14:34</pubDate>
+      <description>We are pleased to announce that Microsoft Security Copilot has successfully achievedSOC 2 certification, a significant milestone that reinforces our commitment to delivering secure, compliant soluti...</description>
+    </item>
+    <item>
+      <title>From prevention to recovery: Microsoft Unified&#8217;s holistic cybersecurity approach</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/from-prevention-to-recovery-microsoft-unified%E2%80%99s-holistic-cybersecurity-approach/4295823</link>
+      <pubDate>2024-11-13T20:14:32</pubDate>
+      <description>No summary available.</description>
+    </item>
+    <item>
+      <title>Looking for a career in Incident Response? Consider the DART Infrastructure Engineer role!</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/looking-for-a-career-in-incident-response-consider-the-dart-infrastructure-engin/4280124</link>
+      <pubDate>2024-11-13T20:14:32</pubDate>
+      <description>Are you looking to develop your skills as an Infrastructure Specialist? Microsoft Incident Response covers an introduction to the role and how to start your journey.</description>
+    </item>
   </channel>
 </rss>

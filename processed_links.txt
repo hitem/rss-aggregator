@@ -620,3 +620,6 @@
 2024-11-04T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sync-identities-from-rippling-to-microsoft-entra-id/ba-p/4279690
 2024-11-04T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/add-authentication-to-apps-in-minutes/ba-p/4282779
 2024-11-04T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/windows-server-2025-security-book/ba-p/4283981
+2024-11-13T20:14:32 https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/from-prevention-to-recovery-microsoft-unified%E2%80%99s-holistic-cybersecurity-approach/4295823
+2024-11-13T20:14:32 https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/looking-for-a-career-in-incident-response-consider-the-dart-infrastructure-engin/4280124
+2024-11-13T20:14:34 https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363
