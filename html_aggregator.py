@@ -87,7 +87,7 @@ async def fetch_blog_articles(url, session):
                         articles.append({
                             "title": title,
                             "link": link,
-                            "pubDate": pub_date.strftime("%a, %d %b %Y %H:%M:%S GMT"),
+                            "pubDate": pub_date.strftime("%Y-%m-%dT%H:%M:%S"),  # Changed format to ISO format
                             "description": summary[:600] + "..." if len(summary) > 600 else summary,
                         })
     except Exception as e:
@@ -114,7 +114,7 @@ async def main():
             # Remove old entries beyond max_age_days in append mode
             for item in channel.findall("item"):
                 pub_date = item.find("pubDate").text
-                pub_datetime = datetime.datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S GMT")
+                pub_datetime = datetime.datetime.strptime(pub_date, "%Y-%m-%dT%H:%M:%S")
                 if pub_datetime < max_age_time_threshold:
                     channel.remove(item)
         else:
