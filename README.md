@@ -57,7 +57,7 @@ I set these permissions in the workflow yml file:
 permissions:
  contents: write
  pages: write
- id-token: read
+ id-token: write
 ```
 Include as few permissions as possible needed for your project.
 
