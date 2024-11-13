@@ -78,7 +78,11 @@ async def fetch_blog_articles(url, session):
                             pub_date = datetime.datetime.strptime(date_str, "%b %d, %Y")
                         except ValueError:
                             continue
-                    pub_date = pub_date.replace(tzinfo=datetime.timezone.utc)
+                    # Add current time to pub_date
+                    pub_date = pub_date.replace(hour=datetime.datetime.now().hour,
+                                                minute=datetime.datetime.now().minute,
+                                                second=datetime.datetime.now().second,
+                                                tzinfo=datetime.timezone.utc)
                     
                     # Filter by recent time threshold and processed links
                     if pub_date >= recent_time_threshold and link not in processed_links:
@@ -87,7 +91,7 @@ async def fetch_blog_articles(url, session):
                         articles.append({
                             "title": title,
                             "link": link,
-                            "pubDate": pub_date.strftime("%Y-%m-%dT%H:%M:%S"),  # Changed format to ISO format
+                            "pubDate": pub_date.strftime("%Y-%m-%dT%H:%M:%S"),  # Now includes time
                             "description": summary[:600] + "..." if len(summary) > 600 else summary,
                         })
     except Exception as e:
@@ -95,8 +99,11 @@ async def fetch_blog_articles(url, session):
     
     return articles
 
+
 # Main asynchronous function to handle all URL requests concurrently
 async def main():
+    now = datetime.datetime.now(datetime.timezone.utc)  # Current date and time in UTC
+    
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_blog_articles(url, session) for url in blog_urls]
         results = await asyncio.gather(*tasks)
@@ -129,15 +136,27 @@ async def main():
         last_build_date = channel.find("lastBuildDate")
         if last_build_date is None:
             last_build_date = etree.SubElement(channel, "lastBuildDate")
-        last_build_date.text = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        last_build_date.text = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
 
         # Append new entries to the feed
         for entry in sorted_entries:
             item = etree.SubElement(channel, "item")
             etree.SubElement(item, "title").text = entry["title"]
             etree.SubElement(item, "link").text = entry["link"]
-            etree.SubElement(item, "pubDate").text = entry["pubDate"]
+
+            # Convert pubDate to UTC and determine if it should include time
+            pub_date_utc = datetime.datetime.fromisoformat(entry["pubDate"]).astimezone(datetime.timezone.utc)
+            if pub_date_utc.date() == now.date():
+                # If the date matches today, include the current time in UTC
+                pub_date_str = pub_date_utc.strftime("%Y-%m-%dT%H:%M:%S")
+            else:
+                # Otherwise, keep the default time as 00:00:00
+                pub_date_str = pub_date_utc.strftime("%Y-%m-%dT00:00:00")
+
+            etree.SubElement(item, "pubDate").text = pub_date_str
             etree.SubElement(item, "description").text = entry["description"]
+
+
 
         # Write to the output file
         with open(output_file, "wb") as f:
@@ -146,7 +165,17 @@ async def main():
         # Update processed links file with new entries
         with open(processed_links_file, "a") as f:
             for entry in sorted_entries:
-                f.write(f"{entry['pubDate']} {entry['link']}\n")
+                # Convert pubDate to UTC and determine if it should include time
+                pub_date_utc = datetime.datetime.fromisoformat(entry["pubDate"]).astimezone(datetime.timezone.utc)
+                if pub_date_utc.date() == now.date():
+                    # If the date matches today, include the current time in UTC
+                    pub_date_str = pub_date_utc.strftime("%Y-%m-%dT%H:%M:%S")
+                else:
+                    # Otherwise, keep the default time as 00:00:00
+                    pub_date_str = pub_date_utc.strftime("%Y-%m-%dT00:00:00")
+
+                # Write each entry with the appropriate timestamp format
+                f.write(f"{pub_date_str} {entry['link']}\n")
 
         # Output RSS feed entry count
         if "GITHUB_ENV" in os.environ:
@@ -157,3 +186,4 @@ async def main():
 
 # Run the main function
 asyncio.run(main())
+
