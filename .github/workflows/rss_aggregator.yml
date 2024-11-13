@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
       pages: write
-      id-token: read
+      #id-token: write #Used if flow needs to interact externaly (OIDC)
 
     environment:
       name: github-pages
