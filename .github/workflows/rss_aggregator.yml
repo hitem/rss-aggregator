@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
       pages: write
-      id-token: write
+      id-token: read
 
     environment:
       name: github-pages
