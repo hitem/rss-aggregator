@@ -3,12 +3,6 @@
     <title>HTML Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Nov 2024 18:09:32 GMT</lastBuildDate>
-    <item>
-      <title>MTO/Cross Tenant Sync Identity Considerations</title>
-      <link>https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/mtocross-tenant-sync-identity-considerations/4293341</link>
-      <pubDate>2024-11-14T18:09:35</pubDate>
-      <description>In the current Azure environment, a user from another tenant can be represented by various identity objects. Most users have a cloud guest account, while a subset also possesses Mail contacts, alongs...</description>
-    </item>
+    <lastBuildDate>Thu, 14 Nov 2024 19:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
