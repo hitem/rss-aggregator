@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from lxml import etree
 import datetime
 import os
+import re
 
 # Set to True for appending, False for overwriting
 append_mode = False
@@ -67,6 +68,8 @@ async def fetch_blog_articles(url, session):
                 if title_elem and "aria-label" in title_elem.attrs:
                     title = title_elem["aria-label"]
                     link = "https://techcommunity.microsoft.com" + title_elem["href"]
+                else:
+                    continue
                 
                 date_elem = article.find("span", {"title": True})
                 if date_elem:
@@ -79,14 +82,18 @@ async def fetch_blog_articles(url, session):
                         except ValueError:
                             continue
                     # Add current time to pub_date
-                    pub_date = pub_date.replace(hour=datetime.datetime.now().hour,
-                                                minute=datetime.datetime.now().minute,
-                                                second=datetime.datetime.now().second,
-                                                tzinfo=datetime.timezone.utc)
-                    
+                    pub_date = pub_date.replace(
+                        hour=datetime.datetime.now().hour,
+                        minute=datetime.datetime.now().minute,
+                        second=datetime.datetime.now().second,
+                        tzinfo=datetime.timezone.utc
+                    )
                     # Filter by recent time threshold and processed links
                     if pub_date >= recent_time_threshold and link not in processed_links:
+                        # Attempt to find the summary using data-testid
                         summary_elem = article.find("div", {"data-testid": "MessageTeaser"})
+                        if not summary_elem:
+                            summary_elem = article.find("div", class_=re.compile(r'MessageViewCard_lia-body-content'))
                         summary = summary_elem.get_text(strip=True) if summary_elem else "No summary available."
                         articles.append({
                             "title": title,
@@ -99,20 +106,15 @@ async def fetch_blog_articles(url, session):
     
     return articles
 
-
 # Main asynchronous function to handle all URL requests concurrently
 async def main():
-    now = datetime.datetime.now(datetime.timezone.utc)  # Current date and time in UTC
+    now = datetime.datetime.now(datetime.timezone.utc)
     
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_blog_articles(url, session) for url in blog_urls]
         results = await asyncio.gather(*tasks)
         all_entries = [item for sublist in results for item in sublist]
-        
-        # Sort entries by published date
         sorted_entries = sorted(all_entries, key=lambda x: x["pubDate"], reverse=True)
-
-        # Load existing XML if appending
         if append_mode and os.path.exists(output_file):
             tree = etree.parse(output_file)
             root = tree.getroot()
@@ -147,16 +149,12 @@ async def main():
             # Convert pubDate to UTC and determine if it should include time
             pub_date_utc = datetime.datetime.fromisoformat(entry["pubDate"]).astimezone(datetime.timezone.utc)
             if pub_date_utc.date() == now.date():
-                # If the date matches today, include the current time in UTC
                 pub_date_str = pub_date_utc.strftime("%Y-%m-%dT%H:%M:%S")
             else:
-                # Otherwise, keep the default time as 00:00:00
                 pub_date_str = pub_date_utc.strftime("%Y-%m-%dT00:00:00")
 
             etree.SubElement(item, "pubDate").text = pub_date_str
             etree.SubElement(item, "description").text = entry["description"]
-
-
 
         # Write to the output file
         with open(output_file, "wb") as f:
@@ -165,7 +163,6 @@ async def main():
         # Update processed links file with new entries
         with open(processed_links_file, "a") as f:
             for entry in sorted_entries:
-                # Convert pubDate to UTC and determine if it should include time
                 pub_date_utc = datetime.datetime.fromisoformat(entry["pubDate"]).astimezone(datetime.timezone.utc)
                 if pub_date_utc.date() == now.date():
                     # If the date matches today, include the current time in UTC
@@ -174,7 +171,6 @@ async def main():
                     # Otherwise, keep the default time as 00:00:00
                     pub_date_str = pub_date_utc.strftime("%Y-%m-%dT00:00:00")
 
-                # Write each entry with the appropriate timestamp format
                 f.write(f"{pub_date_str} {entry['link']}\n")
 
         # Output RSS feed entry count
@@ -184,6 +180,5 @@ async def main():
         else:
             print(f"RSS_FEED_ENTRIES={len(sorted_entries)}")  # For local testing
 
-# Run the main function
 asyncio.run(main())
 
