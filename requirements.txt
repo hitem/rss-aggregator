@@ -3,5 +3,3 @@ lxml
 beautifulsoup4
 requests
 aiohttp
-asyncio
-re
