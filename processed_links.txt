@@ -1,4 +1,3 @@
-2023-11-15T22:26:45 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-partner-solution-contributions-update-ignite/ba-p/3982485
 2023-11-16T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232
 2023-11-16T17:18:47 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-new-version-of-managed-virtual-network-in-microsoft/ba-p/3984969
 2023-11-16T17:24:32 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/enhanced-snowflake-integration-in-microsoft-purview/ba-p/3985020
