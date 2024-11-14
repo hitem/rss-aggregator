@@ -622,3 +622,4 @@
 2024-11-13T20:14:32 https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/from-prevention-to-recovery-microsoft-unified%E2%80%99s-holistic-cybersecurity-approach/4295823
 2024-11-13T20:14:32 https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/looking-for-a-career-in-incident-response-consider-the-dart-infrastructure-engin/4280124
 2024-11-13T20:14:34 https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363
+2024-11-14T02:09:37 https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085

@@ -3,6 +3,12 @@
     <title>HTML Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Nov 2024 00:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 02:09:34 GMT</lastBuildDate>
+    <item>
+      <title>Enhancing Threat Hunting with Microsoft Defender Experts Plugin</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085</link>
+      <pubDate>2024-11-14T02:09:37</pubDate>
+      <description>No summary available.</description>
+    </item>
   </channel>
 </rss>
