@@ -3,6 +3,12 @@
     <title>HTML Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Nov 2024 16:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 17:00:41 GMT</lastBuildDate>
+    <item>
+      <title>Security review for Microsoft Edge version 131</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-review-for-microsoft-edge-version-131/4298314</link>
+      <pubDate>2024-11-15T17:00:43</pubDate>
+      <description></description>
+    </item>
   </channel>
 </rss>
