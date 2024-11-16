@@ -41,7 +41,7 @@ jobs:
 
     - name: Run RSS aggregator script
       run: |
-        python html_aggregator.py
+        python rss_aggregator.py
 
     - name: Update processed links file
       run: |
