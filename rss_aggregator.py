@@ -75,19 +75,24 @@ async def process_feeds():
 
         # Remove duplicates and already processed links
         unique_entries = [
-            entry for entry in all_entries if entry.link not in processed_links
+            entry for entry in all_entries if hasattr(entry, "link") and entry.link not in processed_links
         ]
 
         # Filter recent entries
         recent_entries = [
             entry for entry in unique_entries
-            if datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=datetime.timezone.utc) >= recent_time_threshold
+            if hasattr(entry, "published") and datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=datetime.timezone.utc) >= recent_time_threshold
         ]
 
         # Sort entries
         sorted_entries = sorted(
             recent_entries, key=lambda x: x.published_parsed, reverse=True)
+        
+        # Update feed
         update_feed(sorted_entries)
+        
+        # Return the sorted entries for use outside the function
+        return sorted_entries
 
 # Function to update or create the XML feed
 def update_feed(sorted_entries):
@@ -116,14 +121,16 @@ def update_feed(sorted_entries):
 
     # Add new entries to the feed
     for entry in sorted_entries:
+        if not hasattr(entry, "title") or not hasattr(entry, "link"):
+            continue 
         item = etree.SubElement(channel, "item")
         etree.SubElement(item, "title").text = entry.title
         etree.SubElement(item, "link").text = entry.link
         etree.SubElement(item, "pubDate").text = entry.published
         etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(
             entry, "id") else entry.link
-        soup = BeautifulSoup(entry.summary, "lxml")
-        summary_text = soup.get_text()
+        soup = BeautifulSoup(entry.summary, "lxml") if hasattr(entry, "summary") else None
+        summary_text = soup.get_text() if soup else "No summary available."
         limited_summary = summary_text[:600] + \
             "..." if len(summary_text) > 350 else summary_text
         etree.SubElement(item, "description").text = limited_summary
@@ -139,12 +146,11 @@ def update_feed(sorted_entries):
                 entry.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%dT%H:%M:%S")
             f.write(f"{timestamp} {entry.link}\n")
 
-    # Output RSS feed entry count
-        if "GITHUB_ENV" in os.environ:
-            with open(os.environ["GITHUB_ENV"], "a") as f:
-                f.write(f"RSS_FEED_ENTRIES={len(sorted_entries)}\n")
-        else:
-            print(f"RSS_FEED_ENTRIES={len(sorted_entries)}")  # For local testing
+sorted_entries = asyncio.run(process_feeds())
 
-# Run the async main function
-asyncio.run(process_feeds())
+# Output RSS feed entry count
+if "GITHUB_ENV" in os.environ:
+    with open(os.environ["GITHUB_ENV"], "a") as f:
+        f.write(f"RSS_FEED_ENTRIES={len(sorted_entries)}\n")
+else:
+    print(f"RSS_FEED_ENTRIES={len(sorted_entries)}")  # For local testing
