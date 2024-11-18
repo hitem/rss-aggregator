@@ -6,6 +6,7 @@ import aiohttp
 import feedparser
 from lxml import etree
 import datetime
+import calendar
 import os
 from bs4 import BeautifulSoup
 
@@ -38,7 +39,8 @@ output_file = "aggregated_feed.xml"
 processed_links_file = "processed_links.txt"
 
 # Define the time threshold
-recent_time_threshold = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=2)
+recent_time_threshold = datetime.datetime.now(
+    datetime.timezone.utc) - datetime.timedelta(hours=2)
 
 # Read previously processed links
 try:
@@ -48,6 +50,8 @@ except FileNotFoundError:
     processed_links = set()
 
 # Asynchronous function to fetch RSS feed content
+
+
 async def fetch_rss_feed(url, session):
     try:
         async with session.get(url, timeout=10) as response:
@@ -61,7 +65,16 @@ async def fetch_rss_feed(url, session):
         print(f"Error fetching {url}: {e}")
         return None
 
+# Function to convert struct_time to datetime with UTC timezone
+
+
+def struct_time_to_datetime(t):
+    timestamp = calendar.timegm(t)
+    return datetime.datetime.utcfromtimestamp(timestamp).replace(tzinfo=datetime.timezone.utc)
+
 # Main asynchronous function to process RSS feeds
+
+
 async def process_feeds():
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_rss_feed(url, session) for url in rss_feed_urls]
@@ -78,23 +91,28 @@ async def process_feeds():
             entry for entry in all_entries if hasattr(entry, "link") and entry.link not in processed_links
         ]
 
-        # Filter recent entries
-        recent_entries = [
-            entry for entry in unique_entries
-            if hasattr(entry, "published") and datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=datetime.timezone.utc) >= recent_time_threshold
-        ]
+        # Filter recent entries using published_parsed
+        recent_entries = []
+        for entry in unique_entries:
+            if hasattr(entry, 'published_parsed'):
+                entry_datetime = struct_time_to_datetime(
+                    entry.published_parsed)
+                if entry_datetime >= recent_time_threshold:
+                    recent_entries.append(entry)
 
         # Sort entries
         sorted_entries = sorted(
             recent_entries, key=lambda x: x.published_parsed, reverse=True)
-        
+
         # Update feed
         update_feed(sorted_entries)
-        
+
         # Return the sorted entries for use outside the function
         return sorted_entries
 
 # Function to update or create the XML feed
+
+
 def update_feed(sorted_entries):
     now = datetime.datetime.now(datetime.timezone.utc)
 
@@ -122,14 +140,15 @@ def update_feed(sorted_entries):
     # Add new entries to the feed
     for entry in sorted_entries:
         if not hasattr(entry, "title") or not hasattr(entry, "link"):
-            continue 
+            continue
         item = etree.SubElement(channel, "item")
         etree.SubElement(item, "title").text = entry.title
         etree.SubElement(item, "link").text = entry.link
         etree.SubElement(item, "pubDate").text = entry.published
         etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(
             entry, "id") else entry.link
-        soup = BeautifulSoup(entry.summary, "lxml") if hasattr(entry, "summary") else None
+        soup = BeautifulSoup(entry.summary, "lxml") if hasattr(
+            entry, "summary") else None
         summary_text = soup.get_text() if soup else "No summary available."
         limited_summary = summary_text[:600] + \
             "..." if len(summary_text) > 350 else summary_text
@@ -145,6 +164,7 @@ def update_feed(sorted_entries):
             timestamp = datetime.datetime.strptime(
                 entry.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%dT%H:%M:%S")
             f.write(f"{timestamp} {entry.link}\n")
+
 
 sorted_entries = asyncio.run(process_feeds())
 
