@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Nov 2024 17:00:38 GMT</lastBuildDate>
-    <item>
-      <title>Defeating Adversary-in-the-Middle phishing attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/defeating-adversary-in-the-middle-phishing-attacks/ba-p/1751777</link>
-      <pubDate>Mon, 18 Nov 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/defeating-adversary-in-the-middle-phishing-attacks/ba-p/1751777</guid>
-      <description>Welcome to the second in our series of articles on dealing with advanced identity-related attacks.&#160;
-As we&#8217;ve crossed the threshold of more than 40% of users employing multifactor authentication (MFA), we see two trends emerging. The first is that adversaries are successfully compromising a higher percentage of accounts not protected by MFA. With more lions pursuing fewer available gazelles, the gazelles face a lot more risk. In the past year, we blocked 7,000 password attacks per second, an increase of 75% YoY. The second trend is that more widespread use of MFA is forcing adversaries to find ...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Nov 2024 18:10:00 GMT</lastBuildDate>
   </channel>
 </rss>
