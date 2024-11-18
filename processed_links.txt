@@ -593,3 +593,4 @@
 2024-11-14T18:09:35 https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/mtocross-tenant-sync-identity-considerations/4293341
 2024-11-15T17:00:43 https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-review-for-microsoft-edge-version-131/4298314
 2024-11-15T18:09:51 https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/implement-authentication-on-mobile-apps-with-native-authentication-for-microsoft/4297182
+2024-11-18T04:07:49 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/token-protection-by-using-microsoft-entra-id/ba-p/4302207
