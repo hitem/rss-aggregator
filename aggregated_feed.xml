@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Nov 2024 15:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 16:09:10 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s New: Exciting new Microsoft Sentinel Connectors Announcement - Ignite 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-exciting-new-microsoft-sentinel-connectors/ba-p/4294146</link>
+      <pubDate>Mon, 18 Nov 2024 15:46:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-exciting-new-microsoft-sentinel-connectors/ba-p/4294146</guid>
+      <description>Microsoft Sentinel continues to be a leading cloud-native security information and event management (SIEM) solution, empowering organizations to detect, investigate, and respond to threats across their digital ecosystem at scale. &#160;Microsoft Sentinel offers robust out of the box (OOTB) content, allowing seamless connections with a wide array of data sources from both Microsoft and third-party providers. This enables comprehensive collection and analysis of security signals across multicloud, multiplatform environments, enhancing your overall security posture.&#160;
+In this Ignite 2024 blog post, we ...</description>
+    </item>
   </channel>
 </rss>

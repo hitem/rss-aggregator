@@ -595,3 +595,4 @@
 2024-11-15T18:09:51 https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/implement-authentication-on-mobile-apps-with-native-authentication-for-microsoft/4297182
 2024-11-18T04:07:49 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/token-protection-by-using-microsoft-entra-id/ba-p/4302207
 2024-11-18T14:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4298307
+2024-11-18T15:46:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-exciting-new-microsoft-sentinel-connectors/ba-p/4294146
