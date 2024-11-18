@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Nov 2024 19:00:46 GMT</lastBuildDate>
-    <item>
-      <title>Implement authentication on mobile apps with Native Authentication for Microsoft Entra External ID</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implement-authentication-on-mobile-apps-with-native/ba-p/4297182</link>
-      <pubDate>Mon, 18 Nov 2024 18:54:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implement-authentication-on-mobile-apps-with-native/ba-p/4297182</guid>
-      <description>&#160;
-Native authentication empowers you to take complete control over the design of the sign-in experience of your mobile applications. It allows you to craft stunning, pixel-perfect brand-aligned authentication user flows (including design elements, logo placement, and layout) that are seamlessly integrated into your mobile apps, rather than relying on browser-based solutions. While at the same time, ensuring that sign-in and sign-up processes remain secure and frictionless. This balance of customization and security drives better onboarding, retention, and, ultimately, user trust.
-Authenticatio...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Nov 2024 20:08:40 GMT</lastBuildDate>
   </channel>
 </rss>
