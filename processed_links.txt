@@ -597,3 +597,4 @@
 2024-11-18T14:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4298307
 2024-11-18T15:46:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-exciting-new-microsoft-sentinel-connectors/ba-p/4294146
 2024-11-18T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/defeating-adversary-in-the-middle-phishing-attacks/ba-p/1751777
+2024-11-18T18:54:12 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implement-authentication-on-mobile-apps-with-native/ba-p/4297182
