@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Nov 2024 04:09:59 GMT</lastBuildDate>
-    <item>
-      <title>Token Protection by using Microsoft Entra ID.</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/token-protection-by-using-microsoft-entra-id/ba-p/4302207</link>
-      <pubDate>Mon, 18 Nov 2024 04:07:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/token-protection-by-using-microsoft-entra-id/ba-p/4302207</guid>
-      <description>As organizations move to the cloud and adopt SaaS applications, identities are becoming increasingly crucial for accessing resources. Cybercriminals exploit legitimate and authorized identities to steal data and access credentials through methods like phishing, malware, data breaches, brute-force/password spray attacks, and prior compromises.
-
-As in past years, password-based attacks on users constitute most identity-related attacks.
-As MFA blocks most password-based attacks, threat actors are shifting their focus, moving up the cyberattack chain in three ways: 1) attacking infrastructure, 2) ...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Nov 2024 05:08:18 GMT</lastBuildDate>
   </channel>
 </rss>
