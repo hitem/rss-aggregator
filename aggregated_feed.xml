@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Nov 2024 14:07:36 GMT</lastBuildDate>
-    <item>
-      <title>Announcing the Security Enablement Hub on adoption.microsoft.com</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4298307</link>
-      <pubDate>Mon, 18 Nov 2024 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4298307</guid>
-      <description>We are thrilled to announce the launch of the Security Enablement Hub on adoption.microsoft.com&#8212;a new resource center designed to support and empower our community on their journey to stronger security. As cyber threats continue to evolve in speed and complexity, it&#8217;s more critical than ever for organizations and individuals to stay proactive. &#160;The Security Enablement Hub is designed to provide you with the insights and resources you need for rapid, best-practice adoption of your Microsoft Security solutions, ongoing learning and skilling, and access to a community of industry peers. &#160;Whether ...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Nov 2024 15:07:46 GMT</lastBuildDate>
   </channel>
 </rss>
