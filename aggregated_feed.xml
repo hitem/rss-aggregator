@@ -3,6 +3,70 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Nov 2024 12:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 13:18:34 GMT</lastBuildDate>
+    <item>
+      <title>Azure Firewall and WAF integrations in Microsoft Security Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-security/ba-p/4216811</link>
+      <pubDate>Tue, 19 Nov 2024 13:18:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-security/ba-p/4216811</guid>
+      <description>Azure Firewall and WAF are critical security services that many Microsoft Azure customers use to protect their network and applications from threats and attacks. Azure Firewall is a fully managed, cloud-native network security service that safeguards your Azure resources. It ensures high availability and scalability while filtering both inbound and outbound traffic, catching threats and only allowing legitimate traffic. Azure WAF is a cloud-native service that protects your web applications from common web-hacking techniques such as SQL injection and cross-site scripting. It offers centralized...</description>
+    </item>
+    <item>
+      <title>Ignite news: Seamless protection for your on-prem identities with Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-seamless-protection-for-your-on-prem-identities-with/ba-p/4303398</link>
+      <pubDate>Tue, 19 Nov 2024 13:15:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-seamless-protection-for-your-on-prem-identities-with/ba-p/4303398</guid>
+      <description>Need to access a file or application? Log in. Need to unlock the door to the office? Scan your badge. Identities have become the digital&#8212;and in some cases physical&#8212;keys to the corporate security perimeter. At Microsoft we view Identity Threat Detection and Response (ITDR) as an integrated partnership between Identity and Access Management (IAM) and Extended Detection and Response (XDR).&#160; As both one of the largest identity providers and a leading security vendor, we are not only helping our customers prevent breaches with new and powerful authentication and adaptive access controls, but also d...</description>
+    </item>
+    <item>
+      <title>The unified agent now combines protection 
+across endpoints, OT devices, identities, and DLP</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/the-unified-agent-now-combines-protection-across-endpoints-ot/ba-p/4303805</link>
+      <pubDate>Tue, 19 Nov 2024 13:15:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/the-unified-agent-now-combines-protection-across-endpoints-ot/ba-p/4303805</guid>
+      <description>Microsoft&#8217;s investments in Defender for Endpoint focus both on building industry-leading endpoint protection to stay ahead of increasingly sophisticated attackers and delivering on key fundamentals like simplified deployment and a unified platform experience. This year at Microsoft Ignite, we&#8217;re announcing innovations in both categories: a new unified agent that makes it simpler to deliver both endpoint protection and ITDR, as well as innovative and unique capabilities that help outsmart increasingly challenging attack tactics.
+
+One platform, one agent:&#160;Streamline your deployment and protectio...</description>
+    </item>
+    <item>
+      <title>Microsoft Ignite: Redefining email security with LLMs to tackle a new era of social engineering</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a/ba-p/4302421</link>
+      <pubDate>Tue, 19 Nov 2024 13:15:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a/ba-p/4302421</guid>
+      <description>Phishing emails used to be poorly written and contain plenty of spelling mistakes, so even when they were pretending to be your bank, or your latest international package waiting for delivery, there were plenty of indicators that would make you suspicious. These emails relied on traditional means to gain initial access, such as embedded links, QR codes, or attachments, trying to trick the recipient into clicking on them to compromise the user or device &#8211; but Gen AI has changed the game. 
+Our research teams have been observing a trend where adversaries are now using GenAI to craft phishing emai...</description>
+    </item>
+    <item>
+      <title>Unlock Proactive Defense: Microsoft Security Exposure Management Now Generally Available</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unlock-proactive-defense-microsoft-security-exposure-management/ba-p/4303219</link>
+      <pubDate>Tue, 19 Nov 2024 13:12:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unlock-proactive-defense-microsoft-security-exposure-management/ba-p/4303219</guid>
+      <description>As the digital landscape grows increasingly interconnected, defenders face a critical challenge: the data and insights from various security tools are often siloed or, at best, loosely integrated. This fragmented approach makes it difficult to gain a holistic view of threats or assess their potential impact on critical assets. In a world where a single compromised asset can trigger a domino effect across connected resources, thinking in graphs has become essential for defenders. This approach breaks down silos, allowing them to visualize relationships between assets, vulnerabilities, and threa...</description>
+    </item>
+    <item>
+      <title>Ignite news: Secure your SaaS landscape with the latest Defender for Cloud Apps innovations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-secure-your-saas-landscape-with-the-latest-defender/ba-p/4303401</link>
+      <pubDate>Tue, 19 Nov 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-secure-your-saas-landscape-with-the-latest-defender/ba-p/4303401</guid>
+      <description>We're living in a world where SaaS apps are woven into the fabric of every modern organization. They have transformed how we work, collaborate, and innovate, but they have also introduced new vulnerabilities and security challenges. As the SaaS ecosystem continues to expand, security teams are increasingly challenged to manage the sprawl, ensure safe configurations, and maintain a strong security posture across apps. Further, we face nation-state threat actors using OAuth apps to infiltrate systems with unprecedented stealth because employees often create app-to-app connections without much co...</description>
+    </item>
+    <item>
+      <title>Security Copilot: A game changer for modern SOC</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-a-game-changer-for-modern-soc/ba-p/4303700</link>
+      <pubDate>Tue, 19 Nov 2024 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-a-game-changer-for-modern-soc/ba-p/4303700</guid>
+      <description>In today's rapidly evolving threat landscape, Security Operations Centers (SOCs) face relentless pressure to swiftly and accurately detect, investigate, and respond to security incidents. As frontline defenders of an organization&#8217;s cybersecurity, security analysts need real-time intelligent insights to boost investigation and response. Microsoft Security Copilot empowers security teams with gen AI-powered capabilities that streamline workflows, automate tasks and upskill teams, enhancing overall SOC efficiency. A recent study showed customers could achieve 30% reduction in MTTR for security in...</description>
+    </item>
+    <item>
+      <title>How Microsoft&#8217;s leading SIEM is getting even better</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-microsoft-s-leading-siem-is-getting-even-better/ba-p/4304327</link>
+      <pubDate>Tue, 19 Nov 2024 12:57:53 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-microsoft-s-leading-siem-is-getting-even-better/ba-p/4304327</guid>
+      <description>Microsoft Sentinel, our AI-powered Security Incident Event Management (SIEM) solution, continues to lead the way on security team priorities to streamline security operations, improve threat detection, and optimize costs. In this post, we&#8217;ll explore these key improvements and how they empower the SOC to achieve greater security outcomes against ever-evolving threats.&#160;
+&#160;
+Read on to learn more about what's new with Microsoft Sentinel and tune in to our session at Ignite in person or streaming on 11/20, check out our session here.
+Microsoft&#8217;s Established Leadership in SIEM Innovation
+Microsoft Se...</description>
+    </item>
   </channel>
 </rss>

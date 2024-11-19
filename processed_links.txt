@@ -599,3 +599,11 @@
 2024-11-18T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/defeating-adversary-in-the-middle-phishing-attacks/ba-p/1751777
 2024-11-18T18:54:12 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implement-authentication-on-mobile-apps-with-native/ba-p/4297182
 2024-11-19T10:38:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leave-no-data-behind-using-summary-rules-to-store-data-cost/ba-p/4296785
+2024-11-19T12:57:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-microsoft-s-leading-siem-is-getting-even-better/ba-p/4304327
+2024-11-19T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-secure-your-saas-landscape-with-the-latest-defender/ba-p/4303401
+2024-11-19T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-a-game-changer-for-modern-soc/ba-p/4303700
+2024-11-19T13:12:05 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unlock-proactive-defense-microsoft-security-exposure-management/ba-p/4303219
+2024-11-19T13:15:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/the-unified-agent-now-combines-protection-across-endpoints-ot/ba-p/4303805
+2024-11-19T13:15:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a/ba-p/4302421
+2024-11-19T13:15:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-seamless-protection-for-your-on-prem-identities-with/ba-p/4303398
+2024-11-19T13:18:22 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-firewall-and-waf-integrations-in-microsoft-security/ba-p/4216811
