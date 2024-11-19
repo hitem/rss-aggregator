@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Nov 2024 11:00:49 GMT</lastBuildDate>
-    <item>
-      <title>Leave no data behind: Using summary rules to store data cost effectively in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leave-no-data-behind-using-summary-rules-to-store-data-cost/ba-p/4296785</link>
-      <pubDate>Tue, 19 Nov 2024 10:38:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leave-no-data-behind-using-summary-rules-to-store-data-cost/ba-p/4296785</guid>
-      <description>Introduction
-A special thank you note to&#160; MariaSousaValadas&#160;&#160;Yael_Bergman &#160;for contributing to the content of this blog.
-Security Operations teams all over the world use SIEMs and security tools such as Microsoft Sentinel and Microsoft Defender XDR to defend their IT and OT state against attackers. &#160;Larger organizations tend to amass huge amounts of data ranging from hundreds of gigabytes to terabytes of data. Not all this data has security value at first sight, but by considering common patterns and trends, this data can still allow defenders to detect incidents that might have otherwise gone...</description>
-    </item>
+    <lastBuildDate>Tue, 19 Nov 2024 12:13:45 GMT</lastBuildDate>
   </channel>
 </rss>
