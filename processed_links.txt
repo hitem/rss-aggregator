@@ -628,3 +628,5 @@
 2024-11-19T14:03:31 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-s-security-service-edge-solution/ba-p/3847827
 2024-11-19T14:05:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-purview-communication-compliance-features-for-copilot-and/ba-p/4296775
 2024-11-19T14:07:05 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-unified-threat-intelligence-experience-in-security/ba-p/4287484
+2024-11-19T14:56:26 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-ti-guided-experience-in-security-copilot/ba-p/4287492
+2024-11-19T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470

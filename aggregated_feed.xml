@@ -3,171 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Nov 2024 14:07:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:07:36 GMT</lastBuildDate>
     <item>
-      <title>New at Ignite: Unified Threat Intelligence Experience in Security Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-unified-threat-intelligence-experience-in-security/ba-p/4287484</link>
-      <pubDate>Tue, 19 Nov 2024 14:07:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-unified-threat-intelligence-experience-in-security/ba-p/4287484</guid>
-      <description>The Security Copilot team is continuously enhancing threat intelligence (TI) capabilities in Copilot. At Microsoft Ignite 2024, we&#8217;re excited to announce several powerful innovations that provide a more comprehensive and integrated TI experience for customers. Now generally available, Security Copilot customers can build a '360-degree' view of threats by tapping into a wider range of TI sources for more insight into attacker tooling and methodology and how they may impact the organization.&#160;
-Below, we&#8217;ll cover these innovations in more detail. &#160;
-Now Public Preview: MDTI Indicator Data&#160;
-Ten new ...</description>
+      <title>Announcing the Security Enablement Hub on adoption.microsoft.com</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470</link>
+      <pubDate>Tue, 19 Nov 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470</guid>
+      <description>We are thrilled to announce the launch of the Security Enablement Hub on adoption.microsoft.com&#8212;a new resource center designed to support and empower our community on their journey to stronger security. As cyber threats continue to evolve in speed and complexity, it&#8217;s more critical than ever for organizations and individuals to stay proactive. &#160;The Security Enablement Hub is designed to provide you with the insights and resources you need for rapid, best-practice adoption of your Microsoft Security solutions, ongoing learning and skilling, and access to a community of industry peers. &#160;Whether ...</description>
     </item>
     <item>
-      <title>New Purview Communication Compliance features for Copilot and Insider Risk Management</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-purview-communication-compliance-features-for-copilot-and/ba-p/4296775</link>
-      <pubDate>Tue, 19 Nov 2024 14:05:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-purview-communication-compliance-features-for-copilot-and/ba-p/4296775</guid>
-      <description>Use of GenAI is quickly becoming the norm for organizations in all industries and of all sizes. As adoption continues to accelerate, GenAI is quickly transforming how organizations operate. However, this rapid adoption comes with its own challenges for security and compliance. Security and risk leaders are concerned about emerging risks, such as prompt injection attacks, as well as analyzing GenAI use for risks such as non-compliant or unethical use.
-We are excited to announce new innovations in Microsoft Purview Communication Compliance to help mitigate GenAI risks. These updates include expa...</description>
-    </item>
-    <item>
-      <title>What&#8217;s new in Microsoft&#8217;s Security Service Edge solution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-s-security-service-edge-solution/ba-p/3847827</link>
-      <pubDate>Tue, 19 Nov 2024 14:03:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-s-security-service-edge-solution/ba-p/3847827</guid>
-      <description>With Microsoft Ignite 2024 kicking off in Chicago, we&#8217;re excited to share the latest updates to our identity-centric Security Access Service Edge (SASE) ecosystem, which accelerates your Zero Trust implementation and network transformation by unifying access controls across network security, identity, and endpoints. &#160;
-Whether you&#8217;re in the midst of your journey or just starting out, we&#8217;re making it simpler and easier to secure your devices, users, and network access. The enhancements we&#8217;re announcing today make it easier to migrate from traditional network security technologies, move to a leas...</description>
-    </item>
-    <item>
-      <title>Microsoft partners for new SASE ecosystem</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-partners-for-new-sase-ecosystem/ba-p/4287444</link>
-      <pubDate>Tue, 19 Nov 2024 14:03:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-partners-for-new-sase-ecosystem/ba-p/4287444</guid>
-      <description>Microsoft is enhancing network access and security for today&#8217;s enterprises by partnering with leading SD-WAN and connectivity providers. This collaboration is reshaping secure branch connectivity, uniting Microsoft&#8217;s Security Service Edge (SSE) solution with best-in-class connectivity to streamline the journey toward a unified SASE architecture.&#160;
-Automated integration for optimal security and seamless connectivity&#160;
-Microsoft Entra Internet Access, a core component of Microsoft&#8217;s SSE solution, now integrates seamlessly with various SD-WAN and network connectivity providers, enabling optimal, se...</description>
-    </item>
-    <item>
-      <title>Simplifying signing integration for Trusted Signing</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/simplifying-signing-integration-for-trusted-signing/ba-p/4293292</link>
-      <pubDate>Tue, 19 Nov 2024 14:02:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/simplifying-signing-integration-for-trusted-signing/ba-p/4293292</guid>
-      <description>&#160;
-One of the biggest challenges for developers is the integration of signing into their workflows, and with Trusted Signing, we aim to make that easier and simpler to do by bringing integration into the developer tool chains and CI/CD pipelines. We started with targeting the common tools used today for code signing Windows apps with the Windows SDK SignTool.exe integration, and covered CI/CD pipelines with the Trusted Signing Azure DevOps Extension and the Trusted Signing GitHub Action. These integrations are great options for developers familiar with signing, but developers are still required...</description>
-    </item>
-    <item>
-      <title>Microsoft and Netskope: Unified, identity-centric security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-and-netskope-unified-identity-centric-security/ba-p/4288492</link>
-      <pubDate>Tue, 19 Nov 2024 14:02:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-and-netskope-unified-identity-centric-security/ba-p/4288492</guid>
-      <description>As announced at Microsoft Ignite, Microsoft is partnering with Netskope to simplify network security management for today&#8217;s dynamic, distributed environment. By integrating Netskope&#8217;s Advanced Threat Protection (ATP) and Data Loss Prevention (DLP) directly into Microsoft Entra&#8217;s Security Service Edge (SSE) solution, we empower security teams with advanced security controls, streamlined configuration, enhanced reporting, and unified management experience&#8212; all within a single platform. This is now available in private preview, with a public preview set for early next year.&#160;
-Microsoft&#8217;s SSE solut...</description>
-    </item>
-    <item>
-      <title>Safely activate your data estate with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/safely-activate-your-data-estate-with-microsoft-purview/ba-p/4298286</link>
-      <pubDate>Tue, 19 Nov 2024 14:01:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/safely-activate-your-data-estate-with-microsoft-purview/ba-p/4298286</guid>
-      <description>60% of CDOs cite data integration challenges as a top pain-point due to lack of knowledge of where relevant data resides&#160;[1]. Companies operate on multi-platform, multi-cloud data estates making it harder than ever to seamlessly discover, secure, govern and activate data. This increases the overall complexity when enabling users to responsibly derive insights and drive business value from data. In the era of AI, data governance is no longer an afterthought, data security and data governance are now both table stakes.
-Data Governance is not a new concept but with the proliferation of AI and evo...</description>
-    </item>
-    <item>
-      <title>Security Copilot is now embedded in Microsoft Entra</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/security-copilot-is-now-embedded-in-microsoft-entra/ba-p/4289387</link>
-      <pubDate>Tue, 19 Nov 2024 14:01:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/security-copilot-is-now-embedded-in-microsoft-entra/ba-p/4289387</guid>
-      <description>Today we&#8217;ve announced the public preview of Microsoft Security Copilot embedded in the Microsoft Entra admin center. This integration brings all identity skills previously made generally available for the Security Copilot standalone experience in April 2024, along with new identity capabilities for admins and security analysts to use directly within the Microsoft Entra admin center.&#160;We've also added brand new skills to help improve identity-related risk investigation. In December, we will broaden the scope even further to include a set of skills specifically for App Risk Management in both sta...</description>
-    </item>
-    <item>
-      <title>Empowering compliance in a complex regulatory landscape with Microsoft Purview Compliance Manager</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empowering-compliance-in-a-complex-regulatory-landscape-with/ba-p/4303503</link>
-      <pubDate>Tue, 19 Nov 2024 14:01:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empowering-compliance-in-a-complex-regulatory-landscape-with/ba-p/4303503</guid>
-      <description>As organizations increasingly adopt AI-driven solutions and multi-cloud environments, managing compliance across diverse and evolving regulatory frameworks has become critical. At Microsoft Ignite 2024, we are thrilled to showcase the latest innovations in Microsoft Purview Compliance Manager&#8212;designed to empower businesses to navigate complex regulations, like the EU AI Act, GDPR, DORA, NIS2, and more.
-Whether your organization is focused on data privacy, industry-specific standards, or AI governance, Compliance Manager provides the tools to help you proactively manage compliance, streamline r...</description>
-    </item>
-    <item>
-      <title>Strengthen your data security posture in the era of AI with Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthen-your-data-security-posture-in-the-era-of-ai-with/ba-p/4298277</link>
-      <pubDate>Tue, 19 Nov 2024 13:47:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthen-your-data-security-posture-in-the-era-of-ai-with/ba-p/4298277</guid>
-      <description>In today's complex digital landscape, organizations are often challenged with fragmented solutions, where visibility into sensitive data and its use may be siloed across different systems. Recent studies show that 21% of decision-makers cite the lack of consolidated and comprehensive visibility caused by disparate tools as their biggest challenge to an effective security posture[1]. This results in a lack of centralized understanding of risks when combined with an overwhelming volume of alerts, creates gaps in protective controls and inefficiencies in mitigating data security incidents. Ultima...</description>
-    </item>
-    <item>
-      <title>Unleashing the power of Microsoft Purview with Security Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unleashing-the-power-of-microsoft-purview-with-security-copilot/ba-p/4302852</link>
-      <pubDate>Tue, 19 Nov 2024 13:46:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/unleashing-the-power-of-microsoft-purview-with-security-copilot/ba-p/4302852</guid>
-      <description>With cyber threats escalating in scale and complexity, generative AI (GenAI) is redefining data security by enabling faster, smarter threat detection and response. Unlike traditional security systems, which often rely on rigid rules and past patterns, GenAI continuously learns and adapts, identifying anomalies and suspicious activities that would otherwise remain undetected. Recent research underscores this shift, showing that organizations using AI-powered security solutions can cut data breach costs by as much as 22%[1] and reduce incident response times by up to 50%[2], marking a major leap...</description>
-    </item>
-    <item>
-      <title>Cloud security innovations: strengthening defenses against modern cloud and AI threats</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-innovations-strengthening-defenses-against-modern/ba-p/4297105</link>
-      <pubDate>Tue, 19 Nov 2024 13:42:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-innovations-strengthening-defenses-against-modern/ba-p/4297105</guid>
-      <description>In today&#8217;s fast-paced digital world, attackers are more relentless than ever, exploiting vulnerabilities and targeting cloud environments with unprecedented speed and sophistication. They are taking advantage of the dynamic nature of cloud environments and silos across security tools to strike opportunistically and bypass boundaries between endpoints, on-premises and cloud environments. With the rise of Gen AI, security complexities are only growing, further testing the limits of traditional cloud security measures and strategies. Protecting multicloud environments requires vigilance not only ...</description>
-    </item>
-    <item>
-      <title>Proactively harden your cloud security posture in the age of AI with CSPM innovations</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-harden-your-cloud-security-posture-in-the-age-of-ai/ba-p/4297079</link>
-      <pubDate>Tue, 19 Nov 2024 13:35:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-harden-your-cloud-security-posture-in-the-age-of-ai/ba-p/4297079</guid>
-      <description>Generative AI applications have rapidly transformed industries, from marketing and content creation to personalized customer experiences. These applications, powered by sophisticated models, bring unprecedented capabilities&#8212;but also unique security challenges. As developers build generative AI systems, they increasingly rely on containers and APIs to streamline deployment, scale effectively, and ensure consistent performance. However, the very tools that facilitate agile development also introduce new security risks.&#160;
-Containers, essential for packaging AI models and their dependencies, are su...</description>
-    </item>
-    <item>
-      <title>Ignite news: What's new in Microsoft Defender XDR?</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-what-s-new-in-microsoft-defender-xdr/ba-p/4303104</link>
-      <pubDate>Tue, 19 Nov 2024 13:32:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-what-s-new-in-microsoft-defender-xdr/ba-p/4303104</guid>
-      <description>The speed, scale, and precision of AI-powered attacks have introduced an entirely new level of complexity to the cybersecurity landscape. Defending against these advanced threats requires more than just traditional tools; it demands a shift towards AI-enhanced defense mechanisms that not only detect and defend against these attacks, but proactively anticipate and neutralize them before significant damage occurs. To effectively combat these sophisticated threats, not only must organizations build robust strategies around the core pillars of detection and response but establish continuous preven...</description>
-    </item>
-    <item>
-      <title>Strengthening data protection in the modern workplace with Microsoft Purview Information Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthening-data-protection-in-the-modern-workplace-with/ba-p/4297184</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthening-data-protection-in-the-modern-workplace-with/ba-p/4297184</guid>
-      <description>In today's rapidly evolving digital landscape, the protection of sensitive organizational data is critical, especially given the accelerated adoption of AI technology. However, only 22% of organizations feel extremely confident in their ability to keep data secure as they adopt generative AI technologies [1]. Simultaneously, data security teams are tasked with protecting organizational&#160;data across a growing set of access points as employees work from a variety of different devices, browsers, and locations.&#160;
-Microsoft Purview Information Protection continues to invest in comprehensive protectio...</description>
-    </item>
-    <item>
-      <title>Insider Risk Management empowering risky AI usage visibility and security investigations</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/insider-risk-management-empowering-risky-ai-usage-visibility-and/ba-p/4298246</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/insider-risk-management-empowering-risky-ai-usage-visibility-and/ba-p/4298246</guid>
-      <description>As businesses grow more agile and connected, employees are accessing sensitive information from all corners of the globe. While this flexibility may boost productivity, it also opens the door to unprecedented risks. With 63% of data breach incidents stemming from insiders[1], organizations are quickly realizing that a path to strong data security lies in understanding and mitigating insider risks&#8212;whether it&#8217;s a well-meaning employee accidentally sharing confidential data or a malicious actor exploiting their access for personal gain. In addition, the rapid adoption of generative AI (GenAI) is ...</description>
-    </item>
-    <item>
-      <title>Accelerate AI adoption with next-gen security and governance capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/accelerate-ai-adoption-with-next-gen-security-and-governance/ba-p/4296064</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/accelerate-ai-adoption-with-next-gen-security-and-governance/ba-p/4296064</guid>
-      <description>As generative AI (GenAI) adoption continues to accelerate, it is transforming businesses and reshaping how they operate. Based on Microsoft-conducted research,&#160;95% of organizationsi&#160;are planning to or already using and developing AI applications.&#160;&#160;
-However, this rapid adoption comes with its own set of challenges. According to Gartner&#174;, &#8220;decentralized business units are eagerly experimenting with AI and GenAI&#8239;use cases&#8239;without the guidance of an enterprise&#8239;framework&#8239;to manage AI trust, risk and securityii.&#8221; Security and risk leaders are concerned about emerging risks such as data oversharing a...</description>
-    </item>
-    <item>
-      <title>Simplify &amp; scale data protection in the era of AI with Microsoft Purview Data Loss Prevention</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/simplify-scale-data-protection-in-the-era-of-ai-with-microsoft/ba-p/4297106</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/simplify-scale-data-protection-in-the-era-of-ai-with-microsoft/ba-p/4297106</guid>
-      <description>Securing the use of AI may be a daunting charter for many security teams, but it is clear and present need in the modern workplace: 40% of organizations report that their AI apps have already been breached or compromised in a data security incident [1]. &#160;As AI technology drives data generation in unprecedented volumes, the need to secure organizational data and prevent loss of sensitive information becomes even more crucial. We believe that a scalable and proactive data security strategy for AI starts with a strong DLP foundation.&#160;
-That's why we continue to invest in data loss prevention that ...</description>
-    </item>
-    <item>
-      <title>Attack path management with Microsoft Security Exposure Management</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/attack-path-management-with-microsoft-security-exposure/ba-p/4296575</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/attack-path-management-with-microsoft-security-exposure/ba-p/4296575</guid>
-      <description>Imagine trying to assemble a jigsaw puzzle without the box showing the final picture. You have all the pieces scattered in front of you, but without knowing how they connect, you&#8217;re left guessing and constantly reworking pieces in search of the right fit.&#160;
-Now, imagine someone hands you the completed picture. Suddenly, everything clicks into place, and each piece&#8217;s role in the larger image becomes clear. This is the new superpower defenders gain with Microsoft Security Exposure Management&#8217;s attack path management &#8211; a full perspective that turns scattered vulnerabilities, assets, and risks into...</description>
-    </item>
-    <item>
-      <title>Ignite: AI and SASE innovations in Microsoft Entra</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ignite-ai-and-sase-innovations-in-microsoft-entra/ba-p/2747278</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ignite-ai-and-sase-innovations-in-microsoft-entra/ba-p/2747278</guid>
-      <description>As security professionals gather in Chicago for Microsoft Ignite, with thousands tuning in digitally from around the world, I&#8217;m reminded how tough it is to be a defender in the current identity threat landscape. Cybercriminals continue to increase the scale and sophistication of their attacks. In fact, Microsoft Entra now blocks more than 7,000 password attacks per second, a more than 75% increase from a year ago![i]
-In the face of such escalating threats, Microsoft remains committed to empowering you with advanced defense-in-depth capabilities, including the industry-leading, responsible AI o...</description>
-    </item>
-    <item>
-      <title>New innovations in container security with unified visibility, investigations, and response actions</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-in-container-security-with-unified-visibility/ba-p/4298593</link>
-      <pubDate>Tue, 19 Nov 2024 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-in-container-security-with-unified-visibility/ba-p/4298593</guid>
-      <description>Container technology has become essential for modern application development and deployment. It's a critical component for over 90% of cloud-native organizations, facilitating swift, reliable, and flexible processes that drive digital transformation. This advancement has transformed software delivery and fostered innovation. The container market is growing rapidly, with containers-as-a-service adoption expected to reach 52% by 2024. However, as adoption accelerates and container capabilities evolve, organizations face rising container security challenges.&#160;
-The ephemeral and dynamic nature of c...</description>
+      <title>New at Ignite: TI Guided Experience in Security Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-ti-guided-experience-in-security-copilot/ba-p/4287492</link>
+      <pubDate>Tue, 19 Nov 2024 14:56:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-ti-guided-experience-in-security-copilot/ba-p/4287492</guid>
+      <description>The Security Copilot team is consistently improving the&#160;threat intelligence (TI) experience for customers. At Microsoft Ignite 2024, we're thrilled to unveil two out-of-the-box promptbooks that create guided experiences for cyberthreat intelligence and SOC analysts for investigating and responding to threats affecting their organization, simplifying complex workflows and making difficult, repetitive tasks easier to do for all experience levels.&#160; &#160;
+Below, we&#8217;ll cover each of these promptbooks in more detail:&#160;
+Threat 'Intelligence 360' report on MDTI article
+With Security Copilot able to tap int...</description>
     </item>
   </channel>
 </rss>
