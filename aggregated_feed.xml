@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Nov 2024 18:10:04 GMT</lastBuildDate>
-    <item>
-      <title>New M365 Copilot Data Lifecycle Management options</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-m365-copilot-data-lifecycle-management-options/ba-p/4304636</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-m365-copilot-data-lifecycle-management-options/ba-p/4304636</guid>
-      <description>&#160;
-Organizations can use Purview Data Lifecycle Management policies to keep or delete Microsoft 365 Copilot prompts and responses, known as interactions. For example, organizations may want to keep prompts and responses for legal reasons or ensure they are deleted after a period of time due to a company policy. Previously, these Copilot interactions shared a policy targeting location with Microsoft Teams chats, which meant that Copilot interactions and Teams chats were managed using the same retention and deletion settings. Organizations often have different retention and deletion strategies fo...</description>
-    </item>
-    <item>
-      <title>Copilot in Azure embedded experience for Azure Firewall integration in Security Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/copilot-in-azure-embedded-experience-for-azure-firewall/ba-p/4304443</link>
-      <pubDate>Tue, 19 Nov 2024 17:28:51 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/copilot-in-azure-embedded-experience-for-azure-firewall/ba-p/4304443</guid>
-      <description>Today, at Microsoft Ignite, we are excited to announce that we are building on our announcement at RSA and Microsoft Build earlier this year and integrating Security Copilot even more closely with our Network Security products. These capabilities were launched on the&#8239;Security Copilot portal&#8239;(also called the standalone experience) earlier this year.
-&#160;
-Azure Firewall integration in Security Copilot queried via Copilot in Azure on the Azure portal
-The Security Copilot attack investigation capabilities for Azure Firewall can now be queried via the&#160;Copilot in Azure&#8239;experience (also called the embed...</description>
-    </item>
+    <lastBuildDate>Tue, 19 Nov 2024 19:00:48 GMT</lastBuildDate>
   </channel>
 </rss>
