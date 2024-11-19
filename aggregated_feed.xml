@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Nov 2024 15:07:36 GMT</lastBuildDate>
-    <item>
-      <title>Announcing the Security Enablement Hub on adoption.microsoft.com</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470</link>
-      <pubDate>Tue, 19 Nov 2024 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470</guid>
-      <description>We are thrilled to announce the launch of the Security Enablement Hub on adoption.microsoft.com&#8212;a new resource center designed to support and empower our community on their journey to stronger security. As cyber threats continue to evolve in speed and complexity, it&#8217;s more critical than ever for organizations and individuals to stay proactive. &#160;The Security Enablement Hub is designed to provide you with the insights and resources you need for rapid, best-practice adoption of your Microsoft Security solutions, ongoing learning and skilling, and access to a community of industry peers. &#160;Whether ...</description>
-    </item>
-    <item>
-      <title>New at Ignite: TI Guided Experience in Security Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-ti-guided-experience-in-security-copilot/ba-p/4287492</link>
-      <pubDate>Tue, 19 Nov 2024 14:56:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-ti-guided-experience-in-security-copilot/ba-p/4287492</guid>
-      <description>The Security Copilot team is consistently improving the&#160;threat intelligence (TI) experience for customers. At Microsoft Ignite 2024, we're thrilled to unveil two out-of-the-box promptbooks that create guided experiences for cyberthreat intelligence and SOC analysts for investigating and responding to threats affecting their organization, simplifying complex workflows and making difficult, repetitive tasks easier to do for all experience levels.&#160; &#160;
-Below, we&#8217;ll cover each of these promptbooks in more detail:&#160;
-Threat 'Intelligence 360' report on MDTI article
-With Security Copilot able to tap int...</description>
-    </item>
+    <lastBuildDate>Tue, 19 Nov 2024 16:09:07 GMT</lastBuildDate>
   </channel>
 </rss>
