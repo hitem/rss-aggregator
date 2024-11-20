@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 20 Nov 2024 16:08:47 GMT</lastBuildDate>
-    <item>
-      <title>Built-in security controls for external-facing apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/built-in-security-controls-for-external-facing-apps/ba-p/4175879</link>
-      <pubDate>Wed, 20 Nov 2024 15:22:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/built-in-security-controls-for-external-facing-apps/ba-p/4175879</guid>
-      <description>Earlier this year we announced the general availability of Microsoft Entra External ID, our next-gen CIAM solution which enables organizations to build pixel-perfect consumer UX into their apps paired with enterprise-grade security and compliance. We&#8217;re committed to rolling out innovative features regularly, driven by customer feedback, to simplify and improve the everyday workflows of admins and developers. For instance, don&#8217;t miss our recent announcement of the general availability of Native Authentication for creating pixel-perfect mobile applications.
-&#160;
-Today, we shift our focus to the vit...</description>
-    </item>
+    <lastBuildDate>Wed, 20 Nov 2024 17:07:00 GMT</lastBuildDate>
   </channel>
 </rss>
