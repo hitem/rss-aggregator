@@ -1,4 +1,3 @@
-2023-11-21T15:23:09 https://techcommunity.microsoft.com/t5/azure-network-security-blog/2023-holiday-ddos-protection-guide/ba-p/3989069
 2023-11-21T16:44:53 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/admin-access-management-in-azure-cloud-solution-provider-csp/ba-p/3947126
 2023-11-21T17:30:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-action-experience-action-wizard-v2-from-email-entity/ba-p/3975872
 2023-11-21T18:35:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-gitlab-environment-with-microsoft-defender-for/ba-p/3989278
@@ -628,3 +627,4 @@
 2024-11-19T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470
 2024-11-19T17:28:51 https://techcommunity.microsoft.com/t5/azure-network-security-blog/copilot-in-azure-embedded-experience-for-azure-firewall/ba-p/4304443
 2024-11-19T17:55:21 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-m365-copilot-data-lifecycle-management-options/ba-p/4304636
+2024-11-20T15:22:15 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/built-in-security-controls-for-external-facing-apps/ba-p/4175879
