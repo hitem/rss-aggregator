@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 19:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Power Up Your ASP.NET Application with External ID Integration in Visual Studio</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/power-up-your-asp-net-application-with-external-id-integration/ba-p/4336537</link>
+      <pubDate>Mon, 25 Nov 2024 18:50:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/power-up-your-asp-net-application-with-external-id-integration/ba-p/4336537</guid>
+      <description>Microsoft Entra External ID is a comprehensive identity management solution tailored to streamline a vital component of application development;&#160;authentication. By integrating External ID, developers can leverage advanced, built-in security features that reduce the risk of vulnerabilities and ensure compliance with industry standards. This approach not only expedites the development process but also supports scalability and enhances the user experience by providing seamless and secure access. Ultimately, it empowers developers to deliver high-quality, secure applications with greater efficienc...</description>
+    </item>
   </channel>
 </rss>
