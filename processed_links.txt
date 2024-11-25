@@ -623,3 +623,4 @@
 2024-11-19T17:28:51 https://techcommunity.microsoft.com/t5/azure-network-security-blog/copilot-in-azure-embedded-experience-for-azure-firewall/ba-p/4304443
 2024-11-19T17:55:21 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-m365-copilot-data-lifecycle-management-options/ba-p/4304636
 2024-11-20T15:22:15 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/built-in-security-controls-for-external-facing-apps/ba-p/4175879
+2024-11-25T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-cba-enhancements/ba-p/4286759
