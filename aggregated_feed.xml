@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 25 Nov 2024 17:06:58 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra CBA enhancements</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-cba-enhancements/ba-p/4286759</link>
-      <pubDate>Mon, 25 Nov 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-cba-enhancements/ba-p/4286759</guid>
-      <description>Over the last year, we&#8217;ve seen many federal and regulated industry customers migrate from Active Directory Federation Services (AD FS) to Microsoft Entra ID seamlessly providing end users a familiar sign-in experience with Microsoft Entra certificate-based authentication (CBA).&#8239;In fact, in the last 12 months, we&#8217;ve seen an over 1500% increase in phishing-resistant authentication for United States government customers.&#8239; &#8239;
-As we continue our investments in the Microsoft Entra CBA, today I am excited to share the public preview of our latest enhancements:&#8239; &#8239;
-
-Certificate Revocation List (CRL) val...</description>
-    </item>
+    <lastBuildDate>Mon, 25 Nov 2024 18:09:55 GMT</lastBuildDate>
   </channel>
 </rss>
