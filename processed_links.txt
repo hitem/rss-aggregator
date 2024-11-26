@@ -1,4 +1,3 @@
-2023-11-27T21:21:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-public-preview-of-microsoft-defender-for/ba-p/3992792
 2023-11-28T05:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-microsoft-fabric-items-in-microsoft-purview/ba-p/3991085
 2023-11-28T12:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-1-a-creative-use-for-intune/ba-p/3992433
 2023-11-28T21:20:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/connecting-to-azure-services-on-the-microsoft-global-network/ba-p/3994886
