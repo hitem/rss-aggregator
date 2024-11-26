@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Nov 2024 18:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 19:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Guidance for CVE-2024-0012, CVE-2024-9474 affecting PAN-OS using Microsoft Security capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-cve-2024-0012-cve-2024-9474-affecting-pan-os-using/ba-p/4338896</link>
+      <pubDate>Tue, 26 Nov 2024 18:11:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-cve-2024-0012-cve-2024-9474-affecting-pan-os-using/ba-p/4338896</guid>
+      <description>A new critical vulnerability affecting PAN-OS has been identified and published last week, putting organizations using Palo Alto Networks&#8217; firewalls at risk. In this blog post, we will demonstrate how you can use Microsoft Security tools discover assets in your organization that are vulnerable to the new critical unauthenticated Remote Code Execution (RCE) flaws in PAN-OS and provide guidelines on remediation. Additionally, we will show you how to use the capabilities of Attack Path analysis together with the Microsoft Security tools to identify how attackers could potentially gain access and ...</description>
+    </item>
   </channel>
 </rss>
