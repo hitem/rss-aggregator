@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Nov 2024 14:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 15:07:37 GMT</lastBuildDate>
+    <item>
+      <title>Prevent malware from spreading by scanning cloud storage accounts on-demand</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prevent-malware-from-spreading-by-scanning-cloud-storage/ba-p/4336608</link>
+      <pubDate>Wed, 27 Nov 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prevent-malware-from-spreading-by-scanning-cloud-storage/ba-p/4336608</guid>
+      <description>What&#8217;s new?
+On-demand malware scanning now in public preview
+We&#8217;re excited to announce the public preview of on-demand malware scanning. Previously, customers could get malware scanning results when uploading files to Azure blob storage. Now, customers can scan existing files in storage accounts on-demand, which helps customers to gain finer control and customization for critical storage assets.
+
+On-demand scanning allows you to scan existing files directly from Azure storage accounts
+What&#8217;s the relationship between Defender for Storage and Malware Scanning?
+Defender for Storage is the storage...</description>
+    </item>
   </channel>
 </rss>
