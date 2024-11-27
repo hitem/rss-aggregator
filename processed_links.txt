@@ -623,3 +623,4 @@
 2024-11-25T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-cba-enhancements/ba-p/4286759
 2024-11-25T18:50:26 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/power-up-your-asp-net-application-with-external-id-integration/ba-p/4336537
 2024-11-26T18:11:49 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-cve-2024-0012-cve-2024-9474-affecting-pan-os-using/ba-p/4338896
+2024-11-27T03:21:36 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-view-microsoft-sentinel-workbooks-directly-from/ba-p/4339216
