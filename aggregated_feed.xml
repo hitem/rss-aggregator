@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 27 Nov 2024 13:19:16 GMT</lastBuildDate>
-    <item>
-      <title>Installing Offline Microsoft Store Apps with Intune for Intune Government Customers</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/installing-offline-microsoft-store-apps-with-intune-for-intune/ba-p/4341169</link>
-      <pubDate>Wed, 27 Nov 2024 13:07:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/installing-offline-microsoft-store-apps-with-intune-for-intune/ba-p/4341169</guid>
-      <description>Hey everyone, Chris Vetter Sr. Cloud Solution Architect at Microsoft.&#160;
-As organizations strive to enhance their digital workplace, the need for seamless app deployment and management becomes more critical. For government entities using an Intune Government Subscription, installing Offline Microsoft Store Apps can present unique challenges and opportunities. This blog post aims to provide a step-by-step guide to help you navigate this process efficiently.
-Why Choose Offline Microsoft Store Apps?
-Offline Microsoft Store Apps offer several benefits, especially for government entities that require...</description>
-    </item>
+    <lastBuildDate>Wed, 27 Nov 2024 14:00:44 GMT</lastBuildDate>
   </channel>
 </rss>
