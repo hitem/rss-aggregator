@@ -622,3 +622,4 @@
 2024-11-27T03:21:36 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-view-microsoft-sentinel-workbooks-directly-from/ba-p/4339216
 2024-11-27T13:07:44 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/installing-offline-microsoft-store-apps-with-intune-for-intune/ba-p/4341169
 2024-11-27T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prevent-malware-from-spreading-by-scanning-cloud-storage/ba-p/4336608
+2024-11-28T13:46:59 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/important-update-deprecation-of-bring-your-own-license-in/ba-p/4341477
