@@ -1,4 +1,3 @@
-2023-11-29T17:41:53 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-s-agentless-secret-scanning-for-virtual/ba-p/3994018
 2023-11-30T06:13:18 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/identifying-adversary-in-the-middle-aitm-phishing-attacks/ba-p/3991358
 2023-11-30T12:05:46 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-3-windows-local-admin-password/ba-p/3992457
 2023-11-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/what-s-new-in-microsoft-entra/ba-p/3796394
