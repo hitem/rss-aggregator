@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Nov 2024 14:00:51 GMT</lastBuildDate>
-    <item>
-      <title>Important Update: Deprecation of &#8220;Bring Your Own License&#8221; in Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/important-update-deprecation-of-bring-your-own-license-in/ba-p/4341477</link>
-      <pubDate>Thu, 28 Nov 2024 13:46:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/important-update-deprecation-of-bring-your-own-license-in/ba-p/4341477</guid>
-      <description>Introduction&#160;
-With the introduction of Microsoft Security Exposure Management data connectors we are committed to enhancing your enterprise exposure management experience and data consumption through this unified view. As part of this effort, we are making changes to streamline and improve our vulnerability assessment (VA) solutions. One of these changes involves deprecating the &#8220;Bring Your Own License&#8221; (BYOL) feature in Microsoft Defender for Cloud and transitioning to Exposure Management data connectors for a more seamless and comprehensive solution.&#160;
-Why this change?&#160;
-Our goal is to provide...</description>
-    </item>
+    <lastBuildDate>Thu, 28 Nov 2024 15:07:31 GMT</lastBuildDate>
   </channel>
 </rss>
