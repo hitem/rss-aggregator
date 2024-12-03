@@ -613,3 +613,4 @@
 2024-11-27T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prevent-malware-from-spreading-by-scanning-cloud-storage/ba-p/4336608
 2024-11-28T13:46:59 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/important-update-deprecation-of-bring-your-own-license-in/ba-p/4341477
 2024-12-02T09:08:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/building-an-azure-storage-data-integrity-checker-with-net/ba-p/4293210
+2024-12-03T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-the-verified-id-webinar-series/ba-p/4175878
