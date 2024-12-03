@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Dec 2024 17:01:02 GMT</lastBuildDate>
-    <item>
-      <title>Join the Verified ID webinar series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-the-verified-id-webinar-series/ba-p/4175878</link>
-      <pubDate>Tue, 03 Dec 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-the-verified-id-webinar-series/ba-p/4175878</guid>
-      <description>The foundation of an organization&#8217;s security posture is trust. With advancements in impersonation techniques, trusting who is on the other side of a digital interaction has grown more difficult. Cybercriminals do in-depth research on job candidates to impersonate them, resulting in organizations onboarding bad actors by mistake. Employment-related identity fraud is becoming more common with nearly 90,000 cases reported to the FTC last year. &#160;
-In addition to onboarding, help desk and recovery are interactions often targeted by impersonators. Microsoft has seen an uptick in threat actors contact...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 18:09:27 GMT</lastBuildDate>
   </channel>
 </rss>
