@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Dec 2024 21:07:13 GMT</lastBuildDate>
-    <item>
-      <title>Elevate Your Container Posture: From Agentless Discovery to Risk Prioritization</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/elevate-your-container-posture-from-agentless-discovery-to-risk/ba-p/4352572</link>
-      <pubDate>Wed, 04 Dec 2024 20:56:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/elevate-your-container-posture-from-agentless-discovery-to-risk/ba-p/4352572</guid>
-      <description>As Kubernetes (K8s) continue to power modern containerized applications, the complexity of managing and securing these environments grows exponentially. The challenges in monitoring K8s environments stem not only from their dynamic nature but also from their unique structure&#8212;each K8s cluster operates as its own ecosystem, complete with its own control plane for authorization, networking, and resource management. This makes it fundamentally different from traditional cloud environments, where security practitioners often have established expertise and tools for managing the cloud control plane....</description>
-    </item>
+    <lastBuildDate>Wed, 04 Dec 2024 22:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
