@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Dec 2024 16:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 17:01:01 GMT</lastBuildDate>
+    <item>
+      <title>Enhance end-user experiences with Custom OTP Email Provider Support</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-end-user-experiences-with-custom-otp-email-provider/ba-p/3627346</link>
+      <pubDate>Wed, 04 Dec 2024 16:23:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-end-user-experiences-with-custom-otp-email-provider/ba-p/3627346</guid>
+      <description>In today's digital age, creating beautiful and seamless end-user experiences is paramount to amplifying your brand, establishing end-user trust, and accelerating your business growth. With the general availability of Microsoft Entra External ID, you have all the tools needed to build consumer-grade UX with the highest standards of security and compliance. We aim to provide simple, seamless experiences for both admins and developers, as exemplified in our recent blogs highlighting developers' pixel-perfect Native Authentication for mobile applications and built-in security controls for admins.
+...</description>
+    </item>
   </channel>
 </rss>
