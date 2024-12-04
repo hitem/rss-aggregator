@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Dec 2024 18:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 19:08:49 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud Customer Newsletter</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4352556</link>
+      <pubDate>Wed, 04 Dec 2024 18:53:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4352556</guid>
+      <description>What's new in Defender for Cloud?
+AI security posture management is now generally available! Reduce risk to cross cloud AI workloads by discovering generative AI Bill of Materials, strengthen generative AI application security posture and use the attack path analysis to identify risk. Learn more about it here.&#160;
+
+On-demand malware scanning now in public preview
+We&#8217;re excited to announce the public preview of on-demand malware scanning. Customers can now scan existing files in storage accounts on-demand, which helps customers to gain finer control and customization for critical storage assets. F...</description>
+    </item>
   </channel>
 </rss>
