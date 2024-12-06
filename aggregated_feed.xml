@@ -3,13 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 06 Dec 2024 17:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 18:10:16 GMT</lastBuildDate>
     <item>
-      <title>What's new in Microsoft Entra - November 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152</link>
-      <pubDate>Fri, 06 Dec 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152</guid>
-      <description>The identity security landscape is advancing at an unprecedented pace. As global events and rapidly evolving AI reshape the cybersecurity environment, maintaining security has become more critical than ever. To address the escalating scale and impact of cyberattacks, Microsoft introduced the Secure Future Initiative (SFI), a cohesive initiative that harnesses Microsoft&#8217;s full capabilities to enhance cybersecurity across our organization and products. This initiative reflects both internal insights and invaluable feedback from customers, governments, and partners, guiding us to focus on the mos...</description>
+      <title>Explore our latest Microsoft Security training on Microsoft Learn</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-our-latest-microsoft-security-training-on-microsoft/ba-p/4351939</link>
+      <pubDate>Fri, 06 Dec 2024 18:02:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-our-latest-microsoft-security-training-on-microsoft/ba-p/4351939</guid>
+      <description>Connect with popular security skill-building offerings and resources from Microsoft Ignite 2024&#160;
+From simplifying infrastructure management and improving regulatory compliance to better navigating the modern cyberthreat landscape and building a security-first culture with AI, Ignite 2024 covered a ton of ground.&#160;&#160;
+&#160;
+Even if you didn&#8217;t join this year&#8217;s conference, you can explore expert content to inform and foster your security journey on our Security hub on Microsoft Learn.&#160;
+&#160;
+Designed for learners at all levels, the Security hub on Microsoft Learn is your go-to resource for security skill-bu...</description>
     </item>
   </channel>
 </rss>

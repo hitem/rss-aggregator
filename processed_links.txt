@@ -611,3 +611,4 @@
 2024-12-04T20:56:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/elevate-your-container-posture-from-agentless-discovery-to-risk/ba-p/4352572
 2024-12-05T14:57:23 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/action-required-azure-ad-graph-api-retirement/ba-p/4090533
 2024-12-06T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152
+2024-12-06T18:02:35 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-our-latest-microsoft-security-training-on-microsoft/ba-p/4351939
