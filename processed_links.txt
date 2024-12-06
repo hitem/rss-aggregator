@@ -1,4 +1,3 @@
-2023-12-07T12:03:26 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-7-architecture-visuals-for-your/ba-p/4002939
 2023-12-08T12:54:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-twelve-days-of-blog-mas-no-8-the-evolution-of-windows-server/ba-p/4002958
 2023-12-08T19:24:24 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-with-ad-b2c-applications/ba-p/4000480
 2023-12-11T14:33:18 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-04-dns-it-s-always-dns/ba-p/4005803
