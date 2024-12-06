@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 06 Dec 2024 18:10:16 GMT</lastBuildDate>
-    <item>
-      <title>Explore our latest Microsoft Security training on Microsoft Learn</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-our-latest-microsoft-security-training-on-microsoft/ba-p/4351939</link>
-      <pubDate>Fri, 06 Dec 2024 18:02:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-our-latest-microsoft-security-training-on-microsoft/ba-p/4351939</guid>
-      <description>Connect with popular security skill-building offerings and resources from Microsoft Ignite 2024&#160;
-From simplifying infrastructure management and improving regulatory compliance to better navigating the modern cyberthreat landscape and building a security-first culture with AI, Ignite 2024 covered a ton of ground.&#160;&#160;
-&#160;
-Even if you didn&#8217;t join this year&#8217;s conference, you can explore expert content to inform and foster your security journey on our Security hub on Microsoft Learn.&#160;
-&#160;
-Designed for learners at all levels, the Security hub on Microsoft Learn is your go-to resource for security skill-bu...</description>
-    </item>
+    <lastBuildDate>Fri, 06 Dec 2024 19:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
