@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 06 Dec 2024 16:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 17:06:57 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Entra - November 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152</link>
+      <pubDate>Fri, 06 Dec 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152</guid>
+      <description>The identity security landscape is advancing at an unprecedented pace. As global events and rapidly evolving AI reshape the cybersecurity environment, maintaining security has become more critical than ever. To address the escalating scale and impact of cyberattacks, Microsoft introduced the Secure Future Initiative (SFI), a cohesive initiative that harnesses Microsoft&#8217;s full capabilities to enhance cybersecurity across our organization and products. This initiative reflects both internal insights and invaluable feedback from customers, governments, and partners, guiding us to focus on the mos...</description>
+    </item>
   </channel>
 </rss>
