@@ -1,4 +1,3 @@
-2023-12-08T19:24:24 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-with-ad-b2c-applications/ba-p/4000480
 2023-12-11T14:33:18 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-04-dns-it-s-always-dns/ba-p/4005803
 2023-12-11T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-xdr-unified-role-based-access-control-rbac/ba-p/3993793
 2023-12-11T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/security-tech-accelerator-thank-you-and-resources/ba-p/4003677
