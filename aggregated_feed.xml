@@ -3,49 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Dec 2024 10:09:19 GMT</lastBuildDate>
-    <item>
-      <title>Monthly news - December 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2024/ba-p/4355065</link>
-      <pubDate>Mon, 09 Dec 2024 09:24:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2024/ba-p/4355065</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-Microsoft Defender XDRMonthly newsDecember 2024 Edition
-
-
-
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from November 2024.&#160; Defender for Cloud has it's own Monthly News post, have a look at their blog space.
-
-
-&#160;
-
-
-
-
-
-
-Unified Security Operations Platform: Microsoft Defender XDR &amp; Microsoft Sentinel
-
-
-&#160;
-
-Ignite news: What's new in Microsoft Defender XDR?This blog summarizes Ignite news related to Defender XDR.
-
-
-
-&#160;
-Secur...</description>
-    </item>
+    <lastBuildDate>Mon, 09 Dec 2024 11:06:42 GMT</lastBuildDate>
   </channel>
 </rss>
