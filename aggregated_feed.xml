@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Dec 2024 03:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 04:10:26 GMT</lastBuildDate>
+    <item>
+      <title>Collect IIS logs from multiple locations into Sentinel Log Analytics Workspace.</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-iis-logs-from-multiple-locations-into-sentinel-log/ba-p/4355450</link>
+      <pubDate>Mon, 09 Dec 2024 03:46:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-iis-logs-from-multiple-locations-into-sentinel-log/ba-p/4355450</guid>
+      <description>Internet Information Services (IIS) stores user activity in log files (&#8220;IIS logs&#8221;). These logs can be useful for many purposes, from simple retention, statistical analysis and site mapping through to security-focused use cases and detections like brute force attacks, detection of code injection, Web shell attacks and more.
+The Azure Monitor Agent can collect IIS log files when configured with a data collection rule (DCR), with IIS logs supported as a key input log type. You can find out how to collect log data in the article Collect data with Azure Monitor Agent.
+IIS numbers its websites inter...</description>
+    </item>
   </channel>
 </rss>
