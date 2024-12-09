@@ -611,3 +611,4 @@
 2024-12-06T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152
 2024-12-06T18:02:35 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/explore-our-latest-microsoft-security-training-on-microsoft/ba-p/4351939
 2024-12-09T03:46:29 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-iis-logs-from-multiple-locations-into-sentinel-log/ba-p/4355450
+2024-12-09T09:24:41 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2024/ba-p/4355065
