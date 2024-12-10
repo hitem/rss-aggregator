@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Dec 2024 22:07:10 GMT</lastBuildDate>
-    <item>
-      <title>What's New: View Microsoft Sentinel Workbooks Directly from Unified SOC Operations Platform</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-view-microsoft-sentinel-workbooks-directly-from/ba-p/4356094</link>
-      <pubDate>Tue, 10 Dec 2024 21:10:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-view-microsoft-sentinel-workbooks-directly-from/ba-p/4356094</guid>
-      <description>We are thrilled to announce a significant enhancement to our Unified Security Operations (SecOps) platform. You can now view Microsoft Sentinel workbooks directly from the Defender XDR portal without the need to tab out to the Azure portal. This update is designed to streamline your experience and improve efficiency by keeping all your essential tools in one place.&#160;
-&#160;
-Key Benefits&#160;
-
-Unified Viewing Experience:&#8239; Microsoft Sentinel workbook templates and saved workbooks can now be accessed directly within the Defender XDR portal. This eliminates the need to switch between different portals, prov...</description>
-    </item>
+    <lastBuildDate>Tue, 10 Dec 2024 23:07:15 GMT</lastBuildDate>
   </channel>
 </rss>
