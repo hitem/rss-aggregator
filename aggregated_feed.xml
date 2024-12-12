@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 12 Dec 2024 21:07:14 GMT</lastBuildDate>
-    <item>
-      <title>Enhancing Threat Hunting with Microsoft Defender Experts Plugin</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/ba-p/4296085</link>
-      <pubDate>Thu, 12 Dec 2024 20:20:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/ba-p/4296085</guid>
-      <description>In today's rapidly evolving digital landscape, cybersecurity threats are becoming increasingly sophisticated, requiring organizations to adopt proactive measures to safeguard their assets. Recognizing this need, Microsoft has introduced the Defender Experts Plugin&#8212;a powerful addition to Copilot for Security&#8217;s GitHub. This plugin is designed to elevate your cybersecurity defenses by integrating proactive threat hunting capabilities across your entire organization, including Office 365, cloud applications, and identity platforms.&#160;
-What is Defender Experts for Hunting?&#160;
-Defender Experts for Hunti...</description>
-    </item>
-    <item>
-      <title>Protect your single-core Linux servers with Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-single-core-linux-servers-with-defender/ba-p/4356966</link>
-      <pubDate>Thu, 12 Dec 2024 20:13:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-single-core-linux-servers-with-defender/ba-p/4356966</guid>
-      <description>In today&#8217;s rapidly evolving digital landscape, enterprises are increasingly relying on Linux-based servers to run their critical workloads. Securing your Linux servers is paramount to safeguarding sensitive data, ensuring business continuity, and maintaining trust with your customers.&#160;&#160;
-But what about balancing performance with security? Many organizations are running a diverse server infrastructure and rely on low-resource configurations due to various constraints. Optimizing security for single-core or dual-core systems without compromising performance is a key challenge. As organizations co...</description>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 22:00:42 GMT</lastBuildDate>
   </channel>
 </rss>
