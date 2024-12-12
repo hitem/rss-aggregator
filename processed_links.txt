@@ -603,3 +603,5 @@
 2024-12-09T09:24:41 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2024/ba-p/4355065
 2024-12-10T21:10:08 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-view-microsoft-sentinel-workbooks-directly-from/ba-p/4356094
 2024-12-12T13:01:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/aks-security-dashboard/ba-p/4356754
+2024-12-12T20:13:59 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-single-core-linux-servers-with-defender/ba-p/4356966
+2024-12-12T20:20:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/ba-p/4296085
