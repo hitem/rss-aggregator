@@ -1,4 +1,3 @@
-2023-12-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhancements-to-microsoft-entra-certificate-based-authentication/ba-p/1061417
 2023-12-13T17:57:45 https://techcommunity.microsoft.com/t5/azure-network-security-blog/malware-detection-in-sentinel-for-azure-firewall/ba-p/4006106
 2023-12-13T18:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645
 2023-12-13T21:33:26 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-to-manage-risk-and-compliance-initiatives/ba-p/4000488
