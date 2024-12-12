@@ -605,3 +605,4 @@
 2024-12-09T03:46:29 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/collect-iis-logs-from-multiple-locations-into-sentinel-log/ba-p/4355450
 2024-12-09T09:24:41 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2024/ba-p/4355065
 2024-12-10T21:10:08 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-view-microsoft-sentinel-workbooks-directly-from/ba-p/4356094
+2024-12-12T13:01:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/aks-security-dashboard/ba-p/4356754
