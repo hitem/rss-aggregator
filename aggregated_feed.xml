@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 12 Dec 2024 13:19:49 GMT</lastBuildDate>
-    <item>
-      <title>AKS Security Dashboard</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/aks-security-dashboard/ba-p/4356754</link>
-      <pubDate>Thu, 12 Dec 2024 13:01:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/aks-security-dashboard/ba-p/4356754</guid>
-      <description>In today&#8217;s digital landscape, the speed of development and security must go hand in hand.&#160;Applications are being developed and deployed faster than ever before. Containerized application developers and platform teams enjoy the flexibility and scale that Kubernetes has brought to the software development world. Open-source code and tools have transformed the industry -&#160;but with speed comes increased risk and a growing attack surface.
-However, in vast parts of the software industry, developers and platform engineering teams find it challenging to prioritize security. They are required to deliver...</description>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 14:07:33 GMT</lastBuildDate>
   </channel>
 </rss>
