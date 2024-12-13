@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 13 Dec 2024 20:08:27 GMT</lastBuildDate>
-    <item>
-      <title>Security Baseline for M365 Apps for enterprise v2412</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2412/ba-p/4357320</link>
-      <pubDate>Fri, 13 Dec 2024 19:02:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2412/ba-p/4357320</guid>
-      <description>Microsoft is pleased to announce the release of the recommended security configuration baseline settings for Microsoft 365 Apps for enterprise, version 2412. Please download the content from the Microsoft Security Compliance Toolkit, test the recommended configurations, and implement as appropriate.
-&#160;
-This baseline builds on the previous Office baseline we released June 2023. The highlights of this baseline include:
-
-Added a new setting to Microsoft Project around blocking macros from the internet
-
-The recommended settings in this security baseline correspond with the administrative templates ...</description>
-    </item>
+    <lastBuildDate>Fri, 13 Dec 2024 21:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
