@@ -1,4 +1,3 @@
-2023-12-14T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-amanda-cantero-schilling/ba-p/4006182
 2023-12-14T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/introducing-new-features-of-microsoft-entra-permissions/ba-p/2466925
 2023-12-14T17:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-exact-data-match-edm-support-for-multi-token/ba-p/3924695
 2023-12-14T18:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-flexibility-across-ios-deployments-with-user/ba-p/4002544
