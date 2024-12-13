@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 13 Dec 2024 18:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 19:01:28 GMT</lastBuildDate>
+    <item>
+      <title>Strategy to Execution: Operationalizing Microsoft Defender CSPM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/strategy-to-execution-operationalizing-microsoft-defender-cspm/ba-p/4357354</link>
+      <pubDate>Fri, 13 Dec 2024 18:41:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/strategy-to-execution-operationalizing-microsoft-defender-cspm/ba-p/4357354</guid>
+      <description>In today&#8217;s dynamic digital environment, cloud security is not just about building robust security posture; it&#8217;s about ensuring an adaptive environment with forward-looking strategies that align with your organization&#8217;s goals.
+Threat actors &#8211; ranging from individual hackers to organized criminal networks and state-sponsored groups &#8211; continuously develop new strategies to exploit vulnerabilities. Their motivations are diverse: financial gain, competitive intelligence, or pure disruption. Moreover, the greatest risks often emerge from within organizations, where human error or intentional miscond...</description>
+    </item>
   </channel>
 </rss>
