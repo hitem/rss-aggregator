@@ -1,4 +1,3 @@
-2023-12-15T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advancing-cybersecurity-the-latest-enhancement-in-phishing/ba-p/2365681
 2023-12-18T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/designing-cloud-architecture-creating-professional-azure/ba-p/3996707
 2023-12-18T15:41:17 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-4-dns-it-s-always-dns/ba-p/4005803
 2023-12-18T18:45:03 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-scanning-for-virtual-machines-in-the-cloud-technical/ba-p/4012256
