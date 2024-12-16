@@ -3,14 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Dec 2024 17:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 18:10:21 GMT</lastBuildDate>
     <item>
-      <title>&#8220;What&#8217;s New&#8221; in Microsoft Entra is Generally Available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-is-generally-available/ba-p/4352585</link>
-      <pubDate>Mon, 16 Dec 2024 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-is-generally-available/ba-p/4352585</guid>
-      <description>With over 800,000 organizations relying on Microsoft Entra to navigate the ever-changing identity and network access threat landscape, it's crucial to have increased transparency about product updates, especially those requiring your action.
-Today, I'm excited to announce the general availability of "What's new in Microsoft Entra". This experience in the Microsoft Entra admin center provides a centralized view of our roadmap and change announcements across the Microsoft Entra identity and network access portfolio. In this article, I'll guide admins on how to make the most of this new feature t...</description>
+      <title>How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 1)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357915</link>
+      <pubDate>Mon, 16 Dec 2024 17:31:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357915</guid>
+      <description>Special thanks to NChristis for reviewing this blog.
+&#160;
+To effectively monitor SAP threats, a clear strategy is essential. It's crucial to secure SAP systems and broaden our security perspective. Many organizations struggle to monitor their SAP environment and have little to no visibility on their SAP landscape. &#160;We need to correlate data across the enterprise to get a full view of potential threats. By analyzing various log sources, we can uncover hidden patterns and identify threats. Our solution meets these requirements with specialized detection mechanisms tailored to SAP's unique vulnerabi...</description>
     </item>
   </channel>
 </rss>
