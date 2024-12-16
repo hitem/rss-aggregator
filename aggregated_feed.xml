@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Dec 2024 18:10:21 GMT</lastBuildDate>
-    <item>
-      <title>How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 1)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357915</link>
-      <pubDate>Mon, 16 Dec 2024 17:31:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357915</guid>
-      <description>Special thanks to NChristis for reviewing this blog.
-&#160;
-To effectively monitor SAP threats, a clear strategy is essential. It's crucial to secure SAP systems and broaden our security perspective. Many organizations struggle to monitor their SAP environment and have little to no visibility on their SAP landscape. &#160;We need to correlate data across the enterprise to get a full view of potential threats. By analyzing various log sources, we can uncover hidden patterns and identify threats. Our solution meets these requirements with specialized detection mechanisms tailored to SAP's unique vulnerabi...</description>
-    </item>
+    <lastBuildDate>Mon, 16 Dec 2024 19:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
