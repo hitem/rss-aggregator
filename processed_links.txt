@@ -596,3 +596,4 @@
 2024-12-13T19:02:48 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2412/ba-p/4357320
 2024-12-16T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-is-generally-available/ba-p/4352585
 2024-12-16T17:31:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357915
+2024-12-16T21:32:10 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357962

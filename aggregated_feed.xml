@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Dec 2024 21:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 22:00:51 GMT</lastBuildDate>
+    <item>
+      <title>How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 1)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357962</link>
+      <pubDate>Mon, 16 Dec 2024 21:32:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357962</guid>
+      <description>Special thanks to NChristis for reviewing this blog.
+&#160;
+This series of blog posts walks you through the SAP for Sentinel solution and how you can evaluate the solution and make sure you consider all the necessary steps that help you to put the solution into production.&#160;
+This is a two-part blog:
+
+Part 1: Describes the process of a pilot, how to use watchlists and workbook. [You are currently here]
+Part 2: How to use analytics rules, to handle incidents and use the SOAR capabilities [This will be published in the coming weeks, we will update this section with the link once it's published].
+
+To ef...</description>
+    </item>
   </channel>
 </rss>
