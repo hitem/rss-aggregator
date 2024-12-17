@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Dec 2024 08:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 09:08:20 GMT</lastBuildDate>
+    <item>
+      <title>Go agentless with Microsoft Sentinel for SAP</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/go-agentless-with-microsoft-sentinel-for-sap/ba-p/4357873</link>
+      <pubDate>Tue, 17 Dec 2024 08:27:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/go-agentless-with-microsoft-sentinel-for-sap/ba-p/4357873</guid>
+      <description>What a title during Agentic AI times &#128514;
+&#160;
+Dear community,
+Bringing SAP workloads under the protection of your SIEM solution is a primary concern for many customers out there.
+
+The window for defenders is small
+&#8220;Critical SAP vulnerabilities being weaponized in less than 72 hours of a patch release and new unprotected SAP applications provisioned in cloud (IaaS) environments being discovered and compromised in less than three hours.&#8221;
+(SAP SE + Onapsis, Apr 6 2024)
+
+Having a turn-key solution as much as possible leads to better adoption of SAP security. Agent-based solutions running in Docker cont...</description>
+    </item>
   </channel>
 </rss>
