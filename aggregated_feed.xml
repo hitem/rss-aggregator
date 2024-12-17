@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Dec 2024 14:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 15:07:39 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud Named a Leader in Frost Radar&#8482; for CNAPP for the Second Year in a Row!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-named-a-leader-in-frost-radar-for/ba-p/4358036</link>
+      <pubDate>Tue, 17 Dec 2024 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-named-a-leader-in-frost-radar-for/ba-p/4358036</guid>
+      <description>&#160;
+In the ever-evolving landscape of cloud security, Microsoft continues to assert its dominance with its comprehensive and innovative solutions. The Frost Radar&#8482;: Cloud-Native Application Protection Platforms, 2024 report underscores Microsoft's leadership in both - the innovation and growth index, highlighting several key strengths that set it apart from the competition.
+&#160;
+Frost and Sullivan states in its report, &#8220;With significant investments in cloud security, a strong partner network, and strategic positioning as a multicloud security provider, Microsoft has a solid foundation for sustained...</description>
+    </item>
   </channel>
 </rss>

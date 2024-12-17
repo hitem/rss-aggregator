@@ -597,3 +597,4 @@
 2024-12-16T17:31:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357915
 2024-12-16T21:32:10 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4357962
 2024-12-17T08:27:07 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/go-agentless-with-microsoft-sentinel-for-sap/ba-p/4357873
+2024-12-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-named-a-leader-in-frost-radar-for/ba-p/4358036
