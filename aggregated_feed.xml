@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Dec 2024 14:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 15:07:24 GMT</lastBuildDate>
+    <item>
+      <title>M.A.D. Day 2024 &#8211; Hamburg 15th November 2024 &#8211; Recap.</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/m-a-d-day-2024-hamburg-15th-november-2024-recap/ba-p/4358727</link>
+      <pubDate>Wed, 18 Dec 2024 14:51:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/m-a-d-day-2024-hamburg-15th-november-2024-recap/ba-p/4358727</guid>
+      <description>In Hamburg on the M.A.D. Day (Modern Application Deployment) we could announce that App-V is no longer being deprecated &#8211; The Client and the Sequencer. But the Server will still go away.
+With this Post I would like to clarify a few things which also was brought up by Tim Mangan in his Analysis of the M.A.D. Day 2024 and specific this announcement.
+&#160;
+In April 2026 the following App-V Components will be End of Life:
+
+&#160;All App-V 5.0 SP3 and 5.1 Clients
+&#160;All App-V 5.0 SP3 and 5.1 Sequencer
+The App-V Server Components 5.1 (Management / Publishing and Reporting Server)
+
+The original plan was to remo...</description>
+    </item>
   </channel>
 </rss>
