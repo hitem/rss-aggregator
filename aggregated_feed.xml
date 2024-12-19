@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 19 Dec 2024 10:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 11:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Introducing SOC Optimization Recommendations Based on Similar Organizations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-recommendations-based-on-similar/ba-p/4358766</link>
+      <pubDate>Thu, 19 Dec 2024 10:45:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-recommendations-based-on-similar/ba-p/4358766</guid>
+      <description>One of the key challenges that security teams in modern SOCs regularly face is determining which new data sources to onboard and which detections to activate. This ongoing process takes time and requires constant evaluation of the organization&#8217;s assets and the value that the data brings to the SOC.
+&#160;
+"&#8230;determining which logs to ingest for better threat coverage is time-consuming and requires significant effort. I need to spend a long time identifying the appropriate logs..."&#160;Elie El Karkafi, Senior Solutions Architect, ampiO Solutions
+&#160;
+Today, we&#8217;re excited to announce the public preview of re...</description>
+    </item>
   </channel>
 </rss>
