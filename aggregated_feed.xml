@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 20 Dec 2024 16:08:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 17:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Updates and billing guidance for guest governance</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/updates-and-billing-guidance-for-guest-governance/ba-p/4164498</link>
+      <pubDate>Fri, 20 Dec 2024 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/updates-and-billing-guidance-for-guest-governance/ba-p/4164498</guid>
+      <description>We&#8217;re excited to provide an update on timing and billing clarifications for the Microsoft Entra ID Governance for guests add-on, following up on our previous blog post about Microsoft Entra ID Governance licensing clarifications.
+Timing update&#160;
+We&#8217;re pleased to announce that the general availability for the ID Governance for guests add-on is now scheduled for the second quarter of 2025. This timeline allows us to ensure a smooth and seamless rollout for all our customers.&#160;
+Billing clarity&#160;
+We previously have highlighted that ID Governance for guests will be billed at $0.75 per monthly governed...</description>
+    </item>
   </channel>
 </rss>
