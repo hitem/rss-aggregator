@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Dec 2024 18:09:17 GMT</lastBuildDate>
-    <item>
-      <title>Hyperscale ML threat intelligence for early detection &amp; disruption</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/hyperscale-ml-threat-intelligence-for-early-detection-disruption/ba-p/4359763</link>
-      <pubDate>Mon, 23 Dec 2024 17:43:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/hyperscale-ml-threat-intelligence-for-early-detection-disruption/ba-p/4359763</guid>
-      <description>In today's rapidly evolving cybersecurity landscape, the ability to swiftly identify and mitigate threats is more critical than ever. Attackers are increasingly well-resourced, enabling them to keep adding new components to their toolkits that keep their infrastructure fresh and hard to detect. Traditional labeling methods used to identify and block malicious infrastructure are struggling to keep up. At Microsoft, we recognize the pressing need for innovative solutions that not only keep pace with these threats but stay ahead of them.
-This past Ignite, we announced Threat Intelligence Tracking...</description>
-    </item>
+    <lastBuildDate>Mon, 23 Dec 2024 19:01:10 GMT</lastBuildDate>
   </channel>
 </rss>
