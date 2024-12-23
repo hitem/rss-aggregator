@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Dec 2024 09:08:12 GMT</lastBuildDate>
-    <item>
-      <title>Entra ID Continuous Access Evaluation unfold</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-id-continuous-access-evaluation-unfold/ba-p/4360075</link>
-      <pubDate>Mon, 23 Dec 2024 08:24:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-id-continuous-access-evaluation-unfold/ba-p/4360075</guid>
-      <description>I am Farooque Mohammad, and I have been working with Microsoft for the last 6.5 years. I primarily work on Identity &amp; Security. This is my first blog, and I want to dive into Entra ID Continuous Access Evaluation (CAE), a security feature that helps protect resources on Entra ID.
-&#160;
-Assume a client wants to access a resource or an application. It requires authentication to receive two tokens:&#160;Refresh and Access. The Refresh Token is valid for up to 14 days or more, while the Access Token lasts for 60 to 90 minutes. The client must obtain a new Access Token approximately every hour using the Ref...</description>
-    </item>
+    <lastBuildDate>Mon, 23 Dec 2024 10:08:10 GMT</lastBuildDate>
   </channel>
 </rss>
