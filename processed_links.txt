@@ -1,4 +1,3 @@
-2023-12-26T15:52:55 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/sentinel-s-enrichment-widgets-elevating-cybersecurity/ba-p/3985255
 2023-12-27T17:39:31 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-separation-of-scan-levels-for-azure-sql-database/ba-p/4016255
 2024-01-02T10:26:34 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565
 2024-01-02T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/addressing-data-exfiltration-token-theft-talk/ba-p/3915337
