@@ -1,4 +1,3 @@
-2023-12-27T17:39:31 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-separation-of-scan-levels-for-azure-sql-database/ba-p/4016255
 2024-01-02T10:26:34 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565
 2024-01-02T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/addressing-data-exfiltration-token-theft-talk/ba-p/3915337
 2024-01-03T19:04:19 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-arlette-umuhire-sangwa/ba-p/4018243
