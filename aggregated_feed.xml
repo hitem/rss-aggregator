@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 29 Dec 2024 18:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 19:00:45 GMT</lastBuildDate>
+    <item>
+      <title>Passkeys Authentication Across Platforms and Devices using Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passkeys-authentication-across-platforms-and-devices-using-entra/ba-p/4361075</link>
+      <pubDate>Sun, 29 Dec 2024 18:32:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passkeys-authentication-across-platforms-and-devices-using-entra/ba-p/4361075</guid>
+      <description>Hello Everyone, In this blog, we will explore passkeys, a phishing-resistant, Passwordless authentication method based on the Fast Identity Online (FIDO2) standard, now available in Entra ID. With the constantly evolving security threat landscape, passwords combined with multi-factor authentication (MFA) are no longer sufficient. Stronger, more secure authentication methods are essential to address modern security challenges.
+&#160;
+Microsoft has been at the forefront of this evolution, introducing Windows Hello for Business in 2015 and expanding Passwordless options with FIDO2 authentication in 20...</description>
+    </item>
   </channel>
 </rss>

@@ -595,3 +595,4 @@
 2024-12-20T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/updates-and-billing-guidance-for-guest-governance/ba-p/4164498
 2024-12-23T08:24:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-id-continuous-access-evaluation-unfold/ba-p/4360075
 2024-12-23T17:43:52 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/hyperscale-ml-threat-intelligence-for-early-detection-disruption/ba-p/4359763
+2024-12-29T18:32:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passkeys-authentication-across-platforms-and-devices-using-entra/ba-p/4361075
