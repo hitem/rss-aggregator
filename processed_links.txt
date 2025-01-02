@@ -1,5 +1,3 @@
-2024-01-03T19:04:19 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/security-analyst-profile-arlette-umuhire-sangwa/ba-p/4018243
-2024-01-03T19:52:38 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/public-preview-microsoft-purview-data-map-audit-history/ba-p/4020723
 2024-01-03T21:39:41 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/onboarding-intune-managed-ios-user-enrollment-devices-to/ba-p/4020858
 2024-01-07T15:21:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-january-2024/ba-p/4022467
 2024-01-07T18:40:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-december-2023/ba-p/4023445
