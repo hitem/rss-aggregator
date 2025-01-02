@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 Jan 2025 16:08:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 17:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Understanding the Evolving Threat of DDoS Attacks in 2024</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-the-evolving-threat-of-ddos-attacks-in-2024/ba-p/4362031</link>
+      <pubDate>Thu, 02 Jan 2025 16:26:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/understanding-the-evolving-threat-of-ddos-attacks-in-2024/ba-p/4362031</guid>
+      <description>&#160;
+You can access the full report here&#160;Microsoft Digital Defense Report 2024
+&#160;
+The Rise of Network and Application Layer Attacks
+Beginning in mid-March 2024, there was a noticeable rise in network DDoS attacks, peaking at approximately 4,500 attacks per day by June. These attacks primarily targeted medium-sized applications, with a significant shift towards application layer attacks.
+Unlike traditional network-level attacks, application layer attacks are more stealthy, sophisticated, and difficult to mitigate. These attacks, which range from 100,000 to 1 million packets-per-second, are aimed di...</description>
+    </item>
   </channel>
 </rss>
