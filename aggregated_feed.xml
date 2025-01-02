@@ -3,6 +3,48 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 Jan 2025 09:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 10:07:20 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - January 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2025/ba-p/4361902</link>
+      <pubDate>Thu, 02 Jan 2025 09:29:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2025/ba-p/4361902</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Defender XDRMonthly newsJanuary 2025 Edition
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from December 2024.&#160; Defender for Cloud has it's own Monthly News post, have a look at their blog space.
+
+
+&#160;
+
+
+
+
+
+
+Unified Security Operations Platform: Microsoft Defender XDR &amp; Microsoft Sentinel
+
+
+&#160;
+
+(Preview) The Link to incident feature in advanced hunting now allows linking of Microsoft Sentinel query results.&#160;
+
+
+
+...</description>
+    </item>
   </channel>
 </rss>
