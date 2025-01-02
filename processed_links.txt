@@ -1,4 +1,3 @@
-2024-01-03T21:39:41 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/onboarding-intune-managed-ios-user-enrollment-devices-to/ba-p/4020858
 2024-01-07T15:21:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-january-2024/ba-p/4022467
 2024-01-07T18:40:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-december-2023/ba-p/4023445
 2024-01-08T13:29:43 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/intune-ios-ipados-management-in-a-nutshell/ba-p/4015363
