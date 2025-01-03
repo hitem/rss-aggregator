@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 03 Jan 2025 21:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 22:00:54 GMT</lastBuildDate>
+    <item>
+      <title>MTO/Cross Tenant Sync Identity Considerations</title>
+      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/mto-cross-tenant-sync-identity-considerations/ba-p/4293341</link>
+      <pubDate>Fri, 03 Jan 2025 21:55:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/mto-cross-tenant-sync-identity-considerations/ba-p/4293341</guid>
+      <description>In the current Azure environment, a user from another tenant can be represented by various identity objects. Most users have a cloud guest account, while a subset also possesses Mail contacts, alongside their guest user status. Additionally, some users have licensed accounts.
+In this blog post, we will explore each of these representations and the process of merging/rationalizing these to ensure a single representation of the user in the resource tenant. This unified representation will be enabled for B2B collaboration with their home identity and mail-enabled for integration within Exchange.
+...</description>
+    </item>
   </channel>
 </rss>
