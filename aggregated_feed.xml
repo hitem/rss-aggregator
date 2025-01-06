@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Jan 2025 17:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra: Top 50 features of 2024</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-50-features-of-2024/ba-p/4352584</link>
-      <pubDate>Mon, 06 Jan 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-50-features-of-2024/ba-p/4352584</guid>
-      <description>Do you feel like you&#8217;re still catching up with all the Microsoft Entra product innovation and security improvements from 2024? Not to worry &#8211; the team from &#8220;What&#8217;s New in Microsoft Entra&#8221; has created a retrospective highlighting 50 newsworthy solutions and new capabilities.
-Below, you&#8217;ll find fifty notable features shaped by rising cyber threats, customer feedback, and market needs. For a comprehensive list, please refer to the What&#8217;s New experience in the Entra admin center. By adopting these latest identity innovations, you can better protect your digital estate and maximize the value of you...</description>
-    </item>
+    <lastBuildDate>Mon, 06 Jan 2025 18:09:52 GMT</lastBuildDate>
   </channel>
 </rss>
