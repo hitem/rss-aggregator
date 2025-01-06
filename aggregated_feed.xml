@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Jan 2025 20:06:49 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud Customer Newsletter</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4363214</link>
-      <pubDate>Mon, 06 Jan 2025 19:56:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4363214</guid>
-      <description>What's new in Defender for Cloud?
-Defender for Cloud&#8217;s CSPM sensitive scanning capabilities now include Azure files. This feature is in GA. Learn more about it here.&#160;
-File integrity monitoring (FIM) update
-Staring June 2025, FIM requires a minimum Defender for Endpoint (MDE) client version. For Windows devices, please make sure you have Windows 10.8760 or later and for Linux, 30.124082. For more details, please refer to our documentation.&#160;
-Blogs of the month
-&#160;
-&#160;
-In December, our team published the following blog posts we would like to share:
-
-
-AKS Security Dashboard
-Strategy to Execution: Oper...</description>
-    </item>
+    <lastBuildDate>Mon, 06 Jan 2025 21:04:19 GMT</lastBuildDate>
   </channel>
 </rss>
