@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Jan 2025 05:08:01 GMT</lastBuildDate>
-    <item>
-      <title>Creating a Custom Sentinel GCP WAF /Load balancer Data Connector</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-a-custom-sentinel-gcp-waf-load-balancer-data-connector/ba-p/4362951</link>
-      <pubDate>Mon, 06 Jan 2025 05:06:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-a-custom-sentinel-gcp-waf-load-balancer-data-connector/ba-p/4362951</guid>
-      <description>Understanding ARM Templates
-ARM templates are JSON files that define the resources needed for your applications. They allow for infrastructure as code, making deployment and management more efficient and consistent. By leveraging ARM templates, you can automate the creation and configuration of your Sentinel GCP data connector.
-Prerequisites
-Before proceeding, ensure you have:
-
-An active Azure subscription
-Admin access to both your Azure(Microsoft Sentinel Contributor permissions) and GCP accounts.
-Basic knowledge of JSON and ARM templates
-Create a custom table in Azure Sentinel
-
-Creating a Cu...</description>
-    </item>
+    <lastBuildDate>Mon, 06 Jan 2025 06:11:12 GMT</lastBuildDate>
   </channel>
 </rss>
