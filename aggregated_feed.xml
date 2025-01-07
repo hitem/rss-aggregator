@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 07 Jan 2025 19:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Considerations for risk identification and prioritization in Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/considerations-for-risk-identification-and-prioritization-in/ba-p/4359616</link>
-      <pubDate>Tue, 07 Jan 2025 18:56:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/considerations-for-risk-identification-and-prioritization-in/ba-p/4359616</guid>
-      <description>Cloud security has become increasingly complicated. As organizations spread their computer systems across different cloud providers like Azure, AWS, and Google Cloud Platform, keeping everything secure has gotten much harder. Security teams are now dealing with a much more complex challenge than ever before.
-The core issue is how spread out and interconnected these systems have become. A single small mistake can create security risks that spread across multiple networks, turning what might look like a minor problem into a potential major security threat. The traditional ways of checking securi...</description>
-    </item>
+    <lastBuildDate>Tue, 07 Jan 2025 20:07:39 GMT</lastBuildDate>
   </channel>
 </rss>
