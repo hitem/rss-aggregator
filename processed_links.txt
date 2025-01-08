@@ -590,3 +590,4 @@
 2025-01-06T19:56:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4363214
 2025-01-07T18:56:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/considerations-for-risk-identification-and-prioritization-in/ba-p/4359616
 2025-01-08T21:18:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/exciting-news-microsoft-defender-for-endpoint-extends-support-to/ba-p/4364066
+2025-01-08T22:05:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reports-and-dashboards-with/ba-p/4352242
