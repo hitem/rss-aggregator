@@ -591,3 +591,5 @@
 2025-01-07T18:56:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/considerations-for-risk-identification-and-prioritization-in/ba-p/4359616
 2025-01-08T21:18:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/exciting-news-microsoft-defender-for-endpoint-extends-support-to/ba-p/4364066
 2025-01-08T22:05:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reports-and-dashboards-with/ba-p/4352242
+2025-01-09T12:14:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-coverage-management-across-siem-and-xdr-in-soc/ba-p/4363810
+2025-01-09T13:04:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4364324
