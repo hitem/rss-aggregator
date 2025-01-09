@@ -3,28 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 09 Jan 2025 13:15:21 GMT</lastBuildDate>
-    <item>
-      <title>How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 2)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4364324</link>
-      <pubDate>Thu, 09 Jan 2025 13:04:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4364324</guid>
-      <description>Special thanks to NChristis&#160;for reviewing this blog!
-This series of blog posts walks you through the SAP for Sentinel solution and how you can evaluate the solution and make sure you consider all the necessary steps that help you to put the solution into production.&#160;
-This is a two-part blog:
-
-Part 1: Describes the process of a pilot, how to use watchlists and workbooks.
-Part 2: How to use analytics rules, to handle incidents and use the SOAR capabilities [You are currently here].
-
-In the first part of this blog, we covered how to get stated with your proof of value by gathering stakeholders, s...</description>
-    </item>
-    <item>
-      <title>Unified coverage management across SIEM and XDR in SOC optimization</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-coverage-management-across-siem-and-xdr-in-soc/ba-p/4363810</link>
-      <pubDate>Thu, 09 Jan 2025 12:14:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-coverage-management-across-siem-and-xdr-in-soc/ba-p/4363810</guid>
-      <description>SOC optimization aims to help SOC teams enhance security efficiency by providing tailored recommendations to close coverage gaps, reduce unnecessary data ingestion, and adapt to evolving threats, maximizing value from Microsoft Sentinel while minimizing the need for manual efforts.
-As threat landscapes evolve, SOC optimization continues to innovate, providing new ways to enhance your security controls. The initial phase of this feature offers deep insights into your data usage patterns and coverage gaps against specific threats. Recently, SOC optimization introduced recommendations based on si...</description>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 14:01:33 GMT</lastBuildDate>
   </channel>
 </rss>
