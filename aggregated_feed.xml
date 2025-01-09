@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 08 Jan 2025 23:06:56 GMT</lastBuildDate>
-    <item>
-      <title>Build custom email security reports and dashboards with workbooks in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reports-and-dashboards-with/ba-p/4352242</link>
-      <pubDate>Wed, 08 Jan 2025 22:05:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reports-and-dashboards-with/ba-p/4352242</guid>
-      <description>Security teams in both small and large organizations track key metrics to make critical security decisions and identify meaningful trends in their organizations. Defender for Office 365 has rich, built-in reporting capabilities that provide insights into your security posture to support these needs. However, sometimes security teams require custom reporting solutions to create dedicated views, combine multiple data sources, and get additional insights to meet their needs.
-We previously shared an example of how you can leverage Power BI and the Microsoft Defender XDR Advanced Hunting APIs to bu...</description>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 00:35:22 GMT</lastBuildDate>
   </channel>
 </rss>
