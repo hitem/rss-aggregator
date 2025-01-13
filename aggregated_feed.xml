@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Jan 2025 17:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Action required: MSOnline and AzureAD PowerShell retirement - 2025 info and resources</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/action-required-msonline-and-azuread-powershell-retirement-2025/ba-p/4364991</link>
-      <pubDate>Mon, 13 Jan 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/action-required-msonline-and-azuread-powershell-retirement-2025/ba-p/4364991</guid>
-      <description>As announced in Microsoft Entra&#160;change announcements&#160;and prior&#160;blog updates, the MSOnline and&#160;Microsoft&#160;AzureAD PowerShell modules were deprecated on March 30, 2024. The retirement for MSOnline PowerShell module starts in early April 2025 and ends in late May 2025. You must take action to avoid impact after this date by migrating any use of MSOnline to&#160;Microsoft Graph PowerShell SDK&#160;or&#160;Microsoft Entra PowerShell, which is currently in preview).
-Key points&#160;
-
-MSOnline PowerShell will retire (and stop working) between early April 2025 and late May 2025.
-AzureAD PowerShell will no longer be suppor...</description>
-    </item>
+    <lastBuildDate>Mon, 13 Jan 2025 18:10:32 GMT</lastBuildDate>
   </channel>
 </rss>
