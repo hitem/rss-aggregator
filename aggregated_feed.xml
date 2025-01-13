@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Jan 2025 11:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 12:14:10 GMT</lastBuildDate>
+    <item>
+      <title>Break the 30,000 Rows Limit with Advanced Hunting API!</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/break-the-30-000-rows-limit-with-advanced-hunting-api/ba-p/4365565</link>
+      <pubDate>Mon, 13 Jan 2025 12:00:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/break-the-30-000-rows-limit-with-advanced-hunting-api/ba-p/4365565</guid>
+      <description>In this blog post, I will explain how to utilize advanced hunting APIs to bypass the 30,000 rows limit in Defender XDR's advanced hunting feature. Before we delve into the topic, let&#8217;s understand what is an Advanced Hunting in Defender XDR and what problem we are trying to solve.
+Advanced Hunting in Defender XDR (Extended Detection and Response) is a powerful feature in Microsoft Defender that allows security professionals to query and analyse large volumes of raw data to uncover potential threats across an organization's environment. It provides a flexible query interface where users can writ...</description>
+    </item>
   </channel>
 </rss>
