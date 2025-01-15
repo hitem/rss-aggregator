@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Jan 2025 09:07:22 GMT</lastBuildDate>
-    <item>
-      <title>Whats New: Bicep Support in Microsoft Sentinel Repositories</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/whats-new-bicep-support-in-microsoft-sentinel-repositories/ba-p/4358490</link>
-      <pubDate>Wed, 15 Jan 2025 08:53:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/whats-new-bicep-support-in-microsoft-sentinel-repositories/ba-p/4358490</guid>
-      <description>We are thrilled to announce a significant enhancement to the Microsoft Sentinel Repositories feature: support for Bicep templates. This update empowers security teams and DevOps professionals to manage Sentinel-as-Code with greater efficiency, scalability, and clarity.
-What Are Bicep Templates?
-Bicep is a domain-specific language (DSL) for deploying Azure resources declaratively. As an evolution of JSON-based Azure Resource Manager (ARM) templates, Bicep provides:
-
-Simplified syntax: Write concise and human-readable infrastructure definitions.
-Modular design: Reuse code for consistent deployme...</description>
-    </item>
+    <lastBuildDate>Wed, 15 Jan 2025 10:07:25 GMT</lastBuildDate>
   </channel>
 </rss>
