@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Jan 2025 12:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 13:13:50 GMT</lastBuildDate>
+    <item>
+      <title>Ingesting Palo Alto Cortex XDR Logs into Microsoft Sentinel with the Updated CCP Connector</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-palo-alto-cortex-xdr-logs-into-microsoft-sentinel-with/ba-p/4366555</link>
+      <pubDate>Wed, 15 Jan 2025 13:09:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-palo-alto-cortex-xdr-logs-into-microsoft-sentinel-with/ba-p/4366555</guid>
+      <description>In today&#8217;s cybersecurity landscape, having a comprehensive and streamlined security information and event management (SIEM) system is paramount. Microsoft Sentinel, with its robust capabilities, is a go-to for many security professionals. With the evolution of the Codeless Connector Platform (CCP), integrating logs from various sources has never been more efficient. This article delves into how the updated CCP connector enhances the ingestion of Palo Alto Cortex XDR logs into Microsoft Sentinel.
+The Power of the Codeless Connector Platform 
+The Codeless Connector Platform (CCP) is a revolution...</description>
+    </item>
   </channel>
 </rss>
