@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 Jan 2025 23:02:29 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Exchange Online: Search-MailboxAuditLog and New-MailboxAuditLogSearch will retire</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-exchange-online-search-mailboxauditlog-and-new/ba-p/4366310</link>
-      <pubDate>Tue, 14 Jan 2025 22:36:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-exchange-online-search-mailboxauditlog-and-new/ba-p/4366310</guid>
-      <description>Overview
-As part of our ongoing efforts to improve the logging capabilities of Exchange Online, we are sharing our timeline for decommissioning the Search-MailboxAuditLog and New-MailboxAuditLogSearch cmdlets. This change is a significant step towards enhancing our audit logging infrastructure and ensuring compliance with data retention standards. For our earlier communication on the subject please see this blog post.&#160;
-Background
-We are working on streamlining the audit log search experience and we are deprecating older cmdlets in favor of a single, more powerful cmdlet: Search-UnifiedAuditLog...</description>
-    </item>
+    <lastBuildDate>Wed, 15 Jan 2025 00:34:39 GMT</lastBuildDate>
   </channel>
 </rss>
