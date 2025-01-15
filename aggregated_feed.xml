@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Jan 2025 06:10:14 GMT</lastBuildDate>
-    <item>
-      <title>Defender for Endpoint extends support to ARM-based Linux servers</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-extends-support-to-arm-based-linux-servers/ba-p/4364066</link>
-      <pubDate>Wed, 15 Jan 2025 05:20:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-extends-support-to-arm-based-linux-servers/ba-p/4364066</guid>
-      <description>As the demand for ARM64 servers continues to rise, we are thrilled to announce that Microsoft Defender for Endpoint now supports ARM64 based Linux servers in Public Preview. This update marks a new milestone in our commitment to providing comprehensive endpoint security across all devices and platforms.
-ARM64 processors are rapidly gaining traction due to their exceptional efficiency and performance, particularly in data centres and cloud environments. Defender for Endpoint&#8217;s Linux solution is built specifically for Linux devices, so our protection is tailor-made with the particular needs and ...</description>
-    </item>
+    <lastBuildDate>Wed, 15 Jan 2025 07:00:41 GMT</lastBuildDate>
   </channel>
 </rss>
