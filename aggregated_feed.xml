@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Jan 2025 17:01:02 GMT</lastBuildDate>
-    <item>
-      <title>Take action by February 1: Azure AD Graph is retiring</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/take-action-by-february-1-azure-ad-graph-is-retiring/ba-p/4365743</link>
-      <pubDate>Thu, 16 Jan 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/take-action-by-february-1-azure-ad-graph-is-retiring/ba-p/4365743</guid>
-      <description>Hey Folks,&#160;
-We wanted to get this news at the top of your inbox for 2025: Applications will be unable to make requests to Azure AD Graph APIs starting February 1, 2025.&#160;
-We're proceeding with the Retirement of the Azure AD Graph API service, which began in September 2024.&#160;&#160;
-Our next big milestone starts February 1st, when existing applications will be prevented from calling Azure AD Graph APIs. You may not see impact right away, as we&#8217;re rolling out this change in stages across tenants.&#160; We anticipate full deployment of this change by the end of February.&#160;
-Microsoft Graph is the replacement fo...</description>
-    </item>
+    <lastBuildDate>Thu, 16 Jan 2025 18:09:29 GMT</lastBuildDate>
   </channel>
 </rss>
