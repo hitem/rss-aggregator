@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Jan 2025 13:13:59 GMT</lastBuildDate>
-    <item>
-      <title>Active Directory Hardening Series - Part 7 &#8211; Implementing Least Privilege</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-7-implementing-least/ba-p/4366626</link>
-      <pubDate>Thu, 16 Jan 2025 12:51:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-7-implementing-least/ba-p/4366626</guid>
-      <description>Hi all! Jerry here again to continue the AD hardening series.&#160;&#160; This time I want to address the concept of least privilege as it applies to Active Directory.&#160; Of the three principles of Zero Trust (verify explicitly, least privilege, assume breach), least privilege is the most achievable using native Active Directory features.&#160; It is also a concept that was well established before Windows domains were introduced.&#160; Some organizations did a great a great job minimizing administrative access from day one but sadly they were the exception.&#160; While we are far more disciplined when granting privilege...</description>
-    </item>
+    <lastBuildDate>Thu, 16 Jan 2025 14:04:40 GMT</lastBuildDate>
   </channel>
 </rss>
