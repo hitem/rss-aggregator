@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 17 Jan 2025 15:00:49 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud - Elevating Runtime Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-elevating-runtime-protection/ba-p/4285436</link>
-      <pubDate>Fri, 17 Jan 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-elevating-runtime-protection/ba-p/4285436</guid>
-      <description>&#160;
-In today's rapidly evolving digital landscape, runtime security is crucial for maintaining the integrity of applications in containerized environments. &#160;As threats become increasingly sophisticated, the demand for more adaptive protection continues to rise. Attackers are no longer relying on generic exploits &#8212; they are actively targeting vulnerabilities in container configurations, runtime processes, and shared resources. From injecting malicious code to escalating privileges and exploiting kernel vulnerabilities, their tactics are constantly evolving.
-Overcoming these challenges requires co...</description>
-    </item>
+    <lastBuildDate>Fri, 17 Jan 2025 16:08:09 GMT</lastBuildDate>
   </channel>
 </rss>
