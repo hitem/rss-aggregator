@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 19 Jan 2025 18:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 19:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Enhancing Security with Entra PIM and Conditional Access Policy using Authentication Context</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enhancing-security-with-entra-pim-and-conditional-access-policy/ba-p/4368002</link>
+      <pubDate>Sun, 19 Jan 2025 18:32:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enhancing-security-with-entra-pim-and-conditional-access-policy/ba-p/4368002</guid>
+      <description>In today&#8217;s cybersecurity landscape, organizations face an ever-evolving set of threats targeting privileged accounts. These accounts often have elevated permissions, making them a high-value target for attackers. To mitigate these risks, Microsoft Entra&#8217;s Privileged Identity Management (PIM) and Conditional Access Policies offer robust solutions to manage, monitor, and secure privileged access. When combined with Authentication Context, organizations can adopt a highly granular approach to securing their resources, ensuring compliance with the Zero Trust security model.
+&#160;
+What is Privileged Id...</description>
+    </item>
   </channel>
 </rss>
