@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Jan 2025 09:07:41 GMT</lastBuildDate>
-    <item>
-      <title>Enhancing Azure Firewall Management with Change Tracking</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-azure-firewall-management-with-change-tracking/ba-p/4369275</link>
-      <pubDate>Wed, 22 Jan 2025 08:50:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-azure-firewall-management-with-change-tracking/ba-p/4369275</guid>
-      <description>Azure Firewall's Change Tracking (Preview) feature is a powerful enhancement that provides administrators with insights into changes made to firewall configurations, particularly Rule Collection Groups. This feature leverages Azure Resource Graph (ARG) to enable efficient monitoring and analysis of changes, improving visibility, accountability, and troubleshooting capabilities.
-&#160;
-Key Benefits of Change Tracking
-Enhanced VisibilityMonitor modifications to Rule Collection Groups, enabling administrators to track configuration changes in real time.
-Improved AccountabilityIdentify when changes wer...</description>
-    </item>
+    <lastBuildDate>Wed, 22 Jan 2025 10:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
