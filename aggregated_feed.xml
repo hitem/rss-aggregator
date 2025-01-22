@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Jan 2025 16:08:40 GMT</lastBuildDate>
-    <item>
-      <title>New Identity Secure Score recommendations in General Availability</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-identity-secure-score-recommendations-in-general/ba-p/4369133</link>
-      <pubDate>Wed, 22 Jan 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-identity-secure-score-recommendations-in-general/ba-p/4369133</guid>
-      <description>Last year, we emphasized our investments in Microsoft Entra recommendations within our Transparency in Adoption investment area. The primary objective of Microsoft Entra recommendations is to serve as a trusted advisor for enhancing security posture and improving employee productivity. Furthermore, it aims to provide actionable insights based on best practices and industry standards to assist in securing your organization.&#160;
-Since the launch of Microsoft Entra recommendations and the announcement of various recommendation releases, we would like to highlight that 11 new Identity Secure Score re...</description>
-    </item>
-    <item>
-      <title>Introducing the new Defender for Identity sensor management API</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-sensor-management-api/ba-p/4367164</link>
-      <pubDate>Wed, 22 Jan 2025 15:25:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-sensor-management-api/ba-p/4367164</guid>
-      <description>Microsoft Defender for Identity is a cloud-based security solution that helps monitor and protect identities and infrastructure across your organization. Defender for Identity is a core component of Microsoft Defender XDR, leveraging signals from both on-premises Active Directory and cloud identities to help you better identify, detect, and investigate advanced cyberthreats directed at your organization.
-Last year Microsoft Defender for Identity&#160;introduced a Graph based API to view Defender for Identity Health issues. Today I am going to discuss the new Defender for Identity sensor management ...</description>
-    </item>
+    <lastBuildDate>Wed, 22 Jan 2025 17:00:57 GMT</lastBuildDate>
   </channel>
 </rss>
