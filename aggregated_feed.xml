@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 Jan 2025 22:00:52 GMT</lastBuildDate>
-    <item>
-      <title>What&#8217;s new: Find the Sentinel content you need using AI search</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-find-the-sentinel-content-you-need-using-ai-search/ba-p/4304741</link>
-      <pubDate>Thu, 23 Jan 2025 21:49:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-find-the-sentinel-content-you-need-using-ai-search/ba-p/4304741</guid>
-      <description>Overview
-Getting value from Microsoft Sentinel and the Microsoft Unified Security Operations Platform requires deploying the right solutions. Microsoft and our partners offer hundreds of solutions that enable integrating Microsoft Sentinel and the Unified Security Operations Platform with your security and IT systems as well as offer content items such as analytics rules, playbooks and workbooks that provide advanced detection, automation, and reporting capabilities. The Content Hub is the place to go to for identifying the solutions relevant to you.
-Until now, when&#160;Microsoft Sentinel&#160;users, i...</description>
-    </item>
-    <item>
-      <title>Evolving the Windows User Model &#8211; A Look to the Past</title>
-      <link>https://techcommunity.microsoft.com/t5/security-compliance-and-identity/evolving-the-windows-user-model-a-look-to-the-past/ba-p/4369642</link>
-      <pubDate>Thu, 23 Jan 2025 21:42:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/security-compliance-and-identity/evolving-the-windows-user-model-a-look-to-the-past/ba-p/4369642</guid>
-      <description>Early in 2024, the MORSE team investigated the new Administrator protection (AP) feature in Windows. Believing context is important to understand the decisions that shape the Windows security model, MORSE committed to sharing our thoughts on this new and compelling feature.
-From its earliest days, Windows was designed around the concept that a computer and its user were indistinguishable entities, freely sharing all resources within the system and its configuration. On single-user systems such as this, the user was free to manipulate the system in any way they saw fit. In other words, the mach...</description>
-    </item>
+    <lastBuildDate>Thu, 23 Jan 2025 23:00:42 GMT</lastBuildDate>
   </channel>
 </rss>
