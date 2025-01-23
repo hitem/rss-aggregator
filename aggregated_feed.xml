@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Jan 2025 23:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Get greater visibility with aggregated reporting of endpoint telemetry signals</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-visibility-with-aggregated-reporting-of-endpoint/ba-p/4366712</link>
-      <pubDate>Wed, 22 Jan 2025 22:20:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-visibility-with-aggregated-reporting-of-endpoint/ba-p/4366712</guid>
-      <description>Endpoint security solutions collect large amounts of data from across your network in order to detect intruders. These signals are quickly processed to generate prompt, valuable security alerts and insights with a high signal-to-noise ratio while allowing operational continuity. During this process, certain data is typically dropped to reduce noise and optimize product performance and efficiency. This allows more complex signal logic to be applied to the significant data that is collected. With this approach, signals are continually filtered until high fidelity indicators of attack or compromi...</description>
-    </item>
+    <lastBuildDate>Thu, 23 Jan 2025 00:34:37 GMT</lastBuildDate>
   </channel>
 </rss>
