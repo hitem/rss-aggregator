@@ -3,16 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 Jan 2025 16:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 17:01:00 GMT</lastBuildDate>
     <item>
-      <title>Azure Migrate &#8211; Deployment Failure Due to Policy Blocking</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-migrate-deployment-failure-due-to-policy-blocking/ba-p/4369531</link>
-      <pubDate>Thu, 23 Jan 2025 15:41:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-migrate-deployment-failure-due-to-policy-blocking/ba-p/4369531</guid>
-      <description>Introduction
-Hello everyone,
-My name is Andrew Coughlin, and I am a Cloud Solutions Architect at Microsoft, specializing in Azure Infrastructure. In my role, I assist customers with utilizing Azure Migrate to transition their virtual machines from on-premises environments to Azure. Recently, I encountered an issue related to the setup of Azure Migrate, which arises when certain built-in policies are configured to deny compliance settings for storage account and key vault setup. These policies are designed to ensure that storage accounts and key vaults are deployed securely.
-In this document, I...</description>
+      <title>Customize authentication experiences and URL domains for external apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/customize-authentication-experiences-and-url-domains-for/ba-p/3627347</link>
+      <pubDate>Thu, 23 Jan 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/customize-authentication-experiences-and-url-domains-for/ba-p/3627347</guid>
+      <description>Creating secure, seamless, and branded user experiences in your external-facing applications, such as customer identity and access management (CIAM), is critical to growing your business. According to Verizon&#160;, cyberattacks, however, pose a significant threat to any business operating online, with common types including denial-of-service (DDoS) attacks, password spray attacks, Slow Loris attacks, and brute force attacks. In 24% of the breaches, stolen credentials were the number one cause of issues, underscoring the importance of strong passwords and usage of multifactor authentication (MFA). ...</description>
     </item>
   </channel>
 </rss>
