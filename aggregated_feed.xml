@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 Jan 2025 18:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 19:00:44 GMT</lastBuildDate>
+    <item>
+      <title>Case management to improve SecOps Collaboration</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-to-improve-secops-collaboration/ba-p/4369625</link>
+      <pubDate>Thu, 23 Jan 2025 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-to-improve-secops-collaboration/ba-p/4369625</guid>
+      <description>Third party tools are a common part of any IT tech stack, but they often lack the functionality required for the unique needs of security operations. They may require significant customization or workarounds to address case management in the SOC, or lack the ability to collect details like threat intelligence that are critical for resolving an incident.&#160; They also may require context switching into different portals, keeping teams from working as efficiently as possible.&#160;
+For these reasons, we are excited to be introducing a new solution for case management, built specifically for SecOps teams...</description>
+    </item>
+    <item>
+      <title>Improve SecOps collaboration with case management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/improve-secops-collaboration-with-case-management/ba-p/4369044</link>
+      <pubDate>Thu, 23 Jan 2025 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/improve-secops-collaboration-with-case-management/ba-p/4369044</guid>
+      <description>Creating a unified, security-focused case management system
+Many SecOps teams use Microsoft Sentinel or Microsoft Defender to do security work, and rely on 3rd party tools to manage cases. The majority of these systems are not tuned to the unique needs of SecOps, resulting in generic views and data, lack of security context to efficiently resolve cases, increased time to respond, not to mention the incremental cost of implementing another system. Overreliance on 3rd party ticketing systems for communication and collaboration, inside and outside of the SOC, results in insufficient collaboration...</description>
+    </item>
   </channel>
 </rss>
