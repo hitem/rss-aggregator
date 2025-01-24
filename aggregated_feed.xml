@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 24 Jan 2025 16:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 17:01:40 GMT</lastBuildDate>
+    <item>
+      <title>Announcing Public Preview: New STIX Objects in Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-new-stix-objects-in-microsoft-sentinel/ba-p/4369164</link>
+      <pubDate>Fri, 24 Jan 2025 16:45:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-new-stix-objects-in-microsoft-sentinel/ba-p/4369164</guid>
+      <description>Security teams often struggle to understand the full context of an attack. In many cases, they rely solely on Indicators of Compromise (IoCs) without the broader insights provided by threat intelligence developed on Threat Actors, Attack Patterns, Identities - and the Relationships between each. This lack of context available to enrich their workflows limits their ability to connect the dots, prioritize threats effectively, and respond comprehensively to evolving attacks.To help customers build out a thorough, real-time understanding of threats, we are excited to announce the public preview of...</description>
+    </item>
   </channel>
 </rss>
