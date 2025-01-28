@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Jan 2025 16:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 17:00:57 GMT</lastBuildDate>
+    <item>
+      <title>Top 3 Priorities for Proactive Identity and Access Security in 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/top-3-priorities-for-proactive-identity-and-access-security-in/ba-p/4371044</link>
+      <pubDate>Tue, 28 Jan 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/top-3-priorities-for-proactive-identity-and-access-security-in/ba-p/4371044</guid>
+      <description>In 2024, we faced some serious security challenges. We dealt with widespread cybersecurity issues like major breaches, outages, and persistent threat campaigns. These incidents affected us all, prompting a reassessment of security strategies, no matter our region, size, or industry.
+It&#8217;s safe to say that no organization is immune to cybersecurity threats, and with a majority of threats targeting identities and networks, it&#8217;s our responsibility to do everything we can to protect ourselves. Internally at Microsoft, we shifted from reactive measures to proactive strategies and continued to advanc...</description>
+    </item>
   </channel>
 </rss>
