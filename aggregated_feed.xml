@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Jan 2025 21:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Secure access for your employees with Microsoft Entra Suite: New KuppingerCole Executive View report</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-access-for-your-employees-with-microsoft-entra-suite-new/ba-p/4371526</link>
-      <pubDate>Wed, 29 Jan 2025 20:39:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-access-for-your-employees-with-microsoft-entra-suite-new/ba-p/4371526</guid>
-      <description>KuppingerCole, a leading global analyst organization, published an Executive View report on the Microsoft Entra Suite. This paper, commissioned by Microsoft, delves into the features, benefits, and strengths of the Microsoft Entra Suite, designed to provide helpful insights for identity and network access leaders, as well as practitioners who evaluate secure access for workforce solutions for and opportunities to enhance Zero Trust security.&#160;
-Secure access for your employees&#160;
-The Microsoft Entra Suite is a comprehensive Zero Trust user access solution that takes an identity-centric approach to...</description>
-    </item>
+    <lastBuildDate>Wed, 29 Jan 2025 22:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
