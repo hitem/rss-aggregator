@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:09:39 GMT</lastBuildDate>
-    <item>
-      <title>From prevention to recovery: Microsoft Unified&#8217;s holistic cybersecurity approach</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/from-prevention-to-recovery-microsoft-unified-s-holistic/ba-p/4295823</link>
-      <pubDate>Wed, 29 Jan 2025 17:44:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/from-prevention-to-recovery-microsoft-unified-s-holistic/ba-p/4295823</guid>
-      <description>Author - Paul Saigar
-The latest Microsoft Digital Defense Report states that 80 percent of organizations have attack paths that expose critical assets. Furthermore, Microsoft has observed a 2.75x increase year over year in ransomware attacks among our customers.
-Cyber-enabled financial fraud is also rising globally. According to our report, the daily traffic volume for Tech scams &#8211; a type of fraud that tricks users by impersonating legitimate services or using fake tech support and ads &#8211; has skyrocketed by 400 per cent since 2022. This is a stark contrast to the 180 per cent increase in malwar...</description>
-    </item>
+    <lastBuildDate>Wed, 29 Jan 2025 19:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
