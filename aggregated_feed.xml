@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Jan 2025 09:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 10:07:19 GMT</lastBuildDate>
+    <item>
+      <title>Building a DDoS Response Plan</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/building-a-ddos-response-plan/ba-p/4372256</link>
+      <pubDate>Thu, 30 Jan 2025 09:45:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/building-a-ddos-response-plan/ba-p/4372256</guid>
+      <description>In today's digital age, enterprises face significant threats from Distributed Denial of Service (DDoS) attacks, which target networks and applications to disrupt their availability and performance. Public IP addresses that are accessible via the internet are particularly susceptible to these attacks, which are classified into three main categories: Volumetric Attacks (saturating network links), Protocol Attacks (targeting server resources), and Resource Attacks (overwhelming application layers). Implementing effective mitigation strategies is crucial for maintaining network integrity. Azure DD...</description>
+    </item>
   </channel>
 </rss>
