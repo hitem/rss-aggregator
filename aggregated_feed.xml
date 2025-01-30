@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Jan 2025 17:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Securing Identities: 10 recommendations for building a stronger identity security posture</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-identities-10-recommendations-for-building-a-stronger/ba-p/4371879</link>
-      <pubDate>Thu, 30 Jan 2025 16:57:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-identities-10-recommendations-for-building-a-stronger/ba-p/4371879</guid>
-      <description>Attack strategies are constantly evolving, your identity security posture should too. Microsoft Defender for Identity is a core part of Microsoft Defender XDR and is specifically focused on helping customers prevent, detect and ultimately respond to identity-based threats. As part of this mission, the Defender for Identity team continually augments and updates the identity security posture recommendations (ISPM&#8217;s) within the platform. These recommendations are designed to help customers implement current best practices by addressing known misconfigurations or other weak security elements withi...</description>
-    </item>
-    <item>
-      <title>Boost Security with API Security Posture Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/boost-security-with-api-security-posture-management/ba-p/4372385</link>
-      <pubDate>Thu, 30 Jan 2025 16:16:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/boost-security-with-api-security-posture-management/ba-p/4372385</guid>
-      <description>Introduction
-APIs are entry points into cloud-native applications. They connect services, apps, and data, making them an entry point for attacks. API Security posture is the first step in assessing the risks associated with APIs, helping in prioritization of your most critical cloud application risks. &#160;API security posture management helps protect APIs by assessing risks and misconfigurations.
-One of Microsoft Defender for Cloud's main pillars is cloud security posture management (CSPM). CSPM provides detailed visibility into the security state of your assets and workloads, and provides harden...</description>
-    </item>
+    <lastBuildDate>Thu, 30 Jan 2025 18:09:41 GMT</lastBuildDate>
   </channel>
 </rss>
