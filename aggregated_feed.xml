@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 31 Jan 2025 02:06:12 GMT</lastBuildDate>
-    <item>
-      <title>Get visibility into your DeepSeek use with Defender for Cloud Apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/get-visibility-into-your-deepseek-use-with-defender-for-cloud/ba-p/4372520</link>
-      <pubDate>Fri, 31 Jan 2025 00:58:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/get-visibility-into-your-deepseek-use-with-defender-for-cloud/ba-p/4372520</guid>
-      <description>The world has never seen technology adopted at the pace of AI. While AI increases productivity and is deeply integrated into business processes, it can also come with risks in terms of security, privacy and compliance.
-On January 20, DeepSeek caused a big splash after announcing DeepSeek R1, a powerful and inexpensive AI reasoning model that can answer questions, solve logic problems and write its own computer programs.
-DeepSeek has seen unprecedented adoption with millions of app downloads in just a few days! Chances are that many users within your organization may already be leveraging it. H...</description>
-    </item>
+    <lastBuildDate>Fri, 31 Jan 2025 03:08:36 GMT</lastBuildDate>
   </channel>
 </rss>
