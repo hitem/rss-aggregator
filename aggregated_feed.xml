@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 31 Jan 2025 14:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 15:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Windows Server 2025, security baseline</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-server-2025-security-baseline/ba-p/4358733</link>
+      <pubDate>Fri, 31 Jan 2025 14:07:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-server-2025-security-baseline/ba-p/4358733</guid>
+      <description>Microsoft is pleased to announce the release of the security baseline package for Windows Sever 2025! Please download the content from the&#160;Microsoft Security Compliance Toolkit, test the recommended configurations, and customize / implement as appropriate.
+This release includes several changes to further assist in the security of enterprise customers, including changes to account lockout, Local Security Authority, LAPS, Kerberos, Microsoft Defender Antivirus, Windows Protected Print, Windows Update, and more.
+In an upcoming release planned for early 2025, we will include additional configurati...</description>
+    </item>
   </channel>
 </rss>

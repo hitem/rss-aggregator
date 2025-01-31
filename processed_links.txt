@@ -591,3 +591,4 @@
 2025-01-30T16:16:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/boost-security-with-api-security-posture-management/ba-p/4372385
 2025-01-30T16:57:58 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-identities-10-recommendations-for-building-a-stronger/ba-p/4371879
 2025-01-31T00:58:28 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/get-visibility-into-your-deepseek-use-with-defender-for-cloud/ba-p/4372520
+2025-01-31T14:07:01 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-server-2025-security-baseline/ba-p/4358733
