@@ -3,6 +3,44 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Feb 2025 13:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 14:07:21 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - February 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2025/ba-p/4373271</link>
+      <pubDate>Mon, 03 Feb 2025 13:54:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2025/ba-p/4373271</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Defender XDRMonthly newsFebruary 2025 Edition
+
+
+
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2025. Defender for Cloud has it's own Monthly News post, have a look at their blog space.
+
+
+&#160;
+
+
+
+
+
+
+Unified Security Operations Platform: Microsoft Defender XDR &amp; Microsoft Sentinel
+
+
+&#160;
+
+(Public Preview) Creating a unified, security-focused case management system. We are excited to be introducing a new sol...</description>
+    </item>
   </channel>
 </rss>
