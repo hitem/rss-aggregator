@@ -3,16 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Feb 2025 05:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 06:10:51 GMT</lastBuildDate>
     <item>
-      <title>Leveraging Custom Security Attributes in Conditional Access Policies</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/leveraging-custom-security-attributes-in-conditional-access/ba-p/4373293</link>
-      <pubDate>Tue, 04 Feb 2025 04:24:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/leveraging-custom-security-attributes-in-conditional-access/ba-p/4373293</guid>
-      <description>Microsoft Entra ID provides robust tools for managing access to resources through Conditional Access (CA) policies. However, some service principals representing certain resources cannot be directly included in CA policies. To address this, we can use custom security attributes to control access to these resources. This blog will guide through the process of creating and applying custom security attributes to service principals, enabling or blocking them through Conditional Access policies.
-&#160;
-Understanding the Challenge:
-Service principals often represent applications or resources within Azure...</description>
+      <title>Enhancing Azure DevOps Traceability: Tracking Pipeline-Driven Resource Changes</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enhancing-azure-devops-traceability-tracking-pipeline-driven/ba-p/4373304</link>
+      <pubDate>Tue, 04 Feb 2025 05:10:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enhancing-azure-devops-traceability-tracking-pipeline-driven/ba-p/4373304</guid>
+      <description>Introduction
+One of the key challenges in managing cloud infrastructure with Azure DevOps is maintaining clear traceability between pipeline executions and modifications to Azure resources. Unlike some integrated CI/CD platforms, Azure does not natively link resource changes to specific DevOps pipelines, making it difficult to track which deployment introduced a particular modification.
+To address this gap, two approaches have been presented that improve traceability and accountability:
+
+Proactive tagging of resources with pipeline metadata during deployment.
+Analyzing Azure Activity Logs to t...</description>
     </item>
   </channel>
 </rss>
