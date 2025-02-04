@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Feb 2025 17:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 18:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud Customer Newsletter</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4373483</link>
+      <pubDate>Tue, 04 Feb 2025 17:06:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4373483</guid>
+      <description>What's new in Defender for Cloud?
+Baseline Linux feature has been updated to improve its accuracy and coverage. For more information, please visit this page.&#160;&#160;
+Container vulnerability assessment enhancements
+Containers Vulnerability Assessment scanning, powered by MDVM, has the following updates: Support for PHP, Ruby and Rust programming languages, extended Java Language support including exploded JARs and improved memory usage.
+For more details, please refer to our announcement.&#160;
+Blogs of the month
+In January, our team published the following blog posts we would like to share:
+
+Consideration...</description>
+    </item>
   </channel>
 </rss>
