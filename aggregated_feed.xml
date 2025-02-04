@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Feb 2025 09:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 10:08:00 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the Unified Device Timeline Experience in Microsoft SIEM + XDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-unified-device-timeline-experience-in-microsoft/ba-p/4372047</link>
+      <pubDate>Tue, 04 Feb 2025 09:14:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-unified-device-timeline-experience-in-microsoft/ba-p/4372047</guid>
+      <description>We are thrilled to announce the launch of the&#160;Unified Device Timeline, a feature that integrates device activity timelines from Microsoft Sentinel and Defender XDR into a single, cohesive view. This feature streamlines security investigations by enabling analysts to access all relevant device activities in one place, reducing the need to switch between platforms and accelerating incident response times.
+By bringing these activities together, we are delivering a more powerful experience, empowering customers to investigate and respond to threats with unmatched context and efficiency.
+The Vision...</description>
+    </item>
   </channel>
 </rss>
