@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Feb 2025 02:07:42 GMT</lastBuildDate>
-    <item>
-      <title>Block malicious command lines with Microsoft Defender for Endpoint</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/block-malicious-command-lines-with-microsoft-defender-for/ba-p/4373943</link>
-      <pubDate>Wed, 05 Feb 2025 01:28:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/block-malicious-command-lines-with-microsoft-defender-for/ba-p/4373943</guid>
-      <description>The modern threat landscape is rapidly evolving, with new attack strategies being employed at greater frequency and volume than we have seen in the past. One such tactic we have recently observed across many advanced malicious attacks is the use of harmful command lines within the attack chain to bypass file-based detections. A common technique involves using legitimate programs like&#8239;powershell.exe&#8239;or cmd.exe&#8239;to execute malicious actions, such as downloading and running a payload or initiating a harmful script. Today we will discuss how Microsoft Defender for Endpoint protects against these th...</description>
-    </item>
+    <lastBuildDate>Wed, 05 Feb 2025 03:11:19 GMT</lastBuildDate>
   </channel>
 </rss>
