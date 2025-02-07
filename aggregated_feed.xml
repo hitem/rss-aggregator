@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 07 Feb 2025 18:09:52 GMT</lastBuildDate>
-    <item>
-      <title>Unveiling Kubernetes lateral movement and attack paths with Microsoft Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unveiling-kubernetes-lateral-movement-and-attack-paths-with/ba-p/4374958</link>
-      <pubDate>Fri, 07 Feb 2025 17:56:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unveiling-kubernetes-lateral-movement-and-attack-paths-with/ba-p/4374958</guid>
-      <description>The cloud security landscape is constantly evolving and securing containerized environments including Kubernetes is a critical piece of the puzzle.&#160;
-Kubernetes environments provide exceptional flexibility and scalability, which are key advantages for modern infrastructure. However, the complex and intricate permissions structure of Kubernetes, combined with the dynamic, ephemeral nature of containers, introduces significant security challenges. Misconfigurations in permissions can easily go unnoticed, creating opportunities for unauthorized access or privilege escalation. The rapid lifecycle o...</description>
-    </item>
+    <lastBuildDate>Fri, 07 Feb 2025 19:00:39 GMT</lastBuildDate>
   </channel>
 </rss>
