@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 08 Feb 2025 00:34:03 GMT</lastBuildDate>
-    <item>
-      <title>A Security Copilot Customer&#8217;s Guide to MDTI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/a-security-copilot-customer-s-guide-to-mdti/ba-p/4103238</link>
-      <pubDate>Sat, 08 Feb 2025 00:32:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/a-security-copilot-customer-s-guide-to-mdti/ba-p/4103238</guid>
-      <description>With just one Security Compute Unit (SCU), Security Copilot customers have unlimited access to the powerful operational, tactical, and strategic threat intelligence in Microsoft Defender Threat Intelligence (MDTI), a $50k per seat value, at no extra cost. This compendium of high-fidelity intelligence developed by Microsoft's team of more than 10,000 multidisciplinary security experts and informed by over 78 trillion security signals enables teams to unmask and neutralize adversaries quickly and efficiently.&#160;&#160;
-&#160;
-In this blog, we will review what MDTI is, what you get as a Security Copilot custo...</description>
-    </item>
+    <lastBuildDate>Sat, 08 Feb 2025 02:04:39 GMT</lastBuildDate>
   </channel>
 </rss>
