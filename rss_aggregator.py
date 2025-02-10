@@ -86,10 +86,13 @@ async def process_feeds():
             if feed and feed.entries:
                 all_entries.extend(feed.entries)
 
-        # Remove duplicates and already processed links
-        unique_entries = [
-            entry for entry in all_entries if hasattr(entry, "link") and entry.link not in processed_links
-        ]
+        # Remove duplicates from the current run and filter out already processed links
+        deduped_entries = {}
+        for entry in all_entries:
+            if hasattr(entry, "link") and entry.link not in processed_links:
+                if entry.link not in deduped_entries:
+                    deduped_entries[entry.link] = entry
+        unique_entries = list(deduped_entries.values())
 
         # Filter recent entries using published_parsed
         recent_entries = []
