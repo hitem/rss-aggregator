@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Feb 2025 05:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 06:10:12 GMT</lastBuildDate>
+    <item>
+      <title>End-to-End automation of Onboarding a Virtual Mahine to a Defender for servers.</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/end-to-end-automation-of-onboarding-a-virtual-mahine-to-a/ba-p/4376325</link>
+      <pubDate>Tue, 11 Feb 2025 05:57:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/end-to-end-automation-of-onboarding-a-virtual-mahine-to-a/ba-p/4376325</guid>
+      <description>Overview:
+The Defender for Servers plan in&#160;Microsoft Defender for Cloud&#160;reduces security risk and exposure for machines in your organization by providing actionable recommendations to improve and remediate security posture. Defender for Servers also helps to protect machines against real-time security threats and attacks.
+Defender for servers Plan1 focuses on the EDR capabilities provided by the Defender for Endpoint integration. &#160;Microsoft Defender for Endpoint (MDE) is an enterprise endpoint security platform designed to help enterprise networks prevent, detect, investigate, and respond to a...</description>
+    </item>
   </channel>
 </rss>
