@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Feb 2025 08:10:11 GMT</lastBuildDate>
-    <item>
-      <title>Importing AWS Security Hub Findings into Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/importing-aws-security-hub-findings-into-microsoft-sentinel/ba-p/4376361</link>
-      <pubDate>Tue, 11 Feb 2025 07:18:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/importing-aws-security-hub-findings-into-microsoft-sentinel/ba-p/4376361</guid>
-      <description>This blog explores how to ingest AWS Security Hub findings into Microsoft Sentinel using native solutions. Although a GitHub reference for deploying an Azure Function-based solution is included, my experience assisting a customer with its implementation provided valuable insights. Instead of step-by-step instructions, I&#8217;ll provide a high-level overview and guidance to navigate potential challenges. Let&#8217;s dive in!&#160;
-Ingest AWS Security Hub Events to Azure Sentinel&#160;
-https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/AWS-SecurityHubFindings/README.md#ingest-aws-security-hub-events-...</description>
-    </item>
+    <lastBuildDate>Tue, 11 Feb 2025 09:07:49 GMT</lastBuildDate>
   </channel>
 </rss>
