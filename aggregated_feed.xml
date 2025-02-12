@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 13:14:59 GMT</lastBuildDate>
+    <item>
+      <title>Deploying Microsoft Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-identity/ba-p/4363501</link>
+      <pubDate>Wed, 12 Feb 2025 12:23:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-identity/ba-p/4363501</guid>
+      <description>When Raven and I are out in my backyard, she's always on high alert, her keen senses picking up on every subtle change in her environment. Just like Raven, Microsoft Defender for Identity (MDI) is constantly on the lookout, sniffing out potential threats to your network. Whether it's an unusual login attempt or a suspicious movement within your system, MDI is there to detect and alert you to any signs of trouble.
+Raven's ability to sense danger is akin to MDI's advanced threat detection capabilities. She can differentiate between a harmless passerby and a potential predator, much like how MDI ...</description>
+    </item>
   </channel>
 </rss>
