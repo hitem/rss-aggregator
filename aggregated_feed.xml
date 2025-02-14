@@ -3,16 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Feb 2025 16:08:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 17:00:55 GMT</lastBuildDate>
     <item>
-      <title>Quickly deploy Azure Arc Enabled Data-Services on Openshift</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quickly-deploy-azure-arc-enabled-data-services-on-openshift/ba-p/4351270</link>
-      <pubDate>Fri, 14 Feb 2025 15:46:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quickly-deploy-azure-arc-enabled-data-services-on-openshift/ba-p/4351270</guid>
-      <description>Openshift
-In case you didn't know, OpenShift is a container management platform developed by Red Hat and based on Kubernetes. It provides everything you need to deploy, manage, and scale containerized applications. With its advanced tools and integrated environment, OpenShift simplifies application management, automates tasks, and ensures secure development and production environments.
-Here, we will explore the deployment on an OpenShift cluster (yes, because we did this with one of my amazing clients); however, this would work on any CNCF-certified orchestrator.
-We begin by deploying a cluste...</description>
+      <title>Introducing Threat Intelligence Ingestion Rules</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-threat-intelligence-ingestion-rules/ba-p/4379019</link>
+      <pubDate>Fri, 14 Feb 2025 16:39:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-threat-intelligence-ingestion-rules/ba-p/4379019</guid>
+      <description>Microsoft Sentinel just rolled out a powerful new public preview feature: Ingestion Rules. This feature lets you fine-tune your threat intelligence (TI) feeds before they are ingested to Microsoft Sentinel. You can now set custom conditions and actions on Indicators of Compromise (IoCs), Threat Actors, Attack Patterns, Identities, and their Relationships.
+Use cases include:
+
+Filter Out False Positives: Suppress IoCs from feeds known to generate frequent false positives, ensuring only relevant intel reaches your analysts.
+Extending IoC validity periods for feeds that need longer lifespans.
+Tagg...</description>
     </item>
   </channel>
 </rss>
