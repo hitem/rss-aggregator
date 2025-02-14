@@ -3,18 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Feb 2025 17:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 18:09:36 GMT</lastBuildDate>
     <item>
-      <title>Introducing Threat Intelligence Ingestion Rules</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-threat-intelligence-ingestion-rules/ba-p/4379019</link>
-      <pubDate>Fri, 14 Feb 2025 16:39:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-threat-intelligence-ingestion-rules/ba-p/4379019</guid>
-      <description>Microsoft Sentinel just rolled out a powerful new public preview feature: Ingestion Rules. This feature lets you fine-tune your threat intelligence (TI) feeds before they are ingested to Microsoft Sentinel. You can now set custom conditions and actions on Indicators of Compromise (IoCs), Threat Actors, Attack Patterns, Identities, and their Relationships.
-Use cases include:
-
-Filter Out False Positives: Suppress IoCs from feeds known to generate frequent false positives, ensuring only relevant intel reaches your analysts.
-Extending IoC validity periods for feeds that need longer lifespans.
-Tagg...</description>
+      <title>Integrating Fluent Bit with Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-fluent-bit-with-microsoft-sentinel/ba-p/4377725</link>
+      <pubDate>Fri, 14 Feb 2025 18:06:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-fluent-bit-with-microsoft-sentinel/ba-p/4377725</guid>
+      <description>This guide will walk you through the steps required to integrate Fluent Bit with Microsoft Sentinel. Beware that in this article, we assume you already have a Sentinel workspace, a Data Collection Endpoint and a Data Collection Rule, an Entra ID application and finally a Fluent Bit installation.&#160;
+As mentioned above, log ingestion API supports ingestion both in custom tables as built-in tables, like CommonSecurityLog, Syslog, WindowsEvent and more.&#160; In case you need to check which tables are supported please the following article: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-...</description>
     </item>
   </channel>
 </rss>
