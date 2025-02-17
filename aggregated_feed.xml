@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Feb 2025 07:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 08:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Seamless Security: Smartcard Logon from Entra-Only Machines to domain-joined Servers or AVDs</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-security-smartcard-logon-from-entra-only-machines-to/ba-p/4381789</link>
+      <pubDate>Mon, 17 Feb 2025 08:02:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-security-smartcard-logon-from-entra-only-machines-to/ba-p/4381789</guid>
+      <description>There&#8217;s still life in the old dog yet: Even though many consider smart cards as obsolete, with MFA phishing becoming an increasing significant threat, this authentication method is experiencing a renaissance. In other scenarios, smart cards are regulatory requirements or simply a phishing-resistant MFA method which has already been deployed to every user in the organization and only needs to be extended to the cloud.&#160;
+However, the only method of authentication towards Active Directory using a smart card certificate is via the Kerberos PKINITextension (which obviously requires Kerberos authenti...</description>
+    </item>
   </channel>
 </rss>
