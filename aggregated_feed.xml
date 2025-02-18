@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Feb 2025 21:06:35 GMT</lastBuildDate>
-    <item>
-      <title>Fortify Your Azure Firewall: Custom Public IP Configuration on Secured Virtual Hub Deployments</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/fortify-your-azure-firewall-custom-public-ip-configuration-on/ba-p/4382646</link>
-      <pubDate>Tue, 18 Feb 2025 20:53:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/fortify-your-azure-firewall-custom-public-ip-configuration-on/ba-p/4382646</guid>
-      <description>Written in collaboration with davidfrazee and gusmodena.
-&#160;
-In today's cloud-centric world, managing network security is more critical than ever. Azure Firewall has always been a robust solution for protecting your virtual networks, but recent updates have made it even more powerful. One of the latest enhancements allows you to configure which public IP addresses are used on your Azure Firewall in an&#160;Azure Virtual WAN Secured Virtual Hub, rather than having Azure automatically assign one for you. This new feature provides greater control over your network's public-facing IPs, enabling you to al...</description>
-    </item>
+    <lastBuildDate>Tue, 18 Feb 2025 22:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
