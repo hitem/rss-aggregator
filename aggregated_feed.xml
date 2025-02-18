@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Feb 2025 18:10:16 GMT</lastBuildDate>
-    <item>
-      <title>Protecting Azure AI Workloads using Threat Protection for AI in Defender for Cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-azure-ai-workloads-using-threat-protection-for-ai-in/ba-p/4378474</link>
-      <pubDate>Tue, 18 Feb 2025 17:50:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-azure-ai-workloads-using-threat-protection-for-ai-in/ba-p/4378474</guid>
-      <description>Understanding Jailbreak attacks
-Evasion attacks involve subtly modifying inputs (images, audio files, documents, etc.) to mislead models at inference time, making them a stealthy and effective means of bypassing inherent security controls in the AI Service.
-Jailbreak can be considered a type of evasion attack. The attack involves crafting inputs that cause the AI model to bypass its safety mechanisms and produce unintended or harmful outputs.
-Attackers can use techniques like crescendo to bypass security filters for example creating a recipe for Molotov Cocktail. Due to the nature of working w...</description>
-    </item>
+    <lastBuildDate>Tue, 18 Feb 2025 19:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
