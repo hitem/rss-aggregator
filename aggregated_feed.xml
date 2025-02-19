@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Feb 2025 11:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 12:13:08 GMT</lastBuildDate>
+    <item>
+      <title>New and enhanced multicloud regulatory compliance standards in Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-and-enhanced-multicloud-regulatory-compliance-standards-in/ba-p/4382616</link>
+      <pubDate>Wed, 19 Feb 2025 12:00:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-and-enhanced-multicloud-regulatory-compliance-standards-in/ba-p/4382616</guid>
+      <description>Security compliance across multicloud environments is challenging due to the diversity and complexity of platforms. Each cloud provider&#8212;whether AWS, Azure, Google Cloud, or others&#8212;has its own security protocols, configurations, and compliance requirements. This variation can lead to discrepancies and gaps in security posture, as what works in one cloud environment may not be applied seamlessly in another. Managing multiple compliance frameworks simultaneously adds complexity, especially when each provider has different methods for meeting these standards. &#160;
+Without unified compliance visibilit...</description>
+    </item>
   </channel>
 </rss>
