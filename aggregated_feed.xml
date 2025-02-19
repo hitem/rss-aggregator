@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 19 Feb 2025 06:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 07:07:35 GMT</lastBuildDate>
+    <item>
+      <title>Protecting Workload Identities Using Conditional Access Policy in Entra</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-workload-identities-using-conditional-access-policy/ba-p/4382773</link>
+      <pubDate>Wed, 19 Feb 2025 06:15:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-workload-identities-using-conditional-access-policy/ba-p/4382773</guid>
+      <description>Hello Everyone, organizations around the world are implementing every possible measure to secure identities, ensuring that no user account bypasses additional checks like MFA or risk associated during sign-in. Microsoft Entra ID provides robust solutions to protect user identities. However, in my discussions with various organizations, I often find that many are unaware of the significant risks posed by unprotected workload identities.
+&#160;
+Workload identities are identities used by applications or services to access the resources they need in Azure. These include service principals, managed iden...</description>
+    </item>
   </channel>
 </rss>
