@@ -3,32 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 20 Feb 2025 16:08:55 GMT</lastBuildDate>
-    <item>
-      <title>Understanding Windows Server 2012 Extended Security Update Options with Azure Arc</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-windows-server-2012-extended-security-update/ba-p/4377142</link>
-      <pubDate>Thu, 20 Feb 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-windows-server-2012-extended-security-update/ba-p/4377142</guid>
-      <description>&#160;
-In this article, we will explore the various options of ESU licensing for Windows Server 2012 and demonstrate how visual aids can enhance your understanding and streamline the selection process.&#160;
-Each section has a link back to the license provisioning guidelines for example scenarios.&#160;&#160;
-&#160;
-
-Scenario 1 - Link &#160;
-
-Scenario 2 - Link&#160;
-
-Scenario 3 - Link&#160;
-
-Scenario 4 - Link&#160;
-
-Scenario 7 - Link&#160;
-
-Scenario 8 - Link&#160;
-
-Dev/Test - Link&#160;
-
-In conclusion, it's crucial to understand the specific needs of your organization and choose the licensing option that best fits your scenario. By leveraging these dif...</description>
-    </item>
+    <lastBuildDate>Thu, 20 Feb 2025 17:05:47 GMT</lastBuildDate>
   </channel>
 </rss>
