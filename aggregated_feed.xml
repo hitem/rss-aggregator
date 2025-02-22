@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 22 Feb 2025 06:09:26 GMT</lastBuildDate>
-    <item>
-      <title>Supporting Users with Remote Help on Personal Devices: Unenrolled Device Scenario</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/supporting-users-with-remote-help-on-personal-devices-unenrolled/ba-p/4384301</link>
-      <pubDate>Sat, 22 Feb 2025 06:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/supporting-users-with-remote-help-on-personal-devices-unenrolled/ba-p/4384301</guid>
-      <description>There are some scenarios where a user is using their corporate managed device and needs assistance. That is covered in a previous blog pos titled Enabling Remote Help and Supporting Users with Intune | Microsoft Community Hub. However, it is possible that some of these users may need assistance while working on their personal devices. Which is also possible by using Microsoft Intune and Remote Help.
-This blog will focus on what is needed in Intune configuration to support unenrolled devices with Remote Help capability, and possible experiences on the helper side with different configurations i...</description>
-    </item>
+    <lastBuildDate>Sat, 22 Feb 2025 07:03:56 GMT</lastBuildDate>
   </channel>
 </rss>
