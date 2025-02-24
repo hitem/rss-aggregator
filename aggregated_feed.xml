@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Feb 2025 15:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 16:09:21 GMT</lastBuildDate>
+    <item>
+      <title>Azure Update Manager &#8211; Patching .NET Core</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-update-manager-patching-net-core/ba-p/4377179</link>
+      <pubDate>Mon, 24 Feb 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-update-manager-patching-net-core/ba-p/4377179</guid>
+      <description>&#160;
+This blog will share how to configure an Azure Virtual Machine or an Azure Arc-enabled virtual machine to utilize Azure Update Manager for patching .NET Core security updates.&#160;
+There are two different changes that need to be made to the server to allow .NET Core to receive updates with Azure Update Manager:&#160;
+Step 1: Create a registry entry for .NET core updates&#160;
+Step 2: Change the Windows Server to receive other Microsoft Updates for patching.&#160;&#160;
+The registry change allows .NET Core to become available to Automatic Updates.&#160;
+.NET Automatic Updates for Server Operating Systems - .NET Blog (mic...</description>
+    </item>
   </channel>
 </rss>
