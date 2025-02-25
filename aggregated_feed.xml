@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Feb 2025 00:36:29 GMT</lastBuildDate>
-    <item>
-      <title>Sentinel Notebook: Guided Hunting &#8211; Anomalous Process Network Connections</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-notebook-guided-hunting-anomalous-process-network/ba-p/4385340</link>
-      <pubDate>Mon, 24 Feb 2025 23:48:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-notebook-guided-hunting-anomalous-process-network/ba-p/4385340</guid>
-      <description>Overview:
-This Sentinel notebook was created to help identify anomalous processes that have successful network connections in your environment. The notebook uses the IsolationForest algorithm from scikit learn to identify these anomalies. The notebook authenticates to your Sentinel instance using msticpyconfig.yaml, and environment variables. It is important to make sure these are configured before running this notebook. After the anomalies are identified, there are further threat hunting steps provided to help determine if the anomalies could be malicious.&#160;
-Microsoft Azure GitHub: https://git...</description>
-    </item>
+    <lastBuildDate>Tue, 25 Feb 2025 02:11:58 GMT</lastBuildDate>
   </channel>
 </rss>
