@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Feb 2025 13:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 14:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Strengthening Cloud Compliance and Governance with Microsoft Defender CSPM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/strengthening-cloud-compliance-and-governance-with-microsoft/ba-p/4385215</link>
+      <pubDate>Tue, 25 Feb 2025 13:33:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/strengthening-cloud-compliance-and-governance-with-microsoft/ba-p/4385215</guid>
+      <description>Introduction
+This is the third article in our blog series, &#8220;Strategy to Execution: Operationalizing Microsoft Defender CSPM.&#8221; If you&#8217;re new to the series, or want a more holistic view of strategic planning, start with our&#160;main overview article and then explore &#8220;Considerations for Risk Identification and Prioritization in Defender for Cloud&#8221; for a deeper dive into proactive risk management.
+Cloud security compliance and governance are no longer optional. Organizations operating in multi-cloud environments such as Azure, AWS, and GCP face a rising tide of complex regulations (like HIPAA, PCI-DSS...</description>
+    </item>
   </channel>
 </rss>
