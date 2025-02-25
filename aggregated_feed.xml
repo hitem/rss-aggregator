@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Feb 2025 09:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 10:08:12 GMT</lastBuildDate>
+    <item>
+      <title>Comprehensive Guide to Monitoring Azure WAF Metrics and Logs</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/comprehensive-guide-to-monitoring-azure-waf-metrics-and-logs/ba-p/4378260</link>
+      <pubDate>Tue, 25 Feb 2025 09:22:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/comprehensive-guide-to-monitoring-azure-waf-metrics-and-logs/ba-p/4378260</guid>
+      <description>In today&#8217;s digital landscape, web applications are constantly under threat from various types of attacks such as SQL injection, cross-site scripting (XSS), and distributed denial-of-service (DDoS) attacks. Azure Web Application Firewall provides robust mechanisms to protect your applications and services against such threats. In this blog post, we&#8217;ll explore how to configure and monitor Azure WAF metrics and logs for both Application Gateway v2 WAF and Azure Front Door WAF and demonstrate how to fully utilize the available metrics/logs to monitor your web applications for potential threats.
+&#160;
+...</description>
+    </item>
   </channel>
 </rss>
