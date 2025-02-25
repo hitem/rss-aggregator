@@ -2,8 +2,8 @@ name: RSS & HTML Aggregator
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Run every 1 hour
-  workflow_dispatch:  # Allow manual triggering
+    - cron: "0 */1 * * *" # Run every hour
+  workflow_dispatch:
 
 jobs:
   aggregate_rss_feeds:
@@ -12,55 +12,58 @@ jobs:
     permissions:
       contents: write
       pages: write
-      id-token: write 
+      id-token: write
 
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      - name: Pull latest changes
+        run: git pull origin main
 
-    - name: Cache dependencies
-      uses: actions/cache@v4
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
-    - name: Run RSS aggregator script
-      run: |
-        python rss_aggregator.py
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Update processed links file
-      run: |
-        awk -F ' ' -v d="$(date -u --date="365 days ago" +%Y-%m-%dT%H:%M:%S)" '$1 > d' processed_links.txt > temp_processed_links.txt
-        sort -u temp_processed_links.txt > processed_links.txt
-        rm temp_processed_links.txt
+      - name: Run RSS aggregator script
+        run: python rss_aggregator.py
 
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: '.'
+      - name: Update processed links file
+        run: |
+          awk -F ' ' -v d="$(date -u --date="365 days ago" +%Y-%m-%dT%H:%M:%S)" '$1 > d' processed_links.txt > temp_processed_links.txt
+          sort -u temp_processed_links.txt > processed_links.txt
+          rm temp_processed_links.txt
 
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "."
+          message: "feat: RSS feed update"
+          push: true
 
-    - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9
-      with:
-        add: '.'
-        message: 'feat: RSS feed update'
-        push: true
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
