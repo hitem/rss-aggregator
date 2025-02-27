@@ -581,3 +581,4 @@
 2025-02-24T23:48:18 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-notebook-guided-hunting-anomalous-process-network/ba-p/4385340
 2025-02-25T09:22:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/comprehensive-guide-to-monitoring-azure-waf-metrics-and-logs/ba-p/4378260
 2025-02-25T13:33:31 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/strengthening-cloud-compliance-and-governance-with-microsoft/ba-p/4385215
+2025-02-27T08:14:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-mde-extension-status-checks-with-powershell/ba-p/4386589
