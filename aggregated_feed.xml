@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Feb 2025 09:08:13 GMT</lastBuildDate>
-    <item>
-      <title>Automate MDE Extension Status Checks with PowerShell</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-mde-extension-status-checks-with-powershell/ba-p/4386589</link>
-      <pubDate>Thu, 27 Feb 2025 08:14:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-mde-extension-status-checks-with-powershell/ba-p/4386589</guid>
-      <description>In this blog, I will dive into an automated approach for efficiently retrieving the installation status of MDE extensions (MDE.Windows or MDE.Linux) on Azure VMs safeguarded by Defender for Servers (P1 or P2) plans. This method not only streamlines the monitoring process but also ensures that your critical endpoints are continuously protected with the latest Defender capabilities. By leveraging automation, you can quickly identify any discrepancies or gaps in extension deployment, allowing for swift remediation and fortifying your organization&#8217;s security posture. Stay tuned as we explore how t...</description>
-    </item>
+    <lastBuildDate>Thu, 27 Feb 2025 10:08:23 GMT</lastBuildDate>
   </channel>
 </rss>
