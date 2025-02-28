@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Feb 2025 20:08:14 GMT</lastBuildDate>
-    <item>
-      <title>Protecting the Public IPs of Secured Virtual Hub Azure Firewalls against DDoS Attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/protecting-the-public-ips-of-secured-virtual-hub-azure-firewalls/ba-p/4387435</link>
-      <pubDate>Fri, 28 Feb 2025 19:35:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/protecting-the-public-ips-of-secured-virtual-hub-azure-firewalls/ba-p/4387435</guid>
-      <description>As discussed previously in the blog post &#8220;Fortify Your Azure Firewall: Custom Public IP Configuration on Secured Virtual Hub Deployments&#8221;, in the current cloud-focused environment, the management of network security has become increasingly important. Azure Firewall has long been an effective solution for securing virtual networks and virtual hubs, but recent updates have further enhanced its capabilities. The ability to specify your own Azure public IP to be used by your Azure Firewall within an Azure Virtual WAN Secured Virtual Hub, rather than relying on Azure to automatically assign one is ...</description>
-    </item>
+    <lastBuildDate>Fri, 28 Feb 2025 21:06:33 GMT</lastBuildDate>
   </channel>
 </rss>
