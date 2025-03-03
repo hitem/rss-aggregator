@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Mar 2025 16:09:40 GMT</lastBuildDate>
-    <item>
-      <title>Converting Active Directory Groups to Cloud-Only with ADGMS</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/converting-active-directory-groups-to-cloud-only-with-adgms/ba-p/4387645</link>
-      <pubDate>Mon, 03 Mar 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/converting-active-directory-groups-to-cloud-only-with-adgms/ba-p/4387645</guid>
-      <description>If you find yourself creating and maintaining on-premises groups just so they will synchronize to your Azure tenant, it&#8217;s time to free yourself from this time-consuming and potentially risky outdated practice by converting them to cloud only.&#160;&#160;
-Converting your groups to cloud-only will eliminate your dependence on legacy Active Directory Domain Services environments and enable you to delegate their management without resorting to custom Active Directory permissions, outdated management interfaces and even VPN or remote access solutions if your administrators are a part of today&#8217;s remote workfo...</description>
-    </item>
-    <item>
-      <title>Everything Old Is New Again: Hardening the Trust Boundary of VBS Enclaves</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/everything-old-is-new-again-hardening-the-trust-boundary-of-vbs/ba-p/4386961</link>
-      <pubDate>Mon, 03 Mar 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/everything-old-is-new-again-hardening-the-trust-boundary-of-vbs/ba-p/4386961</guid>
-      <description>Virtualization-Based Security (VBS) enclaves use the hypervisor&#8217;s virtual trust levels (VTLs) to isolate regions of memory and code execution within a user-mode process. This provides a powerful solution for trusted execution environments (TEE) that protects sensitive data, like encryption keys, from even malicious administrators. However, this also introduces a new trust boundary: one between the VTL1 enclave and the VTL0 host. This complicates things!&#160;
-One of the foundational premises of evaluating if data is untrusted is whether that data crosses a trust boundary. Common examples of crossin...</description>
-    </item>
+    <lastBuildDate>Mon, 03 Mar 2025 17:06:52 GMT</lastBuildDate>
   </channel>
 </rss>
