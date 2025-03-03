@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 02 Mar 2025 23:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 00:38:01 GMT</lastBuildDate>
+    <item>
+      <title>Entra ID SAML Federation with an External Identity Provider</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-id-saml-federation-with-an-external-identity-provider/ba-p/4387780</link>
+      <pubDate>Sun, 02 Mar 2025 23:47:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-id-saml-federation-with-an-external-identity-provider/ba-p/4387780</guid>
+      <description>SAML Federation of Entra ID with an External Identity Provider
+&#160;
+In today&#8217;s interconnected world, organizations frequently collaborate with external partners, vendors, and customers while ensuring secure access to their resources. Microsoft Entra ID provides a robust solution for secure authentication and authorization across organizational boundaries. One of the key features enabling this is SAML Federation, which allows Entra ID to integrate with external identity providers (IdPs) using SAML 2.0 or WS-Federation protocols.
+&#160;
+In this blog, we&#8217;ll explore how to set up&#160;SAML Federation&#160;between E...</description>
+    </item>
   </channel>
 </rss>
