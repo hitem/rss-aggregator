@@ -10,11 +10,12 @@ import calendar
 import os
 from bs4 import BeautifulSoup
 
-# Pull latest changes to ensure processed_links.txt is current.
+# Ensure our local copy is exactly in sync with origin/main.
 try:
-    subprocess.run(["git", "pull", "origin", "main"], check=True)
+    subprocess.run(["git", "fetch", "origin"], check=True)
+    subprocess.run(["git", "reset", "--hard", "origin/main"], check=True)
 except Exception as e:
-    print(f"Error during git pull: {e}")
+    print(f"Error during git reset: {e}")
 
 # Set to True for appending, False for overwriting
 append_mode = False
@@ -56,6 +57,8 @@ except FileNotFoundError:
     processed_links = set()
 
 # Asynchronous function to fetch RSS feed content
+
+
 async def fetch_rss_feed(url, session):
     try:
         async with session.get(url, timeout=10) as response:
@@ -70,11 +73,15 @@ async def fetch_rss_feed(url, session):
         return None
 
 # Convert struct_time to datetime with UTC timezone
+
+
 def struct_time_to_datetime(t):
     timestamp = calendar.timegm(t)
     return datetime.datetime.utcfromtimestamp(timestamp).replace(tzinfo=datetime.timezone.utc)
 
 # Main asynchronous function to process RSS feeds
+
+
 async def process_feeds():
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_rss_feed(url, session) for url in rss_feed_urls]
@@ -97,7 +104,8 @@ async def process_feeds():
         recent_entries = []
         for entry in unique_entries:
             if hasattr(entry, 'published_parsed'):
-                entry_datetime = struct_time_to_datetime(entry.published_parsed)
+                entry_datetime = struct_time_to_datetime(
+                    entry.published_parsed)
                 if entry_datetime >= recent_time_threshold:
                     recent_entries.append(entry)
 
@@ -107,10 +115,11 @@ async def process_feeds():
 
         # Update the aggregated XML feed with the new entries
         update_feed(sorted_entries)
-
         return sorted_entries
 
 # Function to update or create the XML feed
+
+
 def update_feed(sorted_entries):
     now = datetime.datetime.now(datetime.timezone.utc)
 
@@ -124,8 +133,10 @@ def update_feed(sorted_entries):
         root = etree.Element("rss", version="2.0")
         channel = etree.SubElement(root, "channel")
         etree.SubElement(channel, "title").text = "RSS Aggregator Feed"
-        etree.SubElement(channel, "link").text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
-        etree.SubElement(channel, "description").text = "An aggregated feed of Microsoft blogs"
+        etree.SubElement(
+            channel, "link").text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
+        etree.SubElement(
+            channel, "description").text = "An aggregated feed of Microsoft blogs"
 
     # Update lastBuildDate element
     last_build_date = channel.find("lastBuildDate")
@@ -141,10 +152,13 @@ def update_feed(sorted_entries):
         etree.SubElement(item, "title").text = entry.title
         etree.SubElement(item, "link").text = entry.link
         etree.SubElement(item, "pubDate").text = entry.published
-        etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(entry, "id") else entry.link
-        soup = BeautifulSoup(entry.summary, "lxml") if hasattr(entry, "summary") else None
+        etree.SubElement(item, "guid", isPermaLink="false").text = entry.id if hasattr(
+            entry, "id") else entry.link
+        soup = BeautifulSoup(entry.summary, "lxml") if hasattr(
+            entry, "summary") else None
         summary_text = soup.get_text() if soup else "No summary available."
-        limited_summary = summary_text[:600] + "..." if len(summary_text) > 350 else summary_text
+        limited_summary = summary_text[:600] + \
+            "..." if len(summary_text) > 350 else summary_text
         etree.SubElement(item, "description").text = limited_summary
 
     # Write the updated feed to file
@@ -155,8 +169,10 @@ def update_feed(sorted_entries):
     with open(processed_links_file, "a") as f:
         for entry in sorted_entries:
             timestamp = datetime.datetime.strptime(
-                entry.published, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%dT%H:%M:%S")
+                entry.published, "%a, %d %b %Y %H:%M:%S %Z"
+            ).strftime("%Y-%m-%dT%H:%M:%S")
             f.write(f"{timestamp} {entry.link}\n")
+
 
 # Run the feed processing
 sorted_entries = asyncio.run(process_feeds())
