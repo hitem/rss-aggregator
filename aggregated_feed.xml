@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Mar 2025 18:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 19:00:56 GMT</lastBuildDate>
+    <item>
+      <title>IMS Efficient Migration Methods</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/ims-efficient-migration-methods/ba-p/4387417</link>
+      <pubDate>Mon, 03 Mar 2025 18:33:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/ims-efficient-migration-methods/ba-p/4387417</guid>
+      <description>Efficient IMS Migration Methods
+The Active Directory Migration Service (ADMS), recently renamed Identity Migration Service (IMS), offers the migration of users and workstations across domains and forests. It offers a variety of migration methods that cater to different organizational needs, enhancing the efficiency and flexibility of the migration process.
+Here's an overview of the functionalities and usage modes of IMS:&#160;IMS provides various migration methods, including a unique self-service option with two types: one for corporate network users and another for remote or VPN users. Additionall...</description>
+    </item>
   </channel>
 </rss>
