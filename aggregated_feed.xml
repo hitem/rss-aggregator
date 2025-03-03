@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Mar 2025 07:08:50 GMT</lastBuildDate>
-    <item>
-      <title>Automate enabling Defender for servers P1 at resource group or individual machines using Tags.</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-enabling-defender-for-servers-p1-at-resource-group-or/ba-p/4387868</link>
-      <pubDate>Mon, 03 Mar 2025 06:43:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-enabling-defender-for-servers-p1-at-resource-group-or/ba-p/4387868</guid>
-      <description>By default, Defender for Servers is enabled as a subscription-wide setting, covering all Azure VMs, Azure Arc-enabled Servers and VMSS nodes at the same time. However, there are scenarios in which it makes sense only enable Defender for Servers Plan 1 on a subset of machines in a subscription.
-The document covers below steps. You can use one of the three options to enable defender plan selectively on individual VMs or Resource group. Before executing the option, you can use step #4 or #5 to add VM tags using script.
-
-Option 1: Enable Plan 1 with a power shell script
-Option 2: Enable Plan 1 wit...</description>
-    </item>
+    <lastBuildDate>Mon, 03 Mar 2025 15:08:13 GMT</lastBuildDate>
   </channel>
 </rss>
