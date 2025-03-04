@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Mar 2025 12:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 13:16:39 GMT</lastBuildDate>
+    <item>
+      <title>Secure containers software supply chain across the SDLC</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-containers-software-supply-chain-across-the-sdlc/ba-p/4384925</link>
+      <pubDate>Tue, 04 Mar 2025 13:03:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-containers-software-supply-chain-across-the-sdlc/ba-p/4384925</guid>
+      <description>In today&#8217;s digital landscape, containerization is essential for modern application development, but it also expands the attack surface with risks like vulnerabilities in base images, misconfigurations, and malicious code injections.&#160;
+Securing containers across their lifecycle is critical. Microsoft Defender for Cloud delivers end-to-end protection, evaluating threats at every stage&#8212;from development to runtime. Recent advancements further strengthen container security, making it a vital solution for safeguarding applications throughout the Software development lifecycle (SDLC).&#160;
+Container softw...</description>
+    </item>
   </channel>
 </rss>
