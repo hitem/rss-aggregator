@@ -3,39 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Mar 2025 20:07:58 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud Customer Newsletter</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4389023</link>
-      <pubDate>Tue, 04 Mar 2025 19:51:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4389023</guid>
-      <description>What's new in Defender for Cloud?
-On-demand malware scanning in Defender for Storage is now in GA! This feature also supports blobs up to 50 GB in size (previously limited to 2GB). See this page for more info.&#160;&#160;
-31 new and enhanced Multicloud regulatory standards
-We&#8217;ve published enhanced and expanded support of over 31 security and regulatory frameworks in Defender for Cloud across Azure, AWS &amp; GCP. For more details, please refer to our documentation.&#160;
-Blogs of the month
-In February, our team published the following blog posts we would like to share:
-
-Unveiling Kubernetes lateral movement and ...</description>
-    </item>
-    <item>
-      <title>Built-in report button is available in Microsoft Outlook across platforms</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/built-in-report-button-is-available-in-microsoft-outlook-across/ba-p/4388434</link>
-      <pubDate>Tue, 04 Mar 2025 19:10:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/built-in-report-button-is-available-in-microsoft-outlook-across/ba-p/4388434</guid>
-      <description>Outlook and Defender for Office 365 are excited to announce the release of built-in report button in Microsoft Outlook across platforms (web, new Outlook for Windows, classic Outlook for Windows, Outlook for Mac, Outlook for Android, Outlook for iOS, and Outlook for android Lite) for both personal and commercial accounts.
-You can find the built-in button across Outlook:
-
-Outlook on the web.
-New Outlook for Windows.
-Outlook for Mac version 16.89 (24090815) or later.
-Classic Outlook for Windows version
-
-
-Current channel: Version 16.0.17827.15010 or later.
-
-
-Monthly Enterprise Channel: Version 16...</description>
-    </item>
+    <lastBuildDate>Tue, 04 Mar 2025 21:06:48 GMT</lastBuildDate>
   </channel>
 </rss>
