@@ -581,3 +581,5 @@
 2025-03-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/everything-old-is-new-again-hardening-the-trust-boundary-of-vbs/ba-p/4386961
 2025-03-03T18:33:10 https://techcommunity.microsoft.com/t5/microsoft-security-blog/ims-efficient-migration-methods/ba-p/4387417
 2025-03-04T13:03:30 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-containers-software-supply-chain-across-the-sdlc/ba-p/4384925
+2025-03-04T17:39:20 https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-the-secure-future-initiative-tech-tips-show/ba-p/4388454
+2025-03-04T17:41:22 https://techcommunity.microsoft.com/t5/microsoft-security-blog/navigating-mergers-and-acquisitions-it-consolidation-best/ba-p/4385017
