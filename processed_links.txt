@@ -583,3 +583,5 @@
 2025-03-04T13:03:30 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-containers-software-supply-chain-across-the-sdlc/ba-p/4384925
 2025-03-04T17:39:20 https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-the-secure-future-initiative-tech-tips-show/ba-p/4388454
 2025-03-04T17:41:22 https://techcommunity.microsoft.com/t5/microsoft-security-blog/navigating-mergers-and-acquisitions-it-consolidation-best/ba-p/4385017
+2025-03-04T19:10:39 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/built-in-report-button-is-available-in-microsoft-outlook-across/ba-p/4388434
+2025-03-04T19:51:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4389023
