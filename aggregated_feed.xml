@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Mar 2025 18:10:21 GMT</lastBuildDate>
-    <item>
-      <title>Navigating Mergers and Acquisitions: IT Consolidation Best Practices and Approach</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/navigating-mergers-and-acquisitions-it-consolidation-best/ba-p/4385017</link>
-      <pubDate>Tue, 04 Mar 2025 17:41:22 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/navigating-mergers-and-acquisitions-it-consolidation-best/ba-p/4385017</guid>
-      <description>In today&#8217;s business environment, mergers, divestitures, and acquisitions (M&amp;A) are becoming increasingly common. However, with these business transformations come the challenges of consolidating multiple IT services and applications. Effective consolidation&#160;streamlines operations, enhances accessibility, provides a single pane of glass for management, security, and scalability, most importantly, reduces costs.
-At Microsoft, my team specializes in helping customers tackle these challenges by delivering top-notch solutions. In this article, I&#8217;ll Walk you through some key activities to consider w...</description>
-    </item>
-    <item>
-      <title>Introducing the Secure Future Initiative Tech Tips show!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-the-secure-future-initiative-tech-tips-show/ba-p/4388454</link>
-      <pubDate>Tue, 04 Mar 2025 17:39:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-the-secure-future-initiative-tech-tips-show/ba-p/4388454</guid>
-      <description>Introducing the Secure Future Initiative: Tech Tips show!
-This show provides bite-sized technical tips from Microsoft security experts about how you can implement recommendations from one of the six engineering pillars of Microsoft's Secure Future Initiative in your own environment to uplift your security posture.&#160;
-Hosted by Sarah Young, Principal Security Advocate (_@sarahyo) and Michael Howard, Senior Director Microsoft Red Team (@michael_howard), the series interviews a range of Microsoft security experts giving you practical advice about how to implement SFI controls in your organization's...</description>
-    </item>
+    <lastBuildDate>Tue, 04 Mar 2025 19:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
