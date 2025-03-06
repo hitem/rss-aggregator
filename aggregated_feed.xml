@@ -3,16 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Mar 2025 18:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 19:00:50 GMT</lastBuildDate>
     <item>
-      <title>ADSS TSync vs Entra Cross-Tenant Sync: A Comprehensive Comparison</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/adss-tsync-vs-entra-cross-tenant-sync-a-comprehensive-comparison/ba-p/4389881</link>
-      <pubDate>Thu, 06 Mar 2025 18:03:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/adss-tsync-vs-entra-cross-tenant-sync-a-comprehensive-comparison/ba-p/4389881</guid>
-      <description>When managing identities across multiple tenants, organizations often face a crucial decision: should they choose&#160;ADSS (Active Directory Synchronization Service) Tenant Sync&#160;or&#160;Entra Native Cross-Tenant Sync&#160;to enable collaboration across tenants?
-
-The&#160;ADSS Tenant Sync service&#160;for Tenant-to-Tenant Synchronization is designed to maintain a single unified global address list between tenants. It synchronizes and provisions users or contacts between tenants and provisions guest accounts for Azure B2B sharing of applications and resources.
-Cross-Tenant synchronization&#160;automates creating, updating, ...</description>
+      <title>Check This Out! (CTO!) Guide (Mar 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-mar-2025/ba-p/4390263</link>
+      <pubDate>Thu, 06 Mar 2025 18:50:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-mar-2025/ba-p/4390263</guid>
+      <description>Hi everyone! Tyson Paul here with this month&#8217;s &#8220;Check This Out!&#8221; (CTO!) guide.
+Our goal with these posts is to guide you toward content that piques your interest, whether it's for learning, troubleshooting, or discovering new sources. Each month, we&#8217;ll give you a snapshot of intriguing blog content, provide direct links to the source material, and introduce you to other valuable blogs you might not know about yet.
+If you&#8217;re a long-time reader, you&#8217;ll notice this series is similar to our previous &#8220;Infrastructure + Security: Noteworthy News&#8221; series. We hope you find this new format just as helpf...</description>
+    </item>
+    <item>
+      <title>Active Directory is 25 Years Old. Do You Still Manage It Like It's 1999?</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-is-25-years-old-do-you-still-manage-it-like-it/ba-p/4390114</link>
+      <pubDate>Thu, 06 Mar 2025 18:39:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-is-25-years-old-do-you-still-manage-it-like-it/ba-p/4390114</guid>
+      <description>Hi, I&#8217;m Liz Tesch, a Cloud Solutions Architect on the Microsoft Incident Response Critical Action Team (MIRCAT). My colleagues and I specialize in helping customers with incident response and compromise recovery. In our work with customers who&#8217;ve been the victim of a cyberattack, we often see Active Directories that are 20+ years old and clients who still administer them like it's 1999.&#160;
+Overview
+Previewed in 1999 and officially released in the Spring of 2000, Active Directory is 25 years old. For those of us who remember the early years of AD, much of what we learned back in the days of the M...</description>
     </item>
   </channel>
 </rss>

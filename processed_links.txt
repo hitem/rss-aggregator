@@ -577,3 +577,5 @@
 2025-03-04T19:51:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4389023
 2025-03-06T12:56:33 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/integrating-security-into-devops-workflows-with-microsoft/ba-p/4388094
 2025-03-06T18:03:07 https://techcommunity.microsoft.com/t5/microsoft-security-blog/adss-tsync-vs-entra-cross-tenant-sync-a-comprehensive-comparison/ba-p/4389881
+2025-03-06T18:39:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-is-25-years-old-do-you-still-manage-it-like-it/ba-p/4390114
+2025-03-06T18:50:49 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-mar-2025/ba-p/4390263
