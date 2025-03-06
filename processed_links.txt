@@ -578,3 +578,4 @@
 2025-03-04T17:41:22 https://techcommunity.microsoft.com/t5/microsoft-security-blog/navigating-mergers-and-acquisitions-it-consolidation-best/ba-p/4385017
 2025-03-04T19:10:39 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/built-in-report-button-is-available-in-microsoft-outlook-across/ba-p/4388434
 2025-03-04T19:51:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4389023
+2025-03-06T12:56:33 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/integrating-security-into-devops-workflows-with-microsoft/ba-p/4388094

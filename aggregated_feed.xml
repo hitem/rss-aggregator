@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Mar 2025 12:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 13:16:46 GMT</lastBuildDate>
+    <item>
+      <title>Integrating Security into DevOps Workflows with Microsoft Defender CSPM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/integrating-security-into-devops-workflows-with-microsoft/ba-p/4388094</link>
+      <pubDate>Thu, 06 Mar 2025 12:56:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/integrating-security-into-devops-workflows-with-microsoft/ba-p/4388094</guid>
+      <description>This forth article in our series builds on the main overview (&#8220;Strategy to Execution: Operationalizing Microsoft Defender CSPM&#8221;). Here, we focus on embedding security directly into DevOps workflows using Microsoft Defender for Cloud&#8217;s Cloud Security Posture Management (CSPM) capabilities.
+Introduction
+DevOps has revolutionized the way organizations build, deploy, and manage everything from applications to enterprise infrastructure, to capture the full breadth of stuff that goes into code repos, breaking down silos between development and operations teams and enabling faster software delivery, ...</description>
+    </item>
   </channel>
 </rss>
