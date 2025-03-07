@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 07 Mar 2025 15:07:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 16:08:48 GMT</lastBuildDate>
+    <item>
+      <title>Getting Started with Azure Firewall REST API: A Step-by-Step Guide &#8211; Part I</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-firewall-rest-api-a-step-by-step/ba-p/4390715</link>
+      <pubDate>Fri, 07 Mar 2025 15:29:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-firewall-rest-api-a-step-by-step/ba-p/4390715</guid>
+      <description>This blog is written in collaboration with&#160;andrewmathu.
+The REST API is essential for managing resources in Azure, providing a structured way to perform create, read, update, and delete (CRUD) operations. By using HTTP methods such as GET, POST, PUT, and DELETE, the REST API makes it straightforward for administrators to interact with Azure resources. It supports various data formats, including JSON and XML, ensuring flexibility in data exchange. This capability is particularly useful for automating workflows, streamlining deployments, and integrating with continuous deployment and integration...</description>
+    </item>
   </channel>
 </rss>

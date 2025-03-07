@@ -578,3 +578,4 @@
 2025-03-06T18:03:07 https://techcommunity.microsoft.com/t5/microsoft-security-blog/adss-tsync-vs-entra-cross-tenant-sync-a-comprehensive-comparison/ba-p/4389881
 2025-03-06T18:39:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-is-25-years-old-do-you-still-manage-it-like-it/ba-p/4390114
 2025-03-06T18:50:49 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-mar-2025/ba-p/4390263
+2025-03-07T15:29:10 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-firewall-rest-api-a-step-by-step/ba-p/4390715
