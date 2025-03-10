@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Mar 2025 14:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 15:08:49 GMT</lastBuildDate>
+    <item>
+      <title>Blog Series: Charting Your Path to Cyber Resiliency</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4390355</link>
+      <pubDate>Mon, 10 Mar 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4390355</guid>
+      <description>Part 1: What Is Cyber Resiliency and How Do I Get It?
+Recently I was on a call with some Security leaders who were interested in how we at Microsoft could help them with cyber resiliency. But when I asked the questions "What does cyber resiliency mean to you?&#8221; and &#8220;What specific aspects of cyber resilience are you interested in improving?", they struggled to answer.
+If you're having difficulty with those questions yourself, don't worry, you're not alone. Cyber resiliency &#8211; being able to successfully continue business operations in the face of destructive cyberattacks - is having a Moment these...</description>
+    </item>
   </channel>
 </rss>
