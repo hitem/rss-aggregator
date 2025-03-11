@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Mar 2025 22:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 23:07:18 GMT</lastBuildDate>
+    <item>
+      <title>Exploring the Use Cases of ADxS Services</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adxs-services/ba-p/4373299</link>
+      <pubDate>Tue, 11 Mar 2025 22:07:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adxs-services/ba-p/4373299</guid>
+      <description>ADMS, ADSS, and ADGMS are all Cloud-based services that come within the ADxS services portfolio offered by Microsoft and designed to facilitate efficient and cost-effective migrations. In this blog, we will examine the various use cases of ADxS, highlighting its key features, advantages, and will have a quick look at what will be coming in the next iteration of the service which will be called IMS or Identity Migration Service
+ADMS&#160;or Active Directory Migration Service &#8211; is a service designed to facilitate the migration of users and workstations across domains and forests by offering diverse n...</description>
+    </item>
   </channel>
 </rss>

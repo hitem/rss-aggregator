@@ -577,3 +577,4 @@
 2025-03-07T15:29:10 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-firewall-rest-api-a-step-by-step/ba-p/4390715
 2025-03-10T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4390355
 2025-03-11T09:01:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2025/ba-p/4391479
+2025-03-11T22:07:34 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adxs-services/ba-p/4373299
