@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Mar 2025 11:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Quick Wins - Custom Images for Windows 365</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-wins-custom-images-for-windows-365/ba-p/4391934</link>
-      <pubDate>Wed, 12 Mar 2025 10:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-wins-custom-images-for-windows-365/ba-p/4391934</guid>
-      <description>Hi folks - Mike Hildebrand here.&#160; Welcome to spring in the US - and another daylight-savings clock-change cycle for many of us (I find it odd that we just 'change time').&#160; Lately, I've been having conversations with customers about 'custom image' support in Windows 365.&#160; Like most aspects of IT, an image management system for standardized PC deployments can range from the simple ('Next &gt; Next &gt; Finish') up to the very complex (tiers, workflows and automations).&#160;
-Here's my walk-through of the 'dip a toe in the pool' method for trying out the custom image capabilities of Windows 365.&#160; I shared a...</description>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 12:13:46 GMT</lastBuildDate>
   </channel>
 </rss>
