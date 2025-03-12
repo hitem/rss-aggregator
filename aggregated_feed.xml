@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Mar 2025 18:10:45 GMT</lastBuildDate>
-    <item>
-      <title>Defending Against OAuth-Based Attacks with Automatic Attack Disruption</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defending-against-oauth-based-attacks-with-automatic-attack/ba-p/4384381</link>
-      <pubDate>Wed, 12 Mar 2025 17:16:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defending-against-oauth-based-attacks-with-automatic-attack/ba-p/4384381</guid>
-      <description>In today&#8217;s digital landscape, SaaS and OAuth applications have revolutionized the way we work, collaborate, and innovate. However, they also introduce significant risks related to security, privacy and compliance. As the SaaS landscape grows, IT leaders must balance enabling productivity with managing risk. A key to managing risk is automated tools that provide real-time context and remediation capabilities to help Security Operations Center (SOC) teams outpace sophisticated attackers and limit lateral movement and damage.
-The Rise of OAuth App Attacks
-Over the past two years, there has been a...</description>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 19:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
