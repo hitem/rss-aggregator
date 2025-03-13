@@ -1,5 +1,3 @@
-2024-03-13T17:00:42 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/how-business-conduct-violations-can-help-understand-data/ba-p/4083002
-2024-03-13T18:02:02 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-secure-tech-accelerator-securing-ai-rsvp-now/ba-p/4084340
 2024-03-13T22:41:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposure-management-the-evolution-of-vulnerability-management/ba-p/4084587
 2024-03-14T08:30:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-azure-cost-optimization-a-comprehensive-guide/ba-p/4084926
 2024-03-14T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-as-a-leader-in-three-idc-marketscapes-for-modern/ba-p/4083116
@@ -566,3 +564,7 @@
 2025-03-11T22:07:34 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adxs-services/ba-p/4373299
 2025-03-12T10:30:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-wins-custom-images-for-windows-365/ba-p/4391934
 2025-03-12T17:16:54 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defending-against-oauth-based-attacks-with-automatic-attack/ba-p/4384381
+2025-03-13T17:06:04 https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-mda-workshop-series/ba-p/4392976
+2025-03-13T17:08:56 https://techcommunity.microsoft.com/t5/microsoft-security-blog/improve-your-dlp-maturity-with-dlp-analytics/ba-p/4392655
+2025-03-13T17:11:10 https://techcommunity.microsoft.com/t5/microsoft-security-blog/meet-the-ims-team/ba-p/4392827
+2025-03-13T17:14:42 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4392504
