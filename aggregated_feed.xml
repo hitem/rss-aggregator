@@ -3,49 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Mar 2025 18:10:39 GMT</lastBuildDate>
-    <item>
-      <title>Exploring the Extensibility of Active Directory Migration Service (ADMS)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4392504</link>
-      <pubDate>Thu, 13 Mar 2025 17:14:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4392504</guid>
-      <description>Introduction&#160;
-Active directory migrations are a critical journey and a key success factor in your identity architecture for the future of your organization. Our portfolio offers services to assist your migration teams in various migration use cases, including acquisition, merger, divestiture, directory consolidation, and cloud enablement.&#160;
-Overview of ADxS Services&#160;
-Active Directory Migration Service (ADMS), Active Directory Synchronization Service (ADSS), and Active Directory Group Modernization Service (ADGMS) are cloud-based services within the ADxS services portfolio offered by Microsoft. ...</description>
-    </item>
-    <item>
-      <title>Meet the IMS team</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/meet-the-ims-team/ba-p/4392827</link>
-      <pubDate>Thu, 13 Mar 2025 17:11:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/meet-the-ims-team/ba-p/4392827</guid>
-      <description>In today&#8217;s fast-paced digital landscape, identity migration isn&#8217;t just a technical process&#8212;it&#8217;s a critical step in ensuring business continuity, security, and user satisfaction. That&#8217;s where our Identity Migration Service (IMS) comes in. A migration platform offering a seamless, IT-friendly, and end-user-focused experience. But what truly sets us apart? Our dedicated team of experts. These are the people who will guide you every step of the way, making your transition smooth, stress-free, and efficient. From initial configuration to the final migration, meet the specialists who ensure your suc...</description>
-    </item>
-    <item>
-      <title>Improve your DLP maturity with DLP Analytics</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/improve-your-dlp-maturity-with-dlp-analytics/ba-p/4392655</link>
-      <pubDate>Thu, 13 Mar 2025 17:08:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/improve-your-dlp-maturity-with-dlp-analytics/ba-p/4392655</guid>
-      <description>What is DLP Analytics?
-At a high level, DLP Analytics utilizes machine learning to:
-
-Analyse your organization&#8217;s information sharing activities,
-Identify your organization&#8217;s highest sharing risks, and
-Generate new DLP policies or updates to existing policies to help mitigate risks.
-
-To understand why this is important, we first need to consider how most organizations deploy DLP. It&#8217;s very common to turn on one or more Purview DLP policy templates, maybe add a policy or two targeting items with sensitivity labels applied and then call it a day. This might provide a great starting point but shou...</description>
-    </item>
-    <item>
-      <title>Level Up Your App Governance With MDA Workshop Series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-mda-workshop-series/ba-p/4392976</link>
-      <pubDate>Thu, 13 Mar 2025 17:06:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-mda-workshop-series/ba-p/4392976</guid>
-      <description>Over the past two years, there has been a significant increase in nation-state attacks leveraging OAuth apps. These attacks often serve as entry points for privilege escalation, lateral movement, and damage. To effectively mitigate these risks, security teams need visibility and control over SaaS apps including GenAI apps to ensure that only trusted and compliant apps are in use.
-Join one of these workshops to learn:
-
-Real-world examples of OAuth attacks
-New pre-built templates and custom rules to simplify app governance
-How to quickly identify and mitigate risks from high-risk or suspicious a...</description>
-    </item>
+    <lastBuildDate>Thu, 13 Mar 2025 19:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
