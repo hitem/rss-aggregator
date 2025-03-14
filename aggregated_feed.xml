@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Mar 2025 08:10:21 GMT</lastBuildDate>
-    <item>
-      <title>How-To Sync EntraID Group Memberships Into Any System</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-sync-entraid-group-memberships-into-any-system/ba-p/4383082</link>
-      <pubDate>Fri, 14 Mar 2025 08:04:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-sync-entraid-group-memberships-into-any-system/ba-p/4383082</guid>
-      <description>Hi, Jonas and Roland here!
-Or as we say in the north of Germany: "Moin Moin!"
-We recently worked on a mechanism to synchronize EntraID group memberships into an Azure SQL table and would like to share our learnings.
-If you haven&#8217;t seen my other articles yet, feel free to check them out here: https://aka.ms/JonasOhmsenBlogs
-Challenge
-We needed a fast way to check if a device or a user is&#160; member of one or multiple EntraID groups for an application we were building. Our application will have a list of EntraID groups we periodically would need to check the memberships for. The number of groups wi...</description>
-    </item>
+    <lastBuildDate>Fri, 14 Mar 2025 09:08:13 GMT</lastBuildDate>
   </channel>
 </rss>
