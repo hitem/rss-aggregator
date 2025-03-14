@@ -567,3 +567,4 @@
 2025-03-13T17:08:56 https://techcommunity.microsoft.com/t5/microsoft-security-blog/improve-your-dlp-maturity-with-dlp-analytics/ba-p/4392655
 2025-03-13T17:11:10 https://techcommunity.microsoft.com/t5/microsoft-security-blog/meet-the-ims-team/ba-p/4392827
 2025-03-13T17:14:42 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4392504
+2025-03-14T08:04:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-sync-entraid-group-memberships-into-any-system/ba-p/4383082
