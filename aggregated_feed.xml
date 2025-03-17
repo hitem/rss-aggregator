@@ -3,18 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Mar 2025 18:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 19:00:49 GMT</lastBuildDate>
     <item>
-      <title>Level Up Your App Governance With Microsoft Defender for Cloud Apps Workshop Series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-microsoft-defender-for-cloud/ba-p/4392976</link>
-      <pubDate>Mon, 17 Mar 2025 17:58:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-microsoft-defender-for-cloud/ba-p/4392976</guid>
-      <description>Over the past two years, there has been a significant increase in nation-state attacks leveraging OAuth apps. These attacks often serve as entry points for privilege escalation, lateral movement, and damage. To effectively mitigate these risks, security teams need visibility and control over SaaS apps including GenAI apps to ensure that only trusted and compliant apps are in use.
-Join one of these workshops to learn:
-
-Real-world examples of OAuth attacks
-New pre-built templates and custom rules to simplify app governance
-How to quickly identify and mitigate risks from high-risk or suspicious a...</description>
+      <title>Strengthening Email Security: Our New Approach to Non-RFC Compliant Emails</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-email-security-our-new-approach-to-non-rfc/ba-p/4338306</link>
+      <pubDate>Mon, 17 Mar 2025 18:49:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-email-security-our-new-approach-to-non-rfc/ba-p/4338306</guid>
+      <description>In our ongoing commitment to enhance email security and protect our users from malicious activities, we are making changes in handling emails with non RFC-compliant&#160; P2Sender addresses. This change reflects our dedication to combating email spoofing, impersonation, and the various evasion techniques employed by attackers.
+Understanding Non-RFC Compliant Emails
+The Internet Engineering Task Force (IETF) publishes the Request for Comments (RFC) documents, which define the standards for internet protocols, including email formatting and transmission. Emails that do not adhere to these standards a...</description>
     </item>
   </channel>
 </rss>
