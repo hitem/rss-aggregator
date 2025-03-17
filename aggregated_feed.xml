@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Mar 2025 17:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 18:11:05 GMT</lastBuildDate>
+    <item>
+      <title>Level Up Your App Governance With Microsoft Defender for Cloud Apps Workshop Series</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-microsoft-defender-for-cloud/ba-p/4392976</link>
+      <pubDate>Mon, 17 Mar 2025 17:58:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-microsoft-defender-for-cloud/ba-p/4392976</guid>
+      <description>Over the past two years, there has been a significant increase in nation-state attacks leveraging OAuth apps. These attacks often serve as entry points for privilege escalation, lateral movement, and damage. To effectively mitigate these risks, security teams need visibility and control over SaaS apps including GenAI apps to ensure that only trusted and compliant apps are in use.
+Join one of these workshops to learn:
+
+Real-world examples of OAuth attacks
+New pre-built templates and custom rules to simplify app governance
+How to quickly identify and mitigate risks from high-risk or suspicious a...</description>
+    </item>
   </channel>
 </rss>

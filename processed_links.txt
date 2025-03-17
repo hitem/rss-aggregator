@@ -566,3 +566,4 @@
 2025-03-13T17:14:42 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4392504
 2025-03-14T08:04:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-sync-entraid-group-memberships-into-any-system/ba-p/4383082
 2025-03-17T12:10:36 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-134/ba-p/4393674
+2025-03-17T17:58:04 https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-microsoft-defender-for-cloud/ba-p/4392976
