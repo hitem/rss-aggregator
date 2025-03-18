@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Mar 2025 15:08:26 GMT</lastBuildDate>
-    <item>
-      <title>AI innovation requires AI security: Hear what&#8217;s new at Microsoft Secure</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what-s-new-at-microsoft/ba-p/4394130</link>
-      <pubDate>Tue, 18 Mar 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what-s-new-at-microsoft/ba-p/4394130</guid>
-      <description>When you&#8217;re secure&#8212;innovation happens. But, the fast pace of AI often outpaces traditional security measures, leaving gaps that bad actors can take advantage of. As a security professional, you&#8217;re the hero in this battle between protecting vast amounts of data while ensuring AI systems remain transparent and compliant. What you need in this time of new threats and complexity in securing interconnected AI applications is a proactive, innovative approach to stay ahead.&#160;
-That&#8217;s why we&#8217;re excited to invite you to&#8239;Microsoft Secure on April 9, a one-hour online event designed specifically for profes...</description>
-    </item>
-    <item>
-      <title>Application Control for Business, Schema Definition</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/application-control-for-business-schema-definition/ba-p/4386252</link>
-      <pubDate>Tue, 18 Mar 2025 14:30:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/application-control-for-business-schema-definition/ba-p/4386252</guid>
-      <description>Watching my miniature schnauzer, Raven, explore my backyard, I&#8217;m reminded of the importance of having a clear set of rules and guidelines. Just like Raven has her own schema to navigate her environment&#8212;knowing where she can wander, where she shouldn't venture, and how to interact. Application Control for Business (ACfB) provides a robust schema to help organizations manage and secure their digital landscapes.
-Note: ACfB has also been known as Windows Defender Application Control (WDAC), Application Control for Windows and Code Integrity.
-Application Control for Windows | Microsoft Learn
-&#160;
-In R...</description>
-    </item>
+    <lastBuildDate>Tue, 18 Mar 2025 16:09:41 GMT</lastBuildDate>
   </channel>
 </rss>
