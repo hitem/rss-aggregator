@@ -568,3 +568,5 @@
 2025-03-17T12:10:36 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-134/ba-p/4393674
 2025-03-17T17:58:04 https://techcommunity.microsoft.com/t5/microsoft-security-blog/level-up-your-app-governance-with-microsoft-defender-for-cloud/ba-p/4392976
 2025-03-17T18:49:26 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-email-security-our-new-approach-to-non-rfc/ba-p/4338306
+2025-03-18T14:30:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/application-control-for-business-schema-definition/ba-p/4386252
+2025-03-18T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what-s-new-at-microsoft/ba-p/4394130
