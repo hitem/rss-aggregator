@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Mar 2025 16:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 17:07:04 GMT</lastBuildDate>
+    <item>
+      <title>Unveiling the Shadows: Extended Critical Asset Protection with MSEM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/unveiling-the-shadows-extended-critical-asset-protection-with/ba-p/4394485</link>
+      <pubDate>Tue, 18 Mar 2025 16:41:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/unveiling-the-shadows-extended-critical-asset-protection-with/ba-p/4394485</guid>
+      <description>As cybersecurity evolves, identifying critical assets becomes an essential step in exposure management, as it allows for the prioritization of the most significant assets. This task is challenging because each type of critical asset requires different data to indicate its criticality. The challenge is even greater when a critical asset is not managed by a security agent such as EDR or AV, making the relevant data unreachable. Breaking traditional boundaries, Microsoft Security Exposure Management leverages multiple insights and signals to provide enhanced visibility into both managed and unman...</description>
+    </item>
   </channel>
 </rss>
