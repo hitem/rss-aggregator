@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Mar 2025 19:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 20:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Level up your defense: protect against attacks using stale user accounts</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/level-up-your-defense-protect-against-attacks-using-stale-user/ba-p/4386290</link>
+      <pubDate>Tue, 18 Mar 2025 19:35:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/level-up-your-defense-protect-against-attacks-using-stale-user/ba-p/4386290</guid>
+      <description>Maintaining a robust security posture is essential for any organization. Strong security not only protects sensitive information and assets from cyber threats but also ensures business continuity and fosters trust among clients and stakeholders. By implementing comprehensive security strategies, organizations can proactively identify and mitigate potential vulnerabilities, ultimately safeguarding their operations and reputation.
+To combat against attacks that take advantage of poor posture and vulnerabilities, Microsoft has a suite of detection and response capabilities to address this. Specif...</description>
+    </item>
   </channel>
 </rss>

@@ -570,3 +570,4 @@
 2025-03-18T14:30:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/application-control-for-business-schema-definition/ba-p/4386252
 2025-03-18T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what-s-new-at-microsoft/ba-p/4394130
 2025-03-18T16:41:56 https://techcommunity.microsoft.com/t5/microsoft-security-blog/unveiling-the-shadows-extended-critical-asset-protection-with/ba-p/4394485
+2025-03-18T19:35:26 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/level-up-your-defense-protect-against-attacks-using-stale-user/ba-p/4386290
