@@ -568,3 +568,6 @@
 2025-03-18T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/ai-innovation-requires-ai-security-hear-what-s-new-at-microsoft/ba-p/4394130
 2025-03-18T16:41:56 https://techcommunity.microsoft.com/t5/microsoft-security-blog/unveiling-the-shadows-extended-critical-asset-protection-with/ba-p/4394485
 2025-03-18T19:35:26 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/level-up-your-defense-protect-against-attacks-using-stale-user/ba-p/4386290
+2025-03-20T16:32:05 https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-defender-for-cloud-apps-ninja-training/ba-p/4392347
+2025-03-20T16:41:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517
+2025-03-20T16:45:16 https://techcommunity.microsoft.com/t5/microsoft-security-blog/1000-data-map-collections/ba-p/4394907
