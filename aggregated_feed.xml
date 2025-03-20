@@ -3,47 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 20 Mar 2025 17:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 18:10:54 GMT</lastBuildDate>
     <item>
-      <title>1000 Data Map Collections</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/1000-data-map-collections/ba-p/4394907</link>
-      <pubDate>Thu, 20 Mar 2025 16:45:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/1000-data-map-collections/ba-p/4394907</guid>
-      <description>We are pleased to announce the general availability of the "1000 collections" in Data Map.
-Collections in the Data Map serve as a logical construct designed to organize assets and data sources within a customer&#8217;s data estate by business units.
-Additionally, collections are utilized to manage access within Microsoft Purview&#8217;s unified catalog.
-The increase in collection limit from 400 to 1000 will offer enterprise customers greater flexibility and control over data source segregation in response to evolving business requirements.
-Even though the limit has been increased, we recommend following t...</description>
-    </item>
-    <item>
-      <title>Sensor Disconnection Notifications with Microsoft Defender for IoT and Microsoft Sentinel &#128640;</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517</link>
-      <pubDate>Thu, 20 Mar 2025 16:41:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517</guid>
-      <description>What Does This Feature Do?
-This new automated playbook sends real-time email notifications whenever a sensor disconnects from the cloud. This ensures you&#8217;re immediately alerted if there&#8217;s an issue, allowing you to take quick action to investigate and resolve the problem.
-Why It&#8217;s Important:
-
-Real-Time Alerts: Get instant notifications when a sensor goes offline.
-Proactive Monitoring: Identify the issue early, reducing downtime and improving response times.
-Seamless Integration: Works effortlessly with Microsoft Defender for IoT and Microsoft Sentinel for a unified security approach.
-
-How to Se...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender for Cloud Apps - Ninja Training</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-defender-for-cloud-apps-ninja-training/ba-p/4392347</link>
-      <pubDate>Thu, 20 Mar 2025 16:32:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-defender-for-cloud-apps-ninja-training/ba-p/4392347</guid>
-      <description>&#160;
-Welcome to our Ninja Training for Microsoft Defender for Cloud Apps!
-Are you trying to protect your SaaS applications?&#160;&#160;&#160; Are you concerned about the posture of the apps you are using? Is shadow IT or AI a concern of yours? Then you are in the right place.
-The training below will aggregate all the relevant resources in one convenient location for you to learn from.
-Let&#8217;s start here with a quick overview of Microsoft Defender for Cloud Apps&#8217; capabilities.
-
-Microsoft Defender for Cloud Apps | Microsoft Security&#160;&#160;
-
-Overview of Microsoft Defender for Cloud Apps and the capability of a SaaS Secur...</description>
+      <title>Supporting CVSS V4 score for CVE for Enhanced Vulnerability Assessment</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/supporting-cvss-v4-score-for-cve-for-enhanced-vulnerability/ba-p/4391439</link>
+      <pubDate>Thu, 20 Mar 2025 17:06:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/supporting-cvss-v4-score-for-cve-for-enhanced-vulnerability/ba-p/4391439</guid>
+      <description>Why transition to CVSS v4?&#160;
+The Common Vulnerability Scoring System (CVSS) is the global standard for assessing vulnerability severity. As leading institutions like the National Vulnerability Database (NVD) transition to CVSS v4, Microsoft is embracing this enhanced scoring model to ensure better alignment and more actionable insights.
+CVSS v4 addresses the limitations of its predecessor, CVSS v3, introducing features that provide a more granular and accurate assessment of vulnerabilities. For an in-depth overview, refer to the CVSS v4.0 Specification.
+Benefits of CVSS v4 for organizations usi...</description>
     </item>
   </channel>
 </rss>

@@ -571,3 +571,4 @@
 2025-03-20T16:32:05 https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-defender-for-cloud-apps-ninja-training/ba-p/4392347
 2025-03-20T16:41:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517
 2025-03-20T16:45:16 https://techcommunity.microsoft.com/t5/microsoft-security-blog/1000-data-map-collections/ba-p/4394907
+2025-03-20T17:06:46 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/supporting-cvss-v4-score-for-cve-for-enhanced-vulnerability/ba-p/4391439
