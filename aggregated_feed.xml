@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 20 Mar 2025 18:10:54 GMT</lastBuildDate>
-    <item>
-      <title>Supporting CVSS V4 score for CVE for Enhanced Vulnerability Assessment</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/supporting-cvss-v4-score-for-cve-for-enhanced-vulnerability/ba-p/4391439</link>
-      <pubDate>Thu, 20 Mar 2025 17:06:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/supporting-cvss-v4-score-for-cve-for-enhanced-vulnerability/ba-p/4391439</guid>
-      <description>Why transition to CVSS v4?&#160;
-The Common Vulnerability Scoring System (CVSS) is the global standard for assessing vulnerability severity. As leading institutions like the National Vulnerability Database (NVD) transition to CVSS v4, Microsoft is embracing this enhanced scoring model to ensure better alignment and more actionable insights.
-CVSS v4 addresses the limitations of its predecessor, CVSS v3, introducing features that provide a more granular and accurate assessment of vulnerabilities. For an in-depth overview, refer to the CVSS v4.0 Specification.
-Benefits of CVSS v4 for organizations usi...</description>
-    </item>
+    <lastBuildDate>Thu, 20 Mar 2025 19:02:07 GMT</lastBuildDate>
   </channel>
 </rss>
