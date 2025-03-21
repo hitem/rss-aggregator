@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 21 Mar 2025 16:09:06 GMT</lastBuildDate>
-    <item>
-      <title>Public Preview: Key Attestation for Azure Managed HSM</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/public-preview-key-attestation-for-azure-managed-hsm/ba-p/4394135</link>
-      <pubDate>Fri, 21 Mar 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/public-preview-key-attestation-for-azure-managed-hsm/ba-p/4394135</guid>
-      <description>We are excited to announce the Public Preview of Key attestation for Azure Key Vault Managed HSM.&#160;&#160;
-This feature allows you to validate the authenticity of cryptographic keys stored within the hardware security module (HSM) thereby enhancing trust in key management processes and further enabling compliance with stringent security standards. This feature is especially valuable in scenarios where customers need assurance that their keys are protected from unauthorized access, even from cloud providers.&#160;
-The key attestation process has four steps:&#160;
-
-Downloading or cloning the Python scripts and r...</description>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 17:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
