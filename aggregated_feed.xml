@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 21 Mar 2025 08:10:34 GMT</lastBuildDate>
-    <item>
-      <title>Deprecation of Microsoft Defender Application Guard: Transitioning to Enhanced Security Solutions</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deprecation-of-microsoft-defender-application-guard/ba-p/4395724</link>
-      <pubDate>Fri, 21 Mar 2025 07:08:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deprecation-of-microsoft-defender-application-guard/ba-p/4395724</guid>
-      <description>Hi, I&#8217;m Helmut Wagensonner, a Cloud Solution Architect at Microsoft. I want to shed some light on the recent deprecation of Microsoft Defender Application Guard (MDAG) and guide you through alternative security measures to maintain robust protection for your enterprise environments.&#160;
-Understanding Microsoft Defender Application Guard&#160;
-Microsoft Defender Application Guard was developed to enhance security by isolating untrusted websites and documents, thereby protecting corporate networks and data. By utilizing hardware-based virtualization, MDAG created a secure, isolated environment&#8212;often ref...</description>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 09:07:55 GMT</lastBuildDate>
   </channel>
 </rss>
