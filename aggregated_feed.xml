@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Mar 2025 18:10:59 GMT</lastBuildDate>
-    <item>
-      <title>New capabilities coming to Microsoft Sentinel this Spring</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-capabilities-coming-to-microsoft-sentinel-this-spring/ba-p/4390357</link>
-      <pubDate>Mon, 24 Mar 2025 17:23:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-capabilities-coming-to-microsoft-sentinel-this-spring/ba-p/4390357</guid>
-      <description>New capabilities coming to Microsoft Sentinel this Spring
-We are excited to share the latest advances coming to Microsoft Sentinel over the next few months as we transform the SOC (Security Operations Center) with industry-leading capabilities. As threats continue to scale in velocity and sophistication, security analysts need more powerful tooling optimized for their workflows. This spring, customers can expect significant innovations across the SecOps lifecycle with simplified operational experiences, enhanced visibility and insights and greater AI-driven outcomes, all of which will help sec...</description>
-    </item>
+    <lastBuildDate>Mon, 24 Mar 2025 19:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
