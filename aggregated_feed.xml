@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Mar 2025 14:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 15:00:40 GMT</lastBuildDate>
+    <item>
+      <title>Life After APP-V Server: Exploring Options for Application Streaming and Delivery</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/life-after-app-v-server-exploring-options-for-application/ba-p/4396663</link>
+      <pubDate>Mon, 24 Mar 2025 14:41:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/life-after-app-v-server-exploring-options-for-application/ba-p/4396663</guid>
+      <description>The discontinuation of Microsoft&#8217;s APP-V Server has left many enterprises seeking new methods to manage application streaming and delivery. As organisations adapt to an ever-evolving technological landscape, the need for efficient, scalable, and secure application delivery solutions is paramount. This article delves into the life after APP-V Server and explores the various alternatives available for application streaming and delivery.&#160;
+The End of an Era: APP-V Server&#160;
+Microsoft Application Virtualization (APP-V) Server was a popular tool that provided a flexible and efficient way to deliver ap...</description>
+    </item>
   </channel>
 </rss>

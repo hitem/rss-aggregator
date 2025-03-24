@@ -570,3 +570,4 @@
 2025-03-20T17:06:46 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/supporting-cvss-v4-score-for-cve-for-enhanced-vulnerability/ba-p/4391439
 2025-03-21T07:08:41 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deprecation-of-microsoft-defender-application-guard/ba-p/4395724
 2025-03-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/public-preview-key-attestation-for-azure-managed-hsm/ba-p/4394135
+2025-03-24T14:41:09 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/life-after-app-v-server-exploring-options-for-application/ba-p/4396663
