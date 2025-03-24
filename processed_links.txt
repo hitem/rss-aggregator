@@ -585,3 +585,5 @@
 2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/strengthen-data-security-posture-in-the-era-of-ai-with-microsoft/ba-p/4396096
 2025-03-24T16:00:34 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-threat-intelligence-briefing-agent/ba-p/4390821
 2025-03-24T16:08:04 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced/ba-p/4395997
+2025-03-24T16:34:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-microsoft-defender-xdr-at-secure-2025/ba-p/4390817
+2025-03-24T16:36:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/all-key-vaults-are-critical-but-some-are-more-critical-than/ba-p/4396706
