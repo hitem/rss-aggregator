@@ -3,22 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Mar 2025 17:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:10:59 GMT</lastBuildDate>
     <item>
-      <title>All Key Vaults Are Critical, But Some Are More Critical Than Others: Finding the Crown Jewels</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/all-key-vaults-are-critical-but-some-are-more-critical-than/ba-p/4396706</link>
-      <pubDate>Mon, 24 Mar 2025 16:36:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/all-key-vaults-are-critical-but-some-are-more-critical-than/ba-p/4396706</guid>
-      <description>Introduction&#160;
-A critical asset is one of substantial value, whose compromise or disruption would result in significant adverse effects on the organization. This definition lays the foundation for understanding why Azure Key Vaults often fall into this category.&#160;
-Azure Key Vaults are integral to cloud environments as they manage sensitive data like cryptographic keys, passwords, and certificates. Their frequent use in securing applications, managing secrets, and enabling secure operations makes them highly valuable. Given this importance, identifying which Key Vaults are critical becomes essent...</description>
-    </item>
-    <item>
-      <title>What&#8217;s new in Microsoft Defender XDR at Secure 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-microsoft-defender-xdr-at-secure-2025/ba-p/4390817</link>
-      <pubDate>Mon, 24 Mar 2025 16:34:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-microsoft-defender-xdr-at-secure-2025/ba-p/4390817</guid>
-      <description>Protecting your organization against cybersecurity threats is more challenging than ever before. As part of our 2025 Microsoft Secure cybersecurity conference announcements, we&#8217;re sharing new product features that spotlight our AI-first, end-to-end security innovations designed to help - including autonomous AI agents in the Security Operations Center (SOC), as well as automatic detection and response capabilities. We also share information on how you can expand your protection by bringing data security and collaboration tools closer to the SOC. Read on to learn more about how these capabiliti...</description>
+      <title>New capabilities coming to Microsoft Sentinel this Spring</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-capabilities-coming-to-microsoft-sentinel-this-spring/ba-p/4390357</link>
+      <pubDate>Mon, 24 Mar 2025 17:23:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-capabilities-coming-to-microsoft-sentinel-this-spring/ba-p/4390357</guid>
+      <description>New capabilities coming to Microsoft Sentinel this Spring
+We are excited to share the latest advances coming to Microsoft Sentinel over the next few months as we transform the SOC (Security Operations Center) with industry-leading capabilities. As threats continue to scale in velocity and sophistication, security analysts need more powerful tooling optimized for their workflows. This spring, customers can expect significant innovations across the SecOps lifecycle with simplified operational experiences, enhanced visibility and insights and greater AI-driven outcomes, all of which will help sec...</description>
     </item>
   </channel>
 </rss>
