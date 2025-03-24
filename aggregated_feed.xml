@@ -3,15 +3,125 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Mar 2025 15:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 16:10:06 GMT</lastBuildDate>
     <item>
-      <title>Life After APP-V Server: Exploring Options for Application Streaming and Delivery</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/life-after-app-v-server-exploring-options-for-application/ba-p/4396663</link>
-      <pubDate>Mon, 24 Mar 2025 14:41:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/life-after-app-v-server-exploring-options-for-application/ba-p/4396663</guid>
-      <description>The discontinuation of Microsoft&#8217;s APP-V Server has left many enterprises seeking new methods to manage application streaming and delivery. As organisations adapt to an ever-evolving technological landscape, the need for efficient, scalable, and secure application delivery solutions is paramount. This article delves into the life after APP-V Server and explores the various alternatives available for application streaming and delivery.&#160;
-The End of an Era: APP-V Server&#160;
-Microsoft Application Virtualization (APP-V) Server was a popular tool that provided a flexible and efficient way to deliver ap...</description>
+      <title>Protect SaaS apps from OAuth threats with attack path, advanced hunting and more</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced/ba-p/4395997</link>
+      <pubDate>Mon, 24 Mar 2025 16:08:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced/ba-p/4395997</guid>
+      <description>Over the past two years, nation-state attacks using OAuth apps have surged. To combat this threat and to help customers focus on the most important exposure points, Microsoft Defender for Cloud Apps introduces several new capabilities. OAuth applications are now integrated into the attack path experience within Exposure Management, providing an overview of the attack paths that a bad actor might take to access Microsoft 365 SaaS apps like Outlook and Teams. Additionally, a unified application inventory allows customers to manage both user-to-SaaS and OAuth-to-SaaS interactions with an 'action ...</description>
+    </item>
+    <item>
+      <title>Introducing the Threat Intelligence Briefing Agent</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-threat-intelligence-briefing-agent/ba-p/4390821</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-threat-intelligence-briefing-agent/ba-p/4390821</guid>
+      <description>As cyber threats evolve, security teams face the challenge of sifting through vast amounts of security data and threat intelligence to develop briefings that are relevant to their organization. This is a lengthy, resource-intensive process that takes analysts away from important work that keeps the organization safe.
+To help security teams focus on business-critical work while keeping pace with threat actors, we&#8217;re excited to introduce the Security Copilot Threat Intelligence Briefing Agent&#8212;a force-multiplying innovation that reduces the time for CTI analysts to produce timely, hyper-relevant ...</description>
+    </item>
+    <item>
+      <title>What&#8217;s new with Microsoft Defender XDR at Secure 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-with-microsoft-defender-xdr-at-secure-2025/ba-p/4390817</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-with-microsoft-defender-xdr-at-secure-2025/ba-p/4390817</guid>
+      <description>Protecting your organization against cybersecurity threats is more challenging than ever before. As part of our 2025 Microsoft Secure cybersecurity conference announcements, we&#8217;re sharing new product features that spotlight our AI-first, end-to-end security innovations designed to help - including autonomous AI agents in the Security Operations Center (SOC), as well as automatic detection and response capabilities. We also share information on how you can expand your protection by bringing data security and collaboration tools closer to the SOC. Read on to learn more about how these capabiliti...</description>
+    </item>
+    <item>
+      <title>New innovations to protect custom AI applications with Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-to-protect-custom-ai-applications-with-defender/ba-p/4396277</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-to-protect-custom-ai-applications-with-defender/ba-p/4396277</guid>
+      <description>Today&#8217;s blog post introduced new capabilities to enhance AI security and governance across multi-model and multi-cloud environments. This follow-on blog post dives deeper into how Microsoft Defender for Cloud can help organizations protect their custom-built AI applications.
+&#160;
+The AI revolution has been transformative for organizations, driving them to integrate sophisticated AI features and products into their existing systems to maintain a competitive edge. However, this rapid development often outpaces their ability to establish adequate security measures for these advanced applications. Mo...</description>
+    </item>
+    <item>
+      <title>Announcing Alert Triage Agents in Microsoft Purview, powered by Security Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-alert-triage-agents-in-microsoft-purview-powered-by/ba-p/4396041</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-alert-triage-agents-in-microsoft-purview-powered-by/ba-p/4396041</guid>
+      <description>In today's digital landscape, securing data has become a critical concern across all industries. Organizations face an average of 66 alerts per day, up from 52 in 2023, with teams able to review only 63% of these alerts. Given the sheer volume of data security alerts, it is no surprise that most organizations struggle to keep up[1]. The challenge of addressing the most important risks, combined with a staggering shortage of 4 million security professionals[2], has made it increasingly difficult for organizations to stay ahead of potential dangers such as data breaches and unauthorized access t...</description>
+    </item>
+    <item>
+      <title>Mitigating insider risks in the age of AI with Microsoft Purview Insider Risk Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/mitigating-insider-risks-in-the-age-of-ai-with-microsoft-purview/ba-p/4396057</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/mitigating-insider-risks-in-the-age-of-ai-with-microsoft-purview/ba-p/4396057</guid>
+      <description>The rapid rise of generative AI presents both transformative opportunities and critical security challenges for organizations handling sensitive data. As data security teams grapple with an increasingly fragmented tooling landscape and a relentless stream of alerts, the use of AI within organizations also might bring new risks such as data leakage and exposure of sensitive information on 3rd party generative AI apps. AI has the potential to both reinforce security protocols and automate defenses, enhancing resilience against evolving data risks. However, securing AI itself is just as vital, en...</description>
+    </item>
+    <item>
+      <title>Prevent data loss across your ever-expanding data estate with Microsoft Purview Data Loss Prevention</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/prevent-data-loss-across-your-ever-expanding-data-estate-with/ba-p/4396095</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/prevent-data-loss-across-your-ever-expanding-data-estate-with/ba-p/4396095</guid>
+      <description>&#160;
+&#160;
+&#160;
+&#160;
+Organizations today grapple with securing data across the various devices, platforms, and data sources that comprise their modern ecosystem. This challenge has become even more daunting as unsanctioned and unsupervised generative AI becomes more ubiquitous in the workplace, presenting a new frontier for sensitive data loss. In response, many teams have found themselves with fragmented solutions and processes that don&#8217;t enable data loss prevention at scale, and even cause an increased rate of data security incidents.&#160;&#160;
+Microsoft Purview Data Loss Prevention (DLP) offers today&#8217;s organiza...</description>
+    </item>
+    <item>
+      <title>Strengthen data security posture in the era of AI with Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/strengthen-data-security-posture-in-the-era-of-ai-with-microsoft/ba-p/4396096</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/strengthen-data-security-posture-in-the-era-of-ai-with-microsoft/ba-p/4396096</guid>
+      <description>Today, data usage has moved beyond the traditional borders of business and is now stored on-premises, in multiple clouds, on devices; and accessed from within and outside of your corporate networks. Data has become the lifeblood of every business, driving insights that enable effective operations, competitive advantage, and productive collaboration among employees.
+IDC predicts that the datasphere will double by 2026, meaning data everywhere, and exponentially growing.&#160;With this growth in data and with organizations adopting multiple cloud infrastructures and platforms, data security incidents...</description>
+    </item>
+    <item>
+      <title>Accelerate data security investigations with AI-powered deep content analysis</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/accelerate-data-security-investigations-with-ai-powered-deep/ba-p/4396099</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/accelerate-data-security-investigations-with-ai-powered-deep/ba-p/4396099</guid>
+      <description>It takes an average of 292 days &#8211; almost a year &#8211; to identify and contain data breaches involving stolen credentials.[1] During those critical months, organizations struggle to understand their overall risk as a result of the data breach. Investigating a data security incident is daunting, and includes inefficient workflows across multiple tools, labor-intensive reviews of impacted data, further complexity and manual work as the investigation scope grows, and increased costs. In addition, there is a greater risk of exposing or leaking sensitive data when moving the impacted data for analysis o...</description>
+    </item>
+    <item>
+      <title>Enhance AI security and governance across multi-model and multi-cloud environments</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/enhance-ai-security-and-governance-across-multi-model-and-multi/ba-p/4395593</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/enhance-ai-security-and-governance-across-multi-model-and-multi/ba-p/4395593</guid>
+      <description>&#160;
+Generative AI adoption is accelerating, with AI transformation happening in real-time across various industries. This rapid adoption is reshaping how organizations operate and innovate, but it also introduces new challenges that require careful attention.&#160;&#160;
+At Ignite last fall, we announced several new capabilities to help organizations secure their AI transformation. These capabilities were designed to address top customer priorities such as preventing data oversharing, safeguarding custom AI, and preparing for emerging AI regulations. Organizations like Cummins, KPMG, and Mia Labs have lev...</description>
+    </item>
+    <item>
+      <title>Building layered protection: New Microsoft Purview data security controls for the browser &amp; network</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/building-layered-protection-new-microsoft-purview-data-security/ba-p/4395071</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/building-layered-protection-new-microsoft-purview-data-security/ba-p/4395071</guid>
+      <description>&#160;
+&#160;
+&#160;
+&#160;
+Microsoft is committed to helping our customers protect their data wherever it lives or travels - even as the modern data estate grows more complex. Over the years, we have taken a uniquely seamless approach of building protections directly where data is stored, used, or moves, helping customers get up and running easily without compromising on coverage.&#160;
+Our journey started with native integration of Purview data security controls into Microsoft 365 apps and services. This built-in design enables us to secure data right where most of your organization&#8217;s productivity takes place, witho...</description>
+    </item>
+    <item>
+      <title>Protecting sensitive information in the era of AI with Microsoft Purview Information Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/protecting-sensitive-information-in-the-era-of-ai-with-microsoft/ba-p/4395541</link>
+      <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/protecting-sensitive-information-in-the-era-of-ai-with-microsoft/ba-p/4395541</guid>
+      <description>&#160;
+&#160;
+&#160;
+In today&#8217;s rapidly evolving digital landscape, organizations face increasing challenges in protecting large volumes of sensitive data. As businesses increasingly adopt AI technologies, the volume of data generated and processed is growing at an unprecedented rate. This rapid data growth, coupled with the modern workplace&#8217;s demand for accessing information from various devices and locations, necessitates robust data protection measures. At the same time, security must not come at the cost of productivity. With AI becoming integral to modern workflows, organizations need the right guardrai...</description>
+    </item>
+    <item>
+      <title>General Availability for Collaboration Security for Microsoft Teams</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/general-availability-for-collaboration-security-for-microsoft/ba-p/4393040</link>
+      <pubDate>Mon, 24 Mar 2025 15:30:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/general-availability-for-collaboration-security-for-microsoft/ba-p/4393040</guid>
+      <description>The rapid digital transformation of workplaces worldwide has not only expanded collaboration opportunities but has also introduced new attack surfaces that cybercriminals are eager to exploit. Microsoft Teams, with over 320 million users, has emerged as a cornerstone of enterprise productivity. However, this increased adoption has also made it an appealing target for cyber threats. Adversaries have started exploiting Microsoft Teams for sophisticated attacks including impersonation and delivery of malicious payloads. Our research teams have observed threat actors Storm 1811 and Storm 1674 orch...</description>
+    </item>
+    <item>
+      <title>Discover and protect Service Accounts with Microsoft Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-and-protect-service-accounts-with-microsoft-defender/ba-p/4395347</link>
+      <pubDate>Mon, 24 Mar 2025 15:15:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-and-protect-service-accounts-with-microsoft-defender/ba-p/4395347</guid>
+      <description>When people think about &#8220;identities&#8221; many default to the human variety &#8211; a user with a username and password. But by most estimates, human identities are outnumbered more than 10:1 by their non-human counterparts.
+Non-human identities, which can encompass service accounts, cloud workload identities and even security &#8220;secrets&#8221;, &#160;are essential elements of the machine-to-machine communication that drives our digital world. Their critical nature also makes them prime targets for cyber-attacks.
+Today I am excited to announce the public preview of a new Service Account discovery module within Micros...</description>
     </item>
   </channel>
 </rss>

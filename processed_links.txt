@@ -571,3 +571,17 @@
 2025-03-21T07:08:41 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deprecation-of-microsoft-defender-application-guard/ba-p/4395724
 2025-03-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/public-preview-key-attestation-for-azure-managed-hsm/ba-p/4394135
 2025-03-24T14:41:09 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/life-after-app-v-server-exploring-options-for-application/ba-p/4396663
+2025-03-24T15:15:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-and-protect-service-accounts-with-microsoft-defender/ba-p/4395347
+2025-03-24T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/general-availability-for-collaboration-security-for-microsoft/ba-p/4393040
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-to-protect-custom-ai-applications-with-defender/ba-p/4396277
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-with-microsoft-defender-xdr-at-secure-2025/ba-p/4390817
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/accelerate-data-security-investigations-with-ai-powered-deep/ba-p/4396099
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-alert-triage-agents-in-microsoft-purview-powered-by/ba-p/4396041
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/building-layered-protection-new-microsoft-purview-data-security/ba-p/4395071
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/enhance-ai-security-and-governance-across-multi-model-and-multi/ba-p/4395593
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/mitigating-insider-risks-in-the-age-of-ai-with-microsoft-purview/ba-p/4396057
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/prevent-data-loss-across-your-ever-expanding-data-estate-with/ba-p/4396095
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/protecting-sensitive-information-in-the-era-of-ai-with-microsoft/ba-p/4395541
+2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/strengthen-data-security-posture-in-the-era-of-ai-with-microsoft/ba-p/4396096
+2025-03-24T16:00:34 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-threat-intelligence-briefing-agent/ba-p/4390821
+2025-03-24T16:08:04 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced/ba-p/4395997
