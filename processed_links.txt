@@ -588,3 +588,4 @@
 2025-03-24T16:34:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-microsoft-defender-xdr-at-secure-2025/ba-p/4390817
 2025-03-24T16:36:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/all-key-vaults-are-critical-but-some-are-more-critical-than/ba-p/4396706
 2025-03-24T17:23:01 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-capabilities-coming-to-microsoft-sentinel-this-spring/ba-p/4390357
+2025-03-25T08:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-create-overrides-for-log-search-alerts/ba-p/4396686
