@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Mar 2025 08:10:50 GMT</lastBuildDate>
-    <item>
-      <title>Azure Monitor: How To Create Overrides for Log Search Alerts</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-create-overrides-for-log-search-alerts/ba-p/4396686</link>
-      <pubDate>Tue, 25 Mar 2025 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-create-overrides-for-log-search-alerts/ba-p/4396686</guid>
-      <description>Hello blog readers &#128522;
-How many times have you found yourself in a situation where you created Azure Monitor alerts but the threshold you specified was not applicable to all the targeted resources? The side effects of this were:
-
-You were getting unnecessary alerts
-You were getting sort of false positives
-To fix the problem you had to create different alerts for different resources with different thresholds
-
-I faced this problem long time ago, and I blogged about a possible solution in the post called Azure Monitor: Use Dynamic Thresholds in Log Alerts. Despite that approach being effective, it ...</description>
-    </item>
+    <lastBuildDate>Tue, 25 Mar 2025 09:08:15 GMT</lastBuildDate>
   </channel>
 </rss>
