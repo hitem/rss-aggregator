@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Mar 2025 17:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 18:10:42 GMT</lastBuildDate>
+    <item>
+      <title>Mastering Regex with GitHub Copilot for Enhanced Azure WAF Security</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/mastering-regex-with-github-copilot-for-enhanced-azure-waf/ba-p/4397023</link>
+      <pubDate>Tue, 25 Mar 2025 17:21:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/mastering-regex-with-github-copilot-for-enhanced-azure-waf/ba-p/4397023</guid>
+      <description>Written in collaboration with davidfrazee&#160;
+Introduction
+Azure Web Application Firewall (WAF) is a cloud native security service that provides protection for web applications from common exploits and vulnerabilities. It provides centralized protection for applications hosted on Azure Front Door and Azure Application Gateway ensuring that malicious traffic is detected and blocked before reaching the application backend.
+Azure WAF leverages managed rulesets to actively protect web applications from threats and attacks. These rule sets are maintained by Azure, with the Default Ruleset (DRS) includ...</description>
+    </item>
   </channel>
 </rss>
