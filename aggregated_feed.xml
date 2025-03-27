@@ -3,50 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Mar 2025 18:10:42 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Sentinel Project Deployment Tracker</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-project-deployment-tracker/ba-p/4394174</link>
-      <pubDate>Thu, 27 Mar 2025 17:27:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-project-deployment-tracker/ba-p/4394174</guid>
-      <description>A noted pain point in the current OOB workbook is the need for manual updates to the watchlist to monitor migration or deployment status. In contrast, this workbook will automatically populate the completion percentage based on the selected parameter scope.&#160;
-Microsoft Sentinel Project Deployment Tracker workbook offers a&#8239;comprehensive, centralized view&#8239;of critical deployment components, including:&#160;
-
-Workspaces&#8239;and their configurations&#160;
-
-
-Data connectors&#8239;and their activation status&#160;
-
-
-Reporting metrics&#8239;for progress tracking&#160;
-
-
-Automation workflows&#8239;for operational efficiency&#160;
-
-
-Incident monitori...</description>
-    </item>
-    <item>
-      <title>Microsoft Sentinel - Custom ASIM Parser for Solarwind Data source</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-custom-asim-parser-for-solarwind-data-source/ba-p/4394173</link>
-      <pubDate>Thu, 27 Mar 2025 17:26:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-custom-asim-parser-for-solarwind-data-source/ba-p/4394173</guid>
-      <description>This article provides guidance on creating a custom Advanced Security Information Model (ASIM) parser for a log source that is not available in the out-of-the-box (OOB) data connector but supports the syslog log format. The process involves the following steps:
-
-First, collect sample logs from the log source to understand the data structure and fields.
-Next, identify the relevant schemas that the events from the log source represent. 
-Once the schemas are identified, map the fields from the log source to the corresponding schema fields. &#160;
-
-This mapping is done using Kusto Query Language (KQL) ...</description>
-    </item>
-    <item>
-      <title>Protect against Next.js CVE-2025-29927 with Azure Web Application Firewall (WAF)</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-next-js-cve-2025-29927-with-azure-web/ba-p/4396830</link>
-      <pubDate>Thu, 27 Mar 2025 17:16:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-next-js-cve-2025-29927-with-azure-web/ba-p/4396830</guid>
-      <description>Next.js versions prior to 12.3.5, 13.5.9, 14.2.25 and 15.2.3 are vulnerable to bypass authorization checks within a Next.js application, according to a recently published&#160;CVE-2025-29927.&#160;
-It is strongly recommended to upgrade Next.js to a patched version &#8211; 12.3.5, 13.5.9, 14.2.25 or 15.2.3.&#160;
-For Next.js versions 11.x which currently have no patches available, or other applications based on Next.js which cannot be patched immediately - creating a custom rule in Azure WAF can help mitigate this vulnerability. The custom rule will block any request with the header 'x-middleware-subrequest' which ...</description>
-    </item>
+    <lastBuildDate>Thu, 27 Mar 2025 19:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
