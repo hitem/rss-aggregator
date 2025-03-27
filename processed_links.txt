@@ -586,3 +586,6 @@
 2025-03-25T17:21:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/mastering-regex-with-github-copilot-for-enhanced-azure-waf/ba-p/4397023
 2025-03-27T02:50:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-hr-and-inbound-provisioning-world-s-best-boss/ba-p/4397769
 2025-03-27T13:12:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-organization-from-ingressnightmare-using-microsoft/ba-p/4397844
+2025-03-27T17:16:21 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-next-js-cve-2025-29927-with-azure-web/ba-p/4396830
+2025-03-27T17:26:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-custom-asim-parser-for-solarwind-data-source/ba-p/4394173
+2025-03-27T17:27:13 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-project-deployment-tracker/ba-p/4394174
