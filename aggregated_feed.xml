@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Mar 2025 12:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 13:18:19 GMT</lastBuildDate>
+    <item>
+      <title>Securing your organization from 'IngressNightmare' using Microsoft Security capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-organization-from-ingressnightmare-using-microsoft/ba-p/4397844</link>
+      <pubDate>Thu, 27 Mar 2025 13:12:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-organization-from-ingressnightmare-using-microsoft/ba-p/4397844</guid>
+      <description>&#160;
+Description
+On March 24, 2025, multiple vulnerabilities (CVE-2025-1097 (), CVE-2025-1098(8.8), CVE-2025-24514 (8.8) and CVE-2025-1974(9.8) were disclosed in ingress-nginx, a widely used Kubernetes Ingress controller. An Ingress controller manages external HTTP/S traffic and directs it to services in a Kubernetes cluster. The most severe vulnerability, identified as CVE-2025-1974, has been assigned a CVSS score of 9.8. Exploitation of these vulnerabilities allows attackers to execute arbitrary code within the ingress-nginx controller container.&#160;
+&#160;
+Impact
+Successful exploitation of these vulne...</description>
+    </item>
   </channel>
 </rss>

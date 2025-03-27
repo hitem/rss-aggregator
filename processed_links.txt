@@ -1,4 +1,3 @@
-2024-03-27T12:16:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-level-billing-change-for-defender-for-servers-customers/ba-p/4098143
 2024-03-27T15:22:01 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-123/ba-p/4098458
 2024-03-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368
 2024-03-27T22:52:44 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/faq-protecting-the-data-of-our-commercial-and-public-sector/ba-p/4097231
@@ -588,3 +587,4 @@
 2025-03-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4396765
 2025-03-25T17:21:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/mastering-regex-with-github-copilot-for-enhanced-azure-waf/ba-p/4397023
 2025-03-27T02:50:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-hr-and-inbound-provisioning-world-s-best-boss/ba-p/4397769
+2025-03-27T13:12:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-organization-from-ingressnightmare-using-microsoft/ba-p/4397844
