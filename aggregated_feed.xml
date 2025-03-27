@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 27 Mar 2025 02:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 03:23:07 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra HR and Inbound Provisioning &#8211; World&#8217;s Best Boss Edition</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-hr-and-inbound-provisioning-world-s-best-boss/ba-p/4397769</link>
+      <pubDate>Thu, 27 Mar 2025 02:50:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-hr-and-inbound-provisioning-world-s-best-boss/ba-p/4397769</guid>
+      <description>Hello everyone, this is&#160;David Loder again, with another topic inspired by a recent customer interaction. They had a complex on-prem AD setup that was preventing them from showing their desired management org structure in the M365 Exchange Online Global Address List.
+&#160;
+&#160;
+&#160;
+&#160;
+&#160;
+
+&#160;
+In this article we are going to look at the Entra ID HR/Inbound Provisioning flows, specifically at the boss manager attribute. Almost all customers with which I work are still running hybrid environments. Therefore, we&#8217;ll be looking at how HR/Inbound Provisioning gets the manager data to Active Directory correctly so ...</description>
+    </item>
   </channel>
 </rss>
