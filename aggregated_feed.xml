@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Mar 2025 09:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 10:08:22 GMT</lastBuildDate>
+    <item>
+      <title>Passwordless Authentication with FIDO2 Security Key for Remote Desktop Connection</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-authentication-with-fido2-security-key-for-remote/ba-p/4398347</link>
+      <pubDate>Fri, 28 Mar 2025 09:51:53 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-authentication-with-fido2-security-key-for-remote/ba-p/4398347</guid>
+      <description>Passwordless Authentication with FIDO2 Security Key for Remote Desktop Connection
+Hello Everyone, in this blog, we will explore how to use a FIDO2 security key to access a device using Remote Desktop Connection (RDP)&#8212;a Zero Trust approach where passwordless authentication is enforced.
+Recently, a customer asked me whether they could secure their device and enforce passwordless authentication for RDP access. While some FIDO2 security keys can also be used as smart cards with Certificate-Based Authentication (CBA), I will cover that topic in my next blog.
+In this post, let's focus on how we can ...</description>
+    </item>
   </channel>
 </rss>

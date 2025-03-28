@@ -588,3 +588,4 @@
 2025-03-27T17:16:21 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-next-js-cve-2025-29927-with-azure-web/ba-p/4396830
 2025-03-27T17:26:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-custom-asim-parser-for-solarwind-data-source/ba-p/4394173
 2025-03-27T17:27:13 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-project-deployment-tracker/ba-p/4394174
+2025-03-28T09:51:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-authentication-with-fido2-security-key-for-remote/ba-p/4398347
