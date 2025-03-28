@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Mar 2025 14:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 15:07:57 GMT</lastBuildDate>
+    <item>
+      <title>Exploring the Extensibility of Active Directory Migration Service (ADMS)&#8239;Device Migration</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4397075</link>
+      <pubDate>Fri, 28 Mar 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4397075</guid>
+      <description>Introduction
+Active directory migrations are a critical journey and a key success factor in your identity architecture for the future of your organization. Our portfolio offers services to assist your migration teams in various migration use cases, including acquisition, merger, divestiture, directory consolidation, and cloud enablement.
+Have you ever tried to migrate a device from one Active Directory environment to another? This is not an easy task especially when you try to scale your migration solution. Let us take you on our device migration journey.
+Overview of ADxS Services
+Active Direc...</description>
+    </item>
   </channel>
 </rss>
