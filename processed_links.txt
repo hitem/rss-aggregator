@@ -584,3 +584,6 @@
 2025-03-27T17:27:13 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-project-deployment-tracker/ba-p/4394174
 2025-03-28T09:51:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-authentication-with-fido2-security-key-for-remote/ba-p/4398347
 2025-03-28T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-extensibility-of-active-directory-migration/ba-p/4397075
+2025-03-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-your-legacy-vpn-with-an-identity-centric-ztna/ba-p/4395973
+2025-03-31T16:05:10 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-akamai-audit-logs-into-microsoft-sentinel-using-azure/ba-p/4395969
+2025-03-31T16:06:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-radware-waf-logs-with-microsoft-sentinel-using-logic/ba-p/4395970
