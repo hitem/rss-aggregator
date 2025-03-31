@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 31 Mar 2025 20:09:10 GMT</lastBuildDate>
-    <item>
-      <title>Case Management is now Generally Available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-is-now-generally-available/ba-p/4398558</link>
-      <pubDate>Mon, 31 Mar 2025 19:00:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-is-now-generally-available/ba-p/4398558</guid>
-      <description>We are thrilled to announce the general availability of our Case Management service, a significant milestone in our commitment to providing a unified, security-focused case management system for Security Operations (SecOps) teams. This release builds on a successful public preview phase and incorporates customer feedback to streamline and optimize your security workflows.&#160;
-Recapping the Journey to Public Preview
-In our previous blog post, we shared our vision for creating a case management system that addresses the unique needs of SecOps teams. Many teams using Microsoft Sentinel or Microsoft ...</description>
-    </item>
+    <lastBuildDate>Mon, 31 Mar 2025 21:07:26 GMT</lastBuildDate>
   </channel>
 </rss>
