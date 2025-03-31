@@ -3,47 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 31 Mar 2025 16:09:34 GMT</lastBuildDate>
-    <item>
-      <title>Integrating Radware WAF Logs with Microsoft Sentinel Using Logic Apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-radware-waf-logs-with-microsoft-sentinel-using-logic/ba-p/4395970</link>
-      <pubDate>Mon, 31 Mar 2025 16:06:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-radware-waf-logs-with-microsoft-sentinel-using-logic/ba-p/4395970</guid>
-      <description>&#160;
-
-If you're using Radware Web Application Firewall (WAF) within your organization for security monitoring, integrating it with Microsoft Sentinel provides enhanced visibility and analytics. While Radware does not have a built-in connector for Microsoft Sentinel, we can leverage Azure Logic Apps to ingest logs via API calls, process the data, and send it to Microsoft Sentinel.&#160;
-This guide walks you through the steps required to integrate Radware WAF logs with Microsoft Sentinel using Logic Apps.&#160;
-Prerequisites
-Before beginning the integration process, ensure you have the following:
-
-An&#160;active ...</description>
-    </item>
-    <item>
-      <title>Ingesting Akamai Audit Logs into Microsoft Sentinel using Azure Function Apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-akamai-audit-logs-into-microsoft-sentinel-using-azure/ba-p/4395969</link>
-      <pubDate>Mon, 31 Mar 2025 16:05:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-akamai-audit-logs-into-microsoft-sentinel-using-azure/ba-p/4395969</guid>
-      <description>&#160;
-
-Introduction
-Akamai provides extensive audit logs that can be valuable for security monitoring and compliance. To integrate Akamai Audit logs with Microsoft Sentinel, we can use Azure Function Apps to retrieve logs via the Akamai EdgeGrid API and send them to Log Analytics Workspace.&#160;
-In this guide, we will walk through deploying an Azure Function App that fetches Akamai Audit Logs and ingests them into Microsoft Sentinel.&#160;
-Prerequisites
-Before starting, ensure you have:&#160;
-
-An active Azure subscription with Microsoft Sentinel enabled.&#160;
-
-
-Akamai API credentials (EdgeGrid authentication: clien...</description>
-    </item>
-    <item>
-      <title>Replace your legacy VPN with an identity-centric ZTNA</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-your-legacy-vpn-with-an-identity-centric-ztna/ba-p/4395973</link>
-      <pubDate>Mon, 31 Mar 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-your-legacy-vpn-with-an-identity-centric-ztna/ba-p/4395973</guid>
-      <description>Traditional VPNs are no longer sufficient to protect your organization. Because legacy VPNs typically grant connected users and devices complete network access, an attacker who compromises an employee's credentials or device can gain access to your network and move laterally without restrictions, potentially compromising as many private applications and resources as they can discover.&#160;&#160;
-Modern network security requires a more sophisticated approach: Zero Trust. Verifying explicitly, enforcing least privilege, and assuming breach minimizes your attack surface and reduces risk.&#160;&#160;
-Microsoft Entra...</description>
-    </item>
+    <lastBuildDate>Mon, 31 Mar 2025 17:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
