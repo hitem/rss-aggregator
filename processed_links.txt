@@ -585,3 +585,4 @@
 2025-04-01T05:15:58 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingest-custom-data-into-azure-log-analytics-via-api-using/ba-p/4399413
 2025-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-future-of-ciem-in-microsoft-defender-for-cloud/ba-p/4398169
 2025-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-change-announcement-microsoft-entra-permissions/ba-p/4399382
+2025-04-01T16:33:55 https://techcommunity.microsoft.com/t5/microsoft-security-blog/decrypt-dke-protected-content-by-super-user/ba-p/4399424
