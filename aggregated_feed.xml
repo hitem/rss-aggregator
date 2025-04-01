@@ -3,14 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Apr 2025 17:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 18:09:51 GMT</lastBuildDate>
     <item>
-      <title>Decrypt DKE protected content by Super User</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/decrypt-dke-protected-content-by-super-user/ba-p/4399424</link>
-      <pubDate>Tue, 01 Apr 2025 16:33:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/decrypt-dke-protected-content-by-super-user/ba-p/4399424</guid>
-      <description>In today's digital age, safeguarding sensitive information is paramount for every organization. One of the most advanced methods to ensure data security is through Double Key Encryption (DKE) protection from the Microsoft Purview solution. This encryption technique uses two keys to protect data: one key is stored securely within the organization's control, while the second key is managed by Microsoft Azure.
-However, decrypting DKE protected content by the organization without user interference is a complex process, especially when dealing with highly sensitive information. This is where the su...</description>
+      <title>Explore how to secure AI by attending our Learn Live Series</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/explore-how-to-secure-ai-by-attending-our-learn-live-series/ba-p/4399703</link>
+      <pubDate>Tue, 01 Apr 2025 17:28:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/explore-how-to-secure-ai-by-attending-our-learn-live-series/ba-p/4399703</guid>
+      <description>&#160;Register to attend Learn Live: Security for AI with Microsoft Purview and Defender for Cloud starting April 15&#160;
+In this month-long webinar series, IT pros and security practitioners can hone their security skillsets with a deeper understanding of AI-centric challenges, opportunities, and best practices using Microsoft Security solutions.&#160;&#160;
+Each session will follow a hosted demo format and cover a Microsoft Learn module (topics listed below). You can ask the SMEs questions via the chat as they show you how to use Microsoft Purview and Microsoft Defender for Cloud to protect your organization i...</description>
     </item>
   </channel>
 </rss>
