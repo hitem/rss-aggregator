@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Apr 2025 18:09:51 GMT</lastBuildDate>
-    <item>
-      <title>Explore how to secure AI by attending our Learn Live Series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/explore-how-to-secure-ai-by-attending-our-learn-live-series/ba-p/4399703</link>
-      <pubDate>Tue, 01 Apr 2025 17:28:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/explore-how-to-secure-ai-by-attending-our-learn-live-series/ba-p/4399703</guid>
-      <description>&#160;Register to attend Learn Live: Security for AI with Microsoft Purview and Defender for Cloud starting April 15&#160;
-In this month-long webinar series, IT pros and security practitioners can hone their security skillsets with a deeper understanding of AI-centric challenges, opportunities, and best practices using Microsoft Security solutions.&#160;&#160;
-Each session will follow a hosted demo format and cover a Microsoft Learn module (topics listed below). You can ask the SMEs questions via the chat as they show you how to use Microsoft Purview and Microsoft Defender for Cloud to protect your organization i...</description>
-    </item>
+    <lastBuildDate>Tue, 01 Apr 2025 19:01:51 GMT</lastBuildDate>
   </channel>
 </rss>
