@@ -588,3 +588,4 @@
 2025-03-31T16:05:10 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-akamai-audit-logs-into-microsoft-sentinel-using-azure/ba-p/4395969
 2025-03-31T16:06:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-radware-waf-logs-with-microsoft-sentinel-using-logic/ba-p/4395970
 2025-03-31T19:00:55 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-is-now-generally-available/ba-p/4398558
+2025-04-01T05:15:58 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingest-custom-data-into-azure-log-analytics-via-api-using/ba-p/4399413

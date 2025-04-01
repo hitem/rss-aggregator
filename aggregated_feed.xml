@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Apr 2025 05:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 06:12:00 GMT</lastBuildDate>
+    <item>
+      <title>Ingest Custom Data into Azure Log Analytics via API Using PowerShell</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingest-custom-data-into-azure-log-analytics-via-api-using/ba-p/4399413</link>
+      <pubDate>Tue, 01 Apr 2025 05:15:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingest-custom-data-into-azure-log-analytics-via-api-using/ba-p/4399413</guid>
+      <description>Data can be sent to Log Analytics in various ways, depending on the type of data you want to ingest. For example, you can send custom logs or system information from your computers to Log Analytics, or any data relevant to your business needs.&#160;
+Ways of Ingesting Data into Log Analytics&#160;
+Azure Log Analytics supports several data ingestion methods, including:&#160;
+&#160; &#160; 1. Agent-Based Ingestion:&#160;
+
+Azure Monitor Agent (AMA) or Log Analytics Agent for system logs and metrics.&#160;
+
+&#160; &#160; 2. Diagnostic Settings:&#160;
+
+Directly stream Azure resource diagnostic logs to Log Analytics.&#160;
+
+&#160; &#160; 3. Data Collection Rules (...</description>
+    </item>
   </channel>
 </rss>
