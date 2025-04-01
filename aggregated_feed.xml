@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Apr 2025 15:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 16:08:41 GMT</lastBuildDate>
+    <item>
+      <title>The Future of CIEM in Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-future-of-ciem-in-microsoft-defender-for-cloud/ba-p/4398169</link>
+      <pubDate>Tue, 01 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-future-of-ciem-in-microsoft-defender-for-cloud/ba-p/4398169</guid>
+      <description>Today, Microsoft announced the planned retirement of Microsoft Entra Permissions Management, targeted for October 1, 2025. As we navigate this transition, we want to reassure customers of our ongoing commitment to deliver Cloud Infrastructure Entitlement Management (CIEM) capabilities within Microsoft Defender for Cloud. Our investment in CIEM remains a strategic priority and an integral component of our comprehensive Cloud-Native Application Protection Platform (CNAPP).
+What Does This Mean for Your Defender for Cloud Experience?
+The planned changes around Microsoft Entra Permissions Managemen...</description>
+    </item>
+    <item>
+      <title>Important change announcement: Microsoft Entra Permissions Management end of sale and retirement</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-change-announcement-microsoft-entra-permissions/ba-p/4399382</link>
+      <pubDate>Tue, 01 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-change-announcement-microsoft-entra-permissions/ba-p/4399382</guid>
+      <description>We have an important update related to Microsoft Entra Permissions Management, which will require immediate action from the customers who are currently using this product. Thank you for your ongoing partnership, and for reviewing and taking the needed actions.&#160;
+Effective today, April 1, 2025, Microsoft Entra Permissions Management will no longer be available for purchase by new Enterprise Agreement and direct customers, and effective May 1, 2025, it will no longer be available for purchase by new CSP customers. Effective October 1, 2025, we will retire Microsoft Entra Permissions Management an...</description>
+    </item>
   </channel>
 </rss>

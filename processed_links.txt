@@ -1,7 +1,3 @@
-2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-vulnerability-management-ga-in-government-cloud/ba-p/4101955
-2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-api-retirement/ba-p/4090534
-2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-deprecation-of-azure-ad-powershell-and-msonline/ba-p/4094536
-2024-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra/ba-p/3796391
 2024-04-01T17:03:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-the-ingestion-of-aws-cloudwatch-logs-into-microsoft/ba-p/4100565
 2024-04-01T17:44:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-in-public-preview/ba-p/4102370
 2024-04-01T19:14:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/native-first-cloud-security-approach/ba-p/4102367
@@ -587,3 +583,5 @@
 2025-03-31T16:06:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-radware-waf-logs-with-microsoft-sentinel-using-logic/ba-p/4395970
 2025-03-31T19:00:55 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-is-now-generally-available/ba-p/4398558
 2025-04-01T05:15:58 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingest-custom-data-into-azure-log-analytics-via-api-using/ba-p/4399413
+2025-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-future-of-ciem-in-microsoft-defender-for-cloud/ba-p/4398169
+2025-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-change-announcement-microsoft-entra-permissions/ba-p/4399382
