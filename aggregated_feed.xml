@@ -3,26 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Apr 2025 17:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 18:10:52 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Defender for Cloud Customer Newsletter</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4400166</link>
-      <pubDate>Wed, 02 Apr 2025 16:38:10 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4400166</guid>
-      <description>What&#8217;s new in Defender for Cloud?
-We're enhancing the severity levels of recommendations to improve risk assessment and prioritization. As part of this update, we reevaluated all severity classifications and introduced a new level &#8212; Critical. See this page for more info.&#160;&#160;
-General Availability of File Integrity Monitoring (FIM) based on Microsoft Defender for Endpoint in Azure Government
-File Integrity Monitoring based on Microsoft Defender for Endpoint is now GA in Azure Government (GCCH) as part of Defender for Servers Plan 2.
-For more details, please refer to our documentation
-Blog(s) of th...</description>
-    </item>
-    <item>
-      <title>Trusted Signing Public Preview Update</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/trusted-signing-public-preview-update/ba-p/4399713</link>
-      <pubDate>Wed, 02 Apr 2025 16:16:38 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/trusted-signing-public-preview-update/ba-p/4399713</guid>
-      <description>Nearly a year ago we announced the Public Preview of Trusted Signing with availability for organizations with 3 years or more of verifiable history to onboard to the service to get a fully managed code signing experience to simplify the efforts for Windows app developers. Over the past year, we&#8217;ve announced new features including the Preview support for Individual Developers, and we highlighted how the service contributes to the Windows Security story at Microsoft BUILD 2024 in the Unleash Windows App Security &amp; Reputation with Trusted Signing session.
-During the Public Preview, we have obtain...</description>
+      <title>New innovations in Microsoft Entra to strengthen AI security and identity protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-innovations-in-microsoft-entra-to-strengthen-ai-security-and/ba-p/3827393</link>
+      <pubDate>Wed, 02 Apr 2025 18:08:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-innovations-in-microsoft-entra-to-strengthen-ai-security-and/ba-p/3827393</guid>
+      <description>Howdy folks!
+I hope you&#8217;re as excited as I am about what feels like day-by-day advancements in AI and how it&#8217;s changing the game for how we work &#8211; and just as importantly, how we secure our organizations. AI is accelerating decision-making, automating protections, and strengthening defenses. But AI itself needs protection. As your org adopts AI, you&#8217;re being challenged to ensure identities, data, and access remain secure against emerging threats.
+And the challenges are only growing. As you&#8217;ll see in the graphic below,&#160;eighty-four percent of identity and network security leaders say employee us...</description>
     </item>
   </channel>
 </rss>
