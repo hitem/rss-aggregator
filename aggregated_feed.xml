@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Apr 2025 15:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 16:09:18 GMT</lastBuildDate>
+    <item>
+      <title>Strengthening Email Ecosystem: Outlook&#8217;s New Requirements for High&#8208;Volume Senders</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-email-ecosystem-outlook-s-new-requirements-for/ba-p/4399730</link>
+      <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-email-ecosystem-outlook-s-new-requirements-for/ba-p/4399730</guid>
+      <description>Introduction
+In an era where email remains one of the most widely used tools for personal and business communications, Outlook is stepping up its commitment to protect inboxes and preserve trust in the digital ecosystem. Today, we&#8217;re announcing new requirements and best practices designed to strengthen email authentication for domains sending more than 5,000 emails per day.&#160;
+These new requirements will enforce stricter standards by including mandatory SPF, DKIM, DMARC settings. Outlook is pushing the broader industry toward best practices and safeguarding the millions of individuals and small ...</description>
+    </item>
   </channel>
 </rss>
