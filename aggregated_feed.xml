@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Apr 2025 18:10:52 GMT</lastBuildDate>
-    <item>
-      <title>New innovations in Microsoft Entra to strengthen AI security and identity protection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-innovations-in-microsoft-entra-to-strengthen-ai-security-and/ba-p/3827393</link>
-      <pubDate>Wed, 02 Apr 2025 18:08:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-innovations-in-microsoft-entra-to-strengthen-ai-security-and/ba-p/3827393</guid>
-      <description>Howdy folks!
-I hope you&#8217;re as excited as I am about what feels like day-by-day advancements in AI and how it&#8217;s changing the game for how we work &#8211; and just as importantly, how we secure our organizations. AI is accelerating decision-making, automating protections, and strengthening defenses. But AI itself needs protection. As your org adopts AI, you&#8217;re being challenged to ensure identities, data, and access remain secure against emerging threats.
-And the challenges are only growing. As you&#8217;ll see in the graphic below,&#160;eighty-four percent of identity and network security leaders say employee us...</description>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 19:00:48 GMT</lastBuildDate>
   </channel>
 </rss>
