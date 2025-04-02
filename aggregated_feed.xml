@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Apr 2025 20:08:33 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft collaborates with Delinea to offer Cloud Infrastructure Entitlements Management solution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-collaborates-with-delinea-to-offer-cloud/ba-p/4400198</link>
-      <pubDate>Wed, 02 Apr 2025 19:40:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-collaborates-with-delinea-to-offer-cloud/ba-p/4400198</guid>
-      <description>On April 1, 2025, we announced our plans to retire Microsoft Entra Permissions Management on October 1, 2025. The decision for this retirement was made strategically to align with Microsoft's Security investments and differentiate our core identity categories. We remain committed to delivering top-tier solutions across the Microsoft Entra portfolio, which includes Microsoft Entra ID, Microsoft Entra Suite (inclusive of ID Governance, ID Protection, Verified ID, Internet Access, and Private Access), Microsoft Entra External ID, Microsoft Entra Workload ID, and more.&#160;&#160;
-Existing customers will re...</description>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 21:06:51 GMT</lastBuildDate>
   </channel>
 </rss>
