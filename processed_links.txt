@@ -582,3 +582,4 @@
 2025-04-02T16:16:38 https://techcommunity.microsoft.com/t5/microsoft-security-blog/trusted-signing-public-preview-update/ba-p/4399713
 2025-04-02T16:38:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4400166
 2025-04-02T18:08:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-innovations-in-microsoft-entra-to-strengthen-ai-security-and/ba-p/3827393
+2025-04-02T19:40:09 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-collaborates-with-delinea-to-offer-cloud/ba-p/4400198
