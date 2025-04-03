@@ -1,5 +1,3 @@
-2024-04-03T15:44:23 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2024/ba-p/4104536
-2024-04-03T15:56:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2024/ba-p/4104169
 2024-04-03T18:47:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unleashing-the-power-of-microsoft-defender-for-cloud-unique/ba-p/4102392
 2024-04-04T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configmgr-avoiding-remote-management-point-pitfalls/ba-p/4102508
 2024-04-07T02:24:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-february-and-march-2024/ba-p/4108241
@@ -583,3 +581,4 @@
 2025-04-02T16:38:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4400166
 2025-04-02T18:08:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-innovations-in-microsoft-entra-to-strengthen-ai-security-and/ba-p/3827393
 2025-04-02T19:40:09 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-collaborates-with-delinea-to-offer-cloud/ba-p/4400198
+2025-04-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/tech-accelerator-azure-security-and-ai-adoption/ba-p/4400344
