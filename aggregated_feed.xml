@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 03 Apr 2025 16:09:15 GMT</lastBuildDate>
-    <item>
-      <title>Tech Accelerator: Azure security and AI adoption</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/tech-accelerator-azure-security-and-ai-adoption/ba-p/4400344</link>
-      <pubDate>Thu, 03 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/tech-accelerator-azure-security-and-ai-adoption/ba-p/4400344</guid>
-      <description>Are you looking for guidance on how to effectively integrate security best practices within your Azure and AI projects? We know the pace of technological innovation offers as many opportunities as it does challenges. However, security cannot be an afterthought as you create Azure deployments and accelerate AI solutions.&#160;&#160;
-That&#8217;s why we&#8217;re inviting you to attend Tech Accelerator: Azure Security and AI Adoption on April 22. Designed for developers and cloud architects, this one-day virtual event will equip you with the essential guidance and resources you need to securely plan, build, manage, an...</description>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 17:07:21 GMT</lastBuildDate>
   </channel>
 </rss>
