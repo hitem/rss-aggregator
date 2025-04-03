@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 03 Apr 2025 17:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 18:10:37 GMT</lastBuildDate>
+    <item>
+      <title>Automating Azure Resource Diagnostics Log Forwarding Between Tenants with PowerShell</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-azure-resource-diagnostics-log-forwarding-between/ba-p/4395966</link>
+      <pubDate>Thu, 03 Apr 2025 18:09:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-azure-resource-diagnostics-log-forwarding-between/ba-p/4395966</guid>
+      <description>As a Managed Security Service Provider (MSSP), there is often a need to collect and forward logs from customer tenants to the MSSP's Sentinel instance for comprehensive security monitoring and analysis. When customers acquire new businesses or operate multiple Azure tenants, they need a streamlined approach to manage security operations across all tenants. This involves consolidating logs into a single Sentinel instance to maintain a unified security posture and simplify management.&#160;
+Current Challenges:
+Forwarding logs across tenants can be done manually by setting up logging for each resource...</description>
+    </item>
   </channel>
 </rss>
