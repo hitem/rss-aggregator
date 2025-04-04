@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 04 Apr 2025 15:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 16:08:48 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s new in Microsoft Entra &#8211; March 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2025/ba-p/4352581</link>
+      <pubDate>Fri, 04 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2025/ba-p/4352581</guid>
+      <description>Microsoft has introduced new capabilities in Microsoft Entra to enhance AI security and identity protection. These innovations focus on two main areas: securing AI applications and leveraging AI to bolster security measures. To protect AI applications, Microsoft Entra Internet Access now offers granular, identity-based access controls, allowing organizations to tailor policies for different AI apps based on user roles and risk levels. Additionally, AI-driven features in Microsoft Security Copilot assist in optimizing Conditional Access policies and automating identity lifecycle management, the...</description>
+    </item>
   </channel>
 </rss>
