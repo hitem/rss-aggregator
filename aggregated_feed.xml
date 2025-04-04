@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 04 Apr 2025 17:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 18:10:25 GMT</lastBuildDate>
+    <item>
+      <title>Multi-workspace for Multi-tenant is now in Public Preview in Microsoft's Unified SecOps Platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in/ba-p/4398229</link>
+      <pubDate>Fri, 04 Apr 2025 18:08:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in/ba-p/4398229</guid>
+      <description>We are thrilled to announce that our unified security operations (SecOps) platform now supports multi workspaces for multiple tenants, currently available in public preview. This marks a significant advancement in our commitment to providing comprehensive security solutions tailored to the diverse needs of our customers. The unified platform integrates the capabilities of Microsoft Sentinel, Defender XDR, and more, offering a seamless and robust experience.&#160;
+What's Included in the Microsoft Unified Security Operations Platform?&#160;
+The unified SecOps platform integrates several advanced features ...</description>
+    </item>
+    <item>
+      <title>Multi Workspace for Single tenant is now in Public Preview in Microsoft&#8217;s unified SecOps platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-single-tenant-is-now-in-public-preview-in/ba-p/4398228</link>
+      <pubDate>Fri, 04 Apr 2025 18:07:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-single-tenant-is-now-in-public-preview-in/ba-p/4398228</guid>
+      <description>We are excited to continue to expand the use cases addressed with our unified SecOps platform, which brings the capabilities of Microsoft Sentinel, Defender XDR, Security Copilot, Threat Intelligence and more into a single experience with new and more robust functionality. Now, customers can onboard and manage multiple workspaces across Microsoft Sentinel and Defender in one place.
+Key Benefits of Multi Workspace Experience
+The multi-workspace experience offers several key benefits that enhance security operations:&#160;
+
+Unified Entity View: Customers can view all relevant entity data from multipl...</description>
+    </item>
   </channel>
 </rss>

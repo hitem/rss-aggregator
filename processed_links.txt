@@ -582,3 +582,5 @@
 2025-04-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/tech-accelerator-azure-security-and-ai-adoption/ba-p/4400344
 2025-04-03T18:09:51 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-azure-resource-diagnostics-log-forwarding-between/ba-p/4395966
 2025-04-04T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2025/ba-p/4352581
+2025-04-04T18:07:21 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-single-tenant-is-now-in-public-preview-in/ba-p/4398228
+2025-04-04T18:08:11 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in/ba-p/4398229
