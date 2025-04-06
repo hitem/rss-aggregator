@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 06 Apr 2025 15:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 16:07:55 GMT</lastBuildDate>
+    <item>
+      <title>Guidance for handling CVE-2025-30065 using Microsoft Security capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-30065-using-microsoft-security/ba-p/4401362</link>
+      <pubDate>Sun, 06 Apr 2025 15:30:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-30065-using-microsoft-security/ba-p/4401362</guid>
+      <description>&#160;
+Short Description:&#160;&#160;
+A newly disclosed critical vulnerability (CVE-2025-30065) in Apache Parquet, a popular open-source file format used for big data processing, could allow remote code execution (RCE) if a system imports a specially crafted malicious Parquet file. This flaw, rated with the highest CVSS severity score of 10.0, affects the parquet-java library (formerly parquet-mr).&#160;
+&#160;
+Impact:&#160;&#160;
+While this vulnerability sounds alarming, the likelihood of real-world exploitation is considered low. Exploitation requires a rare scenario: an application or developer must process a malicious Parqu...</description>
+    </item>
   </channel>
 </rss>

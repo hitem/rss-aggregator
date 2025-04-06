@@ -584,3 +584,4 @@
 2025-04-04T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2025/ba-p/4352581
 2025-04-04T18:07:21 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-single-tenant-is-now-in-public-preview-in/ba-p/4398228
 2025-04-04T18:08:11 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in/ba-p/4398229
+2025-04-06T15:30:01 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-30065-using-microsoft-security/ba-p/4401362
