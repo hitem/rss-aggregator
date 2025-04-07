@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Apr 2025 05:08:39 GMT</lastBuildDate>
-    <item>
-      <title>Passwordless RDP Authentication for On-Prem Servers with Smart Cards (FIDO2 Security Key)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-rdp-authentication-for-on-prem-servers-with-smart/ba-p/4401370</link>
-      <pubDate>Mon, 07 Apr 2025 04:46:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-rdp-authentication-for-on-prem-servers-with-smart/ba-p/4401370</guid>
-      <description>Hello Everyone, in my previous blog, I discussed how to use FIDO2 Security Key Passwordless Authentication with Entra or Hybrid Joined devices for Remote Desktop Connection. In this blog, we will discuss how a FIDO2 Security Key can be used as a smart card for Remote Desktop Connection Protocol on on-prem Active Directory domain-joined servers. If you have not gone through my last article, you can click here. Many people have written several articles and blogs on similar topics, so I apologize if you find it duplicate.
-Recently, a customer asked me whether it was possible to authenticate using...</description>
-    </item>
+    <lastBuildDate>Mon, 07 Apr 2025 06:12:09 GMT</lastBuildDate>
   </channel>
 </rss>
