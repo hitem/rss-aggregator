@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Apr 2025 07:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 08:11:55 GMT</lastBuildDate>
+    <item>
+      <title>How to identify Azure resources using default outbound Internet access?</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-identify-azure-resources-using-default-outbound-internet/ba-p/4400755</link>
+      <pubDate>Mon, 07 Apr 2025 07:51:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-identify-azure-resources-using-default-outbound-internet/ba-p/4400755</guid>
+      <description>The default outbound access problem
+On 30 September 2025, default outbound access connectivity for virtual machines in Azure will be retired (see announcement). After this date, all new VMs that require internet access will need to use explicit outbound connectivity methods such as Azure NAT Gateway, Azure Load Balancer outbound rules, an Azure Firewall/NVA, or a directly attached Azure public IP address.
+&#160;
+Existing VMs that use default outbound access will continue to work after this retirement, however, we strongly recommend transitioning to an explicit outbound method so that:
+&#160;
+
+Your workl...</description>
+    </item>
   </channel>
 </rss>
