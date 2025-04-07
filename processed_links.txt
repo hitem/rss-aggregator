@@ -586,3 +586,4 @@
 2025-04-06T15:30:01 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-30065-using-microsoft-security/ba-p/4401362
 2025-04-07T04:46:52 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/passwordless-rdp-authentication-for-on-prem-servers-with-smart/ba-p/4401370
 2025-04-07T07:51:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-identify-azure-resources-using-default-outbound-internet/ba-p/4400755
+2025-04-07T12:53:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2025/ba-p/4401552

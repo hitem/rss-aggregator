@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 07 Apr 2025 12:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 13:20:00 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - April 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2025/ba-p/4401552</link>
+      <pubDate>Mon, 07 Apr 2025 12:53:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2025/ba-p/4401552</guid>
+      <description>Microsoft Defender XDRMonthly newsApril 2025 EditionThis is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from March 2025. Defender for Cloud has it's own Monthly News post, have a look at&#160;their blog space.&#160;&#9200; April 9th &amp; 10th is Microsoft Secure! Make sure you join this virtual event to hear about our latest product announcements.&#160;
+Three broadcast times are available, offering opportunities to get your questions answered by subject matter ex...</description>
+    </item>
   </channel>
 </rss>
