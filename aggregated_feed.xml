@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Apr 2025 19:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 20:00:41 GMT</lastBuildDate>
+    <item>
+      <title>&#8220;Build Your Own&#8221; O365 Data Protection Impact Assessment for the Public Sector</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/build-your-own-o365-data-protection-impact-assessment-for-the/ba-p/4401977</link>
+      <pubDate>Tue, 08 Apr 2025 19:30:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/build-your-own-o365-data-protection-impact-assessment-for-the/ba-p/4401977</guid>
+      <description>At Microsoft, we are committed to helping our public sector customers embrace the most cutting-edge technologies while ensuring they have the information they need to enable them to continue to meet their compliance obligations. It is in that spirit, and based on customer feedback that we are pleased to share our revamped &#8220;Build Your Own&#8221; Data Protection Impact Assessment template for Office 365. &#160;
+A Data Protection Impact Assessment (&#8220;DPIA&#8221;) is a process for assessing and demonstrating data protection compliance as mandated by the General Data Protection Regulation (&#8220;GDPR&#8221;). The GDPR requires...</description>
+    </item>
   </channel>
 </rss>

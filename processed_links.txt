@@ -584,3 +584,4 @@
 2025-04-07T07:51:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-identify-azure-resources-using-default-outbound-internet/ba-p/4400755
 2025-04-07T12:53:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2025/ba-p/4401552
 2025-04-08T00:42:37 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-webinar-series-how-to-secure-access-for-your-employees-with/ba-p/4371525
+2025-04-08T19:30:34 https://techcommunity.microsoft.com/t5/microsoft-security-blog/build-your-own-o365-data-protection-impact-assessment-for-the/ba-p/4401977
