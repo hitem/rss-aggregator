@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Apr 2025 00:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 02:19:06 GMT</lastBuildDate>
+    <item>
+      <title>New webinar series: How to secure access for your employees with the Microsoft Entra Suite</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-webinar-series-how-to-secure-access-for-your-employees-with/ba-p/4371525</link>
+      <pubDate>Tue, 08 Apr 2025 00:42:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-webinar-series-how-to-secure-access-for-your-employees-with/ba-p/4371525</guid>
+      <description>We're excited to announce a brand-new webinar series all about the Microsoft Entra Suite. If you're looking to secure access for your employees and streamline your operations, this is for you!
+The Microsoft Entra Suite is an all-in-one Zero Trust user access solution that unifies access policy across identities, endpoints, and networks, enforces least privilege access to all resources, simplifies the user experience, and reduces your on-premises security solutions footprint. It makes it easy to protect your employees&#8217; identities and secure their access to any app or resource, regardless of whe...</description>
+    </item>
   </channel>
 </rss>
