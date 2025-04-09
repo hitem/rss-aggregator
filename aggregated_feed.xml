@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 09 Apr 2025 15:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 16:09:21 GMT</lastBuildDate>
+    <item>
+      <title>Automatic attack disruption: Enhanced containment for critical assets and shadow IT</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/automatic-attack-disruption-enhanced-containment-for-critical/ba-p/4402157</link>
+      <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/automatic-attack-disruption-enhanced-containment-for-critical/ba-p/4402157</guid>
+      <description>Staying ahead of attackers is tough, as they constantly evolve and use advanced techniques like AI to exploit vulnerabilities. Protecting high-value assets is even harder, as these are prime targets. Security teams must constantly adapt to outpace attackers, balancing proactive measures with the need for speed and innovation. This is why Microsoft Defender XDR developed automatic attack disruption, a built-in self-defense capability that contains in-progress attacks to prevent further lateral movement &amp; damage to an organization.We&#8217;re thrilled to introduce new, extended capabilities in automat...</description>
+    </item>
   </channel>
 </rss>
