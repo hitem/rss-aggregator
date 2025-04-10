@@ -3,15 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Apr 2025 14:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 15:08:39 GMT</lastBuildDate>
     <item>
-      <title>Protect what matters to your organization using filtering in Defender for Storage</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-what-matters-to-your-organization-using-filtering-in/ba-p/4402993</link>
-      <pubDate>Thu, 10 Apr 2025 13:50:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-what-matters-to-your-organization-using-filtering-in/ba-p/4402993</guid>
-      <description>Microsoft Defender for Storage is a cloud-native, agentless security solution within Microsoft Defender for Cloud, part of Microsoft&#8217;s CNAPP offering. With seamless onboarding, it helps safeguard your organization&#8217;s most valuable data by detecting and preventing malicious uploads, sensitive data exfiltration, and data corruption. Powered by Microsoft Threat Intelligence, it delivers advanced threat detection to enhance your storage security.
-Are all crown jewels made equally?
-Defender for Storage provides exclusive, agentless malware protection for Azure Blob Storage, helping detect and mitiga...</description>
+      <title>Insights from the Secure Employee Access report reveal the need for unified access security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/insights-from-the-secure-employee-access-report-reveal-the-need/ba-p/2520425</link>
+      <pubDate>Thu, 10 Apr 2025 15:04:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/insights-from-the-secure-employee-access-report-reveal-the-need/ba-p/2520425</guid>
+      <description>Traditional, highly specialized, and siloed approaches to securing employee access aren&#8217;t cutting it anymore. In fact, 98% of security leaders believe closer collaboration between identity and network teams would enhance security and efficiency. This is just one of the findings of the Secure Employee Access in the Age of AI report where we surveyed 300 security leaders to learn how their security strategies and investments are evolving as they tackle novel security challenges and enable secure AI transformation. This report focuses on key statistics and actionable insights to reimagine how to ...</description>
     </item>
   </channel>
 </rss>
