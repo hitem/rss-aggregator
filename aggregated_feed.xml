@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Apr 2025 00:38:05 GMT</lastBuildDate>
-    <item>
-      <title>Meet the Microsoft security experts who reinforce your SecOps 24/7</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-the-microsoft-security-experts-who-reinforce-your-secops-24/ba-p/4402658</link>
-      <pubDate>Wed, 09 Apr 2025 23:21:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-the-microsoft-security-experts-who-reinforce-your-secops-24/ba-p/4402658</guid>
-      <description>
-In today&#8217;s evolving digital landscape, cybersecurity is more than technology, products, and platforms; it&#8217;s the people behind the scenes who work 24/7 to ensure organizations remain protected.&#160;
-At Microsoft, we are also defenders. We understand the challenges facing Security Operations Centers (SOCs). We created Microsoft Defender Experts for XDR, a comprehensive Managed Extended Detection and Response (MXDR) service, to reinforce our customer&#8217;s in-house SOC, help security teams focus on what matters most, and provide CISOs with more peace of mind.&#160;
-Microsoft Defender Experts for XDR combines...</description>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 02:19:08 GMT</lastBuildDate>
   </channel>
 </rss>
