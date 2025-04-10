@@ -3,24 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Apr 2025 19:01:33 GMT</lastBuildDate>
-    <item>
-      <title>The Ultimate Guide to Microsoft Security at RSAC 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-ultimate-guide-to-microsoft-security-at-rsac-2025/ba-p/4402554</link>
-      <pubDate>Thu, 10 Apr 2025 18:47:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-ultimate-guide-to-microsoft-security-at-rsac-2025/ba-p/4402554</guid>
-      <description>So you just finished watching Microsoft Secure. That means by now, you&#8217;ve heard about our new protections for AI and Microsoft Security Copilot agents. These innovations will be the focus of Microsoft Security&#8217;s sessions and activities at RSACTM 2025 Conference (RSAC 2025).&#160;&#160;
-The can&#8217;t-miss conference is just around the corner. Microsoft Security is bringing an exciting lineup of sessions, expert panels, and exclusive networking opportunities to empower security professionals in the era of AI. Our entire presence at RSAC 2025 is designed to help you boost your AI skills so you can stay ahead o...</description>
-    </item>
-    <item>
-      <title>Watch and learn from Microsoft security experts who reinforce your SecOps 24/7</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/watch-and-learn-from-microsoft-security-experts-who-reinforce/ba-p/4402658</link>
-      <pubDate>Thu, 10 Apr 2025 18:23:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/watch-and-learn-from-microsoft-security-experts-who-reinforce/ba-p/4402658</guid>
-      <description>
-In today&#8217;s evolving digital landscape, cybersecurity is more than technology, products, and platforms; it&#8217;s the people behind the scenes who work 24/7 to ensure organizations remain protected.&#160;
-At Microsoft, we are also defenders. We understand the challenges facing Security Operations Centers (SOCs). We created Microsoft Defender Experts for XDR, a comprehensive Managed Extended Detection and Response (MXDR) service, to reinforce our customer&#8217;s in-house SOC, help security teams focus on what matters most, and provide CISOs with more peace of mind.&#160;
-Microsoft Defender Experts for XDR combines...</description>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 20:08:41 GMT</lastBuildDate>
   </channel>
 </rss>
