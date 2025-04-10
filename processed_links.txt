@@ -585,3 +585,5 @@
 2025-04-09T23:21:12 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-the-microsoft-security-experts-who-reinforce-your-secops-24/ba-p/4402658
 2025-04-10T13:50:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-what-matters-to-your-organization-using-filtering-in/ba-p/4402993
 2025-04-10T15:04:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/insights-from-the-secure-employee-access-report-reveal-the-need/ba-p/2520425
+2025-04-10T18:23:02 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/watch-and-learn-from-microsoft-security-experts-who-reinforce/ba-p/4402658
+2025-04-10T18:47:30 https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-ultimate-guide-to-microsoft-security-at-rsac-2025/ba-p/4402554
