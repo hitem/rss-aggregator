@@ -3,6 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Apr 2025 11:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:14:38 GMT</lastBuildDate>
+    <item>
+      <title>How-To Use Graph Object Change Notifications</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-use-graph-object-change-notifications/ba-p/4403939</link>
+      <pubDate>Mon, 14 Apr 2025 12:12:10 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-use-graph-object-change-notifications/ba-p/4403939</guid>
+      <description>Hi, Jonas and Roland here!
+Or as we say in the north of Germany: "Moin Moin!"
+We recently worked on a mechanism to sync Entra ID group memberships into an Azure SQL table and would like to share our learnings.
+This article is part of a series of articles about Entra ID group membership synchronization. Check them out here: https://aka.ms/JonasOhmsenBlogs
+Introduction
+In this article we will dive deeper into &#8220;Option #4: Delta Notification&#8221; as described in our previous article: How-To Sync EntraID Group Memberships Into Any System
+TL/DR
+In short, we&#8217;ve built an Azure Function app to synchronize ...</description>
+    </item>
+    <item>
+      <title>Archiving Selective Microsoft Defender Logs to Azure Data Explorer</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/archiving-selective-microsoft-defender-logs-to-azure-data/ba-p/4398227</link>
+      <pubDate>Mon, 14 Apr 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/archiving-selective-microsoft-defender-logs-to-azure-data/ba-p/4398227</guid>
+      <description>This blog builds upon the insightful Microsoft Community Hub article by Jeff Chin, Archive MDE Data to Event Hubs to ADX | Microsoft Community Hub.
+While the original guide thoroughly explains the process of forwarding Microsoft Defender for Endpoint (MDE) data into Azure Data Explorer (ADX) using Event Hubs, it overlooks a crucial real-world requirement: filtering and archiving logs from a selective subset of devices.&#160;
+In large enterprise environments, the sheer volume of Defender logs can be overwhelming and costly to retain. For instance, imagine an organization with 10,000 onboarded device...</description>
+    </item>
   </channel>
 </rss>

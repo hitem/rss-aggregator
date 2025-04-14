@@ -585,3 +585,5 @@
 2025-04-10T15:04:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/insights-from-the-secure-employee-access-report-reveal-the-need/ba-p/2520425
 2025-04-10T18:23:02 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/watch-and-learn-from-microsoft-security-experts-who-reinforce/ba-p/4402658
 2025-04-10T18:47:30 https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-ultimate-guide-to-microsoft-security-at-rsac-2025/ba-p/4402554
+2025-04-14T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/archiving-selective-microsoft-defender-logs-to-azure-data/ba-p/4398227
+2025-04-14T12:12:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-use-graph-object-change-notifications/ba-p/4403939
