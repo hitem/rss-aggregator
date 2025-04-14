@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Apr 2025 14:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:08:21 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel Ninja Training - the April 2025 update</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-ninja-training-the-april-2025-update/ba-p/4404070</link>
+      <pubDate>Mon, 14 Apr 2025 14:35:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-ninja-training-the-april-2025-update/ba-p/4404070</guid>
+      <description>Microsoft Sentinel is a cutting-edge, cloud-native SIEM and SOAR solution designed to help security professionals protect their organizations from today&#8217;s complex threats.
+Our&#160;Ninja Training&#160;program is here to guide you through every aspect of this powerful tool.
+&#160;
+If you&#8217;ve explored our&#160;Microsoft Sentinel Ninja Training in the past, it&#8217;s time to revisit as we have updated the content with the latest new features, Webinars and important changes in our documentation.
+&#160;
+Some of the changes included in this update:
+
+Recent webinars to help you with the transition to the unified security operation...</description>
+    </item>
   </channel>
 </rss>
