@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Apr 2025 20:09:00 GMT</lastBuildDate>
-    <item>
-      <title>New Security Copilot Plugin Name Reflects Broader Capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-security-copilot-plugin-name-reflects-broader-capabilities/ba-p/4258810</link>
-      <pubDate>Mon, 14 Apr 2025 19:42:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-security-copilot-plugin-name-reflects-broader-capabilities/ba-p/4258810</guid>
-      <description>The Security Copilot team is continuously enhancing threat intelligence (TI) capabilities in Security Copilot to provide a more comprehensive and integrated TI experience for customers. We're excited to share that the Security Copilot threat Intelligence plugin has broadened beyond just MDTI to now encapsulate data from other TI sources, including Microsoft Threat Analytics (TA) and Microsoft file and URL intelligence,&#160;with even more sources becoming available soon.&#160;
-To reflect this evolution of the plugin, customers may notice a change in its name from "Microsoft Defender Threat Intelligence ...</description>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 21:07:06 GMT</lastBuildDate>
   </channel>
 </rss>
