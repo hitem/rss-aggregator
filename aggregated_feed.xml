@@ -3,31 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Apr 2025 16:08:08 GMT</lastBuildDate>
-    <item>
-      <title>How to deploy Microsoft Purview DSPM for AI to secure your AI apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-deploy-microsoft-purview-dspm-for-ai-to-secure-your-ai/ba-p/4397714</link>
-      <pubDate>Tue, 15 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-deploy-microsoft-purview-dspm-for-ai-to-secure-your-ai/ba-p/4397714</guid>
-      <description>Microsoft Purview Data Security Posture Management (DSPM for AI) is designed to enhance data security for the following AI applications:
-
-Microsoft Copilot experiences, including Microsoft 365 Copilot.
-Enterprise AI apps, including ChatGPT enterprise integration.
-Other AI apps, including all other AI applications like ChatGPT consumer, Microsoft Copilot, DeepSeek, and Google Gemini, accessed through the browser.
-
-In this blog, we will dive into the different policies and reporting we have to discover, protect and govern these three types of AI applications.
-Prerequisites
-Please refer to the pr...</description>
-    </item>
-    <item>
-      <title>Exploring the Use Cases of ADMS Application Pipeline</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-application-pipeline/ba-p/4404097</link>
-      <pubDate>Tue, 15 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-application-pipeline/ba-p/4404097</guid>
-      <description>A Comprehensive Overview:
-An Insight into Active Directory Migration Services Application Pipeline.
-Introduction
-ADMS, ADSS, and ADGMS are all cloud-based services that come within the ADxS services portfolio offered by Microsoft and designed to facilitate efficient and cost-effective migrations. For additional information around migration use cases, refer to this blog:&#160;https://techcommunity.microsoft.com/blog/microsoft-security-blog/exploring-the-use-cases-of-adxs-services/4373299?previewMessage=true&#160;. In this blog, we will examine the various use cases of ADMS application pipeline, highlight...</description>
-    </item>
+    <lastBuildDate>Tue, 15 Apr 2025 17:00:40 GMT</lastBuildDate>
   </channel>
 </rss>
