@@ -586,3 +586,4 @@
 2025-04-14T19:42:41 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-security-copilot-plugin-name-reflects-broader-capabilities/ba-p/4258810
 2025-04-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-application-pipeline/ba-p/4404097
 2025-04-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-deploy-microsoft-purview-dspm-for-ai-to-secure-your-ai/ba-p/4397714
+2025-04-16T17:05:31 https://techcommunity.microsoft.com/t5/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp/ba-p/4404667

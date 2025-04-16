@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 16 Apr 2025 16:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 17:07:00 GMT</lastBuildDate>
+    <item>
+      <title>Understanding and mitigating security risks in MCP implementations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp/ba-p/4404667</link>
+      <pubDate>Wed, 16 Apr 2025 17:05:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp/ba-p/4404667</guid>
+      <description>Introducing any new technology can introduce new security challenges or exacerbate existing security risks. In this blog post, we&#8217;re going to look at some of the security risks that could be introduced to your environment when using Model Context Protocol (MCP), and what controls you can put in place to mitigate them.
+MCP is a framework that enables seamless integration between LLM applications and various tools and data sources.&#160; MCP defines:
+
+A standardized way for AI models to request external actions through a consistent API
+Structured formats for how data should be passed to and from AI s...</description>
+    </item>
   </channel>
 </rss>
