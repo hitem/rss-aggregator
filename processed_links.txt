@@ -1,4 +1,3 @@
-2024-04-16T17:17:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160
 2024-04-16T19:30:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873
 2024-04-17T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/onboard-to-azure-arc-with-security-in-mind/ba-p/4114267
 2024-04-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enforce-least-privilege-for-entra-id-company-branding-with-the/ba-p/4115772
@@ -587,3 +586,4 @@
 2025-04-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-application-pipeline/ba-p/4404097
 2025-04-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-deploy-microsoft-purview-dspm-for-ai-to-secure-your-ai/ba-p/4397714
 2025-04-16T17:05:31 https://techcommunity.microsoft.com/t5/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp/ba-p/4404667
+2025-04-16T17:07:09 https://techcommunity.microsoft.com/t5/microsoft-security-blog/seamless-transitions-unlocking-workstation-migration-with/ba-p/4404842
