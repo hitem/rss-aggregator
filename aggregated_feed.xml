@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 16 Apr 2025 18:11:01 GMT</lastBuildDate>
-    <item>
-      <title>Seamless Transitions: Unlocking Workstation Migration with Identity Migration Service (IMS)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/seamless-transitions-unlocking-workstation-migration-with/ba-p/4404842</link>
-      <pubDate>Wed, 16 Apr 2025 17:07:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/seamless-transitions-unlocking-workstation-migration-with/ba-p/4404842</guid>
-      <description>Workstation Migration with IMS
-IMS offers workstation migration as part of the solution for migrating user accounts across domains. This service includes joining the machine to the target domain and translating your user profile on the workstation to the target domain.
-Tool Leveraged for Migration:
-IMS uses WMT (Workstation Migration Tool) service for performing the workstation migrations across the domains. The Workstation Migration Tool (WMT) Service is specifically designed to perform privileged workstation migration operations.
-Prerequisites for a Workstation Migration
-For a workstation to...</description>
-    </item>
+    <lastBuildDate>Wed, 16 Apr 2025 19:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
