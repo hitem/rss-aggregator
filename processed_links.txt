@@ -587,3 +587,4 @@
 2025-04-16T17:05:31 https://techcommunity.microsoft.com/t5/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp/ba-p/4404667
 2025-04-16T17:07:09 https://techcommunity.microsoft.com/t5/microsoft-security-blog/seamless-transitions-unlocking-workstation-migration-with/ba-p/4404842
 2025-04-17T02:44:52 https://techcommunity.microsoft.com/t5/microsoft-security-blog/upcoming-changes-to-microsoft-purview-ediscovery/ba-p/4405084
+2025-04-17T09:29:52 https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimizing-ddos-protection-costs-adding-ips-to-existing-ddos/ba-p/4404874
