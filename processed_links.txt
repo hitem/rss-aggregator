@@ -586,3 +586,4 @@
 2025-04-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-deploy-microsoft-purview-dspm-for-ai-to-secure-your-ai/ba-p/4397714
 2025-04-16T17:05:31 https://techcommunity.microsoft.com/t5/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp/ba-p/4404667
 2025-04-16T17:07:09 https://techcommunity.microsoft.com/t5/microsoft-security-blog/seamless-transitions-unlocking-workstation-migration-with/ba-p/4404842
+2025-04-17T02:44:52 https://techcommunity.microsoft.com/t5/microsoft-security-blog/upcoming-changes-to-microsoft-purview-ediscovery/ba-p/4405084
