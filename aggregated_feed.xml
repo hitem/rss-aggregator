@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 17 Apr 2025 10:09:04 GMT</lastBuildDate>
-    <item>
-      <title>Optimizing DDoS Protection Costs: Adding IPs to Existing DDoS Protection Plans</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimizing-ddos-protection-costs-adding-ips-to-existing-ddos/ba-p/4404874</link>
-      <pubDate>Thu, 17 Apr 2025 09:29:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimizing-ddos-protection-costs-adding-ips-to-existing-ddos/ba-p/4404874</guid>
-      <description>Azure DDoS Protection has been a key part of securing internet-facing applications in the cloud. The DDoS Network Protection SKU already provides robust capabilities for protecting resources at scale. However, in certain architectures, additional flexibility is beneficial. This allows organizations to align protection more closely with their security and cost management strategies.
-We're introducing a new enhancement &#8220;Add to existing DDoS Protection Plan&#8221; that provides more flexibility.
-&#160;
-This feature allows you to link individual Public IPs (configured with the IP Protection SKU) to a DDoS Ne...</description>
-    </item>
+    <lastBuildDate>Thu, 17 Apr 2025 11:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
