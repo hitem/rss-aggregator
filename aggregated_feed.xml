@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 18 Apr 2025 23:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 00:36:58 GMT</lastBuildDate>
+    <item>
+      <title>Announcing Rich Text for Case Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-rich-text-for-case-management/ba-p/4405855</link>
+      <pubDate>Fri, 18 Apr 2025 23:58:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-rich-text-for-case-management/ba-p/4405855</guid>
+      <description>In the dynamic world of&#160;SecOps, managing and communicating information efficiently is vital. Rich Text for Case Management introduces capabilities that allow you to enrich your case documentation with various formatting options, including bold, italics, underlining, code blocks, links, tables, and more.&#160;
+Key Benefits of Rich Text for Case Management
+
+Improve Communication Across All Case Elements:&#8239;Rich text enhances the clarity and impact of case descriptions, comments, tasks, and closing notes. Formatting options help highlight critical information, ensuring&#160;important details&#160;are not missed, ...</description>
+    </item>
+    <item>
+      <title>Announcing Rich Text for Case Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-rich-text-for-case-management/ba-p/4405854</link>
+      <pubDate>Fri, 18 Apr 2025 23:52:51 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-rich-text-for-case-management/ba-p/4405854</guid>
+      <description>The&#160;ability to manage and communicate information effectively can make all the difference&#160;across SecOps workflows. Today, we are excited to announce the launch of Rich Text for Case Management,&#160;a&#160;capability designed to&#160;enhance your&#160;communication around a&#160;case with queries, code blocks, links, tables, and more!&#160;
+Key Benefits of Rich Text for Case Management&#160;
+With this new feature, you can:&#160;
+1.&#8239;Improve Communication Across All Case Elements&#160;
+Rich text allows you to enhance the clarity and impact of your case descriptions, comments, tasks, and closing notes. By using formatting options such as bo...</description>
+    </item>
   </channel>
 </rss>
