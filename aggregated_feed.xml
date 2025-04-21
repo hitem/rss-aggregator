@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Apr 2025 11:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 12:14:13 GMT</lastBuildDate>
+    <item>
+      <title>Security Review for Microsoft Edge version 135</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-135/ba-p/4406195</link>
+      <pubDate>Mon, 21 Apr 2025 11:49:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-135/ba-p/4406195</guid>
+      <description>We are pleased to announce the security review for Microsoft Edge, version 135.
+We have reviewed the new settings in Microsoft Edge version 135 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 128 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 135 introduced 5 new Computer and User settings, we have included a spreadsheet listing the new settings to make it easier for you to find.
+&#160;
+As a friendly reminder, all availa...</description>
+    </item>
   </channel>
 </rss>
