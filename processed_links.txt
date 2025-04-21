@@ -589,3 +589,4 @@
 2025-04-21T11:49:13 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-135/ba-p/4406195
 2025-04-21T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4405550
 2025-04-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-promise-migrate-to-sentinel-with-confidence/ba-p/4404136
+2025-04-21T18:00:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-cross-cloud-multitenant-security-operations-for/ba-p/4406286

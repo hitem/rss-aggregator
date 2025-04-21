@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Apr 2025 17:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 18:10:39 GMT</lastBuildDate>
+    <item>
+      <title>Expanding Cross Cloud Multitenant Security Operations for Government Customers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-cross-cloud-multitenant-security-operations-for/ba-p/4406286</link>
+      <pubDate>Mon, 21 Apr 2025 18:00:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-cross-cloud-multitenant-security-operations-for/ba-p/4406286</guid>
+      <description>Securing complex, multitenant environments is a top priority for government organizations operating in highly regulated cloud environments. We are excited to introduce a new capability that enhances multitenant security operations for government cloud customers, enabling cross-cloud visibility and centralized security management. These capabilities are now in public preview.&#160;
+Bringing Multitenant Security Operations to Government Cloud&#160;
+Security teams in government cloud environments&#8212;such as GCC High and DoD&#8212;face unique challenges when managing multiple tenants across different cloud environme...</description>
+    </item>
   </channel>
 </rss>
