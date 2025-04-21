@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Apr 2025 16:09:13 GMT</lastBuildDate>
-    <item>
-      <title>App Assure&#8217;s promise: Migrate to Sentinel with confidence</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-promise-migrate-to-sentinel-with-confidence/ba-p/4404136</link>
-      <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-promise-migrate-to-sentinel-with-confidence/ba-p/4404136</guid>
-      <description>In today's evolving cyber-threat landscape, enterprises need the most up-to-date tools for detection, investigation, and response. Cloud-native, AI-driven solutions like Microsoft's Sentinel provide businesses with faster implementation, greater integration and automation capabilities, and intelligent event correlation. But when moving from on-prem to the cloud, or from one SIEM to another, migrating can seem risky and complex for Security Operations Centers (SOCs) that have spent years investing in customized solutions.&#160; One challenge businesses face is how to port over third-party connectors...</description>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 17:00:48 GMT</lastBuildDate>
   </channel>
 </rss>
