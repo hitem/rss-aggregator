@@ -588,3 +588,4 @@
 2025-04-18T23:58:30 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-rich-text-for-case-management/ba-p/4405855
 2025-04-21T11:49:13 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-135/ba-p/4406195
 2025-04-21T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4405550
+2025-04-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-promise-migrate-to-sentinel-with-confidence/ba-p/4404136
