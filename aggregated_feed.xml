@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Apr 2025 14:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 15:08:00 GMT</lastBuildDate>
+    <item>
+      <title>Blog Series: Charting Your Path to Cyber Resiliency</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4405550</link>
+      <pubDate>Mon, 21 Apr 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4405550</guid>
+      <description>&#160;
+&#160;
+&#160;
+"Cyber resilience is more than just a buzzword in the security industry; it is an essential approach to safeguarding digital assets in an era where cyber threats are not a matter of &#8216;if&#8217; but &#8216;when&#8217;."&#160;
+&#160;&#160;- World Economic Forum, 2024
+&#160;
+Cyber resiliency describes an organization&#8217;s ability to anticipate, withstand, respond and recover from adverse conditions caused by cyberattacks. Destructive cyberattacks such as ransomware can be highly impactful to business operations and profitability. With its emphasis on protecting our companies&#8217; most critical business functions, cyber resiliency enhan...</description>
+    </item>
   </channel>
 </rss>
