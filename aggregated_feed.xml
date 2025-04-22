@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Apr 2025 16:09:55 GMT</lastBuildDate>
-    <item>
-      <title>RSAC 2025 new Microsoft Sentinel connectors announcement</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4404177</link>
-      <pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4404177</guid>
-      <description>Microsoft Sentinel is a leading cloud-native security information and event management (SIEM) solution that helps organizations&#160;confidently&#160;detect,&#160;investigate&#160;and respond to threats across their&#160;multi-cloud, multiplatform&#160;environments.&#160;Microsoft Sentinel&#160;offers seamless integration of&#160;data from both Microsoft and third-party&#160;sources for&#160;a&#160;comprehensive view&#160;across&#160;the&#160;entire&#160;digital&#160;environment.&#160;
-We are&#160;very&#160;pleased&#160;to&#160;share the&#160;latest Microsoft Sentinel integrations from our&#160;valued&#160;Independent Software Vendor (ISV)&#160;partners&#160;that&#160;allow you to&#160;seamlessly&#160;connect your existing security solution...</description>
-    </item>
-    <item>
-      <title>General Availability: Dynamic watermarking for sensitivity labels with user-defined permissions</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/general-availability-dynamic-watermarking-for-sensitivity-labels/ba-p/4406350</link>
-      <pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/general-availability-dynamic-watermarking-for-sensitivity-labels/ba-p/4406350</guid>
-      <description>We previously announced the general availability of dynamic watermarking for sensitivity labels with admin-defined permissions in Word, Excel, and PowerPoint. Today, we are excited to announce that dynamic watermarking is now supported for labels with user-defined permissions as well as admin-defined permissions. This enhancement allows users to apply sensitivity labels with dynamic watermarks to documents with custom permissions, providing even greater flexibility and control over sensitive information.
-What is Dynamic Watermarking?
-Dynamic watermarking is a feature that overlays watermarks c...</description>
-    </item>
+    <lastBuildDate>Tue, 22 Apr 2025 17:07:31 GMT</lastBuildDate>
   </channel>
 </rss>
