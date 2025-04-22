@@ -48,16 +48,10 @@ jobs:
 
       - name: Prune & dedupe processed_links.txt
         run: |
-          cutoff="$(date -u --date="365 days ago" +%Y-%m-%dT%H:%M:%S)"
+          cutoff=$(date -u --date="365 days ago" +%Y-%m-%dT%H:%M:%S)
           awk -v cutoff="$cutoff" '$1 > cutoff' processed_links.txt > filtered.txt
-          sort -t' ' -k2,2 -k1,1r filtered.txt \
-            | sort -u -t' ' -k2,2 \
-            \
-            # 3) finally, sort back into chronological order
-            | sort -t' ' -k1,1 \
-            > processed_links.txt
+          sort -t ' ' -k2,2 -k1,1r filtered.txt | sort -u -t ' ' -k2,2 | sort -t ' ' -k1,1 > processed_links.txt
           rm filtered.txt
-          sed -i -e '$a\' processed_links.txt
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
