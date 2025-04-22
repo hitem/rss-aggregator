@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Apr 2025 14:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 15:08:08 GMT</lastBuildDate>
+    <item>
+      <title>Getting started with the new Purview Content Search</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-content-search/ba-p/4405757</link>
+      <pubDate>Tue, 22 Apr 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-content-search/ba-p/4405757</guid>
+      <description>&#8220;I&#8217;m looking to get started with the new Content Search experience in Purview. Where do I get started?&#8221;
+Welcome to the exciting new world of Content Search! This revamped experience is designed to be more intuitive, making it easier for you to navigate and find what you need. The modern Content Search experience offers additional capabilities like enhanced data sources to make it easier to identify the locations that you want to search, an improved condition builder, and a streamlined export experience. Also, you will now be able to take advantage of Premier features if you have E5 licensing, ...</description>
+    </item>
   </channel>
 </rss>

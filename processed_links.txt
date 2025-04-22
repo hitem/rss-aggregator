@@ -1,4 +1,3 @@
-2024-04-22T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-events-rsaconference-2024/ba-p/4119075
 2024-04-22T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/controlling-aks-egress-using-an-http-proxy/ba-p/4119407
 2024-04-22T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457
 2024-04-23T20:35:09 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/embracing-the-data-protection-and-data-privacy-act-a-strategic/ba-p/4119374
@@ -589,3 +588,4 @@
 2025-04-21T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4405550
 2025-04-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-promise-migrate-to-sentinel-with-confidence/ba-p/4404136
 2025-04-21T18:00:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-cross-cloud-multitenant-security-operations-for/ba-p/4406286
+2025-04-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-content-search/ba-p/4405757
