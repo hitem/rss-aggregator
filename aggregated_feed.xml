@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Apr 2025 21:00:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 22:07:10 GMT</lastBuildDate>
+    <item>
+      <title>Transitioning from the HTTP Data Collector API to the Log Ingestion API&#8230;What does it mean for me?</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transitioning-from-the-http-data-collector-api-to-the-log/ba-p/4403568</link>
+      <pubDate>Tue, 22 Apr 2025 21:06:02 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transitioning-from-the-http-data-collector-api-to-the-log/ba-p/4403568</guid>
+      <description>&#160;
+This article is co-authored by Andrea Fisher, Brian Delaney, and Jon Shectman (Microsoft Customer Success Unit).
+Many customers have recently received an email sharing the information that the&#160;HTTP Data Collector API will be retired on September 14, 2026. What exactly does that mean for you? Either you have deployed a built-in Microsoft Sentinel Data Connector that is using the HTTP Data Collector API or you have configured a custom connector of your own that uses the API. In this blog, we&#8217;ll explain why you got (or will receive) this notification, what&#8217;s at stake, and what actions you need ...</description>
+    </item>
   </channel>
 </rss>

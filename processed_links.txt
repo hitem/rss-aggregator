@@ -589,3 +589,4 @@
 2025-04-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-content-search/ba-p/4405757
 2025-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/general-availability-dynamic-watermarking-for-sensitivity-labels/ba-p/4406350
 2025-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4404177
+2025-04-22T21:06:02 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transitioning-from-the-http-data-collector-api-to-the-log/ba-p/4403568
