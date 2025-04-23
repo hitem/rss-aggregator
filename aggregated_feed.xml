@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 23 Apr 2025 15:08:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 16:10:17 GMT</lastBuildDate>
+    <item>
+      <title>Service principal required for Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/service-principal-required-for-microsoft-entra-id/ba-p/4405796</link>
+      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/service-principal-required-for-microsoft-entra-id/ba-p/4405796</guid>
+      <description>Starting March 31, 2026, Microsoft Entra ID will no longer support service principal-less authentication behavior. This change aims to strengthen security in Microsoft Entra ID by ensuring that all applications active in a tenant have an associated service principal.
+All applications making service principal-less authentication requests in a tenant will be impacted unless action is taken by March 31, 2026.
+Learn more about required actions:  Retire Service Principal-Less Authentication - Microsoft identity platform | Microsoft Learn
+What happens to service principal-less authentication after M...</description>
+    </item>
   </channel>
 </rss>
