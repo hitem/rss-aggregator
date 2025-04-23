@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 23 Apr 2025 09:09:12 GMT</lastBuildDate>
-    <item>
-      <title>Configure App-V Server to use HTTPS</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configure-app-v-server-to-use-https/ba-p/4406944</link>
-      <pubDate>Wed, 23 Apr 2025 08:49:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configure-app-v-server-to-use-https/ba-p/4406944</guid>
-      <description>1. Intro&#160;
-In the last 8 months we were contacted by customers in several support cases regarding the question how to implement a secure connection with https between 2 servers, the publishing server and the management server in an App-V environment. The customers had Windows Server 2019 in place and were using the latest version of App-V Server 5.1.136.1*. That&#8217;s the reason, why we shared our experiences with the community in November 2024 during the M.A.D. days and now want to share the procedure how to setup such a connection in this blog.&#160;
-&#160;
-During the M.A.D. Days in Hamburg 2024, we demoed...</description>
-    </item>
+    <lastBuildDate>Wed, 23 Apr 2025 10:09:15 GMT</lastBuildDate>
   </channel>
 </rss>
