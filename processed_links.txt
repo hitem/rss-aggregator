@@ -590,3 +590,4 @@
 2025-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/general-availability-dynamic-watermarking-for-sensitivity-labels/ba-p/4406350
 2025-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4404177
 2025-04-22T21:06:02 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transitioning-from-the-http-data-collector-api-to-the-log/ba-p/4403568
+2025-04-23T08:49:52 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configure-app-v-server-to-use-https/ba-p/4406944
