@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 24 Apr 2025 16:10:10 GMT</lastBuildDate>
-    <item>
-      <title>Advanced deployment guide for Conditional Access Policy templates</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advanced-deployment-guide-for-conditional-access-policy/ba-p/4406767</link>
-      <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advanced-deployment-guide-for-conditional-access-policy/ba-p/4406767</guid>
-      <description>If you&#8217;re an admin responsible for securing your organization&#8217;s digital environment, you may already know that Conditional Access policies are critical to maintaining that security. That&#8217;s why FastTrack recently introduced the new Conditional Access advanced deployment guide to help you deploy multiple Microsoft-recommended policy templates at one time and simplify policy and authentication method management through automation.
-Learn more about the new guide in our recent announcement.
-&#160;
-Here are three key reasons why this guide is essential to streamlining your workflows.
-1. Simplify Conditio...</description>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 17:07:16 GMT</lastBuildDate>
   </channel>
 </rss>
