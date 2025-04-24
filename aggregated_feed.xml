@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 24 Apr 2025 19:00:49 GMT</lastBuildDate>
-    <item>
-      <title>14 Secure Coding Tips: Learn from the Experts at @Build</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/14-secure-coding-tips-learn-from-the-experts-at-build/ba-p/4407147</link>
-      <pubDate>Thu, 24 Apr 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/14-secure-coding-tips-learn-from-the-experts-at-build/ba-p/4407147</guid>
-      <description>Hey friends! If you are a developer, you know that writing clean and efficient code is just the starting point. Now, with AI playing a bigger role, secure coding isn't just a 'nice-to-have'&#8212;it's a must. Whether you're building web apps, working on cloud services, or adding AI to your projects, keeping your code safe is just as important as getting it out the door.&#160;
-At Microsoft Build 2025, we&#8217;re bringing together some of the most influential security engineers, researchers, and developers to share practical tips and modern best practices to help you ship secure code &#8212; faster.
-Here are 14 quick...</description>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 20:08:59 GMT</lastBuildDate>
   </channel>
 </rss>
