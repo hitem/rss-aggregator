@@ -1,5 +1,3 @@
-2024-04-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/collaborate-across-m365-tenants-with-entra-id-multi-tenant/ba-p/4120309
-2024-04-25T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/investigating-industrial-control-systems-using-microsoft-s/ba-p/4120580
 2024-04-26T21:09:09 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-124/ba-p/4124826
 2024-04-27T02:51:24 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/examining-the-deception-infrastructure-in-place-behind-code/ba-p/4124464
 2024-04-29T06:45:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/building-your-own-copilot-for-credit-card-selection/ba-p/4125697
@@ -590,3 +588,4 @@
 2025-04-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advanced-deployment-guide-for-conditional-access-policy/ba-p/4406767
 2025-04-24T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/14-secure-coding-tips-learn-from-the-experts-at-build/ba-p/4407147
 2025-04-25T09:13:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-new-security-content-goes-beyond/ba-p/4407911
+2025-04-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/connect-with-microsoft-entra-at-upcoming-events/ba-p/4400197

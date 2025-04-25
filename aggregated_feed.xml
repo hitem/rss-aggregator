@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Apr 2025 15:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 16:09:36 GMT</lastBuildDate>
+    <item>
+      <title>Connect with Microsoft Entra at upcoming events</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/connect-with-microsoft-entra-at-upcoming-events/ba-p/4400197</link>
+      <pubDate>Fri, 25 Apr 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/connect-with-microsoft-entra-at-upcoming-events/ba-p/4400197</guid>
+      <description>As we kick off the second half of FY25, the Microsoft Entra team is excited to announce groundbreaking advancements&#8212;including AI Agents and the Secure Access Service Edge (SASE) AI Gateway&#8212;and a full lineup of spring events. Join us to explore our latest innovations in identity and network security and get tips on getting more from your Microsoft Entra deployments.
+RSA Conference | San Francisco, CA | April 28&#8211;May 1&#160;
+Meet the Microsoft Entra team at RSA! Visit the Microsoft booth #5744 for product demos and engaging theater sessions:&#160;
+Microsoft Entra theater sessions in booth #5744
+
+Date&#160;
+
+Ses...</description>
+    </item>
   </channel>
 </rss>
