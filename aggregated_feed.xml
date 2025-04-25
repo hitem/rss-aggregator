@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Apr 2025 18:10:48 GMT</lastBuildDate>
-    <item>
-      <title>Introducing ActorInfoString: A New Era of Audit Log Accuracy in Exchange Online</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-actorinfostring-a-new-era-of-audit-log-accuracy-in/ba-p/4408093</link>
-      <pubDate>Fri, 25 Apr 2025 17:19:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-actorinfostring-a-new-era-of-audit-log-accuracy-in/ba-p/4408093</guid>
-      <description>How&#160;ActorInfoString&#160;Elevates Security and Transparency&#160;
-We&#8217;re&#160;excited to introduce&#160;ActorInfoString,&#160;a significant new feature in the Exchange Online (EXO) audit schema that enhances the depth and accuracy of your audit logs. While&#160;ClientInfoString&#160;provides valuable client application information, the addition of&#160;ActorInfoString&#160;offers even more detail by capturing the True&#160;UserAgent, supporting greater clarity when tracking the origin of actions within your Exchange Online environment.&#160;
-ActorInfoString&#160;solves this by recording the exact user agent responsible for each audited event. This impro...</description>
-    </item>
+    <lastBuildDate>Fri, 25 Apr 2025 19:01:43 GMT</lastBuildDate>
   </channel>
 </rss>
