@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Apr 2025 09:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 10:08:39 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel for SAP: New Security Content Goes Beyond Agentless &#128640;</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-new-security-content-goes-beyond/ba-p/4407911</link>
+      <pubDate>Fri, 25 Apr 2025 09:13:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-new-security-content-goes-beyond/ba-p/4407911</guid>
+      <description>Dear Community,
+Following up on my private preview announcement about Microsoft Sentinel for SAP going agentless - what a title during Agentic AI times, right? I'm thrilled to share even more capabilities that have been added to our security monitoring arsenal recently!
+Psst&#129323; &#8211; you are also getting a sneak into the new community extensions area.
+New Security Content Alert! &#128227;
+The agentless data connector team has significantly expanded the security content coverage for the public preview, adding crucial monitoring capabilities for 3 addtional sources to increase parity with the legacy data conn...</description>
+    </item>
   </channel>
 </rss>

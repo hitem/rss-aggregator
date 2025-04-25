@@ -591,3 +591,4 @@
 2025-04-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/service-principal-required-for-microsoft-entra-id/ba-p/4405796
 2025-04-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/advanced-deployment-guide-for-conditional-access-policy/ba-p/4406767
 2025-04-24T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/14-secure-coding-tips-learn-from-the-experts-at-build/ba-p/4407147
+2025-04-25T09:13:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-new-security-content-goes-beyond/ba-p/4407911
