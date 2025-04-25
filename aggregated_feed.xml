@@ -3,14 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Apr 2025 17:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 18:10:48 GMT</lastBuildDate>
     <item>
-      <title>Protecting Your Azure Key Vault: Why Azure RBAC Is Critical for Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-your-azure-key-vault-why-azure-rbac-is-critical-for/ba-p/4407848</link>
-      <pubDate>Fri, 25 Apr 2025 16:32:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-your-azure-key-vault-why-azure-rbac-is-critical-for/ba-p/4407848</guid>
-      <description>Introduction
-In today&#8217;s cloud-centric landscape, misconfigured access controls remain one of the most critical weaknesses in the cyber kill chain. When access policies are overly permissive, they create opportunities for adversaries to gain unauthorized access to sensitive secrets, keys, and certificates. These credentials can be leveraged for lateral movement, privilege escalation, and establishing persistent footholds across cloud environments. A compromised Azure Key Vault doesn&#8217;t just expose isolated assets it can act as a pivot point to breach broader Azure resources, potentially leading ...</description>
+      <title>Introducing ActorInfoString: A New Era of Audit Log Accuracy in Exchange Online</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-actorinfostring-a-new-era-of-audit-log-accuracy-in/ba-p/4408093</link>
+      <pubDate>Fri, 25 Apr 2025 17:19:55 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-actorinfostring-a-new-era-of-audit-log-accuracy-in/ba-p/4408093</guid>
+      <description>How&#160;ActorInfoString&#160;Elevates Security and Transparency&#160;
+We&#8217;re&#160;excited to introduce&#160;ActorInfoString,&#160;a significant new feature in the Exchange Online (EXO) audit schema that enhances the depth and accuracy of your audit logs. While&#160;ClientInfoString&#160;provides valuable client application information, the addition of&#160;ActorInfoString&#160;offers even more detail by capturing the True&#160;UserAgent, supporting greater clarity when tracking the origin of actions within your Exchange Online environment.&#160;
+ActorInfoString&#160;solves this by recording the exact user agent responsible for each audited event. This impro...</description>
     </item>
   </channel>
 </rss>
