@@ -3,21 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Apr 2025 17:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 18:11:48 GMT</lastBuildDate>
     <item>
-      <title>Empowering SOC Analysts: Investigating Identity Threats with Microsoft Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/empowering-soc-analysts-investigating-identity-threats-with/ba-p/4398225</link>
-      <pubDate>Mon, 28 Apr 2025 17:00:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/empowering-soc-analysts-investigating-identity-threats-with/ba-p/4398225</guid>
-      <description>Identities have been a top threat vector forever. However, the rise of cloud identity attacks and an ever increasingly complex digital estate has made a tough problem even harder. Securing identities has always required a close partnership between two different functional teams &#8211; the identity and access management teams that are responsible for managing, authenticating, and authorizing user access to protected systems and data; and the security teams that detect and respond to threats across the entire digital estate.&#160;&#160;
-Nowhere is this more apparent than during a security incident. Let&#8217;s take ...</description>
-    </item>
-    <item>
-      <title>New Purview pricing options for protecting AI apps and agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/new-purview-pricing-options-for-protecting-ai-apps-and-agents/ba-p/4408151</link>
-      <pubDate>Mon, 28 Apr 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/new-purview-pricing-options-for-protecting-ai-apps-and-agents/ba-p/4408151</guid>
-      <description>AI innovation is impacting every industry, business process, and individual. About 75% of knowledge workers today are currently using some sort of AI in their day to day [Work Trends Index] At the same time, the regulatory landscape is evolving at an unprecedented pace. Around the world, at least 69 countries have proposed more than 1,000 AI-related policy initiatives and legal frameworks to address public concerns around AI safety and governance [AI Regulations Around the World 2025]. Microsoft Purview offers integrated data security, governance, and compliance solutions for the era of AI&#8212;hel...</description>
+      <title>The Crucial Role of Data Security Posture Management in the AI Era</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-crucial-role-of-data-security-posture-management-in-the-ai/ba-p/4408308</link>
+      <pubDate>Mon, 28 Apr 2025 17:26:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-crucial-role-of-data-security-posture-management-in-the-ai/ba-p/4408308</guid>
+      <description>In an era where artificial intelligence (AI) is rapidly transforming business operations, the importance of Data Security Posture Management (DSPM) cannot be overstated.
+Data Security Posture Management plays an important role in modern digital infrastructure by providing a comprehensive framework to manage and mitigate data security risks.
+DSPM also helps in identifying and mitigating security risks associated with AI adoption along with ensuring that organizations can leverage AI technologies safely and effectively.
+Key aspects of DSPM:
+
+360-degree view approach for data at rest, in-transit,...</description>
     </item>
   </channel>
 </rss>
