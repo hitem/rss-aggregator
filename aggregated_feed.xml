@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Apr 2025 22:07:58 GMT</lastBuildDate>
-    <item>
-      <title>How to use DSPM for AI Data Risk Assessment to Address Internal Oversharing</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-use-dspm-for-ai-data-risk-assessment-to-address-internal/ba-p/4399785</link>
-      <pubDate>Mon, 28 Apr 2025 21:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-use-dspm-for-ai-data-risk-assessment-to-address-internal/ba-p/4399785</guid>
-      <description>Background
-Oversharing and data leak risks may occur with or without GenAI use. However, leaders are concerned that GenAI tools might grant faster access to content with incorrect permissions, making these files easier to locate. Oversharing occurs when an employee has access to information beyond what is necessary to do their jobs. It often happens accidentally, for example if a user saves sensitive files to a SharePoint site without realizing everyone has access to that location. It could also happen when people share files too broadly (e.g. everyone in the organization sharing a link). Or i...</description>
-    </item>
+    <lastBuildDate>Mon, 28 Apr 2025 23:07:48 GMT</lastBuildDate>
   </channel>
 </rss>
