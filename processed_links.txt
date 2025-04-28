@@ -589,3 +589,4 @@
 2025-04-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/connect-with-microsoft-entra-at-upcoming-events/ba-p/4400197
 2025-04-25T16:32:47 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-your-azure-key-vault-why-azure-rbac-is-critical-for/ba-p/4407848
 2025-04-25T17:19:55 https://techcommunity.microsoft.com/t5/microsoft-security-blog/introducing-actorinfostring-a-new-era-of-audit-log-accuracy-in/ba-p/4408093
+2025-04-28T06:18:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-pac-script-configuration-in-microsoft-edge/ba-p/4408557

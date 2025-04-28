@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Apr 2025 05:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 06:19:48 GMT</lastBuildDate>
+    <item>
+      <title>Managing PAC Script Configuration in Microsoft Edge</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-pac-script-configuration-in-microsoft-edge/ba-p/4408557</link>
+      <pubDate>Mon, 28 Apr 2025 06:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-pac-script-configuration-in-microsoft-edge/ba-p/4408557</guid>
+      <description>Hi, I'm Helmut Wagensonner, a Cloud Solution Architect at Microsoft. This blog post is about the different ways to handle PAC Scripts in Microsoft Edge. Microsoft Edge (Chromium-based) offers two primary strategies for deploying Proxy Auto-Config (PAC) scripts in enterprise environments. Understanding the difference between these scenarios is critical for managing web traffic routing, application compatibility, and network efficiency across all corporate systems.
+Scenario 1: PAC Script Configured via Microsoft Edge Group Policy
+In this configuration, Microsoft Edge is explicitly instructed to ...</description>
+    </item>
   </channel>
 </rss>
