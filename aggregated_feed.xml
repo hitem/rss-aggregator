@@ -3,18 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Apr 2025 18:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 19:01:21 GMT</lastBuildDate>
     <item>
-      <title>The Crucial Role of Data Security Posture Management in the AI Era</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-crucial-role-of-data-security-posture-management-in-the-ai/ba-p/4408308</link>
-      <pubDate>Mon, 28 Apr 2025 17:26:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-crucial-role-of-data-security-posture-management-in-the-ai/ba-p/4408308</guid>
-      <description>In an era where artificial intelligence (AI) is rapidly transforming business operations, the importance of Data Security Posture Management (DSPM) cannot be overstated.
-Data Security Posture Management plays an important role in modern digital infrastructure by providing a comprehensive framework to manage and mitigate data security risks.
-DSPM also helps in identifying and mitigating security risks associated with AI adoption along with ensuring that organizations can leverage AI technologies safely and effectively.
-Key aspects of DSPM:
+      <title>Getting started with the eDiscovery APIs</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597</link>
+      <pubDate>Mon, 28 Apr 2025 18:59:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597</guid>
+      <description>The Microsoft Purview APIs for eDiscovery in Microsoft Graph enable organizations to automate repetitive tasks and integrate with their existing eDiscovery tools to build repeatable workflows that industry regulations might require.
+Before you can make any calls to the Microsoft Purview APIs for eDiscovery you must first register an app in the Microsoft&#8217;s Identity Platform, Entra ID.
+An app can access data in two ways:
 
-360-degree view approach for data at rest, in-transit,...</description>
+Delegated Access: an app acting on behalf of a signed-in user
+App-only access: an app action with its own identity
+
+For more information on access scenarios see Authentication ...</description>
     </item>
   </channel>
 </rss>

@@ -594,3 +594,4 @@
 2025-04-28T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/new-purview-pricing-options-for-protecting-ai-apps-and-agents/ba-p/4408151
 2025-04-28T17:00:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/empowering-soc-analysts-investigating-identity-threats-with/ba-p/4398225
 2025-04-28T17:26:43 https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-crucial-role-of-data-security-posture-management-in-the-ai/ba-p/4408308
+2025-04-28T18:59:52 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597
