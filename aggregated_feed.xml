@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Apr 2025 13:32:47 GMT</lastBuildDate>
-    <item>
-      <title>Enhance mobile security with the Samsung Knox solution for Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-mobile-security-with-the-samsung-knox-solution-for/ba-p/4408073</link>
-      <pubDate>Mon, 28 Apr 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-mobile-security-with-the-samsung-knox-solution-for/ba-p/4408073</guid>
-      <description>We are excited to announce the availability of a new solution from Samsung Knox Asset Intelligence that will deliver enhanced visibility into mobile threats.&#160;Microsoft and Samsung are working together to enhance mobile security. This collaboration combines Samsung's expertise in mobile devices with Microsoft Sentinel's advanced capabilities in threat hunting, investigation, and response offering enterprises new visibility and protection against mobile security threats on Samsung devices and builds on the longstanding collaboration between Microsoft Security and Samsung.
-Solution Overview
-Samsu...</description>
-    </item>
+    <lastBuildDate>Mon, 28 Apr 2025 14:09:10 GMT</lastBuildDate>
   </channel>
 </rss>
