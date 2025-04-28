@@ -595,3 +595,4 @@
 2025-04-28T17:00:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/empowering-soc-analysts-investigating-identity-threats-with/ba-p/4398225
 2025-04-28T17:26:43 https://techcommunity.microsoft.com/t5/microsoft-security-blog/the-crucial-role-of-data-security-posture-management-in-the-ai/ba-p/4408308
 2025-04-28T18:59:52 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597
+2025-04-28T21:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-use-dspm-for-ai-data-risk-assessment-to-address-internal/ba-p/4399785
