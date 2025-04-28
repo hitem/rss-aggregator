@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Apr 2025 19:01:21 GMT</lastBuildDate>
-    <item>
-      <title>Getting started with the eDiscovery APIs</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597</link>
-      <pubDate>Mon, 28 Apr 2025 18:59:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597</guid>
-      <description>The Microsoft Purview APIs for eDiscovery in Microsoft Graph enable organizations to automate repetitive tasks and integrate with their existing eDiscovery tools to build repeatable workflows that industry regulations might require.
-Before you can make any calls to the Microsoft Purview APIs for eDiscovery you must first register an app in the Microsoft&#8217;s Identity Platform, Entra ID.
-An app can access data in two ways:
-
-Delegated Access: an app acting on behalf of a signed-in user
-App-only access: an app action with its own identity
-
-For more information on access scenarios see Authentication ...</description>
-    </item>
+    <lastBuildDate>Mon, 28 Apr 2025 20:08:46 GMT</lastBuildDate>
   </channel>
 </rss>
