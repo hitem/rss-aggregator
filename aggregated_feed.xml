@@ -3,14 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Apr 2025 16:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 17:07:28 GMT</lastBuildDate>
     <item>
-      <title>RSAC&#8482; 2025: Unveiling new innovations in cloud and AI security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/rsac-2025-unveiling-new-innovations-in-cloud-and-ai-security/ba-p/4408140</link>
-      <pubDate>Tue, 29 Apr 2025 16:00:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/rsac-2025-unveiling-new-innovations-in-cloud-and-ai-security/ba-p/4408140</guid>
-      <description>The world is transforming with AI right in front of our eyes &#8212; reshaping how we work, build, and defend. But as AI accelerates innovation, it&#8217;s also amplifying the threat landscape. The rise of adversarial AI is empowering attackers with more sophisticated, automated, and evasive tactics, while cloud environments continue to be a prime target due to their complexity and scale. From prompt injection and model manipulation in AI apps to misconfigurations and identity misuse in multi-cloud deployments, security teams face a growing list of risks that traditional tools can&#8217;t keep up with.
-As enter...</description>
+      <title>Announcing General Availability: Microsoft Sentinel Solution for Microsoft Business Applications</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-general-availability-microsoft-sentinel-solution-for/ba-p/4406758</link>
+      <pubDate>Tue, 29 Apr 2025 17:00:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-general-availability-microsoft-sentinel-solution-for/ba-p/4406758</guid>
+      <description>As organizations increasingly rely on low-code platforms for mission-critical operations, the need for threat protection across all business applications has never been greater. Today, we announce the general availability of the Microsoft Sentinel Solution for Microsoft Business Applications - a unified solution providing threat detection and monitoring for Microsoft Power Platform (including Copilot Studio agents, apps, and flows) and Dynamics 365 (Customer Engagement and Finance &amp; Operations) workloads.&#160;
+This GA release consolidates previously separate Microsoft Sentinel integrations&#8212;coverin...</description>
     </item>
   </channel>
 </rss>

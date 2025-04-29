@@ -595,3 +595,4 @@
 2025-04-28T18:59:52 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-ediscovery-apis/ba-p/4407597
 2025-04-28T21:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-use-dspm-for-ai-data-risk-assessment-to-address-internal/ba-p/4399785
 2025-04-29T16:00:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/rsac-2025-unveiling-new-innovations-in-cloud-and-ai-security/ba-p/4408140
+2025-04-29T17:00:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-general-availability-microsoft-sentinel-solution-for/ba-p/4406758
