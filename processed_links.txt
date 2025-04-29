@@ -596,3 +596,5 @@
 2025-04-28T21:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/how-to-use-dspm-for-ai-data-risk-assessment-to-address-internal/ba-p/4399785
 2025-04-29T16:00:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/rsac-2025-unveiling-new-innovations-in-cloud-and-ai-security/ba-p/4408140
 2025-04-29T17:00:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-general-availability-microsoft-sentinel-solution-for/ba-p/4406758
+2025-04-29T17:27:08 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-of-azure-waf-captcha-challenge-for-azure-front/ba-p/4407647
+2025-04-29T18:08:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/general-availability-of-on-demand-scanning-in-defender-for/ba-p/4409365
