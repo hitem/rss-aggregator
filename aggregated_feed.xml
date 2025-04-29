@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Apr 2025 18:11:21 GMT</lastBuildDate>
-    <item>
-      <title>General Availability of on-demand scanning in Defender for Storage</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/general-availability-of-on-demand-scanning-in-defender-for/ba-p/4409365</link>
-      <pubDate>Tue, 29 Apr 2025 18:08:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/general-availability-of-on-demand-scanning-in-defender-for/ba-p/4409365</guid>
-      <description>When malware protection was initially introduced in Microsoft Defender for Storage, security administrators gained the ability to safeguard their storage accounts against malicious attacks during blob uploads. This means that any time a blob is uploaded&#8212;whether from a web application, server, or user&#8212;into an Azure Blob storage account, malware scanning powered by Microsoft Defender Antivirus examines the content for any malicious elements within the blob, including images, documents, zip files and more.
-&#127881;In addition to on-upload malware protection, on-demand malware protection is now generally...</description>
-    </item>
-    <item>
-      <title>Public Preview of Azure WAF CAPTCHA Challenge for Azure Front Door</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-of-azure-waf-captcha-challenge-for-azure-front/ba-p/4407647</link>
-      <pubDate>Tue, 29 Apr 2025 17:27:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-of-azure-waf-captcha-challenge-for-azure-front/ba-p/4407647</guid>
-      <description>Modern web applications face an ever-growing array of automated threats, including bots, web scrapers, and brute-force attacks. Many of these attacks evade traditional security measures such as IP blocking, geo-restrictions, and rate limiting, which struggle to differentiate between legitimate users and automated traffic. As cyber threats become more sophisticated, businesses require stronger, more adaptive security solutions.
-&#160;
-Azure Front Door&#8217;s Web Application Firewall (WAF) now introduces CAPTCHA in public preview&#8212;an interactive mechanism designed to verify human users and block malicious ...</description>
-    </item>
+    <lastBuildDate>Tue, 29 Apr 2025 19:04:07 GMT</lastBuildDate>
   </channel>
 </rss>
