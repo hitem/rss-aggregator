@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Apr 2025 14:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 15:08:31 GMT</lastBuildDate>
+    <item>
+      <title>Guidance for handling CVE-2025-31324 using Microsoft Security capabilities</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-31324-using-microsoft-security/ba-p/4409413</link>
+      <pubDate>Wed, 30 Apr 2025 14:14:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-31324-using-microsoft-security/ba-p/4409413</guid>
+      <description>Short Description
+Recently, a CVSS 10 vulnerability, CVE-2025-31324, affecting the "Visual Composer" component of the SAP NetWeaver application server, has been published, putting organizations at risk.&#160;
+In this blog post, we will show you how to effectively manage this CVE if your organization is affected by it.&#160;
+&#160;
+Exploiting this vulnerability involves sending a malicious POST request to the "/developmentserver/metadatauploader" endpoint of the SAP NetWeaver application server, which allows allow arbitrary file upload and execution.&#160;
+Impact: &#160;
+This vulnerability allows attackers to deploy a ...</description>
+    </item>
   </channel>
 </rss>
