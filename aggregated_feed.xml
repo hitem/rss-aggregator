@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 01 May 2025 12:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 13:18:48 GMT</lastBuildDate>
+    <item>
+      <title>Announcing Public Preview of DLP for M365 Copilot in Word, Excel, and PowerPoint</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-public-preview-of-dlp-for-m365-copilot-in-word-excel/ba-p/4409809</link>
+      <pubDate>Thu, 01 May 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-public-preview-of-dlp-for-m365-copilot-in-word-excel/ba-p/4409809</guid>
+      <description>Today, we are excited to announce the public preview of Data Loss Prevention (DLP) for M365 Copilot in Word, Excel, and PowerPoint. This development extends the capabilities you rely on for safeguarding data in M365 Copilot Chat, bringing DLP protections to everyday Copilot scenarios within these core productivity apps.&#160;
+Building on Our Foundation&#160;
+Data oversharing and leakage is a top concern for organizations using generative AI technology, and securing AI-based workflows can feel overwhelming. We&#8217;ve been laying a strong foundation with Microsoft Purview Data Loss Prevention&#8212;especially with ...</description>
+    </item>
   </channel>
 </rss>
