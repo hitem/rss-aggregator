@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 02 May 2025 17:07:09 GMT</lastBuildDate>
-    <item>
-      <title>Optimizing Cybersecurity Costs with FinOps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/optimizing-cybersecurity-costs-with-finops/ba-p/4409333</link>
-      <pubDate>Fri, 02 May 2025 16:34:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/optimizing-cybersecurity-costs-with-finops/ba-p/4409333</guid>
-      <description>This blog highlights the integration of two essential technologies: Cybersecurity best practices and effective budget management across tools and services.
-Let&#8217;s understand FinOps
-
-FinOps is a cultural practice for cloud cost management.
-It enables teams to take ownership of cloud usage.
-It helps organizations maximize value by fostering collaboration among technology, finance, and business teams on data-driven spending decisions.
-
-FinOps Framework
-The FinOps Framework works across the following areas:
-Principles
-
-Collaborate as a team.
-Take responsibility for cloud resources.
-Ensure timely ac...</description>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 18:10:49 GMT</lastBuildDate>
   </channel>
 </rss>
