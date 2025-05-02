@@ -1,5 +1,3 @@
-2024-05-02T16:31:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156
-2024-05-02T16:38:33 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4128544
 2024-05-02T18:38:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-may-2024/ba-p/4129743
 2024-05-02T21:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-announcements-and-demos-at-rsac-2024/ba-p/2520429
 2024-05-02T21:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-external-authentication-methods-in-microsoft/ba-p/4078808
@@ -585,3 +583,4 @@
 2025-04-29T18:08:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/general-availability-of-on-demand-scanning-in-defender-for/ba-p/4409365
 2025-04-30T14:14:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-31324-using-microsoft-security/ba-p/4409413
 2025-05-01T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-public-preview-of-dlp-for-m365-copilot-in-word-excel/ba-p/4409809
+2025-05-02T16:34:30 https://techcommunity.microsoft.com/t5/microsoft-security-blog/optimizing-cybersecurity-costs-with-finops/ba-p/4409333
