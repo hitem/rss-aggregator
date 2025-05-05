@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 May 2025 12:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 13:21:15 GMT</lastBuildDate>
+    <item>
+      <title>Security Review for Microsoft Edge version 136</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-136/ba-p/4410797</link>
+      <pubDate>Mon, 05 May 2025 13:04:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-136/ba-p/4410797</guid>
+      <description>We are pleased to announce the security review for Microsoft Edge, version 136.
+We have reviewed the new settings in Microsoft Edge version 136 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 128 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 136 introduced 4 new Computer and User settings, we have included a spreadsheet listing the new settings to make it easier for you to find.
+&#160;
+As a friendly reminder, all availa...</description>
+    </item>
+    <item>
+      <title>The Risk of Default Configuration: How Out-of-the-Box Helm Charts Can Breach Your Cluster</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-risk-of-default-configuration-how-out-of-the-box-helm-charts/ba-p/4409560</link>
+      <pubDate>Mon, 05 May 2025 12:31:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-risk-of-default-configuration-how-out-of-the-box-helm-charts/ba-p/4409560</guid>
+      <description>Authors:
+Michael Katchinskiy, Security Researcher, Microsoft Defender for Cloud ResearchYossi Weizman, Principal Security Research Manager, Microsoft Defender for Cloud Research
+&#160;
+Have you ever used pre-made deployment templates to quickly spin up applications in Kubernetes environments? &#160;While these &#8220;plug-and-play&#8221; options greatly simplify the setup process, they often prioritize ease of use over security. As a result, a large number of applications end up being deployed in a misconfigured state by default, exposing sensitive data, cloud resources, or even the entire environment to attackers....</description>
+    </item>
   </channel>
 </rss>

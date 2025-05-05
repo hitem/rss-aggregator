@@ -580,3 +580,5 @@
 2025-04-30T14:14:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-31324-using-microsoft-security/ba-p/4409413
 2025-05-01T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-public-preview-of-dlp-for-m365-copilot-in-word-excel/ba-p/4409809
 2025-05-02T16:34:30 https://techcommunity.microsoft.com/t5/microsoft-security-blog/optimizing-cybersecurity-costs-with-finops/ba-p/4409333
+2025-05-05T12:31:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-risk-of-default-configuration-how-out-of-the-box-helm-charts/ba-p/4409560
+2025-05-05T13:04:32 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-136/ba-p/4410797
