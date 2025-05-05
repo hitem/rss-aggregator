@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 May 2025 18:09:12 GMT</lastBuildDate>
-    <item>
-      <title>Exploring the Use Cases of ADMS User Migration</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-user-migration/ba-p/4410358</link>
-      <pubDate>Mon, 05 May 2025 17:00:37 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-user-migration/ba-p/4410358</guid>
-      <description>A Comprehensive Overview:
-An Insight into Active Directory Migration Services User Migration.
-Introduction
-ADMS, ADSS, and ADGMS are all cloud-based services that come within the ADxS services portfolio offered by Microsoft and designed to facilitate efficient and cost-effective migrations. For additional information around migration use cases, refer to this blog:&#160;https://techcommunity.microsoft.com/blog/microsoft-security-blog/exploring-the-use-cases-of-adxs-services/4373299?previewMessage=true&#160;.
-ADMS or Active Directory Migration Service &#8211; is a service designed to facilitate the migration of...</description>
-    </item>
+    <lastBuildDate>Mon, 05 May 2025 19:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
