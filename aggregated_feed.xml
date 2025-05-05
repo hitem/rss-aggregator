@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 May 2025 22:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 23:00:43 GMT</lastBuildDate>
+    <item>
+      <title>How to easily apply DISA STIGs with Intune</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-easily-apply-disa-stigs-with-intune/ba-p/4410958</link>
+      <pubDate>Mon, 05 May 2025 22:57:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-easily-apply-disa-stigs-with-intune/ba-p/4410958</guid>
+      <description>Introduction
+In today's digital landscape, ensuring the security and compliance of IT infrastructure is paramount. The Defense Information Systems Agency (DISA) provides Security Technical Implementation Guides (STIGs) to optimize security for various software and systems. Utilizing Microsoft Intune, administrators can create configuration profiles that adhere to these STIGs, thereby enhancing their organization's security posture. This blog will walk you through the process of creating Intune Configuration Profiles for DISA STIGs, complete with screenshots and detailed steps.
+Prerequisites
+Be...</description>
+    </item>
   </channel>
 </rss>
