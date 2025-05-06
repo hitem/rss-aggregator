@@ -584,3 +584,4 @@
 2025-05-05T13:04:32 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-136/ba-p/4410797
 2025-05-05T17:00:37 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-user-migration/ba-p/4410358
 2025-05-05T22:57:03 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-easily-apply-disa-stigs-with-intune/ba-p/4410958
+2025-05-05T23:30:01 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/safelinks-protection-for-links-generated-by-m365-copilot-chat/ba-p/4396828
