@@ -3,6 +3,8 @@ name: RSS & HTML Aggregator
 on:
   schedule:
     - cron: "0 */1 * * *" # Run every hour
+    # Use a second run incase you are experiencing skips in github actions causing duplicates (i have one duplicate happening 02:50 and 03:50 due to github actions maintinance and delays on microsofts side once a month)
+    #- cron: "10 * * * *" # Run 10 mina after every hour
   workflow_dispatch:
 
 jobs:

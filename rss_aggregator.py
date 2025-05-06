@@ -9,6 +9,7 @@ import datetime
 import calendar
 import os
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
 # Ensure our local copy is exactly in sync with origin/main.
 try:
@@ -50,16 +51,21 @@ processed_links_file = "processed_links.txt"
 recent_time_threshold = datetime.datetime.now(
     datetime.timezone.utc) - datetime.timedelta(hours=2)
 
+# Helper to normalize URLs (remove fragments, queries, and trailing slashes)
+from urllib.parse import urlparse
+
+def normalize_url(url):
+    parsed = urlparse(url.strip())
+    return parsed._replace(fragment="", query="").geturl().rstrip("/")
+
 # Read previously processed links
 try:
     with open(processed_links_file, "r") as f:
-        processed_links = set(line.split()[1] for line in f if line.strip())
+        processed_links = set(normalize_url(line.split()[1]) for line in f if line.strip())
 except FileNotFoundError:
     processed_links = set()
 
 # Asynchronous function to fetch RSS feed content
-
-
 async def fetch_rss_feed(url, session):
     try:
         async with session.get(url, timeout=10) as response:
@@ -74,15 +80,11 @@ async def fetch_rss_feed(url, session):
         return None
 
 # Convert struct_time to datetime with UTC timezone
-
-
 def struct_time_to_datetime(t):
     timestamp = calendar.timegm(t)
     return datetime.datetime.utcfromtimestamp(timestamp).replace(tzinfo=datetime.timezone.utc)
 
 # Main asynchronous function to process RSS feeds
-
-
 async def process_feeds():
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_rss_feed(url, session) for url in rss_feed_urls]
@@ -97,16 +99,17 @@ async def process_feeds():
         # Remove duplicates from the current run and ignore already processed links
         deduped_entries = {}
         for entry in all_entries:
-            if hasattr(entry, "link") and entry.link not in processed_links:
-                deduped_entries.setdefault(entry.link, entry)
+            if hasattr(entry, "link"):
+                norm_link = normalize_url(entry.link)
+                if norm_link not in processed_links:
+                    deduped_entries.setdefault(norm_link, entry)
         unique_entries = list(deduped_entries.values())
 
         # Filter for recent entries using the published time
         recent_entries = []
         for entry in unique_entries:
             if hasattr(entry, 'published_parsed'):
-                entry_datetime = struct_time_to_datetime(
-                    entry.published_parsed)
+                entry_datetime = struct_time_to_datetime(entry.published_parsed)
                 if entry_datetime >= recent_time_threshold:
                     recent_entries.append(entry)
 
@@ -114,13 +117,22 @@ async def process_feeds():
         sorted_entries = sorted(
             recent_entries, key=lambda x: x.published_parsed, reverse=True)
 
+        # Append new links to processed_links.txt immediately
+        with open(processed_links_file, "a") as f:
+            for entry in sorted_entries:
+                try:
+                    timestamp = datetime.datetime.strptime(
+                        entry.published, "%a, %d %b %Y %H:%M:%S %Z"
+                    ).strftime("%Y-%m-%dT%H:%M:%S")
+                    f.write(f"{timestamp} {normalize_url(entry.link)}\n")
+                except Exception:
+                    continue  # Skip malformed or missing dates
+
         # Update the aggregated XML feed with the new entries
         update_feed(sorted_entries)
         return sorted_entries
 
 # Function to update or create the XML feed
-
-
 def update_feed(sorted_entries):
     now = datetime.datetime.now(datetime.timezone.utc)
 
@@ -165,15 +177,6 @@ def update_feed(sorted_entries):
     # Write the updated feed to file
     with open(output_file, "wb") as f:
         f.write(etree.tostring(root, pretty_print=True))
-
-    # Append new links to processed_links.txt
-    with open(processed_links_file, "a") as f:
-        for entry in sorted_entries:
-            timestamp = datetime.datetime.strptime(
-                entry.published, "%a, %d %b %Y %H:%M:%S %Z"
-            ).strftime("%Y-%m-%dT%H:%M:%S")
-            f.write(f"{timestamp} {entry.link}\n")
-
 
 # Run the feed processing
 sorted_entries = asyncio.run(process_feeds())
