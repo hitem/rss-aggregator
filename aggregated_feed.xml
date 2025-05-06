@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 May 2025 22:07:28 GMT</lastBuildDate>
-    <item>
-      <title>Unified Security Summary: Enhancing Visibility and Value</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unified-security-summary-enhancing-visibility-and-value/ba-p/4411302</link>
-      <pubDate>Tue, 06 May 2025 21:22:37 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unified-security-summary-enhancing-visibility-and-value/ba-p/4411302</guid>
-      <description>In today's rapidly evolving threat landscape, security teams are constantly working to reduce risks and remediate threats. However, the sheer volume of vulnerabilities and incidents can make it challenging to communicate progress and value to stakeholders. Security teams often spend countless hours managing vulnerabilities and incidents, leaving little time for building and sharing progress reports. This can result in stakeholders being uninformed about the security team's efforts and achievements. To address this, we are excited to introduce the unified security summary, a comprehensive repor...</description>
-    </item>
+    <lastBuildDate>Tue, 06 May 2025 23:07:44 GMT</lastBuildDate>
   </channel>
 </rss>
