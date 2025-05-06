@@ -3,13 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 May 2025 21:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 22:07:28 GMT</lastBuildDate>
     <item>
-      <title>From visibility to action: The power of cloud detection and response</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/from-visibility-to-action-the-power-of-cloud-detection-and/ba-p/4411280</link>
-      <pubDate>Tue, 06 May 2025 20:48:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/from-visibility-to-action-the-power-of-cloud-detection-and/ba-p/4411280</guid>
-      <description>Cloud attacks aren&#8217;t just growing&#8212;they&#8217;re evolving at a pace that outstrips traditional security measures. Today&#8217;s attackers aren&#8217;t just knocking at the door&#8212;they&#8217;re sneaking through cracks in the system, exploiting misconfigurations, hijacking identity permissions, and targeting overlooked vulnerabilities. While organizations have invested in preventive measures like vulnerability management and runtime workload protection, these tools alone are no longer enough to stop sophisticated cloud threats. The reality is: security isn&#8217;t just about blocking threats from the start&#8212;it&#8217;s about detecting,...</description>
+      <title>Unified Security Summary: Enhancing Visibility and Value</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unified-security-summary-enhancing-visibility-and-value/ba-p/4411302</link>
+      <pubDate>Tue, 06 May 2025 21:22:37 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unified-security-summary-enhancing-visibility-and-value/ba-p/4411302</guid>
+      <description>In today's rapidly evolving threat landscape, security teams are constantly working to reduce risks and remediate threats. However, the sheer volume of vulnerabilities and incidents can make it challenging to communicate progress and value to stakeholders. Security teams often spend countless hours managing vulnerabilities and incidents, leaving little time for building and sharing progress reports. This can result in stakeholders being uninformed about the security team's efforts and achievements. To address this, we are excited to introduce the unified security summary, a comprehensive repor...</description>
     </item>
   </channel>
 </rss>
