@@ -104,3 +104,8 @@ if pub_date >= time_threshold and link not in processed_links:
 For your own sanity, if you follow this repo or deploy your own, make sure to: \
 <img src="https://github.com/user-attachments/assets/e453e278-d324-45b1-9d76-f21b6c110a57" width="300"/> \
 If you run every hour it will be very chatty :)
+
+# Troubleshooting
+I've added an option for a secondary run in the GitHub Actions workflow file. You can uncomment this if you're experiencing a high number of skipped runs. Skipped workflows can sometimes lead to duplicate entries, depending on your ingestion mechanism. This happens because the workflow is responsible for generating the feed.xml file used in your ingestion process.
+
+If you're using append=false, enabling additional runs can help ensure parity and reduce missed updates. However, please note that this will increase the number of GitHub Actions executions, which may impact your available runner minutes—especially on the free tier, where workflows have lower priority and can be skipped during maintenance or periods of high load.
