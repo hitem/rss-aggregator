@@ -3,17 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 May 2025 16:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 17:07:44 GMT</lastBuildDate>
     <item>
-      <title>Plug, Play, and Prey: The security risks of the Model Context Protocol</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/plug-play-and-prey-the-security-risks-of-the-model-context/ba-p/4410829</link>
-      <pubDate>Wed, 07 May 2025 15:08:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/plug-play-and-prey-the-security-risks-of-the-model-context/ba-p/4410829</guid>
-      <description>Amit Magen Medina,&#160;Data Scientist, Defender for Cloud ResearchIdan Hen, Principal Data Science Manager,&#160;Defender for Cloud Research
-Introduction
-MCP's growing adoption is transforming system integration. By standardizing access, MCP enables developers to easily build powerful, agentic AI experiences with minimal integration overhead. However, this convenience also introduces unprecedented security risks. A misconfigured MCP integration, or a clever injection attack, could turn your helpful assistant into a data leak waiting to happen.
-MCP in Action
-Consider a user connecting an &#8220;Email&#8221; MCP ser...</description>
+      <title>Check This Out! (CTO!) Guide (Feb 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-feb-2025/ba-p/4390263</link>
+      <pubDate>Wed, 07 May 2025 16:59:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-feb-2025/ba-p/4390263</guid>
+      <description>Hi everyone! Tyson Paul here with this month&#8217;s &#8220;Check This Out!&#8221; (CTO!) guide.
+Our goal with these posts is to guide you toward content that piques your interest, whether it's for learning, troubleshooting, or discovering new sources. Each month, we&#8217;ll give you a snapshot of intriguing blog content, provide direct links to the source material, and introduce you to other valuable blogs you might not know about yet.
+If you&#8217;re a long-time reader, you&#8217;ll notice this series is similar to our previous &#8220;Infrastructure + Security: Noteworthy News&#8221; series. We hope you find this new format just as helpf...</description>
     </item>
   </channel>
 </rss>
