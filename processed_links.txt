@@ -573,3 +573,4 @@
 2025-05-07T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-file-attachments-for-case-management/ba-p/4408877
 2025-05-07T15:08:46 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/plug-play-and-prey-the-security-risks-of-the-model-context/ba-p/4410829
 2025-05-07T16:59:44 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-feb-2025/ba-p/4390263
+2025-05-07T19:44:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/connecting-defender-for-cloud-with-jira/ba-p/4411691
