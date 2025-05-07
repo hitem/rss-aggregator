@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 May 2025 15:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 16:10:15 GMT</lastBuildDate>
+    <item>
+      <title>Plug, Play, and Prey: The security risks of the Model Context Protocol</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/plug-play-and-prey-the-security-risks-of-the-model-context/ba-p/4410829</link>
+      <pubDate>Wed, 07 May 2025 15:08:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/plug-play-and-prey-the-security-risks-of-the-model-context/ba-p/4410829</guid>
+      <description>Amit Magen Medina,&#160;Data Scientist, Defender for Cloud ResearchIdan Hen, Principal Data Science Manager,&#160;Defender for Cloud Research
+Introduction
+MCP's growing adoption is transforming system integration. By standardizing access, MCP enables developers to easily build powerful, agentic AI experiences with minimal integration overhead. However, this convenience also introduces unprecedented security risks. A misconfigured MCP integration, or a clever injection attack, could turn your helpful assistant into a data leak waiting to happen.
+MCP in Action
+Consider a user connecting an &#8220;Email&#8221; MCP ser...</description>
+    </item>
   </channel>
 </rss>
