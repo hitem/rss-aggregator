@@ -569,3 +569,5 @@
 2025-05-06T20:48:53 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/from-visibility-to-action-the-power-of-cloud-detection-and/ba-p/4411280
 2025-05-06T21:22:37 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unified-security-summary-enhancing-visibility-and-value/ba-p/4411302
 2025-05-07T10:17:08 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2025/ba-p/4410781
+2025-05-07T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-file-attachments-for-case-management/ba-p/4408881
+2025-05-07T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-file-attachments-for-case-management/ba-p/4408877

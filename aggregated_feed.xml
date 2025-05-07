@@ -3,20 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 May 2025 12:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 13:25:19 GMT</lastBuildDate>
     <item>
-      <title>Monthly news - May 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2025/ba-p/4410781</link>
-      <pubDate>Wed, 07 May 2025 10:17:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2025/ba-p/4410781</guid>
-      <description>Microsoft Defender XDRMonthly newsMay 2025 Edition
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from April 2025. Defender for Cloud has it's own Monthly News post, have a look at&#160;their blog space.&#160;
-&#160;
-Unified Security Operations Platform: Microsoft Defender XDR &amp; Microsoft Sentinel
+      <title>Announcing File Attachments for Case Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-file-attachments-for-case-management/ba-p/4408881</link>
+      <pubDate>Wed, 07 May 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-file-attachments-for-case-management/ba-p/4408881</guid>
+      <description>Staying informed with the most up to date information is critical to quickly taking appropriate action on a case.&#160; File Attachments for Case Management enables you to share reports, emails, screenshots, log files, and more, all in one centralized location within a case ensuring you have all the information you need.&#160;&#160;
+Key Benefits of Attachments for Case Management&#160;
 
-What&#8217;s new in Microsoft Defender XDR at Secure 2025
-New blog post: Empowering SOC Analysts: Investigating Identity Threats with Microsoft Defender XDR.&#160;
-...</description>
+Centralized Information: File attachments ensure that all relevant documents, images, and data are stored in one place. No more hunting through emails or disparate systems&#8212;everything you need is right at your fingertips within the...</description>
+    </item>
+    <item>
+      <title>Announcing File Attachments for Case Management</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-file-attachments-for-case-management/ba-p/4408877</link>
+      <pubDate>Wed, 07 May 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-file-attachments-for-case-management/ba-p/4408877</guid>
+      <description>Effective information sharing is crucial for resolving cases efficiently. Today, we are excited to announce the launch of File Attachments for Case Management, a capability designed to enhance your case investigations with the sharing of reports, emails, screenshots, log files, and more, all in one centralized location within a case.&#160;
+Key Benefits of Attachments for Case Management&#160;
+
+Centralized Information: File attachments ensure that all relevant documents, images, and data are stored in one place. Reduce your reliance on external file storage and stop hunting through emails&#8212;everything you ...</description>
     </item>
   </channel>
 </rss>
