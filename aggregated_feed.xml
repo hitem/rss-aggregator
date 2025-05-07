@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 May 2025 20:09:29 GMT</lastBuildDate>
-    <item>
-      <title>Connecting Defender for Cloud with Jira</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/connecting-defender-for-cloud-with-jira/ba-p/4411691</link>
-      <pubDate>Wed, 07 May 2025 19:44:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/connecting-defender-for-cloud-with-jira/ba-p/4411691</guid>
-      <description>Microsoft Defender for Cloud (MDC) includes robust Governance features designed to streamline the management of security recommendations across diverse IT environments. This capability is already extensively documented and provides out-of-the-box integration with platforms like ServiceNow, enabling automated ticket creation and governance workflows that enhance operational efficiency. For more details, explore the documentation on Governance here - Drive remediation with governance, and the blog article Best Practices to Manage and Mitigate Security Recommendations.
-This blog introduces an exc...</description>
-    </item>
+    <lastBuildDate>Wed, 07 May 2025 21:00:40 GMT</lastBuildDate>
   </channel>
 </rss>
