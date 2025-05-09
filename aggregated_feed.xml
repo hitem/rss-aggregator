@@ -3,6 +3,38 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 09 May 2025 19:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 20:09:07 GMT</lastBuildDate>
+    <item>
+      <title>Automate Extraction of Microsoft Sentinel Analytical Rules from GitHub Solutions</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-extraction-of-microsoft-sentinel-analytical-rules-from/ba-p/4411498</link>
+      <pubDate>Fri, 09 May 2025 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-extraction-of-microsoft-sentinel-analytical-rules-from/ba-p/4411498</guid>
+      <description>&#128295; Enhancing Pre-Deployment Rule Insights
+Extracting metadata like Rule Name, Severity, MITRE Tactics, and Techniques for out-of-the-box analytical rules across multiple solutions can be time-consuming when done manually&#8212;especially before the rules are deployed.
+&#128640; Script Overview
+The PowerShell script, hosted on GitHub, lets you:
+
+Provide the exact Microsoft Sentinel solution name as input, from&#160;Microsoft Sentinel GitHub:&#160; Azure-Sentinel/Solutions at master &#183; Azure/Azure-Sentinel &#183; GitHub
+Automatically query the [Microsoft Sentinel GitHub repo]
+Parse all associated analytical rule YAMLs under t...</description>
+    </item>
+    <item>
+      <title>Check This Out! (CTO!) Guide (April 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-april-2025/ba-p/4412138</link>
+      <pubDate>Fri, 09 May 2025 19:21:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-april-2025/ba-p/4412138</guid>
+      <description>Hi everyone! Tyson Paul here with this month&#8217;s &#8220;Check This Out!&#8221; (CTO!) guide.
+Our goal with these posts is to guide you toward content that piques your interest, whether it's for learning, troubleshooting, or discovering new sources. Each month, we&#8217;ll give you a snapshot of intriguing blog content, provide direct links to the source material, and introduce you to other valuable blogs you might not know about yet.
+If you&#8217;re a long-time reader, you&#8217;ll notice this series is similar to our previous &#8220;Infrastructure + Security: Noteworthy News&#8221; series. We hope you find this new format just as helpf...</description>
+    </item>
+    <item>
+      <title>Check This Out! (CTO!) Guide (March 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-march-2025/ba-p/4412127</link>
+      <pubDate>Fri, 09 May 2025 19:20:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-march-2025/ba-p/4412127</guid>
+      <description>Hi everyone! Tyson Paul here with this month&#8217;s &#8220;Check This Out!&#8221; (CTO!) guide.
+Our goal with these posts is to guide you toward content that piques your interest, whether it's for learning, troubleshooting, or discovering new sources. Each month, we&#8217;ll give you a snapshot of intriguing blog content, provide direct links to the source material, and introduce you to other valuable blogs you might not know about yet.
+If you&#8217;re a long-time reader, you&#8217;ll notice this series is similar to our previous &#8220;Infrastructure + Security: Noteworthy News&#8221; series. We hope you find this new format just as helpf...</description>
+    </item>
   </channel>
 </rss>
