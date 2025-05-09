@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 09 May 2025 00:40:12 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud Customer Newsletter</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4412123</link>
-      <pubDate>Thu, 08 May 2025 23:48:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4412123</guid>
-      <description>What&#8217;s new in Defender for Cloud?
-The updated edition of&#160;Microsoft&#160;Defender&#160;for&#160;Cloud's "From Plan to Deployment" eBook is now available. This comprehensive guide focuses on implementing a&#160;cloud-native application platform (CNAPP) strategy. You can access a free version of this eBook here.
-General Availability&#160;for&#160;Defender&#160;for&#160;AI Services
-Defender for Cloud now supports runtime protection for Azure AI services. Protection for Azure AI services covers threats specific to AI services and applications, such as jailbreak, wallet abuse, data exposure, suspicious access patterns, and more.&#160;
-For more...</description>
-    </item>
+    <lastBuildDate>Fri, 09 May 2025 02:25:34 GMT</lastBuildDate>
   </channel>
 </rss>
