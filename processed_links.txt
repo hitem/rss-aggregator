@@ -568,3 +568,4 @@
 2025-05-07T19:44:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/connecting-defender-for-cloud-with-jira/ba-p/4411691
 2025-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-identity-security-and-resilience-to-minimize-operational/ba-p/4411258
 2025-05-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/securing-microsoft-m365-copilot-and-ai-with-microsoft-s-suite-of/ba-p/4410425
+2025-05-08T23:48:47 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4412123
