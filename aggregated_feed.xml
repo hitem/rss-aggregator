@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 May 2025 20:09:11 GMT</lastBuildDate>
-    <item>
-      <title>Risk-based Recommendation for SOC Optimization</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/risk-based-recommendation-for-soc-optimization/ba-p/4413041</link>
-      <pubDate>Mon, 12 May 2025 19:23:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/risk-based-recommendation-for-soc-optimization/ba-p/4413041</guid>
-      <description>This post is part of a blog series highlighting new SOC optimization capabilities designed to help SOC teams maximize security value and reduce costs, leveraging tailored dynamic recommendations. In this post, we will focus on Risk-Based Optimization, an exciting new capability that helps prioritize detection coverage based on the business risks most pertinent to your organization.
-Security teams often face the challenge of deciding where to focus detection efforts, especially when resources are limited and threats are constantly evolving. Traditional approaches treat all detections equally, m...</description>
-    </item>
+    <lastBuildDate>Mon, 12 May 2025 21:00:39 GMT</lastBuildDate>
   </channel>
 </rss>
