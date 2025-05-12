@@ -574,3 +574,4 @@
 2025-05-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-ediscovery-e3/ba-p/4412354
 2025-05-12T16:17:44 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/choosing-between-microsoft-defender-experts-for-hunting-and/ba-p/4410208
 2025-05-12T18:41:54 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-a-unified-siem-xdr-identityinfo-schema/ba-p/4410824
+2025-05-12T19:23:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/risk-based-recommendation-for-soc-optimization/ba-p/4413041

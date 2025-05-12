@@ -3,16 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 May 2025 19:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 20:09:11 GMT</lastBuildDate>
     <item>
-      <title>The Power of a Unified SIEM+XDR IdentityInfo Schema</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-a-unified-siem-xdr-identityinfo-schema/ba-p/4410824</link>
-      <pubDate>Mon, 12 May 2025 18:41:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-a-unified-siem-xdr-identityinfo-schema/ba-p/4410824</guid>
-      <description>We are excited to share that the updated IdentityInfo schema is planned to be available by May 12th! This upcoming enhancement will unify identity insights from SIEM (Microsoft Sentinel, UEBA) and XDR (Microsoft Defender for Identity) into a single, streamlined table - enhancing security operations, threat detection, and investigation workflows.
-&#160;
-Why This Matters
-Security teams often struggle with fragmented identity data across SIEM and XDR solutions, making investigations slower and less efficient. By unifying the IdentityInfo schema, we provide a single, enriched view of identity-related d...</description>
+      <title>Risk-based Recommendation for SOC Optimization</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/risk-based-recommendation-for-soc-optimization/ba-p/4413041</link>
+      <pubDate>Mon, 12 May 2025 19:23:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/risk-based-recommendation-for-soc-optimization/ba-p/4413041</guid>
+      <description>This post is part of a blog series highlighting new SOC optimization capabilities designed to help SOC teams maximize security value and reduce costs, leveraging tailored dynamic recommendations. In this post, we will focus on Risk-Based Optimization, an exciting new capability that helps prioritize detection coverage based on the business risks most pertinent to your organization.
+Security teams often face the challenge of deciding where to focus detection efforts, especially when resources are limited and threats are constantly evolving. Traditional approaches treat all detections equally, m...</description>
     </item>
   </channel>
 </rss>
