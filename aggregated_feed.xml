@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 May 2025 17:00:37 GMT</lastBuildDate>
-    <item>
-      <title>Choosing between Microsoft Defender Experts for Hunting and Microsoft Defender Experts for XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/choosing-between-microsoft-defender-experts-for-hunting-and/ba-p/4410208</link>
-      <pubDate>Mon, 12 May 2025 16:17:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/choosing-between-microsoft-defender-experts-for-hunting-and/ba-p/4410208</guid>
-      <description>Introduction
-In today&#8217;s cybersecurity landscape, organizations face increasingly complex and sophisticated threats. Microsoft offers two robust solutions designed to enhance your security operations: Microsoft Defender Experts for Hunting and Microsoft Defender Experts for XDR. &#160;While both services aim to protect your organization against threats, they are tailored for distinct use cases. This guide will help you understand when to utilize Defender Experts for Hunting and when Defender Experts for XDR might be the right choice for your organization.
-What Is Microsoft Defender Experts for Hunti...</description>
-    </item>
+    <lastBuildDate>Mon, 12 May 2025 18:11:22 GMT</lastBuildDate>
   </channel>
 </rss>
