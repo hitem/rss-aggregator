@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 May 2025 18:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 19:00:46 GMT</lastBuildDate>
+    <item>
+      <title>The Power of a Unified SIEM+XDR IdentityInfo Schema</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-a-unified-siem-xdr-identityinfo-schema/ba-p/4410824</link>
+      <pubDate>Mon, 12 May 2025 18:41:54 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-a-unified-siem-xdr-identityinfo-schema/ba-p/4410824</guid>
+      <description>We are excited to share that the updated IdentityInfo schema is planned to be available by May 12th! This upcoming enhancement will unify identity insights from SIEM (Microsoft Sentinel, UEBA) and XDR (Microsoft Defender for Identity) into a single, streamlined table - enhancing security operations, threat detection, and investigation workflows.
+&#160;
+Why This Matters
+Security teams often struggle with fragmented identity data across SIEM and XDR solutions, making investigations slower and less efficient. By unifying the IdentityInfo schema, we provide a single, enriched view of identity-related d...</description>
+    </item>
   </channel>
 </rss>
