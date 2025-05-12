@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 May 2025 15:08:50 GMT</lastBuildDate>
-    <item>
-      <title>Getting Started with the New Purview eDiscovery (E3)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-ediscovery-e3/ba-p/4412354</link>
-      <pubDate>Mon, 12 May 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-ediscovery-e3/ba-p/4412354</guid>
-      <description>&#160;
-&#160;
-&#8220;I heard that classic eDiscovery (Standard) will be retired on May 26th. How can I get started in the new Purview eDiscovery?&#8221;
-Welcome to the new era of Purview eDiscovery! As we transition from the classic eDiscovery (Standard) to the new Purview eDiscovery, you'll find a more intuitive and user-friendly experience designed to streamline your workflow. This enhanced platform offers additional capabilities such as improved data sources for easier identification of search locations, an upgraded condition builder, better support for modern collaboration, and a more efficient export process.
-...</description>
-    </item>
+    <lastBuildDate>Mon, 12 May 2025 16:10:11 GMT</lastBuildDate>
   </channel>
 </rss>
