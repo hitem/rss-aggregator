@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 13 May 2025 15:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 16:10:12 GMT</lastBuildDate>
+    <item>
+      <title>Maximizing savings with Azure Firewall and Azure Monitor basic table plan</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/maximizing-savings-with-azure-firewall-and-azure-monitor-basic/ba-p/4413445</link>
+      <pubDate>Tue, 13 May 2025 15:49:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/maximizing-savings-with-azure-firewall-and-azure-monitor-basic/ba-p/4413445</guid>
+      <description>The Azure Firewall Product Team has recently announced support for the new Log Analytics Basic table plan for all resource-specific logging tables, offering a potential reduction in logging costs by up to 80%. This new mode complements the existing 80% cost reduction achieved through structured/resource-specific logging, providing even greater savings. To learn more about the cost optimization introduced by resource-specific logs, check out the blog post Optimizing Azure Firewall logging costs | Microsoft Community Hub.
+While the new Basic table plan is beneficial for cost-conscious customers,...</description>
+    </item>
   </channel>
 </rss>
