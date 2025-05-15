@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 May 2025 18:11:26 GMT</lastBuildDate>
-    <item>
-      <title>Defender for Endpoint successfully passes the AV-Comparatives 2025 Anti-Tampering Test</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-successfully-passes-the-av-comparatives/ba-p/4414153</link>
-      <pubDate>Thu, 15 May 2025 17:21:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-successfully-passes-the-av-comparatives/ba-p/4414153</guid>
-      <description>The rise of tampering attacks
-In cybersecurity, anti-tampering protection refers to the defensive measures designed to prevent unauthorized modifications to security systems, policies, and settings. When threat actors compromise an organization, they often start by tampering with security solutions in an effort to further exploit and achieve persistence within the environment. Common tampering tactics include disabling or altering antivirus and endpoint detection and response (EDR) tools, turning off real-time protection and security intelligence updates, editing high-value device and access p...</description>
-    </item>
+    <lastBuildDate>Thu, 15 May 2025 19:00:40 GMT</lastBuildDate>
   </channel>
 </rss>
