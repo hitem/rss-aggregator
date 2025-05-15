@@ -1,5 +1,3 @@
-2024-05-15T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490
-2024-05-15T15:58:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-api-management-service-from-day-one-with-defender/ba-p/4141620
 2024-05-15T20:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587
 2024-05-16T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-on-prem-users/ba-p/3905450
 2024-05-16T17:25:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/loop-ddos-attacks-understanding-the-threat-and-azure-s-defense/ba-p/4141291
@@ -569,3 +567,4 @@
 2025-05-12T18:41:54 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-a-unified-siem-xdr-identityinfo-schema/ba-p/4410824
 2025-05-12T19:23:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/risk-based-recommendation-for-soc-optimization/ba-p/4413041
 2025-05-13T15:49:56 https://techcommunity.microsoft.com/t5/azure-network-security-blog/maximizing-savings-with-azure-firewall-and-azure-monitor-basic/ba-p/4413445
+2025-05-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932
