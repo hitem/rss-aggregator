@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 18 May 2025 11:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 12:13:17 GMT</lastBuildDate>
+    <item>
+      <title>Migrating BitLocker Recovery Key Management from ConfigMgr to Intune: A Practical Guide</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-bitlocker-recovery-key-management-from-configmgr-to/ba-p/4414948</link>
+      <pubDate>Sun, 18 May 2025 11:40:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-bitlocker-recovery-key-management-from-configmgr-to/ba-p/4414948</guid>
+      <description>Hi, I'm Herbert Fuchs, a Cloud Solution Architect. In this blog, I&#8217;ll guide you through migrating existing BitLocker recovery keys from Configuration Manager to Intune&#8212;especially for scenarios involving already encrypted devices. While many posts cover Intune setup basics for greenfield deployments, this guide dives deeper into real-world considerations for Hybrid-Joined, co-managed environments.
+&#160;
+Current Setup: ConfigMgr BitLocker Management
+In many organizations, BitLocker encryption and key management is handled via MBAM Standalone or the Configuration Manager BitLocker feature. In both ca...</description>
+    </item>
   </channel>
 </rss>
