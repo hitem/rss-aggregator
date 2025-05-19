@@ -565,3 +565,4 @@
 2025-05-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932
 2025-05-15T17:21:19 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-successfully-passes-the-av-comparatives/ba-p/4414153
 2025-05-18T11:40:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-bitlocker-recovery-key-management-from-configmgr-to/ba-p/4414948
+2025-05-19T05:49:24 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-threat-intelligence-feeds-integration-to-strengthen/ba-p/4415063

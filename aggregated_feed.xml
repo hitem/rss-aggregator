@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 May 2025 05:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 06:13:02 GMT</lastBuildDate>
+    <item>
+      <title>Sentinel-Threat Intelligence Feeds Integration to strengthen Threat Detection &amp; Proactive Hunting.</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-threat-intelligence-feeds-integration-to-strengthen/ba-p/4415063</link>
+      <pubDate>Mon, 19 May 2025 05:49:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-threat-intelligence-feeds-integration-to-strengthen/ba-p/4415063</guid>
+      <description>Combining threat intelligence feeds is important for detecting threats and identifying Indicators of Compromise (IOCs) in various scenarios. Here are some key situations where this approach is advantageous:
+
+ Comprehensive Threat Detection
+
+Integrating multiple threat intelligence feeds can cover a wider range of threats. Different feeds may provide unique insights into malicious activities, IP addresses, domain names, and other IOCs.
+
+ Reducing False Positives
+
+Combining feeds helps cross-verify data, decreasing the likelihood of false positives. This ensures that security teams focus on actu...</description>
+    </item>
   </channel>
 </rss>
