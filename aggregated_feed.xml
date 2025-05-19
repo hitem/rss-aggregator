@@ -3,6 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 May 2025 15:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 16:09:57 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview SDK Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-purview-sdk-public-preview/ba-p/4414240</link>
+      <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-purview-sdk-public-preview/ba-p/4414240</guid>
+      <description>Setting the stage
+AI continues to drive innovation and push boundaries across the industry; with this new productivity power we must continue securing organizational data and ensure we are surfacing risky events including those related to the use of AI.
+This now extends to custom built AI applications as they grow in popularity. Based on Microsoft-conducted research, 95% of organizations1 are planning to or already using and developing AI applications.
+Current Challenges
+GenAI-nxiety is on the rise for both organization leaders and developers alike. Insufficient visibility into the usage of AI...</description>
+    </item>
+    <item>
+      <title>Post-Quantum Cryptography Comes to Windows Insiders and Linux</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/ba-p/4413803</link>
+      <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/ba-p/4413803</guid>
+      <description>Introduction&#160;
+As the digital landscape continues to evolve, the emergence of quantum computing presents both significant opportunities and challenges. In previous blog posts, we discussed how quantum computing could disrupt contemporary cryptographic algorithms, Microsoft&#8217;s contributions to quantum safety efforts across the industry, and the addition of PQC algorithms to SymCrypt, our core cryptographic library.&#160;
+We are pleased to announce the next significant milestone in our PQC journey: We&#8217;re making PQC capabilities available for Windows Insiders, Canary Channel Build 27852 and higher, and ...</description>
+    </item>
+    <item>
+      <title>Announcing Microsoft Entra Agent ID: Secure and manage your AI agents</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-microsoft-entra-agent-id-secure-and-manage-your-ai/ba-p/3827392</link>
+      <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-microsoft-entra-agent-id-secure-and-manage-your-ai/ba-p/3827392</guid>
+      <description>Howdy folks! &#160;
+We&#8217;re entering a new era where AI Agents aren&#8217;t just tools, but catalysts for a smarter, more empowered way of working. Many of you have shared that as your teams experiment with building and adopting AI agents, it&#8217;s challenging to keep track of these non-human actors. The very thing that makes these agents powerful&#8212;their ability to autonomously handle complex tasks and act like virtual teammates&#8212;also raises concerns. That&#8217;s why it&#8217;s critical to track agent identities, manage their lifecycle and permissions, and carefully secure their access to your organization&#8217;s resources.&#160;
+Ou...</description>
+    </item>
   </channel>
 </rss>
