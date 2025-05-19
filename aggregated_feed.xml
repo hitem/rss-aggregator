@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 May 2025 22:08:07 GMT</lastBuildDate>
-    <item>
-      <title>Automating Microsoft Sentinel: A blog series on enabling Smart Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-a-blog-series-on-enabling-smart/ba-p/4411356</link>
-      <pubDate>Mon, 19 May 2025 21:13:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-a-blog-series-on-enabling-smart/ba-p/4411356</guid>
-      <description>Welcome to the first entry of our blog series on automating Microsoft Sentinel. We're excited to share insights and practical guidance on leveraging automation to enhance your security posture. In this series, we'll explore the various facets of automation within Microsoft Sentinel. Whether you're a seasoned security professional or just starting, our goal is to empower you with the knowledge and tools to streamline your security operations and stay ahead of threats.
-Join us on this journey as we uncover the power of automation in Microsoft Sentinel and learn how to transform your security str...</description>
-    </item>
+    <lastBuildDate>Mon, 19 May 2025 23:07:43 GMT</lastBuildDate>
   </channel>
 </rss>
