@@ -569,3 +569,5 @@
 2025-05-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-microsoft-entra-agent-id-secure-and-manage-your-ai/ba-p/3827392
 2025-05-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-purview-sdk-public-preview/ba-p/4414240
 2025-05-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/ba-p/4413803
+2025-05-19T16:23:41 https://techcommunity.microsoft.com/t5/microsoft-security-blog/enterprise-grade-controls-for-ai-apps-and-agents-built-with/ba-p/4414757
+2025-05-19T16:41:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish-a-step/ba-p/4410446

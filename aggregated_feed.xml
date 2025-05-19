@@ -3,35 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 May 2025 16:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 17:00:47 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Purview SDK Public Preview</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-purview-sdk-public-preview/ba-p/4414240</link>
-      <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/microsoft-purview-sdk-public-preview/ba-p/4414240</guid>
-      <description>Setting the stage
-AI continues to drive innovation and push boundaries across the industry; with this new productivity power we must continue securing organizational data and ensure we are surfacing risky events including those related to the use of AI.
-This now extends to custom built AI applications as they grow in popularity. Based on Microsoft-conducted research, 95% of organizations1 are planning to or already using and developing AI applications.
-Current Challenges
-GenAI-nxiety is on the rise for both organization leaders and developers alike. Insufficient visibility into the usage of AI...</description>
+      <title>Microsoft Defender for Office 365&#8217;s Language AI for Phish: A Step Forward in Email Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish-a-step/ba-p/4410446</link>
+      <pubDate>Mon, 19 May 2025 16:41:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish-a-step/ba-p/4410446</guid>
+      <description>Email security presents a complex challenge for individuals and organizations alike. Over the years, attackers have evolved from simple spam campaigns to sophisticated threats including ransomware, identity theft schemes, and carefully crafted phishing scams. Now, malicious actors are armed with Generative AI and are advancing at an alarming pace.
+&#160;
+In response, Microsoft Defender for Office 365 has dedicated extensive research and development efforts to making email security smarter, more flexible, and more proactive. This dedication led to the introduction of specialized language intelligenc...</description>
     </item>
     <item>
-      <title>Post-Quantum Cryptography Comes to Windows Insiders and Linux</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/ba-p/4413803</link>
-      <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/ba-p/4413803</guid>
-      <description>Introduction&#160;
-As the digital landscape continues to evolve, the emergence of quantum computing presents both significant opportunities and challenges. In previous blog posts, we discussed how quantum computing could disrupt contemporary cryptographic algorithms, Microsoft&#8217;s contributions to quantum safety efforts across the industry, and the addition of PQC algorithms to SymCrypt, our core cryptographic library.&#160;
-We are pleased to announce the next significant milestone in our PQC journey: We&#8217;re making PQC capabilities available for Windows Insiders, Canary Channel Build 27852 and higher, and ...</description>
-    </item>
-    <item>
-      <title>Announcing Microsoft Entra Agent ID: Secure and manage your AI agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-microsoft-entra-agent-id-secure-and-manage-your-ai/ba-p/3827392</link>
-      <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/announcing-microsoft-entra-agent-id-secure-and-manage-your-ai/ba-p/3827392</guid>
-      <description>Howdy folks! &#160;
-We&#8217;re entering a new era where AI Agents aren&#8217;t just tools, but catalysts for a smarter, more empowered way of working. Many of you have shared that as your teams experiment with building and adopting AI agents, it&#8217;s challenging to keep track of these non-human actors. The very thing that makes these agents powerful&#8212;their ability to autonomously handle complex tasks and act like virtual teammates&#8212;also raises concerns. That&#8217;s why it&#8217;s critical to track agent identities, manage their lifecycle and permissions, and carefully secure their access to your organization&#8217;s resources.&#160;
-Ou...</description>
+      <title>Enterprise-grade controls for AI apps and agents built with Azure AI Foundry and Copilot Studio</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/enterprise-grade-controls-for-ai-apps-and-agents-built-with/ba-p/4414757</link>
+      <pubDate>Mon, 19 May 2025 16:23:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/enterprise-grade-controls-for-ai-apps-and-agents-built-with/ba-p/4414757</guid>
+      <description>AI innovation is moving faster than ever, and more AI projects are moving beyond experimentation into deployment, to drive tangible business impact. As organizations accelerate innovation with custom AI applications and agents, new risks emerge across the software development lifecycle and AI stack related to data oversharing and leaks, new vulnerabilities and threats, and non-compliance with stringent regulatory requirements
+Through 2025, poisoning of software supply chains and infrastructure technology stacks will constitute more than 70% of malicious attacks against AI used in the enterpris...</description>
     </item>
   </channel>
 </rss>
