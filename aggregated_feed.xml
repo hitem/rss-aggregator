@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 19 May 2025 17:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Office 365&#8217;s Language AI for Phish: A Step Forward in Email Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish-a-step/ba-p/4410446</link>
-      <pubDate>Mon, 19 May 2025 16:41:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish-a-step/ba-p/4410446</guid>
-      <description>Email security presents a complex challenge for individuals and organizations alike. Over the years, attackers have evolved from simple spam campaigns to sophisticated threats including ransomware, identity theft schemes, and carefully crafted phishing scams. Now, malicious actors are armed with Generative AI and are advancing at an alarming pace.
-&#160;
-In response, Microsoft Defender for Office 365 has dedicated extensive research and development efforts to making email security smarter, more flexible, and more proactive. This dedication led to the introduction of specialized language intelligenc...</description>
-    </item>
-    <item>
-      <title>Enterprise-grade controls for AI apps and agents built with Azure AI Foundry and Copilot Studio</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/enterprise-grade-controls-for-ai-apps-and-agents-built-with/ba-p/4414757</link>
-      <pubDate>Mon, 19 May 2025 16:23:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/enterprise-grade-controls-for-ai-apps-and-agents-built-with/ba-p/4414757</guid>
-      <description>AI innovation is moving faster than ever, and more AI projects are moving beyond experimentation into deployment, to drive tangible business impact. As organizations accelerate innovation with custom AI applications and agents, new risks emerge across the software development lifecycle and AI stack related to data oversharing and leaks, new vulnerabilities and threats, and non-compliance with stringent regulatory requirements
-Through 2025, poisoning of software supply chains and infrastructure technology stacks will constitute more than 70% of malicious attacks against AI used in the enterpris...</description>
-    </item>
+    <lastBuildDate>Mon, 19 May 2025 18:11:37 GMT</lastBuildDate>
   </channel>
 </rss>
