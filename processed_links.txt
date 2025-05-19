@@ -572,3 +572,4 @@
 2025-05-19T16:23:41 https://techcommunity.microsoft.com/t5/microsoft-security-blog/enterprise-grade-controls-for-ai-apps-and-agents-built-with/ba-p/4414757
 2025-05-19T16:41:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish-a-step/ba-p/4410446
 2025-05-19T19:30:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish/ba-p/4410446
+2025-05-19T21:13:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-a-blog-series-on-enabling-smart/ba-p/4411356
