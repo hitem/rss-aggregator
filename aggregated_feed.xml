@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 May 2025 15:08:47 GMT</lastBuildDate>
-    <item>
-      <title>Enhancements for protecting hosted SQL servers across clouds and hybrid environments</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancements-for-protecting-hosted-sql-servers-across-clouds-and/ba-p/4414783</link>
-      <pubDate>Tue, 20 May 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancements-for-protecting-hosted-sql-servers-across-clouds-and/ba-p/4414783</guid>
-      <description>Introduction
-We are releasing an architecture upgrade for the Defender for SQL Servers on Machines plan. This upgrade is designed to simplify the onboarding experience and improve protection coverage.
-In this blog post, we will discuss details about the architecture upgrade and the key steps customers using the Defender for SQL Servers on Machine plan should take to adopt an optimal protection strategy following this update.
-Overview of Defender for Cloud database security and the Defender for SQL Servers on Machines plan
-Databases are an essential part of building modern applications. Microso...</description>
-    </item>
+    <lastBuildDate>Tue, 20 May 2025 16:10:00 GMT</lastBuildDate>
   </channel>
 </rss>
