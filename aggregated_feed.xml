@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 May 2025 16:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 17:07:30 GMT</lastBuildDate>
+    <item>
+      <title>AI-Powered MITRE ATT&amp;CK Tagging for SOC Optimization</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-mitre-att-ck-tagging-for-soc-optimization/ba-p/4413042</link>
+      <pubDate>Tue, 20 May 2025 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-mitre-att-ck-tagging-for-soc-optimization/ba-p/4413042</guid>
+      <description>This post is part of an update series highlighting new SOC optimization capabilities designed to help SOC teams maximize security value with less manual effort. In this post, we focus on AI-powered MITRE ATT&amp;CK Tagging, which streamlines the process of aligning your detections with the MITRE framework. For an overview of our other recent updates, stay tuned for related posts in this series.&#160;
+Security teams rely on precise, consistent tagging to understand detection coverage, align with frameworks like MITRE ATT&amp;CK, and respond effectively to threats. Yet in practice, tagging detections manuall...</description>
+    </item>
+    <item>
+      <title>Step by Step: 2-Tier PKI Lab</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-blog/step-by-step-2-tier-pki-lab/ba-p/4413982</link>
+      <pubDate>Tue, 20 May 2025 16:22:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-blog/step-by-step-2-tier-pki-lab/ba-p/4413982</guid>
+      <description>Purpose of this blog&#160;&#160;
+Public Key Infrastructure (PKI) is the backbone of secure digital identity management, enabling encryption, digital signatures, and certificate-based authentication. However, neither setting up a PKI nor management of certificates is something most IT pros do on a regular basis and given the complexity and vastness of the subject it only makes sense to revisit the topic from time to time. What I have found works best for me is to just set up a lab and get my hands dirty with the topic that I want to revisit. One such topic that I keep coming back to is PKI - be it for cr...</description>
+    </item>
   </channel>
 </rss>

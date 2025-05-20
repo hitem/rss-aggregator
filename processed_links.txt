@@ -571,3 +571,5 @@
 2025-05-19T19:30:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-s-language-ai-for-phish/ba-p/4410446
 2025-05-19T21:13:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-a-blog-series-on-enabling-smart/ba-p/4411356
 2025-05-20T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancements-for-protecting-hosted-sql-servers-across-clouds-and/ba-p/4414783
+2025-05-20T16:22:09 https://techcommunity.microsoft.com/t5/microsoft-security-blog/step-by-step-2-tier-pki-lab/ba-p/4413982
+2025-05-20T16:25:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-mitre-att-ck-tagging-for-soc-optimization/ba-p/4413042
