@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 May 2025 00:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 02:27:00 GMT</lastBuildDate>
+    <item>
+      <title>Private only Bastion: Connect Through Bastion Without a Public IP</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-only-bastion-connect-through-bastion-without-a-public-ip/ba-p/4405756</link>
+      <pubDate>Thu, 22 May 2025 01:45:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-only-bastion-connect-through-bastion-without-a-public-ip/ba-p/4405756</guid>
+      <description>Azure Bastion provides secure RDP and SSH connections to virtual machines without exposing their IP addresses. The new Premium SKU introduces session management features like graphical session recording and private only Bastion. This blog will focus on how private only Bastion ensures private connectivity to your virtual machines.&#160;
+What is&#160;different about private only Bastion?&#160;
+Historically, Azure Bastion has utilized a public IP address, allowing customers to connect via the Internet through either the Azure portal or their computers&#8217; native client. As security becomes an increasingly critica...</description>
+    </item>
   </channel>
 </rss>
