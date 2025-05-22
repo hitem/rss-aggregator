@@ -568,3 +568,4 @@
 2025-05-20T16:25:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-mitre-att-ck-tagging-for-soc-optimization/ba-p/4413042
 2025-05-21T16:05:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/part-2-build-custom-email-security-reports-and-dashboards-with/ba-p/4411303
 2025-05-22T01:45:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-only-bastion-connect-through-bastion-without-a-public-ip/ba-p/4405756
+2025-05-22T18:00:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/the-best-of-microsoft-sentinel-now-in-microsoft-defender/ba-p/4415822
