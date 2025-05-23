@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 23 May 2025 08:11:35 GMT</lastBuildDate>
-    <item>
-      <title>Securing web applications with Azure Front Door WAF CAPTCHA (Preview)</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/securing-web-applications-with-azure-front-door-waf-captcha/ba-p/4416502</link>
-      <pubDate>Fri, 23 May 2025 07:28:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/securing-web-applications-with-azure-front-door-waf-captcha/ba-p/4416502</guid>
-      <description>Introduction
-Web applications today are constantly under siege from a range of threats, including automated bots and scrapers, as well as credential-focused threats such as credential stuffing and brute-force attacks. As attackers leverage advanced automation and increasingly sophisticated attack methods, organizations need more robust and interactive security measures capable of distinguishing between legitimate users and malicious traffic.
-To address these evolving challenges, Azure Front Door&#8217;s Web Application Firewall (WAF) now introduces CAPTCHA, currently available in public preview. Thi...</description>
-    </item>
+    <lastBuildDate>Fri, 23 May 2025 09:08:59 GMT</lastBuildDate>
   </channel>
 </rss>
