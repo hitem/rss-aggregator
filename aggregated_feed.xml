@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 24 May 2025 03:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 04:09:32 GMT</lastBuildDate>
+    <item>
+      <title>Upcoming changes to Microsoft Purview eDiscovery</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/upcoming-changes-to-microsoft-purview-ediscovery/ba-p/4405084</link>
+      <pubDate>Sat, 24 May 2025 03:57:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/upcoming-changes-to-microsoft-purview-ediscovery/ba-p/4405084</guid>
+      <description>Today, we are announcing three significant updates to the Microsoft Purview eDiscovery products and services. These updates reinforce our commitment to meeting and exceeding the data security, privacy, and compliance requirements of our customers.
+To improve security and help protect customers and their data, we have accelerated the timeline for the below changes, which will be enforced by default on May 26. The following features will be retired from the Microsoft Purview portal:
+
+Content Search will transition to the new unified Purview eDiscovery experience.
+The eDiscovery (Standard) classi...</description>
+    </item>
   </channel>
 </rss>
