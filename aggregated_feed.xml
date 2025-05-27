@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 May 2025 05:00:36 GMT</lastBuildDate>
-    <item>
-      <title>Demystifying Anomaly Detection in Microsoft Sentinel using KQL</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-anomaly-detection-in-microsoft-sentinel-using-kql/ba-p/4417621</link>
-      <pubDate>Tue, 27 May 2025 04:56:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-anomaly-detection-in-microsoft-sentinel-using-kql/ba-p/4417621</guid>
-      <description>In this article, we break down the math behind anomaly detection, explain it in simple terms, and walk through practical use cases using sample data such as user login attempts and firewall logs.
-Understanding the Basics: Key Math Concepts&#160;
-
-Trend Line / Line of Best Fit: A straight line that shows the overall direction of data. It is calculated using linear regression with the formula: y = mx + c.&#160;
-Linear Regression: A method to calculate the best-fit line that minimizes the difference between actual values and the predicted line.&#160;
-
-
-
-Standard Deviation (SD): Tells us how much the values devi...</description>
-    </item>
+    <lastBuildDate>Tue, 27 May 2025 06:12:08 GMT</lastBuildDate>
   </channel>
 </rss>
