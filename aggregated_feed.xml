@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 May 2025 15:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 16:10:26 GMT</lastBuildDate>
+    <item>
+      <title>The future of AI agents&#8212;and why OAuth must evolve</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-future-of-ai-agents-and-why-oauth-must-evolve/ba-p/3827391</link>
+      <pubDate>Tue, 27 May 2025 16:08:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-future-of-ai-agents-and-why-oauth-must-evolve/ba-p/3827391</guid>
+      <description>I believe we're at the beginning of something extraordinary.&#160;
+Today's AI agents are already impressive&#8212;they're helping software engineers write code, assisting site reliability teams in troubleshooting systems, and handling a variety of analytical tasks. Yet, as capable as these specialized agents are becoming, we're just beginning to glimpse their potential. The next wave of changes is approaching fast, bringing capabilities that will transform how we work across a wide variety of fields.&#160;&#160;
+At Microsoft, we believe the next 12&#8211;24 months will fundamentally change the AI agent space. Instead of...</description>
+    </item>
+    <item>
+      <title>Rethinking Data Security and Governance in the Era of AI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/rethinking-data-security-and-governance-in-the-era-of-ai/ba-p/4416759</link>
+      <pubDate>Tue, 27 May 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/rethinking-data-security-and-governance-in-the-era-of-ai/ba-p/4416759</guid>
+      <description>The era of AI is reshaping industries, enabling unprecedented innovations, and presenting new opportunities for organizations worldwide. But as organizations accelerate AI adoption, many are focused on a growing concern: their current data security and governance practices are not effectively built for the fast-paced AI innovation and ever-evolving regulatory landscape.
+At Microsoft, we recognize the critical need for an integrated approach to address these risks. In our latest findings, Top 3 Challenges in Securing and Governing Data for the Era of AI, we uncovered critical gaps in how organi...</description>
+    </item>
   </channel>
 </rss>

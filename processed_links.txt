@@ -570,3 +570,5 @@
 2025-05-24T03:57:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/upcoming-changes-to-microsoft-purview-ediscovery/ba-p/4405084
 2025-05-27T04:56:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-anomaly-detection-in-microsoft-sentinel-using-kql/ba-p/4417621
 2025-05-27T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/keys-to-the-kingdom-rmm-exploits-enabling-human-operated/ba-p/4410903
+2025-05-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/rethinking-data-security-and-governance-in-the-era-of-ai/ba-p/4416759
+2025-05-27T16:08:08 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-future-of-ai-agents-and-why-oauth-must-evolve/ba-p/3827391
