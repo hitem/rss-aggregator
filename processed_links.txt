@@ -569,3 +569,4 @@
 2025-05-23T20:06:26 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-firewall-rest-api-part-ii/ba-p/4417036
 2025-05-24T03:57:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/upcoming-changes-to-microsoft-purview-ediscovery/ba-p/4405084
 2025-05-27T04:56:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-anomaly-detection-in-microsoft-sentinel-using-kql/ba-p/4417621
+2025-05-27T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/keys-to-the-kingdom-rmm-exploits-enabling-human-operated/ba-p/4410903
