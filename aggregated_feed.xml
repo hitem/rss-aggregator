@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 May 2025 13:24:06 GMT</lastBuildDate>
-    <item>
-      <title>Keys to the kingdom: RMM exploits enabling human-operated intrusions in 2024&#8211;25</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/keys-to-the-kingdom-rmm-exploits-enabling-human-operated/ba-p/4410903</link>
-      <pubDate>Tue, 27 May 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/keys-to-the-kingdom-rmm-exploits-enabling-human-operated/ba-p/4410903</guid>
-      <description>The double-edged sword of RMM
-Remote Monitoring and Management (RMM) tools are indispensable for modern IT operations. They enable administrators to remotely access, troubleshoot, update, and monitor systems&#8212;streamlining operations at scale. But these very features make RMM solutions extremely valuable to adversaries.&#160;
-When attackers compromise an RMM tool, they&#8217;re not just breaching a single endpoint&#8212;they&#8217;re gaining privileged, persistent, and often stealthy access to a wide array of systems. RMM abuse gives adversaries an immediate pivot for post-exploitation activities like credential harve...</description>
-    </item>
+    <lastBuildDate>Tue, 27 May 2025 14:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
