@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 May 2025 19:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Discover how automatic attack disruption protects critical assets while ensuring business continuity</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discover-how-automatic-attack-disruption-protects-critical/ba-p/4416597</link>
-      <pubDate>Tue, 27 May 2025 18:40:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discover-how-automatic-attack-disruption-protects-critical/ba-p/4416597</guid>
-      <description>Protecting critical assets&#160;
-Traditional security solutions often operate in a one-size-fits-all alert model that treats every detection equally, regardless of how important the asset is. But not all assets are equal. Critical assets are systems governing access, identity, or sensitive data. They are essential to an organization&#8217;s operations and security, for example, domain controllers, cloud connectivity gateways, key management servers, and others. If attackers compromise these assets, business continuity suffers at great scale. As these systems typically have less routine activity, any aler...</description>
-    </item>
+    <lastBuildDate>Tue, 27 May 2025 20:09:24 GMT</lastBuildDate>
   </channel>
 </rss>
