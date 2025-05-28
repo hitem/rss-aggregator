@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 May 2025 16:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 17:07:44 GMT</lastBuildDate>
+    <item>
+      <title>Check out the latest security skill-building resources on Microsoft Learn</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/check-out-the-latest-security-skill-building-resources-on/ba-p/4418018</link>
+      <pubDate>Wed, 28 May 2025 16:42:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/check-out-the-latest-security-skill-building-resources-on/ba-p/4418018</guid>
+      <description>Prove your experience with this new Microsoft Applied Skill&#160;
+Are you an identity and access professional? Do you have a foundational understanding of Microsoft Entra ID?&#160;
+Showcase your experience and readiness for identity scenarios by earning our new Microsoft Applied Skill: Get started with identities and access using Microsoft Entra.
+You can prepare for the skills assessment by completing our Learning Path&#8212;Perform basic identity and access tasks&#8212;here you'll learn how to:&#160;
+
+Create, configure, and manage identities&#160;
+
+
+Describe the authentication capabilities of Microsoft Entra ID&#160;
+
+
+Describe ...</description>
+    </item>
   </channel>
 </rss>
