@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 May 2025 10:09:25 GMT</lastBuildDate>
-    <item>
-      <title>From on-premises to cloud: Graph-powered detection of hybrid attacks with Microsoft exposure graph</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid/ba-p/4416295</link>
-      <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid/ba-p/4416295</guid>
-      <description>Enterprises face an ever-evolving landscape of cybersecurity threats that require robust and adaptive defense strategies to protect multiple threat surfaces. Many organizations manage their resources across different realms, including on-premises and cloud environments, and create complex infrastructures, where interconnections between services, resources, and identities become vital. &#160;
-If not managed with caution and diligence, these interconnections can pose significant risks. Threat actors may exploit them to take over realms, conduct identity theft, exfiltrate data, engage in ransomware ex...</description>
-    </item>
+    <lastBuildDate>Thu, 29 May 2025 11:07:14 GMT</lastBuildDate>
   </channel>
 </rss>
