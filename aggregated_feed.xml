@@ -3,16 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 May 2025 09:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 10:09:25 GMT</lastBuildDate>
     <item>
-      <title>Protect Tier 1. Sleep well at Night.</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-tier-1-sleep-well-at-night/ba-p/4418653</link>
-      <pubDate>Thu, 29 May 2025 09:08:34 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-tier-1-sleep-well-at-night/ba-p/4418653</guid>
-      <description>
-In case you have not yet protected Tier 0, consider reviewing our article about protecting Tier 0 the modern way.
-Tier 1 is more difficult to outline as there are typically different security levels, from highly critical (e.g. personal data or business secrets) to informative, or even public information. What remains the same is the &#8220;assume breach&#8221; approach: no matter which (Tier 1) system gets compromised, the infection must not spread.
-What causes us a lot of headaches is something we call &#8220;Permanently privileged Tier 1 accounts&#8221;: accounts which are members of the Local Administrators group...</description>
+      <title>From on-premises to cloud: Graph-powered detection of hybrid attacks with Microsoft exposure graph</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid/ba-p/4416295</link>
+      <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid/ba-p/4416295</guid>
+      <description>Enterprises face an ever-evolving landscape of cybersecurity threats that require robust and adaptive defense strategies to protect multiple threat surfaces. Many organizations manage their resources across different realms, including on-premises and cloud environments, and create complex infrastructures, where interconnections between services, resources, and identities become vital. &#160;
+If not managed with caution and diligence, these interconnections can pose significant risks. Threat actors may exploit them to take over realms, conduct identity theft, exfiltrate data, engage in ransomware ex...</description>
     </item>
   </channel>
 </rss>
