@@ -1,4 +1,3 @@
-2024-05-29T12:50:37 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653
 2024-05-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-access-to-any-resource-anywhere/ba-p/4120308
 2024-05-29T17:10:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039
 2024-05-30T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/addressing-common-entra-id-protection-deployment-and-maintenance/ba-p/4154082
@@ -573,3 +572,4 @@
 2025-05-28T16:42:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/check-out-the-latest-security-skill-building-resources-on/ba-p/4418018
 2025-05-29T09:08:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-tier-1-sleep-well-at-night/ba-p/4418653
 2025-05-29T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid/ba-p/4416295
+2025-05-29T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/auto-remediation-of-malicious-messages-in-automated/ba-p/4418047
