@@ -572,3 +572,4 @@
 2025-05-27T16:08:08 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-future-of-ai-agents-and-why-oauth-must-evolve/ba-p/3827391
 2025-05-27T18:40:02 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discover-how-automatic-attack-disruption-protects-critical/ba-p/4416597
 2025-05-28T16:42:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/check-out-the-latest-security-skill-building-resources-on/ba-p/4418018
+2025-05-29T09:08:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protect-tier-1-sleep-well-at-night/ba-p/4418653
