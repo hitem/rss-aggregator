@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 May 2025 14:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 15:08:23 GMT</lastBuildDate>
+    <item>
+      <title>Empowering Secure AI Innovation: Data Security and Compliance for AI Agents</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-secure-ai-innovation-data-security-and-compliance-for/ba-p/4418150</link>
+      <pubDate>Thu, 29 May 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-secure-ai-innovation-data-security-and-compliance-for/ba-p/4418150</guid>
+      <description>As organizations embrace the transformative power of generative AI, agentic AI is quickly becoming a core part of enterprise innovation. Whether organizations are just beginning their AI journey or scaling advanced solutions, one thing is clear: agents are poised to transform every function and workflow across organizations. IDC predicts that over 1 billion new business process agents will be created in the next four years1.
+This surge in AI adoption is empowering employees across roles &#8211; from low-code makers to pro-code developers &#8211; to build and use AI in new ways. Business leaders are eager ...</description>
+    </item>
   </channel>
 </rss>
