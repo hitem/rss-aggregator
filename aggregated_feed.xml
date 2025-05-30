@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 May 2025 18:11:24 GMT</lastBuildDate>
-    <item>
-      <title>TLS Inspection now in Microsoft Entra Internet Access</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tls-inspection-now-in-microsoft-entra-internet-access/ba-p/4395972</link>
-      <pubDate>Fri, 30 May 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tls-inspection-now-in-microsoft-entra-internet-access/ba-p/4395972</guid>
-      <description>HTTPS is the standard for privacy and secure web communication, but it also conceals a growing number of threats. In fact, over 87% of cyber threats now use encrypted channels*, creating a visibility gap that puts Zero Trust enforcement at risk.
-Today, Microsoft Entra is taking a step forward in addressing this challenge.&#160; We&#8217;re excited to announce that Transport Layer Security (TLS) Inspection for Microsoft Entra Internet Access is now available in public preview. This powerful new capability empowers your security teams to look inside HTTPS traffic in real-time, without requiring extra hardw...</description>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 19:00:47 GMT</lastBuildDate>
   </channel>
 </rss>
