@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 May 2025 16:09:57 GMT</lastBuildDate>
-    <item>
-      <title>Retirement notification for the Azure Information Protection mobile viewer and RMS Sharing App</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/retirement-notification-for-the-azure-information-protection/ba-p/4416663</link>
-      <pubDate>Fri, 30 May 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/retirement-notification-for-the-azure-information-protection/ba-p/4416663</guid>
-      <description>Over a decade ago, we launched Azure Information Protection (AIP) mobile app for iOS and Android and Rights Management Service (RMS) Sharing app for Mac to fill an important niche in our non-Office file ecosystem to enable users to securely view protected filetypes like (P)PDF, RPMSG and PFILEs outside of Windows.&#160;These viewing applications are integrated with sensitivity labels from Microsoft Purview and encryption from the Rights Management Service to view protected non-Office files and enforce protection rights. Today, usage of these app is very low, especially for file types other than PDF...</description>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 17:07:05 GMT</lastBuildDate>
   </channel>
 </rss>
