@@ -571,3 +571,4 @@
 2025-05-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-secure-ai-innovation-data-security-and-compliance-for/ba-p/4418150
 2025-05-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/retirement-notification-for-the-azure-information-protection/ba-p/4416663
 2025-05-30T18:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tls-inspection-now-in-microsoft-entra-internet-access/ba-p/4395972
+2025-06-02T20:15:46 https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-m365-copilot-dpia-templates-for-public-sector-and/ba-p/4419783

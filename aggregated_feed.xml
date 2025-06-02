@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Jun 2025 20:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 21:00:47 GMT</lastBuildDate>
+    <item>
+      <title>&#8220;Build Your Own&#8221; M365 Copilot DPIA templates for public sector and enterprise organizations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-m365-copilot-dpia-templates-for-public-sector-and/ba-p/4419783</link>
+      <pubDate>Mon, 02 Jun 2025 20:15:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-m365-copilot-dpia-templates-for-public-sector-and/ba-p/4419783</guid>
+      <description>In April, Microsoft launched our &#8220;Build Your Own&#8221; Data Protection Impact Assessment templates for Office 365 as part of our commitment to helping our customers embrace new cutting-edge technologies while providing the information they need to continue to meet their compliance obligations. Today, we&#8217;re excited to expand that commitment into the era of AI, as we share our new &#8220;Build Your Own&#8221; Data Protection Impact Assessment templates for Microsoft&#8217;s AI-powered productivity service, Microsoft 365 Copilot.&#160;&#160;
+These &#8220;Build Your Own&#8221; DPIAs&#8212;for both public sector and enterprise customers&#8212;are customi...</description>
+    </item>
   </channel>
 </rss>
