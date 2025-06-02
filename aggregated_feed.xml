@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Jun 2025 22:08:16 GMT</lastBuildDate>
-    <item>
-      <title>Automating Microsoft Sentinel:  Part 2:  Automate the mundane away</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-part-2-automate-the-mundane-away/ba-p/4416378</link>
-      <pubDate>Mon, 02 Jun 2025 21:18:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-part-2-automate-the-mundane-away/ba-p/4416378</guid>
-      <description>Welcome to the second entry of our blog series on automating Microsoft Sentinel.
-In this series, we&#8217;re showing you how to automate various aspects of Microsoft Sentinel, from simple automation of Sentinel Alerts and Incidents to more complicated response scenarios with multiple moving parts.&#160; So far, we&#8217;ve covered Part 1: Introduction to Automating Microsoft Sentinel where we talked about why you would want to automate as well as an overview of the different types of automation you can do in Sentinel.
-Here is a preview of what you can expect in the upcoming posts [we&#8217;ll be updating this post w...</description>
-    </item>
+    <lastBuildDate>Mon, 02 Jun 2025 23:00:40 GMT</lastBuildDate>
   </channel>
 </rss>
