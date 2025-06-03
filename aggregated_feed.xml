@@ -3,6 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Jun 2025 14:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 15:09:30 GMT</lastBuildDate>
+    <item>
+      <title>Azure Managed HSM and Azure Key Vault Premium HSM Devices Certified for eIDAS Compliance</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-hsm-devices/ba-p/4418974</link>
+      <pubDate>Tue, 03 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-hsm-devices/ba-p/4418974</guid>
+      <description>Azure Managed HSM and Azure Key Vault Premium are now eIDAS compliant under A-SIT. We have been working with our vendor Marvell to validate the Marvell LiquidSecurity HSM adapters utilized in our services to meet the European Union&#8217;s electronic identification, authentication, and trust services (eIDAS) regulations. The HSM for both Azure Managed HSM and Azure Key Vault Premium has received eIDAS (Austrian Scheme) certification as a Qualified Signature Creation Device (QSCD). &#160;
+Why are these certifications important for Azure Managed HSM and Azure Key Vault Premium customers?&#160;
+These new certifi...</description>
+    </item>
+    <item>
+      <title>Azure Managed HSM and Azure Key Vault Premium are now FIPS 140-3 Level 3</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-are-now-fips-140-3/ba-p/4418975</link>
+      <pubDate>Tue, 03 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-are-now-fips-140-3/ba-p/4418975</guid>
+      <description>We are excited to announce that the HSM firmware for both Azure Managed HSM and Azure Key Vault Premium are officially upgraded to a modern version validated to FIPS 140-3 Level 3 standard in all Azure public cloud regions. This upgrade represents a significant step forward in our commitment to providing best-in-class security to safeguard your valuable data.&#160;
+Key Improvements&#160;
+With the upgraded firmware, Azure Managed HSM and Azure Key Vault Premium users can benefit from:&#160;
+FIPS 140-3 Level 3 Validation: The Azure Key Vault Managed HSM and Azure Key Vault Premium firmware update ensure compli...</description>
+    </item>
   </channel>
 </rss>
