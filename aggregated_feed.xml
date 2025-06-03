@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Jun 2025 13:25:22 GMT</lastBuildDate>
-    <item>
-      <title>Security Review for Microsoft Edge version 137</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-137/ba-p/4420095</link>
-      <pubDate>Tue, 03 Jun 2025 12:38:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-137/ba-p/4420095</guid>
-      <description>We have reviewed the new settings in Microsoft Edge version 137 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 128 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 137 introduced 5 new Computer and User settings, we have included a spreadsheet listing the new settings to make it easier for you to find.
-&#160;
-As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings ...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Jun 2025 14:09:17 GMT</lastBuildDate>
   </channel>
 </rss>
