@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Jun 2025 17:08:37 GMT</lastBuildDate>
-    <item>
-      <title>Leading the way in resilience at scale</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/leading-the-way-in-resilience-at-scale/ba-p/4094703</link>
-      <pubDate>Tue, 03 Jun 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/leading-the-way-in-resilience-at-scale/ba-p/4094703</guid>
-      <description>Microsoft Entra&#8217;s security and resilience are and have always been our top priorities. We understand how mission critical Microsoft Entra is to our customers. For many years we&#8217;ve invested in a range of differentiated resilience measures that are a superset of the overall Microsoft cloud-wide resilience best practices. This update is a continuation of a series of posts we&#8217;ve made sharing our progress and giving a peek under the hood of how we build and operate Microsoft Entra to meet your needs.
-Microsoft Entra maintains a 99.99% availability service level agreement (SLA), and further we engin...</description>
-    </item>
+    <lastBuildDate>Tue, 03 Jun 2025 18:11:53 GMT</lastBuildDate>
   </channel>
 </rss>
