@@ -573,3 +573,4 @@
 2025-05-30T18:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tls-inspection-now-in-microsoft-entra-internet-access/ba-p/4395972
 2025-06-02T20:15:46 https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-m365-copilot-dpia-templates-for-public-sector-and/ba-p/4419783
 2025-06-02T21:18:20 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-part-2-automate-the-mundane-away/ba-p/4416378
+2025-06-03T12:38:16 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-137/ba-p/4420095
