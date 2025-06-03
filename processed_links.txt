@@ -577,3 +577,4 @@
 2025-06-03T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-are-now-fips-140-3/ba-p/4418975
 2025-06-03T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-hsm-devices/ba-p/4418974
 2025-06-03T16:02:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4420169
+2025-06-03T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/leading-the-way-in-resilience-at-scale/ba-p/4094703

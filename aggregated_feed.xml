@@ -3,16 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Jun 2025 16:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 17:08:37 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Defender for Cloud Customer Newsletter</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4420169</link>
-      <pubDate>Tue, 03 Jun 2025 16:02:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4420169</guid>
-      <description>What&#8217;s new in Defender for Cloud?
-Defender for SQL on machines plan has an enhanced agent solution aimed to provide an optimized onboarding experience and improved protection coverage across SQL servers installed in Azure, on premise and GCP/AWS. More information on the enhanced agent solution can be found here.
-General Availability for Customizable on-upload malware scanning filters in Defender for Storage
-On-upload malware scanning now supports customizable filters. Users can set exclusion rules for on-upload malware scans based on blob path prefixes, suffixes as well as by blob size. By exc...</description>
+      <title>Leading the way in resilience at scale</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/leading-the-way-in-resilience-at-scale/ba-p/4094703</link>
+      <pubDate>Tue, 03 Jun 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/leading-the-way-in-resilience-at-scale/ba-p/4094703</guid>
+      <description>Microsoft Entra&#8217;s security and resilience are and have always been our top priorities. We understand how mission critical Microsoft Entra is to our customers. For many years we&#8217;ve invested in a range of differentiated resilience measures that are a superset of the overall Microsoft cloud-wide resilience best practices. This update is a continuation of a series of posts we&#8217;ve made sharing our progress and giving a peek under the hood of how we build and operate Microsoft Entra to meet your needs.
+Microsoft Entra maintains a 99.99% availability service level agreement (SLA), and further we engin...</description>
     </item>
   </channel>
 </rss>
