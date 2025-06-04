@@ -3,15 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Jun 2025 17:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 18:11:29 GMT</lastBuildDate>
     <item>
-      <title>Expanding the Identity perimeter: the rise of non-human identities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-the-identity-perimeter-the-rise-of-non-human/ba-p/4418953</link>
-      <pubDate>Wed, 04 Jun 2025 16:53:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-the-identity-perimeter-the-rise-of-non-human/ba-p/4418953</guid>
-      <description>Expanding the Identity perimeter
-With the rise of cloud applications and AI, machine-to-machine access and authentication has become even more prevalent. From automating workflows, integrating applications, managing cloud services and even powering AI agents, non-human identity (NHI) has become vital to modern work. These digital constructs come in many different varieties, each with their own unique characteristics, but because they are foundational elements of many critical business processes, they represent a prime target for cyber-criminals. &#160; &#160;
-Not only do NHI greatly outnumber their huma...</description>
+      <title>Performing Advanced Risk Hunting in Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/performing-advanced-risk-hunting-in-defender-for-cloud/ba-p/4420633</link>
+      <pubDate>Wed, 04 Jun 2025 17:52:45 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/performing-advanced-risk-hunting-in-defender-for-cloud/ba-p/4420633</guid>
+      <description>Microsoft Defender for Cloud's Cloud Security Explorer provides security teams with an intuitive visual interface to investigate their cloud security posture. It excels at helping users explore relationships between resources, identities, permissions, and vulnerabilities while surfacing potential misconfigurations and risky assets that could be vulnerable to attacks and breaches.
+But what happens when you need to go deeper than what the UI can offer? What if you require more sophisticated analysis with interconnected insights for comprehensive research results, or you want complete control ove...</description>
     </item>
   </channel>
 </rss>
