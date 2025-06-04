@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Jun 2025 19:00:50 GMT</lastBuildDate>
-    <item>
-      <title>Integrating Microsoft Defender for Identity Signals with Entra Recommendations</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/integrating-microsoft-defender-for-identity-signals-with-entra/ba-p/4352580</link>
-      <pubDate>Wed, 04 Jun 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/integrating-microsoft-defender-for-identity-signals-with-entra/ba-p/4352580</guid>
-      <description>Last year, we added new security signals to Entra Recommendations to help strengthen your organization&#8217;s security posture and offer actionable insights to help identity and effectively mitigate risks. The primary objective of Microsoft Entra recommendations is to serve as a trusted advisor for enhancing security posture especially as cybersecurity threats become more refined with new AI and Agentic scenarios. We also aim to combine best practices and industry standards across a range of Microsoft Security offerings to assist in securing your organization on a singular platform, while still imp...</description>
-    </item>
+    <lastBuildDate>Wed, 04 Jun 2025 20:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
