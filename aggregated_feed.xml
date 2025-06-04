@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Jun 2025 15:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 16:10:41 GMT</lastBuildDate>
+    <item>
+      <title>Putting the &#8220;Identity&#8221; in Identity Threat Detection and Response with Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/putting-the-identity-in-identity-threat-detection-and-response/ba-p/4418863</link>
+      <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/putting-the-identity-in-identity-threat-detection-and-response/ba-p/4418863</guid>
+      <description>Modern day identity attacks are increasing in speed, scale, and sophistication which cause challenges in balancing protection and productivity.&#160; Not only do Security Operations Center (SOC) teams and Identity Admins need to balance different tools, workflows, and data, but the majority of customers also operate in a hybrid security environment. By breaking down silos and ensuring seamless collaboration between security and identity teams through Identity Threat Detection and Response (ITDR), enterprises can enhance both security and productivity.&#160;&#160;
+&#160;In the latest Secure Employee Access report,...</description>
+    </item>
   </channel>
 </rss>
