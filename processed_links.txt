@@ -580,3 +580,4 @@
 2025-06-04T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/putting-the-identity-in-identity-threat-detection-and-response/ba-p/4418863
 2025-06-04T16:53:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-the-identity-perimeter-the-rise-of-non-human/ba-p/4418953
 2025-06-04T17:52:45 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/performing-advanced-risk-hunting-in-defender-for-cloud/ba-p/4420633
+2025-06-04T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/integrating-microsoft-defender-for-identity-signals-with-entra/ba-p/4352580
