@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Jun 2025 17:00:51 GMT</lastBuildDate>
-    <item>
-      <title>Manage global exclusion policies for Linux across both AV and EDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-global-exclusion-policies-for-linux-across-both-av-and/ba-p/4420127</link>
-      <pubDate>Thu, 05 Jun 2025 16:36:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-global-exclusion-policies-for-linux-across-both-av-and/ba-p/4420127</guid>
-      <description>Create and manage global exclusions for Linux&#160;
-Global exclusions for Microsoft Defender for Endpoint on Linux are now generally available. This will allow security teams to create and manage exclusion that apply to both antivirus (AV) and endpoint detection and response (EDR)&#8212;helping reduce false positives, improve performance, and streamline security operations on Linux servers.&#160;
-&#160;
-Many organizations rely on exclusions to maintain optimal performance and ensure compatibility&#8212;especially in Linux server environments running custom applications or handling high input/output workloads. Until now,...</description>
-    </item>
+    <lastBuildDate>Thu, 05 Jun 2025 19:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
