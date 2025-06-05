@@ -3,21 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 05 Jun 2025 16:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 17:00:51 GMT</lastBuildDate>
     <item>
-      <title>Connect with us at the Gartner Security &amp; Risk Management Summit</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/connect-with-us-at-the-gartner-security-risk-management-summit/ba-p/4420744</link>
-      <pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/connect-with-us-at-the-gartner-security-risk-management-summit/ba-p/4420744</guid>
-      <description>Security professionals visiting booths scattered around a hall, eager for solutions to today&#8217;s top cybersecurity challenges to protect their resources and people. The hum of hundreds of conversations. Presenters in packed sessions sharing expertise, trends, and stories to energize attendees. Few occasions are as thrilling as a cybersecurity event, knowing that all around you are people who understand the frustrating challenges and exciting wins of working in cybersecurity. The rise in quantum computing and AI as tools used by adversaries make such events both inspiring and necessary as profess...</description>
-    </item>
-    <item>
-      <title>Understanding and Mitigating Golden SAML Attacks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/understanding-and-mitigating-golden-saml-attacks/ba-p/4418864</link>
-      <pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/understanding-and-mitigating-golden-saml-attacks/ba-p/4418864</guid>
-      <description>Welcome to the third in our series of articles on dealing with advanced identity-related attacks. This time, we&#8217;ll discuss Golden Security Assertion Markup Language (SAML) attacks.
-Password attacks (e.g., password spray, breach replay, and phishing) are responsible for compromising millions of accounts each month. Every second, Microsoft detects and blocks more than 7,000 password attacks. In contrast, Golden SAML attacks are rare. At the time of this writing, the customer-facing cybersecurity response teams at Microsoft have reported 20 Golden SAML attacks on fewer than ten unique customers o...</description>
+      <title>Manage global exclusion policies for Linux across both AV and EDR</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-global-exclusion-policies-for-linux-across-both-av-and/ba-p/4420127</link>
+      <pubDate>Thu, 05 Jun 2025 16:36:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-global-exclusion-policies-for-linux-across-both-av-and/ba-p/4420127</guid>
+      <description>Create and manage global exclusions for Linux&#160;
+Global exclusions for Microsoft Defender for Endpoint on Linux are now generally available. This will allow security teams to create and manage exclusion that apply to both antivirus (AV) and endpoint detection and response (EDR)&#8212;helping reduce false positives, improve performance, and streamline security operations on Linux servers.&#160;
+&#160;
+Many organizations rely on exclusions to maintain optimal performance and ensure compatibility&#8212;especially in Linux server environments running custom applications or handling high input/output workloads. Until now,...</description>
     </item>
   </channel>
 </rss>
