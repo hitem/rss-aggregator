@@ -581,3 +581,5 @@
 2025-06-04T17:52:45 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/performing-advanced-risk-hunting-in-defender-for-cloud/ba-p/4420633
 2025-06-04T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/integrating-microsoft-defender-for-identity-signals-with-entra/ba-p/4352580
 2025-06-05T09:05:54 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-june-2025/ba-p/4420412
+2025-06-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/understanding-and-mitigating-golden-saml-attacks/ba-p/4418864
+2025-06-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/connect-with-us-at-the-gartner-security-risk-management-summit/ba-p/4420744
