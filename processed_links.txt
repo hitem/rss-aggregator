@@ -583,3 +583,4 @@
 2025-06-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/understanding-and-mitigating-golden-saml-attacks/ba-p/4418864
 2025-06-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/connect-with-us-at-the-gartner-security-risk-management-summit/ba-p/4420744
 2025-06-05T16:36:57 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-global-exclusion-policies-for-linux-across-both-av-and/ba-p/4420127
+2025-06-09T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/exciting-announcements-new-data-connectors-released-using-the/ba-p/4421104
