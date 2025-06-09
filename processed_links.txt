@@ -586,3 +586,4 @@
 2025-06-09T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/exciting-announcements-new-data-connectors-released-using-the/ba-p/4421104
 2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/ba-p/4418866
 2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ensuring-smooth-migrations-with-adms-portal-s-preflight-checks/ba-p/4421401
+2025-06-09T20:41:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-device-control-for-macos-in-defender-for-endpoint/ba-p/4422162

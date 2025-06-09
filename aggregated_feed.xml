@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Jun 2025 20:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 21:07:22 GMT</lastBuildDate>
+    <item>
+      <title>Understanding Device Control for macOS in Defender for Endpoint</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-device-control-for-macos-in-defender-for-endpoint/ba-p/4422162</link>
+      <pubDate>Mon, 09 Jun 2025 20:41:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-device-control-for-macos-in-defender-for-endpoint/ba-p/4422162</guid>
+      <description>Step-by-step implementation guide
+Requirements for Implementing Device Control:
+
+Defender for Endpoint or Defender for Business licenses (can be a trial subscription)
+Minimum OS version: macOS 11 or higher
+Minimum product version: 101.34.20
+
+The implications of these requirements are that first, the macOS devices need to be onboarded in Defender for Endpoint for the Device Control policies to be enforced, secondly the OS needs to be at certain level or higher and third the minimum product version required, implies that the Defender app needs to be installed on the macOS device.
+Another aspect ...</description>
+    </item>
   </channel>
 </rss>
