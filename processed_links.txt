@@ -584,3 +584,5 @@
 2025-06-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/connect-with-us-at-the-gartner-security-risk-management-summit/ba-p/4420744
 2025-06-05T16:36:57 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-global-exclusion-policies-for-linux-across-both-av-and/ba-p/4420127
 2025-06-09T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/exciting-announcements-new-data-connectors-released-using-the/ba-p/4421104
+2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/ba-p/4418866
+2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ensuring-smooth-migrations-with-adms-portal-s-preflight-checks/ba-p/4421401
