@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Jun 2025 10:09:44 GMT</lastBuildDate>
-    <item>
-      <title>Exciting Announcements: New Data Connectors Released Using the Codeless Connector Framework</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/exciting-announcements-new-data-connectors-released-using-the/ba-p/4421104</link>
-      <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/exciting-announcements-new-data-connectors-released-using-the/ba-p/4421104</guid>
-      <description>Microsoft Sentinel&#8217;s Codeless Connector Framework or &#8216;CCF&#8217; (formerly called Codeless Connector Platform [CCP]) represents a paradigm shift in data ingestion, making it easier than ever for organisations to do more with Microsoft Sentinel by integrating diverse data sources seamlessly.&#160;&#160;
-Designed to simplify and expedite the onboarding of data sources, CCF eliminates the need for extensive coding expertise and maintaining additional services to facilitate ingestion, allowing security teams to focus on what truly matters &#8211; safeguarding their environment.&#160;
-Advantages of the Codeless Connector Fra...</description>
-    </item>
+    <lastBuildDate>Mon, 09 Jun 2025 11:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
