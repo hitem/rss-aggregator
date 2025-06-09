@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Jun 2025 16:10:09 GMT</lastBuildDate>
-    <item>
-      <title>Ensuring Smooth Migrations with ADMS Portal&#8217;s Preflight Checks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/ensuring-smooth-migrations-with-adms-portal-s-preflight-checks/ba-p/4421401</link>
-      <pubDate>Mon, 09 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/ensuring-smooth-migrations-with-adms-portal-s-preflight-checks/ba-p/4421401</guid>
-      <description>A Comprehensive Overview
-In any enterprise migration, preparation is key. At the heart of a successful transition lies the ability to anticipate and eliminate potential roadblocks before they occur. That&#8217;s where the ADMS Portal&#8217;s preflight checks come into play.
-ADMS, ADSS, and ADGMS are all cloud-based services that come within the ADxS services portfolio offered by Microsoft and are designed to facilitate efficient and cost-effective migrations. For additional information around migration use cases, refer to this blog: https://techcommunity.microsoft.com/blog/microsoft-security-blog/explorin...</description>
-    </item>
-    <item>
-      <title>New policy enhancement tools in Entra Conditional Access</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/ba-p/4418866</link>
-      <pubDate>Mon, 09 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/ba-p/4418866</guid>
-      <description>As identity-based attacks grow more sophisticated&#8212;like the recent Storm-2372 phishing campaign&#8212;IT teams need smarter access control tools to stay ahead. Attackers are evolving, exploiting overlooked authentication flows and policy gaps. That's why I&#8217;m excited to spotlight three powerful new enhancements to Microsoft Entra Conditional Access&#8212;designed to help admins plan, monitor, and optimize policy rollouts with greater precision and confidence. Each tool brings unique capabilities to ensure your access policies are secure, effective, and resilient:
-
-General availability: Per-Policy Reporting
-...</description>
-    </item>
+    <lastBuildDate>Mon, 09 Jun 2025 17:07:46 GMT</lastBuildDate>
   </channel>
 </rss>
