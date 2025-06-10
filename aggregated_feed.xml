@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Jun 2025 20:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 21:07:48 GMT</lastBuildDate>
+    <item>
+      <title>Behavior monitoring is now generally available for Microsoft Defender for Endpoint on macOS</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/behavior-monitoring-is-now-generally-available-for-microsoft/ba-p/4415697</link>
+      <pubDate>Tue, 10 Jun 2025 20:17:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/behavior-monitoring-is-now-generally-available-for-microsoft/ba-p/4415697</guid>
+      <description>Enhancing macOS security with behavior monitoring&#160;
+As attackers become more sophisticated in today&#8217;s rapidly evolving threat landscape, security strategies must continue to innovate to keep pace. For instance, static signature-based approaches to malware detection are useful but not enough. Rather, when combined with more dynamic forms of detection like behavior monitoring, your environment is better equipped to block new and evolving threats. &#160;
+&#160;
+Behavior monitoring observes how software behaves in real-time to detect and analyze potential threats based on the behavior of the applications, da...</description>
+    </item>
   </channel>
 </rss>

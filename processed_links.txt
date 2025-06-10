@@ -585,3 +585,4 @@
 2025-06-09T20:41:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-device-control-for-macos-in-defender-for-endpoint/ba-p/4422162
 2025-06-10T12:11:15 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-security-copilot-is-now-generally/ba-p/4422055
 2025-06-10T16:08:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2025/ba-p/4422464
+2025-06-10T20:17:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/behavior-monitoring-is-now-generally-available-for-microsoft/ba-p/4415697
