@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Jun 2025 16:10:25 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (May 2025)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2025/ba-p/4422464</link>
-      <pubDate>Tue, 10 Jun 2025 16:08:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2025/ba-p/4422464</guid>
-      <description>Hi everyone!&#160;Tyson Paul&#160;here with this month&#8217;s &#8220;Check This Out!&#8221; (CTO!) guide.
-Our goal with these posts is to guide you toward content that piques your interest, whether it's for learning, troubleshooting, or discovering new sources. Each month, we&#8217;ll give you a snapshot of intriguing blog content, provide direct links to the source material, and introduce you to other valuable blogs you might not know about yet.
-If you&#8217;re a long-time reader, you&#8217;ll notice this series is similar to our previous &#8220;Infrastructure + Security: Noteworthy News&#8221; series. We hope you find this new format just as helpf...</description>
-    </item>
+    <lastBuildDate>Tue, 10 Jun 2025 17:07:43 GMT</lastBuildDate>
   </channel>
 </rss>
