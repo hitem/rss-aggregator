@@ -586,3 +586,4 @@
 2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/ba-p/4418866
 2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ensuring-smooth-migrations-with-adms-portal-s-preflight-checks/ba-p/4421401
 2025-06-09T20:41:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-device-control-for-macos-in-defender-for-endpoint/ba-p/4422162
+2025-06-10T12:11:15 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-security-copilot-is-now-generally/ba-p/4422055

@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Jun 2025 11:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 12:16:17 GMT</lastBuildDate>
+    <item>
+      <title>Azure WAF Integration in Security Copilot is Now Generally Available</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-security-copilot-is-now-generally/ba-p/4422055</link>
+      <pubDate>Tue, 10 Jun 2025 12:11:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-security-copilot-is-now-generally/ba-p/4422055</guid>
+      <description>We&#8217;re excited to announce the general availability (GA) of Azure Web Application Firewall (WAF) integration with Microsoft Security Copilot. This marks a significant advancement in web application protection, bringing together Azure WAF&#8217;s industry-leading defense with the AI-powered capabilities of Security Copilot to transform how security teams detect, investigate, and respond to threats.
+Why This Integration Is a Game-Changer
+Modern web applications face relentless threats - from SQL injections and cross-site scripting (XSS) to bot attacks and sophisticated Layer 7 DDoS attempts. Defending ...</description>
+    </item>
   </channel>
 </rss>
