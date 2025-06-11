@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 11 Jun 2025 15:08:49 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Identity extends ITDR capabilities to Okta identities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-extends-itdr-capabilities-to/ba-p/4418955</link>
-      <pubDate>Wed, 11 Jun 2025 15:04:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-extends-itdr-capabilities-to/ba-p/4418955</guid>
-      <description>Identities are the organization&#8217;s new security perimeter and are a prime target for cyber-criminals. However, with today&#8217;s ever-evolving digital landscape, security leaders often wrestle with a tapestry of different identity solutions spanning multiple environments and vendors, making identity protection more challenging than ever.
-Because of this, security professionals understand that&#160;identity threat detection and response (ITDR) is a fundamental piece of their security practice that helps them to comprehensively secure their unique identity fabric across identity solutions, environments, an...</description>
-    </item>
+    <lastBuildDate>Wed, 11 Jun 2025 16:10:25 GMT</lastBuildDate>
   </channel>
 </rss>
