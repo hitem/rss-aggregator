@@ -587,3 +587,4 @@
 2025-06-10T16:08:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2025/ba-p/4422464
 2025-06-10T20:17:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/behavior-monitoring-is-now-generally-available-for-microsoft/ba-p/4415697
 2025-06-11T00:10:06 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-incidents-cases-and-when-to-use-them/ba-p/4422181
+2025-06-11T15:04:48 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-extends-itdr-capabilities-to/ba-p/4418955
