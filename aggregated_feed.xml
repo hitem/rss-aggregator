@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 11 Jun 2025 00:41:43 GMT</lastBuildDate>
-    <item>
-      <title>Case Management: Incidents, Cases, and When to Use Them</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-incidents-cases-and-when-to-use-them/ba-p/4422181</link>
-      <pubDate>Wed, 11 Jun 2025 00:10:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-incidents-cases-and-when-to-use-them/ba-p/4422181</guid>
-      <description>In March, Case Management went to GA status within the unified portal for customers. This introduced new functionality and experiences such as:
-
-A new case queue
-Custom statuses
-New Case task experience
-Linking incidents to cases
-
-This can be a little confusing for existing users who are familiar with incidents and the incident experience for either Microsoft Defender or Sentinel. Let&#8217;s break this down into more detail.
-&#160;
-What are Incidents?
-Incidents are artifacts that act as containers for alerts to signal that a noteworthy event took place that involves one or more malicious activities. The...</description>
-    </item>
+    <lastBuildDate>Wed, 11 Jun 2025 02:38:52 GMT</lastBuildDate>
   </channel>
 </rss>
