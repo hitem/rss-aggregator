@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 12 Jun 2025 09:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 10:09:32 GMT</lastBuildDate>
+    <item>
+      <title>NEW: Scope Identity Protection with Defender for Identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-scope-identity-protection-with-defender-for-identity/ba-p/4422968</link>
+      <pubDate>Thu, 12 Jun 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-scope-identity-protection-with-defender-for-identity/ba-p/4422968</guid>
+      <description>I am excited to announce the&#160;public preview of domain-based scoping for Active Directory within Microsoft Defender for Identity.&#160;This is a foundational step in extending role-based access control (RBAC) as part of the broader XDR URBAC initiative. This new capability enables organizations to define and refine the scope of Microsoft Defender for Identity monitoring, providing more granular control over which entities and resources are included in security analysis.
+What is &#8220;scoping&#8221; and why does it matter?&#160;
+As organizations grow, so does their identity fabric and as security professionals look ...</description>
+    </item>
   </channel>
 </rss>
