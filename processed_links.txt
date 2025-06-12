@@ -586,3 +586,4 @@
 2025-06-11T00:10:06 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/case-management-incidents-cases-and-when-to-use-them/ba-p/4422181
 2025-06-11T15:04:48 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-extends-itdr-capabilities-to/ba-p/4418955
 2025-06-12T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-scope-identity-protection-with-defender-for-identity/ba-p/4422968
+2025-06-12T16:26:26 https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932
