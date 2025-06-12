@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 12 Jun 2025 17:08:11 GMT</lastBuildDate>
-    <item>
-      <title>Build Your Own Data Protection Impact Assessment Template for Office 365 Enterprise Customers</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932</link>
-      <pubDate>Thu, 12 Jun 2025 16:26:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932</guid>
-      <description>As data privacy regulations such as the General Data Protection Regulation (GDPR) continue to evolve, enterprise organizations are under increasing pressure to ensure their cloud environments are secure, compliant, and trusted. One key step in meeting these requirements&#8212;especially in the EU&#8212;is the completion of a Data Protection Impact Assessment (DPIA).&#160;
-To support this need, Microsoft is pleased to introduce a new&#8239;&#8220;Build Your Own&#8221; DPIA Template for Enterprise Customers.&#8239;This resource is designed to help organizations confidently assess the data protection implications of deploying Microsoft ...</description>
-    </item>
+    <lastBuildDate>Thu, 12 Jun 2025 18:11:25 GMT</lastBuildDate>
   </channel>
 </rss>
