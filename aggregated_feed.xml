@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 13 Jun 2025 19:01:05 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft&#8217;s participation in MITRE ATT&amp;CK&#174; Evaluations: Enterprise 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-s-participation-in-mitre-att-ck-evaluations-enterprise/ba-p/4422639</link>
-      <pubDate>Fri, 13 Jun 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-s-participation-in-mitre-att-ck-evaluations-enterprise/ba-p/4422639</guid>
-      <description>Microsoft has a long-standing&#160;relationship with MITRE and&#160;holds&#160;deep respect for the&#160;unique&#160;role that&#160;the organization&#160;plays&#160;within the&#160;security ecosystem.&#160;&#160;MITRE&#160;ATT&amp;CK&#174;&#160;Evaluations&#160;have&#160;been instrumental in helping&#160;us&#160;improve our products.&#160;We are grateful for their&#160;invaluable&#160;contributions&#160;in advancing security&#160;for all.&#160;&#160;
-After extensive deliberation, Microsoft has decided to not participate in the evaluation this year. This decision allows us to focus all our resources on the Secure Future Initiative and on delivering product innovation to our customers. We look forward to continuing our co...</description>
-    </item>
+    <lastBuildDate>Fri, 13 Jun 2025 20:09:23 GMT</lastBuildDate>
   </channel>
 </rss>
