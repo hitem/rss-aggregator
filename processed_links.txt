@@ -1,4 +1,3 @@
-2024-06-13T18:17:43 https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-closer-look-at-azure-waf-s-data-masking-capabilities-for-azure/ba-p/4167558
 2024-06-14T14:22:36 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-126/ba-p/4168263
 2024-06-17T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/dynamically-updating-azure-ip-ranges-with-powershell-and-devops/ba-p/4147565
 2024-06-18T15:27:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/host-microsoft-defender-data-locally-in-switzerland/ba-p/4136166
@@ -586,3 +585,4 @@
 2025-06-11T15:04:48 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-extends-itdr-capabilities-to/ba-p/4418955
 2025-06-12T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/new-scope-identity-protection-with-defender-for-identity/ba-p/4422968
 2025-06-12T16:26:26 https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932
+2025-06-13T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-s-participation-in-mitre-att-ck-evaluations-enterprise/ba-p/4422639
