@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Jun 2025 13:25:53 GMT</lastBuildDate>
-    <item>
-      <title>Introduction to Network Trace Analysis 06:  Kerberos it&#8217;s AUTH-some!</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-06-kerberos-it-s-auth/ba-p/4424314</link>
-      <pubDate>Mon, 16 Jun 2025 13:12:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-06-kerberos-it-s-auth/ba-p/4424314</guid>
-      <description>New to the series? Be sure to check out the previous posts!&#160;
-&#160;
-
-Introduction to Network Trace Analysis Part 0: Laying the Groundwork&#160;&#160;
-Introduction to Network Trace Analysis Part 1: Asking Questions and Collecting Data&#160;&#160;
-Introduction to Network Trace Analysis 2: Jumping into TCP Connectivity&#160;&#160;
-Introduction to Network Trace Analysis 3: TCP Performance&#160;
-Introduction to Network Trace Analysis 4: DNS (it's always DNS)&#160;&#160;
-Introduction to Network Trace Analysis 5: SMB? Sounds good to me!&#160;&#160;
-
-Howdy everyone! I'm going to cut to the chase, today we will be talking about Kerberos. Kerberos is crucial in ...</description>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 14:08:42 GMT</lastBuildDate>
   </channel>
 </rss>
