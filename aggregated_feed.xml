@@ -3,24 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Jun 2025 12:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 13:25:53 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Sentinel: Repositories, the Future of Content-as-Code &amp; Best Practices&#8203;</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-repositories-the-future-of-content-as-code/ba-p/4422936</link>
-      <pubDate>Mon, 16 Jun 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-repositories-the-future-of-content-as-code/ba-p/4422936</guid>
-      <description>In the ever-evolving landscape of cybersecurity, both automation and infrastructure-as-code (IaC) have become indispensable. SIEM solutions, traditionally known for their complex configurations and manual deployments, are no exception. Microsoft Sentinel's repository support is taking a significant leap forward in empowering security teams to embrace SIEM-as-code practices.
-Some of the added value that organizations can capitalize on immediately are:
+      <title>Introduction to Network Trace Analysis 06:  Kerberos it&#8217;s AUTH-some!</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-06-kerberos-it-s-auth/ba-p/4424314</link>
+      <pubDate>Mon, 16 Jun 2025 13:12:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-06-kerberos-it-s-auth/ba-p/4424314</guid>
+      <description>New to the series? Be sure to check out the previous posts!&#160;
+&#160;
 
-Reduction of human error&#160;
+Introduction to Network Trace Analysis Part 0: Laying the Groundwork&#160;&#160;
+Introduction to Network Trace Analysis Part 1: Asking Questions and Collecting Data&#160;&#160;
+Introduction to Network Trace Analysis 2: Jumping into TCP Connectivity&#160;&#160;
+Introduction to Network Trace Analysis 3: TCP Performance&#160;
+Introduction to Network Trace Analysis 4: DNS (it's always DNS)&#160;&#160;
+Introduction to Network Trace Analysis 5: SMB? Sounds good to me!&#160;&#160;
 
-
-Faster deployment and configurations&#160;
-
-
-Consistent operational process leading to increased security value
-
-Organiza...</description>
+Howdy everyone! I'm going to cut to the chase, today we will be talking about Kerberos. Kerberos is crucial in ...</description>
     </item>
   </channel>
 </rss>

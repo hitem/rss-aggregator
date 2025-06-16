@@ -586,3 +586,4 @@
 2025-06-12T16:26:26 https://techcommunity.microsoft.com/t5/microsoft-security-community/build-your-own-data-protection-impact-assessment-template-for/ba-p/4413932
 2025-06-13T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-s-participation-in-mitre-att-ck-evaluations-enterprise/ba-p/4422639
 2025-06-16T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-repositories-the-future-of-content-as-code/ba-p/4422936
+2025-06-16T13:12:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introduction-to-network-trace-analysis-06-kerberos-it-s-auth/ba-p/4424314
