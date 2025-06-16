@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Jun 2025 20:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 21:07:53 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Incident Response works hand-in-hand with insurers, brokers, and law firms</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-incident-response-works-hand-in-hand-with-insurers/ba-p/4398226</link>
+      <pubDate>Mon, 16 Jun 2025 20:44:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-incident-response-works-hand-in-hand-with-insurers/ba-p/4398226</guid>
+      <description>During a cyberattack, speed and coordination can make all the difference. It's not just about technical expertise; it's about having the right people working together when every second matters. Successful incident response today often means bringing together technical responders, insurers, insurance brokers, and legal experts into a single, focused team. Microsoft Incident Response (IR) fits directly into that framework, delivering containment and recovery services while keeping cyber insurance and legal needs in mind.&#160;
+For decades, Microsoft Incident Response has been on the front lines of so...</description>
+    </item>
+    <item>
+      <title>Introducing TITAN-Powered Recommendations in Security Copilot Guided Response</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-titan-powered-recommendations-in-security-copilot/ba-p/4416350</link>
+      <pubDate>Mon, 16 Jun 2025 20:31:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-titan-powered-recommendations-in-security-copilot/ba-p/4416350</guid>
+      <description>In the ever-evolving landscape of cybersecurity, speed and accuracy are paramount. At Microsoft, we&#8217;re continuously investing in ways to help analysts make informed decisions under pressure. One of the most powerful of these is Guided Response: a Copilot-powered capability in Microsoft Defender that walks analysts through step-by-step investigation and response flows. It provides context-aware recommendations tailored to each incident, enabling teams at all levels to respond with precision and scale.&#160;
+Now, with the integration of TITAN recommendations, Guided Response is taking a leap forward....</description>
+    </item>
   </channel>
 </rss>
