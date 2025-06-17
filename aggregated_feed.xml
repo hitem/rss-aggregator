@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Jun 2025 17:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 18:11:47 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the Microsoft Defender for Office 365 ICES vendor ecosystem</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-ices-vendor/ba-p/4424817</link>
+      <pubDate>Tue, 17 Jun 2025 17:58:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-ices-vendor/ba-p/4424817</guid>
+      <description>In today's digital landscape, the need for comprehensive security measures is more critical than ever, as email continues to be a primary vector for cyberattacks such as phishing and malware. To address this, Microsoft Defender for Office 365 leverages the extensive scale of Microsoft's threat intelligence, which processes trillions of signals daily. By integrating Large Language Models (LLMs) and&#160;advanced Natural Language Processing, Defender for Office 365 empowers organizations with AI-driven threat detection, behavioral analytics, and automated responses thus proactively identifying and ne...</description>
+    </item>
   </channel>
 </rss>
