@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Jun 2025 20:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 21:07:44 GMT</lastBuildDate>
+    <item>
+      <title>Exploring the Extensibility of ADMS Portal Customizations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/exploring-the-extensibility-of-adms-portal-customizations/ba-p/4425257</link>
+      <pubDate>Wed, 18 Jun 2025 20:16:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/exploring-the-extensibility-of-adms-portal-customizations/ba-p/4425257</guid>
+      <description>A Comprehensive Overview
+The ADMS Portal is more than just a migration interface&#8212;it's a customizable, intelligent platform designed to streamline and enhance the migration experience for both users and IT administrators.
+ADMS, ADSS, and ADGMS are all cloud-based services that come within the ADxS services portfolio offered by Microsoft and designed to facilitate efficient and cost-effective migrations. For additional information around migration use cases, refer to this blog: Exploring the Use Cases of ADxS Services | Microsoft Community Hub&#160;
+ADMS or Active Directory Migration Service &#8211; is a s...</description>
+    </item>
   </channel>
 </rss>
