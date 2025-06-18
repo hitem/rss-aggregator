@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Jun 2025 16:10:11 GMT</lastBuildDate>
-    <item>
-      <title>&#8203;&#8203;Data Breach Reporting for regulatory requirements with Microsoft Data Security Investigations&#8203;&#8203;</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/data-breach-reporting-for-regulatory-requirements-with-microsoft/ba-p/4424950</link>
-      <pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/data-breach-reporting-for-regulatory-requirements-with-microsoft/ba-p/4424950</guid>
-      <description>Seventy-four percent of organizations surveyed experienced at least one data security incident with their business data exposed in the previous year as reported in Microsoft&#8217;s Data Security Index: Trends, insights, and strategies to secure data&#8239;report.&#160; Despite the best people, process and technology we can apply to prevent it, confidential information is sometimes improperly exposed.&#160; Depending on the specifics of the incident, organizations must report these breaches to regulators, customers or other stakeholders.&#160;&#160;&#160;
-A Challenging Landscape for Data Breach Reporting&#160;
-Regulatory standards lik...</description>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 17:10:03 GMT</lastBuildDate>
   </channel>
 </rss>
