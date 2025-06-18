@@ -1,5 +1,3 @@
-2024-06-18T15:27:29 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/host-microsoft-defender-data-locally-in-switzerland/ba-p/4136166
-2024-06-18T16:00:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/simplifying-cloud-security-with-azure-firewall-manager-and/ba-p/4157326
 2024-06-19T17:09:15 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/octo-tempest-hybrid-identity-compromise-recovery/ba-p/4166783
 2024-06-19T17:38:10 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-licensing-clarifications/ba-p/4164499
 2024-06-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-break-the-token-theft-cyber-attack-chain/ba-p/4062700
@@ -589,3 +587,4 @@
 2025-06-16T20:31:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-titan-powered-recommendations-in-security-copilot/ba-p/4416350
 2025-06-16T20:44:26 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-incident-response-works-hand-in-hand-with-insurers/ba-p/4398226
 2025-06-17T17:58:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-ices-vendor/ba-p/4424817
+2025-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/data-breach-reporting-for-regulatory-requirements-with-microsoft/ba-p/4424950
