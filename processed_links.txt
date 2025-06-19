@@ -588,3 +588,5 @@
 2025-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/data-breach-reporting-for-regulatory-requirements-with-microsoft/ba-p/4424950
 2025-06-18T20:16:38 https://techcommunity.microsoft.com/t5/microsoft-security-community/exploring-the-extensibility-of-adms-portal-customizations/ba-p/4425257
 2025-06-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/getting-started-with-the-microsoft-entra-suite/ba-p/4422972
+2025-06-19T20:55:07 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-cases-from-across-tenants-in-one-place/ba-p/4425326
+2025-06-19T20:59:08 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-now-supports-multiple-tenants-in-microsoft/ba-p/4425329

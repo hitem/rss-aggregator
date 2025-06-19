@@ -3,6 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 19 Jun 2025 20:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 21:07:22 GMT</lastBuildDate>
+    <item>
+      <title>Case management now supports multiple tenants in Microsoft Defender experience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-now-supports-multiple-tenants-in-microsoft/ba-p/4425329</link>
+      <pubDate>Thu, 19 Jun 2025 20:59:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-now-supports-multiple-tenants-in-microsoft/ba-p/4425329</guid>
+      <description>If you're responsible for securing a large enterprise or operating as a Managed Security Service Provider (MSSP), you know how complex it can be to track and manage cases across multiple tenants.&#8239;Visibility gaps and fragmented workflows often slow down response times and increase operational overhead.&#160;
+We&#8217;re excited to share that multi-tenant support is now generally available in our case management experience.&#8239;This new capability empowers security teams to view and manage incidents across all their tenants from a single, unified interface&#8212;directly within the Microsoft Defender Multi-Tenant (M...</description>
+    </item>
+    <item>
+      <title>Manage cases from across tenants in one place</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-cases-from-across-tenants-in-one-place/ba-p/4425326</link>
+      <pubDate>Thu, 19 Jun 2025 20:55:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-cases-from-across-tenants-in-one-place/ba-p/4425326</guid>
+      <description>
+Manage cases from multiple tenants in one place &#8211; Now generally available!&#160;
+Security Operations (SecOps) teams for large organizations and managed security service providers (MSSPs) often face the challenge of managing cases across multiple tenants. Keeping track of cases from these different environments can be painful, unless you can view all the cases in one place.&#160;&#160;
+Today, we are happy to announce that case management multi-tenant support is now generally available. You can now view, create, update, and act on cases from multiple tenants from a single pane of glass.&#160;
+A seamless, unified e...</description>
+    </item>
   </channel>
 </rss>
