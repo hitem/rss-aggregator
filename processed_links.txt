@@ -589,3 +589,4 @@
 2025-06-17T17:58:52 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-ices-vendor/ba-p/4424817
 2025-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/data-breach-reporting-for-regulatory-requirements-with-microsoft/ba-p/4424950
 2025-06-18T20:16:38 https://techcommunity.microsoft.com/t5/microsoft-security-community/exploring-the-extensibility-of-adms-portal-customizations/ba-p/4425257
+2025-06-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/getting-started-with-the-microsoft-entra-suite/ba-p/4422972

@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 19 Jun 2025 15:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 16:09:58 GMT</lastBuildDate>
+    <item>
+      <title>Getting started with the Microsoft Entra Suite</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/getting-started-with-the-microsoft-entra-suite/ba-p/4422972</link>
+      <pubDate>Thu, 19 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/getting-started-with-the-microsoft-entra-suite/ba-p/4422972</guid>
+      <description>When identity and network access teams operate in isolation, organizations face increased complexity, inconsistent policies, and greater risk. These inefficiencies not only slow down operational processes but also expose critical systems to vulnerabilities that could be mitigated through a more unified approach.
+At RSA early this year, Irina Nechaeva, GM of Product Marketing for Identity &amp; Network Security, highlighted how removing silos across identity and network security teams can simplify your Zero Trust architecture, streamline employee onboarding, modernize remote access, and secure both...</description>
+    </item>
   </channel>
 </rss>
