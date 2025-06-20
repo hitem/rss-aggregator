@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 20 Jun 2025 07:09:07 GMT</lastBuildDate>
-    <item>
-      <title>Best Practices for Investigating Phishing Incidents in Microsoft Defender for Office 365</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/best-practices-for-investigating-phishing-incidents-in-microsoft/ba-p/4425748</link>
-      <pubDate>Fri, 20 Jun 2025 06:41:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/best-practices-for-investigating-phishing-incidents-in-microsoft/ba-p/4425748</guid>
-      <description>When a suspicious email is delivered due to policy configurations or evolving threat techniques, timely investigation is critical to minimizing impact. Microsoft Defender for Office 365 (MDO) offers a comprehensive suite of tools within the&#160;Incidents tab that empowers security teams to swiftly identify, investigate, and respond to email threats. But how do you investigate efficiently? What&#8217;s the most effective workflow once an alert fires?
-In this blog post, we&#8217;ll walk through recommended investigation workflow using the Incidents tab (https://security.microsoft.com/incidents) turning alerts i...</description>
-    </item>
+    <lastBuildDate>Fri, 20 Jun 2025 08:12:31 GMT</lastBuildDate>
   </channel>
 </rss>
