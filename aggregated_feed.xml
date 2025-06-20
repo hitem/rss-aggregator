@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 20 Jun 2025 15:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 16:09:55 GMT</lastBuildDate>
+    <item>
+      <title>General Availability: Key Attestation for Azure Managed HSM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/general-availability-key-attestation-for-azure-managed-hsm/ba-p/4425321</link>
+      <pubDate>Fri, 20 Jun 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/general-availability-key-attestation-for-azure-managed-hsm/ba-p/4425321</guid>
+      <description>We are excited to announce the General Availability of Key attestation for Azure Key Vault Managed HSM.&#160;
+&#160;
+Key attestation for Azure Managed HSM enables a way to validate the origin and integrity of cryptographic keys generated and stored within a trusted, FIPS 140-3 Level 3 certified HSM. This thereby enhances trust in key management processes by offering transparency and further enables compliance with strict security standards. This feature is especially valuable in scenarios where customers need assurance that their keys are protected from unauthorized access, even from cloud providers.&#160;&#160;
+...</description>
+    </item>
   </channel>
 </rss>
