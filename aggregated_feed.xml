@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 24 Jun 2025 12:16:09 GMT</lastBuildDate>
-    <item>
-      <title>Making the Most of Attack Simulation Training: Dynamic Groups, Automation, and User Education</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/making-the-most-of-attack-simulation-training-dynamic-groups/ba-p/4426697</link>
-      <pubDate>Tue, 24 Jun 2025 12:05:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/making-the-most-of-attack-simulation-training-dynamic-groups/ba-p/4426697</guid>
-      <description>Attack Simulation Training in Microsoft Defender for Office 365 is a powerful capability for improving your organization&#8217;s resilience to phishing and social engineering attacks. However, the effectiveness of these simulations depends heavily on how well they are configured and managed. In this guide, we'll walk through how to take full advantage of the platform by leveraging dynamic groups, simulation automations, training localization, and training reminders.
-&#160;
-1. Target the Right Users with Dynamic Groups
-Where to configure it: Microsoft Entra Admin Center &gt; Groups &gt; New Group
-Why it matters...</description>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 13:26:11 GMT</lastBuildDate>
   </channel>
 </rss>
