@@ -590,3 +590,4 @@
 2025-06-19T20:59:08 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-now-supports-multiple-tenants-in-microsoft/ba-p/4425329
 2025-06-20T06:41:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/best-practices-for-investigating-phishing-incidents-in-microsoft/ba-p/4425748
 2025-06-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/general-availability-key-attestation-for-azure-managed-hsm/ba-p/4425321
+2025-06-24T12:05:32 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/making-the-most-of-attack-simulation-training-dynamic-groups/ba-p/4426697
