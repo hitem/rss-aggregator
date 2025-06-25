@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Jun 2025 21:07:48 GMT</lastBuildDate>
-    <item>
-      <title>Simplifying Azure Purview PaaS to SaaS Migration with a Custom Metadata Migration Accelerator</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/simplifying-azure-purview-paas-to-saas-migration-with-a-custom/ba-p/4424803</link>
-      <pubDate>Wed, 25 Jun 2025 20:37:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/simplifying-azure-purview-paas-to-saas-migration-with-a-custom/ba-p/4424803</guid>
-      <description>As organizations scale their data governance programs, migrating from Azure Purview (PaaS) to the more advanced Microsoft Purview (SaaS) becomes a strategic priority. However, this migration journey is far from simple&#8212;especially when it comes to preserving, cleaning, and enriching metadata across platforms.
-To address these challenges head-on, our team developed a Metadata Migration Accelerator Utility &#8212;a custom-built, production-grade tool that simplifies and streamlines the entire migration lifecycle.
-Why this utility is needed
-Many enterprises invested significant time building comprehensiv...</description>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 22:07:48 GMT</lastBuildDate>
   </channel>
 </rss>
