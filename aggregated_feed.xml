@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Jun 2025 17:09:11 GMT</lastBuildDate>
-    <item>
-      <title>Maintain connectivity for essential services with selective network isolation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/maintain-connectivity-for-essential-services-with-selective/ba-p/4422938</link>
-      <pubDate>Wed, 25 Jun 2025 16:29:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/maintain-connectivity-for-essential-services-with-selective/ba-p/4422938</guid>
-      <description>Network isolation refers to how Microsoft Defender for Endpoint restricts a compromised device&#8217;s communication within the network in order to contain threats and prevent lateral movement. But oftentimes when isolating devices, certain critical services like management tools or security solutions need to remain operational.&#160;&#160;
-That's why Defender for Endpoint has launched selective isolation exclusions, which allow you to exclude specific devices, processes, IP addresses, or services from unilateral network isolation actions. This allows essential functions (e.g., remote remediation or monitorin...</description>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 18:12:16 GMT</lastBuildDate>
   </channel>
 </rss>
