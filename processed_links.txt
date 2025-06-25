@@ -591,3 +591,4 @@
 2025-06-25T15:54:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-named-a-leader-in-the-idc-marketscape-for-cnapp-key/ba-p/4427071
 2025-06-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/streamline-user-management-across-microsoft-clouds/ba-p/4422536
 2025-06-25T16:29:44 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/maintain-connectivity-for-essential-services-with-selective/ba-p/4422938
+2025-06-25T20:07:52 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2506/ba-p/4426431

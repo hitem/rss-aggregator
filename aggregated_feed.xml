@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Jun 2025 19:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 20:09:17 GMT</lastBuildDate>
+    <item>
+      <title>Security baseline for Windows Server 2025, version 2506</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2506/ba-p/4426431</link>
+      <pubDate>Wed, 25 Jun 2025 20:07:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2506/ba-p/4426431</guid>
+      <description>Microsoft is pleased to announce the&#160;June 2025 revision of the security baseline package for Windows Server 2025 (v2506)! You can download the baseline package from the&#160;Microsoft Security Compliance Toolkit, test the recommended configurations in your environment, and customize / implement them as appropriate.
+Starting with this release, we plan to revise the Windows Server baseline more frequently to keep pace with evolving threats, new Windows features, and community feedback.
+Summary of Changes in This Release (v2506)
+This release includes several changes made since the last release of the ...</description>
+    </item>
   </channel>
 </rss>
