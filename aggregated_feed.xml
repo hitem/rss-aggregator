@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Jun 2025 14:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 15:09:23 GMT</lastBuildDate>
+    <item>
+      <title>Unlocking API visibility: Defender for Cloud Expands API security to Function Apps and Logic Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-api-visibility-defender-for-cloud-expands-api-security/ba-p/4426864</link>
+      <pubDate>Wed, 25 Jun 2025 14:33:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-api-visibility-defender-for-cloud-expands-api-security/ba-p/4426864</guid>
+      <description>APIs are the front door to modern cloud applications and increasingly, a top target for attackers. According to the May 2024 Gartner&#174; Market Guide for API Protection: &#8220;Current data indicates that the average API breach leads to at least 10 times more leaked data than the average security breach.&#8221; This makes comprehensive API visibility and governance a critical priority for security teams and cloud-first enterprises.
+We&#8217;re excited to announce that Microsoft Defender for Cloud now supports API discovery and security posture management for APIs hosted in Azure App Services, including Function Ap...</description>
+    </item>
   </channel>
 </rss>
