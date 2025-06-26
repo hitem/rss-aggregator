@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Jun 2025 03:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 04:18:06 GMT</lastBuildDate>
+    <item>
+      <title>Enabling Extended Security Updates (ESU) for Windows 10 with Intune</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enabling-extended-security-updates-esu-for-windows-10-with/ba-p/4420182</link>
+      <pubDate>Thu, 26 Jun 2025 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enabling-extended-security-updates-esu-for-windows-10-with/ba-p/4420182</guid>
+      <description>Hello everyone, Jon Warnken a Cloud Solutions Architect. This Blog post contains several PowerShell scripts and to not overwhelm you with a wall of code, the scripts are included in collapsible sections and have a link to my GitHub repository.&#160; &#160;
+As the End of Support date for Windows 10 approaches, many of us are busy helping customers upgrade to Windows 11.&#160; (Lifecycle FAQ - Windows | Microsoft Learn) But even during those migration efforts, we are talking about the systems that cannot be upgraded and what are the options to keep those systems secure. The Windows 10 Extended Security Updates...</description>
+    </item>
   </channel>
 </rss>
