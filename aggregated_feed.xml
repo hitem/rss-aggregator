@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Jun 2025 16:10:37 GMT</lastBuildDate>
-    <item>
-      <title>OAuth consent phishing explained and prevented</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/oauth-consent-phishing-explained-and-prevented/ba-p/4423357</link>
-      <pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/oauth-consent-phishing-explained-and-prevented/ba-p/4423357</guid>
-      <description>In this series, we've investigated identity attacks that go beyond simple multifactor authentication (MFA), including Adversary-in-the-Middle (AiTM) phishing and Golden SAML attacks&#160;. In this installment, we&#8217;ll delve into the OAuth consent phishing attack. This attack leverages the OAuth 2.0 protocol, which is widely used for granting third-party applications access to user data without sharing user credentials.
-As a reminder, the most common attack is account compromise. That&#8217;s why it&#8217;s so crucial to secure your identity infrastructure, for example, by adopting phishing-resistant MFA. &#160;&#160;
-It&#8217;s...</description>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 17:08:16 GMT</lastBuildDate>
   </channel>
 </rss>
