@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Jun 2025 14:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 15:08:50 GMT</lastBuildDate>
+    <item>
+      <title>Modern, unified data security in the AI era: New capabilities in Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/modern-unified-data-security-in-the-ai-era-new-capabilities-in/ba-p/4427195</link>
+      <pubDate>Thu, 26 Jun 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/modern-unified-data-security-in-the-ai-era-new-capabilities-in/ba-p/4427195</guid>
+      <description>AI is transforming how organizations work&#8212;but it&#8217;s also changing how data moves, who can access it, and how easily it can be exposed. Sensitive data now appears in AI prompts, Copilot responses, and across a growing ecosystem of SaaS and GenAI tools. To keep up, organizations need data security that&#8217;s built for how people work with AI today.
+Microsoft Purview brings together native classification, visibility, protection and automated workflows across your data estate&#8212;all in one integrated platform.
+Today, we&#8217;re highlighting some of our new capabilities that help you:
+
+Uncover data blind spots:...</description>
+    </item>
   </channel>
 </rss>

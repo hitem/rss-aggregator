@@ -593,3 +593,4 @@
 2025-06-25T20:07:52 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2506/ba-p/4426431
 2025-06-25T20:37:43 https://techcommunity.microsoft.com/t5/microsoft-security-community/simplifying-azure-purview-paas-to-saas-migration-with-a-custom/ba-p/4424803
 2025-06-26T04:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enabling-extended-security-updates-esu-for-windows-10-with/ba-p/4420182
+2025-06-26T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/modern-unified-data-security-in-the-ai-era-new-capabilities-in/ba-p/4427195
