@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Jun 2025 19:00:44 GMT</lastBuildDate>
-    <item>
-      <title>New feature in Defender for Storage: Optional Index Tags</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-feature-in-defender-for-storage-optional-index-tags/ba-p/4427987</link>
-      <pubDate>Fri, 27 Jun 2025 18:49:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-feature-in-defender-for-storage-optional-index-tags/ba-p/4427987</guid>
-      <description>If you&#8217;re using Microsoft Defender for Storage to protect your blobs from malware, you probably know that scan results are automatically written to blob index tags. These tags are helpful for querying scan status efficiently and seeing results in near-real time in the blob itself, but for high-frequency scans, those extra writes can add up in cost.
-Now, with our latest update, you have a choice.
-&#160;
-&#127381; What&#8217;s New?
-Starting June 25th, Defender for Storage introduces optional index tags. This means you can disable writing scan results as index tags, while keeping malware scanning fully active and e...</description>
-    </item>
+    <lastBuildDate>Fri, 27 Jun 2025 20:09:02 GMT</lastBuildDate>
   </channel>
 </rss>
