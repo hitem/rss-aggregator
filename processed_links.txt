@@ -592,3 +592,5 @@
 2025-06-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/oauth-consent-phishing-explained-and-prevented/ba-p/4423357
 2025-06-27T11:02:18 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-138/ba-p/4427877
 2025-06-27T11:29:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/optimizing-resource-allocation-with-microsoft-defender-cspm/ba-p/4427785
+2025-06-27T17:08:03 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azuread-powershell-retirement/ba-p/4364989
+2025-06-27T17:08:42 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-retirement/ba-p/4364990
