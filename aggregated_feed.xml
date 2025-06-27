@@ -3,17 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Jun 2025 11:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:15:20 GMT</lastBuildDate>
     <item>
-      <title>Security Review for Microsoft Edge version 138</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-138/ba-p/4427877</link>
-      <pubDate>Fri, 27 Jun 2025 11:02:18 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-138/ba-p/4427877</guid>
-      <description>We have reviewed the new settings in Microsoft Edge version 138 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 128 security baseline, which can be downloaded from the&#160;Microsoft Security Compliance Toolkit, continues to be our recommended configuration.
-&#160;
-Microsoft Edge version 138 introduces 6 new Computer and User settings and we have included a spreadsheet listing the new settings.
-&#160;
-There are two settings we would like to highlight for consideration as they enabling previewing behavior that will be enabled by default in a f...</description>
+      <title>Optimizing Resource Allocation with Microsoft Defender CSPM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/optimizing-resource-allocation-with-microsoft-defender-cspm/ba-p/4427785</link>
+      <pubDate>Fri, 27 Jun 2025 11:29:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/optimizing-resource-allocation-with-microsoft-defender-cspm/ba-p/4427785</guid>
+      <description>
+This article is part of our series on &#8220;Strategy to Execution: Operationalizing Microsoft Defender CSPM.&#8221; If you&#8217;re new to the series, or want broader strategic context, begin with our main overview article, then explore Article 1, Article 2, and Article 3 for details on risk identification, compliance, and DevSecOps workflows.
+
+Introduction
+Organizations today face an array of challenges in their cloud security efforts, ever-growing multicloud infrastructures, finite budgets, and evolving threat landscapes. Effectively allocating limited resources is critical: security teams must prioritize t...</description>
     </item>
   </channel>
 </rss>
