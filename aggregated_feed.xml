@@ -3,30 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Jun 2025 18:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 19:00:44 GMT</lastBuildDate>
     <item>
-      <title>Important Update: Azure AD Graph retirement</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-retirement/ba-p/4364990</link>
-      <pubDate>Fri, 27 Jun 2025 17:08:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-retirement/ba-p/4364990</guid>
-      <description>Following a multi-year deprecation notice, the retirement of the Azure AD Graph API service began in September 2024. As of April 2025, any applications still using Azure AD Graph APIs were configured for extended access.&#160;&#160;
-We&#8217;re now entering the next phase of retirement for Azure AD Graph. In this update, we&#8217;ll share more information about the timeline and required actions. We understand that retirements can be disruptive, but this activity is an important part of our commitment to security and programmability for our customers&#8217; tenants.&#160;&#160;
-Key points&#160;
-
-Applications that were configured for ext...</description>
-    </item>
-    <item>
-      <title>Important Update: AzureAD PowerShell retirement</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azuread-powershell-retirement/ba-p/4364989</link>
-      <pubDate>Fri, 27 Jun 2025 17:08:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azuread-powershell-retirement/ba-p/4364989</guid>
-      <description>AzureAD PowerShell was announced as&#160;deprecated in 2023. In this update, we&#8217;ll share more information about the timeline, what to expect, and required actions. We understand that retirements can be disruptive, but this activity is an important part of our commitment to security and programmability for our customers&#8217; tenants.&#160;&#160;
-Key points&#160;
-
-The AzureAD and AzureAD-Preview PowerShell modules will be retired (and stop working) starting in mid-October&#160;2025.&#160;
-You can expect one or more temporary outage tests of 8-24hrs in duration in the month of September 2025. &#160;
-
-It's important to take action now ...</description>
+      <title>New feature in Defender for Storage: Optional Index Tags</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-feature-in-defender-for-storage-optional-index-tags/ba-p/4427987</link>
+      <pubDate>Fri, 27 Jun 2025 18:49:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-feature-in-defender-for-storage-optional-index-tags/ba-p/4427987</guid>
+      <description>If you&#8217;re using Microsoft Defender for Storage to protect your blobs from malware, you probably know that scan results are automatically written to blob index tags. These tags are helpful for querying scan status efficiently and seeing results in near-real time in the blob itself, but for high-frequency scans, those extra writes can add up in cost.
+Now, with our latest update, you have a choice.
+&#160;
+&#127381; What&#8217;s New?
+Starting June 25th, Defender for Storage introduces optional index tags. This means you can disable writing scan results as index tags, while keeping malware scanning fully active and e...</description>
     </item>
   </channel>
 </rss>
