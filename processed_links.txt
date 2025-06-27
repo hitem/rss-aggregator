@@ -592,3 +592,4 @@
 2025-06-26T04:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enabling-extended-security-updates-esu-for-windows-10-with/ba-p/4420182
 2025-06-26T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/modern-unified-data-security-in-the-ai-era-new-capabilities-in/ba-p/4427195
 2025-06-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/oauth-consent-phishing-explained-and-prevented/ba-p/4423357
+2025-06-27T11:02:18 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-138/ba-p/4427877
