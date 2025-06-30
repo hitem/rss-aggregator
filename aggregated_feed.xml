@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Jun 2025 00:45:29 GMT</lastBuildDate>
-    <item>
-      <title>Readership Survey Results for Microsoft Entra Blog</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/readership-survey-results-for-microsoft-entra-blog/ba-p/4422971</link>
-      <pubDate>Mon, 30 Jun 2025 00:36:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/readership-survey-results-for-microsoft-entra-blog/ba-p/4422971</guid>
-      <description>&#128588; We value your feedback
-Earlier this year, we launched our first Microsoft Entra blog reader survey. Nearly 50 people took the time to give us feedback, and 94% were satisfied with our content. We also received helpful feedback about what types of articles are preferred, the roles our readers hold, and both positive and critical feedback. THANK YOU!&#160;
-We'll use your feedback to continue to serve you helpful information and keep you up-to-date with Microsoft Entra.&#160; An overview of the survey results is below.
-&#127775; Product information is valued most highly
-In the survey, readers were asked about wh...</description>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 02:46:31 GMT</lastBuildDate>
   </channel>
 </rss>
