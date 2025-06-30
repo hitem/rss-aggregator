@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Jun 2025 04:23:16 GMT</lastBuildDate>
-    <item>
-      <title>Azure Arc and Defender for Servers: Connectivity and Monitoring Script</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-arc-and-defender-for-servers-connectivity-and-monitoring/ba-p/4428271</link>
-      <pubDate>Mon, 30 Jun 2025 03:47:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-arc-and-defender-for-servers-connectivity-and-monitoring/ba-p/4428271</guid>
-      <description>2. Overview of Defender for Servers
-Microsoft Defender for Servers is a plan within Microsoft Defender for Cloud that provides advanced threat protection for Windows and Linux servers, whether they are hosted in Azure, on-premises, or in other cloud environments. It includes capabilities such as endpoint detection and response (EDR), vulnerability assessment, file integrity monitoring, and adaptive application controls. Defender for Servers integrates with Microsoft Defender for Endpoint to provide unified security management and threat detection.
-For more information on Defender for servers v...</description>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 05:11:52 GMT</lastBuildDate>
   </channel>
 </rss>
