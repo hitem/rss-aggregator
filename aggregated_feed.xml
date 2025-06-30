@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Jun 2025 16:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 17:07:31 GMT</lastBuildDate>
+    <item>
+      <title>Protection Against Email Bombs with Microsoft Defender for Office 365</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protection-against-email-bombs-with-microsoft-defender-for/ba-p/4418048</link>
+      <pubDate>Mon, 30 Jun 2025 16:31:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protection-against-email-bombs-with-microsoft-defender-for/ba-p/4418048</guid>
+      <description>In today's digital age, email remains a critical communication tool for businesses and individuals. However, with the increasing sophistication of cyberattacks, email security has become more important than ever. One such threat that has been growing is the email bombing, a form of net abuse that sends large volumes of email to an address to overflow the mailbox, overwhelm the server, or distract attention from important email messages indicating a security breach. Email bomb - Wikipedia&#160;
+
+Understanding Email Bombing&#160;
+Email bombing, typically involves subscribing victims to a large number of l...</description>
+    </item>
   </channel>
 </rss>
