@@ -592,3 +592,4 @@
 2025-06-27T17:08:03 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azuread-powershell-retirement/ba-p/4364989
 2025-06-27T17:08:42 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/important-update-azure-ad-graph-retirement/ba-p/4364990
 2025-06-27T18:49:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-feature-in-defender-for-storage-optional-index-tags/ba-p/4427987
+2025-06-30T00:36:53 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/readership-survey-results-for-microsoft-entra-blog/ba-p/4422971
