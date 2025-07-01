@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Jul 2025 12:16:04 GMT</lastBuildDate>
-    <item>
-      <title>Submissions Response Using AI for Enhanced Result Explainability</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/submissions-response-using-ai-for-enhanced-result-explainability/ba-p/4423843</link>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/submissions-response-using-ai-for-enhanced-result-explainability/ba-p/4423843</guid>
-      <description>We are pleased to announce that Microsoft Defender for Office 365 now features large language model (LLM)-powered responses within the submission workflow. This update provides security and Exchange admins with clear, actionable insights into the reasons behind the classification of each submission whether as spam, phishing, bulk, or clean - enabling more informed decision-making and response.&#160;
-What's new?
-Historically, submission results such as Threats found or No threats found have provided limited insight into the reasoning behind classification decisions. The implementation of AI-LLM-base...</description>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 13:25:35 GMT</lastBuildDate>
   </channel>
 </rss>
