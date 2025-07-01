@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 01 Jul 2025 16:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 17:08:19 GMT</lastBuildDate>
+    <item>
+      <title>Planning your move to Microsoft Defender portal for all Microsoft Sentinel customers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4428613</link>
+      <pubDate>Tue, 01 Jul 2025 16:29:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4428613</guid>
+      <description>In November 2023, Microsoft announced our strategy to unify security operations by bringing the best of XDR and SIEM together. Our first step was bringing Microsoft Sentinel into the Microsoft Defender portal, giving teams a single, comprehensive view of incidents, reducing queue management, enriching threat intel, streamlining response and enabling SOC teams to take advantage of Gen AI in their day-to-day workflow. Since then, considerable progress has been made with thousands of customers using this new unified experience; to enhance the value customers gain when using Sentinel in the Defend...</description>
+    </item>
   </channel>
 </rss>
