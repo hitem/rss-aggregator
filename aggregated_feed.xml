@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 02 Jul 2025 17:08:53 GMT</lastBuildDate>
-    <item>
-      <title>Register today for the Microsoft Entra Suite Summer Camp</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/register-today-for-the-microsoft-entra-suite-summer-camp/ba-p/4427990</link>
-      <pubDate>Wed, 02 Jul 2025 17:08:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/register-today-for-the-microsoft-entra-suite-summer-camp/ba-p/4427990</guid>
-      <description>This summer, we&#8217;re inviting security leaders and identity and network professionals to join us for a week of webinars designed to get a hands-on look at the latest innovations in the Microsoft Entra Suite.
-The Microsoft Entra Suite Summer Camp is your opportunity to explore what&#8217;s new across the Suite&#8212;including product updates we will be announcing that week&#8212;and see how to deploy them in real-world scenarios. Each session will highlight new features, live demos and an expert campfire Q&amp;A to help you move from planning to deployment with ease.
-Register now for the Microsoft Entra Suite Summer C...</description>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 18:12:14 GMT</lastBuildDate>
   </channel>
 </rss>
