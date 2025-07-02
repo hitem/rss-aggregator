@@ -593,3 +593,4 @@
 2025-07-01T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/submissions-response-using-ai-for-enhanced-result-explainability/ba-p/4423843
 2025-07-01T16:29:49 https://techcommunity.microsoft.com/t5/microsoft-security-community/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4428613
 2025-07-01T21:57:37 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-june-2025/ba-p/4352579
+2025-07-02T09:02:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2025/ba-p/4428862
