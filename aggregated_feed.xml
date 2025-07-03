@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 03 Jul 2025 06:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 07:10:27 GMT</lastBuildDate>
+    <item>
+      <title>Automating Enriched DDoS Alerts Using Logic Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/automating-enriched-ddos-alerts-using-logic-apps/ba-p/4429585</link>
+      <pubDate>Thu, 03 Jul 2025 06:50:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/automating-enriched-ddos-alerts-using-logic-apps/ba-p/4429585</guid>
+      <description>In today&#8217;s digital world, Distributed Denial of Service (DDoS) attacks have become one of the most common and disruptive threats facing online applications and services. These attacks aim to overwhelm a target, typically a website, API, or server, by flooding it with massive volumes of traffic, rendering it slow or completely inaccessible.
+Azure DDoS Protection is Microsoft's cloud-native defense that helps safeguard public-facing endpoints hosted in Azure. It works by continuously monitoring traffic patterns at the network layer (L3 and L4) and applying mitigation techniques in real time when...</description>
+    </item>
   </channel>
 </rss>
