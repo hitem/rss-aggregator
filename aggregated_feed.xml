@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 03 Jul 2025 15:09:02 GMT</lastBuildDate>
-    <item>
-      <title>Search and Purge workflow in the new modern eDiscovery experience</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/search-and-purge-workflow-in-the-new-modern-ediscovery/ba-p/4427952</link>
-      <pubDate>Thu, 03 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/search-and-purge-workflow-in-the-new-modern-ediscovery/ba-p/4427952</guid>
-      <description>&#160;
-With the retirement of Content Search (Classic) and eDiscovery Standard (Classic) in May, and alongside the future retirement of eDiscovery Premium (Classic) in August, organizations may be wondering how this will impact their existing search and purge workflow.
-The good news is that it will not impact your organizations ability to search for and purge email, Teams and M365 Copilot messages; however there are some additional points to be careful about when working with purge with cmdlet and Graph alongside of the modern eDiscovery experience.
-We have made some recent updates to our documenta...</description>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 16:10:26 GMT</lastBuildDate>
   </channel>
 </rss>
