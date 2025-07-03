@@ -595,3 +595,4 @@
 2025-07-02T09:02:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2025/ba-p/4428862
 2025-07-02T17:08:47 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/register-today-for-the-microsoft-entra-suite-summer-camp/ba-p/4427990
 2025-07-03T06:50:48 https://techcommunity.microsoft.com/t5/azure-network-security-blog/automating-enriched-ddos-alerts-using-logic-apps/ba-p/4429585
+2025-07-03T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/search-and-purge-workflow-in-the-new-modern-ediscovery/ba-p/4427952
