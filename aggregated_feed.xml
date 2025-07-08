@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Jul 2025 11:08:26 GMT</lastBuildDate>
-    <item>
-      <title>Introducing Summary Rules Templates: Streamlining Data Aggregation in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-summary-rules-templates-streamlining-data/ba-p/4428779</link>
-      <pubDate>Tue, 08 Jul 2025 10:24:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-summary-rules-templates-streamlining-data/ba-p/4428779</guid>
-      <description>As organizations continue to scale their security operations, managing the volume and cost of data ingestion becomes increasingly critical. Microsoft Sentinel&#8217;s new Summary Rules Templates offer a structured and efficient approach to aggregating verbose data - enabling security teams to extract meaningful insights while optimizing resource usage.
-What Are Summary Rules?
-Summary rules are designed to aggregate high-volume, verbose logs into concise, structured outputs. These outputs are routed to analytics logs, where they can be leveraged for detection, investigation, and reporting. By summari...</description>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 12:15:59 GMT</lastBuildDate>
   </channel>
 </rss>
