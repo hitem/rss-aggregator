@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Jul 2025 16:10:41 GMT</lastBuildDate>
-    <item>
-      <title>Search and Purge using the Security and Compliance PowerShell cmdlets</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/search-and-purge-using-the-security-and-compliance-powershell/ba-p/4429472</link>
-      <pubDate>Tue, 08 Jul 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/search-and-purge-using-the-security-and-compliance-powershell/ba-p/4429472</guid>
-      <description>Welcome back to the series of blogs covering search and purge in Microsoft Purview eDiscovery!
-If you are new to this series, please first visit the blog post in our series that you can find here: Search and Purge workflow in the new modern eDiscovery experience.
-Also please ensure you read in full the Microsoft Learn documentation on this topic as I will not be covering some of the steps in full (permissions, releasing holds, all limitations): Find and delete email messages in eDiscovery | Microsoft Learn
-So as a reminder, E3/G3 customers must use the Security and Compliance PowerShell cmdlet...</description>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 17:08:57 GMT</lastBuildDate>
   </channel>
 </rss>
