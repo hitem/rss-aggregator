@@ -3,6 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 08 Jul 2025 23:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 00:43:32 GMT</lastBuildDate>
+    <item>
+      <title>Securing Kubernetes Applications with Ingress Controller and Content Security Policy</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-kubernetes-applications-with-ingress-controller-and/ba-p/4431410</link>
+      <pubDate>Wed, 09 Jul 2025 00:15:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-kubernetes-applications-with-ingress-controller-and/ba-p/4431410</guid>
+      <description>In this guide, we&#8217;ll walk through an end-to-end example showing how to:
+
+Install the NGINX Ingress Controller as a DaemonSet
+Configure it to automatically inject a Content Security Policy (CSP) header
+Deploy a simple &#8220;Hello World&#8221; NGINX app (myapp)
+Tie everything together with an Ingress resource that routes traffic and verifies CSP
+
+By the end, you&#8217;ll have a pattern where:
+
+Every request to your application carries a strong CSP header
+Your application code remains unchanged (CSP is injected at the gateway layer)
+You can test both inside the cluster and externally to confirm CSP is enforced
+
+W...</description>
+    </item>
   </channel>
 </rss>
