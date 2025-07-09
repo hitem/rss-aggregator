@@ -598,3 +598,4 @@
 2025-07-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/search-and-purge-using-the-security-and-compliance-powershell/ba-p/4429472
 2025-07-09T00:15:36 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-kubernetes-applications-with-ingress-controller-and/ba-p/4431410
 2025-07-09T08:44:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-entra-external-id/ba-p/4430688
+2025-07-09T16:48:01 https://techcommunity.microsoft.com/t5/microsoft-security-community/comprehensive-guide-to-dlp-policy-tips/ba-p/4431424

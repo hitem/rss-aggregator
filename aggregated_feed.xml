@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 09 Jul 2025 16:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 17:10:25 GMT</lastBuildDate>
+    <item>
+      <title>Comprehensive Guide to DLP Policy Tips</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/comprehensive-guide-to-dlp-policy-tips/ba-p/4431424</link>
+      <pubDate>Wed, 09 Jul 2025 16:48:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/comprehensive-guide-to-dlp-policy-tips/ba-p/4431424</guid>
+      <description>Feature Support and Compatibility
+Q: Which Outlook clients support DLP Policy Tips?
+A: DLP policy tips are supported across several Outlook clients, but the experience and capabilities vary depending on the end user&#8217;s client version and the Microsoft 365 license (E3 vs. E5). For detailed guidance on policy tip support across Microsoft apps, read more here.
+Below is a breakdown of policy tip support across Outlook clients:
+Figure 1: Breakdown of policy tip support across Outlook clients
+Glossary:
+
+Basic Policy Tip Support: Display of simple warnings or notifications based on DLP rules.
+Top 10 P...</description>
+    </item>
   </channel>
 </rss>
