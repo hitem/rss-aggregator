@@ -3,6 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Jul 2025 14:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 15:09:37 GMT</lastBuildDate>
+    <item>
+      <title>Planning your move to Microsoft Defender portal for all Microsoft Sentinel customers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4432055</link>
+      <pubDate>Thu, 10 Jul 2025 14:31:49 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4432055</guid>
+      <description>Microsoft Sentinel is moving to the Microsoft Defender portal to deliver a unified, AI-powered security operations experience. Many customers have already made the move. Learn how to plan your transition and take advantage of new capabilities in the&#160;full blog post.</description>
+    </item>
+    <item>
+      <title>Creating Custom Intune Reports with Microsoft Graph API</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-custom-intune-reports-with-microsoft-graph-api/ba-p/4431346</link>
+      <pubDate>Thu, 10 Jul 2025 14:15:38 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-custom-intune-reports-with-microsoft-graph-api/ba-p/4431346</guid>
+      <description>&#160;
+
+Systems administrators often need to be able to report on data that is not available in the native reports in the Intune console. In many cases this data is available to them through Microsoft Graph. However, in some instances administrators may need to pull data from other sources or store it for tracking trends over time. For example, generating a custom dashboard to track Windows 365 license costs requires pulling data from Microsoft Graph and combining it with licensing details that are not available in Graph, but may be stored in another location (an IT Asset Management Tool for exampl...</description>
+    </item>
   </channel>
 </rss>
