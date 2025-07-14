@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Jul 2025 15:09:44 GMT</lastBuildDate>
-    <item>
-      <title>Automating Watchlists in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-watchlists-in-microsoft-sentinel/ba-p/4432054</link>
-      <pubDate>Mon, 14 Jul 2025 14:48:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-watchlists-in-microsoft-sentinel/ba-p/4432054</guid>
-      <description>Introduction
-A huge thank you to MariaSousaValadas&#8203; for contributing and reviewing this post
-In a SIEM you may need to upload data for correlation, such as high value assets, IP ranges from your offices, information about terminated employees, etc. This data is usually in external files.
-In Microsoft Sentinel, this can be easily done through Watchlists, a feature that allows uploading local CSV files or CSV files stored in a storage account. While you can do this from the portal, you can also automate it using APIs. To read more about watchlists, check Watchlists in Microsoft Sentinel - Micros...</description>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 16:10:38 GMT</lastBuildDate>
   </channel>
 </rss>
