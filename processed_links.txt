@@ -590,3 +590,4 @@
 2025-07-09T16:48:01 https://techcommunity.microsoft.com/t5/microsoft-security-community/comprehensive-guide-to-dlp-policy-tips/ba-p/4431424
 2025-07-10T14:15:38 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-custom-intune-reports-with-microsoft-graph-api/ba-p/4431346
 2025-07-10T14:31:49 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4432055
+2025-07-14T14:48:57 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-watchlists-in-microsoft-sentinel/ba-p/4432054
