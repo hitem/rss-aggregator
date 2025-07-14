@@ -592,3 +592,5 @@
 2025-07-10T14:31:49 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4432055
 2025-07-14T14:48:57 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-watchlists-in-microsoft-sentinel/ba-p/4432054
 2025-07-14T17:00:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/smarter-identity-security-starts-with-ai/ba-p/4429001
+2025-07-14T17:27:29 https://techcommunity.microsoft.com/t5/microsoft-security-community/fishing-for-syslog-with-azure-kubernetes-and-logstash/ba-p/4431809
+2025-07-14T17:36:16 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-matters/ba-p/4432149

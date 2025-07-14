@@ -3,17 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Jul 2025 17:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 18:13:09 GMT</lastBuildDate>
     <item>
-      <title>Smarter identity security starts with AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/smarter-identity-security-starts-with-ai/ba-p/4429001</link>
-      <pubDate>Mon, 14 Jul 2025 17:00:30 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/smarter-identity-security-starts-with-ai/ba-p/4429001</guid>
-      <description>Howdy folks!
-I&#8217;m happy to share that two powerful, AI-driven capabilities in Microsoft Entra are now generally available &#8211; both of which are designed to help you work smarter, reduce risk, and simplify how you manage identity and access:
-
-Conditional Access Optimization Agent in&#160;Microsoft Entra&#160;&#8212; This agent scans your tenant daily for policy gaps as new users and applications come online. It offers precise, one-click remediations so you can keep policies up to date without the overhead.
-Security Copilot in Microsoft Entra&#160;&#8212; You can now interact with Copilot in Entra to investigate threats, man...</description>
+      <title>Cloud forensics: Why enabling Microsoft Azure Key Vaults matters</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-matters/ba-p/4432149</link>
+      <pubDate>Mon, 14 Jul 2025 17:36:16 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-matters/ba-p/4432149</guid>
+      <description>Co-authors - Christoph Dreymann&#160; -&#160; Abul Azed&#160; -&#160; Shiva P.
+Introduction
+As organizations increase their cloud adoption to accelerate AI readiness, Microsoft Incident Response has observed the rise of cloud-based threats as attackers seek to access sensitive data and exploit vulnerabilities stemming from misconfigurations often caused by rapid deployments. In this blog series, Cloud Forensics, we share insights from our frontline investigations to help organizations better understand the evolving threat landscape and implement effective strategies to protect their cloud environments.
+This blog ...</description>
+    </item>
+    <item>
+      <title>Fishing for Syslog with Azure Kubernetes and Logstash</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/fishing-for-syslog-with-azure-kubernetes-and-logstash/ba-p/4431809</link>
+      <pubDate>Mon, 14 Jul 2025 17:27:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/fishing-for-syslog-with-azure-kubernetes-and-logstash/ba-p/4431809</guid>
+      <description>Deploy Secure Syslog Collection on Azure Kubernetes Service with Terraform
+Organizations managing distributed infrastructure face a common challenge: collecting syslog data securely and reliably from various sources. Whether you're aggregating logs from network devices, Linux servers, or applications, you need a solution that scales with your environment while maintaining security standards.
+This post walks through deploying Logstash on Azure Kubernetes Service (AKS) to collect RFC 5425 syslog messages over TLS. The solution uses Terraform for infrastructure automation and forwards collected l...</description>
     </item>
   </channel>
 </rss>
