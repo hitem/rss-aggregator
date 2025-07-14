@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Jul 2025 16:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 17:09:56 GMT</lastBuildDate>
+    <item>
+      <title>Smarter identity security starts with AI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/smarter-identity-security-starts-with-ai/ba-p/4429001</link>
+      <pubDate>Mon, 14 Jul 2025 17:00:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/smarter-identity-security-starts-with-ai/ba-p/4429001</guid>
+      <description>Howdy folks!
+I&#8217;m happy to share that two powerful, AI-driven capabilities in Microsoft Entra are now generally available &#8211; both of which are designed to help you work smarter, reduce risk, and simplify how you manage identity and access:
+
+Conditional Access Optimization Agent in&#160;Microsoft Entra&#160;&#8212; This agent scans your tenant daily for policy gaps as new users and applications come online. It offers precise, one-click remediations so you can keep policies up to date without the overhead.
+Security Copilot in Microsoft Entra&#160;&#8212; You can now interact with Copilot in Entra to investigate threats, man...</description>
+    </item>
   </channel>
 </rss>
