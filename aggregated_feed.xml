@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Jul 2025 16:10:58 GMT</lastBuildDate>
-    <item>
-      <title>Cloud forensics: Why enabling Microsoft Azure Key Vault logs matters</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vault-logs/ba-p/4432149</link>
-      <pubDate>Tue, 15 Jul 2025 15:53:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vault-logs/ba-p/4432149</guid>
-      <description>Co-authors - Christoph Dreymann&#160; -&#160; Abul Azed&#160; -&#160; Shiva P.
-Introduction
-As organizations increase their cloud adoption to accelerate AI readiness, Microsoft Incident Response has observed the rise of cloud-based threats as attackers seek to access sensitive data and exploit vulnerabilities stemming from misconfigurations often caused by rapid deployments. In this blog series, Cloud Forensics, we share insights from our frontline investigations to help organizations better understand the evolving threat landscape and implement effective strategies to protect their cloud environments.
-This blog ...</description>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 17:08:18 GMT</lastBuildDate>
   </channel>
 </rss>
