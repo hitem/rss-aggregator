@@ -594,3 +594,4 @@
 2025-07-14T17:27:29 https://techcommunity.microsoft.com/t5/microsoft-security-community/fishing-for-syslog-with-azure-kubernetes-and-logstash/ba-p/4431809
 2025-07-14T17:36:16 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-matters/ba-p/4432149
 2025-07-15T13:18:19 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-logs/ba-p/4432149
+2025-07-15T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-and-govern-ai-apps-and-agents-with-microsoft-purview/ba-p/4429925

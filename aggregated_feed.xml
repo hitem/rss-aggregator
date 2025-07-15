@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Jul 2025 14:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 15:08:28 GMT</lastBuildDate>
+    <item>
+      <title>Secure and govern AI apps and agents with Microsoft Purview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-and-govern-ai-apps-and-agents-with-microsoft-purview/ba-p/4429925</link>
+      <pubDate>Tue, 15 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-and-govern-ai-apps-and-agents-with-microsoft-purview/ba-p/4429925</guid>
+      <description>The Microsoft Purview family is here to help you secure and govern data across third party IaaS and Saas, multi-platform data environment, while helping you meet compliance requirements you may be subject to. Purview brings simplicity with a comprehensive set of solutions built on a platform of shared capabilities, that helps keep your most important asset, data, safe.
+&#160;
+Figure 1: Microsoft Purview discovers, protects, and governs your data
+With the introduction of AI technology, Purview also expanded its data coverage to include discovering, protecting, and governing the interactions of AI ap...</description>
+    </item>
   </channel>
 </rss>
