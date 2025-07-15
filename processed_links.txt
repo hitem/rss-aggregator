@@ -596,3 +596,4 @@
 2025-07-15T13:18:19 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-logs/ba-p/4432149
 2025-07-15T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-and-govern-ai-apps-and-agents-with-microsoft-purview/ba-p/4429925
 2025-07-15T15:53:09 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vault-logs/ba-p/4432149
+2025-07-15T17:28:49 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-four-new-regulatory-frameworks/ba-p/4433440
