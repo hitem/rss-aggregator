@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Jul 2025 18:12:55 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud Adds Four New Regulatory Frameworks</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-four-new-regulatory-frameworks/ba-p/4433440</link>
-      <pubDate>Tue, 15 Jul 2025 17:28:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-four-new-regulatory-frameworks/ba-p/4433440</guid>
-      <description>As organizations accelerate their digital transformation and embrace artificial intelligence (AI) across industries, the regulatory landscape is evolving just as rapidly. From financial resilience to responsible AI governance, enterprises are under increasing pressure to demonstrate compliance with a growing number of global standards across multiple cloud platforms.
-At Microsoft, we are committed to helping customers meet these challenges with integrated, scalable, and intelligent security solutions. Today, we&#8217;re excited to announce the public preview of four new regulatory frameworks in Micr...</description>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 19:09:14 GMT</lastBuildDate>
   </channel>
 </rss>
