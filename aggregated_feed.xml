@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 16 Jul 2025 18:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 19:08:49 GMT</lastBuildDate>
+    <item>
+      <title>Your cluster, your rules: Helm support for container security with Microsoft Defender for Cloud</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-cluster-your-rules-helm-support-for-container-security-with/ba-p/4433842</link>
+      <pubDate>Wed, 16 Jul 2025 19:01:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-cluster-your-rules-helm-support-for-container-security-with/ba-p/4433842</guid>
+      <description>Container security within Microsoft Defender for Cloud has helped security teams protect their Kubernetes workloads with deep visibility, real-time threat detection, and cloud-native runtime protection. Up until now it&#8217;s been delivered via Azure Kubernetes Service (AKS) add-on or Arc for Kubernetes extension, providing a streamlined, fully managed experience, deeply integrated with Azure. But for some teams, especially those operating in complex, multi-cloud environments or with specific operational requirements, this could introduce constraints around customization and deployment.&#160;
+To address...</description>
+    </item>
   </channel>
 </rss>
