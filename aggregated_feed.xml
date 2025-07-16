@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 16 Jul 2025 13:29:32 GMT</lastBuildDate>
-    <item>
-      <title>Automating Microsoft Sentinel: Playbook Fundamentals</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-playbook-fundamentals/ba-p/4424475</link>
-      <pubDate>Wed, 16 Jul 2025 13:25:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-playbook-fundamentals/ba-p/4424475</guid>
-      <description>Welcome to the third entry of our blog series on automating Microsoft Sentinel.
-In this series, we&#8217;re showing you how to automate various aspects of Microsoft Sentinel, from simple automation of Sentinel Alerts and Incidents to more complicated response scenarios with multiple moving parts.&#160; So far, we&#8217;ve covered Part 1: Introduction to Automating Microsoft Sentinel where we talked about why you would want to automate as well as an overview of the different types of automation you can do in Sentinel and Part 2: Automation Rules where we talked about automating the mundane away.
-In this post, w...</description>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 14:09:28 GMT</lastBuildDate>
   </channel>
 </rss>
