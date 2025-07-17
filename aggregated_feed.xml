@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 17 Jul 2025 22:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 23:09:08 GMT</lastBuildDate>
+    <item>
+      <title>Using Copilot in Fabric with Confidence: Data Security, Compliance &amp; Governance with DSPM for AI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/using-copilot-in-fabric-with-confidence-data-security-compliance/ba-p/4434286</link>
+      <pubDate>Thu, 17 Jul 2025 22:21:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/using-copilot-in-fabric-with-confidence-data-security-compliance/ba-p/4434286</guid>
+      <description>Introduction&#160;
+As organizations embrace AI to drive innovation and productivity, ensuring data security, compliance, and governance becomes paramount. Microsoft Fabric&#8217;s Power BI Copilot offers powerful AI-driven insights, but without proper oversight, it can expose sensitive data or violate regulatory requirements.&#160;
+Enter Microsoft Purview&#8217;s Data Security Posture Management (DSPM) for AI&#8212;a unified solution that empowers enterprises to monitor, protect, and govern AI interactions across Microsoft and third-party platforms. This blog explores how Purview DSPM for AI integrates with Fabric Power ...</description>
+    </item>
   </channel>
 </rss>
