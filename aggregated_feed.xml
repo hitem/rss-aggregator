@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 17 Jul 2025 15:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 16:10:45 GMT</lastBuildDate>
+    <item>
+      <title>Discover and govern ChatGPT and other AI apps accessing Microsoft 365 with Defender for Cloud Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-and-govern-chatgpt-and-other-ai-apps-accessing/ba-p/4433435</link>
+      <pubDate>Thu, 17 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-and-govern-chatgpt-and-other-ai-apps-accessing/ba-p/4433435</guid>
+      <description>AI is no longer an emerging trend&#8212;it&#8217;s already embedded in the daily workflows of modern enterprises. Tools like ChatGPT, Gemini, and Claude are transforming the way organizations operate. What began as simple summarization and conversational capabilities have rapidly evolved into intelligent agents capable of executing tasks and making decisions. Many of these AI tools&#8212;including ChatGPT&#8212;now offer connectors to Microsoft 365 and other SaaS platforms. These integrations enable seamless access to business-critical data such as emails, files, calendars, and chats, streamlining productivity across...</description>
+    </item>
   </channel>
 </rss>
