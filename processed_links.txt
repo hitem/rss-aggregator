@@ -599,3 +599,4 @@
 2025-07-16T19:01:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-cluster-your-rules-helm-support-for-container-security-with/ba-p/4433842
 2025-07-17T01:31:49 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-cloud-storage-in-the-age-of-ai/ba-p/4433854
 2025-07-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-and-govern-chatgpt-and-other-ai-apps-accessing/ba-p/4433435
+2025-07-17T17:04:57 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-powering-data-security-and-compliance-for/ba-p/4433522
