@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 17 Jul 2025 02:48:26 GMT</lastBuildDate>
-    <item>
-      <title>Protecting Cloud Storage in the Age of AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-cloud-storage-in-the-age-of-ai/ba-p/4433854</link>
-      <pubDate>Thu, 17 Jul 2025 01:31:49 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-cloud-storage-in-the-age-of-ai/ba-p/4433854</guid>
-      <description>Introduction
-In the age of AI, cloud storage isn&#8217;t just infrastructure, it&#8217;s the foundation of innovation. Generative AI models rely on massive datasets for grounding, model training and fine-tuning, many containing sensitive or proprietary data. If compromised, the damage can be severe: IP theft, privacy violations, or even model poisoning.
-What comes with the importance is the risks of being compromised:
-
-70% of organizations found hidden sensitive data during audits.
-78% struggle with compliance, especially with growing AI and data regulations.
-47% have faced malware in storage, costing $2....</description>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 03:51:27 GMT</lastBuildDate>
   </channel>
 </rss>
