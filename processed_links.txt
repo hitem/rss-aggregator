@@ -597,3 +597,4 @@
 2025-07-15T17:28:49 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-four-new-regulatory-frameworks/ba-p/4433440
 2025-07-16T13:25:03 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-playbook-fundamentals/ba-p/4424475
 2025-07-16T19:01:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-cluster-your-rules-helm-support-for-container-security-with/ba-p/4433842
+2025-07-17T01:31:49 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-cloud-storage-in-the-age-of-ai/ba-p/4433854
