@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 18 Jul 2025 14:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 15:08:42 GMT</lastBuildDate>
+    <item>
+      <title>From social engineering to rogue VMs: The emerging tradecraft in human-directed ransomware attacks</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/from-social-engineering-to-rogue-vms-the-emerging-tradecraft-in/ba-p/4434219</link>
+      <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/from-social-engineering-to-rogue-vms-the-emerging-tradecraft-in/ba-p/4434219</guid>
+      <description>Co-authors - Ateesh Rajak&#160; -&#160; Balaji Venkatesh
+Overview:
+What if an attacker didn&#8217;t need malware, phishing kits, or exploits to break into your environment&#8212;just a convincing voice and a tool you already trust?
+That&#8217;s exactly the play we&#8217;re seeing.
+Ransomware operators and hands-on-keyboard intruders are skipping traditional phishing lures and going straight to the human. By impersonating IT support over&#160;phone or Microsoft Teams, they convince users to launch Microsoft Quick Assist, handing over remote access under the guise of troubleshooting.
+There&#8217;s no payload at this point&#8212; only manipulatio...</description>
+    </item>
   </channel>
 </rss>
