@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 18 Jul 2025 16:12:22 GMT</lastBuildDate>
-    <item>
-      <title>&#8203;&#8203;Microsoft at Black Hat USA 2025: A Unified Approach to Modern Cyber Defense&#8203;&#8203;</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-at-black-hat-usa-2025-a-unified-approach-to-modern/ba-p/4434292</link>
-      <pubDate>Fri, 18 Jul 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-at-black-hat-usa-2025-a-unified-approach-to-modern/ba-p/4434292</guid>
-      <description>Microsoft will be at&#160;Black Hat USA 2025, August 5&#8211;7 in Las Vegas, and we&#8217;re bringing you a unified, practitioner-driven experience built around real-world insights, threat intelligence, incident response, and hands-on AI expertise.&#160;
-We believe security teams are strongest when intelligence, tools, and deep expertise come together. At Microsoft, we&#8217;ve eliminated internal silos between threat intelligence, red teaming, incident response, and product engineering. That closed-loop system lets us move faster, translating threat signals into global protection every day.&#160;&#160;
-This integration isn&#8217;t theo...</description>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 17:11:49 GMT</lastBuildDate>
   </channel>
 </rss>
