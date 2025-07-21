@@ -3,6 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Jul 2025 02:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 04:00:08 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Endpoint (MDE) Live Response and Performance Script.</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-live-response-and/ba-p/4434879</link>
+      <pubDate>Mon, 21 Jul 2025 03:46:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-live-response-and/ba-p/4434879</guid>
+      <description>
+ Importance of MDE Live Response and Scripts
+
+Live Response is crucial for incident response and forensic investigations. It enables analysts to:
+
+Collect evidence remotely.
+Run diagnostics without interrupting users.
+Remediate threats in real time.
+
+For more information on MDE Live Response visit the below documentation.
+Investigate entities on devices using live response in Microsoft Defender for Endpoint - Microsoft Defender for Endpoint | Microsoft Learn
+PowerShell scripts enhance this capability by automating tasks such as:
+
+Performance monitoring.
+Log collection.
+Configuration validatio...</description>
+    </item>
   </channel>
 </rss>

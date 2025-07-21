@@ -600,3 +600,4 @@
 2025-07-17T22:21:40 https://techcommunity.microsoft.com/t5/microsoft-security-community/using-copilot-in-fabric-with-confidence-data-security-compliance/ba-p/4434286
 2025-07-18T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/from-social-engineering-to-rogue-vms-the-emerging-tradecraft-in/ba-p/4434219
 2025-07-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-at-black-hat-usa-2025-a-unified-approach-to-modern/ba-p/4434292
+2025-07-21T03:46:03 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-live-response-and/ba-p/4434879
