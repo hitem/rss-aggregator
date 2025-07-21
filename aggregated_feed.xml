@@ -3,6 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Jul 2025 10:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 11:08:24 GMT</lastBuildDate>
+    <item>
+      <title>Critical SharePoint Exploits Exposed: MDVM Response and Protection Strategy</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/critical-sharepoint-exploits-exposed-mdvm-response-and/ba-p/4435030</link>
+      <pubDate>Mon, 21 Jul 2025 10:48:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/critical-sharepoint-exploits-exposed-mdvm-response-and/ba-p/4435030</guid>
+      <description>Overview
+MDVM is aware of active attacks targeting on-premises SharePoint Server customers:
+
+&#8239;CVE&#8239;
+
+Type&#8239;
+
+&#8239;CVSS&#8239;v3.1&#8239;
+
+&#8239;Patch&#8239;status&#8239;
+
+CVE&#8209;2025&#8209;49704
+
+Improper control of code&#8209;generation &#8594; authenticated RCE
+
+8.8&#8239;(High)&#160;
+
+Fixed in the&#8239;8&#8239;July&#8239;2025 security updates &#8212; Subscription&#8239;Edition&#8239;KB&#8239;5002768, SharePoint&#8239;Server&#8239;2019&#8239;KB&#8239;5002741, SharePoint&#8239;Server&#8239;2016&#8239;KB&#8239;5002744. Microsoft Support
+
+CVE&#8209;2025&#8209;49706
+
+Improper authentication / spoofing
+
+6.3&#8239;(Medium)&#160;
+
+Fixed in the same 8&#8239;July&#8239;2025 updates (KB&#8239;5002768 /&#8239;5002741&#8239;/&#8239;5002744). Microsoft Support
+
+CVE&#8209;2025&#8209;53770
+
+Deserialization of untrusted data &#8594; un...</description>
+    </item>
   </channel>
 </rss>
