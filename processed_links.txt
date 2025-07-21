@@ -602,3 +602,4 @@
 2025-07-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-at-black-hat-usa-2025-a-unified-approach-to-modern/ba-p/4434292
 2025-07-21T03:46:03 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-live-response-and/ba-p/4434879
 2025-07-21T10:48:33 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/critical-sharepoint-exploits-exposed-mdvm-response-and/ba-p/4435030
+2025-07-21T17:01:47 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-threat-detection-and-response-with-linkable/ba-p/4434615

@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 21 Jul 2025 16:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 17:11:13 GMT</lastBuildDate>
+    <item>
+      <title>Strengthen identity threat detection and response with linkable token identifiers</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-threat-detection-and-response-with-linkable/ba-p/4434615</link>
+      <pubDate>Mon, 21 Jul 2025 17:01:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-threat-detection-and-response-with-linkable/ba-p/4434615</guid>
+      <description>We&#8217;re announcing the general availability of linkable token identifiers, which let you trace a user&#8217;s session across workloads from a specific authentication event. This feature improves incident response and anomaly detection, helping mitigate threats like remote phishing and malware attacks. Linkable token identifiers are now available for:
+
+Microsoft Entra sign-in logs
+Microsoft Exchange Online audit logs
+Microsoft Graph activity logs
+Microsoft Teams audit logs
+Microsoft SharePoint Online audit logs
+
+In a case studied by Microsoft Security Research (see&#160;Figure A), an attacker used an Advers...</description>
+    </item>
   </channel>
 </rss>
