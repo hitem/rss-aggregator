@@ -3,37 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Jul 2025 13:30:17 GMT</lastBuildDate>
-    <item>
-      <title>MDTI is Converging into Microsoft Sentinel and Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-is-converging-into-microsoft-sentinel-and-defender-xdr/ba-p/4427991</link>
-      <pubDate>Tue, 22 Jul 2025 13:21:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-is-converging-into-microsoft-sentinel-and-defender-xdr/ba-p/4427991</guid>
-      <description>In today&#8217;s rapidly evolving threat landscape, organizations need threat intelligence (TI) that is woven seamlessly into every step of their security operations&#8212;delivered exactly when and where it matters most. That&#8217;s why Microsoft is converging Microsoft Defender Threat Intelligence (MDTI) directly into Defender XDR and Microsoft Sentinel, which will provide world-class, real-time TI within a unified SecOps experience at no additional cost. This convergence will grant customers access to Microsoft&#8217;s extensive repository of both raw and finished threat intelligence, developed from 84 trillion d...</description>
-    </item>
-    <item>
-      <title>Microsoft Sentinel data lake pricing (preview)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-pricing-preview/ba-p/4433919</link>
-      <pubDate>Tue, 22 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-pricing-preview/ba-p/4433919</guid>
-      <description>This article describes the pricing for the new Microsoft Sentinel data lake billed components in preview. See What is Microsoft Sentinel data lake (preview) to learn more about the data lake, or the&#160;Microsoft Sentinel pricing page for an overview of Microsoft Sentinel pricing.
-Pricing
-
-Important
-The preview pricing below is provided in USD for reference only, based on pricing in the East US region and does not include taxes or currency adjustments. Preview pricing is subject to change, see terms described in our&#160;preview terms.
-
-Starting August 4, 2025, refer to the Microsoft Sentinel pricing p...</description>
-    </item>
-    <item>
-      <title>Introducing Microsoft Sentinel data lake</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-sentinel-data-lake/ba-p/4434280</link>
-      <pubDate>Tue, 22 Jul 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-sentinel-data-lake/ba-p/4434280</guid>
-      <description>&#160;
-&#160;
-&#160;
-&#160;
-Today, we announced a significant expansion of Microsoft Sentinel&#8217;s capabilities through the introduction of Sentinel data lake, now rolling out in public preview. Security teams cannot defend what they cannot see and analyze. With exploding volumes of security data, organizations are struggling to manage costs while maintaining effective threat coverage. Do-it-yourself security data architectures have perpetuated data silos, which in turn have reduced the effectiveness of AI solutions in security operations. With Sentinel data lake, we are taking a major step to address these challeng...</description>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 14:11:57 GMT</lastBuildDate>
   </channel>
 </rss>
