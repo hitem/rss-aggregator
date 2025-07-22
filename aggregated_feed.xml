@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Jul 2025 16:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 17:11:31 GMT</lastBuildDate>
+    <item>
+      <title>Cloud forensics: Why enabling Microsoft Azure Graph Activity logs matters</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-graph-activity-logs/ba-p/4234632</link>
+      <pubDate>Tue, 22 Jul 2025 16:48:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-graph-activity-logs/ba-p/4234632</guid>
+      <description>Introduction
+Microsoft Graph is a unified REST API endpoint that allows you to query data from various sources, including data stored in Microsoft 365. Microsoft Graph provides access to a suite of services including Microsoft 365, Enterprise Mobility + Security, and Windows. In the wrong hands, access to Microsoft Graph API can be misused by threat actors to compromise users; for example, by reading emails or files on SharePoint.
+&#160;
+Responding to and detecting these cloud-based attacks is of utmost priority. Multiple products and logs are available to help with threat investigation and detecti...</description>
+    </item>
   </channel>
 </rss>
