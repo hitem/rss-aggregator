@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 22 Jul 2025 20:10:08 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft 365 E5 Compliance now available as an add-on for Microsoft 365 Business Premium</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-365-e5-compliance-now-available-as-an-add-on-for/ba-p/4435143</link>
-      <pubDate>Tue, 22 Jul 2025 19:17:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-365-e5-compliance-now-available-as-an-add-on-for/ba-p/4435143</guid>
-      <description>Small and medium businesses (SMBs) face growing data security and compliance demands. Microsoft 365 Business Premium is our comprehensive productivity and security solution designed for small and medium-sized businesses (up to 300 users). It includes Office apps, Teams, advanced security (like Defender for Business), and device management, all in one cost-effective package. &#160;
-We&#8217;re excited to announce that starting late August 2025, Microsoft 365 Business Premium customers will be eligible to purchase Microsoft 365 E5 Compliance as an add-on, bringing enterprise-grade capabilities to Microsoft...</description>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 21:08:14 GMT</lastBuildDate>
   </channel>
 </rss>
