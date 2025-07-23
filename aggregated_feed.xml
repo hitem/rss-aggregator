@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 23 Jul 2025 16:11:24 GMT</lastBuildDate>
-    <item>
-      <title>Always-On Diagnostics for Endpoint DLP</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/always-on-diagnostics-for-endpoint-dlp/ba-p/4435551</link>
-      <pubDate>Wed, 23 Jul 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/always-on-diagnostics-for-endpoint-dlp/ba-p/4435551</guid>
-      <description>The Era of "Can You Reproduce That?" is Finally Over&#160;
-Introducing Always-on Diagnostics for Endpoint DLP - because your data security shouldn't feel like detective work. If you've ever managed endpoint data security, you know this story by heart. A critical Endpoint Data Loss Prevention policy fails. You open a support ticket. The response? "Can you reproduce the issue on that endpoint?" Three emails later, you're still collecting logs while your team loses precious time, and the underlying problem remains a mystery.&#160;
-Today, that changes.&#160;
-Why We Built This (And Why It Matters)
-At Microsoft Pu...</description>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 17:12:14 GMT</lastBuildDate>
   </channel>
 </rss>
