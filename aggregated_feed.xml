@@ -3,26 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 24 Jul 2025 18:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 19:09:05 GMT</lastBuildDate>
     <item>
-      <title>Defender for Storage: Malware Scan Error Message Update</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-scan-error-message-update/ba-p/4436304</link>
-      <pubDate>Thu, 24 Jul 2025 18:07:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-scan-error-message-update/ba-p/4436304</guid>
-      <description>Starting August 2025, Defender for Storage will update the format of error messages returned by malware scanning. The new messages will retain the SAM2592XX: codes, but use clearer, standardized wording and will no longer appear in quotes. If your automation relies on the previous message text, please review and update your workflows accordingly.
-Message Format Change
+      <title>Microsoft AI Security Story: Protection Across the Platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-ai-security-story-protection-across-the-platform/ba-p/4435485</link>
+      <pubDate>Thu, 24 Jul 2025 18:14:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-ai-security-story-protection-across-the-platform/ba-p/4435485</guid>
+      <description>&#160;
 
-Previously
-
-After
-
-SAM259201: "Scan failed - internal service error."
-
-SAM259201: Scan failed - internal service error.
-
-SAM259203: "Scan failed - couldn't access the requested blob."
-
-SAM259203: Not scanned - could not access t...</description>
+&#160;
+Recent IDC Study finds that 75% of knowledge workers use Generative AI at work. This can be tools approved by the Enterprise or Publicly available. Although, as organizations leverage AI to enhance productivity and decision-making, risk associated with AI vulnerabilities, data exposure, attacks, and misuse have become increasing targeted. Understanding these challenges, Microsoft has approached AI security with a platform architecture approach. This architecture includes end-to-end coverage across its platform.
+Drew Nicholas and I wrote this blog specifically for the decision makers in th...</description>
     </item>
   </channel>
 </rss>
