@@ -606,3 +606,4 @@
 2025-07-22T19:17:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-365-e5-compliance-now-available-as-an-add-on-for/ba-p/4435143
 2025-07-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/always-on-diagnostics-for-endpoint-dlp/ba-p/4435551
 2025-07-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/automate-bulk-metadata-updates-in-microsoft-purview-data-map/ba-p/4435882
+2025-07-24T18:07:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-scan-error-message-update/ba-p/4436304
