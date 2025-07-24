@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 24 Jul 2025 15:09:08 GMT</lastBuildDate>
-    <item>
-      <title>Automate bulk metadata updates in Microsoft Purview Data Map using Azure Functions and AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/automate-bulk-metadata-updates-in-microsoft-purview-data-map/ba-p/4435882</link>
-      <pubDate>Thu, 24 Jul 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/automate-bulk-metadata-updates-in-microsoft-purview-data-map/ba-p/4435882</guid>
-      <description>Automate and streamline bulk metadata updates in Microsoft Purview Data Map using serverless Azure Functions. Enhance accuracy and efficiency by integrating AI for intelligent metadata extraction and mapping.
-To automate metadata updates, the solution leverages:
-
-Azure Functions: Serverless compute to execute update logic on a schedule or event.
-Microsoft Purview REST API: Enables programmatic access to search, update, and manage metadata assets.
-Managed Identity: Allows secure, password-less authentication to Microsoft Purview and other Azure resources.
-
-&#160;
-This architecture eliminates the nee...</description>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 16:10:41 GMT</lastBuildDate>
   </channel>
 </rss>
