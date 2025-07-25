@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Jul 2025 22:08:19 GMT</lastBuildDate>
-    <item>
-      <title>Securing Containerized Applications with Application Gateway for Containers and Azure WAF</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/securing-containerized-applications-with-application-gateway-for/ba-p/4436751</link>
-      <pubDate>Fri, 25 Jul 2025 21:51:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/securing-containerized-applications-with-application-gateway-for/ba-p/4436751</guid>
-      <description>&#160;
-Azure Application Gateway for Containers&#160;is a modern, Kubernetes-native Layer 7 load balancer designed to manage ingress traffic for containerized applications running in Azure Kubernetes Service (AKS). Application Gateway for Containers is the evolution of the Application Gateway Ingress Controller (AGIC), and introduces a new control and data plane architecture, enabling near-instant updates to routes, probes, and backend pods. It supports features like traffic splitting, mutual TLS, header-based routing and increased performance&#8212;making it ideal for microservices and multi-tenant environme...</description>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 23:08:49 GMT</lastBuildDate>
   </channel>
 </rss>
