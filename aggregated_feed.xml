@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Jul 2025 07:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 08:12:57 GMT</lastBuildDate>
+    <item>
+      <title>Draft and deploy - Azure Firewall policy changes [Preview]</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/draft-and-deploy-azure-firewall-policy-changes-preview/ba-p/4435499</link>
+      <pubDate>Fri, 25 Jul 2025 08:11:21 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/draft-and-deploy-azure-firewall-policy-changes-preview/ba-p/4435499</guid>
+      <description>In today&#8217;s cloud-centric digital landscape, maintaining secure and scalable network infrastructure is essential for enterprises navigating dynamic workloads and compliance demands. Azure Firewall, Microsoft&#8217;s fully managed, cloud-native service, offers robust security capabilities including stateful packet inspection, advanced threat prevention, autoscaling, and centralized policy enforcement across distributed Azure environments. To further simplify policy administration, the recently introduced draft and deploy feature enables security teams to safely edit firewall policies in a staging envi...</description>
+    </item>
   </channel>
 </rss>
