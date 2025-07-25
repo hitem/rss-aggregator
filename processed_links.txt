@@ -609,3 +609,4 @@
 2025-07-24T18:07:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-scan-error-message-update/ba-p/4436304
 2025-07-24T18:14:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-ai-security-story-protection-across-the-platform/ba-p/4435485
 2025-07-25T08:11:21 https://techcommunity.microsoft.com/t5/azure-network-security-blog/draft-and-deploy-azure-firewall-policy-changes-preview/ba-p/4435499
+2025-07-25T21:51:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/securing-containerized-applications-with-application-gateway-for/ba-p/4436751
