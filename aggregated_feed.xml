@@ -3,6 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Jul 2025 18:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 19:11:01 GMT</lastBuildDate>
+    <item>
+      <title>Agentless code scanning for GitHub and Azure DevOps (preview)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-code-scanning-for-github-and-azure-devops-preview/ba-p/4433538</link>
+      <pubDate>Mon, 28 Jul 2025 18:59:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-code-scanning-for-github-and-azure-devops-preview/ba-p/4433538</guid>
+      <description>
+&#160;&#128640; Start free preview  &#160;&#9654;&#65039; Watch a video on agentless code scanning
+
+
+
+Most security teams want to shift left. But for many developers, "shift left" sounds like "shift pain". Coordination. YAML edits with extra pipeline steps. Build slowdowns. More friction while they're trying to go fast.
+
+
+
+
+&#129691;
+Pipeline friction
+YAML edits with extra steps
+
+
+&#9201;&#65039;
+Build slowdowns
+More friction, less speed
+
+
+&#129513;
+Complex coordination
+Too many moving parts
+
+
+
+
+That's the tension we wanted to solve.
+With agentless code scanning in Defender for Cloud, you get broad visibility into code and infrastructure risks across ...</description>
+    </item>
   </channel>
 </rss>
