@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Jul 2025 15:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 16:11:14 GMT</lastBuildDate>
+    <item>
+      <title>AI Security Essentials: What Companies Worry About and How Microsoft Helps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-security-essentials-what-companies-worry-about-and-how/ba-p/4436639</link>
+      <pubDate>Mon, 28 Jul 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-security-essentials-what-companies-worry-about-and-how/ba-p/4436639</guid>
+      <description>Across industries, the integration of artificial intelligence raises several important considerations for organisations. These include security and privacy, regulatory compliance, ethical factors, and compatibility with existing IT systems. There are also questions around the long-term impact on employees, transparency and interpretability of AI models, and the management of data quality and governance. Mitigating these concerns is essential for the responsible deployment and successful use of AI within business environments.
+Summary of Main Concerns When Adopting AI
+Figure 1: Summary of main ...</description>
+    </item>
   </channel>
 </rss>
