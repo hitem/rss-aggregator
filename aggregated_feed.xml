@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 29 Jul 2025 13:32:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 14:13:50 GMT</lastBuildDate>
+    <item>
+      <title>Determine Onboarding Methods in Defender for Endpoint - Part 1</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-onboarding-methods-in-defender-for-endpoint-part-1/ba-p/4437782</link>
+      <pubDate>Tue, 29 Jul 2025 14:00:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-onboarding-methods-in-defender-for-endpoint-part-1/ba-p/4437782</guid>
+      <description>Onboarding Methods
+Devices can be onboard using the following methods:
+
+Local Script: This method is ideal for smaller-scale deployments or proof-of-concept (PoC) scenarios.
+Group Policy (GPO): Suitable for onboarding on-premises devices exclusively.
+Microsoft Configuration Manager (MCM): A scalable option for managing large device fleets.
+MDM/Intune: Perfect for Mobile Device Management suites, enabling large-scale device onboarding.
+VDI scripts for non-persistent devices: This method is not covered in this article.
+
+Best Practices and Insights
+After devices are onboarded, we can track how ea...</description>
+    </item>
   </channel>
 </rss>
