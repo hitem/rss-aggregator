@@ -3,15 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Jul 2025 22:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 23:09:02 GMT</lastBuildDate>
     <item>
-      <title>Graph RAG for Security: Insights from a Microsoft Intern</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/graph-rag-for-security-insights-from-a-microsoft-intern/ba-p/4437624</link>
-      <pubDate>Wed, 30 Jul 2025 21:13:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/graph-rag-for-security-insights-from-a-microsoft-intern/ba-p/4437624</guid>
-      <description>In Gartner&#8217;s 2024 Impact Radar, Knowledge Graphs were highlighted as a transformative technology&#8212;on par with Generative AI.&#160;With&#160;Gartner&#160;predicting&#160;that&#160;AI agents&#160;will&#160;augment or automate 50% of business decisions by 2027, I was curious to see how graph-based reasoning could be applied to cybersecurity.&#160;
-What is&#160;Retrieval Augmented Generation (RAG)?&#160;
-Retrieval-Augmented Generation (RAG) is a&#160;process&#160;that enhances large language models (LLMs) by&#160;including&#160;relevant&#160;information&#160;from a knowledge base&#160;in&#160;its&#160;responses.&#160;RAG is&#160;especially useful&#160;when reasoning over company-specific or&#160;internal&#160;docume...</description>
+      <title>A fresh look for the Microsoft authentication background</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/a-fresh-look-for-the-microsoft-authentication-background/ba-p/4435199</link>
+      <pubDate>Wed, 30 Jul 2025 22:58:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/a-fresh-look-for-the-microsoft-authentication-background/ba-p/4435199</guid>
+      <description>Authentication is often the first touchpoint users have with their organization, and it sets the tone for everything that follows. To align with modern design principles and meet evolving user expectations, we&#8217;re reimagining the Microsoft Entra sign-in experience with a user- and customer-driven lens, starting with a refreshed default background for all Microsoft authentication screens. This change is a visible result of our modernization journey for Microsoft Entra and a steppingstone to broader consistency across the personal and Microsoft Entra authentication experiences.
+Megna Kokkalera, P...</description>
     </item>
   </channel>
 </rss>
