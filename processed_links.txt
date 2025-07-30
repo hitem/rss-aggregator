@@ -608,3 +608,4 @@
 2025-07-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-security-essentials-what-companies-worry-about-and-how/ba-p/4436639
 2025-07-28T18:59:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-code-scanning-for-github-and-azure-devops-preview/ba-p/4433538
 2025-07-29T14:00:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-onboarding-methods-in-defender-for-endpoint-part-1/ba-p/4437782
+2025-07-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-and-the-future-of-identity-what-s-on-the-minds-of-your/ba-p/4436815
