@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Jul 2025 23:09:02 GMT</lastBuildDate>
-    <item>
-      <title>A fresh look for the Microsoft authentication background</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/a-fresh-look-for-the-microsoft-authentication-background/ba-p/4435199</link>
-      <pubDate>Wed, 30 Jul 2025 22:58:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/a-fresh-look-for-the-microsoft-authentication-background/ba-p/4435199</guid>
-      <description>Authentication is often the first touchpoint users have with their organization, and it sets the tone for everything that follows. To align with modern design principles and meet evolving user expectations, we&#8217;re reimagining the Microsoft Entra sign-in experience with a user- and customer-driven lens, starting with a refreshed default background for all Microsoft authentication screens. This change is a visible result of our modernization journey for Microsoft Entra and a steppingstone to broader consistency across the personal and Microsoft Entra authentication experiences.
-Megna Kokkalera, P...</description>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 00:44:56 GMT</lastBuildDate>
   </channel>
 </rss>
