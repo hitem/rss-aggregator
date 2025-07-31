@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 31 Jul 2025 18:13:08 GMT</lastBuildDate>
-    <item>
-      <title>Optimize Azure Firewall logs with selective logging</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimize-azure-firewall-logs-with-selective-logging/ba-p/4438242</link>
-      <pubDate>Thu, 31 Jul 2025 17:28:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimize-azure-firewall-logs-with-selective-logging/ba-p/4438242</guid>
-      <description>A common question from customers is whether Azure Firewall supports filtering or selecting which logs are sent to a Log Analytics workspace. This concern usually stems from the high cost of storing large volumes of data &#8212; especially in environments where the firewall inspects substantial amounts of network traffic.
-Azure Firewall now supports ingestion-time transformation of logs in Azure Log Analytics. This capability introduces selective and advanced filtering, giving customers more control over what data is collected and analyzed.
-In this blog post, we&#8217;ll explore a major new capability: Azu...</description>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 19:10:47 GMT</lastBuildDate>
   </channel>
 </rss>
