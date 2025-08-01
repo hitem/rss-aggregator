@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 01 Aug 2025 04:43:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 05:22:30 GMT</lastBuildDate>
+    <item>
+      <title>Check This Out! (CTO!) Guide (July 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2025/ba-p/4438813</link>
+      <pubDate>Fri, 01 Aug 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2025/ba-p/4438813</guid>
+      <description>Member: TysonPaul | Microsoft Community Hub
+&#160;
+
+Identify Which Process Is Blocking a File in Windows
+Team Blog: ITOps Talk
+Author: OrinThomas
+Published: 07/13/2025
+Summary: The article explains how to identify which process is blocking a file in Windows when you encounter access errors. It describes using Resource Monitor, Process Explorer, and command-line tools like openfiles and handle.exe to search for and view processes locking a file. The tools allow you to find the responsible process by name or handle, and optionally end the process or close the handle to release the file, but caution i...</description>
+    </item>
   </channel>
 </rss>
