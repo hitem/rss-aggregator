@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 31 Jul 2025 23:09:02 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (June 2025)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2025/ba-p/4438811</link>
-      <pubDate>Thu, 31 Jul 2025 22:47:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2025/ba-p/4438811</guid>
-      <description>Member: TysonPaul | Microsoft Community Hub
-&#160;
-
-News and updates from FinOps X 2025: Transforming FinOps in the era of AI
-Team Blog: FinOps
-Author: micflan
-Published: 06/25/2025
-Summary: FinOps X 2025 highlighted Microsoft's advancements in integrating AI with FinOps, emphasizing tools like Copilot in Azure, PTU reservations, and Azure AI Foundry Observability to optimize and manage AI costs. Enhanced analytics, reporting, and community-driven standards like FOCUS improve transparency and collaboration. Updates to Azure services, sustainability tools, and flexible billing options further empowe...</description>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 00:52:42 GMT</lastBuildDate>
   </channel>
 </rss>
