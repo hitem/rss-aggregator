@@ -609,3 +609,4 @@
 2025-07-31T20:41:54 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protection-against-multi-modal-attacks-with-microsoft-defender/ba-p/4438786
 2025-07-31T22:47:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2025/ba-p/4438811
 2025-08-01T05:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2025/ba-p/4438813
+2025-08-04T04:16:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimize-azure-log-costs-split-tables-and-use-the-auxiliary-tier/ba-p/4439560
