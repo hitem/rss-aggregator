@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Aug 2025 04:46:39 GMT</lastBuildDate>
-    <item>
-      <title>Optimize Azure Log Costs: Split Tables and Use the Auxiliary Tier with DCR</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimize-azure-log-costs-split-tables-and-use-the-auxiliary-tier/ba-p/4439560</link>
-      <pubDate>Mon, 04 Aug 2025 04:16:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimize-azure-log-costs-split-tables-and-use-the-auxiliary-tier/ba-p/4439560</guid>
-      <description>This blog is continuation of my previous blog where I discussed about saving ingestion costs by splitting logs into multiple tables and opting for the basic tier!
-Now that the transformation feature for Auxiliary logs has entered Public Preview stage, I&#8217;ll take a deeper dive, showing how to implement transformations to split logs across tables and route some of them to the Auxiliary tier.
-A quick refresher: Azure Monitor offers several log plans which our customers can opt for depending on their use cases. These log plans include:
-
-Analytics Logs&#160;&#8211; This plan is designed for frequent, concurren...</description>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 05:28:21 GMT</lastBuildDate>
   </channel>
 </rss>
