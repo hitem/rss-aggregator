@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 Aug 2025 17:15:03 GMT</lastBuildDate>
-    <item>
-      <title>New governance tools for hybrid access and identity verification</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-governance-tools-for-hybrid-access-and-identity-verification/ba-p/4422534</link>
-      <pubDate>Mon, 04 Aug 2025 17:10:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-governance-tools-for-hybrid-access-and-identity-verification/ba-p/4422534</guid>
-      <description>Identity governance is undergoing changes. As work occurs across cloud applications, remote settings, and on-premises systems, it becomes increasingly important to track and manage access. Organizations require effective controls to oversee access, minimize manual tasks, and fulfill compliance requirements while maintaining necessary business systems.
-To help organizations easily migrate to the cloud for enhanced security controls and improve security, we&#8217;re excited to announce the public preview of two new capabilities that further modernize identity governance and address critical challenges...</description>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 18:13:26 GMT</lastBuildDate>
   </channel>
 </rss>
