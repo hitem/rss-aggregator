@@ -610,3 +610,4 @@
 2025-08-05T17:48:29 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-risks-in-ai-model-providers-and-mcp-servers-with/ba-p/4440050
 2025-08-05T19:14:52 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/table-talk-sentinel-s-new-threatintel-tables-explained/ba-p/4440273
 2025-08-05T20:59:17 https://techcommunity.microsoft.com/t5/microsoft-security-community/sensitivity-auto-labelling-via-document-property/ba-p/4437574
+2025-08-05T21:53:54 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/memory-under-siege-the-silent-evolution-of-credential-theft/ba-p/4440308
