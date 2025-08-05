@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Aug 2025 18:14:05 GMT</lastBuildDate>
-    <item>
-      <title>Discover risks in AI model providers and MCP servers with Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-risks-in-ai-model-providers-and-mcp-servers-with/ba-p/4440050</link>
-      <pubDate>Tue, 05 Aug 2025 17:48:29 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-risks-in-ai-model-providers-and-mcp-servers-with/ba-p/4440050</guid>
-      <description>AI model providers and Model Context Protocol (MCP) are being adopted at an unprecedented pace. As these new AI tools become deeply integrated into business operations and bring endless opportunities for productivity, security must not be ignored. MCP and AI model providers enable seamless communication between AI agents, tools, and models - but this convenience comes with significant security risks. MCP can expose sensitive information to unverified context providers, creating data leaks, malicious agent chaining, and supply chain attacks - all without consistent logging or enforcement.&#160;
-Micr...</description>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 19:12:45 GMT</lastBuildDate>
   </channel>
 </rss>
