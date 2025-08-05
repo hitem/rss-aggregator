@@ -3,16 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Aug 2025 20:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 21:08:15 GMT</lastBuildDate>
     <item>
-      <title>Table Talk: Sentinel&#8217;s New ThreatIntel Tables Explained</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/table-talk-sentinel-s-new-threatintel-tables-explained/ba-p/4440273</link>
-      <pubDate>Tue, 05 Aug 2025 19:14:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/table-talk-sentinel-s-new-threatintel-tables-explained/ba-p/4440273</guid>
-      <description>Key updates
-On April 3, 2025, we publicly previewed two new tables to support STIX (Structured Threat Information eXpression) indicator and object schemas: ThreatIntelIndicators and ThreatIntelObjects.
-To summarize the important dates:
-31 August 2025: We previously announced that data ingestion into the legacy&#160;ThreatIntelligenceIndicator table would cease on the 31 July 2025. This timeline has now been extended and the transition to the new&#160;ThreatIntelIndicators&#160;and&#160;ThreatIntelObjects&#160;tables will proceed gradually until&#160;the 31st of August 2025. The legacy ThreatIntelligenceIndicator table (and...</description>
+      <title>Sensitivity Auto-labelling via Document Property</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/sensitivity-auto-labelling-via-document-property/ba-p/4437574</link>
+      <pubDate>Tue, 05 Aug 2025 20:59:17 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/sensitivity-auto-labelling-via-document-property/ba-p/4437574</guid>
+      <description>Why is this needed?
+Sensitivity labels are generally relevant within an organisation only. If a file is labelled within one environment and then moved to another environment, sensitivity label content markings may be visible, but by default, the applied sensitivity label will not be understood. This can lead to scenarios where information that has been generated externally is not adequately protected.
+My favourite analogy for these scenarios is to consider the parallels between receiving sensitive information and unpacking groceries. When unpacking groceries, you might sit your grocery bag on ...</description>
     </item>
   </channel>
 </rss>
