@@ -3,13 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Aug 2025 17:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 18:14:05 GMT</lastBuildDate>
     <item>
-      <title>Hacking Made Easy, Patching Made Optional: A Modern Cyber Tragedy</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/hacking-made-easy-patching-made-optional-a-modern-cyber-tragedy/ba-p/4440267</link>
-      <pubDate>Tue, 05 Aug 2025 16:12:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/hacking-made-easy-patching-made-optional-a-modern-cyber-tragedy/ba-p/4440267</guid>
-      <description>In today&#8217;s cyber threat landscape, the tools and techniques required to compromise enterprise environments are no longer confined to highly skilled adversaries or state-sponsored actors. While artificial intelligence is increasingly being used to enhance the sophistication of attacks, the majority of breaches still rely on simple, publicly accessible tools and well-established social engineering tactics. Another major issue is the persistent failure of enterprises to patch common vulnerabilities in a timely manner&#8212;despite the availability of fixes and public warnings. This negligence continues...</description>
+      <title>Discover risks in AI model providers and MCP servers with Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-risks-in-ai-model-providers-and-mcp-servers-with/ba-p/4440050</link>
+      <pubDate>Tue, 05 Aug 2025 17:48:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-risks-in-ai-model-providers-and-mcp-servers-with/ba-p/4440050</guid>
+      <description>AI model providers and Model Context Protocol (MCP) are being adopted at an unprecedented pace. As these new AI tools become deeply integrated into business operations and bring endless opportunities for productivity, security must not be ignored. MCP and AI model providers enable seamless communication between AI agents, tools, and models - but this convenience comes with significant security risks. MCP can expose sensitive information to unverified context providers, creating data leaks, malicious agent chaining, and supply chain attacks - all without consistent logging or enforcement.&#160;
+Micr...</description>
     </item>
   </channel>
 </rss>
