@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 Aug 2025 22:09:15 GMT</lastBuildDate>
-    <item>
-      <title>Memory under siege: The silent evolution of credential theft</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/memory-under-siege-the-silent-evolution-of-credential-theft/ba-p/4440308</link>
-      <pubDate>Tue, 05 Aug 2025 21:53:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/memory-under-siege-the-silent-evolution-of-credential-theft/ba-p/4440308</guid>
-      <description>From Memory Dumps to Filesystem Browsing
-Historically, threat groups like&#160;Lorenz&#160;have relied on tools such as&#160;Magnet RAM Capture&#160;to dump volatile memory for offline analysis. While this approach can be effective, it comes with significant operational overhead&#8212;dumping large memory files, transferring them, and parsing them with additional forensic tools is time-consuming.
-But adversaries are evolving. They are shifting toward&#160;real-time, low-footprint techniques&#160;like&#160;MemProcFS, a forensic tool that exposes system memory as a browsable virtual filesystem. When paired with&#160;Dokan, a user-mode libra...</description>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 23:08:57 GMT</lastBuildDate>
   </channel>
 </rss>
