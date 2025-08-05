@@ -608,3 +608,4 @@
 2025-08-04T17:10:48 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-governance-tools-for-hybrid-access-and-identity-verification/ba-p/4422534
 2025-08-05T16:12:21 https://techcommunity.microsoft.com/t5/microsoft-security-community/hacking-made-easy-patching-made-optional-a-modern-cyber-tragedy/ba-p/4440267
 2025-08-05T17:48:29 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-risks-in-ai-model-providers-and-mcp-servers-with/ba-p/4440050
+2025-08-05T19:14:52 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/table-talk-sentinel-s-new-threatintel-tables-explained/ba-p/4440273
