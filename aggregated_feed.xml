@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Aug 2025 15:11:23 GMT</lastBuildDate>
-    <item>
-      <title>Announcing Public Preview: Phishing Triage Agent in Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301</link>
-      <pubDate>Wed, 06 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301</guid>
-      <description>At Microsoft Secure 2025, we introduced a new wave of innovations across Microsoft Defender aimed at redefining what AI can do for security operations. At the center of these announcements was the&#160;launch&#160;of 11 Security Copilot agents, each purpose-built to reduce manual workload and accelerate response through autonomous, adaptive automation. Integrated into existing Microsoft Security infrastructure, they continuously learn and adapt to your unique environment, while keeping your team in control for proactive, end-to-end protection.&#160;&#160;
-Among these is the Phishing Triage Agent in Microsoft Defe...</description>
-    </item>
-    <item>
-      <title>Breaking down silos: A unified approach to identity and network access security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196</link>
-      <pubDate>Wed, 06 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196</guid>
-      <description>I often hear from our customers and partners how cyberattacks continue advancing and often target the gaps between disjointed identity security tools and the teams that manage them. As hybrid work expands, AI adoption accelerates, and tool sprawl increases, the need for a unified, AI-powered security posture is more urgent than ever.
-Earlier this year we collaborated with The Wall Street Journal to develop a series of articles that explore the evolving landscape of identity and secure access. It draws on insights from Microsoft leaders, third-party experts, and research conducted across a broa...</description>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 16:12:09 GMT</lastBuildDate>
   </channel>
 </rss>
