@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 06 Aug 2025 08:13:33 GMT</lastBuildDate>
-    <item>
-      <title>From Healthy to Unhealthy: Alerting on Defender for Cloud Recommendations with Logic Apps</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-healthy-to-unhealthy-alerting-on-defender-for-cloud/ba-p/4440520</link>
-      <pubDate>Wed, 06 Aug 2025 07:33:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-healthy-to-unhealthy-alerting-on-defender-for-cloud/ba-p/4440520</guid>
-      <description>In today's cloud-first environments, maintaining strong security posture requires not just visibility but real-time awareness of changes. This blog walks you through a practical solution to monitor and alert on Microsoft Defender for Cloud recommendations that transition from Healthy to Unhealthy status. By combining the power of Kusto Query Language (KQL) with the automation capabilities of Azure Logic Apps, you&#8217;ll learn how to:
-
-Query historical and current security recommendation states using KQL
-Detect resources that have degraded in compliance over the past 14 days
-Send automatic email al...</description>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 09:16:18 GMT</lastBuildDate>
   </channel>
 </rss>
