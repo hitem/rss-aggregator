@@ -612,3 +612,5 @@
 2025-08-05T20:59:17 https://techcommunity.microsoft.com/t5/microsoft-security-community/sensitivity-auto-labelling-via-document-property/ba-p/4437574
 2025-08-05T21:53:54 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/memory-under-siege-the-silent-evolution-of-credential-theft/ba-p/4440308
 2025-08-06T07:33:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-healthy-to-unhealthy-alerting-on-defender-for-cloud/ba-p/4440520
+2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301
+2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196
