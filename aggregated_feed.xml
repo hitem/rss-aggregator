@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 07 Aug 2025 16:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 17:12:23 GMT</lastBuildDate>
+    <item>
+      <title>Multi-tenant endpoint security policies distribution is now in Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/multi-tenant-endpoint-security-policies-distribution-is-now-in/ba-p/4439929</link>
+      <pubDate>Thu, 07 Aug 2025 16:17:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/multi-tenant-endpoint-security-policies-distribution-is-now-in/ba-p/4439929</guid>
+      <description>We&#8217;re excited to announce a key milestone in Defender&#8217;s multi-tenant management journey&#8212;Microsoft Defender for Endpoint security policies can now be distributed across multiple tenants from the Defender multi-tenant portal. This capability empowers security teams to manage policies at scale, ensuring consistency and saving valuable time.
+What is content distribution?
+Content distribution is a powerful Defender feature that enables scalable management of content across tenants. With this capability, you can create content distribution profiles in the multi-tenant portal that allow you to seamle...</description>
+    </item>
   </channel>
 </rss>
