@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 07 Aug 2025 14:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 15:10:48 GMT</lastBuildDate>
+    <item>
+      <title>Uncover shadow AI, block threats, and protect data with Microsoft Entra Internet Access</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/uncover-shadow-ai-block-threats-and-protect-data-with-microsoft/ba-p/4440787</link>
+      <pubDate>Thu, 07 Aug 2025 15:08:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/uncover-shadow-ai-block-threats-and-protect-data-with-microsoft/ba-p/4440787</guid>
+      <description>The browser has become the operating system of the modern organization. It&#8217;s where employees collaborate, access SaaS apps, and increasingly, where they engage with generative AI tools. But as work shifts to the web, so does risk.
+Security teams now face growing blind spots: encrypted traffic obscures visibility, unsanctioned AI usage introduces compliance concerns, and traditional controls often stop at sanctioned apps, leaving a wide perimeter of unmanaged exposure. Modern threats exploit this gap. Phishing payloads, malware downloads, and command-and-control callbacks are increasingly embed...</description>
+    </item>
   </channel>
 </rss>

@@ -613,3 +613,4 @@
 2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301
 2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196
 2025-08-07T10:35:40 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-august-2025/ba-p/4441024
+2025-08-07T15:08:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/uncover-shadow-ai-block-threats-and-protect-data-with-microsoft/ba-p/4440787
