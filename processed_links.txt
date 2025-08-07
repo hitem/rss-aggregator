@@ -613,3 +613,4 @@
 2025-08-06T07:33:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-healthy-to-unhealthy-alerting-on-defender-for-cloud/ba-p/4440520
 2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301
 2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196
+2025-08-07T10:35:40 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-august-2025/ba-p/4441024
