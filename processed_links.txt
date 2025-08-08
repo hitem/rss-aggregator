@@ -614,3 +614,4 @@
 2025-08-07T18:51:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-ignite-security-roundtable-take-our/ba-p/4441222
 2025-08-07T21:23:24 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-139/ba-p/4441251
 2025-08-08T04:34:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-app-service-domain-module-for-terraform/ba-p/4441050
+2025-08-08T19:50:59 https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-a-new-microsoft-security-virtual-training-day/ba-p/4440347

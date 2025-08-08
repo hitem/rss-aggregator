@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Aug 2025 19:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 20:09:40 GMT</lastBuildDate>
+    <item>
+      <title>Announcing a New Microsoft Security Virtual Training Day</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-a-new-microsoft-security-virtual-training-day/ba-p/4440347</link>
+      <pubDate>Fri, 08 Aug 2025 19:50:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-a-new-microsoft-security-virtual-training-day/ba-p/4440347</guid>
+      <description>We&#8217;re thrilled to announce a brand-new opportunity for learning and growth: Microsoft Virtual Training Day: Strength Cloud Security with Microsoft Defender for Cloud! This free, online event is designed to empower professionals with the skills and knowledge needed to thrive in today&#8217;s digital landscape.
+During this training, you&#8217;ll be able to:
+
+Learn how to increase cloud security using Microsoft Defender for Cloud and how to deploy security across your DevOps workflows.
+Discover how to detect risks, maintain compliance, and protect hybrid and multicloud environments.
+Find out how to defend se...</description>
+    </item>
   </channel>
 </rss>
