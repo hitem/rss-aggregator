@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 08 Aug 2025 03:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 04:40:54 GMT</lastBuildDate>
+    <item>
+      <title>Azure App Service Domain module for Terraform</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-app-service-domain-module-for-terraform/ba-p/4441050</link>
+      <pubDate>Fri, 08 Aug 2025 04:34:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-app-service-domain-module-for-terraform/ba-p/4441050</guid>
+      <description>Problem
+You can create a custom domain name in Azure using the `App Service Domain` service, either through the Azure Portal or the Azure CLI. However, this capability is not yet supported in the Azure Terraform provider.&#160;
+For most enterprises, managing domain names through Infrastructure as Code (IaC) tools like `Terraform` may not be a priority. Domains are typically&#160;purchased&#160;manually, as&#160;it's&#160;a one-time task that&#160;doesn't&#160;benefit much from automation.&#160;
+That said, for labs, workshops, and demos, being able to automate domain creation can add a layer of realism and completeness to the environ...</description>
+    </item>
   </channel>
 </rss>
