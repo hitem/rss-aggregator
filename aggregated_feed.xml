@@ -3,15 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Aug 2025 15:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 16:10:48 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Purview: The Ultimate AI Data Security Solution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-the-ultimate-ai-data-security-solution/ba-p/4441324</link>
-      <pubDate>Mon, 11 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-the-ultimate-ai-data-security-solution/ba-p/4441324</guid>
-      <description>Introduction
-AI is transforming the way enterprises operate, however with great innovation comes great responsibility. I&#8217;ve spent the last few years helping organizations secure their data with tools like Azure Information Protection, Data Loss Prevention, and now Microsoft Purview.
-As generative AI tools like Microsoft Copilot become embedded in everyday workflows, the need for clear governance and robust data protection is more urgent than ever. Through this blog post, let's explore how Microsoft Purview can help organizations stay ahead of securing AI interactions without slowing down innov...</description>
+      <title>Microsoft Defender for Cloud expands U.S. Gov Cloud support for CSPM and server security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-u-s-gov-cloud-support-for/ba-p/4441118</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-u-s-gov-cloud-support-for/ba-p/4441118</guid>
+      <description>U.S. government organizations face unique security and compliance challenges as they migrate essential workloads to the cloud. To help meet these needs, Microsoft Defender for Cloud has expanded support in the Government Cloud with Defender cloud security posture management (CSPM) and Defender for Servers Plan 2.&#8239;This expansion helps strengthen security posture with advanced threat protection, vulnerability management, and contextual risk insights across hybrid and multi-cloud environments.&#160;
+Defender CSPM and Defender for Servers are available in the following Microsoft Government Clouds:&#160;
+
+Mi...</description>
+    </item>
+    <item>
+      <title>What&#8217;s New in Microsoft Purview eDiscovery</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/what-s-new-in-microsoft-purview-ediscovery/ba-p/4441676</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/what-s-new-in-microsoft-purview-ediscovery/ba-p/4441676</guid>
+      <description>As organizations continue to navigate increasingly complex compliance and legal landscapes, Microsoft Purview eDiscovery is adapting to address these challenges. New and upcoming enhancements will improve how legal and compliance teams manage cases, streamline workflows, and reduce operational friction.
+Here&#8217;s a look at some newly released features and some others that are coming soon.
+Enhanced Reporting in Modern eDiscovery
+The modern eDiscovery experience now offers comprehensive reporting capabilities that capture every action taken within a case. This creates an auditable record of actions...</description>
     </item>
   </channel>
 </rss>

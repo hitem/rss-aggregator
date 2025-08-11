@@ -620,3 +620,5 @@
 2025-08-11T07:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-prepare-for-the-worst-implement-security/ba-p/4440310
 2025-08-11T09:28:13 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-sharepoint-cve-2025-53770-with-azure-web/ba-p/4442050
 2025-08-11T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-the-ultimate-ai-data-security-solution/ba-p/4441324
+2025-08-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-u-s-gov-cloud-support-for/ba-p/4441118
+2025-08-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/what-s-new-in-microsoft-purview-ediscovery/ba-p/4441676
