@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Aug 2025 05:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 06:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Issuing Custom Claims Using Directory Extension Attributes in Microsoft Entra ID</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/issuing-custom-claims-using-directory-extension-attributes-in/ba-p/4441980</link>
+      <pubDate>Mon, 11 Aug 2025 05:54:53 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/issuing-custom-claims-using-directory-extension-attributes-in/ba-p/4441980</guid>
+      <description>Overview
+In some scenarios, organizations may need to pass custom data about users like internal identifiers or sponsorship info to applications during SSO. Microsoft Entra ID supports this using directory extension attributes, which can be registered and referenced in claims.This blog outlines how to register and use custom directory extension attributes in an Enterprise Application and configure them to issue claims conditionally based on group membership.
+Step 1: Register Directory Extension Attributes
+Use Graph Explorer to register two custom attributes, for example sponsorid1 and sponsori...</description>
+    </item>
   </channel>
 </rss>
