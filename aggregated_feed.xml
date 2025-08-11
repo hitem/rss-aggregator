@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Aug 2025 09:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 10:10:20 GMT</lastBuildDate>
+    <item>
+      <title>Protect against SharePoint CVE-2025-53770 with Azure Web Application Firewall (WAF)</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-sharepoint-cve-2025-53770-with-azure-web/ba-p/4442050</link>
+      <pubDate>Mon, 11 Aug 2025 09:28:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-sharepoint-cve-2025-53770-with-azure-web/ba-p/4442050</guid>
+      <description>Summary
+Microsoft recently disclosed CVE-2025-53770, a critical vulnerability affecting on-premises SharePoint Server versions 2016, 2019, 2010, 2013, and Subscription Edition (SE). The vulnerability allows unauthenticated remote code execution (RCE) by chaining two separate CVEs:
+
+CVE-2025-49706 &#8211; Authentication Bypass
+CVE-2025-49704 &#8211; Deserialization Vulnerability
+
+Microsoft has released security updates for SharePoint Server 2016, 2019, and SE. Versions 2010 and 2013 are out of support and will not receive patches, leaving them exposed.
+If exploited, this vulnerability could allow an attack...</description>
+    </item>
   </channel>
 </rss>

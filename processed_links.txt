@@ -618,3 +618,4 @@
 2025-08-08T23:02:14 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/webinar-series-microsoft-entra-suite-summer-camp/ba-p/4427990
 2025-08-11T05:54:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/issuing-custom-claims-using-directory-extension-attributes-in/ba-p/4441980
 2025-08-11T07:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-prepare-for-the-worst-implement-security/ba-p/4440310
+2025-08-11T09:28:13 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-sharepoint-cve-2025-53770-with-azure-web/ba-p/4442050
