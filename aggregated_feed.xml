@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Aug 2025 14:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 15:09:57 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview: The Ultimate AI Data Security Solution</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-the-ultimate-ai-data-security-solution/ba-p/4441324</link>
+      <pubDate>Mon, 11 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-the-ultimate-ai-data-security-solution/ba-p/4441324</guid>
+      <description>Introduction
+AI is transforming the way enterprises operate, however with great innovation comes great responsibility. I&#8217;ve spent the last few years helping organizations secure their data with tools like Azure Information Protection, Data Loss Prevention, and now Microsoft Purview.
+As generative AI tools like Microsoft Copilot become embedded in everyday workflows, the need for clear governance and robust data protection is more urgent than ever. Through this blog post, let's explore how Microsoft Purview can help organizations stay ahead of securing AI interactions without slowing down innov...</description>
+    </item>
   </channel>
 </rss>
