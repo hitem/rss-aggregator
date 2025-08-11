@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 Aug 2025 07:15:13 GMT</lastBuildDate>
-    <item>
-      <title>Cloud forensics: Prepare for the worst -implement security baselines for forensic readiness in Azure</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-prepare-for-the-worst-implement-security/ba-p/4440310</link>
-      <pubDate>Mon, 11 Aug 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-prepare-for-the-worst-implement-security/ba-p/4440310</guid>
-      <description>Forensic readiness in the cloud
-Forensic readiness in the cloud refers to an organization&#8217;s ability to collect, preserve, and analyze digital evidence in preparation for security incidents.
-Forensic readiness is increasingly important as more organizations migrate workloads to the cloud. Achieving an appropriate security posture ensures that organizations are adequately equipped for forensic investigations. This requires more than just the presence of logs; logging and monitoring configurations must be thoughtfully scoped and proactively enabled.
-Additionally, the adoption of cloud environment...</description>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 08:14:17 GMT</lastBuildDate>
   </channel>
 </rss>
