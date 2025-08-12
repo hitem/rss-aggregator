@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Aug 2025 15:09:18 GMT</lastBuildDate>
-    <item>
-      <title>Now Generally Available: Platform SSO for macOS with Microsoft Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/now-generally-available-platform-sso-for-macos-with-microsoft/ba-p/4437424</link>
-      <pubDate>Tue, 12 Aug 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/now-generally-available-platform-sso-for-macos-with-microsoft/ba-p/4437424</guid>
-      <description>We&#8217;re pleased to announce the&#160;General Availability (GA)&#160;of Microsoft&#8217;s support for&#160;Platform Single Sign-On&#160;(Platform SSO) for macOS, providing enterprise environments with an integrated, secure, and improved single sign-on experience on Apple devices.
-What is Platform SSO?
-Platform SSO is an advanced feature integrated into macOS and supported by&#160;Microsoft Enterprise SSO plug-in. This functionality enables users to authenticate on their Mac with their&#160;Microsoft Entra ID&#160;credentials, providing seamless&#160;single sign-on across applications and browsers, while minimizing repeated prompts and reduci...</description>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 16:10:29 GMT</lastBuildDate>
   </channel>
 </rss>
