@@ -624,3 +624,4 @@
 2025-08-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/what-s-new-in-microsoft-purview-ediscovery/ba-p/4441676
 2025-08-12T05:59:18 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/mdvm-guidance-for-cve-2025-53786-exchange-hybrid-privilege/ba-p/4442337
 2025-08-12T12:36:59 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-add-on-is-now-generally-available-in-azure-gov/ba-p/4442502
+2025-08-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/now-generally-available-platform-sso-for-macos-with-microsoft/ba-p/4437424
