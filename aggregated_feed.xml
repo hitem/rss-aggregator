@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Aug 2025 13:26:17 GMT</lastBuildDate>
-    <item>
-      <title>&#127881;Malware scanning add-on is now generally available in Azure Gov Secret and Top-Secret clouds</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-add-on-is-now-generally-available-in-azure-gov/ba-p/4442502</link>
-      <pubDate>Tue, 12 Aug 2025 12:36:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-add-on-is-now-generally-available-in-azure-gov/ba-p/4442502</guid>
-      <description>Microsoft Defender for Storage now includes malware scanning for Azure Government Secret and Top Clouds. This update aligns cloud storage protection features across both commercial and government cloud services.
-This feature is available exclusively in the Defender for Storage plan (per storage account). Azure Government customers using the classic Defender for Storage plan (per-transaction) are encouraged to upgrade to the latest version to take advantage of comprehensive sensitive data discovery, and malware scanning and to benefit from ongoing and future enhancements to Defender for Storage...</description>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 14:09:05 GMT</lastBuildDate>
   </channel>
 </rss>
