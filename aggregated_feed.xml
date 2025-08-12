@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 12 Aug 2025 05:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 06:13:48 GMT</lastBuildDate>
+    <item>
+      <title>MDVM Guidance for CVE-2025-53786: Exchange Hybrid Privilege Escalation</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/mdvm-guidance-for-cve-2025-53786-exchange-hybrid-privilege/ba-p/4442337</link>
+      <pubDate>Tue, 12 Aug 2025 05:59:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/mdvm-guidance-for-cve-2025-53786-exchange-hybrid-privilege/ba-p/4442337</guid>
+      <description>Executive Summary
+Vulnerability Description
+CVE-2025-53786 is an Elevation of Privilege (EoP) flaw in hybrid Microsoft Exchange Server deployments. Attackers with administrative rights on an on-premises Exchange Server can exploit the shared service principal trust to gain control of the connected Exchange Online environment.
+Affected Products and Versions:
+
+
+
+Microsoft Exchange Server 2016 (Hybrid deployments)
+Microsoft Exchange Server 2019 (Hybrid deployments)
+
+
+
+Severity: CVSS v3.1 score 8.0 (High)
+Exploit Status: No active exploitation observed yet
+This vulnerability illustrates how a trus...</description>
+    </item>
   </channel>
 </rss>
