@@ -3,17 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Aug 2025 17:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 18:12:45 GMT</lastBuildDate>
     <item>
-      <title>From Traditional Security to AI-Driven Cyber Resilience: Microsoft&#8217;s Approach to Securing AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/from-traditional-security-to-ai-driven-cyber-resilience/ba-p/4442652</link>
-      <pubDate>Wed, 13 Aug 2025 16:54:16 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/from-traditional-security-to-ai-driven-cyber-resilience/ba-p/4442652</guid>
-      <description>&#160;
-By&#160;Chirag Mehta, Vice President and Principal Analyst - Constellation Research
-&#160;
-AI is changing the way organizations work. It helps teams write code, detect fraud, automate workflows, and make complex decisions faster than ever before. But as AI adoption increases, so do the risks, many of which traditional security tools were not designed to address.
-Cybersecurity leaders are starting to see that AI security is not just another layer of defense. It is becoming essential to building trust, ensuring resilience, and maintaining business continuity. Earlier this year, after many conversations ...</description>
+      <title>BitUnlocker: Leveraging Windows Recovery to Extract BitLocker Secrets</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker/ba-p/4442806</link>
+      <pubDate>Wed, 13 Aug 2025 18:02:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker/ba-p/4442806</guid>
+      <description>Table of Contents
+
+Introduction
+BitLocker Overview
+WinRE Overview
+Attacking Boot.sdi Parsing
+Attacking ReAgent.xml Parsing
+Attacking Boot Configuration Data (BCD) Parsing
+Vulnerability Fixes
+BitLocker Countermeasures
+About the STORM Researchers
+
+Introduction
+In Windows, the cornerstone of data protection is BitLocker, a Full Volume Encryption technology designed to secure sensitive data on disk. This ensures that even if an adversary gains physical access to the device, the data remains secure and inaccessible.
+One of the most critical aspects of any data protection feature is its ability to s...</description>
     </item>
   </channel>
 </rss>
