@@ -3,27 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 13 Aug 2025 18:12:45 GMT</lastBuildDate>
-    <item>
-      <title>BitUnlocker: Leveraging Windows Recovery to Extract BitLocker Secrets</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker/ba-p/4442806</link>
-      <pubDate>Wed, 13 Aug 2025 18:02:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker/ba-p/4442806</guid>
-      <description>Table of Contents
-
-Introduction
-BitLocker Overview
-WinRE Overview
-Attacking Boot.sdi Parsing
-Attacking ReAgent.xml Parsing
-Attacking Boot Configuration Data (BCD) Parsing
-Vulnerability Fixes
-BitLocker Countermeasures
-About the STORM Researchers
-
-Introduction
-In Windows, the cornerstone of data protection is BitLocker, a Full Volume Encryption technology designed to secure sensitive data on disk. This ensures that even if an adversary gains physical access to the device, the data remains secure and inaccessible.
-One of the most critical aspects of any data protection feature is its ability to s...</description>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 19:07:17 GMT</lastBuildDate>
   </channel>
 </rss>
