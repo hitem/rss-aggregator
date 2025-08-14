@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Aug 2025 17:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 18:12:18 GMT</lastBuildDate>
+    <item>
+      <title>How Microsoft Defender Experts uses AI to cut through the noise</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-uses-ai-to-cut-through-the-noise/ba-p/4443601</link>
+      <pubDate>Thu, 14 Aug 2025 17:33:20 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-uses-ai-to-cut-through-the-noise/ba-p/4443601</guid>
+      <description>Microsoft Defender Experts manages and investigates incidents for some of the world&#8217;s largest organizations. We understand the challenges facing our customers and are always looking for ways to respond quicker and scale our services to meet their needs.&#160;
+Teaching AI to think like a security expert&#160;&#160;
+We're leveraging AI to help Defender Experts expand our services and respond even faster to threats facing our customers.&#160;&#160;
+AI-based incident classification allows us to filter noise up front without compromising on detecting real threats. This AI-based capability is trained by security experts, bu...</description>
+    </item>
   </channel>
 </rss>
