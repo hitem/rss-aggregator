@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 Aug 2025 15:09:14 GMT</lastBuildDate>
-    <item>
-      <title>Leaving the key under the doormat: How Microsoft Defender uses AI to spot exposed credentials</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/leaving-the-key-under-the-doormat-how-microsoft-defender-uses-ai/ba-p/4439870</link>
-      <pubDate>Thu, 14 Aug 2025 14:42:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/leaving-the-key-under-the-doormat-how-microsoft-defender-uses-ai/ba-p/4439870</guid>
-      <description>Imagine locking your front door, only to leave the key under the doormat. It&#8217;s a habit many know is risky, but it&#8217;s still surprisingly common. In cybersecurity terms this is the equivalent of storing credentials in plain text fields within Active Directory.
-Microsoft Defender can now help eliminate this vulnerability with a new, AI-powered posture alert that uses layers of intelligence to spot exposed credentials.
-Understanding free text fields in identity systems:
-Within identity systems like Active Directory (AD) and Microsoft Entra ID, free text fields are customizable attributes that allow...</description>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 16:10:36 GMT</lastBuildDate>
   </channel>
 </rss>
