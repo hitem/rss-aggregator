@@ -1,4 +1,3 @@
-2024-08-14T14:37:49 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480
 2024-08-15T22:51:25 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342
 2024-08-16T16:37:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129
 2024-08-16T20:53:42 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-premium-data-connector-for-sentinel/ba-p/4220346
@@ -622,3 +621,4 @@
 2025-08-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/now-generally-available-platform-sso-for-macos-with-microsoft/ba-p/4437424
 2025-08-13T16:54:16 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-traditional-security-to-ai-driven-cyber-resilience/ba-p/4442652
 2025-08-13T18:02:57 https://techcommunity.microsoft.com/t5/microsoft-security-community/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker/ba-p/4442806
+2025-08-14T14:42:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/leaving-the-key-under-the-doormat-how-microsoft-defender-uses-ai/ba-p/4439870
