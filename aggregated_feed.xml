@@ -3,28 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Aug 2025 14:08:34 GMT</lastBuildDate>
-    <item>
-      <title>Using Entra ID Authentication with Arc-Enabled SQL Server in a .NET Windows Forms Application</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-entra-id-authentication-with-arc-enabled-sql-server-in-a/ba-p/4435168</link>
-      <pubDate>Fri, 15 Aug 2025 13:22:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-entra-id-authentication-with-arc-enabled-sql-server-in-a/ba-p/4435168</guid>
-      <description>&#160;
-SAMPLE CODE:&#160; GitHub Repository
-Prerequisites
-
-Arc-enabled SQL Server 2022/2025 configured for Entra ID authentication
-Entra ID (Azure AD) tenant and app registration
-.NET Framework 4.6.2 Windows Forms application (Not required .NET version, only what the solution is based on)
-Microsoft.Identity.Client, Microsoft.Data.SqlClient NuGet packages
-
-Application Overview
-
-User authenticates with Entra ID
-Token is acquired and used to connect to SQL Server
-Option to persist token cache or keep it in memory
-Data is retrieved and displayed in a DataGridView
-Similar setup to use SSMS with Entra ID in a...</description>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 15:08:30 GMT</lastBuildDate>
   </channel>
 </rss>
