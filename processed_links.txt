@@ -626,3 +626,4 @@
 2025-08-14T18:58:58 https://techcommunity.microsoft.com/t5/microsoft-security-community/investigating-m365-copilot-activity-with-sentinel-defender-xdr/ba-p/4442641
 2025-08-15T07:50:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/gpresult-like-tool-for-intune/ba-p/4437008
 2025-08-15T13:22:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-entra-id-authentication-with-arc-enabled-sql-server-in-a/ba-p/4435168
+2025-08-15T18:45:36 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4442210
