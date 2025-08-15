@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Aug 2025 19:06:42 GMT</lastBuildDate>
-    <item>
-      <title>Welcome to the Microsoft Defender Experts Ninja Hub!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4442210</link>
-      <pubDate>Fri, 15 Aug 2025 18:45:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-defender-experts-ninja-hub/ba-p/4442210</guid>
-      <description>Updated August 11, 2025
-&#160;
-Microsoft Defender Experts for XDR
-Microsoft Defender Experts for XDR is a managed extended detection and response (MXDR) service that triages, investigates, and responds to incidents for you to help stop cyberattackers and prevent future compromise. Defender Experts for XDR delivers human expertise to security teams quickly to help address coverage gaps and augment their overall security operations. The documentation links below provide more information on the service, requirements, and FAQs:
-&#160;
-
-What is Microsoft Defender Experts for XDR offering | Microsoft Learn
-Be...</description>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 20:08:58 GMT</lastBuildDate>
   </channel>
 </rss>
