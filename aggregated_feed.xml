@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 15 Aug 2025 07:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 08:12:28 GMT</lastBuildDate>
+    <item>
+      <title>Gpresult Like Tool For Intune</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/gpresult-like-tool-for-intune/ba-p/4437008</link>
+      <pubDate>Fri, 15 Aug 2025 07:50:53 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/gpresult-like-tool-for-intune/ba-p/4437008</guid>
+      <description>Hi, Jonas here!
+Or as we say in the north of Germany: "Moin Moin!"
+I had to troubleshoot a lot of Intune policies lately and I used a variety of tools for that.At the end, I built my own script to have a result which looks similar to what &#8220;GPresult /h&#8221; creates for on-premises group polices.The script is inspired by the following article: https://doitpshway.com/get-a-better-intune-policy-report-part-2 by Ondrej Sebela.It follows a similar approach, but without any module dependencies and fewer output options, as my script only generates an HTML page.What started as a script is now a module whic...</description>
+    </item>
   </channel>
 </rss>
