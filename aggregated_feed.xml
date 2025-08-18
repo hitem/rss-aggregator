@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 Aug 2025 16:10:25 GMT</lastBuildDate>
-    <item>
-      <title>Deep Dive: DLP Incidents, Alerts &amp; Events - Part 2</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/deep-dive-dlp-incidents-alerts-events-part-2/ba-p/4443700</link>
-      <pubDate>Mon, 18 Aug 2025 15:15:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/deep-dive-dlp-incidents-alerts-events-part-2/ba-p/4443700</guid>
-      <description>Alerts Overview
-Like the Incidents, alerts also provide comprehensive information such as severity, status, category etc. to help users understand and navigate efficiently. In addition to these standard details, the alert view also displays the correlation reason, which is particularly beneficial for security analysts and administrators. The correlation reason explains why an alert is linked to a particular incident or other alerts, helping users trace how different pieces of suspicious activity are connected. By understanding the correlation reason, users can better assess the scope and impac...</description>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 17:09:59 GMT</lastBuildDate>
   </channel>
 </rss>
