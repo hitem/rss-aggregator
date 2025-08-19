@@ -627,3 +627,4 @@
 2025-08-18T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/deep-dive-dlp-incidents-alerts-events-part-1/ba-p/4443691
 2025-08-18T15:15:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/deep-dive-dlp-incidents-alerts-events-part-2/ba-p/4443700
 2025-08-19T12:45:09 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-s-new-data-lake-cut-costs-boost-threat/ba-p/4445281
+2025-08-19T13:34:46 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/scope-identity-protection-with-defender-for-identity-is-now/ba-p/4422968

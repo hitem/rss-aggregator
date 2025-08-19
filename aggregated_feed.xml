@@ -3,14 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Aug 2025 13:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 14:08:18 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Sentinel&#8217;s New Data Lake: Cut Costs &amp; Boost Threat Detection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-s-new-data-lake-cut-costs-boost-threat/ba-p/4445281</link>
-      <pubDate>Tue, 19 Aug 2025 12:45:09 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-s-new-data-lake-cut-costs-boost-threat/ba-p/4445281</guid>
-      <description>Microsoft Sentinel is leveling up! Already a trusted cloud-native Security Information and Event Management (SIEM) and Security Orchestration, Automation and Response (SOAR) solution, it empowers security teams to detect, investigate, and respond to threats with speed and precision. Now, with the introduction of its new Data Lake architecture, Sentinel is transforming how security data is stored, accessed, and analyzed, bringing unmatched flexibility and scale to threat investigation.
-Unlike Microsoft Fabric OneLake, which supports analytics across the organization, Sentinel&#8217;s Data Lake is pur...</description>
+      <title>Scope Identity Protection with Defender for Identity is Now Generally Available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/scope-identity-protection-with-defender-for-identity-is-now/ba-p/4422968</link>
+      <pubDate>Tue, 19 Aug 2025 13:34:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/scope-identity-protection-with-defender-for-identity-is-now/ba-p/4422968</guid>
+      <description>I am excited to announce the general availability (GA)&#160;of domain-based scoping for Active Directory within Microsoft Defender for Identity.&#160;This is a foundational step in extending role-based access control (RBAC) as part of the broader XDR URBAC initiative. This new capability enables SOC analysts to define and refine the scope of Microsoft Defender for Identity monitoring, providing more granular control over which entities and resources are included in security analysis.
+What is &#8220;scoping&#8221; and why does it matter?&#160;
+As organizations grow, so does their identity fabric and as security professio...</description>
     </item>
   </channel>
 </rss>
