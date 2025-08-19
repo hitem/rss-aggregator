@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Aug 2025 12:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 13:21:26 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel&#8217;s New Data Lake: Cut Costs &amp; Boost Threat Detection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-s-new-data-lake-cut-costs-boost-threat/ba-p/4445281</link>
+      <pubDate>Tue, 19 Aug 2025 12:45:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-s-new-data-lake-cut-costs-boost-threat/ba-p/4445281</guid>
+      <description>Microsoft Sentinel is leveling up! Already a trusted cloud-native Security Information and Event Management (SIEM) and Security Orchestration, Automation and Response (SOAR) solution, it empowers security teams to detect, investigate, and respond to threats with speed and precision. Now, with the introduction of its new Data Lake architecture, Sentinel is transforming how security data is stored, accessed, and analyzed, bringing unmatched flexibility and scale to threat investigation.
+Unlike Microsoft Fabric OneLake, which supports analytics across the organization, Sentinel&#8217;s Data Lake is pur...</description>
+    </item>
   </channel>
 </rss>
