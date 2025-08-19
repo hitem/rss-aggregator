@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 19 Aug 2025 16:10:13 GMT</lastBuildDate>
-    <item>
-      <title>Identify Defender for Endpoint Onboarding Method using PowerShell - Part 2</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/identify-defender-for-endpoint-onboarding-method-using/ba-p/4445263</link>
-      <pubDate>Tue, 19 Aug 2025 15:39:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/identify-defender-for-endpoint-onboarding-method-using/ba-p/4445263</guid>
-      <description>In its simplest form, what the script does is, interrogate a list of computers in a .txt file, run a detection logic to find indicators that points to what method was used to do the onboarding e.g., Intune, LocalScript, GPO or MCM and present the results in a .csv file.&#160;
-&#160;
-As described in Part 1 of this article, onboarding devices in Defender for Endpoint can be done via different methods like Intune, MCM, GPO or LocalScript. Each method has its own requirements, intricacies, and purpose. Nonetheless, when doing troubleshooting on a subset of devices, it becomes an important piece of informati...</description>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 17:07:23 GMT</lastBuildDate>
   </channel>
 </rss>
