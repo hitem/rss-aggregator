@@ -626,3 +626,4 @@
 2025-08-19T12:45:09 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-s-new-data-lake-cut-costs-boost-threat/ba-p/4445281
 2025-08-19T13:34:46 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/scope-identity-protection-with-defender-for-identity-is-now/ba-p/4422968
 2025-08-19T15:39:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/identify-defender-for-endpoint-onboarding-method-using/ba-p/4445263
+2025-08-20T18:16:35 https://techcommunity.microsoft.com/t5/microsoft-security-community/discover-the-latest-security-innovations-at-microsoft-ignite/ba-p/4446141
