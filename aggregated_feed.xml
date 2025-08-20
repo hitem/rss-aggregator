@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 20 Aug 2025 19:00:56 GMT</lastBuildDate>
-    <item>
-      <title>Discover the latest security innovations at Microsoft Ignite 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/discover-the-latest-security-innovations-at-microsoft-ignite/ba-p/4446141</link>
-      <pubDate>Wed, 20 Aug 2025 18:16:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/discover-the-latest-security-innovations-at-microsoft-ignite/ba-p/4446141</guid>
-      <description>In today&#8217;s rapidly evolving digital world, security leaders and practitioners face new challenges&#8212;and opportunities&#8212;driven by the rise of AI.&#160;At&#160;Microsoft Ignite,&#160;we&#8239;will&#160;showcase&#160;end-to-end security innovations and share world class threat and regulatory intelligence to give you the advantage you need&#160;to&#160;safely adopt AI and face the rapidly changing threat landscape.&#160;
-Why&#160;attend&#160;Microsoft&#160;Ignite?&#160;
-
-Visionary&#160;insights:&#160;Hear directly from Microsoft Security leaders and industry experts on the evolving threat landscape and the role of AI in defense.&#160;
-
-
-Community&#160;connections:&#160;Network with peers&#160;a...</description>
-    </item>
+    <lastBuildDate>Wed, 20 Aug 2025 20:09:02 GMT</lastBuildDate>
   </channel>
 </rss>
