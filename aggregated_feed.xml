@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 21 Aug 2025 18:12:03 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Entra Private Access for Domain Controllers is now in Public Preview</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-domain-controllers-is-now-in/ba-p/4440786</link>
-      <pubDate>Thu, 21 Aug 2025 16:35:44 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-domain-controllers-is-now-in/ba-p/4440786</guid>
-      <description>Microsoft Entra Private Access for Active Directory Domain Controllers is now in Public Preview. As part of Microsoft&#8217;s Security Service Edge (SSE), this feature lets organizations use Conditional Access and multi-factor authentication (MFA) for internal resources that authenticate through Kerberos, managed via Global Secure Access.
-Enforcing controls on the domain controller secures on-premises resources through dual-layer, identity-focused Zero Trust protection&#8212;covering both user and domain controller access, even for users on site.
-Seamlessly enforce identity controls across hybrid environm...</description>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 19:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
