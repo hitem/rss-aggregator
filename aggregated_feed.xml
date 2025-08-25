@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 25 Aug 2025 16:09:55 GMT</lastBuildDate>
-    <item>
-      <title>Post-breach browser abuse: a new frontier for threat actors</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/post-breach-browser-abuse-a-new-frontier-for-threat-actors/ba-p/4445722</link>
-      <pubDate>Mon, 25 Aug 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/post-breach-browser-abuse-a-new-frontier-for-threat-actors/ba-p/4445722</guid>
-      <description>Once an attacker has gained access to a system, the browser becomes a rich source of credentials, a platform for persistence, and a stealthy channel for data exfiltration. This blog outlines key abuse techniques and provides actionable detection strategies using Microsoft Defender for Endpoint and Microsoft Defender XDR.&#160;
-Why browsers matter after the breach&#160;
-Post-compromise, browsers offer attackers:&#160;
-
-Access to credentials (cookies, tokens, autofill data)&#160;
-
-
-Control over peripherals (camera, microphone, location)&#160;
-
-
-A trusted execution environment for evasion&#160;
-
-
-A platform for persistence vi...</description>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 17:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
