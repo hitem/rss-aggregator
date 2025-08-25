@@ -615,3 +615,4 @@
 2025-08-19T15:39:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/identify-defender-for-endpoint-onboarding-method-using/ba-p/4445263
 2025-08-20T18:16:35 https://techcommunity.microsoft.com/t5/microsoft-security-community/discover-the-latest-security-innovations-at-microsoft-ignite/ba-p/4446141
 2025-08-21T16:35:44 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-domain-controllers-is-now-in/ba-p/4440786
+2025-08-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/post-breach-browser-abuse-a-new-frontier-for-threat-actors/ba-p/4445722
