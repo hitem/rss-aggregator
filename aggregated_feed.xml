@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Aug 2025 18:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 19:00:59 GMT</lastBuildDate>
+    <item>
+      <title>Ingesting .CSV log files from Azure Blob Storage into Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingesting-csv-log-files-from-azure-blob-storage-into-microsoft/ba-p/4448377</link>
+      <pubDate>Tue, 26 Aug 2025 18:18:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingesting-csv-log-files-from-azure-blob-storage-into-microsoft/ba-p/4448377</guid>
+      <description>Overview:
+Organizations generate vast amounts of log data from various applications, services, and systems. These logs are often stored in .CSV (Comma-Separated Values) format in Azure Blob Storage, a scalable cloud-based storage solution. To enhance security monitoring, compliance, and threat detection, it is important to bring this log data into a centralized security tool like Microsoft Sentinel.The main goal is to automatically collect and analyze .CSV log files stored in Azure Blob Storage using Sentinel&#8217;s advanced analytics and automation capabilities. This enables better visibility into...</description>
+    </item>
   </channel>
 </rss>
