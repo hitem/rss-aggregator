@@ -615,3 +615,4 @@
 2025-08-21T16:35:44 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-private-access-for-domain-controllers-is-now-in/ba-p/4440786
 2025-08-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/post-breach-browser-abuse-a-new-frontier-for-threat-actors/ba-p/4445722
 2025-08-26T11:52:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposing-hidden-threats-across-the-ai-development-lifecycle-in/ba-p/4446792
+2025-08-26T16:42:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-vs-identity-threats-how-microsoft-entra-is-making-you-more/ba-p/4448076

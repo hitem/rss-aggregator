@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Aug 2025 16:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 17:00:51 GMT</lastBuildDate>
+    <item>
+      <title>AI vs Identity Threats: How Microsoft Entra Is Making You More Secure</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-vs-identity-threats-how-microsoft-entra-is-making-you-more/ba-p/4448076</link>
+      <pubDate>Tue, 26 Aug 2025 16:42:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-vs-identity-threats-how-microsoft-entra-is-making-you-more/ba-p/4448076</guid>
+      <description>Microsoft Entra now integrates Security Copilot, providing identity teams with AI-powered support for troubleshooting, investigating risks, and optimizing Conditional Access. The new&#160;Conditional Access Optimization Agent (CAOA) offers targeted recommendations and one-click fixes, streamlining protection tasks. This article gives a practical overview of these updates, including their functions and adoption strategies for your organization.
+The Challenge: Complex and Evolving Identity Security
+Managing identity security has become more complicated due to remote work, cloud adoption, and new thre...</description>
+    </item>
   </channel>
 </rss>
