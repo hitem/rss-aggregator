@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Aug 2025 22:00:42 GMT</lastBuildDate>
-    <item>
-      <title>Recommended Read: Securing and governing autonomous agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/recommended-read-securing-and-governing-autonomous-agents/ba-p/4429002</link>
-      <pubDate>Tue, 26 Aug 2025 21:18:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/recommended-read-securing-and-governing-autonomous-agents/ba-p/4429002</guid>
-      <description>Howdy folks!
-When you've got a few minutes, I recommend reading (or listening to) the Microsoft Security blog post Securing and governing the rise of autonomous agents. My colleague Igor Sakhnov, CVP of Engineering and Deputy Chief Information Security Officer (CISO) for Identity, shares his thoughts on the new risks and responsibilities we're all facing with agents.&#160;
-Starting with the provocative question By 2026, enterprises may have more autonomous agents than human users. Are we ready to secure and govern them? Igor explains why agents are a new entity type, not just a minor extension of e...</description>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 23:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
