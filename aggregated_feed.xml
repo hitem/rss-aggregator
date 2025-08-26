@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Aug 2025 13:24:34 GMT</lastBuildDate>
-    <item>
-      <title>Exposing hidden threats across the AI development lifecycle in the cloud</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposing-hidden-threats-across-the-ai-development-lifecycle-in/ba-p/4446792</link>
-      <pubDate>Tue, 26 Aug 2025 11:52:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposing-hidden-threats-across-the-ai-development-lifecycle-in/ba-p/4446792</guid>
-      <description>Introduction: The AI Lifecycle in the Cloud and Its Risks 
-As organizations increasingly adopt AI to drive innovation, the development and deployment of AI models, applications and agents is now taking place in the cloud more than ever before. Leading cloud platforms make it easier than ever to build, train, and deploy AI systems at scale - offering powerful compute, seamless integrations, and collaborative tools. However, this shift also introduces new security challenges at every stage of the development lifecycle.
-Whether you're training an AI model or deploying an AI application or agent, ...</description>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 14:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
