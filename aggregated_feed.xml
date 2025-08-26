@@ -3,22 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 26 Aug 2025 21:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 22:00:42 GMT</lastBuildDate>
     <item>
-      <title>Hear directly from Microsoft Deputy CISO: Securing and governing the rise of autonomous agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/hear-directly-from-microsoft-deputy-ciso-securing-and-governing/ba-p/4429002</link>
-      <pubDate>Tue, 26 Aug 2025 20:52:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/hear-directly-from-microsoft-deputy-ciso-securing-and-governing/ba-p/4429002</guid>
+      <title>Recommended Read: Securing and governing autonomous agents</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/recommended-read-securing-and-governing-autonomous-agents/ba-p/4429002</link>
+      <pubDate>Tue, 26 Aug 2025 21:18:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/recommended-read-securing-and-governing-autonomous-agents/ba-p/4429002</guid>
       <description>Howdy folks!
-When you've got a few minutes, I recommend reading (or listening to) the Microsoft Security blog post Securing and governing the rise of autonomous agents. My colleague Igor Saknov, CVP of Engineering and Deputy Chief Information Security Officer (CISO) for Identity, shares his thoughts on the new risks and responsibilities we're all facing with agents.&#160;
-Starting with the provocative question By 2026, enterprises may have more autonomous agents than human users. Are we ready to secure and govern them? Igor explains why agents are a new entity type, not just a minor extension of ex...</description>
-    </item>
-    <item>
-      <title>MVP Champ Spotlight- Pierre Thoor</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-pierre-thoor/ba-p/4448061</link>
-      <pubDate>Tue, 26 Aug 2025 20:29:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-pierre-thoor/ba-p/4448061</guid>
-      <description>Pierre is recognized as a Most Valued Professional (MVP) by Microsoft as an exceptional community leader for their technical expertise, leadership, speaking experience, online influence, and commitment to solving real-world problems. Learn more about MVPs and what it takes to become one here:&#160;FAQ | Most Valuable Professionals. Within our Security MVPs, Microsoft has hand-selected some of our top collaborative MVPs with a passion for working directly with the Product Group to share community insights with Microsoft and co-create content to help address the community needs. Read the interview be...</description>
+When you've got a few minutes, I recommend reading (or listening to) the Microsoft Security blog post Securing and governing the rise of autonomous agents. My colleague Igor Sakhnov, CVP of Engineering and Deputy Chief Information Security Officer (CISO) for Identity, shares his thoughts on the new risks and responsibilities we're all facing with agents.&#160;
+Starting with the provocative question By 2026, enterprises may have more autonomous agents than human users. Are we ready to secure and govern them? Igor explains why agents are a new entity type, not just a minor extension of e...</description>
     </item>
   </channel>
 </rss>
