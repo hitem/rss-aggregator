@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Aug 2025 16:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 17:00:41 GMT</lastBuildDate>
+    <item>
+      <title>No More Guesswork&#8212;Copilot Makes Azure Security Crystal Clear</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/no-more-guesswork-copilot-makes-azure-security-crystal-clear/ba-p/4448740</link>
+      <pubDate>Thu, 28 Aug 2025 16:22:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/no-more-guesswork-copilot-makes-azure-security-crystal-clear/ba-p/4448740</guid>
+      <description>Elevating Azure Security and Compliance&#160;
+In today&#8217;s rapidly evolving digital landscape, security and compliance are more critical than ever. As organizations migrate workloads to Azure, the need for robust security frameworks and proactive compliance strategies grows.&#160;Security&#160;Copilot, integrated with Azure, is transforming how technical teams approach these&#160;challenges,&#160;empowering users to build secure, compliant environments with greater efficiency and confidence.&#160;
+
+As a security expert, I&#8217;d like to provide clear guidance on how to effectively utilize Security Copilot in the ever-evolving lan...</description>
+    </item>
   </channel>
 </rss>
