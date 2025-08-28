@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Aug 2025 14:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 15:01:01 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s New in AI for Security from Microsoft Entra?</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-ai-for-security-from-microsoft-entra/ba-p/4448755</link>
+      <pubDate>Thu, 28 Aug 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-ai-for-security-from-microsoft-entra/ba-p/4448755</guid>
+      <description>Your teams are moving fast&#8212;and so are we!
+We&#8217;re committed to putting the most advanced identity security tools at your fingertips, so you can secure access with speed, precision, and confidence.This is the first of a regularly updated series highlighting the newest AI-powered capabilities in Microsoft Entra&#8212;each designed to help you investigate threats faster, manage identities more effectively, and automate protection with less effort. From natural language-driven investigations to proactive optimization powered by AI agents, these updates are all about helping you stay ahead of attackers whi...</description>
+    </item>
   </channel>
 </rss>
