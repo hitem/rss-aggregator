@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 28 Aug 2025 23:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 00:38:52 GMT</lastBuildDate>
+    <item>
+      <title>Elevating practitioner voices: Help shape the future Microsoft Entra community initiatives</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/elevating-practitioner-voices-help-shape-the-future-microsoft/ba-p/4448761</link>
+      <pubDate>Thu, 28 Aug 2025 23:26:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/elevating-practitioner-voices-help-shape-the-future-microsoft/ba-p/4448761</guid>
+      <description>At Microsoft Security, we believe the best communities are built with the people who use them every day. That&#8217;s why we want to hear from you.
+We&#8217;ve launched a&#160;quick survey&#160;to understand what matters most to identity and network security practitioners like you&#8212;your motivations, preferred platforms, and the types of content and connections that help you succeed.
+Your feedback will be used to inform how we shape Microsoft Entra community initiatives, from technical content and events to programs that truly support your work.
+Take the survey now and make your voice count.
+Thanks for helping us bui...</description>
+    </item>
   </channel>
 </rss>
