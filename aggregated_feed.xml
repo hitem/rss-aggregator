@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 29 Aug 2025 02:18:50 GMT</lastBuildDate>
-    <item>
-      <title>Transforming Enterprise AKS: Multi-Tenancy at Scale with Agentic AI and Semantic Kernel</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/transforming-enterprise-aks-multi-tenancy-at-scale-with-agentic/ba-p/4446252</link>
-      <pubDate>Fri, 29 Aug 2025 02:11:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/transforming-enterprise-aks-multi-tenancy-at-scale-with-agentic/ba-p/4446252</guid>
-      <description>In this post, I&#8217;ll show how you can deploy an AI Agent on Azure Kubernetes Service (AKS) using a multi-tenant approach that maximizes both security and cost efficiency. By isolating each tenant&#8217;s agent instance within the cluster and ensuring that every agent has access only to its designated Azure Blob Storage container, cross-tenant data leakage risks are eliminated. This deployment model allows you to allocate compute and storage resources per tenant, optimizing usage and spending while maintaining strong data segregation and operational flexibility&#8212;key requirements for scalable, enterprise...</description>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 03:27:21 GMT</lastBuildDate>
   </channel>
 </rss>
