@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 29 Aug 2025 18:10:52 GMT</lastBuildDate>
-    <item>
-      <title>Secure Model Context Protocol (MCP) Implementation with Azure and Local Servers</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-model-context-protocol-mcp-implementation-with-azure-and/ba-p/4449660</link>
-      <pubDate>Fri, 29 Aug 2025 17:57:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-model-context-protocol-mcp-implementation-with-azure-and/ba-p/4449660</guid>
-      <description>Introduction
-The Model Context Protocol (MCP) enables AI systems to interact with external data sources and tools through a standardized interface. While powerful, MCP can introduce security risks in enterprise environments. This tutorial shows you how to implement MCP securely using local servers, Azure OpenAI with APIM, and proper authentication.
-Understanding MCP's Security Risks
-There are a couple of key security concerns to consider before implementing MCP:
-
-Data Exfiltration: External MCP servers could expose sensitive data.
-Unauthorized Access: Third-party services become potential secu...</description>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 19:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
