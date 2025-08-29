@@ -619,3 +619,4 @@
 2025-08-28T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-ai-for-security-from-microsoft-entra/ba-p/4448755
 2025-08-28T16:22:47 https://techcommunity.microsoft.com/t5/microsoft-security-community/no-more-guesswork-copilot-makes-azure-security-crystal-clear/ba-p/4448740
 2025-08-28T23:26:29 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/elevating-practitioner-voices-help-shape-the-future-microsoft/ba-p/4448761
+2025-08-29T02:11:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/transforming-enterprise-aks-multi-tenancy-at-scale-with-agentic/ba-p/4446252
