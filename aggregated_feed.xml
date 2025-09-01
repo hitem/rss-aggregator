@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Sep 2025 06:14:22 GMT</lastBuildDate>
-    <item>
-      <title>Update Entra ID Device Extension Attributes via PowerShell &amp; Create Dynamic Security Groups.</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-entra-id-device-extension-attributes-via-powershell/ba-p/4449989</link>
-      <pubDate>Mon, 01 Sep 2025 05:44:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-entra-id-device-extension-attributes-via-powershell/ba-p/4449989</guid>
-      <description>2) Overview of Extension Attributes and Updating via PowerShell
-What Are Extension Attributes?
-
-Extension attributes (1&#8211;15) are predefined string fields available on Entra ID device objects.
-They are exposed to Microsoft Graph as the extensionAttributes property.
-These attributes can store custom values like department, environment tags (e.g., Prod, Dev), or ownership details.
-
-Why Use Them?
-
-Dynamic Group Membership: Use extension attributes in membership rules for security or Microsoft 365 groups.
-Policy Targeting: Apply Defender for Endpoint (MDE) policies, Conditional Access or Intune poli...</description>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 07:00:59 GMT</lastBuildDate>
   </channel>
 </rss>
