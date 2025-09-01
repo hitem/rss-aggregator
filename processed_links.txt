@@ -618,3 +618,4 @@
 2025-08-28T23:26:29 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/elevating-practitioner-voices-help-shape-the-future-microsoft/ba-p/4448761
 2025-08-29T02:11:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/transforming-enterprise-aks-multi-tenancy-at-scale-with-agentic/ba-p/4446252
 2025-08-29T17:57:23 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-model-context-protocol-mcp-implementation-with-azure-and/ba-p/4449660
+2025-09-01T05:44:11 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-entra-id-device-extension-attributes-via-powershell/ba-p/4449989
