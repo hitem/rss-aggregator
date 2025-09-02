@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Sep 2025 11:00:52 GMT</lastBuildDate>
-    <item>
-      <title>Monthly news - September 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-september-2025/ba-p/4450292</link>
-      <pubDate>Tue, 02 Sep 2025 10:18:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-september-2025/ba-p/4450292</guid>
-      <description>Microsoft DefenderMonthly news - September 2025 Edition
-
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from August 2025. Defender for Cloud has it's own Monthly News post, have a look at&#160;their blog space.&#160;
-
-New Virtual Ninja Show episodes:
-
-Announcing Microsoft Sentinel data lake.&#160;
-Inside the new Phishing Triage Agent in Security Copilot.
-
-Microsoft Defender
-
-Public Preview items in advanced hunting:
-
-The new CloudStorageAggregatedEv...</description>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 12:15:36 GMT</lastBuildDate>
   </channel>
 </rss>
