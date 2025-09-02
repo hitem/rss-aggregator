@@ -620,3 +620,4 @@
 2025-08-29T17:57:23 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-model-context-protocol-mcp-implementation-with-azure-and/ba-p/4449660
 2025-09-01T05:44:11 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-entra-id-device-extension-attributes-via-powershell/ba-p/4449989
 2025-09-02T10:18:28 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-september-2025/ba-p/4450292
+2025-09-02T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/enhanced-ediscovery-premium-apis/ba-p/4446396
