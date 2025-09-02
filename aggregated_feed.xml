@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Sep 2025 16:10:06 GMT</lastBuildDate>
-    <item>
-      <title>Cloud forensics: Why enabling Microsoft Azure Storage Account logs matters</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-storage-account/ba-p/4445723</link>
-      <pubDate>Tue, 02 Sep 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-storage-account/ba-p/4445723</guid>
-      <description>Co-authors -&#160;Christoph Dreymann - Shiva P
-Introduction
-Azure Storage Accounts are frequently targeted by threat actors. Their goal is to &#160;exfiltrate sensitive data to an external infrastructure under their control. Because diagnostic logging is not always fully enabled by default, valuable evidence of their malicious actions may be lost.&#160;
-With this blog, we will explore realistic attack scenarios and demonstrate the types of artifacts those activities generate. &#160;By properly enabling Microsoft Azure Storage Account logs investigators gain a better understanding of the scope of the incident. The...</description>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 17:00:47 GMT</lastBuildDate>
   </channel>
 </rss>
