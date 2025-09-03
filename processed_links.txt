@@ -1,4 +1,3 @@
-2024-09-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/mfa-enforcement-for-microsoft-entra-admin-center-sign-in-coming/ba-p/4230849
 2024-09-03T16:37:43 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-prioritization-is/ba-p/4160316
 2024-09-03T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632
 2024-09-03T17:56:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/unlocking-real-world-security-defending-against-crypto-mining/ba-p/4228815
@@ -620,3 +619,4 @@
 2025-09-02T10:18:28 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-september-2025/ba-p/4450292
 2025-09-02T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/enhanced-ediscovery-premium-apis/ba-p/4446396
 2025-09-02T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-storage-account/ba-p/4445723
+2025-09-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/custom-detection-rules-get-a-boost-explore-what-s-new-in/ba-p/4443602
