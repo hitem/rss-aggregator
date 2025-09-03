@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Sep 2025 17:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Phishing Triage Agent in Defender XDR: Say Goodbye to False Positives and Analyst Fatigue</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/phishing-triage-agent-in-defender-xdr-say-goodbye-to-false/ba-p/4450412</link>
-      <pubDate>Wed, 03 Sep 2025 16:45:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/phishing-triage-agent-in-defender-xdr-say-goodbye-to-false/ba-p/4450412</guid>
-      <description>Phishing&#160;remains one of the most common and dangerous attack vectors in cybersecurity. With the rise of user-reported suspicious emails, Security Operations Center&#160;(SOC)&#160;teams are overwhelmed by the volume and complexity of triage. Enter the Phishing Triage Agent, a new capability within Microsoft Defender XDR and Security Copilot that uses AI to automate phishing classification, reduce false positives, and accelerate incident response.&#160;
-&#160;
-
-&#160;Image from&#160;Microsoft Learn&#160;-&#160;Microsoft Security Copilot Agents&#160;
-What&#8217;s the Issue?&#160;
-SOC analysts&#160;regularly handle a high volume of suspicious email reports...</description>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 18:11:01 GMT</lastBuildDate>
   </channel>
 </rss>
