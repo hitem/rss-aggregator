@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Sep 2025 19:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 20:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Introducing new security and compliance add-ons for Microsoft 365 Business Premium</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-new-security-and-compliance-add-ons-for-microsoft/ba-p/4449297</link>
+      <pubDate>Wed, 03 Sep 2025 19:34:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-new-security-and-compliance-add-ons-for-microsoft/ba-p/4449297</guid>
+      <description>Small and medium businesses (SMBs) are under pressure like never before. Cyber threats are evolving rapidly, and regulatory requirements are becoming increasingly complex.&#160;Microsoft 365 Business Premium&#160;is our productivity and security solution designed for&#160;SMBs&#160;(25&#8211;300 users). It includes Office apps, Teams, advanced security&#160;such as Microsoft&#160;Defender for Business, and device management&#160;&#8212;&#160;all in one cost-effective package.&#160;&#160;
+Today,&#160;we&#8217;re&#160;taking&#160;that a step further.&#160;We&#8217;re&#160;excited to announce three new&#160;Microsoft 365 Business Premium&#160;add-ons designed to supercharge&#160;security and compliance. Tail...</description>
+    </item>
   </channel>
 </rss>
