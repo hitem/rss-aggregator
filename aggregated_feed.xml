@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 Sep 2025 16:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 17:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Protect against OAuth Attacks in Salesforce with Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-against-oauth-attacks-in-salesforce-with-microsoft/ba-p/4450584</link>
+      <pubDate>Thu, 04 Sep 2025 16:45:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-against-oauth-attacks-in-salesforce-with-microsoft/ba-p/4450584</guid>
+      <description>An ongoing campaign of security incidents has been observed across multiple large enterprises, involving&#160;unauthorized access to the organizational Salesforce CRM systems using OAuth applications - resulting in data breaches and exfiltration - underscore both the escalating pace of cloud-based&#160;attacks and the importance of addressing SaaS application security. In response, Salesforce has started to enforce improved OAuth app blocking policies.&#160;&#160;
+The activity has been partially attributed to a threat actor publicly dubbed and known as ShinyHunters, which led to breaches at multiple global firms....</description>
+    </item>
   </channel>
 </rss>
