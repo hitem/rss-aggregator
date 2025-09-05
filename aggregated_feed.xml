@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 05 Sep 2025 15:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 16:09:36 GMT</lastBuildDate>
+    <item>
+      <title>Azure Front Door Protection against CVE-2025-8671 (MadeYouReset)</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-front-door-protection-against-cve-2025-8671-madeyoureset/ba-p/4451361</link>
+      <pubDate>Fri, 05 Sep 2025 15:46:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-front-door-protection-against-cve-2025-8671-madeyoureset/ba-p/4451361</guid>
+      <description>A new HTTP/2 vulnerability, CVE-2025-8671 (MadeYouReset), was recently disclosed on August 13, 2025. This attack leverages carefully crafted protocol frames to force servers into repeatedly resetting streams on a single connection, which can lead to high resource consumption and denial of service (DoS) in extreme cases. MadeYouReset and Rapid Reset (CVE-2023-44487) are two similar attack patterns exploiting HTTP/2 steam resets feature leading to resource exhaustion.&#160;&#160;
+Stronger Defense with Azure Front Door&#160;&#160;
+If you are using Azure Front Door, you are already protected against MadeYouReset vuln...</description>
+    </item>
   </channel>
 </rss>
