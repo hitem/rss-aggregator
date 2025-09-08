@@ -611,3 +611,4 @@
 2025-09-03T19:34:41 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-new-security-and-compliance-add-ons-for-microsoft/ba-p/4449297
 2025-09-04T16:45:46 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-against-oauth-attacks-in-salesforce-with-microsoft/ba-p/4450584
 2025-09-05T15:46:11 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-front-door-protection-against-cve-2025-8671-madeyoureset/ba-p/4451361
+2025-09-08T16:03:44 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-copilot-studio-ai-agents-in-real-time-with-microsoft/ba-p/4446560

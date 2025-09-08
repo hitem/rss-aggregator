@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Sep 2025 16:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 17:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Protect Copilot Studio AI Agents in Real Time with Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-copilot-studio-ai-agents-in-real-time-with-microsoft/ba-p/4446560</link>
+      <pubDate>Mon, 08 Sep 2025 16:03:44 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-copilot-studio-ai-agents-in-real-time-with-microsoft/ba-p/4446560</guid>
+      <description>Building AI agents has never been easier.&#160;Platforms like Microsoft Copilot Studio democratize the creation of AI agents and empower&#160;non-technical&#160;users&#160;to build intelligent agents that automate tasks and streamline business processes. These agents can answer questions, orchestrate complex tasks, and integrate with enterprise systems to boost productivity and creativity. Organizations are embracing a future where every team has AI agents working alongside them to increase efficiency and responsiveness.&#160;&#160;
+While AI agents&#160;unlock&#160;exciting new possibilities, they also introduce new security risks, ...</description>
+    </item>
   </channel>
 </rss>
