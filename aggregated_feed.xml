@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Sep 2025 00:38:28 GMT</lastBuildDate>
-    <item>
-      <title>Windows 365 Link &#8211; Deployment Planning, Setup and Enrollment</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-link-deployment-planning-setup-and-enrollment/ba-p/4452259</link>
-      <pubDate>Tue, 09 Sep 2025 00:21:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-link-deployment-planning-setup-and-enrollment/ba-p/4452259</guid>
-      <description>Introduction and Initial Thoughts
-Hi folks, Mike Hildebrand here!&#160; It's fall in the US - school is back in session, the NFL football season has begun, and I've been spending some quality time with our Windows 365 Link device. &#160;Let's take a look...
-The&#160;Windows 365 Link&#160;is a neat little purpose-built device, designed to enable easy deployment and simple, secure access to your Windows 365 Cloud PCs.&#160;
-The Link device is a &#8216;last mile&#8217; endpoint device; there are pre-requisites that need to be in place in Intune, Entra and Windows 365 for both deployment of Link, as well as on-going use of Link to ac...</description>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 02:16:48 GMT</lastBuildDate>
   </channel>
 </rss>
