@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Sep 2025 15:01:13 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Sentinel&#8217;s AI-driven UEBA ushers in the next era of behavioral analytics</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-ai-driven-ueba-ushers-in-the-next-era-of/ba-p/4448390</link>
-      <pubDate>Tue, 09 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-ai-driven-ueba-ushers-in-the-next-era-of/ba-p/4448390</guid>
-      <description>Security teams today face an overwhelming challenge: every data point is now a potential security signal and SOCs are drowning in complex logs, trying to find the needle in the haystack. Microsoft Sentinel User and Entity Behavior Analytics (UEBA) brings the power of AI to automatically surface anomalous behaviors, helping analysts cut through the noise, save time, and focus on what truly matters.&#160;
-Microsoft Sentinel UEBA has already helped SOCs uncover insider threats, detect compromised accounts, and reveal subtle attack signals that traditional rule-based methods often miss. These capabilit...</description>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 16:10:00 GMT</lastBuildDate>
   </channel>
 </rss>
