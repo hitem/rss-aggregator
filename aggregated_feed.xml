@@ -3,17 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Sep 2025 14:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 15:01:13 GMT</lastBuildDate>
     <item>
-      <title>Security Review for Microsoft Edge version 140</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-140/ba-p/4452553</link>
-      <pubDate>Tue, 09 Sep 2025 13:57:15 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-140/ba-p/4452553</guid>
-      <description>We have reviewed the new settings in Microsoft Edge version 140 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 139 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 140 introduced 7 new Computer and 6 new User settings, we have included a spreadsheet listing the new settings to make it easier for you to find.
-&#160;
-As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available set...</description>
+      <title>Microsoft Sentinel&#8217;s AI-driven UEBA ushers in the next era of behavioral analytics</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-ai-driven-ueba-ushers-in-the-next-era-of/ba-p/4448390</link>
+      <pubDate>Tue, 09 Sep 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-ai-driven-ueba-ushers-in-the-next-era-of/ba-p/4448390</guid>
+      <description>Security teams today face an overwhelming challenge: every data point is now a potential security signal and SOCs are drowning in complex logs, trying to find the needle in the haystack. Microsoft Sentinel User and Entity Behavior Analytics (UEBA) brings the power of AI to automatically surface anomalous behaviors, helping analysts cut through the noise, save time, and focus on what truly matters.&#160;
+Microsoft Sentinel UEBA has already helped SOCs uncover insider threats, detect compromised accounts, and reveal subtle attack signals that traditional rule-based methods often miss. These capabilit...</description>
     </item>
   </channel>
 </rss>
