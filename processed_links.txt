@@ -612,3 +612,4 @@
 2025-09-09T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-ai-driven-ueba-ushers-in-the-next-era-of/ba-p/4448390
 2025-09-10T11:25:14 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-application-gateway-protection-against-cve-2025-8671/ba-p/4452921
 2025-09-10T12:49:13 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/ba-p/4449027
+2025-09-10T16:21:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/elevating-trust-in-data-through-data-quality-in-the-ai-era/ba-p/4452729

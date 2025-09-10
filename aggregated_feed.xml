@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Sep 2025 16:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 17:00:54 GMT</lastBuildDate>
+    <item>
+      <title>Elevating Trust in Data through Data Quality in the AI Era</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/elevating-trust-in-data-through-data-quality-in-the-ai-era/ba-p/4452729</link>
+      <pubDate>Wed, 10 Sep 2025 16:21:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/elevating-trust-in-data-through-data-quality-in-the-ai-era/ba-p/4452729</guid>
+      <description>Data collection and utilization are growing rapidly, and organizations are increasingly relying on data as they transition into the era of AI. However, many face significant challenges in effectively managing investments across cloud, data, and AI. This is largely due to a lack of visibility across their entire data estate&#8212;which is often fragmented across silos, heterogeneous systems, on-premises environments, and the cloud. Concerns about data trustworthiness, AI-readiness, and uncertainty around security and compliance further complicate the ability to drive timely business insights.
+Elevati...</description>
+    </item>
   </channel>
 </rss>
