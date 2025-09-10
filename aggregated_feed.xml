@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Sep 2025 13:17:54 GMT</lastBuildDate>
-    <item>
-      <title>How to: Ingest Splunk alert data to Microsoft Sentinel SIEM</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/ba-p/4449027</link>
-      <pubDate>Wed, 10 Sep 2025 12:49:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/ba-p/4449027</guid>
-      <description>Thanks to Javier Soriano, Principal Product Manager - OneSOC Customer Experience Engineering, for the peer review
-Introduction
-Although the recommended approach is to not have multiple SIEM solutions in place, many organizations are still running dual-SIEM setups, sometimes even introducing additional ones in the mix. Combination most often seen is running a legacy solution and pairing it with modern SIEM solutions like Microsoft Sentinel SIEM. Side-by-side architecture is recommended for just long enough to complete the migration, train people and update processes - but organizations might st...</description>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 14:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
