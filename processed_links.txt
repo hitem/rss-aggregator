@@ -612,3 +612,4 @@
 2025-09-09T00:21:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-link-deployment-planning-setup-and-enrollment/ba-p/4452259
 2025-09-09T13:57:15 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-140/ba-p/4452553
 2025-09-09T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-ai-driven-ueba-ushers-in-the-next-era-of/ba-p/4448390
+2025-09-10T11:25:14 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-application-gateway-protection-against-cve-2025-8671/ba-p/4452921
