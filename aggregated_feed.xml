@@ -3,15 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Sep 2025 12:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 13:17:54 GMT</lastBuildDate>
     <item>
-      <title>Azure Application Gateway protection against CVE-2025-8671 (MadeYouReset)</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-application-gateway-protection-against-cve-2025-8671/ba-p/4452921</link>
-      <pubDate>Wed, 10 Sep 2025 11:25:14 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-application-gateway-protection-against-cve-2025-8671/ba-p/4452921</guid>
-      <description>A new HTTP/2 vulnerability, CVE-2025-8671 (MadeYouReset), was recently disclosed on August 13, 2025. This attack leverages carefully crafted protocol frames to force servers into repeatedly resetting streams on a single connection, which can lead to high resource consumption and denial of service (DoS) in extreme cases. MadeYouReset and Rapid Reset (CVE-2023-44487) are two similar attack patterns exploiting HTTP/2 steam resets feature leading to resource exhaustion.&#160;&#160;&#160;
-Stronger Defense with Azure Application Gateway&#160;&#160;&#160;
-If you are using Azure Application Gateway, you are already protected again...</description>
+      <title>How to: Ingest Splunk alert data to Microsoft Sentinel SIEM</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/ba-p/4449027</link>
+      <pubDate>Wed, 10 Sep 2025 12:49:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/ba-p/4449027</guid>
+      <description>Thanks to Javier Soriano, Principal Product Manager - OneSOC Customer Experience Engineering, for the peer review
+Introduction
+Although the recommended approach is to not have multiple SIEM solutions in place, many organizations are still running dual-SIEM setups, sometimes even introducing additional ones in the mix. Combination most often seen is running a legacy solution and pairing it with modern SIEM solutions like Microsoft Sentinel SIEM. Side-by-side architecture is recommended for just long enough to complete the migration, train people and update processes - but organizations might st...</description>
     </item>
   </channel>
 </rss>
