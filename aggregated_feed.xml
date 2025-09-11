@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Sep 2025 14:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 15:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Intune AI Agent: Instant Threat Defense, Invisible Protection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/intune-ai-agent-instant-threat-defense-invisible-protection/ba-p/4453118</link>
+      <pubDate>Thu, 11 Sep 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/intune-ai-agent-instant-threat-defense-invisible-protection/ba-p/4453118</guid>
+      <description>
+From&#160;Microsoft Learn - Vulnerability Remediation Agent
+&#160;
+In today&#8217;s threat landscape, security teams require more than traditional tools&#8212;they need automation that can adapt in real time. Microsoft Intune&#8217;s integration with Security Copilot agents addresses this need. This blog introduces the Vulnerability Remediation Agent, an AI-based solution for managing endpoint security.
+By leveraging Microsoft&#8217;s threat intelligence alongside large language models (LLMs), these agents provide insights, automate policy enforcement, and simplify remediation workflows. Whether responding to compromised devi...</description>
+    </item>
   </channel>
 </rss>
