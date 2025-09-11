@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Sep 2025 17:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 18:00:59 GMT</lastBuildDate>
+    <item>
+      <title>Introducing eDiscovery Graph API Standard and Enhancements to Premium APIs</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-ediscovery-graph-api-standard-and-enhancements-to/ba-p/4446396</link>
+      <pubDate>Thu, 11 Sep 2025 17:59:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-ediscovery-graph-api-standard-and-enhancements-to/ba-p/4446396</guid>
+      <description>We have been busy working to enable organisations that leverage the Microsoft Purview eDiscovery Graph APIs to benefit from the enhancements in the new modern experience for eDiscovery. I am pleased to share that APIs have now been updated with additional parameters to enable organisations to now benefit from the following features already present in the modern experience within the Purview Portal:
+
+Ability to control the export package structure and item naming convention
+Trigger advanced indexing as part of the Statistics, Add to Review and Export jobs
+Enables for the first time the ability ...</description>
+    </item>
   </channel>
 </rss>

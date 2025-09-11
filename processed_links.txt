@@ -614,3 +614,4 @@
 2025-09-10T12:49:13 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/ba-p/4449027
 2025-09-10T16:21:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/elevating-trust-in-data-through-data-quality-in-the-ai-era/ba-p/4452729
 2025-09-11T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/intune-ai-agent-instant-threat-defense-invisible-protection/ba-p/4453118
+2025-09-11T17:59:56 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-ediscovery-graph-api-standard-and-enhancements-to/ba-p/4446396
