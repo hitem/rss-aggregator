@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Sep 2025 19:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 20:01:10 GMT</lastBuildDate>
+    <item>
+      <title>New Microsoft Purview Deployment Blueprint | Lightweight guide to mitigate data leakage</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-deployment-blueprint-lightweight-guide-to/ba-p/4453656</link>
+      <pubDate>Mon, 15 Sep 2025 19:23:13 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-deployment-blueprint-lightweight-guide-to/ba-p/4453656</guid>
+      <description>We&#8217;re excited to share our latest Data Security deployment blueprint: &#8220;Lightweight guide to mitigate data leakage&#8221;&#8212;a practical resource designed to help organizations quickly enable core data security features across their Microsoft 365 estate with minimal setup.
+The blueprint follows a good / better / best model that maps protections to your licensing. &#8220;Good&#8221; highlights foundational features included in Business Premium SKUs, while &#8220;Better&#8221; and &#8220;Best&#8221; layer in advanced E5 Compliance capabilities, such as auto-labeling, Endpoint DLP, insider risk signals and much more. With the new E5 Complian...</description>
+    </item>
   </channel>
 </rss>
