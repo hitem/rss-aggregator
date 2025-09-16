@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Sep 2025 15:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (August 2025)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2025/ba-p/4454529</link>
-      <pubDate>Tue, 16 Sep 2025 15:00:45 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2025/ba-p/4454529</guid>
-      <description>Member: TysonPaul | Microsoft Community Hub
-
-Enhance Your Data Protection Strategy with Azure Elastic SAN&#8217;s Newest Backup Options
-Team Blog: Azure Storage
-Author: adarsh_v
-Published: 08/18/2025
-Summary: Azure Elastic SAN now supports public preview integrations with Azure Backup and Commvault, providing automated, managed backup and recovery for Elastic SAN volumes. Azure Backup offers independent, crash-consistent snapshots, up to 450 daily restore points, simplified management, and seamless Azure integration. Commvault delivers enterprise-grade protection, snapshot-based backups, flexible re...</description>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 16:00:50 GMT</lastBuildDate>
   </channel>
 </rss>
