@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Sep 2025 19:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 20:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Identity and Network Security Practitioner Webinar Series</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-and-network-security-practitioner-webinar-series/ba-p/4448759</link>
+      <pubDate>Tue, 16 Sep 2025 19:50:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-and-network-security-practitioner-webinar-series/ba-p/4448759</guid>
+      <description>At Microsoft Security, we believe the best communities are built with the people who use them every day. That&#8217;s why we want to hear from you.
+Webinar series: Microsoft Entra Practitioner Webinar Series (October 2025)&#160;
+This October, we&#8217;re hosting a&#160;three-part webinar series&#160;for Identity and Network Access practitioners. Join us as we journey from high-level strategy to hands-on&#160;implementation, unifying identity and network access every step of the way. Each session builds on the last, helping you move from understanding&#160;why&#160;a unified approach matters to&#160;what are the foundations to get started, ...</description>
+    </item>
   </channel>
 </rss>
