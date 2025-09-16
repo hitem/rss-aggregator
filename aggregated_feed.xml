@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Sep 2025 22:00:53 GMT</lastBuildDate>
-    <item>
-      <title>Beyond OAuth: Why SCIM must evolve for the AI agent revolution</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/beyond-oauth-why-scim-must-evolve-for-the-ai-agent-revolution/ba-p/4433036</link>
-      <pubDate>Tue, 16 Sep 2025 21:21:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/beyond-oauth-why-scim-must-evolve-for-the-ai-agent-revolution/ba-p/4433036</guid>
-      <description>Hello, innovators and identity architects!
-A few months ago, I shared my thoughts on the future of AI agents &#8211; and why OAuth must evolve. We explored how AI agents, with their newfound autonomy and need for secure, programmatic access, challenge the very foundations of how we think about authorization. Today, I want to address the equally important but less visible area of identity provisioning and governance.
-As AI agents transition from concept to widespread implementation, the current identity infrastructure&#8212;effective for humans and traditional applications&#8212;must adapt to new requirements. A...</description>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 23:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
