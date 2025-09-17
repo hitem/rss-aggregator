@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Sep 2025 18:11:10 GMT</lastBuildDate>
-    <item>
-      <title>Cyber Dial Agent: Protecting Your Custom Copilot Agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846</link>
-      <pubDate>Wed, 17 Sep 2025 17:23:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846</guid>
-      <description>Introducing&#8230;the Cyber Dial Agent; a browser add-on and agent that streamlines security investigations by providing analysts with a unified, menu-driven interface to quickly access relevant pages in Microsoft Defender, Purview, and Defender for Cloud. This tool eliminates the need for manual searches across multiple portals, reducing investigation time and minimizing context switching for both technical and non-technical users. Visit the full article &#8220;Safeguard &amp; Protect Your Custom Copilot Agents (Cyber Dial Agent)&#8221; in the Microsoft Purview Community Blog. You&#8217;ll access detailed, visual, step-...</description>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 19:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
