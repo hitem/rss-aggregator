@@ -617,3 +617,4 @@
 2025-09-16T19:50:05 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-and-network-security-practitioner-webinar-series/ba-p/4448759
 2025-09-16T21:21:21 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/beyond-oauth-why-scim-must-evolve-for-the-ai-agent-revolution/ba-p/4433036
 2025-09-17T01:33:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automated-remediation-for-malware-detection-defender-for-storage/ba-p/4454641
+2025-09-17T16:09:24 https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588

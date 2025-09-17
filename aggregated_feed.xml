@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Sep 2025 16:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 17:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the new Network Security Hub in Azure</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588</link>
+      <pubDate>Wed, 17 Sep 2025 16:09:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588</guid>
+      <description>Background:
+Since its launch in 2020, Azure Firewall Manager has supported customers in securing their networks. But the role of network security has since evolved, from a foundational requirement to a strategic priority for organizations. Today, organizations must protect every endpoint, server, and workload, as attackers continually search for the weakest link.
+Over the years, we&#8217;ve heard consistent feedback about the importance of centralized management, easier service discovery, and streamlined monitoring across their network security tools. These capabilities can make the difference betwe...</description>
+    </item>
   </channel>
 </rss>
