@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Sep 2025 02:12:30 GMT</lastBuildDate>
-    <item>
-      <title>Automated Remediation for Malware Detection - Defender for Storage</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automated-remediation-for-malware-detection-defender-for-storage/ba-p/4454641</link>
-      <pubDate>Wed, 17 Sep 2025 01:33:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automated-remediation-for-malware-detection-defender-for-storage/ba-p/4454641</guid>
-      <description>Today, Defender for Storage released, in public preview for Commercial Cloud, the feature Automated Remediation for Malware Detection. This is for both On-upload and On-demand malware scanning. The full documentation can be found in&#160;this link.
-&#160;
-What does it do?
-Anytime that a blob is found malicious (malicious content was found in the blob), the Automated Remediation feature will kick in and soft-delete the blob.
-&#160;
-What do you mean by soft-delete?
-As soon as you enable Automated Remediation for Malware Detection, at the subscription level or storage account level, under &#8220;Data Management&#8221;, two...</description>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 03:19:36 GMT</lastBuildDate>
   </channel>
 </rss>
