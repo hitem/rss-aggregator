@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Sep 2025 21:00:43 GMT</lastBuildDate>
-    <item>
-      <title>Cybersecurity: What Every Business Leader Needs to Know Now</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/cybersecurity-what-every-business-leader-needs-to-know-now/ba-p/4454719</link>
-      <pubDate>Wed, 17 Sep 2025 20:14:20 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/cybersecurity-what-every-business-leader-needs-to-know-now/ba-p/4454719</guid>
-      <description>&#160;
-&#160;
-&#160;
-As a Senior Cybersecurity Solution Architect, I&#8217;ve had the privilege of supporting organisations across the United Kingdom, Europe, and the United States&#8212;spanning sectors from finance to healthcare&#8212;in strengthening their security posture. One thing has become abundantly clear:&#160;cybersecurity is no longer the sole domain of IT departments. It is a strategic imperative that demands attention at board-level.This guide distils five key lessons drawn from real-world engagements to help executive leaders navigate today&#8217;s evolving threat landscape. These insights are not merely technical&#8212;they ar...</description>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 22:01:02 GMT</lastBuildDate>
   </channel>
 </rss>
