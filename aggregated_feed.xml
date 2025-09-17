@@ -3,15 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Sep 2025 17:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 18:11:10 GMT</lastBuildDate>
     <item>
-      <title>Introducing the new Network Security Hub in Azure</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588</link>
-      <pubDate>Wed, 17 Sep 2025 16:09:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588</guid>
-      <description>Background:
-Since its launch in 2020, Azure Firewall Manager has supported customers in securing their networks. But the role of network security has since evolved, from a foundational requirement to a strategic priority for organizations. Today, organizations must protect every endpoint, server, and workload, as attackers continually search for the weakest link.
-Over the years, we&#8217;ve heard consistent feedback about the importance of centralized management, easier service discovery, and streamlined monitoring across their network security tools. These capabilities can make the difference betwe...</description>
+      <title>Cyber Dial Agent: Protecting Your Custom Copilot Agents</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846</link>
+      <pubDate>Wed, 17 Sep 2025 17:23:31 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846</guid>
+      <description>Introducing&#8230;the Cyber Dial Agent; a browser add-on and agent that streamlines security investigations by providing analysts with a unified, menu-driven interface to quickly access relevant pages in Microsoft Defender, Purview, and Defender for Cloud. This tool eliminates the need for manual searches across multiple portals, reducing investigation time and minimizing context switching for both technical and non-technical users. Visit the full article &#8220;Safeguard &amp; Protect Your Custom Copilot Agents (Cyber Dial Agent)&#8221; in the Microsoft Purview Community Blog. You&#8217;ll access detailed, visual, step-...</description>
     </item>
   </channel>
 </rss>
