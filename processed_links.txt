@@ -619,3 +619,4 @@
 2025-09-17T01:33:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automated-remediation-for-malware-detection-defender-for-storage/ba-p/4454641
 2025-09-17T16:09:24 https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588
 2025-09-17T17:23:31 https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846
+2025-09-17T20:14:20 https://techcommunity.microsoft.com/t5/microsoft-security-community/cybersecurity-what-every-business-leader-needs-to-know-now/ba-p/4454719
