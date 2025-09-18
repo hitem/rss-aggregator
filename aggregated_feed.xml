@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Sep 2025 16:01:04 GMT</lastBuildDate>
-    <item>
-      <title>How Microsoft Defender Experts and partners like Quorum Cyber are redefining cybersecurity teamwork</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-and-partners-like-quorum-cyber/ba-p/4452639</link>
-      <pubDate>Thu, 18 Sep 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-and-partners-like-quorum-cyber/ba-p/4452639</guid>
-      <description>In today&#8217;s rapidly evolving threat landscape, cybersecurity demands more than just great technology&#8212;it requires great teamwork. That&#8217;s the story behind the collaboration between Microsoft Defender Experts and MXDR partner, Quorum Cyber, joining forces to deliver end-to-end threat protection for organizations worldwide.&#160;
-Microsoft-verified MXDR partner&#160;&#160;
-Microsoft Defender Experts recognized the need for partner-led managed services to complement their first-party MDR (Managed Detection and Response) service.&#160;&#160;
-Quorum Cyber is a trusted Microsoft solutions partner and MSSP of the Year. They are...</description>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 17:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
