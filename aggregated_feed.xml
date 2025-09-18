@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Sep 2025 11:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 12:14:18 GMT</lastBuildDate>
+    <item>
+      <title>Automate Security Workflows in Microsoft Sentinel with BlinkOps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/ba-p/4454575</link>
+      <pubDate>Thu, 18 Sep 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/ba-p/4454575</guid>
+      <description>Automate Security Workflows in Microsoft Sentinel with BlinkOps
+Security teams are under increasing pressure to respond faster to threats while managing growing complexity across their environments. Microsoft Sentinel&#8217;s elevated integration with BlinkOps helps address this challenge by enabling AI-powered, no-code automation that simplifies and accelerates security operations.
+Introducing BlinkOps for Microsoft Sentinel
+BlinkOps is a no-code security automation platform designed for security and platform operations teams. It allows users to build and scale workflows using natural language prom...</description>
+    </item>
   </channel>
 </rss>

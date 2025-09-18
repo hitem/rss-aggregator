@@ -1,4 +1,3 @@
-2024-09-18T11:24:35 https://techcommunity.microsoft.com/t5/azure-network-security-blog/utilizing-azure-ddos-protection-workbook-for-ddos-attack-traffic/ba-p/4248830
 2024-09-18T13:13:16 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-browser-anomalies-to-disrupt-attacks-early/ba-p/4246459
 2024-09-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-now-generally-available/ba-p/3922547
 2024-09-19T22:38:42 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-129/ba-p/4250551
@@ -620,3 +619,4 @@
 2025-09-17T16:09:24 https://techcommunity.microsoft.com/t5/azure-network-security-blog/introducing-the-new-network-security-hub-in-azure/ba-p/4454588
 2025-09-17T17:23:31 https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846
 2025-09-17T20:14:20 https://techcommunity.microsoft.com/t5/microsoft-security-community/cybersecurity-what-every-business-leader-needs-to-know-now/ba-p/4454719
+2025-09-18T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/ba-p/4454575
