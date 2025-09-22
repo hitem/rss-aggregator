@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Sep 2025 15:00:53 GMT</lastBuildDate>
-    <item>
-      <title>Driving transparency: New logging capabilities and attribute enhancements in Microsoft Entra</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-transparency-new-logging-capabilities-and-attribute/ba-p/4436814</link>
-      <pubDate>Mon, 22 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-transparency-new-logging-capabilities-and-attribute/ba-p/4436814</guid>
-      <description>At Microsoft Security, our commitment to transparency shapes every step we take toward providing customers with better insights. Today, we're excited to announce several enhancements to the logging capabilities of Microsoft Entra, making sign-in activity more comprehensive, actionable, and accessible.
-Representing agents in Microsoft Entra sign-in logs
-Alex Simons recently announced Microsoft Entra Agent ID, a powerful new unified solution that brings together all agent identities created across Microsoft Copilot Studio and Azure AI Foundry. Over the next six months, we&#8217;re expanding support to...</description>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 16:01:03 GMT</lastBuildDate>
   </channel>
 </rss>
