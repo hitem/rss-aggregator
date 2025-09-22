@@ -615,3 +615,4 @@
 2025-09-17T20:14:20 https://techcommunity.microsoft.com/t5/microsoft-security-community/cybersecurity-what-every-business-leader-needs-to-know-now/ba-p/4454719
 2025-09-18T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/ba-p/4454575
 2025-09-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-and-partners-like-quorum-cyber/ba-p/4452639
+2025-09-22T07:22:04 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-web-application-traffic-for-configuring-rate-limit-on/ba-p/4454092

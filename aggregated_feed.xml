@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Sep 2025 07:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 08:00:59 GMT</lastBuildDate>
+    <item>
+      <title>Monitoring web application traffic for configuring rate limit on Azure Front Door WAF</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-web-application-traffic-for-configuring-rate-limit-on/ba-p/4454092</link>
+      <pubDate>Mon, 22 Sep 2025 07:22:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-web-application-traffic-for-configuring-rate-limit-on/ba-p/4454092</guid>
+      <description>Introduction
+Azure Web Application Firewall (WAF) is a cloud-native service that actively protects web applications from common vulnerabilities and exploits. It also supports custom rules that allow fine-grained control over traffic. Among these custom rules is the rate-limiting feature available in both Azure Application Gateway and Azure Front Door. Rate limiting helps mitigate denial-of-service (DoS) attacks, prevents abuse from misconfigured clients sending excessive requests, and controls traffic from specific geographies. By limiting requests per client in a set time window, WAF keeps yo...</description>
+    </item>
   </channel>
 </rss>
