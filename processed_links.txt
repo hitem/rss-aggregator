@@ -616,3 +616,4 @@
 2025-09-18T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/ba-p/4454575
 2025-09-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-and-partners-like-quorum-cyber/ba-p/4452639
 2025-09-22T07:22:04 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-web-application-traffic-for-configuring-rate-limit-on/ba-p/4454092
+2025-09-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-transparency-new-logging-capabilities-and-attribute/ba-p/4436814
