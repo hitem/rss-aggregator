@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 Sep 2025 05:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 06:12:32 GMT</lastBuildDate>
+    <item>
+      <title>Entra Group Source of Authority CONVERSION: Enabling Cloud-First Identity Management</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-group-source-of-authority-conversion-enabling-cloud-first/ba-p/4456085</link>
+      <pubDate>Tue, 23 Sep 2025 05:11:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-group-source-of-authority-conversion-enabling-cloud-first/ba-p/4456085</guid>
+      <description>As organizations modernize their identity infrastructure, Microsoft Entra&#8217;s Group Source of Authority (SOA) Conversion feature enables a granular migration of group management from on-premises AD to Microsoft Entra ID without disabling sync or rearchitecting the entire directory.
+What Is Group Source of Authority?
+Group SOA defines where a group object is mastered either in on-prem AD or in Entra ID. With SOA conversion, administrators can selectively convert AD-synced groups into cloud-native groups, making them editable and governable directly in Entra ID.
+Permissions Required
+To perform SOA...</description>
+    </item>
   </channel>
 </rss>
