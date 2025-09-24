@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Sep 2025 09:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 10:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Azure DDoS Protection now supports QUIC protocol &#8212; Securing the future of HTTP/3 traffic</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-now-supports-quic-protocol-securing-the/ba-p/4456522</link>
+      <pubDate>Wed, 24 Sep 2025 09:13:29 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-now-supports-quic-protocol-securing-the/ba-p/4456522</guid>
+      <description>The internet&#8217;s transport layer is undergoing one of its most significant evolutions in decades.&#160;QUIC (Quick UDP Internet Connections) &#8212; the protocol underpinning HTTP/3 &#8212; is rapidly becoming the default for high performance, secure communication on the web. From YouTube streaming to WhatsApp messaging, QUIC is already powering billions of connections daily.&#160;
+Recognizing both its potential and its unique security challenges, Microsoft has now integrated full QUIC mitigation capabilities into Azure DDoS Protection. This protection is enabled by default &#8212; no configuration required &#8212; ensuring that...</description>
+    </item>
   </channel>
 </rss>

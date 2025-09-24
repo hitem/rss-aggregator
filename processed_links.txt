@@ -614,3 +614,4 @@
 2025-09-22T07:22:04 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-web-application-traffic-for-configuring-rate-limit-on/ba-p/4454092
 2025-09-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-transparency-new-logging-capabilities-and-attribute/ba-p/4436814
 2025-09-23T05:11:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-group-source-of-authority-conversion-enabling-cloud-first/ba-p/4456085
+2025-09-24T09:13:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-now-supports-quic-protocol-securing-the/ba-p/4456522
