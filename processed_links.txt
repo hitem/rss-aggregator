@@ -1,10 +1,3 @@
-2024-09-24T14:03:21 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-5-if-you-care-this-is/ba-p/4238046
-2024-09-24T14:09:24 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-4-facing-an-active/ba-p/4238038
-2024-09-24T14:10:28 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-3-learn-teach-lead/ba-p/4238030
-2024-09-24T14:14:25 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-2-keeping-it-real/ba-p/4238026
-2024-09-24T14:18:38 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-ir-internship-blog-series-part-1-not-what-i-expected/ba-p/4238021
-2024-09-24T14:19:05 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-intern-experience-through-the-eyes-of-dart-incident/ba-p/4232416
-2024-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-summary-new-security-copilot-skill-within-defender-xdr/ba-p/4236668
 2024-09-24T16:15:15 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-azure-ddos-protection-mitigation-triggers/ba-p/4253980
 2024-09-24T16:56:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-ignite-sold-out-not-for-security-professionals-secure/ba-p/4253990
 2024-09-24T17:01:39 https://techcommunity.microsoft.com/t5/azure-network-security-blog/getting-started-with-azure-ddos-protection-rest-api-a-step-by/ba-p/4254028
@@ -614,3 +607,4 @@
 2025-09-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-transparency-new-logging-capabilities-and-attribute/ba-p/4436814
 2025-09-23T05:11:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-group-source-of-authority-conversion-enabling-cloud-first/ba-p/4456085
 2025-09-24T09:13:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-now-supports-quic-protocol-securing-the/ba-p/4456522
+2025-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/design-security-in-solutions-from-day-one-innovate-boldly-deploy/ba-p/4455990
