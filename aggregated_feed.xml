@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 24 Sep 2025 15:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Design Security in Solutions from Day One! Innovate boldly, Deploy Safely, and Never Regret it!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/design-security-in-solutions-from-day-one-innovate-boldly-deploy/ba-p/4455990</link>
-      <pubDate>Wed, 24 Sep 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/design-security-in-solutions-from-day-one-innovate-boldly-deploy/ba-p/4455990</guid>
-      <description>&#160;
-As organizations navigate the complexities of modern cloud environments, embedding security early in the architecture lifecycle proves invaluable. For privacy and compliance requirements I will provide generic examples. A startup that designed its web application with secure authentication and encrypted data storage from the outset avoided costly retrofits after a major client demanded compliance with data protection standards, saving thousands in redevelopment expenses and winning the deal faster. Similarly, a healthcare company that incorporated automated security checks during initial dev...</description>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 16:00:57 GMT</lastBuildDate>
   </channel>
 </rss>
