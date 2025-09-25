@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 25 Sep 2025 20:00:58 GMT</lastBuildDate>
-    <item>
-      <title>Defender for Storage: Malware Automated Remediation - From Security to Protection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-automated-remediation-from-security/ba-p/4457040</link>
-      <pubDate>Thu, 25 Sep 2025 19:45:38 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-automated-remediation-from-security/ba-p/4457040</guid>
-      <description>In our previous Defender for Cloud Storage Security&#160;blog, we likened cloud storage to a high-tech museum - housing your organization&#8217;s most valuable artifacts, from sensitive data to AI training sets. That metaphor resonated with many readers, highlighting the need for strong defenses and constant vigilance.But as every museum curator knows, security is never static. New threats emerge, and the tools we use to protect our treasures must evolve. Today, we are excited to share the next chapter in our journey: the introduction of malware automated remediation as part of our Defender for Cloud Sto...</description>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 21:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
