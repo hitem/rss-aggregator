@@ -605,3 +605,4 @@
 2025-09-23T05:11:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-group-source-of-authority-conversion-enabling-cloud-first/ba-p/4456085
 2025-09-24T09:13:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-now-supports-quic-protocol-securing-the/ba-p/4456522
 2025-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/design-security-in-solutions-from-day-one-innovate-boldly-deploy/ba-p/4455990
+2025-09-25T19:45:38 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-automated-remediation-from-security/ba-p/4457040
