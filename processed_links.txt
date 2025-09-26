@@ -605,3 +605,4 @@
 2025-09-24T09:13:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-now-supports-quic-protocol-securing-the/ba-p/4456522
 2025-09-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/design-security-in-solutions-from-day-one-innovate-boldly-deploy/ba-p/4455990
 2025-09-25T19:45:38 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-storage-malware-automated-remediation-from-security/ba-p/4457040
+2025-09-26T15:18:07 https://techcommunity.microsoft.com/t5/azure-network-security-blog/how-azure-network-security-can-help-you-meet-nis2-compliance/ba-p/4457285
