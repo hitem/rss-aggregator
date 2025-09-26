@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 Sep 2025 16:09:39 GMT</lastBuildDate>
-    <item>
-      <title>How Azure network security can help you meet NIS2 compliance</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/how-azure-network-security-can-help-you-meet-nis2-compliance/ba-p/4457285</link>
-      <pubDate>Fri, 26 Sep 2025 15:18:07 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/how-azure-network-security-can-help-you-meet-nis2-compliance/ba-p/4457285</guid>
-      <description>With the adoption of the NIS2 Directive EU 2022 2555, cybersecurity obligations for both public and private sector organizations have become more strict and far reaching. NIS2 aims to establish a higher common level of cybersecurity across the European Union by enforcing stronger requirements on risk management, incident reporting, supply chain protection, and governance.
-If your organization runs on Microsoft Azure, you already have powerful services to support your NIS2 journey. In particular Azure network security products such as Azure Firewall, Azure Web Application Firewall WAF, and Azur...</description>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 17:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
