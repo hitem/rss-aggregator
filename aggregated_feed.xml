@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 26 Sep 2025 17:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 18:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel and Defender: ITSM Integrations Explained</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-and-defender-itsm-integrations-explained/ba-p/4457282</link>
+      <pubDate>Fri, 26 Sep 2025 17:43:52 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-and-defender-itsm-integrations-explained/ba-p/4457282</guid>
+      <description>One of the main changes and advantages of onboarding Microsoft Sentinel to the Defender portal is the fact that alerts are automatically correlated into single incidents. Alert correlation will kick in when we have enough evidence that multiple alerts are related. This has great benefits, as it can quickly unveil multi-stage attacks&#160;that otherwise could look like unrelated harmless alerts. It also helps reduce the amount of incidents by merging those that are related.
+However, each organization has its own internal processes, teams, etc., so transitioning to this new way of working can be chal...</description>
+    </item>
   </channel>
 </rss>
