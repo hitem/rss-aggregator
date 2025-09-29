@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Sep 2025 06:14:09 GMT</lastBuildDate>
-    <item>
-      <title>Optimizing Microsoft Sentinel: Resolving AMA-Induced Syslog &amp; CEF Duplicates</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimizing-microsoft-sentinel-resolving-ama-induced-syslog-cef/ba-p/4457754</link>
-      <pubDate>Mon, 29 Sep 2025 05:03:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimizing-microsoft-sentinel-resolving-ama-induced-syslog-cef/ba-p/4457754</guid>
-      <description>2) Recommended Solutions
-When collecting both Syslog and CEF logs from the same Linux collector using the Azure Monitor Agent (AMA) in Microsoft Sentinel, duplicate log entries can occur. These duplicates arise because the same event may be ingested through both the Syslog and CEF pipelines, leading to redundancy in the Log Analytics Workspace (LAW).
-The following solutions aim to eliminate or reduce duplicate log ingestion, ensuring that:
-
-CEF events are parsed correctly and only once.
-Syslog data remains clean and non-redundant.
-Storage and analytics efficiency is improved.
-Alerting and inci...</description>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 07:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
