@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Sep 2025 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 22:00:43 GMT</lastBuildDate>
+    <item>
+      <title>MVP Champ Spotlight- Derk van der Woude</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-derk-van-der-woude/ba-p/4457978</link>
+      <pubDate>Mon, 29 Sep 2025 21:03:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-derk-van-der-woude/ba-p/4457978</guid>
+      <description>&#160;
+Derk is recognized as a Most Valued Professional (MVP) by Microsoft as an exceptional community leader for their technical expertise, leadership, speaking experience, online influence, and commitment to solving real-world problems. Learn more about MVPs and what it takes to become one here: FAQ | Most Valuable Professionals. Within our Security MVPs, Microsoft has hand-selected some of our top collaborative MVPs with a passion for working directly with the Product Group to share community insights with Microsoft and co-create content to help address the community needs. Read the interview be...</description>
+    </item>
   </channel>
 </rss>
