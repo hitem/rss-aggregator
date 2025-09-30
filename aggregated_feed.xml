@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Sep 2025 16:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Sentinel data lake is backed by App Assure's Sentinel promise</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-backed-by-app-assure-s-sentinel/ba-p/4458000</link>
-      <pubDate>Tue, 30 Sep 2025 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-backed-by-app-assure-s-sentinel/ba-p/4458000</guid>
-      <description>Microsoft Sentinel continues to lead the industry as a cloud-native SIEM, trusted by organizations worldwide to deliver scalable, intelligent security analytics. On September 30th, Sentinel&#8217;s new data lake features become generally available. This unlocks new threat hunting, compliance, and investigation scenarios for security teams looking for a cost-effective solution to long-term retention of valuable security logs. Most importantly, the same connectors bringing your data into Sentinel&#8217;s analytics tier today, will now seamlessly bring that data into the data lake.
-Expanding the Microsoft Se...</description>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 17:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
