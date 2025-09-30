@@ -3,6 +3,73 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Sep 2025 12:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 13:21:22 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel data lake FAQ</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-data-lake-faq/ba-p/4457728</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-data-lake-faq/ba-p/4457728</guid>
+      <description>On September 30, 2025, Microsoft announced the&#160;general availability of the Microsoft Sentinel data lake, designed to centralize and retain massive volumes of security data in open formats like delta parquet. By decoupling storage from compute, the data lake supports flexible querying, while offering unified data management and cost-effective retention. The Sentinel data lake is a game changer for security teams, serving as the foundational layer for agentic defense, deeper security insights and graph-based enrichment.
+In this blog we offer answers to many of the questions we&#8217;ve heard from our ...</description>
+    </item>
+    <item>
+      <title>Introducing developer solutions for Microsoft Sentinel platform</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-developer-solutions-for-microsoft-sentinel-platform/ba-p/4456392</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-developer-solutions-for-microsoft-sentinel-platform/ba-p/4456392</guid>
+      <description>Security is being reengineered for the AI era, moving beyond static, rule-bound controls and toward after-the-fact response toward platform-led, machine-speed defense. The challenge is clear: fragmented tools, sprawling signals, and legacy architectures that can&#8217;t match the velocity and scale of modern attacks. What&#8217;s needed is an AI-ready, data-first foundation - one that turns telemetry into a security graph, standardizes access for agents, and coordinates autonomous actions while keeping humans in command of strategy and high-impact investigations.
+Security teams already center operations o...</description>
+    </item>
+    <item>
+      <title>Introducing Microsoft Security Store</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-security-store/ba-p/4456417</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-security-store/ba-p/4456417</guid>
+      <description>Security is being reengineered for the AI era&#8212;moving beyond static, rulebound controls and after-the-fact response toward platform-led, machine-speed defense. We recognize that defending against modern threats requires the full strength of an ecosystem, combining our unique expertise and shared threat intelligence. But with so many options out there, it&#8217;s tough for security professionals to cut through the noise, and even tougher to navigate long procurement cycles and stitch together tools and data before seeing meaningful improvements.
+That&#8217;s why we built Microsoft Security Store - a storefr...</description>
+    </item>
+    <item>
+      <title>Announcing Microsoft Sentinel Model Context Protocol (MCP) server &#8211; Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-microsoft-sentinel-model-context-protocol-mcp-server/ba-p/4456405</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-microsoft-sentinel-model-context-protocol-mcp-server/ba-p/4456405</guid>
+      <description>Security is being reengineered for the AI era&#8212;moving beyond static, rulebound controls and after-the-fact response toward platform-led, machine-speed defense. The challenge is clear: fragmented tools, sprawling signals, and legacy architectures that can&#8217;t match the velocity and scale of modern attacks. What&#8217;s needed is an AI-ready, data-first foundation&#8212;one that turns telemetry into a security graph, standardizes access for agents, and coordinates autonomous actions while keeping humans in command of strategy and high-impact investigations.
+Security teams already center operations on their SIE...</description>
+    </item>
+    <item>
+      <title>Microsoft Sentinel data lake is now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-now-generally-available/ba-p/4456342</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-now-generally-available/ba-p/4456342</guid>
+      <description>Security is being reengineered for the AI era, shifting from static controls to fast, platform-driven defense. Traditional tools, scattered data, and outdated systems struggle against modern threats. An AI-ready, data-first foundation is needed to unify telemetry, standardize agent access, and enable autonomous responses while ensuring humans are in command of strategy and high-impact investigations.
+Security teams already anchor their operations around SIEMs for comprehensive visibility. We're building on that foundation by evolving Microsoft Sentinel into both the SIEM and the platform for a...</description>
+    </item>
+    <item>
+      <title>Introducing Microsoft Sentinel graph (Public Preview)</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-sentinel-graph-public-preview/ba-p/4456368</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-sentinel-graph-public-preview/ba-p/4456368</guid>
+      <description>Security is being reengineered for the AI era&#8212;moving beyond static, rulebound controls and after-the-fact response toward platform-led, machine-speed defense. The challenge is clear: fragmented tools, sprawling signals, and legacy architectures that can&#8217;t match the velocity and scale of modern attacks. What&#8217;s needed is an AI-ready, data-first foundation&#8212;one that turns telemetry into a security graph, standardizes access for agents, and coordinates autonomous actions while keeping humans in command of strategy and high-impact investigations.&#160;
+Security teams already center operations on their SI...</description>
+    </item>
+    <item>
+      <title>The Microsoft Entra agent for smarter access governance: Access Review Agent</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-microsoft-entra-agent-for-smarter-access-governance-access/ba-p/4279689</link>
+      <pubDate>Tue, 30 Sep 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-microsoft-entra-agent-for-smarter-access-governance-access/ba-p/4279689</guid>
+      <description>Access reviews just received a major upgrade. With the introduction of the Microsoft Security Copilot Access Review Agent in Microsoft Entra, we&#8217;re bringing the power of AI directly into the heart of access governance. No more static lists or disconnected portals&#8212;reviewers are guided through decisions in a natural, conversational flow right inside Microsoft Teams.
+Access reviews are critical for compliance but often a checkbox exercise. Reviewers face long lists of users and entitlements with little context, leading to rubber-stamping and missed risks. The Access Review Agent tackles this prob...</description>
+    </item>
+    <item>
+      <title>App Assure's Sentinel promise now extends to Microsoft Sentinel data lake</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-sentinel-promise-now-extends-to-microsoft-sentinel/ba-p/4454612</link>
+      <pubDate>Tue, 30 Sep 2025 12:45:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-sentinel-promise-now-extends-to-microsoft-sentinel/ba-p/4454612</guid>
+      <description>Microsoft Sentinel continues to lead the industry as a cloud-native SIEM, trusted by organizations worldwide to deliver scalable, intelligent security analytics. On September 30th, Sentinel&#8217;s new data lake features become generally available. This unlocks new threat hunting, compliance, and investigation scenarios for security teams looking for a cost-effective solution to long-term retention of valuable security logs. Most importantly, the same connectors bringing your data into Sentinel&#8217;s analytics tier today, will now seamlessly bring that data into the data lake.
+&#160;
+
+&#160;
+Expanding the Microso...</description>
+    </item>
   </channel>
 </rss>
