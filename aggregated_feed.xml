@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Sep 2025 05:00:52 GMT</lastBuildDate>
-    <item>
-      <title>Secure AI by Design Series: Embedding Security and Governance Across the AI Lifecycle</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-ai-by-design-series-embedding-security-and-governance/ba-p/4457200</link>
-      <pubDate>Tue, 30 Sep 2025 04:42:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-ai-by-design-series-embedding-security-and-governance/ba-p/4457200</guid>
-      <description>Problem Statement
-Securing AI in the Age of Generative Intelligence
-Executive Summary
-The rapid adoption of Generative AI (GenAI) is transforming industries&#8212;unlocking new efficiencies, accelerating innovation, and reshaping how enterprises operate. However, this transformation introduces significant security risks, novel attack surfaces, and regulatory uncertainty. This white paper outlines the key challenges, supported by Microsoft&#8217;s public research and guidance, and presents actionable strategies to mitigate risks and build trust in AI systems.
-&#160;
-
- The Dual Edge of GenAI
-
-While GenAI enhance...</description>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 06:13:29 GMT</lastBuildDate>
   </channel>
 </rss>
