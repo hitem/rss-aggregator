@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Sep 2025 17:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 18:11:38 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11, version 25H2 security baseline</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-25h2-security-baseline/ba-p/4456231</link>
+      <pubDate>Tue, 30 Sep 2025 17:06:39 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-25h2-security-baseline/ba-p/4456231</guid>
+      <description>Microsoft is pleased to announce the&#160;security baseline package for&#160;Windows 11, version 25H2! You can download the baseline package from the&#160;Microsoft Security Compliance Toolkit, test the recommended configurations in your environment, and customize / implement them as appropriate.
+Summary of changes
+This release includes several changes made since the Windows 11, version 24H2 security baseline&#160;to further assist in the security of enterprise customers, to include better alignment with the latest capabilities and standards. The changes include what is depicted in the table below.
+
+Security Poli...</description>
+    </item>
   </channel>
 </rss>
