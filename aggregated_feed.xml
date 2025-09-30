@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Sep 2025 14:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 15:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Teams Private Channels: Group-Based Compliance Model &amp; Purview eDiscovery Considerations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/teams-private-channels-group-based-compliance-model-purview/ba-p/4457229</link>
+      <pubDate>Tue, 30 Sep 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/teams-private-channels-group-based-compliance-model-purview/ba-p/4457229</guid>
+      <description>Microsoft Teams Private Channels are undergoing an architectural change that will affect how your organisations uses Microsoft Purview eDiscovery to hold and discovery these messages going forward. In essence, copies of private channel messages will now be stored in the M365 Group mailbox, aligning their storage with how standard and shared channels work today.
+This shift, due to roll out from early October 2025 to December 2025, brings new benefits (like greatly expanded channel limits and meeting support) and has the potential to impact your Purview eDiscovery searches and legal holds workfl...</description>
+    </item>
   </channel>
 </rss>
