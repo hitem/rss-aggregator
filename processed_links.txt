@@ -1,4 +1,3 @@
-2024-09-30T15:51:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/private-ip-dnat-support-preview-and-scenarios-with-azure/ba-p/4230073
 2024-09-30T17:08:06 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-for-government-now-available/ba-p/4258823
 2024-09-30T19:37:40 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-copilot-for-security-plugin-name-reflects-broader/ba-p/4258810
 2024-10-01T08:00:56 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-s-bot-manager-1-1-and-javascript-challenge-preview/ba-p/4249652
@@ -614,3 +613,4 @@
 2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-now-generally-available/ba-p/4456342
 2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-data-lake-faq/ba-p/4457728
 2025-09-30T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/teams-private-channels-group-based-compliance-model-purview/ba-p/4457229
+2025-09-30T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-backed-by-app-assure-s-sentinel/ba-p/4458000
