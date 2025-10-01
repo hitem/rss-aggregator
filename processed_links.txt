@@ -611,3 +611,4 @@
 2025-09-30T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/teams-private-channels-group-based-compliance-model-purview/ba-p/4457229
 2025-09-30T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-backed-by-app-assure-s-sentinel/ba-p/4458000
 2025-09-30T17:06:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-25h2-security-baseline/ba-p/4456231
+2025-10-01T13:06:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349
