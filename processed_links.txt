@@ -612,3 +612,4 @@
 2025-09-30T17:06:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-25h2-security-baseline/ba-p/4456231
 2025-10-01T13:06:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349
 2025-10-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-the-united-arab-emirates/ba-p/4448266
+2025-10-01T16:09:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/celebrating-cybersecurity-awareness-month-everyday-protection/ba-p/4453120
