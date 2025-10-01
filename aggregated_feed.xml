@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 01 Oct 2025 13:21:38 GMT</lastBuildDate>
-    <item>
-      <title>Monthly news - October 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349</link>
-      <pubDate>Wed, 01 Oct 2025 13:06:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349</guid>
-      <description>Microsoft DefenderMonthly news - October 2025 Edition
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from September 2025. Defender for Cloud has it's own Monthly News post, have a look at&#160;their blog space.&#160;
-&#9200; Microsoft Ignite 2025 November 18-20, register now!
-&#128640; New Virtual Ninja Show episodes:
-
-Defender for Endpoint: Customize settings for optimum performance
-The new Defender for Identity sensor explained
-Expanding Microsoft Sentinel...</description>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 14:00:49 GMT</lastBuildDate>
   </channel>
 </rss>
