@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 Oct 2025 19:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 20:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Security Copilot Skilling Series</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-skilling-series/ba-p/4458687</link>
+      <pubDate>Thu, 02 Oct 2025 19:52:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-skilling-series/ba-p/4458687</guid>
+      <description>Starting this October, Security Copilot joins forces with your favorite Microsoft Security products in a skilling series miles above the rest. The Security Copilot Skilling Series is your opportunity to strengthen your security posture through threat detection, incident response, and leveraging AI for security automation.
+These technical skilling sessions are delivered live by experts from our product engineering teams. Come ready to learn, engage with your peers, ask questions, and provide feedback. Upcoming sessions are noted below and will be available on-demand on the&#160;Microsoft Security Co...</description>
+    </item>
   </channel>
 </rss>

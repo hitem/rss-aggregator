@@ -611,3 +611,4 @@
 2025-10-01T13:06:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349
 2025-10-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-the-united-arab-emirates/ba-p/4448266
 2025-10-01T16:09:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/celebrating-cybersecurity-awareness-month-everyday-protection/ba-p/4453120
+2025-10-02T19:52:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-skilling-series/ba-p/4458687
