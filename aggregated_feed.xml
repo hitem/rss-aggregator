@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 03 Oct 2025 13:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 14:00:52 GMT</lastBuildDate>
+    <item>
+      <title>Managing Hotpatching for Azure Arc connected Machines using APIs</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-hotpatching-for-azure-arc-connected-machines-using-apis/ba-p/4458192</link>
+      <pubDate>Fri, 03 Oct 2025 13:23:23 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-hotpatching-for-azure-arc-connected-machines-using-apis/ba-p/4458192</guid>
+      <description>Hotpatching is available as an option for Aure Arc connected Windows Server 2025 Datacenter and Standard machines. To learn more about hotpatching please review this article. Azure Arc portal provides a way for you to enroll or disenroll from hotpatching. To manage hotpatch updates, you can use Azure Update Manager (AUM) or any other patch management tool that has built the hotpatch management capability. You can also choose to use the published APIs to manage hotpatch enrollment and updates.
+This article provides a sample script of using the APIs to perform the different actions. Always test ...</description>
+    </item>
   </channel>
 </rss>
