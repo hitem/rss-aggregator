@@ -608,3 +608,4 @@
 2025-10-01T16:09:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/celebrating-cybersecurity-awareness-month-everyday-protection/ba-p/4453120
 2025-10-02T19:52:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-skilling-series/ba-p/4458687
 2025-10-03T13:23:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-hotpatching-for-azure-arc-connected-machines-using-apis/ba-p/4458192
+2025-10-06T10:54:05 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/detecting-and-alerting-on-mde-sensor-health-transitions-using/ba-p/4459258

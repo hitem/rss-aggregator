@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Oct 2025 10:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 11:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Detecting and Alerting on MDE Sensor Health Transitions Using KQL and Logic Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/detecting-and-alerting-on-mde-sensor-health-transitions-using/ba-p/4459258</link>
+      <pubDate>Mon, 06 Oct 2025 10:54:05 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/detecting-and-alerting-on-mde-sensor-health-transitions-using/ba-p/4459258</guid>
+      <description>Introduction
+Maintaining the health of Microsoft Defender for Endpoint (MDE) sensors is essential for ensuring continuous security visibility across your virtual machine (VM) infrastructure. When a sensor transitions from an "Active" to an "Inactive" state, it indicates a loss of telemetry from that device and potentially creating blind spots in your security posture. To proactively address this risk, it's important to detect these transitions promptly and alert your security team for timely remediation.
+This guide walks you through a practical approach to automate this process using a Kusto Q...</description>
+    </item>
   </channel>
 </rss>
