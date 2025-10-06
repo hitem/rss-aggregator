@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 06 Oct 2025 15:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 16:01:00 GMT</lastBuildDate>
+    <item>
+      <title>How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/how-microsoft-defender-helps-security-teams-detect-prompt/ba-p/4457047</link>
+      <pubDate>Mon, 06 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/how-microsoft-defender-helps-security-teams-detect-prompt/ba-p/4457047</guid>
+      <description>As generative AI becomes a core part of enterprise productivity&#8212;especially through tools like Microsoft 365 Copilot&#8212;new security challenges are emerging. One of the most prevalent attack techniques is prompt injection, where malicious instructions are used to bypass security guardrails and manipulate AI behavior.&#160;
+At Microsoft, we&#8217;re proactively addressing the security challenges posed by prompt injection attacks through strategic integration between Microsoft 365 Copilot and Microsoft Defender. Microsoft 365 Copilot includes built-in protection that automatically blocks malicious user prompts...</description>
+    </item>
   </channel>
 </rss>
