@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 07 Oct 2025 15:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:09:50 GMT</lastBuildDate>
+    <item>
+      <title>Step-by-Step Guide: Integrating Microsoft Purview with Azure Databricks and Microsoft Fabric</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/step-by-step-guide-integrating-microsoft-purview-with-azure/ba-p/4459549</link>
+      <pubDate>Tue, 07 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/step-by-step-guide-integrating-microsoft-purview-with-azure/ba-p/4459549</guid>
+      <description>This article provides practical guidance on setup, cost considerations, and integration steps for Azure Databricks and Microsoft Fabric to help organizations plan for building a strong data governance framework. It outlines how Microsoft Purview can unify governance efforts across cloud platforms, enabling consistent policy enforcement, metadata management, and lineage tracking. The content is tailored for architects and data leaders seeking to execute governance in scalable, hybrid environments.&#160;Note:&#160;this article focuses&#160;mainly&#160;on&#160;Data Governance features for Microsoft Purview.&#160;&#160;
+Why&#160;Microso...</description>
+    </item>
   </channel>
 </rss>
