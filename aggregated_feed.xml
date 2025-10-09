@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 09 Oct 2025 19:00:46 GMT</lastBuildDate>
-    <item>
-      <title>Security Review for Microsoft Edge version 141</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-141/ba-p/4460481</link>
-      <pubDate>Thu, 09 Oct 2025 18:42:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-141/ba-p/4460481</guid>
-      <description>We have reviewed the new settings in Microsoft Edge version 141 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 139 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
-&#160;
-Microsoft Edge version 141 introduced 6 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
-&#160;
-As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings ...</description>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 20:00:52 GMT</lastBuildDate>
   </channel>
 </rss>
