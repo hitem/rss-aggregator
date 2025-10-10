@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 10 Oct 2025 18:12:19 GMT</lastBuildDate>
-    <item>
-      <title>Your shortcut to Microsoft Entra deployment success</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/your-shortcut-to-microsoft-entra-deployment-success/ba-p/4460533</link>
-      <pubDate>Fri, 10 Oct 2025 17:36:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/your-shortcut-to-microsoft-entra-deployment-success/ba-p/4460533</guid>
-      <description>The deployment guidance you&#8217;ve been waiting for is now here. We&#8217;ve created more than 20 Microsoft Entra step-by-step deployment guidance videos designed to make your journey as an IT admin faster and easier. These short, practical demos focus on real world scenarios and tasks so you can hit the ground running.
-These videos are designed to make implementation simple, fast, and repeatable, so you can go from &#8220;what is this feature?&#8221; to &#8220;it&#8217;s live in my tenant&#8221; in minutes.
-Why watch?
-
-Snackable format: Each video is about 10 minutes long&#8212;perfect for busy admins.
-Real-world scenarios: We focus on p...</description>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 19:00:45 GMT</lastBuildDate>
   </channel>
 </rss>
