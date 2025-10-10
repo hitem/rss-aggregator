@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 10 Oct 2025 16:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 17:00:43 GMT</lastBuildDate>
+    <item>
+      <title>Sentinel UEBA&#8217;s Superpower: Actionable Insights You Can Use! Now with Okta and Multi-Cloud Logs!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/sentinel-ueba-s-superpower-actionable-insights-you-can-use-now/ba-p/4460428</link>
+      <pubDate>Fri, 10 Oct 2025 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/sentinel-ueba-s-superpower-actionable-insights-you-can-use-now/ba-p/4460428</guid>
+      <description>&#160;
+&#160;
+Microsoft Sentinel continues to evolve as a cloud-native Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) solution, empowering security teams to detect, investigate, and respond to threats with speed and precision. The latest update introduces advanced User and Entity Behavior Analytics (UEBA), expanding support for new eligible logs, including multi-cloud sources and the Okta identity provider. This leap strengthens coverage and productivity by surfacing anomalies, actionable insights, and rich security context across entities an...</description>
+    </item>
   </channel>
 </rss>
