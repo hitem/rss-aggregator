@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 10 Oct 2025 07:00:55 GMT</lastBuildDate>
-    <item>
-      <title>Solving Network Connectivity for MDE and MDI</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/solving-network-connectivity-for-mde-and-mdi/ba-p/4458220</link>
-      <pubDate>Fri, 10 Oct 2025 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/solving-network-connectivity-for-mde-and-mdi/ba-p/4458220</guid>
-      <description>Hi,&#160;I&#8217;m&#160;Will Sykes, a&#160;Senior Security Researcher&#160;in Microsoft&#160;IR. My colleagues and I specialize in helping customers with incident response and compromise recovery. In our work with customers&#160;who&#8217;ve&#160;been the victim of&#160;cyberattack, we often&#160;must&#160;solve connectivity issues to support tools in a hybrid cloud configuration.&#160;
-Hybrid Cloud Challenges&#160;
-In today&#8217;s IT world we&#8217;re now implementing and integrating services that leverage cloud computing components. Correctly securing this often defies the adage of &#8220;never allow internet connectivity to sensitive systems&#8221; and can pose challenges to security...</description>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 08:01:23 GMT</lastBuildDate>
   </channel>
 </rss>
