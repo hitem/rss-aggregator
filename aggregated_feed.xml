@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 Oct 2025 17:00:45 GMT</lastBuildDate>
-    <item>
-      <title>End of Windows 10 Support: What Defender Customers Need to Know</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/end-of-windows-10-support-what-defender-customers-need-to-know/ba-p/4461349</link>
-      <pubDate>Tue, 14 Oct 2025 16:26:01 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/end-of-windows-10-support-what-defender-customers-need-to-know/ba-p/4461349</guid>
-      <description>As of today, October 14, 2025, Microsoft is officially ending support for Windows 10. This means that Windows 10 devices will no longer receive security or feature updates, nor technical support from Microsoft. While these devices will continue to operate, the lack of regular security updates increases vulnerability to cyber threats, including malware and viruses. Applications running on Windows 10 may also lose support as the platform stops receiving updates.
-Will Defender continue to protect Windows 10 devices?
-
-Defender supports a range of legacy systems, including Windows 10. (See here for...</description>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 18:12:55 GMT</lastBuildDate>
   </channel>
 </rss>
