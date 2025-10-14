@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 Oct 2025 18:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 19:00:56 GMT</lastBuildDate>
+    <item>
+      <title>The Conditional Access Optimization Agent keeps getting better&#8212;and making your life easier</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-conditional-access-optimization-agent-keeps-getting-better/ba-p/4460535</link>
+      <pubDate>Tue, 14 Oct 2025 18:14:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-conditional-access-optimization-agent-keeps-getting-better/ba-p/4460535</guid>
+      <description>Howdy folks!&#160;
+Continuing our promise to make identity and access management, smarter, more intuitive and simpler to manage, today we&#8217;re announcing the next evolution of the Conditional Access Optimization Agent in&#160;Microsoft Entra.&#160;
+Since&#160;general availability, the agent is uncovering an average of 26 policy gaps per customer per month. These are gaps that might otherwise be missed or even worse, exploited by bad actors. With these insights, 73% of the customers using the agent have made meaningful improvements in their Zero Trust security posture. We&#8217;re really proud of these results, but even m...</description>
+    </item>
   </channel>
 </rss>
