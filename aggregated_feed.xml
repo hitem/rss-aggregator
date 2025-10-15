@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Oct 2025 12:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 13:23:32 GMT</lastBuildDate>
+    <item>
+      <title>Applying DISA STIG Settings with Microsoft Intune: Overcoming Native Limitations</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/applying-disa-stig-settings-with-microsoft-intune-overcoming/ba-p/4461695</link>
+      <pubDate>Wed, 15 Oct 2025 12:24:20 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/applying-disa-stig-settings-with-microsoft-intune-overcoming/ba-p/4461695</guid>
+      <description>Introduction&#160;
+The Defense Information Systems Agency (DISA) Security Technical Implementation Guides (STIGs) are essential for organizations requiring stringent security compliance, especially within federal and defense environments. While Microsoft Intune offers a robust set of device management policies, not all STIG-recommended settings are natively available. My previous blog covered creating/importing configuration profiles for settings already available in the Intune UI which you can find here. This blog post explores creative and effective approaches for applying non-native DISA STIG se...</description>
+    </item>
   </channel>
 </rss>
