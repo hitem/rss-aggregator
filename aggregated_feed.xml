@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 14 Oct 2025 23:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 00:39:36 GMT</lastBuildDate>
+    <item>
+      <title>Check This Out! (CTO!) Guide (September 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2025/ba-p/4461588</link>
+      <pubDate>Tue, 14 Oct 2025 23:38:07 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2025/ba-p/4461588</guid>
+      <description>Member: TysonPaul | Microsoft Community Hub
+&#160;
+
+Selecting the Right Agentic Solution on Azure
+Team Blog: Azure Architecture
+Author: pranabpaul
+Published: 09/16/2025
+Summary: The article outlines Azure-specific options for building and deploying agentic solutions, emphasizing the shift from deprecated Assistants API to Azure AI Agent Service within Azure Foundry, which offers robust agent management and ongoing enhancements. Workflow-based projects may use Azure Logic Apps (preview), while advanced scenarios can leverage agent orchestrators like Semantic Kernel or AutoGen for custom architecture...</description>
+    </item>
   </channel>
 </rss>
