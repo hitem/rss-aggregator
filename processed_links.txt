@@ -607,3 +607,4 @@
 2025-10-14T18:14:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-conditional-access-optimization-agent-keeps-getting-better/ba-p/4460535
 2025-10-14T23:38:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2025/ba-p/4461588
 2025-10-15T12:24:20 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/applying-disa-stig-settings-with-microsoft-intune-overcoming/ba-p/4461695
+2025-10-16T18:00:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/prescaling-in-azure-firewall-is-now-generally-available/ba-p/4461584

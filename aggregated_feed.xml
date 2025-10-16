@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Oct 2025 17:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 18:12:01 GMT</lastBuildDate>
+    <item>
+      <title>Prescaling in Azure Firewall is now generally available</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/prescaling-in-azure-firewall-is-now-generally-available/ba-p/4461584</link>
+      <pubDate>Thu, 16 Oct 2025 18:00:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/prescaling-in-azure-firewall-is-now-generally-available/ba-p/4461584</guid>
+      <description>Azure Firewall protects your applications and workloads with cloud-native network security that automatically scales based on your traffic needs. Today, we&#8217;re excited to announce the general availability of prescaling in Azure Firewall&#160;&#8211; a new capability that gives you more control and predictability over how your firewall scales. &#160;
+Why pre-scaling?
+Today, Azure Firewall automatically scales in response to real-time traffic demand. For organizations with predictable traffic patterns &#8211; such as seasonal events, business campaigns, holidays, or planned migrations &#8211; the ability to plan capacity in...</description>
+    </item>
   </channel>
 </rss>
