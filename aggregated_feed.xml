@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 17 Oct 2025 18:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Securing the Browser Era - From Cloud to AI: A blog series on protecting the modern workspace</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4460823</link>
-      <pubDate>Fri, 17 Oct 2025 18:00:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4460823</guid>
-      <description>The browser has quietly become the universal workspace. What started as a simple tool for accessing the internet has transformed into the central hub for enterprise productivity, collaboration, and now&#8212;AI-powered workflows. From cloud applications and SaaS platforms to GenAI copilots running inside browser tabs, the browser is where work is increasingly happening.&#160;
-As the browser&#8217;s role has expanded, so has its exposure to risk. Attackers target browsers as the path of least resistance into critical systems, while many organizations continue to treat browser security as an afterthought and the...</description>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 19:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
