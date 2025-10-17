@@ -608,3 +608,4 @@
 2025-10-14T23:38:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2025/ba-p/4461588
 2025-10-15T12:24:20 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/applying-disa-stig-settings-with-microsoft-intune-overcoming/ba-p/4461695
 2025-10-16T18:00:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/prescaling-in-azure-firewall-is-now-generally-available/ba-p/4461584
+2025-10-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2025/ba-p/4352576

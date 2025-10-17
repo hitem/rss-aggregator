@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 17 Oct 2025 15:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 16:01:01 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s new in Microsoft Entra &#8211; September 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2025/ba-p/4352576</link>
+      <pubDate>Fri, 17 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2025/ba-p/4352576</guid>
+      <description>Microsoft has launched advanced AI-driven security features within Microsoft Entra, enhancing identity protection through intelligent automation. The Security Copilot in Microsoft Entra provides organizations with AI-generated insights and recommendations to improve access governance, while the Conditional Access Optimization Agent conducts ongoing policy analysis to maintain effectiveness and streamline processes in response to emerging threats. These solutions integrate artificial intelligence at the core of security operations, supporting more efficient decision-making, robust defenses, and...</description>
+    </item>
   </channel>
 </rss>
