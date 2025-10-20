@@ -609,3 +609,5 @@
 2025-10-16T18:00:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/prescaling-in-azure-firewall-is-now-generally-available/ba-p/4461584
 2025-10-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2025/ba-p/4352576
 2025-10-17T18:00:33 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4460823
+2025-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/11-days-remaining-support-for-microsoft-entra-permissions/ba-p/4462424
+2025-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/6-truths-about-migrating-microsoft-sentinel-to-the-defender/ba-p/4460437

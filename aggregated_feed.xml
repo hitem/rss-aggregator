@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 20 Oct 2025 15:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 16:01:15 GMT</lastBuildDate>
+    <item>
+      <title>6 truths about migrating Microsoft Sentinel to the Defender portal</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/6-truths-about-migrating-microsoft-sentinel-to-the-defender/ba-p/4460437</link>
+      <pubDate>Mon, 20 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/6-truths-about-migrating-microsoft-sentinel-to-the-defender/ba-p/4460437</guid>
+      <description>The move from the Azure portal to the Microsoft Defender portal is one of the most significant transformations yet for Microsoft Sentinel SIEM. By July 1, 2026, every Sentinel environment will make this leap. But this isn&#8217;t just a new coat of paint&#8212;it&#8217;s a re-architecture of how Security Operations Centers (SOCs) detect, investigate, and respond to threats. For many teams, the shift will feel different, even surprising. But within those surprises lie opportunities to run leaner, smarter, and more resilient operations. Here are six insights that will help you prepare your SOC to not only manage ...</description>
+    </item>
+    <item>
+      <title>11 days remaining: Support for Microsoft Entra Permissions Management ends November 1, 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/11-days-remaining-support-for-microsoft-entra-permissions/ba-p/4462424</link>
+      <pubDate>Mon, 20 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/11-days-remaining-support-for-microsoft-entra-permissions/ba-p/4462424</guid>
+      <description>Beginning&#160;November 1, 2025, support for Microsoft Entra Permissions Management will end. Customers are encouraged to&#160;complete the offboarding instructions&#160;and move to another cloud infrastructure entitlements management (CIEM) solution. If you have not requested an extension, your account will be automatically offboarded on November 1, 2025. &#160;
+The decision to phase out Microsoft Entra Permissions Management from the Microsoft Security portfolio was done after deep consideration of our innovation portfolio and how we can focus on delivering the best innovations aligned to our differentiating ar...</description>
+    </item>
   </channel>
 </rss>
