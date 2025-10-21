@@ -3,26 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 17:01:10 GMT</lastBuildDate>
-    <item>
-      <title>Security Copilot Agents: The New Era of AI, Driven Cyber Defense</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913</link>
-      <pubDate>Tue, 21 Oct 2025 16:43:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913</guid>
-      <description>With increasing cyber threats, security teams require intelligent agents that adapt and operate throughout the security stack, not just automation.&#160;Key statistics&#160;from our&#160;Microsoft Digital Defense Report 2024&#160;which&#160;highlights&#160;this concerning trend of Cybersecurity threats:&#160;
-
-Over 600 million cyberattacks per day targeting Microsoft customers&#160;
-
-
-2.75x increase in ransomware attacks year-over-year&#160;
-
-
-400% surge in tech&#160;scams&#160;since 2022&#160;
-
-
-Growing collaboration between cybercriminals and nation-state actors&#160;
-
-In my&#160;previous&#160;blogs, I explored how AI agents are transforming security operations in ...</description>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 18:01:00 GMT</lastBuildDate>
   </channel>
 </rss>
