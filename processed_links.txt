@@ -614,3 +614,4 @@
 2025-10-21T16:43:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913
 2025-10-21T18:03:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring/ba-p/4463145
 2025-10-21T20:04:24 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237
+2025-10-21T20:26:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240

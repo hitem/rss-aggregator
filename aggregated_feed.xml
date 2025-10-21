@@ -3,16 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 20:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 21:01:01 GMT</lastBuildDate>
     <item>
-      <title>Automating VMware to Hyper-V Migration with SCVMM</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237</link>
-      <pubDate>Tue, 21 Oct 2025 20:04:24 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237</guid>
-      <description>&#160;
-Hello everyone! Today we have a guest author, Cameron Peppers, who is a Cloud Solution Architect working with our On-Prem VMWare Migration program/field team. He has a long background that is focused on Hyper-V and SCVMM datacenter design, along with migrations from VMware for more years that he can cares to admit.
-&#160;
-This blog post provides a PowerShell script for automating the migration of a virtual machine (VM) from most versions of VMware to Hyper-V using SCVMM 2022 UR2+ or 2025 and retaining all settings (yes, even the static IP!). With 10GB or better Layer 2 networking and flash storag...</description>
+      <title>Secure Configuration and Hardening of Active Directory Certificate Services</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240</link>
+      <pubDate>Tue, 21 Oct 2025 20:26:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240</guid>
+      <description>My name is Ron Arestia, and I am a Security Researcher with Microsoft&#8217;s Detection and Response Team (DART). We respond to customer cybersecurity incidents to assist with containment and recovery from threat actors.
+We are actively honing our processes to help customers protect their environments before the worst-case scenario becomes a reality. In this article, I&#8217;m going to go over four critical focus areas for hardening your AD Certificate Services environment based on several years and dozens of customer engagements focused on assessing and remediating configurations:
+
+Offline root is non-ne...</description>
     </item>
   </channel>
 </rss>
