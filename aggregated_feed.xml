@@ -3,15 +3,26 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 16:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 17:01:10 GMT</lastBuildDate>
     <item>
-      <title>New bi-directional export for TI in Microsoft Sentinel and strategic Cyware partnership</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and/ba-p/4457947</link>
-      <pubDate>Tue, 21 Oct 2025 15:25:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and/ba-p/4457947</guid>
-      <description>Empowering collective defense through seamless threat intel sharing
-We&#8217;re excited to announce a key milestone in advancing the threat intelligence platform within Microsoft Sentinel: You can now export threat intelligence to trusted destinations with ease. This milestone enables bi-directional sharing, allowing security teams not only to ingest intelligence but also to contribute back to partners, Information Sharing and Analysis Centers (ISACs), and multi-tenant environments&#8212;strengthening collective defense across the ecosystem.
-Together with this release, we&#8217;re also excited to announce a str...</description>
+      <title>Security Copilot Agents: The New Era of AI, Driven Cyber Defense</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913</link>
+      <pubDate>Tue, 21 Oct 2025 16:43:36 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913</guid>
+      <description>With increasing cyber threats, security teams require intelligent agents that adapt and operate throughout the security stack, not just automation.&#160;Key statistics&#160;from our&#160;Microsoft Digital Defense Report 2024&#160;which&#160;highlights&#160;this concerning trend of Cybersecurity threats:&#160;
+
+Over 600 million cyberattacks per day targeting Microsoft customers&#160;
+
+
+2.75x increase in ransomware attacks year-over-year&#160;
+
+
+400% surge in tech&#160;scams&#160;since 2022&#160;
+
+
+Growing collaboration between cybercriminals and nation-state actors&#160;
+
+In my&#160;previous&#160;blogs, I explored how AI agents are transforming security operations in ...</description>
     </item>
   </channel>
 </rss>
