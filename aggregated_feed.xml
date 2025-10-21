@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 18:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 19:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Securing GenAI Workloads in Azure: A Complete Guide to Monitoring and Threat Protection - AIO11Y</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring/ba-p/4463145</link>
+      <pubDate>Tue, 21 Oct 2025 18:03:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring/ba-p/4463145</guid>
+      <description>Series Introduction
+Generative AI is transforming how organizations build applications, interact with customers, and unlock insights from data. But with this transformation comes a new security challenge: how do you monitor and protect AI workloads that operate fundamentally differently from traditional applications?
+Over the course of this series, Abhi Singh and Umesh Nagdev, Secure AI GBBs, will walk you through the complete journey of securing your Azure OpenAI workloads&#8212;from understanding the unique challenges, to implementing defensive code, to leveraging Microsoft's security platform, an...</description>
+    </item>
   </channel>
 </rss>
