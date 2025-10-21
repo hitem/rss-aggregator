@@ -3,15 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 19:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 20:09:18 GMT</lastBuildDate>
     <item>
-      <title>Securing GenAI Workloads in Azure: A Complete Guide to Monitoring and Threat Protection - AIO11Y</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring/ba-p/4463145</link>
-      <pubDate>Tue, 21 Oct 2025 18:03:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring/ba-p/4463145</guid>
-      <description>Series Introduction
-Generative AI is transforming how organizations build applications, interact with customers, and unlock insights from data. But with this transformation comes a new security challenge: how do you monitor and protect AI workloads that operate fundamentally differently from traditional applications?
-Over the course of this series, Abhi Singh and Umesh Nagdev, Secure AI GBBs, will walk you through the complete journey of securing your Azure OpenAI workloads&#8212;from understanding the unique challenges, to implementing defensive code, to leveraging Microsoft's security platform, an...</description>
+      <title>Automating VMware to Hyper-V Migration with SCVMM</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237</link>
+      <pubDate>Tue, 21 Oct 2025 20:04:24 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237</guid>
+      <description>&#160;
+Hello everyone! Today we have a guest author, Cameron Peppers, who is a Cloud Solution Architect working with our On-Prem VMWare Migration program/field team. He has a long background that is focused on Hyper-V and SCVMM datacenter design, along with migrations from VMware for more years that he can cares to admit.
+&#160;
+This blog post provides a PowerShell script for automating the migration of a virtual machine (VM) from most versions of VMware to Hyper-V using SCVMM 2022 UR2+ or 2025 and retaining all settings (yes, even the static IP!). With 10GB or better Layer 2 networking and flash storag...</description>
     </item>
   </channel>
 </rss>
