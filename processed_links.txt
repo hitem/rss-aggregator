@@ -611,3 +611,4 @@
 2025-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/11-days-remaining-support-for-microsoft-entra-permissions/ba-p/4462424
 2025-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/6-truths-about-migrating-microsoft-sentinel-to-the-defender/ba-p/4460437
 2025-10-21T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-in-microsoft-sentinel-and-strategic/ba-p/4457947
+2025-10-21T15:25:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and/ba-p/4457947
