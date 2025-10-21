@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 21:01:01 GMT</lastBuildDate>
-    <item>
-      <title>Secure Configuration and Hardening of Active Directory Certificate Services</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240</link>
-      <pubDate>Tue, 21 Oct 2025 20:26:42 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240</guid>
-      <description>My name is Ron Arestia, and I am a Security Researcher with Microsoft&#8217;s Detection and Response Team (DART). We respond to customer cybersecurity incidents to assist with containment and recovery from threat actors.
-We are actively honing our processes to help customers protect their environments before the worst-case scenario becomes a reality. In this article, I&#8217;m going to go over four critical focus areas for hardening your AD Certificate Services environment based on several years and dozens of customer engagements focused on assessing and remediating configurations:
-
-Offline root is non-ne...</description>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 22:01:04 GMT</lastBuildDate>
   </channel>
 </rss>
