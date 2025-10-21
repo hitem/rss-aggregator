@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Oct 2025 10:00:45 GMT</lastBuildDate>
-    <item>
-      <title>New bi-directional export in Microsoft Sentinel and strategic Cyware partnership</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-in-microsoft-sentinel-and-strategic/ba-p/4457947</link>
-      <pubDate>Tue, 21 Oct 2025 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-in-microsoft-sentinel-and-strategic/ba-p/4457947</guid>
-      <description>Empowering collective defense through seamless threat intel sharing
-We&#8217;re excited to announce a key milestone in advancing the threat intelligence platform within Microsoft Sentinel: You can now export threat intelligence to trusted destinations with ease. This milestone enables bi-directional sharing, allowing security teams not only to ingest intelligence but also to contribute back to partners, Information Sharing and Analysis Centers (ISACs), and multi-tenant environments&#8212;strengthening collective defense across the ecosystem.
-Together with this release, we&#8217;re also excited to announce a str...</description>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 11:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
