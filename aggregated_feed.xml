@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Oct 2025 15:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 16:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Blog Series: Securing the Future: Protecting AI Workloads in the Enterprise</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/blog-series-securing-the-future-protecting-ai-workloads-in-the/ba-p/4463110</link>
+      <pubDate>Wed, 22 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/blog-series-securing-the-future-protecting-ai-workloads-in-the/ba-p/4463110</guid>
+      <description>Post 1: The Hidden Threats in the AI Supply Chain
+Your AI Supply Chain Is Under Attack &#8212; And You Might Not Even Know It
+Imagine deploying a cutting-edge AI model that delivers flawless predictions in testing. The system performs beautifully, adoption soars, and your data science team celebrates.
+Then, a few weeks later, you discover the model has been quietly exfiltrating sensitive data &#8212; or worse, that a single poisoned dataset altered its decision-making from the start.
+This isn&#8217;t a grim sci-fi scenario. It&#8217;s a growing reality.
+AI systems today rely on a complex and largely opaque supply cha...</description>
+    </item>
   </channel>
 </rss>

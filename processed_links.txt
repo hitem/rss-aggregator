@@ -1,4 +1,3 @@
-2024-10-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-latest-enhancements-in-microsoft-authenticator/ba-p/4078807
 2024-10-22T18:21:17 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/upcoming-design-updates-microsoft-purview-message-encryption/ba-p/4274433
 2024-10-24T10:47:01 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploy-microsoft-sentinel-using-bicep/ba-p/4270970
 2024-10-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/manage-microsoft-entra-id-role-assignments-with-microsoft-entra/ba-p/4120307
@@ -615,3 +614,4 @@
 2025-10-21T20:04:24 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237
 2025-10-21T20:26:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240
 2025-10-22T09:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-integrated-hsm-new-chapter-shift-from-centralized-clusters/ba-p/4462923
+2025-10-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/blog-series-securing-the-future-protecting-ai-workloads-in-the/ba-p/4463110
