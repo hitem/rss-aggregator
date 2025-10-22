@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Oct 2025 22:00:53 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Office 365: Migration &amp; Onboarding</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-migration-onboarding/ba-p/4462906</link>
-      <pubDate>Wed, 22 Oct 2025 21:04:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-migration-onboarding/ba-p/4462906</guid>
-      <description>This blog covers four key areas that are frequently missed, but they are essential for a secure and auditable deployment of Defender for Office 365. Before diving into the technical details, it is important to clarify a common misconception about Defender for Office 365 protections.
-Blocking Malicious File Downloads in SharePoint and OneDrive
-A common assumption during onboarding is that Microsoft Defender for Office 365 protections only apply to email. In reality, Safe Attachments also integrates with SharePoint Online, OneDrive for Business and Microsoft Teams. It scans files for malware eve...</description>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 23:00:55 GMT</lastBuildDate>
   </channel>
 </rss>
