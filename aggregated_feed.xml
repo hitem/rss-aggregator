@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Oct 2025 20:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 21:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Identify Device state in EntraID/Defender with PowerShell</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/identify-device-state-in-entraid-defender-with-powershell/ba-p/4463595</link>
+      <pubDate>Wed, 22 Oct 2025 20:39:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/identify-device-state-in-entraid-defender-with-powershell/ba-p/4463595</guid>
+      <description>Proposed solution:
+One way to achieve this result is by integrating few pieces of available technology. It sounds like a lot of moving parts but we do not need
+
+App registration in EntraID
+MS Graph API
+Defender API
+Powershell scripting language.
+File encryption
+
+App registration in EntraID:
+What this does is to provide a connection point between PowerShell and the information you want to access. Since creating an app registration creates a client secret and appId we can leverage these two pieces of information on the PowerShell script.
+For reference from our documentation: How to register an a...</description>
+    </item>
   </channel>
 </rss>
