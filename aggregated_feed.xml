@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 22 Oct 2025 08:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 09:10:41 GMT</lastBuildDate>
+    <item>
+      <title>Azure Integrated HSM: New Chapter&amp;Shift from Centralized Clusters to Embedded Silicon-to-Cloud Trust</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-integrated-hsm-new-chapter-shift-from-centralized-clusters/ba-p/4462923</link>
+      <pubDate>Wed, 22 Oct 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-integrated-hsm-new-chapter-shift-from-centralized-clusters/ba-p/4462923</guid>
+      <description>Azure Integrated HSM marks a major shift in how cryptographic keys are handled&#8212;moving from centralized clusters&#8230; to local, tamper&#8209;resistant modules embedded directly in virtual machines. This new model brings cryptographic assurance closer to the workload, reducing latency, increasing throughput, and redefining what&#8217;s possible for secure applications in the cloud.
+Before diving into this innovation, let&#8217;s take a step back. Microsoft&#8217;s journey with HSMs in Azure spans nearly a decade, evolving through multiple architectures, vendors, and compliance models. From shared services to dedicated clus...</description>
+    </item>
   </channel>
 </rss>
