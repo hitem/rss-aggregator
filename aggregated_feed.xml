@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 Oct 2025 15:08:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 16:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Announcing General Availability: Unified identity and endpoint sensor</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-general-availability-unified-identity-and-endpoint/ba-p/4463585</link>
+      <pubDate>Thu, 23 Oct 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-general-availability-unified-identity-and-endpoint/ba-p/4463585</guid>
+      <description>This milestone streamlines the deployment of on-premises identity security by unifying our endpoint and identity protection into a single sensor, pre-installed and ready for activation on Domain Controllers running Windows Server 2019 or newer.
+What Is a sensor? What&#8217;s new about this version?
+Viewed through a cybersecurity lens, a &#8220;sensor&#8221; is a software component that monitors and protects critical infrastructure. Serving as one of the first lines of defense against threat actors, they continuously scan corporate resources for malicious activity or misconfigurations to ensure your organization...</description>
+    </item>
   </channel>
 </rss>
