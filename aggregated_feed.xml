@@ -3,21 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 24 Oct 2025 12:16:04 GMT</lastBuildDate>
-    <item>
-      <title>Subscription Governance: The Relationships and Dependencies Involved with Managing Subscriptions</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/subscription-governance-the-relationships-and-dependencies/ba-p/4463284</link>
-      <pubDate>Fri, 24 Oct 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/subscription-governance-the-relationships-and-dependencies/ba-p/4463284</guid>
-      <description>In this article
-Introduction
-Relationships and dependencies between Entra ID, Billing Accounts and Subscriptions
-Identity and Roles
-Billing Account and Subscription Creation
-Summary
-&#160;
-Introduction
-In cloud governance, the relationships between Entra ID, Billing Accounts, Subscriptions, and User Permissions are frequently misunderstood even by experienced practitioners. Many organizations assume these components form a simple hierarchy or that permissions and associations are inherited in certain ways. In reality, these elements are loosely associated, and their dependencies are far more nuance...</description>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 13:22:28 GMT</lastBuildDate>
   </channel>
 </rss>
