@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 27 Oct 2025 14:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 15:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Cloud shadows: How attackers exploit Azure&#8217;s elasticity for stealth and scale</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-shadows-how-attackers-exploit-azure-s-elasticity-for/ba-p/4463551</link>
+      <pubDate>Mon, 27 Oct 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-shadows-how-attackers-exploit-azure-s-elasticity-for/ba-p/4463551</guid>
+      <description>Threats like password spray or adversary-in-the-middle (AiTM) are routine and too easily overlooked in an endless stream of security alerts. But what if these routine threats are only a small part of a much deeper, more sophisticated attack?
+Since June 2025, Microsoft Defender Experts has been closely monitoring a sophisticated and continuously evolving attack campaign targeting poorly managed Azure cloud environments. What sets these threats apart is their use of Azure&#8217;s elasticity and interconnected structure, which allows users and attackers alike to move more easily through multi-tenant en...</description>
+    </item>
   </channel>
 </rss>
