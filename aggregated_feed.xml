@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 27 Oct 2025 10:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 11:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Ollama on HTTPS for SQL Server</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ollama-on-https-for-sql-server/ba-p/4458309</link>
+      <pubDate>Mon, 27 Oct 2025 10:31:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ollama-on-https-for-sql-server/ba-p/4458309</guid>
+      <description>Here is a quick procedure to deploy an Ubuntu container with Ollama and expose its API over HTTPS.
+The goal is to allow a fast deployment, even for those unfamiliar with Docker or Language Models, making it easy to set up an offline platform for generating embeddings and using Small Language Models
+This is particularly useful when testing SQL Server 2025 for fully on-premises environment use cases, since SQL Server only allows access to HTTPS endpoints. However, HTTP remains open for testing purposes.
+Please note that this example is CPU-based, as deploying with (integrated) GPU support involv...</description>
+    </item>
   </channel>
 </rss>

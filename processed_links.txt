@@ -617,3 +617,4 @@
 2025-10-22T21:04:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-migration-onboarding/ba-p/4462906
 2025-10-23T15:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-general-availability-unified-identity-and-endpoint/ba-p/4463585
 2025-10-24T12:15:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/subscription-governance-the-relationships-and-dependencies/ba-p/4463284
+2025-10-27T10:31:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ollama-on-https-for-sql-server/ba-p/4458309
