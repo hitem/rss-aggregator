@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 27 Oct 2025 23:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 00:38:36 GMT</lastBuildDate>
+    <item>
+      <title>Part 2: Building Security Observability Into Your Code - Defensive Programming for Azure OpenAI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-2-building-security-observability-into-your-code-defensive/ba-p/4464221</link>
+      <pubDate>Tue, 28 Oct 2025 00:38:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-2-building-security-observability-into-your-code-defensive/ba-p/4464221</guid>
+      <description>Introduction
+In Part 1, we explored why traditional security monitoring fails for GenAI workloads. We identified the blind spots: prompt injection attacks that bypass WAFs, ephemeral interactions that evade standard logging, and compliance challenges that existing frameworks don't address.
+Now comes the critical question: What do you actually build into your code to close these gaps?
+Security for GenAI applications isn't something you bolt on after deployment&#8212;it must be embedded from the first line of code. In this post, we'll walk through the defensive programming patterns that transform a ba...</description>
+    </item>
   </channel>
 </rss>

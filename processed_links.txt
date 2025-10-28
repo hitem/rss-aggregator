@@ -619,3 +619,4 @@
 2025-10-24T12:15:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/subscription-governance-the-relationships-and-dependencies/ba-p/4463284
 2025-10-27T10:31:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ollama-on-https-for-sql-server/ba-p/4458309
 2025-10-27T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-shadows-how-attackers-exploit-azure-s-elasticity-for/ba-p/4463551
+2025-10-28T00:38:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-2-building-security-observability-into-your-code-defensive/ba-p/4464221
