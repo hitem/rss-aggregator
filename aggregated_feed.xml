@@ -3,18 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Oct 2025 15:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 16:10:41 GMT</lastBuildDate>
     <item>
-      <title>Custom detections are now the unified experience for creating detections in Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/custom-detections-are-now-the-unified-experience-for-creating/ba-p/4463875</link>
-      <pubDate>Tue, 28 Oct 2025 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/custom-detections-are-now-the-unified-experience-for-creating/ba-p/4463875</guid>
-      <description>As we continue to deliver on our vision to simplify security workflows for the SOC, we are making custom detections the unified solution for building and managing rules over Defender XDR and Sentinel data. While analytics rules remain available, we recommend using custom detections for access to new features and enhancements.
-Benefits of unified custom detections
-Adopting custom detections as the primary method for rule management helps streamline operations and enhance security. You can refer to this page for a full list of the benefits.
-Some highlights include:
+      <title>Run agentless SAP connector cost-efficiently</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/run-agentless-sap-connector-cost-efficiently/ba-p/4464781</link>
+      <pubDate>Tue, 28 Oct 2025 15:56:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/run-agentless-sap-connector-cost-efficiently/ba-p/4464781</guid>
+      <description>The SAP agentless connector uses SAP Integration Suite (Cloud Integration/CPI) to fetch SAP audit log data and forward it to Microsoft Sentinel. Because SAP CPI billing typically reflects message counts and data volume, you can tune the connector to control costs&#8212;while preserving reliability and timeliness.
 
-Single experience &#8211; One inter...</description>
+Cost reductions primarily come from&#160;sending fewer CPI messages by increasing the polling interval. The max-rows parameter is a stability safeguard that caps events per run to protect CPI resources; it is not a direct cost-optimization lever. After any change, monitor CPI execution time and...</description>
     </item>
   </channel>
 </rss>
