@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Oct 2025 20:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 21:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Mastering the AZ-104 Exam: Golu&#8217;s Guide to Passing &amp; Levelling Up Your Cloud Career!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/mastering-the-az-104-exam-golu-s-guide-to-passing-levelling-up/ba-p/4464535</link>
+      <pubDate>Tue, 28 Oct 2025 20:14:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/mastering-the-az-104-exam-golu-s-guide-to-passing-levelling-up/ba-p/4464535</guid>
+      <description>The AZ-104 exam is designed to test your knowledge and skills in administering Azure services. Passing this exam will validate your expertise in Azure administration and enhance your career opportunities in cloud computing.&#160;&#160;Being the Global Courseware Lead for AZ-104 Course and as a Microsoft Technical Trainer at Microsoft, I got to work with a lot of different versions of this course and since I have a background in Azure Administration and also architecting solutions for various customers over the span of my 10+ years of IT journey, I want to highlight my strategy to prepare for this exam, ...</description>
+    </item>
   </channel>
 </rss>
