@@ -620,3 +620,4 @@
 2025-10-28T00:38:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-2-building-security-observability-into-your-code-defensive/ba-p/4464221
 2025-10-28T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/custom-detections-are-now-the-unified-experience-for-creating/ba-p/4463875
 2025-10-28T15:56:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/run-agentless-sap-connector-cost-efficiently/ba-p/4464781
+2025-10-28T17:34:32 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-captcha-in-azure-front-door-waf/ba-p/4464704

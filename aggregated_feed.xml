@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 28 Oct 2025 17:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:12:55 GMT</lastBuildDate>
+    <item>
+      <title>General Availability of CAPTCHA in Azure Front Door WAF</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-captcha-in-azure-front-door-waf/ba-p/4464704</link>
+      <pubDate>Tue, 28 Oct 2025 17:34:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-captcha-in-azure-front-door-waf/ba-p/4464704</guid>
+      <description>We are excited to announce the General Availability (GA) of the Azure Web Application Firewall (WAF) CAPTCHA challenge for Azure Front Door, empowering customers to better defend their web applications against automated bot attacks while ensuring legitimate users can still access their apps seamlessly.
+This milestone marks the culmination of a successful public preview that saw hundreds of customers defend against more than 700 million bot requests, reinforcing the value of interactive security mechanisms in modern web application protection.
+&#160;
+Why CAPTCHA Matters
+Web applications today face a...</description>
+    </item>
   </channel>
 </rss>
