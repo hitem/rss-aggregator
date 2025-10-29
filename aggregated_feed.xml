@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Oct 2025 04:15:12 GMT</lastBuildDate>
-    <item>
-      <title>Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai/ba-p/4464980</link>
-      <pubDate>Wed, 29 Oct 2025 03:43:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai/ba-p/4464980</guid>
-      <description>Introduction
-This post walks through how to get started with the Microsoft Sentinel MCP Server and showcases a hands-on demo integrating with Visual Studio Code and GitHub Copilot.
-Using the MCP server, you can run natural language queries against Microsoft Sentinel&#8217;s security data lake, enabling faster investigations and simplified threat hunting using tools you already know.
-This blog includes a real-world prompt you can use in your own environment and highlights the power of AI-assisted security workflows.
-&#160;
-What is the Microsoft Sentinel MCP Server?
-The Model Context Protocol (MCP) allows ...</description>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 05:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
