@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Oct 2025 15:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 16:10:36 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra at Ignite 2025: November 17-21</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-at-ignite-2025-november-17-21/ba-p/4400194</link>
+      <pubDate>Wed, 29 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-at-ignite-2025-november-17-21/ba-p/4400194</guid>
+      <description>Microsoft Ignite is almost here. Join us from November 17&#8211;21, 2025, in San Francisco, California, and online for Microsoft&#8217;s largest event of the year. Ignite brings together IT and security professionals, developers, and business leaders from across the globe to explore the future of technology.
+This year, expect breakthrough insights on AI transformation and cutting-edge solutions to re-envision business flows, protect and govern AI, and simplify security. Plus, you&#8217;ll have countless opportunities to connect with peers, partners, and industry experts to grow your network and business.
+Regist...</description>
+    </item>
   </channel>
 </rss>
