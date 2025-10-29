@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Oct 2025 18:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 19:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Get Started with Git and GitHub: Why Every DevOps Professional Needs These Skills Now</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/get-started-with-git-and-github-why-every-devops-professional/ba-p/4464917</link>
+      <pubDate>Wed, 29 Oct 2025 18:55:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/get-started-with-git-and-github-why-every-devops-professional/ba-p/4464917</guid>
+      <description>Why Git and GitHub Are Non-Negotiable in DevOps&#160;
+In today&#8217;s fast-paced DevOps environments, mastering the basics of git and GitHub&#160;isn&#8217;t&#160;just a nice-to-have.&#160;It&#8217;s&#160;essential. Whether&#160;you&#8217;re&#160;a developer, operator, architect, or any other role in the software delivery pipeline, your ability to collaborate, track changes, and automate workflows depends on these tools. If&#160;you&#8217;re&#160;not using git and GitHub,&#160;you&#8217;re&#160;falling behind.&#160;
+Every piece of code&#8212;whether&#160;it&#8217;s&#160;application logic, Infrastructure as Code (IaC), CI/CD pipelines, or automation scripts&#8212;should live in a git repository.&#160;Why? Because versio...</description>
+    </item>
   </channel>
 </rss>
