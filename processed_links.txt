@@ -621,3 +621,4 @@
 2025-10-29T03:43:58 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai/ba-p/4464980
 2025-10-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-at-ignite-2025-november-17-21/ba-p/4400194
 2025-10-29T18:55:18 https://techcommunity.microsoft.com/t5/microsoft-security-community/get-started-with-git-and-github-why-every-devops-professional/ba-p/4464917
+2025-10-30T08:37:39 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-agentless-connector-ga/ba-p/4464490
