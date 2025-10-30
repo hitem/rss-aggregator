@@ -3,13 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Oct 2025 16:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 17:08:08 GMT</lastBuildDate>
     <item>
-      <title>GenAI vs Cyber Threats: Why GenAI Powered Unified SecOps Wins</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/genai-vs-cyber-threats-why-genai-powered-unified-secops-wins/ba-p/4465283</link>
-      <pubDate>Thu, 30 Oct 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/genai-vs-cyber-threats-why-genai-powered-unified-secops-wins/ba-p/4465283</guid>
-      <description>Cybersecurity is evolving faster than ever. Attackers are leveraging automation and AI to scale their operations, so how can defenders keep up? The answer lies in&#160;Microsoft Unified Security Operations powered by Generative AI (GenAI). This opens the Cybersecurity Paradox: Attackers only need one successful attempt, but defenders must always be vigilant, otherwise the impact can be huge. Traditional Security Operation Centers (SOCs) are hampered by siloed tools and fragmented data, which slows response and creates vulnerabilities. On average, attackers gain unauthorized access to organizational...</description>
+      <title>Safeguarding Microsoft Teams with Microsoft Defender for Office 365</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/safeguarding-microsoft-teams-with-microsoft-defender-for-office/ba-p/4464086</link>
+      <pubDate>Thu, 30 Oct 2025 17:01:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/safeguarding-microsoft-teams-with-microsoft-defender-for-office/ba-p/4464086</guid>
+      <description>As organizations rely more on Microsoft Teams for daily collaboration, securing this platform has become a top priority. Threat actors are increasingly targeting Teams chats and channels with phishing links and malicious files, making it critical for IT admins and security professionals to extend protection beyond email. Enter Microsoft Defender for Office 365, now armed with dedicated Teams protection capabilities. Microsoft Defender for Office 365 enables users to report suspicious messages, brings time-of-click scanning of URLs and files into Teams conversations, and provides rich alerts an...</description>
     </item>
   </channel>
 </rss>

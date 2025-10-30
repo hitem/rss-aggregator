@@ -622,3 +622,4 @@
 2025-10-29T18:55:18 https://techcommunity.microsoft.com/t5/microsoft-security-community/get-started-with-git-and-github-why-every-devops-professional/ba-p/4464917
 2025-10-30T08:37:39 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-agentless-connector-ga/ba-p/4464490
 2025-10-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/genai-vs-cyber-threats-why-genai-powered-unified-secops-wins/ba-p/4465283
+2025-10-30T17:01:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/safeguarding-microsoft-teams-with-microsoft-defender-for-office/ba-p/4464086
