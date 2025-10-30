@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Oct 2025 15:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 16:01:04 GMT</lastBuildDate>
+    <item>
+      <title>GenAI vs Cyber Threats: Why GenAI Powered Unified SecOps Wins</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/genai-vs-cyber-threats-why-genai-powered-unified-secops-wins/ba-p/4465283</link>
+      <pubDate>Thu, 30 Oct 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/genai-vs-cyber-threats-why-genai-powered-unified-secops-wins/ba-p/4465283</guid>
+      <description>Cybersecurity is evolving faster than ever. Attackers are leveraging automation and AI to scale their operations, so how can defenders keep up? The answer lies in&#160;Microsoft Unified Security Operations powered by Generative AI (GenAI). This opens the Cybersecurity Paradox: Attackers only need one successful attempt, but defenders must always be vigilant, otherwise the impact can be huge. Traditional Security Operation Centers (SOCs) are hampered by siloed tools and fragmented data, which slows response and creates vulnerabilities. On average, attackers gain unauthorized access to organizational...</description>
+    </item>
   </channel>
 </rss>
