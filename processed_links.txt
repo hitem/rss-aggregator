@@ -1,4 +1,3 @@
-2024-10-31T22:45:57 https://techcommunity.microsoft.com/t5/azure-network-security-blog/ipv6-adoption-enhancing-azure-waf-on-front-door/ba-p/4284188
 2024-11-04T14:52:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159
 2024-11-04T15:27:56 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-for-government/ba-p/3575578
 2024-11-04T15:55:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configuring-total-retention-period-for-log-analytics-workspace/ba-p/4286422
