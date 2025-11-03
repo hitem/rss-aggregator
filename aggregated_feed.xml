@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Nov 2025 16:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Delivering more threat hunting insights with Microsoft Defender Experts&#8217; newest capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/delivering-more-threat-hunting-insights-with-microsoft-defender/ba-p/4466047</link>
-      <pubDate>Mon, 03 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/delivering-more-threat-hunting-insights-with-microsoft-defender/ba-p/4466047</guid>
-      <description>The cybersecurity threat landscape continues to evolve with novel attacks and techniques emerging each day. Microsoft Defender Experts for Hunting, included with Microsoft Defender Experts for XDR, helps security teams stay ahead of evolving attacks by providing proactive threat hunting, powered by Microsoft&#8217;s vast threat intelligence with 100 trillion daily signals processed by over 10,000 experts. &#160;
-To date, our managed threat hunting reports have provided details about the hunts we conduct after observing suspicious activity, with full attack summary details provided for verified threats (a...</description>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 17:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
