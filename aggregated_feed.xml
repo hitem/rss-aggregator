@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Nov 2025 22:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 23:00:58 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s New in Microsoft Sentinel: November 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-november-2025/ba-p/4466061</link>
+      <pubDate>Mon, 03 Nov 2025 22:47:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-november-2025/ba-p/4466061</guid>
+      <description>Welcome to our new Microsoft Sentinel blog series!
+We&#8217;re excited to launch a new blog series focused on Microsoft Sentinel. From the latest product innovations and feature updates to industry recognition, success stories, and major events, you&#8217;ll find it all here. This first post kicks off the series by celebrating Microsoft&#8217;s recognition as a Leader in the 2025 Gartner Magic Quadrant for SIEM 1. It also introduces the latest innovations designed to deliver measurable impact and empower defenders with adaptable, collaborative tools in an evolving threat landscape.
+Microsoft is recognized as a ...</description>
+    </item>
   </channel>
 </rss>
