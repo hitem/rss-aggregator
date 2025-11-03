@@ -3,36 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Nov 2025 06:14:20 GMT</lastBuildDate>
-    <item>
-      <title>Update Coverage Workbook in Microsoft Defender for Cloud to Include Defender for AI Plan status</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-coverage-workbook-in-microsoft-defender-for-cloud-to/ba-p/4466418</link>
-      <pubDate>Mon, 03 Nov 2025 05:37:05 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/update-coverage-workbook-in-microsoft-defender-for-cloud-to/ba-p/4466418</guid>
-      <description>Option 1: Update the Existing Coverage Workbook
-Enhance the current workbook by adding a query that checks Defender for AI plan enablement across subscriptions.
-Steps
-
-Open the Coverage Workbook in Defender for Cloud.
-Edit the workbook and update the query section to include the line below.
-
-AIServices = defenderPlans.AI
-&#160;
-
-&#160;
-
-Display the results in a table or chart alongside other Defender plans.
-Save and publish the updated workbook for organization-wide visibility.
-
-&#160;
-Pros
-
-Single pane of glass for all Defender coverage.
-Easy for SOC teams already using the workbook.
-
-Cons
-
-Requires manual ...</description>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 07:09:44 GMT</lastBuildDate>
   </channel>
 </rss>
