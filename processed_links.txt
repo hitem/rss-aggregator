@@ -625,3 +625,4 @@
 2025-11-03T11:39:45 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2025/ba-p/4466561
 2025-11-03T12:40:58 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-142/ba-p/4466598
 2025-11-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/delivering-more-threat-hunting-insights-with-microsoft-defender/ba-p/4466047
+2025-11-03T20:46:11 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/ensure-your-ices-solution-works-seamlessly-alongside-microsoft/ba-p/4466691

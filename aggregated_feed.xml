@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Nov 2025 20:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 21:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Ensure your ICES solution works seamlessly alongside Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/ensure-your-ices-solution-works-seamlessly-alongside-microsoft/ba-p/4466691</link>
+      <pubDate>Mon, 03 Nov 2025 20:46:11 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/ensure-your-ices-solution-works-seamlessly-alongside-microsoft/ba-p/4466691</guid>
+      <description>In today&#8217;s evolving threat landscape, organizations increasingly rely on layered email security solutions to protect users and sensitive data. Microsoft supports and collaborates with Integrated Cloud Email Security (ICES) vendors that work in conjunction with Microsoft Defender, and customers who choose a layered approach to email security to ensure the maximum level of email protection.&#160;
+It is, however, key that when integrating ICES solutions with Microsoft Defender, to follow best practices to maximize security and operational efficiency. &#160;
+In this blog, we explain these best practices in ...</description>
+    </item>
   </channel>
 </rss>
