@@ -1,4 +1,3 @@
-2024-11-04T14:52:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-november-2024/ba-p/4286159
 2024-11-04T15:27:56 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-governance-for-government/ba-p/3575578
 2024-11-04T15:55:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configuring-total-retention-period-for-log-analytics-workspace/ba-p/4286422
 2024-11-04T16:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-now-open-for-individual-developers-to-sign-up/ba-p/4273554
@@ -627,3 +626,4 @@
 2025-11-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/delivering-more-threat-hunting-insights-with-microsoft-defender/ba-p/4466047
 2025-11-03T20:46:11 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/ensure-your-ices-solution-works-seamlessly-alongside-microsoft/ba-p/4466691
 2025-11-03T22:47:11 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-november-2025/ba-p/4466061
+2025-11-04T14:48:33 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-business-value-microsoft-s-dual-approach-to-ai-for/ba-p/4466811

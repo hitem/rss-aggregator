@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Nov 2025 14:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 15:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Unlocking Business Value: Microsoft's Dual Approach to AI for Security and Security for AI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-business-value-microsoft-s-dual-approach-to-ai-for/ba-p/4466811</link>
+      <pubDate>Tue, 04 Nov 2025 14:48:33 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-business-value-microsoft-s-dual-approach-to-ai-for/ba-p/4466811</guid>
+      <description>Overview
+In an era where cyber threats evolve at an unprecedented pace and artificial intelligence (AI) transforms business operations, Microsoft stands at the forefront with a comprehensive strategy that addresses both leveraging AI to bolster security and safeguarding AI systems themselves. This white paper, presented in blog post format, explores Microsoft's business value model for "AI for Security" &#8211; using AI to enhance threat detection, response, and prevention &#8211; and "Security for AI" &#8211; protecting AI deployments from emerging risks. Drawing from independent studies, real-world case studi...</description>
+    </item>
   </channel>
 </rss>
