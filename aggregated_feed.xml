@@ -3,14 +3,31 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 04 Nov 2025 15:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 16:10:37 GMT</lastBuildDate>
     <item>
-      <title>Unlocking Business Value: Microsoft's Dual Approach to AI for Security and Security for AI</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-business-value-microsoft-s-dual-approach-to-ai-for/ba-p/4466811</link>
-      <pubDate>Tue, 04 Nov 2025 14:48:33 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-business-value-microsoft-s-dual-approach-to-ai-for/ba-p/4466811</guid>
-      <description>Overview
-In an era where cyber threats evolve at an unprecedented pace and artificial intelligence (AI) transforms business operations, Microsoft stands at the forefront with a comprehensive strategy that addresses both leveraging AI to bolster security and safeguarding AI systems themselves. This white paper, presented in blog post format, explores Microsoft's business value model for "AI for Security" &#8211; using AI to enhance threat detection, response, and prevention &#8211; and "Security for AI" &#8211; protecting AI deployments from emerging risks. Drawing from independent studies, real-world case studi...</description>
+      <title>Unified Reporting in Microsoft Purview : Know your data posture</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/unified-reporting-in-microsoft-purview-know-your-data-posture/ba-p/4466447</link>
+      <pubDate>Tue, 04 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/unified-reporting-in-microsoft-purview-know-your-data-posture/ba-p/4466447</guid>
+      <description>If you've ever struggled to answer questions like "How well are we protecting sensitive data?" or "Which DLP policies are actually working?", you know the frustration. Data scattered across multiple tools, no unified view, and executives asking for metrics you can't easily provide.
+That changes today.
+At Microsoft Purview, we've heard from thousands of customers about the visibility gap in data protection programs. You deploy policies, configure labels, and enable DLP: but proving effectiveness and identifying gaps has been unnecessarily difficult.
+We asked ourselves: What if you could see you...</description>
+    </item>
+    <item>
+      <title>Driving cloud-first identity: User SOA is now Public Preview and Group SOA is Generally Available</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-cloud-first-identity-user-soa-is-now-public-preview-and/ba-p/4462425</link>
+      <pubDate>Tue, 04 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/driving-cloud-first-identity-user-soa-is-now-public-preview-and/ba-p/4462425</guid>
+      <description>Back in August, I shared how Group Source of Authority (SOA) conversion helps organizations govern legacy groups in the cloud, simplifying on-premises cleanup and extending governance to apps that still rely on Active Directory (AD). Today, I&#8217;m excited to announce two major updates to assist in securing hybrid identities:
+
+Group SOA conversion is now generally available.
+User SOA conversion is in public preview.
+
+Why this matters
+Managing identities across AD and the cloud has long been a balancing act. These new capabilities remove that friction:
+
+User Source of Authority (SOA) conversion let...</description>
     </item>
   </channel>
 </rss>
