@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Nov 2025 18:00:46 GMT</lastBuildDate>
-    <item>
-      <title>Automating IOC hunts in Microsoft Sentinel data lake</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/ba-p/4467113</link>
-      <pubDate>Wed, 05 Nov 2025 17:16:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/ba-p/4467113</guid>
-      <description>Security operations are undergoing significant transformation driven by the introduction of AI and a rapidly evolving threat landscape. With Microsoft Sentinel data lake now generally available, organizations can centralize all their security data in a purpose-built security data lake. This helps optimize costs, simplify data management, and accelerate the adoption of AI in security operations.&#160; &#160;This &#160;empowers defenders to &#160;transcend legacy security controls, adopting advanced analytics and automation for more dynamic and effective protection.
-A key advantage of the Sentinel data lake is its ...</description>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 19:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
