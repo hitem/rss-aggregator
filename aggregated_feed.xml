@@ -3,6 +3,32 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Nov 2025 15:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 16:10:43 GMT</lastBuildDate>
+    <item>
+      <title>Unlocking Developer Innovation with Microsoft Sentinel data lake</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/unlocking-developer-innovation-with-microsoft-sentinel-data-lake/ba-p/4467171</link>
+      <pubDate>Wed, 05 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/unlocking-developer-innovation-with-microsoft-sentinel-data-lake/ba-p/4467171</guid>
+      <description>Introduction
+Microsoft Sentinel is evolving rapidly, transforming to be both an industry-leading SIEM and an AI-ready platform that empowers agentic defense across the security ecosystem. In our recent webinar: Introduction to Sentinel data lake for Developers, we explored how developers can leverage Sentinel&#8217;s unified data lake, extensible architecture, and integrated tools to build innovative security solutions. This post summarizes the key takeaways and actionable insights for developers looking to harness the full power of Sentinel.
+&#160;
+Figure 1: Microsoft Sentinel journey
+The Sentinel Platf...</description>
+    </item>
+    <item>
+      <title>Public Preview: Custom WAF Block Status &amp; Body for Azure Application Gateway</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-custom-waf-block-status-body-for-azure/ba-p/4467435</link>
+      <pubDate>Wed, 05 Nov 2025 15:28:03 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-custom-waf-block-status-body-for-azure/ba-p/4467435</guid>
+      <description>Introduction
+Azure Application Gateway Web Application Firewall (WAF) now supports custom HTTP status codes and custom response bodies for blocked requests. This Public Preview feature gives you more control over user experience and client-side handling, aligning with capabilities already available on Azure Front Door WAF.
+&#160;
+Why this matters
+Previously, WAF returned a fixed 403 response with a generic message. Now you can:
+
+Set a custom status code (e.g., 403, 429) to match your app logic.
+Provide a custom response body (e.g., a friendly error page or troubleshooting steps).
+Ensure consistency...</description>
+    </item>
   </channel>
 </rss>
