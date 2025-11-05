@@ -624,3 +624,4 @@
 2025-11-04T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/unified-reporting-in-microsoft-purview-know-your-data-posture/ba-p/4466447
 2025-11-05T15:28:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-custom-waf-block-status-body-for-azure/ba-p/4467435
 2025-11-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/unlocking-developer-innovation-with-microsoft-sentinel-data-lake/ba-p/4467171
+2025-11-05T17:16:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/ba-p/4467113
