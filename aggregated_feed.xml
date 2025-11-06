@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Nov 2025 15:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 16:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Operationalizing the Sentinel data lake: A Practitioner&#8217;s Guide</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/operationalizing-the-sentinel-data-lake-a-practitioner-s-guide/ba-p/4466042</link>
+      <pubDate>Thu, 06 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/operationalizing-the-sentinel-data-lake-a-practitioner-s-guide/ba-p/4466042</guid>
+      <description>This article is part of The Sentinel data lake Practitioner Series. Part 1 of the series focuses on operationalizing the Sentinel data lake and our strategic vision for the customers. This series is evolving based on inputs and feedback from the community as well as various components of turning raw security data and workflows into operational security engine.
+Why This Series?
+Microsoft recently announced Sentinel data lake unlocking massive potential for security teams. Security data lakes are the foundation of modern detection and investigation.
+This blog series is designed to empower you to...</description>
+    </item>
   </channel>
 </rss>
