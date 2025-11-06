@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Nov 2025 21:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 22:01:05 GMT</lastBuildDate>
+    <item>
+      <title>You may be right after all! Disputing Submission Responses in Microsoft Defender for Office 365</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/you-may-be-right-after-all-disputing-submission-responses-in/ba-p/4467151</link>
+      <pubDate>Thu, 06 Nov 2025 21:12:57 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/you-may-be-right-after-all-disputing-submission-responses-in/ba-p/4467151</guid>
+      <description>Introduction
+As a&#160;Microsoft MVP (Most Valuable Professional) specializing in SIEM, XDR, and Cloud Security, I have witnessed the rapid evolution of cybersecurity technologies, especially those designed to protect organizations from sophisticated threats targeting email and collaboration tools. Microsoft Defender for Office 365 introduced an LLM-based engine to help better classify&#160;phishing emails that, these days, are mostly written using AI anyways about a year ago. Today,&#160;I'm&#160;excited to spotlight a new place AI has been inserted into a workflow to make it better&#8230;a feature that elevates the t...</description>
+    </item>
   </channel>
 </rss>
