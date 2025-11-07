@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 06 Nov 2025 23:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (October 2025)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2025/ba-p/4467912</link>
-      <pubDate>Thu, 06 Nov 2025 22:33:55 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2025/ba-p/4467912</guid>
-      <description>Member: TysonPaul | Microsoft Community Hub
-&#160;
-
-Reimagining AI at scale: NVIDIA GB300 NVL72 on Azure
-Team Blog: Azure Infrastructure
-Author: gwaqar
-Published: 10/28/2025
-Summary: Microsoft has deployed the NVIDIA GB300 NVL72 infrastructure on Azure, offering unprecedented AI compute density in a single rack with 72 Blackwell Ultra GPUs and 36 Grace CPUs. The system features advanced liquid cooling, smart rack management, robust security, and streamlined deployment for rapid scaling. Innovations include improved power and thermal management, integrated diagnostics, and flexible cooling for globa...</description>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 00:40:57 GMT</lastBuildDate>
   </channel>
 </rss>
