@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Nov 2025 14:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Using Packet Capture for troubleshooting Azure Firewall flows</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/using-packet-capture-for-troubleshooting-azure-firewall-flows/ba-p/4466692</link>
+      <pubDate>Mon, 10 Nov 2025 14:30:18 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/using-packet-capture-for-troubleshooting-azure-firewall-flows/ba-p/4466692</guid>
+      <description>Introduction
+Azure Firewall is a cloud-native and intelligent network firewall security service that provides best of breed threat protection for your cloud workloads running in Azure. It&#8217;s a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability. Azure Firewall provides both east-west and north-south traffic inspection, and it is offered in three SKUs: Basic, Standard and Premium.
+Azure Firewall also brings powerful logs and metrics to monitor your traffic and operations within the firewall. These logs and metrics include Traffic Analysis, Perf...</description>
+    </item>
   </channel>
 </rss>
