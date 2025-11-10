@@ -631,3 +631,4 @@
 2025-11-06T22:33:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2025/ba-p/4467912
 2025-11-10T08:25:06 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/platform-sso-for-macos/ba-p/4468070
 2025-11-10T14:30:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/using-packet-capture-for-troubleshooting-azure-firewall-flows/ba-p/4466692
+2025-11-10T20:55:41 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/riding-the-ai-wave-how-microsoft-entra-is-evolving-for-the/ba-p/4460536
