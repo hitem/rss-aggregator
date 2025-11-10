@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Nov 2025 08:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 09:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Platform SSO for macOS</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/platform-sso-for-macos/ba-p/4468070</link>
+      <pubDate>Mon, 10 Nov 2025 08:25:06 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/platform-sso-for-macos/ba-p/4468070</guid>
+      <description>Introduction
+As organizations accelerate their journey to passwordless authentication, Microsoft&#8217;s Platform SSO for macOS offers a seamless, secure, and user-friendly experience for device and application sign-in. Built on Apple&#8217;s SSO framework and tightly integrated with Microsoft Entra ID, Platform SSO empowers users to leverage modern authentication methods Touch ID, smart cards, and passkeys across their macOS devices, enterprise apps, and browsers.In this blog, we&#8217;ll walk through the essentials of Platform SSO, supported authentication methods, configuration steps, and best practices for ...</description>
+    </item>
   </channel>
 </rss>
