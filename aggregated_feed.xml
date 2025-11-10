@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 10 Nov 2025 21:01:00 GMT</lastBuildDate>
-    <item>
-      <title>Riding the AI Wave: How Microsoft Entra is Evolving for the Agentic Era</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/riding-the-ai-wave-how-microsoft-entra-is-evolving-for-the/ba-p/4460536</link>
-      <pubDate>Mon, 10 Nov 2025 20:55:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/riding-the-ai-wave-how-microsoft-entra-is-evolving-for-the/ba-p/4460536</guid>
-      <description>
-&#9200;Secure access for AI agents with Microsoft Entra is Tuesday, November 18, 2025 at 3:45PM Pacific Time.
-&#160;
-
-This blog is based on my keynote at The Experts Conference in October 2025.
-I&#8217;m in my 34th year at Microsoft&#8212;hard to believe, considering I was too young to drink and without gray hairs when I joined. I remember the day, about 15 years ago, when my phone rang. Back then, we had actual desk phones you had to pick up, with little LCD displays that showed who was calling. The display lit up: "Satya N." Whoa!
-"Hey Alex," he said, "I have this new role as director of the team for identity. I ...</description>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 22:00:44 GMT</lastBuildDate>
   </channel>
 </rss>
