@@ -3,14 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Nov 2025 17:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:12:20 GMT</lastBuildDate>
     <item>
-      <title>The invisible attack surface: hunting AI threats in Defender XDR</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/the-invisible-attack-surface-hunting-ai-threats-in-defender-xdr/ba-p/4468195</link>
-      <pubDate>Tue, 11 Nov 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/the-invisible-attack-surface-hunting-ai-threats-in-defender-xdr/ba-p/4468195</guid>
-      <description>As organizations embed AI across their business, the same technology that drives productivity also introduces a new class of risk: prompts that can be manipulated, data that can be leaked, and AI systems that can be tricked into doing things they shouldn&#8217;t. Attackers are already testing these boundaries, and defenders need visibility into how AI is being used - not just where it&#8217;s deployed.
-Microsoft Defender for Cloud now brings that visibility into the hunt. Its AI threat protection detects prompt injection, sensitive data exposure, and misuse of credentials in real time, correlating those s...</description>
+      <title>General Availability of JavaScript Challenge in Azure Front Door WAF</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-javascript-challenge-in-azure-front-door/ba-p/4466940</link>
+      <pubDate>Tue, 11 Nov 2025 17:44:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-javascript-challenge-in-azure-front-door/ba-p/4466940</guid>
+      <description>We are pleased to announce the General Availability (GA) of the JavaScript Challenge feature for Azure Web Application Firewall (WAF) on Azure Front Door. This capability equips organizations with a seamless, invisible anti-bot verification layer that distinguishes legitimate users from malicious scripts helping protect web applications from automated threats while preserving a smooth user experience.
+&#160;
+Azure WAF JavaScript Challenge
+Modern bot attacks are increasingly evasive, often bypassing traditional defenses like IP based blocking or simple rate limits. The JavaScript Challenge introduce...</description>
     </item>
   </channel>
 </rss>
