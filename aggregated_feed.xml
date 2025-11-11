@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 11 Nov 2025 15:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 16:10:00 GMT</lastBuildDate>
+    <item>
+      <title>The Microsoft Zero Trust Assessment: Helping you operationalize the hardening of your Microsoft security products</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-zero-trust-assessment-helping-you-operationalize/ba-p/4468729</link>
+      <pubDate>Tue, 11 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-zero-trust-assessment-helping-you-operationalize/ba-p/4468729</guid>
+      <description>Evolving Threats, Adaptive Defenses: The Security Practitioner&#8217;s New Reality&#160;
+Cyber threats are advancing faster than&#160;ever,&#160;and the arrival of&#160;highly accessible&#160;AI tools&#160;with a low&#160;proficiency&#160;barrier&#160;has made this&#160;challenge one that most organizations cannot keep up with.&#160;According to the latest&#160;Microsoft Digital Defense Report, 28% of breaches begin with phishing,&#160;and&#160;we also see&#160;a 4.5x&#160;increase&#160;in AI automated phishing campaigns with higher click through rates.&#160;This&#160;example highlights the need&#160;for security organizations to&#160;not only&#160;prioritize&#160;hardened security policies but also automating d...</description>
+    </item>
   </channel>
 </rss>
