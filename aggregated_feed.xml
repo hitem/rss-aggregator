@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Nov 2025 09:10:52 GMT</lastBuildDate>
-    <item>
-      <title>Announcing Microsoft cloud security benchmark v2 (public preview)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-cloud-security-benchmark-v2-public-preview/ba-p/4468523</link>
-      <pubDate>Wed, 12 Nov 2025 08:54:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-cloud-security-benchmark-v2-public-preview/ba-p/4468523</guid>
-      <description>Overview
-Since its first introduction in 2019, the&#160;Azure Security Benchmark and its successor Microsoft cloud security benchmark&#160;announced in 2023, Microsoft cloud security benchmark&#160;(&#8220;the Benchmark&#8221;) has been widely used by our customers to secure their Azure environments, especially as a security bible and toolkit for Azure security implementation planning and helping the security compliance on various industry and government regulatory standards.
-&#160;
-What&#8217;s new?
-We&#8217;re thrilled to announce the Microsoft cloud security benchmark&#160;v2 (public preview), a new Benchmark version with the enhancement ...</description>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 10:01:02 GMT</lastBuildDate>
   </channel>
 </rss>
