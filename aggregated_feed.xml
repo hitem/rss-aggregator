@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Nov 2025 18:12:46 GMT</lastBuildDate>
-    <item>
-      <title>DNS flow trace logs in Azure Firewall are now generally available</title>
-      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/dns-flow-trace-logs-in-azure-firewall-are-now-generally/ba-p/4469377</link>
-      <pubDate>Wed, 12 Nov 2025 17:56:17 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/dns-flow-trace-logs-in-azure-firewall-are-now-generally/ba-p/4469377</guid>
-      <description>Background
-Azure Firewall helps secure your network by filtering traffic and enforcing policies for your workloads and applications. DNS Proxy, a key capability in Azure Firewall, enables the firewall to act as a DNS forwarder for DNS traffic.
-Today, we&#8217;re introducing the general availability of DNS flow trace logs &#8212; a new logging capability that provides end-to-end visibility into DNS traffic and name resolution across your environment, such as viewing critical metadata including query types, response codes, queried domains, upstream DNS servers, and the source and destination IPs of each req...</description>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 19:00:51 GMT</lastBuildDate>
   </channel>
 </rss>
