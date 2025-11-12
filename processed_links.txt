@@ -635,3 +635,4 @@
 2025-11-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-zero-trust-assessment-helping-you-operationalize/ba-p/4468729
 2025-11-11T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/the-invisible-attack-surface-hunting-ai-threats-in-defender-xdr/ba-p/4468195
 2025-11-11T17:44:50 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-javascript-challenge-in-azure-front-door/ba-p/4466940
+2025-11-12T08:54:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-cloud-security-benchmark-v2-public-preview/ba-p/4468523
