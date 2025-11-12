@@ -3,24 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 12 Nov 2025 16:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 17:09:42 GMT</lastBuildDate>
     <item>
-      <title>Detect more, spend less: the future of threat intelligence correlation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detect-more-spend-less-the-future-of-threat-intelligence/ba-p/4468778</link>
-      <pubDate>Wed, 12 Nov 2025 16:02:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detect-more-spend-less-the-future-of-threat-intelligence/ba-p/4468778</guid>
-      <description>We are simplifying the process of making your threat intelligence actionable while keeping costs in check. With Microsoft Sentinel SIEM and Defender XDR, you can now ingest threat intelligence feeds through Sentinel and enrich XDR incidents without the need to ingest XDR into the SIEM. This integration provides deeper insights during investigations and enhances threat hunting capabilities.
-&#160;
-Discover how this can benefit your team by reading the full blog here:&#160;Detect more, spend less: the future of threat intelligence correlation | Microsoft Community Hub...</description>
-    </item>
-    <item>
-      <title>Detect more, spend less: the future of threat intelligence correlation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-more-spend-less-the-future-of-threat-intelligence/ba-p/4468661</link>
-      <pubDate>Wed, 12 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-more-spend-less-the-future-of-threat-intelligence/ba-p/4468661</guid>
-      <description>With more data and intelligence than ever, it&#8217;s often a challenge to manage it all while making sure you&#8217;re maximizing its value for security investigations. We&#8217;ve made it easier for customers leveraging Microsoft&#8217;s SIEM and XDR. Now, customers can create custom detections that correlate threat intelligence from feeds brought in through the SIEM with their XDR data, without the need to ingest their XDR data as well.
-Why this matters
-Traditionally, correlating threat intelligence with endpoint and identity data required ingesting large volumes of XDR data into the SIEM. While effective, this ap...</description>
+      <title>Ignite 2025: New Microsoft Sentinel Connectors Announcement</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ignite-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4454613</link>
+      <pubDate>Wed, 12 Nov 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ignite-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4454613</guid>
+      <description>Microsoft Sentinel continues to set the pace for innovation in cloud-native SIEMs, empowering security teams to meet today&#8217;s challenges with scalable analytics, built-in AI, and&#160;a cost-effective data lake. Recognized as a leader by Gartner and Forrester, Microsoft Sentinel is a platform for all of security, evolving to unify signals, cut costs, and power agentic AI for the modern SOC.
+As Microsoft Sentinel&#8217;s capabilities expand, so does its connector ecosystem. With over 350+ integrations available, organizations can seamlessly bring data from a wide range of sources into Microsoft Sentinel&#8217;s ...</description>
     </item>
   </channel>
 </rss>
