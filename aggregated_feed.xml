@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Nov 2025 14:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:11:04 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Office 365: Fine-Tuning</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-fine-tuning/ba-p/4469416</link>
+      <pubDate>Thu, 13 Nov 2025 16:06:14 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-fine-tuning/ba-p/4469416</guid>
+      <description>In incident response, most business email compromise&#160;doesn&#8217;t&#160;start with &#8220;sophisticated zero-day malware.&#8221; It starts with configuration gaps:&#160;forwarding&#160;mail outside the tenant, users clicking through Safe Links warnings, impersonation policies left at day-one defaults, or post-delivery cleanup still relying on a human analyst at 2:00 AM. Those gaps are what attackers&#160;actually exploit.&#160;&#160;
+This blog covers our top recommendations for fine-tuning Microsoft Defender for Office 365 configuration from hundreds of deployments and recovery engagements:&#160;
+
+
+Core fine-tuning actions every&#160;email or securit...</description>
+    </item>
   </channel>
 </rss>
