@@ -641,3 +641,4 @@
 2025-11-12T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ignite-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4454613
 2025-11-12T17:56:17 https://techcommunity.microsoft.com/t5/azure-network-security-blog/dns-flow-trace-logs-in-azure-firewall-are-now-generally/ba-p/4469377
 2025-11-13T16:06:14 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-fine-tuning/ba-p/4469416
+2025-11-13T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/sploitlight-hunting-beyond-the-patch/ba-p/4463549
