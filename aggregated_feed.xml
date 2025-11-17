@@ -3,21 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Nov 2025 14:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 15:10:02 GMT</lastBuildDate>
     <item>
-      <title>New Compliance Solutions in Microsoft Sentinel: HIPAA &amp; GDPR Reports</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-compliance-solutions-in-microsoft-sentinel-hipaa-gdpr/ba-p/4470452</link>
-      <pubDate>Mon, 17 Nov 2025 13:35:03 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-compliance-solutions-in-microsoft-sentinel-hipaa-gdpr/ba-p/4470452</guid>
-      <description>What&#8217;s New?
-GDPR Compliance &amp; Data Security Solution (Preview)
-
-Helps organizations demonstrate compliance with the General Data Protection Regulation (GDPR) and protect personal data in cloud and hybrid environments.
-Consolidates data from Alerts, Incidents, Microsoft Purview, Azure SQL, Microsoft 365, UEBA, and Entra ID into a unified workbook.
-Monitors GDPR-related alerts, data classification, sensitive data queries, identity risks, and insider behaviours.
-Provides clear audit evidence and compliance reports, supporting proactive risk detection and regulatory accountability.
-
-HIPAA Complian...</description>
+      <title>Transforming Security Analysis into a Repeatable, Auditable, and Agentic Workflow</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/transforming-security-analysis-into-a-repeatable-auditable-and/ba-p/4468699</link>
+      <pubDate>Mon, 17 Nov 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/transforming-security-analysis-into-a-repeatable-auditable-and/ba-p/4468699</guid>
+      <description>Security analysis shouldn&#8217;t be an afterthought&#8212;it should be a continuous, auditable, and intelligence-driven process built directly into the engineering workflow.&#160;This work introduces an agentic security analysis pipeline that uses reasoning models and tool-based agents to detect variant vulnerabilities across large, fast-changing codebases. By combining automation with explainability, it transforms security validation from a manual, point-in-time task into a repeatable and trustworthy part of every build.
+Why are variants the hard part?
+Security flaws rarely occur in isolation. Once a vulnera...</description>
+    </item>
+    <item>
+      <title>Ignite your future with new security skills during Microsoft Ignite 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/ignite-your-future-with-new-security-skills-during-microsoft/ba-p/4470004</link>
+      <pubDate>Mon, 17 Nov 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/ignite-your-future-with-new-security-skills-during-microsoft/ba-p/4470004</guid>
+      <description>Ignite your future with new security skills during Microsoft Ignite 2025
+AI and cloud technologies are reshaping every industry. Organizations need professionals who can secure AI solutions, modernize infrastructure, and drive innovation responsibly. Ignite brings together experts, learning, and credentials to help you get skilled for the future.
+Take on the Secure and Govern AI with Confidence Challenge
+Start your journey with the Azure Skilling Microsoft Challenge. These curated challenges help you practice real-world scenarios and earn recognition for your skills. One of the challenges feat...</description>
     </item>
   </channel>
 </rss>
