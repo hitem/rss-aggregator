@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Nov 2025 04:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:00:55 GMT</lastBuildDate>
+    <item>
+      <title>MDE for Non&#8209;Persistent VDI &#8212; Implementation Guide &amp; Best Practices.</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-for-non-persistent-vdi-implementation-guide-best-practices/ba-p/4470439</link>
+      <pubDate>Mon, 17 Nov 2025 04:52:08 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-for-non-persistent-vdi-implementation-guide-best-practices/ba-p/4470439</guid>
+      <description>1. Overview: Microsoft Defender for Endpoint (MDE) for Non&#8209;Persistent VDI
+Non&#8209;persistent VDI instances are reset or reprovisioned frequently. To ensure immediate protection and clean device inventory, MDE provides a dedicated onboarding path that calculates a persistent device ID and onboard early in the boot process. Key considerations:
+
+Use the VDI onboarding package and choose the single&#8209;entry method (recommended) to avoid duplicate devices when hosts are recreated with the same name.
+Place the onboarding script in the golden image but ensure it executes only on child VMs (first boot) after...</description>
+    </item>
   </channel>
 </rss>
