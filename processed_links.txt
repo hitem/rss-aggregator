@@ -639,3 +639,5 @@
 2025-11-17T13:35:03 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-compliance-solutions-in-microsoft-sentinel-hipaa-gdpr/ba-p/4470452
 2025-11-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ignite-your-future-with-new-security-skills-during-microsoft/ba-p/4470004
 2025-11-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/transforming-security-analysis-into-a-repeatable-auditable-and/ba-p/4468699
+2025-11-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/native-root-detection-support-for-microsoft-defender-on-android/ba-p/4461576
+2025-11-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/collaborative-research-by-microsoft-and-nvidia-on-real-time/ba-p/4470164

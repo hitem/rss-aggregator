@@ -3,6 +3,23 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 17 Nov 2025 16:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 17:09:08 GMT</lastBuildDate>
+    <item>
+      <title>Native root detection support for Microsoft Defender on Android</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/native-root-detection-support-for-microsoft-defender-on-android/ba-p/4461576</link>
+      <pubDate>Mon, 17 Nov 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/native-root-detection-support-for-microsoft-defender-on-android/ba-p/4461576</guid>
+      <description>Root detection is a critical security control that identifies whether an Android device has been compromised to gain elevated privileges or unrestricted access to the operating system. When a device is rooted, built-in security boundaries are broken, allowing attackers or malicious applications to bypass security controls, disable protections, and manipulate sensitive system files. This permits the installation of unauthorized applications and increases the likelihood of unauthorized access to corporate data. Such devices can raise the overall risk level for an organization.
+That&#8217;s why we&#8217;re p...</description>
+    </item>
+    <item>
+      <title>Collaborative Research by Microsoft and NVIDIA on Real-Time Immunity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/collaborative-research-by-microsoft-and-nvidia-on-real-time/ba-p/4470164</link>
+      <pubDate>Mon, 17 Nov 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/collaborative-research-by-microsoft-and-nvidia-on-real-time/ba-p/4470164</guid>
+      <description>Collaborative Research by Microsoft and NVIDIA on Real-Time Immunity&#160;&#160;Authors:&#160;Asbe&#160;Starosta (Microsoft), Rachel Allen (NVIDIA)&#8239;and Rohan Varma (NVIDIA)&#8239;&#160;
+AI-Powered Threats Demand AI-Powered Defense
+While AI supports growth and innovation, it is also reshaping how organizations address increasingly adaptive security risks. AI-driven security threats, including &#8220;vibe-hacking&#8221;, are evolving faster than traditional defenses can adapt. Attackers can now combine reinforcement learning (RL) with LLM capabilities in code generation, tool use, and multi-step reasoning to develop new methods that can ...</description>
+    </item>
   </channel>
 </rss>
