@@ -1,4 +1,3 @@
-2024-11-18T18:54:12 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implement-authentication-on-mobile-apps-with-native/ba-p/4297182
 2024-11-19T10:38:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leave-no-data-behind-using-summary-rules-to-store-data-cost/ba-p/4296785
 2024-11-19T12:57:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-microsoft-s-leading-siem-is-getting-even-better/ba-p/4304327
 2024-11-19T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-secure-your-saas-landscape-with-the-latest-defender/ba-p/4303401
