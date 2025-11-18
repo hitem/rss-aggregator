@@ -1,4 +1,3 @@
-2024-11-18T15:46:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-exciting-new-microsoft-sentinel-connectors/ba-p/4294146
 2024-11-18T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/defeating-adversary-in-the-middle-phishing-attacks/ba-p/1751777
 2024-11-18T18:54:12 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implement-authentication-on-mobile-apps-with-native/ba-p/4297182
 2024-11-19T10:38:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leave-no-data-behind-using-summary-rules-to-store-data-cost/ba-p/4296785
@@ -639,3 +638,20 @@
 2025-11-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/transforming-security-analysis-into-a-repeatable-auditable-and/ba-p/4468699
 2025-11-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/native-root-detection-support-for-microsoft-defender-on-android/ba-p/4461576
 2025-11-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/collaborative-research-by-microsoft-and-nvidia-on-real-time/ba-p/4470164
+2025-11-18T15:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/enhancing-visibility-into-your-identity-fabric-with-microsoft/ba-p/4470662
+2025-11-18T15:55:46 https://techcommunity.microsoft.com/t5/microsoft-security-community/beyond-visibility-the-new-microsoft-purview-data-security/ba-p/4470984
+2025-11-18T15:59:02 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-for-soc-bringing-agentic-ai-to-every-defender/ba-p/4470187
+2025-11-18T15:59:58 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-innovations-at-ignite-2025/ba-p/4469386
+2025-11-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-ignite-2025-transforming-phishing-response-with/ba-p/4470791
+2025-11-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-what-s-new-in-secure-access-on-the-ai-frontier/ba-p/4468732
+2025-11-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/start-secure-and-stay-secure-on-your-ai-agent-journey-with/ba-p/4469430
+2025-11-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/uncover-hidden-security-risks-with-microsoft-sentinel-graph/ba-p/4469437
+2025-11-18T16:00:40 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-2025-what-s-new-in-microsoft-defender/ba-p/4469996
+2025-11-18T16:01:11 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-is-the-first-to-prevent-attacks/ba-p/4470805
+2025-11-18T16:03:31 https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-new-microsoft-purview-capabilities-to-protect-genai/ba-p/4470696
+2025-11-18T16:07:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-as-the-core-primitive-in-the-agentic-era-new/ba-p/4470197
+2025-11-18T16:09:31 https://techcommunity.microsoft.com/t5/microsoft-security-community/post-quantum-cryptography-apis-now-generally-available-on/ba-p/4469093
+2025-11-18T16:09:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-security-store-now-generally-available/ba-p/4469821
+2025-11-18T16:09:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-mcp-server-generally-available-with-exciting/ba-p/4470125
+2025-11-18T16:09:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080
+2025-11-18T16:10:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-organizations-with-integrated-data-security-what-s/ba-p/4470663
