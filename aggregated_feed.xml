@@ -3,41 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Nov 2025 17:09:32 GMT</lastBuildDate>
-    <item>
-      <title>Charting the Future of SOC: Human and AI Collaboration for Better Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688</link>
-      <pubDate>Tue, 18 Nov 2025 17:04:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688</guid>
-      <description>Co-authors:&#160;Rajiv Bharadwaja, Principal Software Engineering ManagerAbhishek Kumar, Principal Group Manager - Security Research &amp; Operations
-Security operations centers are under pressure from unprecedented scale and complexity. Speed, precision, and consistency matter more than ever, and AI is everywhere&#8212;but hype alone doesn&#8217;t solve the challenge. This blog shares our journey and insights from building autonomous AI agents for MDR operations and explores how the shift to a GenAI-powered SOC redefines collaboration between humans and AI.&#160;
-Beyond our managed services, Microsoft Defender Experts...</description>
-    </item>
-    <item>
-      <title>Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805</link>
-      <pubDate>Tue, 18 Nov 2025 16:57:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805</guid>
-      <description>This year at Microsoft Ignite, Microsoft Defender is announcing exciting innovations for endpoint protection that help security teams deploy faster, gain more visibility, and proactively block attackers during active attacks:
-
-Predictive shielding: Defender is the first security solution to not only respond instantly during an attack but also jump ahead of attackers, predicting and preventing the next move before it happens with just-in-time hardening controls that block specific attacker techniques to protect critical assets.
-Custom data collection: Defender is now the only endpoint protectio...</description>
-    </item>
-    <item>
-      <title>What&#8217;s New at Ignite: Powerful Enhancements in Unified Threat Intelligence</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-ignite-powerful-enhancements-in-unified-threat/ba-p/4470818</link>
-      <pubDate>Tue, 18 Nov 2025 16:18:26 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-ignite-powerful-enhancements-in-unified-threat/ba-p/4470818</guid>
-      <description>At Microsoft Ignite 2025, we&#8217;re unveiling transformative upgrades in threat intelligence designed to empower security teams. With the Threat Intelligence Briefing Agent now fully integrated into the Defender portal, defenders can shift from reactive to proactive security strategies, using Microsoft&#8217;s global intelligence combined with insights tailored to their organization. Additionally, the latest phase of the integration of Microsoft Defender Threat Intelligence (MDTI) with Defender XDR and Sentinel brings together unified, real-time threat intelligence and advanced analytics, streamlining t...</description>
-    </item>
-    <item>
-      <title>Microsoft Ignite 2025: Power the next era of cybersecurity with Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080</link>
-      <pubDate>Tue, 18 Nov 2025 16:09:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080</guid>
-      <description>At&#160;Microsoft Ignite 2025, we&#8217;re showcasing how Microsoft Sentinel &#8212;trusted by over 40,000 customers worldwide&#8212; combines industry-leading SIEM capabilities with a purpose-built security data lake to transform security operations. This powerful combination delivers deep visibility, advanced analytics, and cost-efficiency&#8212;empowering security teams to detect, investigate, and respond faster in an AI-driven era.
-
-IT environments and threats have exploded in size and complexity in recent years. Microsoft Sentinel&#8217;s AI-powered platform with data lake, graph, and AI tools gives security teams the capa...</description>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 18:13:10 GMT</lastBuildDate>
   </channel>
 </rss>
