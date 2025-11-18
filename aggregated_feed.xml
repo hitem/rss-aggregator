@@ -3,153 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 18 Nov 2025 16:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 17:09:32 GMT</lastBuildDate>
     <item>
-      <title>Empowering organizations with integrated data security: What&#8217;s new in Microsoft Purview</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-organizations-with-integrated-data-security-what-s/ba-p/4470663</link>
-      <pubDate>Tue, 18 Nov 2025 16:10:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-organizations-with-integrated-data-security-what-s/ba-p/4470663</guid>
-      <description>Today, data moves across clouds, apps, and devices at&#160;an&#160;unprecedented speed, often outside the visibility of&#160;siloed&#160;legacy tools.&#160;The rise of autonomous agents, generative AI, and distributed data ecosystems means that traditional perimeter-based security models are no longer sufficient.&#160;Even though companies are spending more than&#160;$213 billionglobally, they still face several persistent&#160;security&#160;challenges:&#160;&#160;
-
-Fragmented tools don&#8217;t integrate together well and leave customers lacking full visibility of their data security risks&#160;
-
-
-The growing use of AI in the workplace is creating new&#160;data&#160;r...</description>
+      <title>Charting the Future of SOC: Human and AI Collaboration for Better Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688</link>
+      <pubDate>Tue, 18 Nov 2025 17:04:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688</guid>
+      <description>Co-authors:&#160;Rajiv Bharadwaja, Principal Software Engineering ManagerAbhishek Kumar, Principal Group Manager - Security Research &amp; Operations
+Security operations centers are under pressure from unprecedented scale and complexity. Speed, precision, and consistency matter more than ever, and AI is everywhere&#8212;but hype alone doesn&#8217;t solve the challenge. This blog shares our journey and insights from building autonomous AI agents for MDR operations and explores how the shift to a GenAI-powered SOC redefines collaboration between humans and AI.&#160;
+Beyond our managed services, Microsoft Defender Experts...</description>
     </item>
     <item>
-      <title>Microsoft Ignite 2025: Power the next era of cybersecurity with Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080</link>
-      <pubDate>Tue, 18 Nov 2025 16:09:41 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080</guid>
-      <description>At&#160;Microsoft Ignite 2025, we&#8217;re showcasing how Microsoft Sentinel &#8212;trusted by over 40,000 customers worldwide&#8212; combines industry-leading SIEM capabilities with a purpose-built security data lake to transform security operations. This powerful combination delivers deep visibility, advanced analytics, and cost-efficiency&#8212;empowering security teams to detect, investigate, and respond faster in an AI-driven era.
-
-IT environments and threats have exploded in size and complexity in recent years. Microsoft Sentinel&#8217;s AI-powered platform with data lake, graph, and AI tools gives security teams the capa...</description>
-    </item>
-    <item>
-      <title>Microsoft Sentinel MCP Server - Generally Available With Exciting New Capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-mcp-server-generally-available-with-exciting/ba-p/4470125</link>
-      <pubDate>Tue, 18 Nov 2025 16:09:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-mcp-server-generally-available-with-exciting/ba-p/4470125</guid>
-      <description>Today, we&#8217;re excited to announce the General Availability of Microsoft Sentinel MCP (Model Context Protocol) server, a fully managed cloud service built on an open standard that empowers AI agents to seamlessly access your entire security context through natural language, eliminating the need for complex data engineering as you build agents.&#160; This unlocks new levels of AI agent performance and effectiveness, enabling them to do more for you.
-Since the public preview launch on September 30, hundreds of customers have explored MCP tools that provide semantic access to their entire security conte...</description>
-    </item>
-    <item>
-      <title>Microsoft Security Store: Now Generally Available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-security-store-now-generally-available/ba-p/4469821</link>
-      <pubDate>Tue, 18 Nov 2025 16:09:36 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-security-store-now-generally-available/ba-p/4469821</guid>
-      <description>When we launched the Microsoft Security Store in public preview on September 30, our goal was simple: make it easier for organizations to discover, purchase, and deploy trusted security solutions and AI agents that integrate seamlessly with Microsoft Security products. Today, Microsoft Security Store is generally available&#8212;with three major enhancements:
-
-Embedded where you work: Security Store is now built into Microsoft Defender, featuring SOC-focused agents, and into Microsoft Entra for Verified ID and External ID scenarios like fraud protection. By bringing these capabilities into familiar ...</description>
-    </item>
-    <item>
-      <title>Post-Quantum Cryptography APIs Now Generally Available on Microsoft Platforms</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/post-quantum-cryptography-apis-now-generally-available-on/ba-p/4469093</link>
-      <pubDate>Tue, 18 Nov 2025 16:09:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/post-quantum-cryptography-apis-now-generally-available-on/ba-p/4469093</guid>
-      <description>Introduction&#160;
-We are excited to announce a significant leap forward in security: Post-Quantum Cryptography (PQC) algorithms are now generally available in Windows Server 2025 and Windows 11 clients&#160;(24H2, 25H2) and .NET 10. This major milestone is part of Microsoft's ongoing commitment to help organizations stay ahead of evolving cybersecurity threats and prepare for the era of quantum computing.&#160;
-This announcement&#160;aligns&#160;with the broader strategy of Microsoft&#8217;s Quantum Safe Program (QSP), as highlighted in&#160;this&#160;blog post, which outlines the company&#8217;s comprehensive roadmap for&#160;PQ&#160;readiness. Th...</description>
-    </item>
-    <item>
-      <title>Security as the core primitive in the agentic era: New innovations to secure AI agents and apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-as-the-core-primitive-in-the-agentic-era-new/ba-p/4470197</link>
-      <pubDate>Tue, 18 Nov 2025 16:07:39 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-as-the-core-primitive-in-the-agentic-era-new/ba-p/4470197</guid>
-      <description>This week at Microsoft Ignite, we shared our vision for Microsoft security -- In the agentic era, security must be ambient and autonomous, like the AI it protects. It must be woven into and around everything we build&#8212;from silicon to OS, to agents, apps, data, platforms, and clouds&#8212;and throughout everything we do. In this blog, we are going to dive deeper into many of the new innovations we are introducing this week to secure AI agents and apps.
-As I spend time with our customers and partners, there are four consistent themes that have emerged as core security challenges to secure AI workloads....</description>
-    </item>
-    <item>
-      <title>Announcing New Microsoft Purview Capabilities to Protect GenAI Agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-new-microsoft-purview-capabilities-to-protect-genai/ba-p/4470696</link>
-      <pubDate>Tue, 18 Nov 2025 16:03:31 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-new-microsoft-purview-capabilities-to-protect-genai/ba-p/4470696</guid>
-      <description>As organizations accelerate their adoption of agentic AI, a new and urgent challenge is emerging: how to protect the rapidly growing number of agents&#8212;first-party, third-party, and custom-built&#8212;created and deployed across the enterprise. At Microsoft Ignite, we&#8217;re introducing major advancements in Microsoft Purview to support our customers in securing all their agents, wherever they operate.&#160;
-The New Reality: Agents Everywhere, Data Risks Amplified&#160;
-For many organizations, the pace of agent creation is outstripping traditional oversight. Developers, business units, and&#160;other information workers...</description>
-    </item>
-    <item>
-      <title>Ignite 2025: Microsoft Defender is the first to prevent attacks on endpoints during an active attack</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-is-the-first-to-prevent-attacks/ba-p/4470805</link>
-      <pubDate>Tue, 18 Nov 2025 16:01:11 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-is-the-first-to-prevent-attacks/ba-p/4470805</guid>
+      <title>Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805</link>
+      <pubDate>Tue, 18 Nov 2025 16:57:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805</guid>
       <description>This year at Microsoft Ignite, Microsoft Defender is announcing exciting innovations for endpoint protection that help security teams deploy faster, gain more visibility, and proactively block attackers during active attacks:
 
 Predictive shielding: Defender is the first security solution to not only respond instantly during an attack but also jump ahead of attackers, predicting and preventing the next move before it happens with just-in-time hardening controls that block specific attacker techniques to protect critical assets.
 Custom data collection: Defender is now the only endpoint protectio...</description>
     </item>
     <item>
-      <title>Ignite 2025: What's new in Microsoft Defender?</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-2025-what-s-new-in-microsoft-defender/ba-p/4469996</link>
-      <pubDate>Tue, 18 Nov 2025 16:00:40 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-2025-what-s-new-in-microsoft-defender/ba-p/4469996</guid>
-      <description>This Ignite we are focused on giving security teams the edge they need to meet adversaries head on in the era of AI. The modern Security Operations Center (SOC) is undergoing a fundamental transformation, placing AI at the forefront of innovation - not just as an added feature, but as a driving force at every layer of the stack. While much attention is rightly focused on the development of security agents, we fundamentally believe that AI must also evolve the very foundation of our security solutions. This means building solutions that more effectively uncover novel threats, act dynamically to...</description>
+      <title>What&#8217;s New at Ignite: Powerful Enhancements in Unified Threat Intelligence</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-ignite-powerful-enhancements-in-unified-threat/ba-p/4470818</link>
+      <pubDate>Tue, 18 Nov 2025 16:18:26 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-ignite-powerful-enhancements-in-unified-threat/ba-p/4470818</guid>
+      <description>At Microsoft Ignite 2025, we&#8217;re unveiling transformative upgrades in threat intelligence designed to empower security teams. With the Threat Intelligence Briefing Agent now fully integrated into the Defender portal, defenders can shift from reactive to proactive security strategies, using Microsoft&#8217;s global intelligence combined with insights tailored to their organization. Additionally, the latest phase of the integration of Microsoft Defender Threat Intelligence (MDTI) with Defender XDR and Sentinel brings together unified, real-time threat intelligence and advanced analytics, streamlining t...</description>
     </item>
     <item>
-      <title>Microsoft Ignite 2025: Transforming Phishing Response with Agentic Innovation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-ignite-2025-transforming-phishing-response-with/ba-p/4470791</link>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-ignite-2025-transforming-phishing-response-with/ba-p/4470791</guid>
-      <description>Phishing attacks remain one of the most persistent and damaging threats to organizations worldwide. Security teams are under constant pressure to investigate a growing number of user reported phishing emails daily, ensuring accurate verdicts and timely responses. As threats grow in volume and sophistication, SOC teams are forced to spend valuable time triaging and investigating, often at the expense of strategic defense and proactive threat hunting.
-At Microsoft Ignite 2025 we are delivering innovation that showcases our continued commitment to infuse AI agents, and agentic workflows into the ...</description>
-    </item>
-    <item>
-      <title>Start Secure and Stay Secure on your AI Agent Journey with Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/start-secure-and-stay-secure-on-your-ai-agent-journey-with/ba-p/4469430</link>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/start-secure-and-stay-secure-on-your-ai-agent-journey-with/ba-p/4469430</guid>
-      <description>Introduction
-The power of AI agents is their autonomy &#8211; their ability to understand context, dynamically adjust workflows, orchestrate tooling, and act with little to no human interaction. But that same autonomous decision-making amplifies security risks. Not only are we seeing a geometric rise in the volume of agents being added to our workforce, but the attack techniques and surface area these agents introduce are fundamentally different than anything before.
-Analysts expect more than&#160;1.3 billion agents will be in operation by 2028. To put that into perspective, if they were their own countr...</description>
-    </item>
-    <item>
-      <title>Uncover hidden security risks with Microsoft Sentinel graph</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/uncover-hidden-security-risks-with-microsoft-sentinel-graph/ba-p/4469437</link>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/uncover-hidden-security-risks-with-microsoft-sentinel-graph/ba-p/4469437</guid>
-      <description>Earlier this fall, we launched Microsoft Sentinel graph &#8211; and today, we are pleased to announce that Sentinel graph is generally available starting December 1, 2025. Microsoft Sentinel graph maps the interconnections across activity, asset, and threat intelligence data. This enables comprehensive graph-based security and analysis across pre-and post-breach scenarios in both Microsoft Defender and Microsoft Purview. Customers are already seeing the impact of the graph-powered experiences that is providing insights beyond tabular queries.
-&#160;
-"The predefined scenarios in Sentinel graph are excelle...</description>
-    </item>
-    <item>
-      <title>Microsoft Entra: What&#8217;s New in Secure Access on the AI Frontier</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-what-s-new-in-secure-access-on-the-ai-frontier/ba-p/4468732</link>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-what-s-new-in-secure-access-on-the-ai-frontier/ba-p/4468732</guid>
-      <description>Agentic AI is front and center as Microsoft welcomes security professionals to Ignite this week in San Francsico.
-Advancements in AI and agents are already assisting identity and networks access teams in frontier firms.[1] For example, a recent Microsoft study[2] found that admins using the Conditional Access Optimization Agent in Microsoft Entra completed key tasks 43% faster and with 48% more accuracy. This includes an incredible 204% improvement in detecting missing baseline policies.
-But cybercriminals and nation-state threat actors are also using AI to unleash more advanced and harder-to-...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender for Cloud Innovations at Ignite 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-innovations-at-ignite-2025/ba-p/4469386</link>
-      <pubDate>Tue, 18 Nov 2025 15:59:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-innovations-at-ignite-2025/ba-p/4469386</guid>
-      <description>In today&#8217;s AI-powered world, the boundaries of security are shifting fast. From code to runtime, organizations are moving faster than ever &#8211; building with AI across clouds, accelerating innovation, and expanding the landscape defenders must protect. Security teams are balancing fragmented tools, growing complexity and a new generation of intelligent, agentic systems that learn, adapt and act across the digital estate. The challenge isn&#8217;t understanding the change &#8211; it&#8217;s staying ahead of it.
-At Ignite 2025, we&#8217;re unveiling four major advancements in Microsoft Defender for Cloud that redefine how...</description>
-    </item>
-    <item>
-      <title>Security Copilot for SOC: bringing agentic AI to every defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-for-soc-bringing-agentic-ai-to-every-defender/ba-p/4470187</link>
-      <pubDate>Tue, 18 Nov 2025 15:59:02 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-for-soc-bringing-agentic-ai-to-every-defender/ba-p/4470187</guid>
-      <description>Cybersecurity has entered an era of relentless complexity. As threat actors increasingly leverage artificial intelligence to automate attacks, evade detection, and scale their tactics, defenders are challenged to keep up. In this new era, security operations centers (SOCs) must transform to not just react, but to anticipate, disrupt, and outpace the next wave of cyberthreats.
-Microsoft&#8217;s goal is to empower every organization to meet this challenge head-on by transforming how security operates. We believe the future of the SOC is more than just agentic: it&#8217;s predictive and proactive. This means...</description>
-    </item>
-    <item>
-      <title>Beyond Visibility: The new Microsoft Purview Data Security Posture Management (DSPM) experience</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/beyond-visibility-the-new-microsoft-purview-data-security/ba-p/4470984</link>
-      <pubDate>Tue, 18 Nov 2025 15:55:46 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/beyond-visibility-the-new-microsoft-purview-data-security/ba-p/4470984</guid>
-      <description>In today&#8217;s AI-powered enterprises, understanding your data estate&#8212;and the risks that come with it&#8212;is both more complex and more critical than ever. Meanwhile, many organizations still grapple with a fragmented data security landscape, relying on a patchwork of disconnected tools that obscure visibility and hinder effective data security posture management. As AI adoption accelerates, entirely new data risk vectors are emerging&#8212;ranging from oversharing and compliance gaps to operational inefficiencies. According to recent research[1], 40% of data security incidents now occur within AI applicati...</description>
-    </item>
-    <item>
-      <title>Enhancing visibility into your identity fabric with Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/enhancing-visibility-into-your-identity-fabric-with-microsoft/ba-p/4470662</link>
-      <pubDate>Tue, 18 Nov 2025 15:45:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/enhancing-visibility-into-your-identity-fabric-with-microsoft/ba-p/4470662</guid>
-      <description>Attackers don&#8217;t move in straight lines or follow predictable, sequential steps. Instead, they think in graphs, seeking the path of least resistance, surveying your environment for weak spots and then leverage legitimate connections and permissions to quietly traverse your IT landscape. Just a single compromised account can be a powerful foothold, helping an attacker bypass your other security protocols.
-To put this simply, while your account may not be what the attacker is looking for, it&#8217;s one step on the path to their ultimate goal. Its estimated that less than 1% of your organizational foot...</description>
+      <title>Microsoft Ignite 2025: Power the next era of cybersecurity with Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080</link>
+      <pubDate>Tue, 18 Nov 2025 16:09:41 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080</guid>
+      <description>At&#160;Microsoft Ignite 2025, we&#8217;re showcasing how Microsoft Sentinel &#8212;trusted by over 40,000 customers worldwide&#8212; combines industry-leading SIEM capabilities with a purpose-built security data lake to transform security operations. This powerful combination delivers deep visibility, advanced analytics, and cost-efficiency&#8212;empowering security teams to detect, investigate, and respond faster in an AI-driven era.
+
+IT environments and threats have exploded in size and complexity in recent years. Microsoft Sentinel&#8217;s AI-powered platform with data lake, graph, and AI tools gives security teams the capa...</description>
     </item>
   </channel>
 </rss>
