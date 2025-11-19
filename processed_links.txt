@@ -1,14 +1,3 @@
-2024-11-19T14:01:16 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/empowering-compliance-in-a-complex-regulatory-landscape-with/ba-p/4303503
-2024-11-19T14:01:22 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/security-copilot-is-now-embedded-in-microsoft-entra/ba-p/4289387
-2024-11-19T14:01:22 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/safely-activate-your-data-estate-with-microsoft-purview/ba-p/4298286
-2024-11-19T14:02:07 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-and-netskope-unified-identity-centric-security/ba-p/4288492
-2024-11-19T14:02:16 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/simplifying-signing-integration-for-trusted-signing/ba-p/4293292
-2024-11-19T14:03:23 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-partners-for-new-sase-ecosystem/ba-p/4287444
-2024-11-19T14:03:31 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-s-security-service-edge-solution/ba-p/3847827
-2024-11-19T14:05:18 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-purview-communication-compliance-features-for-copilot-and/ba-p/4296775
-2024-11-19T14:07:05 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-unified-threat-intelligence-experience-in-security/ba-p/4287484
-2024-11-19T14:56:26 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-at-ignite-ti-guided-experience-in-security-copilot/ba-p/4287492
-2024-11-19T15:00:00 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-the-security-enablement-hub-on-adoption-microsoft-com/ba-p/4303470
 2024-11-19T17:28:51 https://techcommunity.microsoft.com/t5/azure-network-security-blog/copilot-in-azure-embedded-experience-for-azure-firewall/ba-p/4304443
 2024-11-19T17:55:21 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/new-m365-copilot-data-lifecycle-management-options/ba-p/4304636
 2024-11-20T15:22:15 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/built-in-security-controls-for-external-facing-apps/ba-p/4175879
