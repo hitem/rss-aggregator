@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 22 Nov 2025 00:39:30 GMT</lastBuildDate>
-    <item>
-      <title>Welcome to the Microsoft Security Community!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/welcome-to-the-microsoft-security-community/ba-p/4471927</link>
-      <pubDate>Fri, 21 Nov 2025 23:34:19 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/welcome-to-the-microsoft-security-community/ba-p/4471927</guid>
-      <description>Protect it all with Microsoft Security&#160;
-Eliminate&#160;gaps and get the simplified,&#160;comprehensive protection,&#160;expertise, and AI-powered solutions you need to innovate and grow in a changing world.&#160;The&#160;Microsoft Security Community is your gateway to connect, learn, and collaborate with peers, experts, and product teams. Gain access to technical discussions, webinars, and help shape Microsoft&#8217;s security products.&#160;
-Get there fast&#160;
-
-To stay up to date on upcoming opportunities and the latest Microsoft Security Community news, make sure to subscribe to our email list.
-Find the latest skilling content an...</description>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 02:18:19 GMT</lastBuildDate>
   </channel>
 </rss>
