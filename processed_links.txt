@@ -622,3 +622,4 @@
 2025-11-18T16:18:26 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-ignite-powerful-enhancements-in-unified-threat/ba-p/4470818
 2025-11-18T16:57:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805
 2025-11-18T17:04:27 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688
+2025-11-21T23:34:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/welcome-to-the-microsoft-security-community/ba-p/4471927
