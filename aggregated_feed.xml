@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Nov 2025 20:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 21:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Public Preview: Entra ID support for RDP connections in portal</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-entra-id-support-for-rdp-connections-in-portal/ba-p/4472675</link>
+      <pubDate>Mon, 24 Nov 2025 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-entra-id-support-for-rdp-connections-in-portal/ba-p/4472675</guid>
+      <description>&#160;
+Overview
+Azure Bastion provides secure RDP and SSH access to Azure virtual machines directly via the Azure portal or via the native SSH/RDP client already installed on your local computer. Previously, Bastion supported Entra ID authentication (formerly AAD) for RDP and SSH connections via native client and for SSH connections via the portal. Today, we are introducing public preview for Entra ID support for RDP connections in the portal,&#160;delivering a more seamless and secure experience for users.
+Why Entra ID authentication?
+When Bastion users connect to Windows VMs through the portal, they a...</description>
+    </item>
   </channel>
 </rss>
