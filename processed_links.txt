@@ -624,3 +624,4 @@
 2025-11-18T17:04:27 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688
 2025-11-21T23:34:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/welcome-to-the-microsoft-security-community/ba-p/4471927
 2025-11-24T01:46:21 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-as-the-core-primitive-securing-ai-agents-and-apps/ba-p/4470197
+2025-11-24T06:45:09 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-the-microsoft-defender-for-endpoint-files-api-to-validate/ba-p/4472469

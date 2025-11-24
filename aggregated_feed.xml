@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Nov 2025 06:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 07:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Using the Microsoft Defender for Endpoint Files API to Validate Malware Hashes</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-the-microsoft-defender-for-endpoint-files-api-to-validate/ba-p/4472469</link>
+      <pubDate>Mon, 24 Nov 2025 06:45:09 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/using-the-microsoft-defender-for-endpoint-files-api-to-validate/ba-p/4472469</guid>
+      <description>Introduction
+Security advisories frequently include file hashes (SHA-1 or SHA-256) as indicators of compromise (IoCs). Microsoft Defender for Endpoint (MDE) exposes a Files API that lets SecOps quickly look up Microsoft&#8217;s verdict and metadata for a given hash. This enables rapid assessment&#8212;whether a file is classified as Malicious, Suspicious, Clean, or Unknown&#8212;and helps analysts decide the next response action without needing to download or execute the sample.
+What is the Files API in MDE and why is it used in Security Operations?
+The Files API is part of the Defender for Endpoint REST APIs t...</description>
+    </item>
   </channel>
 </rss>
