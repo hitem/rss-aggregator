@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Nov 2025 17:01:04 GMT</lastBuildDate>
-    <item>
-      <title>Strengthening calendar security through enhanced remediation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-calendar-security-through-enhanced-remediation/ba-p/4456876</link>
-      <pubDate>Mon, 24 Nov 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-calendar-security-through-enhanced-remediation/ba-p/4456876</guid>
-      <description>In today&#8217;s evolving threat landscape, phishing attacks are becoming increasingly sophisticated, often leveraging meeting invites to bypass traditional defenses. While Security Operations (SOC) teams rely on Microsoft Defender&#8217;s remediation actions to remove malicious emails, a hidden risk persists: calendar entries created by Outlook during email delivery. These entries can remain active even after the email is deleted, leaving users exposed to harmful content. This update addresses that gap.
-Remediation supports cleaning up calendar entries
-SOC teams currently use remediation actions such as ...</description>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 18:13:36 GMT</lastBuildDate>
   </channel>
 </rss>
