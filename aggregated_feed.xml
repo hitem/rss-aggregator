@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Nov 2025 02:45:22 GMT</lastBuildDate>
-    <item>
-      <title>Security as the core primitive - Securing AI agents and apps</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-as-the-core-primitive-securing-ai-agents-and-apps/ba-p/4470197</link>
-      <pubDate>Mon, 24 Nov 2025 01:46:21 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-as-the-core-primitive-securing-ai-agents-and-apps/ba-p/4470197</guid>
-      <description>This week at Microsoft Ignite, we shared our vision for Microsoft security -- In the agentic era, security must be ambient and autonomous, like the AI it protects. It must be woven into and around everything we build&#8212;from silicon to OS, to agents, apps, data, platforms, and clouds&#8212;and throughout everything we do. In this blog, we are going to dive deeper into many of the new innovations we are introducing this week to secure AI agents and apps.
-As I spend time with our customers and partners, there are four consistent themes that have emerged as core security challenges to secure AI workloads....</description>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 03:49:33 GMT</lastBuildDate>
   </channel>
 </rss>
