@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 24 Nov 2025 15:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 16:01:17 GMT</lastBuildDate>
+    <item>
+      <title>Building defense in depth: Simplifying identity security with new partner integrations</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/building-defense-in-depth-simplifying-identity-security-with-new/ba-p/4468733</link>
+      <pubDate>Mon, 24 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/building-defense-in-depth-simplifying-identity-security-with-new/ba-p/4468733</guid>
+      <description>We&#8217;re thrilled to announce the General Availability of powerful new partner integrations in Microsoft Entra that take identity security to the next level. Building on our enterprise-grade security foundation, these seamless in-product Entra integrated solutions now deliver cutting-edge defenses across every layer of your identity perimeter.
+From edge-level DDoS protection and intelligent bot mitigation to government ID-based account recovery, organizations can effortlessly enable world-class security solutions&#8212;all within the Microsoft Entra portal. For our customers, this launch means faster o...</description>
+    </item>
   </channel>
 </rss>
