@@ -628,3 +628,4 @@
 2025-11-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/building-defense-in-depth-simplifying-identity-security-with-new/ba-p/4468733
 2025-11-24T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-calendar-security-through-enhanced-remediation/ba-p/4456876
 2025-11-24T20:15:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-entra-id-support-for-rdp-connections-in-portal/ba-p/4472675
+2025-11-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-protection-of-microsoft-entra-id-authentication-by/ba-p/4435200

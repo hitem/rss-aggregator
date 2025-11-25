@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Nov 2025 15:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 16:11:13 GMT</lastBuildDate>
+    <item>
+      <title>Enhance protection of Microsoft Entra ID authentication by blocking external script injection</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-protection-of-microsoft-entra-id-authentication-by/ba-p/4435200</link>
+      <pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-protection-of-microsoft-entra-id-authentication-by/ba-p/4435200</guid>
+      <description>As part of Microsoft&#8217;s Secure Future Initiative, we&#8217;re making an important update to our Content Security Policy (CSP) that will enhance the security of the Microsoft Entra ID sign-in experience. This update strengthens security and adds an extra layer of protection by allowing only scripts from trusted Microsoft domains to run during authentication, blocking unauthorized or injected code from executing during the sign-in experience.
+This is a proactive measure that further shields your users against current security risks, such as cross-site scripting (XSS), where attackers can insert malicio...</description>
+    </item>
   </channel>
 </rss>
