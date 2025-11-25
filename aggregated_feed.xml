@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Nov 2025 17:10:18 GMT</lastBuildDate>
-    <item>
-      <title>Meet DART, the people behind Microsoft Incident Response</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-dart-the-people-behind-microsoft-incident-response/ba-p/4457416</link>
-      <pubDate>Tue, 25 Nov 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-dart-the-people-behind-microsoft-incident-response/ba-p/4457416</guid>
-      <description>When threat actors infiltrate a company to steal documents and other critical business information, Microsoft Incident Response - the Detection and Response Team (DART) responds. With more than 4,500 engagements in 2024 and more than a millennium of combined experience, these responders are the calm in the storm when a compromise occurs. &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-Whether they&#8217;re confronting ransomware, nation-state actors, or zero-day exploits, DART blends their knowledge and years of experience with agility, empathy, and storytelling to guide organizations from disruption to clarity.
-This blog introduces ...</description>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 18:13:29 GMT</lastBuildDate>
   </channel>
 </rss>
