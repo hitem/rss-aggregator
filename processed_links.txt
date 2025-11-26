@@ -628,3 +628,4 @@
 2025-11-24T20:15:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-entra-id-support-for-rdp-connections-in-portal/ba-p/4472675
 2025-11-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-protection-of-microsoft-entra-id-authentication-by/ba-p/4435200
 2025-11-25T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-dart-the-people-behind-microsoft-incident-response/ba-p/4457416
+2025-11-26T03:16:12 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/icymi-watch-replays-of-microsoft-entra-sessions-at-microsoft/ba-p/4427989

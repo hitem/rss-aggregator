@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 26 Nov 2025 02:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 03:40:31 GMT</lastBuildDate>
+    <item>
+      <title>ICYMI: Watch replays of Microsoft Entra sessions at Microsoft Ignite 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/icymi-watch-replays-of-microsoft-entra-sessions-at-microsoft/ba-p/4427989</link>
+      <pubDate>Wed, 26 Nov 2025 03:16:12 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/icymi-watch-replays-of-microsoft-entra-sessions-at-microsoft/ba-p/4427989</guid>
+      <description>At Microsoft Ignite 2025, Microsoft Security took center stage with a clear message: secure access is foundational for the AI-driven future. Across keynotes, breakout sessions, and demos, we showcased innovations that help organizations confidently expand Zero Trust strategies to include AI agents, apps, and identities. We hope you were able to be there or tune in live; but if not, we&#8217;ve pulled this article together with all the best replay links for identity and network access professionals.
+
+&#128064; ICYMI: Read the news about Microsoft Entra announcements at Ignite 2025.
+
+&#160;
+To get started, watch t...</description>
+    </item>
   </channel>
 </rss>
