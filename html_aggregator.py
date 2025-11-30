@@ -32,7 +32,7 @@ blog_urls = [
     "https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/blog/defenderthreatintelligence",
     "https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/blog/microsoftsecurityexperts",
     "https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/blog/defenderexternalattacksurfacemgmtblog",
-
+    "https://techcommunity.microsoft.com/category/security-copilot/blog/securitycopilotblog",
 ]
 
 # Set the output file name
