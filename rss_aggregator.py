@@ -80,8 +80,8 @@ async def fetch_rss_feed(url, session):
 
 # Convert struct_time to datetime with UTC timezone
 def struct_time_to_datetime(t):
-    timestamp = calendar.timegm(t)
-    return datetime.datetime.utcfromtimestamp(timestamp).replace(tzinfo=datetime.timezone.utc)
+    timestamp = calendar.timegm(t) 
+    return datetime.datetime.fromtimestamp(timestamp, tz=datetime.timezone.utc)
 
 # Main asynchronous function to process RSS feeds
 async def process_feeds():
