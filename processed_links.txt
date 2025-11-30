@@ -624,3 +624,4 @@
 2025-11-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-protection-of-microsoft-entra-id-authentication-by/ba-p/4435200
 2025-11-25T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-dart-the-people-behind-microsoft-incident-response/ba-p/4457416
 2025-11-26T03:16:12 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/icymi-watch-replays-of-microsoft-entra-sessions-at-microsoft/ba-p/4427989
+2025-11-30T14:20:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-ai-services-threat-protection-and-ai-red-team/ba-p/4464771

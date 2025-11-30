@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sun, 30 Nov 2025 14:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 15:00:58 GMT</lastBuildDate>
+    <item>
+      <title>Defender for AI services: Threat Protection and AI red team workshop</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-ai-services-threat-protection-and-ai-red-team/ba-p/4464771</link>
+      <pubDate>Sun, 30 Nov 2025 14:20:56 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-ai-services-threat-protection-and-ai-red-team/ba-p/4464771</guid>
+      <description>Generative AI is reshaping how enterprises operate, introducing new efficiencies&#8212;and new risks. Imagine launching a helpful chatbot, only to learn a cleverly crafted prompt can bypass safety controls and exfiltrate sensitive data. This is today&#8217;s reality: every system prompt, plugin/tool, dataset, fine&#8209;tune, or orchestration step can change the attack surface. This is due to the non deterministic nature in how LLM models craft responses in output. The slightest change in the input of a prompt in verbiage or tone can change the outcome of a output in subtle but non predictable ways especially w...</description>
+    </item>
   </channel>
 </rss>
