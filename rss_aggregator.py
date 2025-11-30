@@ -52,12 +52,9 @@ recent_time_threshold = datetime.datetime.now(
     datetime.timezone.utc) - datetime.timedelta(hours=2)
 
 # Helper to normalize URLs (remove fragments, queries, and trailing slashes)
-
-
 def normalize_url(url):
     parsed = urlparse(url.strip())
     return parsed._replace(fragment="", query="").geturl().rstrip("/")
-
 
 # Read previously processed links
 try:
@@ -68,8 +65,6 @@ except FileNotFoundError:
     processed_links = set()
 
 # Asynchronous function to fetch RSS feed content
-
-
 async def fetch_rss_feed(url, session):
     try:
         async with session.get(url, timeout=10) as response:
@@ -84,15 +79,11 @@ async def fetch_rss_feed(url, session):
         return None
 
 # Convert struct_time to datetime with UTC timezone
-
-
 def struct_time_to_datetime(t):
     timestamp = calendar.timegm(t)
     return datetime.datetime.utcfromtimestamp(timestamp).replace(tzinfo=datetime.timezone.utc)
 
 # Main asynchronous function to process RSS feeds
-
-
 async def process_feeds():
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_rss_feed(url, session) for url in rss_feed_urls]
@@ -154,8 +145,6 @@ async def process_feeds():
         return sorted_entries
 
 # Function to update or create the XML feed
-
-
 def update_feed(sorted_entries):
     now = datetime.datetime.now(datetime.timezone.utc)
 
@@ -202,7 +191,6 @@ def update_feed(sorted_entries):
     # Write the updated feed to file
     with open(output_file, "wb") as f:
         f.write(etree.tostring(root, pretty_print=True))
-
 
 # Run the feed processing
 sorted_entries = asyncio.run(process_feeds())
