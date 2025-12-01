@@ -3,16 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Dec 2025 17:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 18:14:06 GMT</lastBuildDate>
     <item>
-      <title>Catch up on Microsoft Security sessions and announcements from Ignite 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/catch-up-on-microsoft-security-sessions-and-announcements-from/ba-p/4473347</link>
-      <pubDate>Mon, 01 Dec 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/catch-up-on-microsoft-security-sessions-and-announcements-from/ba-p/4473347</guid>
-      <description>Ignite 2025 delivered groundbreaking innovations for securing the agentic era&#8212;where AI agents transform how we work and collaborate. If you missed the live sessions,&#160;news&#160;announcements,&#160;or want to dive deeper,&#160;here&#8217;s&#160;your quick&#160;start&#160;guide to the most important resources and actionable steps to stay informed.&#160;
-&#160;
-1. Watch the&#160;Innovation Session: Security in the Agentic Era&#160;on demand&#160;
-Hear from Vasu&#160;Jakkal, CVP, Microsoft Security Business, and Charlie Bell, EVP, Microsoft Security,&#160;as they outline why digital trust is the foundation for innovation in the agentic era.&#160;With AI agents projected to...</description>
+      <title>Microsoft Defender for Cloud Customer Newsletter</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4474256</link>
+      <pubDate>Mon, 01 Dec 2025 18:10:23 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4474256</guid>
+      <description>What's new in Defender for Cloud?&#160;
+Defender for Cloud integrates into the Defender portal as part of the broader Microsoft Security ecosystem, now in public preview. This integration, while adding posture management insight, eliminates silos natively to allow security teams to see and act on threats across all cloud, hybrid, and code environments from one place.
+For more information, see our public&#160;documentation.
+Discover Azure AI Foundry agents in your environment
+The Defender Cloud Security Posture Management (CSPM) plan secures generative AI applications and now, in public preview, AI agent...</description>
+    </item>
+    <item>
+      <title>Key findings from product telemetry: top storage security alerts across industries</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/key-findings-from-product-telemetry-top-storage-security-alerts/ba-p/4473362</link>
+      <pubDate>Mon, 01 Dec 2025 17:39:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/key-findings-from-product-telemetry-top-storage-security-alerts/ba-p/4473362</guid>
+      <description>1.0 Introduction
+Cloud storage stands at the core of AI-driven applications, making its security more vital than ever. As generative AI continues to drive innovation, protecting the storage infrastructure becomes central to ensuring both the reliability and safety of AI solutions.Every industry encounters its own set of storage security challenges. For example, financial services must navigate complex compliance requirements and guard against insider risks. Healthcare organizations deal with the protection of confidential patient information (e.g. electronic medical records), while manufacturi...</description>
     </item>
   </channel>
 </rss>
