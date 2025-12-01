@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Dec 2025 04:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 05:18:30 GMT</lastBuildDate>
+    <item>
+      <title>Implementing and Managing an ADCS Offline Root Certificate Authority (Part 1)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-and-managing-an-adcs-offline-root-certificate/ba-p/4468175</link>
+      <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-and-managing-an-adcs-offline-root-certificate/ba-p/4468175</guid>
+      <description>My name is Ron Arestia, and I am a Security Researcher with Microsoft&#8217;s Detection and Response Team (DART). We respond to customer cybersecurity incidents to assist with containment and recovery from threat actors. In this blog post, we will be covering the basics of implementing an Active Directory Certificate Services (ADCS) offline root Certificate Authority (CA) and how to manage it securely. This is the first in a series of follow up posts to my original article reviewing Secure Configuration and Hardening of Active Directory Certificate Services.
+In Part 1 of our series, we will focus on...</description>
+    </item>
   </channel>
 </rss>
