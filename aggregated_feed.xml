@@ -3,25 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 01 Dec 2025 18:14:06 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender for Cloud Customer Newsletter</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4474256</link>
-      <pubDate>Mon, 01 Dec 2025 18:10:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4474256</guid>
-      <description>What's new in Defender for Cloud?&#160;
-Defender for Cloud integrates into the Defender portal as part of the broader Microsoft Security ecosystem, now in public preview. This integration, while adding posture management insight, eliminates silos natively to allow security teams to see and act on threats across all cloud, hybrid, and code environments from one place.
-For more information, see our public&#160;documentation.
-Discover Azure AI Foundry agents in your environment
-The Defender Cloud Security Posture Management (CSPM) plan secures generative AI applications and now, in public preview, AI agent...</description>
-    </item>
-    <item>
-      <title>Key findings from product telemetry: top storage security alerts across industries</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/key-findings-from-product-telemetry-top-storage-security-alerts/ba-p/4473362</link>
-      <pubDate>Mon, 01 Dec 2025 17:39:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/key-findings-from-product-telemetry-top-storage-security-alerts/ba-p/4473362</guid>
-      <description>1.0 Introduction
-Cloud storage stands at the core of AI-driven applications, making its security more vital than ever. As generative AI continues to drive innovation, protecting the storage infrastructure becomes central to ensuring both the reliability and safety of AI solutions.Every industry encounters its own set of storage security challenges. For example, financial services must navigate complex compliance requirements and guard against insider risks. Healthcare organizations deal with the protection of confidential patient information (e.g. electronic medical records), while manufacturi...</description>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 19:12:02 GMT</lastBuildDate>
   </channel>
 </rss>
