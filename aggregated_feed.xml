@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Dec 2025 17:12:29 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender Experts - S.T.A.R. Series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-s-t-a-r-series/ba-p/4472199</link>
-      <pubDate>Tue, 02 Dec 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-s-t-a-r-series/ba-p/4472199</guid>
-      <description>Co-author: Samantha Gardener
-To stay ahead of today&#8217;s sophisticated cyber threats, organizations must embrace a proactive defense strategy that includes these three pillars: emerging trends, adaptive strategies, and actionable insights.
-Threat actors are increasingly leveraging AI-driven attacks, supply chain compromises, and identity-based exploits. Modern strategies focus on zero trust principles, continuous threat hunting, and leveraging advanced threat intelligence to predict and neutralize risks before they escalate. By integrating real-time analytics, automated response capabilities, and...</description>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 18:14:07 GMT</lastBuildDate>
   </channel>
 </rss>
