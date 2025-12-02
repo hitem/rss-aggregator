@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 02 Dec 2025 08:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 09:14:05 GMT</lastBuildDate>
+    <item>
+      <title>Security Guidance Series: CAF 4.0 Building Proactive Cyber Resilience</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-building-proactive-cyber/ba-p/4473208</link>
+      <pubDate>Tue, 02 Dec 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-building-proactive-cyber/ba-p/4473208</guid>
+      <description>It&#8217;s Time To Act
+Microsoft's Digital Defense Report 2025 clearly describes the cyber threat landscape that this guidance is situated in, one that has become more complex, more industrialized, and increasingly democratized. Each day, Microsoft processes more than 100 trillion security signals, giving unparalleled visibility into adversarial tradecraft. Identity remains the most heavily targeted attack vector, with 97% of identity-based attacks relying on password spray, while phishing and unpatched assets continue to provide easy routes for initial compromise. Financially motivated attacks, par...</description>
+    </item>
   </channel>
 </rss>
