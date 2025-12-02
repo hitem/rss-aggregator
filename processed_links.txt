@@ -629,3 +629,4 @@
 2025-12-01T17:39:48 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/key-findings-from-product-telemetry-top-storage-security-alerts/ba-p/4473362
 2025-12-01T18:10:23 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4474256
 2025-12-02T09:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-building-proactive-cyber/ba-p/4473208
+2025-12-02T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-s-t-a-r-series/ba-p/4472199
