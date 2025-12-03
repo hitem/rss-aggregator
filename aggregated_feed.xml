@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Dec 2025 16:12:40 GMT</lastBuildDate>
-    <item>
-      <title>The Microsoft Defender for AI Alerts</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-microsoft-defender-for-ai-alerts/ba-p/4471424</link>
-      <pubDate>Wed, 03 Dec 2025 15:13:43 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-microsoft-defender-for-ai-alerts/ba-p/4471424</guid>
-      <description>I will start this blog post by thanking my Secure AI GBB Colleague Hiten Sharma for his contributions to this Tech Blog as a peer-reviewer.
-Microsoft Defender for AI (part of Microsoft Defender) helps organizations threats to generative AI applications in real time and helps respond to security issues.
-Microsoft Defender for AI is in General Availability state and covers Azure OpenAI supported models and Azure AI Model Inference service supported models deployed on Azure Commercial Cloud and provides Activity monitoring and prompt evidence for security teams.
-This blog aims to help the Microso...</description>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 17:12:27 GMT</lastBuildDate>
   </channel>
 </rss>
