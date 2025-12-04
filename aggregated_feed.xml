@@ -3,6 +3,24 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 Dec 2025 11:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 12:17:33 GMT</lastBuildDate>
+    <item>
+      <title>Monthly news - December 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2025/ba-p/4475145</link>
+      <pubDate>Thu, 04 Dec 2025 12:14:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2025/ba-p/4475145</guid>
+      <description>Microsoft DefenderMonthly news - December 2025 Edition
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from October 2025. Defender for Cloud has its own Monthly News post, have a look at&#160;their blog space.&#160;
+&#128526; Microsoft Ignite 2025 - now on-demand!
+&#128640; New Virtual Ninja Show episode:
+
+Advancements in Attack Disruption
+Vulnerability Remediation Agent in Microsoft Intune
+
+&#160;
+Microsoft Defender
+
+Ignite 2025: What's new in Microsoft Defender?&#160;T...</description>
+    </item>
   </channel>
 </rss>
