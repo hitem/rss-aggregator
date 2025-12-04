@@ -631,3 +631,4 @@
 2025-12-02T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-s-t-a-r-series/ba-p/4472199
 2025-12-03T13:47:29 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-143/ba-p/4474871
 2025-12-03T15:13:43 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-microsoft-defender-for-ai-alerts/ba-p/4471424
+2025-12-03T23:37:43 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-less-secure-more-simplify-security-data-management-with/ba-p/4474792

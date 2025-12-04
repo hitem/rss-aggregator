@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 03 Dec 2025 23:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:42:32 GMT</lastBuildDate>
+    <item>
+      <title>Build less, secure more: Simplify security data management with Microsoft Sentinel data lake</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-less-secure-more-simplify-security-data-management-with/ba-p/4474792</link>
+      <pubDate>Wed, 03 Dec 2025 23:37:43 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-less-secure-more-simplify-security-data-management-with/ba-p/4474792</guid>
+      <description>Most DIY security data lakes start with good intentions&#8212;promising flexibility, control, and cost savings. But in reality, they lead to endless data ingestion fixes, schema drift battles, and soaring costs. They fail because they lack the capabilities to manage security data that&#8217;s not just massive, but complex, dynamic, and compliance heavy.
+
+Ingestion chaos: Every team implements its own pipelines for diverse data sets like firewalls, endpoint, network, threat intelligence feeds, and more.
+Normalization gaps: Each team uses its own schema; Therefore queries, detections, and ML models can&#8217;t be...</description>
+    </item>
   </channel>
 </rss>
