@@ -1,4 +1,3 @@
-2024-12-04T18:53:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4352556
 2024-12-04T20:56:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/elevate-your-container-posture-from-agentless-discovery-to-risk/ba-p/4352572
 2024-12-05T14:57:23 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/action-required-azure-ad-graph-api-retirement/ba-p/4090533
 2024-12-06T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2024/ba-p/4253152
@@ -632,3 +631,4 @@
 2025-12-03T15:13:43 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-microsoft-defender-for-ai-alerts/ba-p/4471424
 2025-12-03T23:37:43 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-less-secure-more-simplify-security-data-management-with/ba-p/4474792
 2025-12-04T12:14:48 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2025/ba-p/4475145
+2025-12-04T18:28:30 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-react-rsc-cve-2025-55182-with-azure-web/ba-p/4475291
