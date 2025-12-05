@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 05 Dec 2025 18:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 19:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Ignite 2025: Top Security Innovations You Need to Know</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-top-security-innovations-you-need-to-know/ba-p/4475543</link>
+      <pubDate>Fri, 05 Dec 2025 18:02:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-top-security-innovations-you-need-to-know/ba-p/4475543</guid>
+      <description>&#129302; Security &amp; AI -The Big Story This Year
+2025 marks a turning point for cybersecurity. Rapid adoption of AI across enterprises has unlocked innovation but introduced new risks. AI agents are now part of everyday workflows-automating tasks and interacting with sensitive data&#8212;creating new attack surfaces that traditional security models cannot fully address. Threat actors are leveraging AI to accelerate attacks, making speed and automation critical for defense.
+Organizations need solutions that deliver visibility, governance, and proactive risk management for both human and machine identities. M...</description>
+    </item>
   </channel>
 </rss>
