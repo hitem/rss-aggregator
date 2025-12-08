@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Dec 2025 19:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 20:00:42 GMT</lastBuildDate>
+    <item>
+      <title>Accelerated Collaboration Forums: Join the Conversation and Drive Innovation!</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerated-collaboration-forums-join-the-conversation-and-drive/ba-p/4476139</link>
+      <pubDate>Mon, 08 Dec 2025 19:42:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerated-collaboration-forums-join-the-conversation-and-drive/ba-p/4476139</guid>
+      <description>Are you passionate about Microsoft security, compliance, and collaboration? Do you want to connect directly with product engineering teams and peers to shape the future of Microsoft solutions? If so, Accelerated Collaboration Forums (ACFs) are designed for you!
+What Are Accelerated Collaboration Forums (ACFs)?
+Accelerated Collaboration Forums (ACFs) are topic-specific discussion groups within the Microsoft Customer Connection Program (MCCP). They streamline how community members engage with Microsoft product teams and each other by organizing recurring calls focused on key topics. Instead of j...</description>
+    </item>
   </channel>
 </rss>
