@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Dec 2025 17:10:45 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Defender: Smart Containment Stops Exposed Privileged AD Domain Accounts</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-defender-smart-containment-stops-exposed-privileged-ad/ba-p/4475277</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-defender-smart-containment-stops-exposed-privileged-ad/ba-p/4475277</guid>
-      <description>Introduction
-In today&#8217;s connected business environment, domain accounts are critical assets and increasingly vulnerable. When credentials are leaked, misconfigured, or compromised, attackers can exploit them to gain unauthorized access, move laterally, and launch ransomware or data theft. Just one exposed account can jeopardize an entire security infrastructure. Organizations must prioritize proactive measures to protect these accounts, as traditional security tools may not detect threats quickly enough. The damage caused by compromised domain accounts often extends beyond immediate financial ...</description>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 18:14:05 GMT</lastBuildDate>
   </channel>
 </rss>
