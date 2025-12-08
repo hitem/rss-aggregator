@@ -629,3 +629,4 @@
 2025-12-04T12:14:48 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2025/ba-p/4475145
 2025-12-04T18:28:30 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-react-rsc-cve-2025-55182-with-azure-web/ba-p/4475291
 2025-12-05T18:02:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-top-security-innovations-you-need-to-know/ba-p/4475543
+2025-12-08T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-defender-smart-containment-stops-exposed-privileged-ad/ba-p/4475277
