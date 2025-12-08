@@ -3,15 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Dec 2025 20:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 21:00:54 GMT</lastBuildDate>
     <item>
-      <title>Accelerated Collaboration Forums: Join the Conversation and Drive Innovation!</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerated-collaboration-forums-join-the-conversation-and-drive/ba-p/4476139</link>
-      <pubDate>Mon, 08 Dec 2025 19:42:59 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerated-collaboration-forums-join-the-conversation-and-drive/ba-p/4476139</guid>
-      <description>Are you passionate about Microsoft security, compliance, and collaboration? Do you want to connect directly with product engineering teams and peers to shape the future of Microsoft solutions? If so, Accelerated Collaboration Forums (ACFs) are designed for you!
-What Are Accelerated Collaboration Forums (ACFs)?
-Accelerated Collaboration Forums (ACFs) are topic-specific discussion groups within the Microsoft Customer Connection Program (MCCP). They streamline how community members engage with Microsoft product teams and each other by organizing recurring calls focused on key topics. Instead of j...</description>
+      <title>Check This Out! (CTO!) Guide (November 2025)</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2025/ba-p/4476195</link>
+      <pubDate>Mon, 08 Dec 2025 20:47:50 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2025/ba-p/4476195</guid>
+      <description>Member: TysonPaul | Microsoft Community Hub
+&#160;
+
+Getting Started with Windows Admin Center Virtualization Mode
+Team Blog: ITOps Talk
+Author: OrinThomas
+Published: 11/23/2025
+Summary: Windows Admin Center Virtualization Mode is a new, preview web-based tool for managing large Hyper-V virtualization environments. It centralizes compute, networking, and storage management for thousands of hosts within the same Active Directory domain. The article outlines installation prerequisites, step-by-step setup, and onboarding of Hyper-V hosts into resource groups. Users configure networking, storage, and co...</description>
     </item>
   </channel>
 </rss>
