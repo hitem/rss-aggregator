@@ -3,20 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Dec 2025 21:00:54 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (November 2025)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2025/ba-p/4476195</link>
-      <pubDate>Mon, 08 Dec 2025 20:47:50 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2025/ba-p/4476195</guid>
-      <description>Member: TysonPaul | Microsoft Community Hub
-&#160;
-
-Getting Started with Windows Admin Center Virtualization Mode
-Team Blog: ITOps Talk
-Author: OrinThomas
-Published: 11/23/2025
-Summary: Windows Admin Center Virtualization Mode is a new, preview web-based tool for managing large Hyper-V virtualization environments. It centralizes compute, networking, and storage management for thousands of hosts within the same Active Directory domain. The article outlines installation prerequisites, step-by-step setup, and onboarding of Hyper-V hosts into resource groups. Users configure networking, storage, and co...</description>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 22:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
