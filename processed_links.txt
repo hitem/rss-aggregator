@@ -630,3 +630,4 @@
 2025-12-08T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-defender-smart-containment-stops-exposed-privileged-ad/ba-p/4475277
 2025-12-08T19:42:59 https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerated-collaboration-forums-join-the-conversation-and-drive/ba-p/4476139
 2025-12-08T20:47:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2025/ba-p/4476195
+2025-12-09T21:51:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-ai-security-posture-management/ba-p/4473734
