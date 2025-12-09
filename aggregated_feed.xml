@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 09 Dec 2025 22:00:59 GMT</lastBuildDate>
-    <item>
-      <title>Demystifying AI Security Posture Management</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-ai-security-posture-management/ba-p/4473734</link>
-      <pubDate>Tue, 09 Dec 2025 21:51:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-ai-security-posture-management/ba-p/4473734</guid>
-      <description>Introduction
-In the ever-evolving paradigm shift that is Generative AI, adoption is accelerating at an unprecedented level. Organizations find it increasingly challenging to keep up with the multiple security branches of defence and attack that are complementing the adoption.&#160;&#160;
-With agentic and autonomous agents being the new security frontier we will be concentrating on for the next 10 years, the need to understand, secure and govern what Generative AI applications are running within an organisation becomes critical. &#160;
-Organizations that have a strong &#8220;security first&#8221; principle have been able...</description>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 23:00:58 GMT</lastBuildDate>
   </channel>
 </rss>
