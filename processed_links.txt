@@ -632,3 +632,4 @@
 2025-12-08T20:47:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2025/ba-p/4476195
 2025-12-09T21:51:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-ai-security-posture-management/ba-p/4473734
 2025-12-10T06:30:28 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bulk-device-tagging-in-mde-powershell-api-approach/ba-p/4476664
+2025-12-10T09:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-understanding-threat-from/ba-p/4473211
