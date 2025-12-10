@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Dec 2025 06:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 07:12:36 GMT</lastBuildDate>
+    <item>
+      <title>Bulk Device Tagging in MDE: PowerShell &amp; API Approach</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bulk-device-tagging-in-mde-powershell-api-approach/ba-p/4476664</link>
+      <pubDate>Wed, 10 Dec 2025 06:30:28 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bulk-device-tagging-in-mde-powershell-api-approach/ba-p/4476664</guid>
+      <description>Effective device management is critical for ensuring security hygiene and maintaining operational agility within enterprise environments. In Microsoft Defender for Endpoint (MDE), device tagging plays a key role by enabling logical grouping, targeted policy application, efficient incident response, compliance tracking, and automation. It elevates device management from a manual, error-prone process to a scalable, context-aware workflow that aligns with both security and operational objectives.
+This guide presents a streamlined method for bulk tagging devices in MDE using the API and PowerShell...</description>
+    </item>
   </channel>
 </rss>
