@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Dec 2025 15:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 16:13:04 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s new in Microsoft Entra &#8211; November 2025</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2025/ba-p/4352577</link>
+      <pubDate>Wed, 10 Dec 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2025/ba-p/4352577</guid>
+      <description>November was an exciting month for Microsoft Entra customers, with news of significant enhancements to strengthen your security posture in the AI era. Our announcements included:
+
+New capabilities for managing, governing, and protecting agents with the public preview of Microsoft Entra Agent ID, part of the new Agent 365 control plane for agents;
+Security Copilot inclusion in Microsoft 365 E5 subscription, which ensures more admins can utilize Copilot in Entra and the four new Microsoft Entra agents;
+The Microsoft Entra Suite public preview of Prompt Shield, enabling you to protect enterprise ...</description>
+    </item>
   </channel>
 </rss>
