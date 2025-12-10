@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Dec 2025 09:12:56 GMT</lastBuildDate>
-    <item>
-      <title>Security Guidance Series: CAF 4.0 Understanding Threat From Awareness to Intelligence-Led Defence</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-understanding-threat-from/ba-p/4473211</link>
-      <pubDate>Wed, 10 Dec 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-understanding-threat-from/ba-p/4473211</guid>
-      <description>The updated CAF 4.0 raises expectations around control A2.b - Understanding Threat.
-Rather than focusing solely on awareness of common cyber-attacks, the framework now calls for a sector-specific, intelligence-informed understanding of the threat landscape. According to the NCSC, CAF 4.0 emphasizes the need for detailed threat analysis that reflects the tactics, techniques, and resources of capable adversaries, and requires that this understanding directly shapes security and resilience decisions.
-For public sector authorities, this means going beyond static risk registers to build a living th...</description>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 10:10:00 GMT</lastBuildDate>
   </channel>
 </rss>
