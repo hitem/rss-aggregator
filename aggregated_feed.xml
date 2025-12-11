@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Dec 2025 16:13:29 GMT</lastBuildDate>
-    <item>
-      <title>What&#8217;s New in Microsoft Sentinel: December 2025</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-december-2025/ba-p/4477063</link>
-      <pubDate>Thu, 11 Dec 2025 15:38:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-december-2025/ba-p/4477063</guid>
-      <description>Plan your move to Defender today
-Take advantage of the latest innovations in Microsoft Sentinel SIEM and platform by migrating from the Azure to Defender experience. Not sure where to begin? We&#8217;ve got you covered with a wealth of resources to guide you every step of the way.
-
-Documentation: Transition Your Microsoft Sentinel Environment to the Defender Portal | Microsoft Learn
-Ninja show: Transitioning the Sentinel SIEM experience from Azure to the Defender portal
-Playlist: Microsoft Sentinel is now in Defender - YouTube
-Upcoming webinar: Don&#8217;t Get Left Behind: Complete Your Sentinel Move to D...</description>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 17:15:47 GMT</lastBuildDate>
   </channel>
 </rss>
