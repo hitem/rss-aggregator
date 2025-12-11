@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 11 Dec 2025 14:12:09 GMT</lastBuildDate>
-    <item>
-      <title>Breaking down security silos: Microsoft Defender for Cloud Expands into the Defender Portal</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/breaking-down-security-silos-microsoft-defender-for-cloud/ba-p/4474487</link>
-      <pubDate>Thu, 11 Dec 2025 13:46:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/breaking-down-security-silos-microsoft-defender-for-cloud/ba-p/4474487</guid>
-      <description>Picture this: You&#8217;re managing security across Azure, AWS, and GCP. Alerts are coming from every direction, dashboards are scattered and your team spends more time switching portals than mitigating threats. Sound familiar? That&#8217;s the reality for many organizations today.
-Now imagine a different world&#8212;where visibility, control and response converge into&#160;one unified experience, where posture management, vulnerability insights and incident response live side by side. That world is no longer a dream: Microsoft Defender for Cloud (MDC) is now integrated into Defender XDR in public preview.
-&#160;
-The exp...</description>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 15:10:38 GMT</lastBuildDate>
   </channel>
 </rss>
