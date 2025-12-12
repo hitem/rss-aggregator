@@ -3,6 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 12 Dec 2025 10:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 11:01:20 GMT</lastBuildDate>
+    <item>
+      <title>Sensor Disconnection Notifications with Microsoft Defender for IoT and Microsoft Sentinel &#128640;</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517</link>
+      <pubDate>Fri, 12 Dec 2025 10:46:35 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517</guid>
+      <description>What Does This Playbook Do?
+This new automated playbook sends real-time email notifications whenever a sensor disconnects from the cloud. This ensures you&#8217;re immediately alerted if there&#8217;s an issue, allowing you to take quick action to investigate and resolve the problem.
+Why It&#8217;s Important:
+
+Real-Time Alerts: Get instant notifications when a sensor goes offline.
+Proactive Monitoring: Identify the issue early, reducing downtime and improving response times.
+Seamless Integration: Works effortlessly with Microsoft Defender for IoT and Microsoft Sentinel for a unified security approach.
+
+How to S...</description>
+    </item>
   </channel>
 </rss>

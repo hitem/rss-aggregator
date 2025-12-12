@@ -635,3 +635,4 @@
 2025-12-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2025/ba-p/4352577
 2025-12-11T13:46:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/breaking-down-security-silos-microsoft-defender-for-cloud/ba-p/4474487
 2025-12-11T15:38:23 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-december-2025/ba-p/4477063
+2025-12-12T10:46:35 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/sensor-disconnection-notifications-with-microsoft-defender-for/ba-p/4375517
