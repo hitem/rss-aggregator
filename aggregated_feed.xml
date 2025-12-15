@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Dec 2025 20:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 21:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Part 3: Unified Security Intelligence - Orchestrating GenAI Threat Detection with Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-3-unified-security-intelligence-orchestrating-genai-threat/ba-p/4477556</link>
+      <pubDate>Mon, 15 Dec 2025 20:44:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-3-unified-security-intelligence-orchestrating-genai-threat/ba-p/4477556</guid>
+      <description>Why Sentinel for GenAI Security Observability?&#160;
+Before diving into detection rules,&#160;let's&#160;address why Microsoft Sentinel is uniquely positioned for GenAI security operations&#8212;especially compared to traditional or non-native SIEMs.&#160;
+Native Azure Integration: Zero ETL Overhead&#160;
+The problem with external SIEMs:&#160;To&#160;monitor&#160;your GenAI workloads with a third-party SIEM, you need to:&#160;
+
+Configure log&#160;forwarding&#160;from Log Analytics to external systems&#160;
+
+
+Set up data connectors or agents for Azure OpenAI audit logs&#160;
+
+
+Create custom parsers for Azure-specific log schemas&#160;
+
+
+Maintain authentication and netw...</description>
+    </item>
   </channel>
 </rss>

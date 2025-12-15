@@ -635,3 +635,4 @@
 2025-12-15T06:25:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/empower-your-cloud-identity-how-to-convert-user-soa-from-ad-to/ba-p/4477816
 2025-12-15T16:53:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-ai-entity-analyzer-in-microsoft-sentinel-mcp-server/ba-p/4476230
 2025-12-15T18:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4478093
+2025-12-15T20:44:30 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/part-3-unified-security-intelligence-orchestrating-genai-threat/ba-p/4477556
