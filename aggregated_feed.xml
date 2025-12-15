@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Dec 2025 18:14:31 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4478093</link>
-      <pubDate>Mon, 15 Dec 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-named-an-overall-leader-in-kuppingercole-leadership/ba-p/4478093</guid>
-      <description>Today, we are proud to share that Microsoft has been recognized as an overall leader in the KuppingerCole Leadership Compass for Generative AI Defense (GAD), an independent report from a leading European analyst firm. This recognition reinforces the work we&#8217;ve been doing to deliver enterprise-ready Security and Governance capabilities for AI, and reflects our commitment to helping customers secure AI at scale.
-
-Figure 1: KuppingerCole Generative AI Defense Leadership Compass chart highlighting Microsoft as the top Overall Leader, with other vendors including Palo Alto Networks, Cisco, F5, Neur...</description>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 19:10:37 GMT</lastBuildDate>
   </channel>
 </rss>
