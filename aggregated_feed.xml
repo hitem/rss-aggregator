@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Dec 2025 16:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 17:14:51 GMT</lastBuildDate>
+    <item>
+      <title>Announcing AI Entity Analyzer in Microsoft Sentinel MCP Server - Public Preview</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-ai-entity-analyzer-in-microsoft-sentinel-mcp-server/ba-p/4476230</link>
+      <pubDate>Mon, 15 Dec 2025 16:53:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-ai-entity-analyzer-in-microsoft-sentinel-mcp-server/ba-p/4476230</guid>
+      <description>What is the Entity Analyzer?&#160;
+Assessing the risk of entities is a core task for SOC teams - whether triaging incidents, investigating threats, or automating response workflows. Traditionally, this has required building complex playbooks or custom logic to gather and analyze fragmented security data from multiple sources.&#160;
+With&#160;Entity&#160;Analyzer, this complexity starts to fade away. The tool leverages your organization&#8217;s security data in Sentinel to deliver comprehensive, reasoned risk assessments for any entity you encounter - starting with users and urls. By providing this unified, out-of-the-b...</description>
+    </item>
   </channel>
 </rss>
