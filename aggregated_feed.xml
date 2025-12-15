@@ -3,12 +3,12 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 15 Dec 2025 06:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 07:14:27 GMT</lastBuildDate>
     <item>
       <title>Empower Your Cloud Identity: How to Convert User SOA from AD to Entra ID</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/empower-your-cloud-identity-how-to-convert-user-soa-from-ad-to/ba-p/4477818</link>
-      <pubDate>Mon, 15 Dec 2025 05:57:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/empower-your-cloud-identity-how-to-convert-user-soa-from-ad-to/ba-p/4477818</guid>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/empower-your-cloud-identity-how-to-convert-user-soa-from-ad-to/ba-p/4477816</link>
+      <pubDate>Mon, 15 Dec 2025 06:25:04 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/empower-your-cloud-identity-how-to-convert-user-soa-from-ad-to/ba-p/4477816</guid>
       <description>For years, hybrid identity has been the standard. We synchronize users from on-premises Active Directory (AD) to Microsoft Entra ID (formerly Azure AD), giving our people one set of credentials for both cloud and local resources.
 But this setup comes with a hidden limitation: Active Directory remains the Source of Authority (SOA).
 This traditional model limits your ability to leverage modern security, governance, and management tools available in the cloud. The good news? Microsoft has introduced the capability to shift the SOA for your users entirely to Entra ID.
