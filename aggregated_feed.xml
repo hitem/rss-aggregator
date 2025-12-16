@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Dec 2025 15:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 16:11:49 GMT</lastBuildDate>
+    <item>
+      <title>Synced passkeys and high assurance account recovery</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/synced-passkeys-and-high-assurance-account-recovery/ba-p/3627343</link>
+      <pubDate>Tue, 16 Dec 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/synced-passkeys-and-high-assurance-account-recovery/ba-p/3627343</guid>
+      <description>Almost half of Microsoft Entra ID users are now protected with Multi-Factor Authentication (MFA), per the latest&#160;Microsoft Digital Defense Report.&#160;Yet many organizations still face high costs because of training needs, usability challenges and productivity loss.&#8239; At&#160;Microsoft Ignite 2025, we&#160;introduced&#160;two new features&#160;in Entra ID&#160;to address those challenges for existing MFA deployments and&#160;to&#160;increase adoption&#160;of MFA&#160;across users and organizations: synced passkeys and account recovery.&#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160;
+Public preview of&#160;synced passkeys&#160;brings&#160;the security benefits&#160;of&#160;MFA with simpler usability,&#160;...</description>
+    </item>
   </channel>
 </rss>
