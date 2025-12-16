@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Dec 2025 17:13:52 GMT</lastBuildDate>
-    <item>
-      <title>Efficiently process high volume logs and optimize costs with Microsoft Sentinel data lake</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/efficiently-process-high-volume-logs-and-optimize-costs-with/ba-p/4478110</link>
-      <pubDate>Tue, 16 Dec 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/efficiently-process-high-volume-logs-and-optimize-costs-with/ba-p/4478110</guid>
-      <description>As organizations scale their security monitoring, a key challenge is maintaining visibility while controlling costs. High&#8209;volume logs&#8212;such as firewall, proxy, and endpoint data&#8212;are essential for achieving full threat visibility and must be ingested to understand the complete threat environment.
-With Microsoft Sentinel data lake, you can ingest high&#8209;volume logs directly into the data lake tier&#8212;significantly reducing storage costs while maintaining full visibility. After ingestion, you can extract, enrich, summarize, or normalize events to highlight what matters most for security. Only the enric...</description>
-    </item>
+    <lastBuildDate>Tue, 16 Dec 2025 18:14:22 GMT</lastBuildDate>
   </channel>
 </rss>
