@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Dec 2025 09:15:07 GMT</lastBuildDate>
-    <item>
-      <title>Security Guidance Series: CAF 4.0 Threat Hunting From Detection to Anticipation</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-threat-hunting-from-detection/ba-p/4473216</link>
-      <pubDate>Wed, 17 Dec 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-threat-hunting-from-detection/ba-p/4473216</guid>
-      <description>The CAF 4.0 update reframes C2 (Threat Hunting) as a cornerstone of proactive cyber resilience. According to the NCSC CAF 4.0, this principle is no longer about occasional investigations or manual log reviews; it now demands structured, frequent, and intelligence-led threat hunting that evolves in line with organizational risk.
-The expectation is that UK public sector organizations will not just respond to alerts but will actively search for hidden or emerging threats that evade standard detection technologies, documenting their findings and using them to strengthen controls and response.
-In p...</description>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:53 GMT</lastBuildDate>
   </channel>
 </rss>
