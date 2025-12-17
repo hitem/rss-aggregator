@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 17 Dec 2025 16:12:16 GMT</lastBuildDate>
-    <item>
-      <title>Surfing the AI Wave: Manage, Govern, and Protect AI Agents with Microsoft Entra Agent ID</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/surfing-the-ai-wave-manage-govern-and-protect-ai-agents-with/ba-p/2464407</link>
-      <pubDate>Wed, 17 Dec 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/surfing-the-ai-wave-manage-govern-and-protect-ai-agents-with/ba-p/2464407</guid>
-      <description>Last month, when I blogged about riding the AI wave, I reviewed the reality of AI Agent adoption, basic information about agents, and the challenge of managing them at scale. I could only hint about what we&#8217;d announce at Microsoft Ignite: a huge update for the Microsoft Entra Agent ID public preview.
-I&#8217;d like to thank customers and partners who&#8217;ve been paddling out to the deep waters of agent visibility and security with us. Your feedback has been crucial in this journey, and it was super cool to feature a few of you in my Agent ID Ignite session. Thank you.
-
-&#160;&#127909; Watch the replay of Alex&#8217;s sess...</description>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 17:13:47 GMT</lastBuildDate>
   </channel>
 </rss>
