@@ -634,3 +634,4 @@
 2025-12-16T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/synced-passkeys-and-high-assurance-account-recovery/ba-p/3627343
 2025-12-16T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/efficiently-process-high-volume-logs-and-optimize-costs-with/ba-p/4478110
 2025-12-17T09:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-guidance-series-caf-4-0-threat-hunting-from-detection/ba-p/4473216
+2025-12-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/surfing-the-ai-wave-manage-govern-and-protect-ai-agents-with/ba-p/2464407
