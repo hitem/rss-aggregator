@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Dec 2025 06:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 07:12:33 GMT</lastBuildDate>
+    <item>
+      <title>Application layer DDoS protection using the HTTP DDoS Ruleset in Azure WAF</title>
+      <link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/application-layer-ddos-protection-using-the-http-ddos-ruleset-in/ba-p/4479030</link>
+      <pubDate>Thu, 18 Dec 2025 07:01:19 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/application-layer-ddos-protection-using-the-http-ddos-ruleset-in/ba-p/4479030</guid>
+      <description>Today, Distributed Denial of Service (DDoS) attacks can strike as soon as public connectivity is enabled, highlighting their widespread prevalence. Factors such as easily accessible botnets, the explosion of IoT devices, and the growth of API-driven workloads, e-commerce platforms, and global web applications have made these attacks easier to launch and more impactful.
+Importantly, attackers are no longer focusing solely on the network layer, they increasingly target the application layer. Application-layer DDoS attacks often mimic normal user activity, making detection and mitigation far more...</description>
+    </item>
   </channel>
 </rss>
