@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 18 Dec 2025 16:12:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 17:13:27 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender Experts Disrupt Jasper Sleet&#8217;s Insider Access Campaign</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-disrupt-jasper-sleet-s-insider-access/ba-p/4478112</link>
+      <pubDate>Thu, 18 Dec 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-disrupt-jasper-sleet-s-insider-access/ba-p/4478112</guid>
+      <description>Threat actors are increasingly infiltrating organizations by securing legitimate jobs, often through falsified credentials or insider recruitment.
+Recently, Microsoft Defender Experts, powered by Microsoft Threat Intelligence, successfully thwarted a sophisticated campaign by Jasper Sleet (formerly Storm-0287), a North Korean state-sponsored threat actor known for stealthy infiltration tactics. Rather than compromising victims directly, these actors pose as job applicants or contractors, infiltrating organizations to gain long-term insider access under false identities. Organizations in the in...</description>
+    </item>
   </channel>
 </rss>
