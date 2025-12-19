@@ -3,17 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Dec 2025 15:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 16:00:52 GMT</lastBuildDate>
     <item>
-      <title>Call to Action: Migrate Your Classic Alert&#8209;trigger Automations to Automation Rules Before March 2026</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/call-to-action-migrate-your-classic-alert-trigger-automations-to/ba-p/4479137</link>
-      <pubDate>Fri, 19 Dec 2025 14:01:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/call-to-action-migrate-your-classic-alert-trigger-automations-to/ba-p/4479137</guid>
-      <description>Reminder: Following the Retirement Announcement published in March 2023, classic alert&#8209;trigger automation in Microsoft Sentinel, where playbooks are triggered directly from analytic rules will be deprecated in&#160;March 2026. To ensure your alert&#8209;driven automations continue to run without interruption, please migrate to&#160;automation rules.
-How to Identify the Impacted Rules
-To help you quickly identify if any analytic rules should be updated, we created a Logic App solution&#160;that identifies all the analytic rules which use classic automation. The solution is available in two deployment options:&#160;
-
-Sub...</description>
+      <title>Securing the AI era starts with identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-the-ai-era-starts-with-identity/ba-p/4478952</link>
+      <pubDate>Fri, 19 Dec 2025 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-the-ai-era-starts-with-identity/ba-p/4478952</guid>
+      <description>Generative AI (GenAI) is quickly transforming how organizations innovate, collaborate, and compete. Adoption rates are impressive, with 75% of knowledge workers already using it. Yet only one in four enterprise AI initiatives are properly secured.
+Identity and Security leaders cite data leakage to GenAI tools as their top concern, and just 9% of organizations feel prepared to address risks like prompt injection attacks, Shadow AI, and fragmented security controls. Without a cohesive approach to securing AI, enterprises risk losing control of sensitive data.
+Introducing the first identity-centr...</description>
     </item>
   </channel>
 </rss>
