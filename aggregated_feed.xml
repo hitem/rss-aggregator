@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Dec 2025 16:00:52 GMT</lastBuildDate>
-    <item>
-      <title>Securing the AI era starts with identity</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-the-ai-era-starts-with-identity/ba-p/4478952</link>
-      <pubDate>Fri, 19 Dec 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-the-ai-era-starts-with-identity/ba-p/4478952</guid>
-      <description>Generative AI (GenAI) is quickly transforming how organizations innovate, collaborate, and compete. Adoption rates are impressive, with 75% of knowledge workers already using it. Yet only one in four enterprise AI initiatives are properly secured.
-Identity and Security leaders cite data leakage to GenAI tools as their top concern, and just 9% of organizations feel prepared to address risks like prompt injection attacks, Shadow AI, and fragmented security controls. Without a cohesive approach to securing AI, enterprises risk losing control of sensitive data.
-Introducing the first identity-centr...</description>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 17:09:01 GMT</lastBuildDate>
   </channel>
 </rss>
