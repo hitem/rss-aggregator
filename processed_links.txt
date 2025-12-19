@@ -635,3 +635,4 @@
 2025-12-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/surfing-the-ai-wave-manage-govern-and-protect-ai-agents-with/ba-p/2464407
 2025-12-18T07:01:19 https://techcommunity.microsoft.com/t5/azure-network-security-blog/application-layer-ddos-protection-using-the-http-ddos-ruleset-in/ba-p/4479030
 2025-12-18T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-disrupt-jasper-sleet-s-insider-access/ba-p/4478112
+2025-12-19T14:01:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/call-to-action-migrate-your-classic-alert-trigger-automations-to/ba-p/4479137

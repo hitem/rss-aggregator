@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 19 Dec 2025 14:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 15:00:46 GMT</lastBuildDate>
+    <item>
+      <title>Call to Action: Migrate Your Classic Alert&#8209;trigger Automations to Automation Rules Before March 2026</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/call-to-action-migrate-your-classic-alert-trigger-automations-to/ba-p/4479137</link>
+      <pubDate>Fri, 19 Dec 2025 14:01:47 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/call-to-action-migrate-your-classic-alert-trigger-automations-to/ba-p/4479137</guid>
+      <description>Reminder: Following the Retirement Announcement published in March 2023, classic alert&#8209;trigger automation in Microsoft Sentinel, where playbooks are triggered directly from analytic rules will be deprecated in&#160;March 2026. To ensure your alert&#8209;driven automations continue to run without interruption, please migrate to&#160;automation rules.
+How to Identify the Impacted Rules
+To help you quickly identify if any analytic rules should be updated, we created a Logic App solution&#160;that identifies all the analytic rules which use classic automation. The solution is available in two deployment options:&#160;
+
+Sub...</description>
+    </item>
   </channel>
 </rss>
