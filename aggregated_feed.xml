@@ -3,6 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 22 Dec 2025 13:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 14:09:55 GMT</lastBuildDate>
+    <item>
+      <title>Automating Windows Server Licensing Benefits with Azure Arc Policy</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-windows-server-licensing-benefits-with-azure-arc/ba-p/4469345</link>
+      <pubDate>Mon, 22 Dec 2025 14:07:59 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-windows-server-licensing-benefits-with-azure-arc/ba-p/4469345</guid>
+      <description>Introduction:
+Managing Windows Server benefits licensing across hybrid environments can be challenging. Azure Arc combined with Azure Policy simplifies this by automatically enforcing licensing compliance. This blog explains how the provided policy works and how to deploy it.
+Why implement this policy?
+Automating Windows Server Licensing Benefits with Azure Arc Policy ensures that all eligible machines are seamlessly enabled for essential management services, including Azure Update Manager, Best Practice Assessment, Change Tracking, Inventory, and Windows Admin Center integration. For organiza...</description>
+    </item>
   </channel>
 </rss>

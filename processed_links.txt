@@ -636,3 +636,4 @@
 2025-12-18T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/microsoft-defender-experts-disrupt-jasper-sleet-s-insider-access/ba-p/4478112
 2025-12-19T14:01:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/call-to-action-migrate-your-classic-alert-trigger-automations-to/ba-p/4479137
 2025-12-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/securing-the-ai-era-starts-with-identity/ba-p/4478952
+2025-12-22T14:07:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-windows-server-licensing-benefits-with-azure-arc/ba-p/4469345
