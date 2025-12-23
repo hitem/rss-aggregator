@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 23 Dec 2025 11:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 12:17:28 GMT</lastBuildDate>
+    <item>
+      <title>Managing Microsoft Sentinel and Microsoft Defender XDR permissions in Microsoft Defender portal</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/managing-microsoft-sentinel-and-microsoft-defender-xdr/ba-p/4480583</link>
+      <pubDate>Tue, 23 Dec 2025 11:08:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/managing-microsoft-sentinel-and-microsoft-defender-xdr/ba-p/4480583</guid>
+      <description>In November 2023 at Microsoft Ignite, we announced the integration of Microsoft Sentinel with Microsoft Defender XDR into the unified Microsoft Defender portal. Fast forward, in July 2024 we announced this integration GA, and in July 2025 we announced the Microsoft Sentinel experience will be retired in the Azure portal on July 1, 2026.
+As we introduced the new portal experience, many customers naturally had questions, particularly around permissions. Common concerns included: How will permissions be managed going forward? What changes should I expect with my existing Azure permissions? And do...</description>
+    </item>
   </channel>
 </rss>
