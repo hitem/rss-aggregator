@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Dec 2025 09:17:21 GMT</lastBuildDate>
-    <item>
-      <title>Understanding Windows Settings URIs and How to Use Them in Enterprise Environments</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-windows-settings-uris-and-how-to-use-them-in/ba-p/4481486</link>
-      <pubDate>Mon, 29 Dec 2025 09:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-windows-settings-uris-and-how-to-use-them-in/ba-p/4481486</guid>
-      <description>Understanding Windows Settings URIs and How to Use Them in Enterprise Environments
-Windows provides a powerful and flexible management framework that enables organizations to configure, restrict, or simplify the Settings experience for their users. One of the key mechanisms behind this framework is the ms-settings: URI scheme &#8212; a consistent, internal navigation system that defines how each Settings page in Windows is accessed.
-If you have ever opened Windows Settings and navigated to Privacy &#8594; Camera, you were effectively visiting a page identified by a specific internal URI:
-ms-settings:priva...</description>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 10:10:57 GMT</lastBuildDate>
   </channel>
 </rss>
