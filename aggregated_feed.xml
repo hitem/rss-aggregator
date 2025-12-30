@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Dec 2025 23:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 00:44:06 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Sentinel Platform: Audit Logs and Where to Find Them</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-platform-audit-logs-and-where-to-find-them/ba-p/4481838</link>
+      <pubDate>Mon, 29 Dec 2025 23:21:32 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-platform-audit-logs-and-where-to-find-them/ba-p/4481838</guid>
+      <description>*Thank you to my teammates Ian Parramore and David Hoerster for reviewing and contributing to this blog.*
+With the launch of the Sentinel Platform, a new suite of features for the Microsoft Sentinel service, users may find themselves wanting to monitor who is using these new features and how. This blog sets out to highlight how auditing and monitoring can be achieved and where this data can be found.
+What are Audit Logs?
+Audit logs are documented activities that are eligible for usage within SOC tools, such as a SIEM. These logs are meant to exist as a paper trail to show:
+
+Who performed an ac...</description>
+    </item>
   </channel>
 </rss>
