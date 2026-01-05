@@ -634,3 +634,4 @@
 2025-12-23T11:08:22 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/managing-microsoft-sentinel-and-microsoft-defender-xdr/ba-p/4480583
 2025-12-29T09:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-windows-settings-uris-and-how-to-use-them-in/ba-p/4481486
 2025-12-29T23:21:32 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-platform-audit-logs-and-where-to-find-them/ba-p/4481838
+2026-01-05T07:46:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/opnsense-firewall-as-network-virtual-appliance-nva-in-azure/ba-p/4472398
