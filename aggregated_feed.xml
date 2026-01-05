@@ -3,17 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jan 2026 08:15:46 GMT</lastBuildDate>
-    <item>
-      <title>OPNsense Firewall as Network Virtual Appliance (NVA) in Azure</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/opnsense-firewall-as-network-virtual-appliance-nva-in-azure/ba-p/4472398</link>
-      <pubDate>Mon, 05 Jan 2026 07:46:54 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/opnsense-firewall-as-network-virtual-appliance-nva-in-azure/ba-p/4472398</guid>
-      <description>This blog is available as a video on YouTube: youtube.com/watch?v=JtnIFiB7jkE
-
-Introduction to OPNsense
-In today&#8217;s cloud-driven world, securing your infrastructure is more critical than ever. One powerful solution is OPNsense. OPNsense is a powerful&#160;open-source&#160;firewall that can be used to secure your virtual networks. Originally forked from pfSense, which itself evolved from m0n0wall. OPNsense could run on Windows, MacOS, Linux including OpenBSD and FreeBSD. It provides a user-friendly web interface for configuration and management.
-What makes OPNsense Firewall stand out is its rich feature s...</description>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 09:19:10 GMT</lastBuildDate>
   </channel>
 </rss>
