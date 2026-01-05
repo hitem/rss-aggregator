@@ -637,3 +637,4 @@
 2026-01-05T07:46:54 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/opnsense-firewall-as-network-virtual-appliance-nva-in-azure/ba-p/4472398
 2026-01-05T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-uncovering-hidden-threats-with-the/ba-p/4475313
 2026-01-05T18:53:42 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4483148
+2026-01-05T21:41:40 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents/ba-p/4483160

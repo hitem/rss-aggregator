@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jan 2026 21:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 22:08:59 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents/ba-p/4483160</link>
+      <pubDate>Mon, 05 Jan 2026 21:41:40 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents/ba-p/4483160</guid>
+      <description>Microsoft Copilot Studio&#160;and&#160;Microsoft Foundry&#160;(often referred to as&#160;Azure AI Foundry) are two key platforms in Microsoft&#8217;s AI ecosystem that allow organizations to create custom&#160;AI agents&#160;and&#160;AI-enabled applications. While both share the goal of enabling businesses to build intelligent, task-oriented&#160;&#8220;copilot&#8221;&#160;solutions, they are designed for different&#160;audiences&#160;and&#160;use cases.
+To help you decide which path suits your organization, this blog provides an educational comparison of Copilot Studio vs. Azure AI Foundry, focusing on their unique strengths, feature parity and differences, and key cri...</description>
+    </item>
   </channel>
 </rss>
