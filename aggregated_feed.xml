@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jan 2026 16:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 17:12:30 GMT</lastBuildDate>
+    <item>
+      <title>Announcing public preview: Uncovering hidden threats with the Dynamic Threat Detection Agent</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-uncovering-hidden-threats-with-the/ba-p/4475313</link>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-uncovering-hidden-threats-with-the/ba-p/4475313</guid>
+      <description>At Ignite, we announced the Security Copilot Dynamic Threat Detection Agent in Microsoft Defender: an always on, adaptive backend agent that uncovers hidden threats across Defender and Microsoft Sentinel environments. Today we are excited to share that the customers who meet the prerequisites will now enter public preview of this agent. Running in the Defender backend, the agent delivers Copilot-sourced alerts directly into familiar workflows&#8212;complete with natural language explanations, mapped MITRE techniques, and tailored remediation steps.
+Why adaptive AI-driven detection changes the game
+T...</description>
+    </item>
   </channel>
 </rss>
