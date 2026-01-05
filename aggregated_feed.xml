@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jan 2026 18:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 19:11:28 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender for Cloud Customer Newsletter</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4483148</link>
+      <pubDate>Mon, 05 Jan 2026 18:53:42 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4483148</guid>
+      <description>What's new in Defender for Cloud?&#160;
+Now in public preview, DCSPM (Defender for Cloud Security Posture Management) extends its capabilities to cover serverless workloads in both Azure and AWS, like Azure Web Apps and AWS Lambda.
+For more information, see our public&#160;documentation.
+Defender for Cloud&#8217;s integration with Endor Labs is now GA 
+Focus on exploitable open-source vulnerabilities across the application lifecycle with Defender for Cloud and Endor Lab integration. This feature is now generally available!For more details, please refer to this documentation.
+Blogs of the month
+In December, ou...</description>
+    </item>
   </channel>
 </rss>
