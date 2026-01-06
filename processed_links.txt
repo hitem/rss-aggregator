@@ -1,4 +1,3 @@
-2025-01-06T19:56:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4363214
 2025-01-07T18:56:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/considerations-for-risk-identification-and-prioritization-in/ba-p/4359616
 2025-01-08T21:18:16 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/exciting-news-microsoft-defender-for-endpoint-extends-support-to/ba-p/4364066
 2025-01-08T22:05:09 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reports-and-dashboards-with/ba-p/4352242
@@ -640,3 +639,4 @@
 2026-01-06T09:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/fake-employees-real-threat-decentralized-identity-to-combat/ba-p/4479864
 2026-01-06T17:55:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635
 2026-01-06T18:00:58 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-governance-authoring-custom-data-quality/ba-p/4482093
+2026-01-06T19:27:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-ai-pipeline-from-data-to-deployment/ba-p/4478457
