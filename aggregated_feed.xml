@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Jan 2026 10:00:44 GMT</lastBuildDate>
-    <item>
-      <title>Fake Employees, Real Threat: Decentralized Identity to combat Deepfake Hiring?</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/fake-employees-real-threat-decentralized-identity-to-combat/ba-p/4479864</link>
-      <pubDate>Tue, 06 Jan 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/fake-employees-real-threat-decentralized-identity-to-combat/ba-p/4479864</guid>
-      <description>In recent months, cybersecurity experts have sounded the alarm on a surge of fake &#8220;employees&#8221; &#8211; job candidates who are not who they claim to be.
-These fraudsters use everything from fabricated CVs and stolen identities to AI-generated deepfake videos in interviews to land jobs under false pretenses. It&#8217;s a global phenomenon making headlines on LinkedIn and in the press.
-With the topic surfacing everywhere, I wanted to take a closer look at what&#8217;s really going on &#8212; and explore the solutions that could help organizations respond to this growing challenge. And as it happens, one solution is final...</description>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 11:00:54 GMT</lastBuildDate>
   </channel>
 </rss>
