@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Jan 2026 20:00:47 GMT</lastBuildDate>
-    <item>
-      <title>Securing the AI Pipeline &#8211; From Data to Deployment</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-ai-pipeline-from-data-to-deployment/ba-p/4478457</link>
-      <pubDate>Tue, 06 Jan 2026 19:27:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-ai-pipeline-from-data-to-deployment/ba-p/4478457</guid>
-      <description>In our first post, we established why securing AI workloads is mission-critical for the enterprise. Now, we turn to the AI pipeline&#8212;the end-to-end journey from raw data to deployed models&#8212;and explore why every stage must be fortified against evolving threats. As organizations accelerate AI adoption, this pipeline becomes a prime target for adversaries seeking to poison data, compromise models, or exploit deployment endpoints.
-Enterprises don&#8217;t operate a single &#8220;AI system&#8221;; they run interconnected pipelines that transform data into decisions across a web of services, models, and applications. P...</description>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 21:01:14 GMT</lastBuildDate>
   </channel>
 </rss>
