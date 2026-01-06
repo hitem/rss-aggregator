@@ -1,4 +1,3 @@
-2025-01-06T05:06:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-a-custom-sentinel-gcp-waf-load-balancer-data-connector/ba-p/4362951
 2025-01-06T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-50-features-of-2024/ba-p/4352584
 2025-01-06T19:56:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4363214
 2025-01-07T18:56:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/considerations-for-risk-identification-and-prioritization-in/ba-p/4359616
