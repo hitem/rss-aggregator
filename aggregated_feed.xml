@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Jan 2026 17:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 18:00:54 GMT</lastBuildDate>
+    <item>
+      <title>Artificial Intelligence &amp; Security</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635</link>
+      <pubDate>Tue, 06 Jan 2026 17:55:27 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635</guid>
+      <description>Understanding Artificial Intelligence
+Artificial intelligence (AI) is a computational system that perform human&#8209;intelligence tasks, learning, reasoning, problem&#8209;solving, perception, and language understanding by leveraging algorithmic and statistical methods to analyse data and make informed decisions.
+Artificial Intelligence (AI) can also be abbreviated as is the simulation of human intelligence through machines programmed to learn, reason, and act.
+It blends statistics, machine learning, and robotics to deliver following outcomes:
+
+Prediction: The application of statistical modelling and mac...</description>
+    </item>
   </channel>
 </rss>

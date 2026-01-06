@@ -638,3 +638,4 @@
 2026-01-05T21:41:40 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents/ba-p/4483160
 2026-01-05T22:18:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-december-2025/ba-p/4483213
 2026-01-06T09:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/fake-employees-real-threat-decentralized-identity-to-combat/ba-p/4479864
+2026-01-06T17:55:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635
