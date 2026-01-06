@@ -3,19 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Jan 2026 23:01:03 GMT</lastBuildDate>
-    <item>
-      <title>Check This Out! (CTO!) Guide (December 2025)</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-december-2025/ba-p/4483213</link>
-      <pubDate>Mon, 05 Jan 2026 22:18:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-december-2025/ba-p/4483213</guid>
-      <description>Member: TysonPaul | Microsoft Community Hub
-
-System Center 2025 Update Rollup 1 and more
-Team Blog: System Center
-Author: AakashMSFT
-Published: 12/11/2025
-Summary: System Center 2025 Update Rollup 1 (UR1) is now available, delivering enhanced security with TLS v1.3, support for SQL Server 2025, and expanded monitoring for new Linux distributions. Key improvements include issue fixes and new features across Operations Manager, Data Protection Manager, Service Manager, and Orchestrator, such as selective Hyper-V disk backup, Exchange Subscription Edition support, and improved stability. Updates ...</description>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 00:45:16 GMT</lastBuildDate>
   </channel>
 </rss>
