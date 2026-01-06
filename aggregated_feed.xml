@@ -3,18 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 06 Jan 2026 18:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 19:02:20 GMT</lastBuildDate>
     <item>
-      <title>Artificial Intelligence &amp; Security</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635</link>
-      <pubDate>Tue, 06 Jan 2026 17:55:27 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635</guid>
-      <description>Understanding Artificial Intelligence
-Artificial intelligence (AI) is a computational system that perform human&#8209;intelligence tasks, learning, reasoning, problem&#8209;solving, perception, and language understanding by leveraging algorithmic and statistical methods to analyse data and make informed decisions.
-Artificial Intelligence (AI) can also be abbreviated as is the simulation of human intelligence through machines programmed to learn, reason, and act.
-It blends statistics, machine learning, and robotics to deliver following outcomes:
-
-Prediction: The application of statistical modelling and mac...</description>
+      <title>Microsoft Purview Data Governance - Authoring Custom Data Quality rules using expression languages</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-governance-authoring-custom-data-quality/ba-p/4482093</link>
+      <pubDate>Tue, 06 Jan 2026 18:00:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-governance-authoring-custom-data-quality/ba-p/4482093</guid>
+      <description>The cost of poor-quality data runs into millions of dollars in direct losses. When indirect costs&#8212;such as missed opportunities&#8212;are included, the total impact is many times higher. Poor data quality also creates significant societal costs. It can lead customers to pay higher prices for goods and services and force citizens to bear higher taxes due to inefficiencies and errors.
+In critical domains, the consequences can be severe. Defective or inaccurate data can result in injury or loss of life, for example due to medication errors or incorrect medical procedures, especially as healthcare increa...</description>
     </item>
   </channel>
 </rss>
