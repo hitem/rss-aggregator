@@ -641,3 +641,4 @@
 2026-01-06T18:00:58 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-governance-authoring-custom-data-quality/ba-p/4482093
 2026-01-06T19:27:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-ai-pipeline-from-data-to-deployment/ba-p/4478457
 2026-01-07T08:51:46 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-platform-security-newsletter-january-2026/ba-p/4483439
+2026-01-07T17:06:48 https://techcommunity.microsoft.com/t5/microsoft-security-community/always-on-diagnostics-for-purview-endpoint-dlp-effortless-zero/ba-p/4479008
