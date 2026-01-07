@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Jan 2026 17:15:31 GMT</lastBuildDate>
-    <item>
-      <title>Always&#8209;on Diagnostics for Purview Endpoint DLP: Effortless, Zero&#8209;Friction troubleshooting for admins</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/always-on-diagnostics-for-purview-endpoint-dlp-effortless-zero/ba-p/4479008</link>
-      <pubDate>Wed, 07 Jan 2026 17:06:48 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/always-on-diagnostics-for-purview-endpoint-dlp-effortless-zero/ba-p/4479008</guid>
-      <description>Historically, some security teams have struggled with the challenge of troubleshooting issues with endpoint DLP. Investigations can often slow down because reproducing issues, collecting traces, and aligning on context can be tedious. With always-on diagnostics in Purview endpoint data loss prevention (DLP), our goal has been simple: make troubleshooting seamless, and effortless&#8212;without ever disrupting the information worker.
-Today, we&#8217;re excited to share new enhancements to always-on diagnostics for Purview endpoint DLP. This is the next step in our journey to modernize supportability in Micr...</description>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 18:14:33 GMT</lastBuildDate>
   </channel>
 </rss>
