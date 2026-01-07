@@ -3,6 +3,19 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Jan 2026 08:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 09:16:35 GMT</lastBuildDate>
+    <item>
+      <title>Azure Data Platform Security Newsletter - January 2026</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-platform-security-newsletter-january-2026/ba-p/4483439</link>
+      <pubDate>Wed, 07 Jan 2026 08:51:46 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-platform-security-newsletter-january-2026/ba-p/4483439</guid>
+      <description>Happy New Year and welcome to our first newsletter of 2026!
+This year, we&#8217;re doubling down on something that matters to every one of us: keeping data safe without slowing innovation. Security isn&#8217;t just a checkbox&#8212;it&#8217;s the backbone of everything we build. That&#8217;s why our database security strategy is rooted in the Zero Trust model, a simple but powerful idea: never assume, always verify.
+Here&#8217;s what that means in practice:
+
+Identity first: Every user and workload proves who they are, every time.
+Devices matter: Only trusted endpoints get through the door.
+Networks stay clean: Segmentation and e...</description>
+    </item>
   </channel>
 </rss>

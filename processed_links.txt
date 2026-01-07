@@ -640,3 +640,4 @@
 2026-01-06T17:55:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/artificial-intelligence-security/ba-p/4480635
 2026-01-06T18:00:58 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-governance-authoring-custom-data-quality/ba-p/4482093
 2026-01-06T19:27:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-ai-pipeline-from-data-to-deployment/ba-p/4478457
+2026-01-07T08:51:46 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-data-platform-security-newsletter-january-2026/ba-p/4483439
