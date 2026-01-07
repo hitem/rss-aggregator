@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 07 Jan 2026 18:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 19:11:20 GMT</lastBuildDate>
+    <item>
+      <title>Accelerate Your Security Copilot Readiness with Our Global Technical Workshop Series</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerate-your-security-copilot-readiness-with-our-global/ba-p/4483805</link>
+      <pubDate>Wed, 07 Jan 2026 18:36:25 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerate-your-security-copilot-readiness-with-our-global/ba-p/4483805</guid>
+      <description>The Security Copilot Technical Customer Readiness team is delivering&#160;free, virtual hands-on workshops&#160;year-round, available&#160;across multiple time zones to fit global schedules. These sessions are designed specifically for technical practitioners who want to deepen their&#160;AI for Security&#160;expertise&#160;with&#160;Microsoft Entra,&#160;Intune,&#160;Microsoft Purview, and&#160;Microsoft Threat Protection.&#160;
+What&#160;You&#8217;ll&#160;Learn&#160;
+Our workshop series combines scenario-based instruction, live demos, hands-on exercises, and expert Q&amp;A to help you operationalize Security Copilot across your security stack. These sessions are all mod...</description>
+    </item>
   </channel>
 </rss>
