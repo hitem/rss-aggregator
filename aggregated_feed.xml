@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 08 Jan 2026 16:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 17:16:29 GMT</lastBuildDate>
+    <item>
+      <title>Introducing AI-powered incident prioritization in Microsoft Defender</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-ai-powered-incident-prioritization-in-microsoft/ba-p/4483834</link>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-ai-powered-incident-prioritization-in-microsoft/ba-p/4483834</guid>
+      <description>Every SOC analyst faces this challenge: multiple incidents, same severity, and different sources. When everything looks equally urgent, the real question becomes what do you investigate first? And how do you address it consistently across shifts, analysts, and tool stacks?
+Security teams don&#8217;t struggle because they lack alerts&#8212;they struggle because they have too many, arriving faster than humans can triage. Microsoft Defender brings Microsoft Defender XDR and Microsoft Sentinel signals together into correlated incidents, which is exactly what you want for end-to-end visibility. But it also mea...</description>
+    </item>
   </channel>
 </rss>
