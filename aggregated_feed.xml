@@ -3,13 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 09 Jan 2026 17:13:22 GMT</lastBuildDate>
-    <item>
-      <title>Guarding Kubernetes Deployments: Runtime Gating for Vulnerable Images Now Generally Available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guarding-kubernetes-deployments-runtime-gating-for-vulnerable/ba-p/4484234</link>
-      <pubDate>Fri, 09 Jan 2026 16:52:23 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guarding-kubernetes-deployments-runtime-gating-for-vulnerable/ba-p/4484234</guid>
-      <description>Cloud-native development has made containerization vital, but it has also brought about new risks. In dynamic Kubernetes environments, a single vulnerable container image can open the door to an attack. Organizations need proactive controls to prevent unsafe workloads from running. Although security professionals recognize these risks, traditional security checks typically occur after deployment, relying on scans and alerts that only identify issues once workloads are already running, leaving teams scrambling to respond. Kubernetes runtime gating within Microsoft Defender for Cloud effectively...</description>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 18:14:26 GMT</lastBuildDate>
   </channel>
 </rss>
