@@ -1,4 +1,3 @@
-2025-01-09T12:14:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-coverage-management-across-siem-and-xdr-in-soc/ba-p/4363810
 2025-01-09T13:04:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and/ba-p/4364324
 2025-01-13T12:00:25 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/break-the-30-000-rows-limit-with-advanced-hunting-api/ba-p/4365565
 2025-01-13T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/action-required-msonline-and-azuread-powershell-retirement-2025/ba-p/4364991
