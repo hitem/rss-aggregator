@@ -642,3 +642,4 @@
 2026-01-08T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-ai-powered-incident-prioritization-in-microsoft/ba-p/4483834
 2026-01-08T19:30:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-defender-for-endpoint-offboarding-state-of-windows/ba-p/4484194
 2026-01-09T16:52:23 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guarding-kubernetes-deployments-runtime-gating-for-vulnerable/ba-p/4484234
+2026-01-12T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turn-complexity-into-clarity-introducing-the-new-ueba-behaviors/ba-p/4484493
