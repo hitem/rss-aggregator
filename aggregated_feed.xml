@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Jan 2026 13:33:34 GMT</lastBuildDate>
-    <item>
-      <title>Turn Complexity into Clarity: Introducing the New UEBA Behaviors Layer in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turn-complexity-into-clarity-introducing-the-new-ueba-behaviors/ba-p/4484493</link>
-      <pubDate>Mon, 12 Jan 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turn-complexity-into-clarity-introducing-the-new-ueba-behaviors/ba-p/4484493</guid>
-      <description>Security teams today face an overwhelming challenge: every data point is now a potential security signal, and SOCs are drowning in fragmented, high-volume logs from countless sources - firewalls, cloud platforms, identity systems, and more. Analysts spend precious time translating between schemas, manually correlating events, and piecing together timelines across disparate data sources. For custom detections, it&#8217;s no different. What if you could transform this noisy complexity into clear, actionable security intelligence?
-Today, we're thrilled to announce the release of the UEBA Behaviors laye...</description>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 14:13:54 GMT</lastBuildDate>
   </channel>
 </rss>
