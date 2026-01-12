@@ -3,18 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Jan 2026 17:13:28 GMT</lastBuildDate>
-    <item>
-      <title>Simplifying Code Signing for Windows Apps: Artifact Signing (GA)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/simplifying-code-signing-for-windows-apps-artifact-signing-ga/ba-p/4482789</link>
-      <pubDate>Mon, 12 Jan 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/simplifying-code-signing-for-windows-apps-artifact-signing-ga/ba-p/4482789</guid>
-      <description>Trusted Signing is now Artifact Signing&#8212;and it&#8217;s officially Generally Available!&#160;
-Artifact Signing is a fully managed, end-to-end code signing service that makes it easier than ever for Windows application developers to sign their apps securely and efficiently.&#160;
-As Artifact Signing rebrands, customers will see changes over the next weeks. Please refer to our Learn docs for the most updated information.&#160;
-Figure 1: Artifact Signing information
-What is&#160;Artifact Signing?&#160;
-Code signing has traditionally been a complex and manual process. Managing certificates, securing keys, and integrating signing...</description>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 18:14:30 GMT</lastBuildDate>
   </channel>
 </rss>
