@@ -643,3 +643,5 @@
 2026-01-09T16:52:23 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guarding-kubernetes-deployments-runtime-gating-for-vulnerable/ba-p/4484234
 2026-01-12T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turn-complexity-into-clarity-introducing-the-new-ueba-behaviors/ba-p/4484493
 2026-01-12T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/simplifying-code-signing-for-windows-apps-artifact-signing-ga/ba-p/4482789
+2026-01-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/public-preview-ip-network-firewalls-for-azure-managed-hsm/ba-p/4484475
+2026-01-13T16:08:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2026/ba-p/4484885
