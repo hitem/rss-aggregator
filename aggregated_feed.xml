@@ -3,31 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 13 Jan 2026 16:15:44 GMT</lastBuildDate>
-    <item>
-      <title>Monthly news - January 2026</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2026/ba-p/4484885</link>
-      <pubDate>Tue, 13 Jan 2026 16:08:25 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2026/ba-p/4484885</guid>
-      <description>Microsoft DefenderMonthly news - January 2026 Edition
-This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from December 2025. Defender for Cloud has its own Monthly News post, have a look at&#160;their blog space.&#160;
-&#128640; New Virtual Ninja Show episode:
-
-Advancements in Attack Disruption
-Vulnerability Remediation Agent in Microsoft Intune
-
-Microsoft Defender
-
-(Public Preview) The following advanced hunting schema tables are now available for preview...</description>
-    </item>
-    <item>
-      <title>Public Preview: IP Network Firewalls for Azure Managed HSM</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/public-preview-ip-network-firewalls-for-azure-managed-hsm/ba-p/4484475</link>
-      <pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/public-preview-ip-network-firewalls-for-azure-managed-hsm/ba-p/4484475</guid>
-      <description>We are excited to announce the Public Preview of IP Network Firewalls for Azure Key Vault Managed HSM&#160;in East US, West US, West US 2, West Central US, UK South, and West Europe.&#160;&#160;
-The feature allows you to&#160;authorize a particular service to access your&#160;managed HSM through the Managed HSM Firewall by adding its IP address to the Key Vault Managed HSM&#160;firewall&#160;allowlist.&#160;This configuration is best for services that use static IP addresses or well-known&#160;ranges.&#160;There is a limit of 10 CIDR ranges for this case, and only IPv4 addresses are supported at this time.&#160;
-Note that&#160;firewall&#160;rules only apply...</description>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 17:15:55 GMT</lastBuildDate>
   </channel>
 </rss>
