@@ -7,6 +7,10 @@ on:
     #- cron: "10 * * * *" # Run 10 mina after every hour
   workflow_dispatch:
 
+concurrency:
+  group: pages
+  cancel-in-progress: true
+  
 jobs:
   aggregate_rss_feeds:
     runs-on: ubuntu-latest
