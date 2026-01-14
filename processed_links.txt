@@ -645,3 +645,5 @@
 2026-01-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/public-preview-ip-network-firewalls-for-azure-managed-hsm/ba-p/4484475
 2026-01-13T16:08:25 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-january-2026/ba-p/4484885
 2026-01-14T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-collaboration-in-microsoft-teams-with-efficient-and/ba-p/4484479
+2026-01-14T18:26:35 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/consolidate-conquer-driving-business-transformation-with/ba-p/4466867
+2026-01-14T18:40:58 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4485131
