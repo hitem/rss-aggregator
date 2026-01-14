@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 14 Jan 2026 19:09:15 GMT</lastBuildDate>
-    <item>
-      <title>Securing the Browser Era - From Cloud to AI: A blog series on protecting the modern workspace</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4485131</link>
-      <pubDate>Wed, 14 Jan 2026 18:40:58 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4485131</guid>
-      <description>Browser has transformed how enterprises operate, but it has also created new opportunities for attackers. As we&#8217;ve seen in Part 1, as browsers have become indispensable with Cloud and SaaS adoption, browser native threats and attacks have also increased. Despite their central role in daily work, browsers often lack the layered security controls we expect for networks, endpoints, or applications.
-This post unpacks how organizations can build defense-in-depth strategies to provide browser centric protection.&#160;
-Part 2 - From Neglected to Necessary: Building Defense in Depth for Browsers
-To protect...</description>
-    </item>
-    <item>
-      <title>Consolidate &amp; Conquer: Driving Business Transformation with Integrated Security (Part 1 of 2)</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/consolidate-conquer-driving-business-transformation-with/ba-p/4466867</link>
-      <pubDate>Wed, 14 Jan 2026 18:26:35 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-purview-blog/consolidate-conquer-driving-business-transformation-with/ba-p/4466867</guid>
-      <description>In the evolving cybersecurity landscape, the choice between a unified security platform and a point solution is a strategic one with far-reaching implications. This two-part blog series examines the strategic decision organizations face between adopting a unified security platform and relying on multiple point solutions in cybersecurity. This part highlights the growing complexity of cyber threats and IT environments, emphasizing how a platform-centric approach can deliver significant business value. It explores the operational, financial, and risk-reduction benefits of integrated platforms, i...</description>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 20:08:27 GMT</lastBuildDate>
   </channel>
 </rss>
