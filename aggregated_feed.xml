@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 14 Jan 2026 17:17:06 GMT</lastBuildDate>
-    <item>
-      <title>Secure collaboration in Microsoft Teams with efficient and automated Threat Protection and response</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-collaboration-in-microsoft-teams-with-efficient-and/ba-p/4484479</link>
-      <pubDate>Wed, 14 Jan 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-collaboration-in-microsoft-teams-with-efficient-and/ba-p/4484479</guid>
-      <description>New Layers of Protection for Teams Messages
-With more than 300 million monthly active users on Microsoft Teams, ensuring secure collaboration has become increasingly critical. As the threat landscape continues to change, our security measures must adapt accordingly. To address these challenges, we are pleased to announce enhanced protection and Security Operations response capabilities for enterprise messages containing URLs in Teams, utilizing Microsoft Defender.
-Threat Profile &#8211; Tech Support Impersonation with Phishing URLs
-In previous blogs, we&#8217;ve discussed how threat actors are employing m...</description>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 18:15:15 GMT</lastBuildDate>
   </channel>
 </rss>
