@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Jan 2026 22:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 23:01:09 GMT</lastBuildDate>
+    <item>
+      <title>What&#8217;s new in Microsoft Sentinel: January 2026</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-january-2026/ba-p/4486109</link>
+      <pubDate>Thu, 15 Jan 2026 22:48:22 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-january-2026/ba-p/4486109</guid>
+      <description>Welcome back! As we kick off the new year, we&#8217;re bringing key Ignite 2025 announcements into your day&#8209;to&#8209;day Sentinel experience so you can turn insights into measurable SecOps outcomes with the AI-ready Sentinel SIEM and platform.
+Building on last year&#8217;s momentum around AI-ready platforms, agentic defense, data lake innovation, and advanced SIEM capabilities, the January edition delivers security features designed to elevate your operations. This release brings powerful enhancements, including streamlined ingestion of Microsoft Defender data into the Sentinel data lake, deeper partner connect...</description>
+    </item>
   </channel>
 </rss>
