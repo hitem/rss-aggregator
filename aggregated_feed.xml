@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 15 Jan 2026 00:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:50:37 GMT</lastBuildDate>
+    <item>
+      <title>Active Directory Hardening Series - Part 8 &#8211; Disabling NTLM</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-8-disabling-ntlm/ba-p/4485782</link>
+      <pubDate>Thu, 15 Jan 2026 01:45:23 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-8-disabling-ntlm/ba-p/4485782</guid>
+      <description>Hi All.&#160; Jerry Devore back again to continue talking about hardening Active Directory.&#160; This time I want to discuss disabling NTLM or more likely how to minimize its use in a domain until all dependencies have been removed.&#160; Technically it has been possible to block NTLM since Windows Server 2008 R2 but implementing those policies has proven to be too daunting for most organizations.&#160; However, in recent years there has been a renewed effort to sunset NTLM given the inherit vulnerabilities not to mention the regularly used exploits that take advantage of those weaknesses.&#160; If you are expecting ...</description>
+    </item>
   </channel>
 </rss>
