@@ -644,3 +644,4 @@
 2026-01-14T18:26:35 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/consolidate-conquer-driving-business-transformation-with/ba-p/4466867
 2026-01-14T18:40:58 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4485131
 2026-01-15T01:45:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-8-disabling-ntlm/ba-p/4485782
+2026-01-15T18:08:22 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-144/ba-p/4486065
