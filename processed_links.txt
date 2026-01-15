@@ -1,4 +1,3 @@
-2025-01-15T05:20:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-extends-support-to-arm-based-linux-servers/ba-p/4364066
 2025-01-15T08:53:49 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/whats-new-bicep-support-in-microsoft-sentinel-repositories/ba-p/4358490
 2025-01-15T13:09:36 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-palo-alto-cortex-xdr-logs-into-microsoft-sentinel-with/ba-p/4366555
 2025-01-16T12:51:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-7-implementing-least/ba-p/4366626
