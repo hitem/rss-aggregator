@@ -1,4 +1,3 @@
-2025-01-16T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/take-action-by-february-1-azure-ad-graph-is-retiring/ba-p/4365743
 2025-01-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-elevating-runtime-protection/ba-p/4285436
 2025-01-19T18:32:46 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enhancing-security-with-entra-pim-and-conditional-access-policy/ba-p/4368002
 2025-01-21T12:50:43 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-132/ba-p/4358734
