@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 16 Jan 2026 09:14:35 GMT</lastBuildDate>
-    <item>
-      <title>Announcing Unified SOX &amp; DORA Compliance Solutions in Microsoft Sentinel</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-unified-sox-dora-compliance-solutions-in-microsoft/ba-p/4484802</link>
-      <pubDate>Fri, 16 Jan 2026 08:45:47 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-unified-sox-dora-compliance-solutions-in-microsoft/ba-p/4484802</guid>
-      <description>Empowering Financial Institutions to Meet Modern Regulatory Demands&#160;
-As financial organizations navigate increasingly complex regulatory landscapes, two frameworks stand out for their impact and rigor: the Sarbanes-Oxley Act (SOX) and the Digital Operational Resilience Act (DORA). Microsoft Sentinel now offers dedicated solutions for both, enabling security and compliance teams to achieve continuous, audit-ready compliance across cloud and enterprise environments.&#160;
-SOX IT Compliance Solution&#160;(Preview)
-The SOX IT Compliance solution in Microsoft Sentinel delivers a workbook-driven experience ma...</description>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 10:10:42 GMT</lastBuildDate>
   </channel>
 </rss>
