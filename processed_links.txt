@@ -646,3 +646,4 @@
 2026-01-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-risk-assessments-m365-vs-fabric/ba-p/4487222
 2026-01-20T16:49:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/run-a-sql-query-with-azure-arc/ba-p/4487765
 2026-01-20T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-your-identity-landscape-reduce-risk-and-modernize/ba-p/4486059
+2026-01-20T18:50:06 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2512/ba-p/4487213
