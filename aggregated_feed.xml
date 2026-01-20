@@ -3,18 +3,25 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Jan 2026 16:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 17:18:01 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Purview Data Risk Assessments: M365 vs Fabric</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-risk-assessments-m365-vs-fabric/ba-p/4487222</link>
-      <pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-risk-assessments-m365-vs-fabric/ba-p/4487222</guid>
-      <description>Why Data Risk Assessments matter more in the AI era:
-Generative AI changes the oversharing equation. It can surface data faster, to more people, with less friction, which means existing permission mistakes become more visible, more quickly. Microsoft Purview Data Risk Assessments are designed to identify and help you remediate oversharing risks before (or while) AI experiences like Copilot and analytics copilots accelerate access patterns.
-Quick Decision Guide: When to use Which?
-Use&#160;Microsoft 365 Data Risk Assessments&#160;when:&#160;
-
-You&#8217;re&#160;rolling out&#160;Microsoft 365 Copilot (or Copilot Chat/agents gr...</description>
+      <title>Simplify your identity landscape, reduce risk, and modernize access for any identity</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-your-identity-landscape-reduce-risk-and-modernize/ba-p/4486059</link>
+      <pubDate>Tue, 20 Jan 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-your-identity-landscape-reduce-risk-and-modernize/ba-p/4486059</guid>
+      <description>Organizations everywhere want easier ways to manage identities, reduce risk, and update access for people, apps, devices, and even agents. In her recent identity priorities blog, Joy Chik shared a clear direction for the future: identity isn&#8217;t only about security&#8212;it&#8217;s becoming the foundation for everything. The path ahead includes uniting identity and network access with an Access Fabric, improving governance, and bringing AI-powered protection and operations to every team. The possibilities have never been greater.
+But vision only becomes impact when teams can do something with it.
+That&#8217;s why...</description>
+    </item>
+    <item>
+      <title>Run a SQL Query with Azure ARC</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/run-a-sql-query-with-azure-arc/ba-p/4487765</link>
+      <pubDate>Tue, 20 Jan 2026 16:49:34 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/run-a-sql-query-with-azure-arc/ba-p/4487765</guid>
+      <description>Hi all,
+In this article, you can find a way to retrieve database permission from all your onboarded databases through Azure Arc. This idea is born from a customer request around maintaining a standard permission set, in a very wide environment (about 1000 SQL server).
+This solution is based on Azure Arc, so first you need to onboard your SQL server to Azure Arc and enable the SQL server extension. If you want to test Azure Arc in a test environment, you can use the Azure Jumpstart, in this repo you will find ready-to-deploy arm templates the deploy demos environments.
+The other solution compon...</description>
     </item>
   </channel>
 </rss>
