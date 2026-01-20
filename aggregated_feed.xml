@@ -3,6 +3,18 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Jan 2026 15:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 16:18:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Purview Data Risk Assessments: M365 vs Fabric</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-risk-assessments-m365-vs-fabric/ba-p/4487222</link>
+      <pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-risk-assessments-m365-vs-fabric/ba-p/4487222</guid>
+      <description>Why Data Risk Assessments matter more in the AI era:
+Generative AI changes the oversharing equation. It can surface data faster, to more people, with less friction, which means existing permission mistakes become more visible, more quickly. Microsoft Purview Data Risk Assessments are designed to identify and help you remediate oversharing risks before (or while) AI experiences like Copilot and analytics copilots accelerate access patterns.
+Quick Decision Guide: When to use Which?
+Use&#160;Microsoft 365 Data Risk Assessments&#160;when:&#160;
+
+You&#8217;re&#160;rolling out&#160;Microsoft 365 Copilot (or Copilot Chat/agents gr...</description>
+    </item>
   </channel>
 </rss>

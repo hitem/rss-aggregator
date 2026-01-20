@@ -643,3 +643,4 @@
 2026-01-15T18:08:22 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-144/ba-p/4486065
 2026-01-15T22:48:22 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-january-2026/ba-p/4486109
 2026-01-16T08:45:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-unified-sox-dora-compliance-solutions-in-microsoft/ba-p/4484802
+2026-01-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-risk-assessments-m365-vs-fabric/ba-p/4487222
