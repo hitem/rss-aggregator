@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 20 Jan 2026 20:00:17 GMT</lastBuildDate>
-    <item>
-      <title>Security Baseline for M365 Apps for enterprise v2512</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2512/ba-p/4487213</link>
-      <pubDate>Tue, 20 Jan 2026 18:50:06 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2512/ba-p/4487213</guid>
-      <description>Security baseline for Microsoft 365 Apps for enterprise (v2512, December 2025)
-&#160;
-Microsoft is pleased to announce the latest Security Baseline for Microsoft 365 Apps for enterprise, version 2512, is now available as part of the Microsoft Security Compliance Toolkit. This release builds on previous baselines and introduces updated, security&#8209;hardened recommendations aligned with modern threat landscapes and the latest Office administrative templates.
-As with prior releases, this baseline is intended to help enterprise administrators quickly deploy Microsoft recommended security configurations, r...</description>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 20:41:11 GMT</lastBuildDate>
   </channel>
 </rss>
