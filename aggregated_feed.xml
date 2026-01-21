@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Jan 2026 15:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 16:20:29 GMT</lastBuildDate>
+    <item>
+      <title>Data Security Posture Management for AI</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/data-security-posture-management-for-ai/ba-p/4484148</link>
+      <pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-purview-blog/data-security-posture-management-for-ai/ba-p/4484148</guid>
+      <description>A special thanks to Chris Jeffrey for his contributions as a peer reviewer to this blog post.
+Microsoft Purview Data Security Posture Management (DSPM) for AI provides a unified location to monitor how AI Applications (Microsoft Copilot, AI systems created in Azure AI Foundry, AI Agents, and AI applications using 3rd party Large Language Models). This Blog Post aims to provide the reader with a holistic understanding of achieving Data Security and Governance using Purview Data Security and Governance for AI offering. Purview DSPM is not to be confused with Defender Cloud Security Posture Manag...</description>
+    </item>
   </channel>
 </rss>

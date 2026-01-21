@@ -647,3 +647,4 @@
 2026-01-20T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-your-identity-landscape-reduce-risk-and-modernize/ba-p/4486059
 2026-01-20T18:50:06 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-m365-apps-for-enterprise-v2512/ba-p/4487213
 2026-01-21T00:44:30 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-a-blog-series-on-enabling-smart/ba-p/4487260
+2026-01-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/data-security-posture-management-for-ai/ba-p/4484148
