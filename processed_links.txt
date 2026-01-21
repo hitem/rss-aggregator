@@ -1,4 +1,3 @@
-2025-01-21T12:50:43 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-132/ba-p/4358734
 2025-01-22T08:50:09 https://techcommunity.microsoft.com/t5/azure-network-security-blog/enhancing-azure-firewall-management-with-change-tracking/ba-p/4369275
 2025-01-22T15:25:10 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-sensor-management-api/ba-p/4367164
 2025-01-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-identity-secure-score-recommendations-in-general/ba-p/4369133
