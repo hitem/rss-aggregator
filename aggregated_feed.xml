@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Jan 2026 17:43:29 GMT</lastBuildDate>
-    <item>
-      <title>Determine Defender for Endpoint offboarding state for Linux devices</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-defender-for-endpoint-offboarding-state-for-linux/ba-p/4488207</link>
-      <pubDate>Wed, 21 Jan 2026 16:51:13 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-defender-for-endpoint-offboarding-state-for-linux/ba-p/4488207</guid>
-      <description>There are certain instances when a machine or machines are offboarded that the corresponding status takes an unusual amount of time to report in the Defender portal.
-The status that is shown in the portal is &#8220;Can be onboarded,&#8221; however this status doesn&#8217;t clarify with absolute certainty that the machine was offboarded from the platform. The status &#8220;Can be onboarded&#8221; means that either the endpoint was offboarded from the platform or, that it is a new device discovered by the &#8220;Device Discovery&#8221; service of MDE and the platform is highlighting this for you as something to address and cover the sec...</description>
-    </item>
+    <lastBuildDate>Wed, 21 Jan 2026 18:26:41 GMT</lastBuildDate>
   </channel>
 </rss>
