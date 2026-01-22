@@ -648,3 +648,4 @@
 2026-01-21T00:44:30 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-a-blog-series-on-enabling-smart/ba-p/4487260
 2026-01-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/data-security-posture-management-for-ai/ba-p/4484148
 2026-01-21T16:51:13 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/determine-defender-for-endpoint-offboarding-state-for-linux/ba-p/4488207
+2026-01-22T15:00:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-move-to-microsoft-sentinel-with-the-new-ai/ba-p/4488505
