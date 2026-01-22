@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 22 Jan 2026 15:17:08 GMT</lastBuildDate>
-    <item>
-      <title>Accelerate your move to Microsoft Sentinel with the new AI Powered SIEM migration experience</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-move-to-microsoft-sentinel-with-the-new-ai/ba-p/4488505</link>
-      <pubDate>Thu, 22 Jan 2026 15:00:12 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-move-to-microsoft-sentinel-with-the-new-ai/ba-p/4488505</guid>
-      <description>Migrating from one SIEM to another is a critical decision&#8212;and often one of the hardest to execute. Legacy SIEM migrations are complex, resource-heavy, and time-consuming, often taking up to 15 months with extensive manual effort and cross-team coordination. Organizations face hurdles like multi-phased processes, translating and validating hundreds of detection rules, mapping diverse data sources, and maintaining operational continuity. These challenges have historically slowed cloud adoption and driven up migration costs.
-At Ignite 2025, we unveiled the new AI-powered SIEM migration experience...</description>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 16:17:43 GMT</lastBuildDate>
   </channel>
 </rss>
