@@ -1,4 +1,3 @@
-2025-01-23T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/customize-authentication-experiences-and-url-domains-for/ba-p/3627347
 2025-01-23T18:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/case-management-to-improve-secops-collaboration/ba-p/4369625
 2025-01-23T18:30:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/improve-secops-collaboration-with-case-management/ba-p/4369044
 2025-01-23T21:42:16 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/evolving-the-windows-user-model-a-look-to-the-past/ba-p/4369642
