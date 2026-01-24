@@ -1,4 +1,3 @@
-2025-01-24T16:45:43 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-new-stix-objects-in-microsoft-sentinel/ba-p/4369164
 2025-01-28T07:14:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingesting-custom-application-logs-text-json-file-to-microsoft/ba-p/4371151
 2025-01-28T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/top-3-priorities-for-proactive-identity-and-access-security-in/ba-p/4371044
 2025-01-29T17:44:21 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/from-prevention-to-recovery-microsoft-unified-s-holistic/ba-p/4295823
