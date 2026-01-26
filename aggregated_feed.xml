@@ -3,6 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Jan 2026 15:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 16:16:50 GMT</lastBuildDate>
+    <item>
+      <title>Where Partners Build and Scale: Partner-Built Security Copilot Agents in Security Store</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/where-partners-build-and-scale-partner-built-security-copilot/ba-p/4488589</link>
+      <pubDate>Mon, 26 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/where-partners-build-and-scale-partner-built-security-copilot/ba-p/4488589</guid>
+      <description>At Microsoft, we believe that security is a team sport. That&#8217;s why we are committed to meeting customers where they are, integrating with the solutions they already use to ensure that everyone can take advantage of the agentic capabilities of Security Copilot.
+And it&#8217;s not just an idea&#8212;it&#8217;s a reality. We&#8217;re excited to share why partners such as BlueVoyant, OneTrust, and Tanium chose to build agents with Security Copilot&#8212;and the value this brings to their customers.
+By watching the videos featuring BlueVoyant, OneTrust, and Tanium, you&#8217;ll see firsthand how collaboration drives innovation and em...</description>
+    </item>
   </channel>
 </rss>
