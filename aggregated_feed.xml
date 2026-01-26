@@ -3,23 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Jan 2026 17:18:55 GMT</lastBuildDate>
-    <item>
-      <title>Microsoft Purview Data Security Investigations is now generally available</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-security-investigations-is-now-generally/ba-p/4489363</link>
-      <pubDate>Mon, 26 Jan 2026 17:14:53 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-security-investigations-is-now-generally/ba-p/4489363</guid>
-      <description>Every data security investigation starts with the same question: What data security risks are buried in this data? Exposed credentials in thousands of files across a data estate. Evidence of fraud hidden in vendor communications. Sensitive documents accidentally shared to a large group. Finding these risks manually &#8212; reviewing content file by file, message by message &#8212; is no longer viable when organizations are managing&#160;220 zettabytes of data[1] and facing over 12,000 confirmed breaches annually[2].
-That's why we built Microsoft Purview Data Security Investigations, now generally available.
-Mi...</description>
-    </item>
-    <item>
-      <title>Driving DevSecOps Standards: Microsoft&#8217;s Role in Shaping NIST SP 1800-44 Volume B</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/driving-devsecops-standards-microsoft-s-role-in-shaping-nist-sp/ba-p/4468145</link>
-      <pubDate>Mon, 26 Jan 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/driving-devsecops-standards-microsoft-s-role-in-shaping-nist-sp/ba-p/4468145</guid>
-      <description>We are grateful for the opportunity to contribute to the National Institute of Standards and Technology&#8217;s (NIST) SP 1800-44 Volume B &#8211;&#160;DevSecOps&#160;Architecture. This publication&#160;represents&#160;a significant step forward in defining a reference architecture for secure software development, and we appreciate the collaborative efforts of all involved. Security is woven throughout the development lifecycle, addressing challenges such as open-source risk, software supply chain integrity, Software Bill of Materials (SBOM) requirements, insider threats, and Zero Trust principles.&#160;
-Our team at Microsoft was...</description>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 18:17:00 GMT</lastBuildDate>
   </channel>
 </rss>
