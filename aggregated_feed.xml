@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 26 Jan 2026 12:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 13:35:15 GMT</lastBuildDate>
+    <item>
+      <title>GitHub Copilot + SQL Server: Understanding the Security Analyzer</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/github-copilot-sql-server-understanding-the-security-analyzer/ba-p/4489247</link>
+      <pubDate>Mon, 26 Jan 2026 12:51:01 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/github-copilot-sql-server-understanding-the-security-analyzer/ba-p/4489247</guid>
+      <description>What problem is this trying to solve?
+Many security issues in applications come from the database layer: poorly written queries, dynamic SQL, or code that exposes more data than it should. These problems are often hard to spot, especially in large or older codebases.
+The MSSQL extension for VS Code (v1.37+) now integrates GitHub Copilot with a dedicated chat participant: mssql.
+One of its most useful capabilities is the Security Analyzer, which reviews your T-SQL code and highlights potential security weaknesses.
+This is not just a generic AI model reading text. The tool connects to your SQL S...</description>
+    </item>
   </channel>
 </rss>
