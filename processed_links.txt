@@ -641,3 +641,5 @@
 2026-01-22T15:00:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-move-to-microsoft-sentinel-with-the-new-ai/ba-p/4488505
 2026-01-26T12:51:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/github-copilot-sql-server-understanding-the-security-analyzer/ba-p/4489247
 2026-01-26T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/where-partners-build-and-scale-partner-built-security-copilot/ba-p/4488589
+2026-01-26T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/driving-devsecops-standards-microsoft-s-role-in-shaping-nist-sp/ba-p/4468145
+2026-01-26T17:14:53 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-security-investigations-is-now-generally/ba-p/4489363
