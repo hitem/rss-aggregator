@@ -3,6 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Jan 2026 15:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:15:05 GMT</lastBuildDate>
+    <item>
+      <title>Advance Your SOC Skills with the Power of Microsoft Sentinel data lake and graph</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/advance-your-soc-skills-with-the-power-of-microsoft-sentinel/ba-p/4489349</link>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/advance-your-soc-skills-with-the-power-of-microsoft-sentinel/ba-p/4489349</guid>
+      <description>Microsoft Sentinel has evolved beyond a traditional SIEM into a unified, AI-ready security platform that brings data, analytics, intelligence, and automation together. At the core are Microsoft Sentinel data lake and Microsoft Sentinel graph: data lake enables long-term retention and high-scale analytics, and graph adds entity relationships to speed investigations. We have updated skilling to reflect these changes, so defenders can build the right hands-on skills faster.1. Learn How to Run High&#8209;Scale Searches with data lake: Search Jobs in Microsoft Sentinel
+Unit: Use Search Jobs in Microsoft ...</description>
+    </item>
   </channel>
 </rss>
