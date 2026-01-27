@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Jan 2026 04:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 05:17:26 GMT</lastBuildDate>
+    <item>
+      <title>&#8220;Automating Export of Microsoft Sentinel Analytic Rules mapped to MITRE Tactics &amp; Techniques&#8221;</title>
+      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-export-of-microsoft-sentinel-analytic-rules-mapped-to/ba-p/4489559</link>
+      <pubDate>Tue, 27 Jan 2026 04:49:30 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-export-of-microsoft-sentinel-analytic-rules-mapped-to/ba-p/4489559</guid>
+      <description>&#160;
+1. Introduction
+In modern Security Operations Centers (SOCs), mapping detections to the MITRE ATT&amp;CK framework is critical. MITRE ATT&amp;CK provides a structured, globally recognized model of adversary behavior, categorized into Tactics (goals) and Techniques (methods).
+Microsoft Sentinel analytic rules frequently include MITRE mappings, but viewing or exporting these at scale isn&#8217;t straightforward within the portal.
+Security teams often need:
+&#8226; A centralized view of existing detections mapped to MITRE ATT&amp;CK
+&#8226; A CSV export for reporting, audits, and threat coverage assessments
+&#8226; Insights for S...</description>
+    </item>
   </channel>
 </rss>
