@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Jan 2026 06:17:44 GMT</lastBuildDate>
-    <item>
-      <title>Conditional Access for Agent Identities in Microsoft Entra</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/conditional-access-for-agent-identities-in-microsoft-entra/ba-p/4489915</link>
-      <pubDate>Wed, 28 Jan 2026 05:20:04 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/conditional-access-for-agent-identities-in-microsoft-entra/ba-p/4489915</guid>
-      <description>AI agents are rapidly becoming part of everyday enterprise operations summarizing incidents, analyzing logs, orchestrating workflows, or even acting as digital colleagues. As organizations adopt these intelligent automations, securing them becomes just as important as securing human identities.
-Microsoft Entra introduces Agent Identities and extends Conditional Access to them but with very limited controls compared to traditional users and workload identities. This blog breaks down what Agent Identities are, how Conditional Access applies to them, and what are current limitations.
-&#160;
-What Exact...</description>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 07:16:04 GMT</lastBuildDate>
   </channel>
 </rss>
