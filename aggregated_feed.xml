@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 28 Jan 2026 15:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 16:20:11 GMT</lastBuildDate>
+    <item>
+      <title>Upcoming Conditional Access change: Improved enforcement for policies with resource exclusions</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upcoming-conditional-access-change-improved-enforcement-for/ba-p/4488925</link>
+      <pubDate>Wed, 28 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upcoming-conditional-access-change-improved-enforcement-for/ba-p/4488925</guid>
+      <description>In alignment with Microsoft&#8217;s Secure Future Initiative, we are taking the following proactive security measures for defense-in-depth. Please review the changes and take any required actions to prepare.
+What is changing?
+
+Today, when a user signs in through a client application that requests only OIDC scopes or a limited set of directory scopes, Conditional Access policies that target All resources are not enforced if the policy has one or more resource exclusions.
+After this change, Conditional Access policies that target All resources will be enforced for these sign-ins, even when resource ex...</description>
+    </item>
   </channel>
 </rss>
