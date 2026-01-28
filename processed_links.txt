@@ -645,3 +645,4 @@
 2026-01-26T17:14:53 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-security-investigations-is-now-generally/ba-p/4489363
 2026-01-27T04:49:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-export-of-microsoft-sentinel-analytic-rules-mapped-to/ba-p/4489559
 2026-01-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/advance-your-soc-skills-with-the-power-of-microsoft-sentinel/ba-p/4489349
+2026-01-28T00:00:15 https://techcommunity.microsoft.com/t5/microsoft-security-community/making-ai-apps-enterprise-ready-with-microsoft-purview-and/ba-p/4489887

@@ -3,6 +3,17 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 27 Jan 2026 23:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 00:45:37 GMT</lastBuildDate>
+    <item>
+      <title>Making AI Apps Enterprise-Ready with Microsoft Purview and Microsoft Foundry</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/making-ai-apps-enterprise-ready-with-microsoft-purview-and/ba-p/4489887</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:15 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/making-ai-apps-enterprise-ready-with-microsoft-purview-and/ba-p/4489887</guid>
+      <description>Building AI apps is easy. Shipping them to production is not.
+Microsoft Foundry lets developers bring powerful AI apps and agents to production in days. But managing safety, security, and compliance for each one quickly becomes the real bottleneck. Every enterprise AI project hits the same wall: security reviews, data classification, audit trails, DLP policies, retention requirements. Teams spend months building custom logging pipelines and governance systems that never quite keep up with the app itself.
+There is a faster way.
+Enable Purview &amp; Ship Faster!&#160;
+Microsoft Foundry now includes nativ...</description>
+    </item>
   </channel>
 </rss>
