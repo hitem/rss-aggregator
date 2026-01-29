@@ -3,14 +3,16 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Jan 2026 16:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 17:26:45 GMT</lastBuildDate>
     <item>
-      <title>UPDATE: New timeline for transitioning Sentinel experience to Defender portal</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-new-timeline-for-transitioning-sentinel-experience-to/ba-p/4490464</link>
-      <pubDate>Thu, 29 Jan 2026 15:28:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-new-timeline-for-transitioning-sentinel-experience-to/ba-p/4490464</guid>
-      <description>We&#8217;re sharing an important update to help Microsoft Sentinel customers and partners plan a smooth transition to the Microsoft Defender portal.
-In July 2025, we announced that Microsoft Sentinel SIEM customers would have to transition from the Azure portal experience to the Defender portal by July 1, 2026. Since then, we&#8217;ve seen a large percentage of our customers adopt the new experience, however, we&#8217;ve heard consistent feedback from customers and partners&#8212;particularly those managing Sentinel environments at scale&#8212;about the importance of having additional time and capabilities in place to ensu...</description>
+      <title>New content types supported in multi-tenant content distribution</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-content-types-supported-in-multi-tenant-content-distribution/ba-p/4457948</link>
+      <pubDate>Thu, 29 Jan 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-content-types-supported-in-multi-tenant-content-distribution/ba-p/4457948</guid>
+      <description>Onboard new tenants and maintain a consistent security baseline
+We&#8217;re excited to announce a set of new content types that are now supported by the multi-tenant content distribution capability in the Defender portal: You can now distribute analytics rules, automation rules, workbooks, and alert tuning built in rules.
+What is content distribution?
+Content distribution is a powerful multi-tenant feature that enables scalable management of security content across tenants. With this capability, you can create content distribution profiles in the multi-tenant portal that allow you to seamlessly repl...</description>
     </item>
   </channel>
 </rss>
