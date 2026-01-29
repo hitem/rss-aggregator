@@ -646,3 +646,4 @@
 2026-01-28T00:00:15 https://techcommunity.microsoft.com/t5/microsoft-security-community/making-ai-apps-enterprise-ready-with-microsoft-purview-and/ba-p/4489887
 2026-01-28T05:20:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/conditional-access-for-agent-identities-in-microsoft-entra/ba-p/4489915
 2026-01-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upcoming-conditional-access-change-improved-enforcement-for/ba-p/4488925
+2026-01-29T15:28:56 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-new-timeline-for-transitioning-sentinel-experience-to/ba-p/4490464
