@@ -645,3 +645,4 @@
 2026-01-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/upcoming-conditional-access-change-improved-enforcement-for/ba-p/4488925
 2026-01-29T15:28:56 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-new-timeline-for-transitioning-sentinel-experience-to/ba-p/4490464
 2026-01-29T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-content-types-supported-in-multi-tenant-content-distribution/ba-p/4457948
+2026-01-29T21:44:08 https://techcommunity.microsoft.com/t5/microsoft-security-community/interested-in-being-a-guest-on-the-microsoft-security-podcast-at/ba-p/4490579
