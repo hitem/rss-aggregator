@@ -3,16 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Jan 2026 22:14:04 GMT</lastBuildDate>
-    <item>
-      <title>Interested in Being a Guest on the Microsoft Security Podcast at RSA?</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/interested-in-being-a-guest-on-the-microsoft-security-podcast-at/ba-p/4490579</link>
-      <pubDate>Thu, 29 Jan 2026 21:44:08 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/interested-in-being-a-guest-on-the-microsoft-security-podcast-at/ba-p/4490579</guid>
-      <description>Going to RSA? We&#8217;re recording short, 15-minute Microsoft Security podcast conversations live at the conference- focused on real-world practitioner experience. No pitches, no slides, no marketing. Just an honest conversation about what you&#8217;re seeing, what&#8217;s changed, and what you&#8217;d tell a peer. If you&#8217;re doing the work and want to share your perspective, we&#8217;d love to hear from you.
-&#160;
-Take the survey to let us know you are interested here!
-&#160;...</description>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 23:14:01 GMT</lastBuildDate>
   </channel>
 </rss>
