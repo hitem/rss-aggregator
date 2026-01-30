@@ -1,4 +1,3 @@
-2025-01-30T09:45:16 https://techcommunity.microsoft.com/t5/azure-network-security-blog/building-a-ddos-response-plan/ba-p/4372256
 2025-01-30T15:23:34 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bringing-appsec-and-cloudsec-together-microsoft-defender-for/ba-p/4372366
 2025-01-30T16:16:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/boost-security-with-api-security-posture-management/ba-p/4372385
 2025-01-30T16:57:58 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-identities-10-recommendations-for-building-a-stronger/ba-p/4371879
