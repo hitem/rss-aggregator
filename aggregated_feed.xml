@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Jan 2026 19:22:40 GMT</lastBuildDate>
-    <item>
-      <title>Architecting Trust: A NIST-Based Security Governance Framework for AI Agents</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/architecting-trust-a-nist-based-security-governance-framework/ba-p/4490556</link>
-      <pubDate>Fri, 30 Jan 2026 19:21:32 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/architecting-trust-a-nist-based-security-governance-framework/ba-p/4490556</guid>
-      <description>Architecting Trust: A NIST-Based Security Governance Framework for AI Agents
-The "Agentic Era" has arrived. We are moving from chatbots that simply talk to agents that act&#8212;triggering APIs, querying databases, and managing their own long-term memory. But with this agency comes unprecedented risk. How do we ensure these autonomous entities remain secure, compliant, and predictable?
-In this post, Umesh Nagdev and Abhi Singh, showcase a Security Governance Framework for LLM Agents (used interchangeably as Agents in this article). We aren't just checking boxes; we are mapping the&#160;NIST AI Risk Manag...</description>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 20:14:27 GMT</lastBuildDate>
   </channel>
 </rss>
