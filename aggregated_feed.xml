@@ -3,15 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Jan 2026 08:21:50 GMT</lastBuildDate>
-    <item>
-      <title>Splitting single-tenant Microsoft Defender XDR Sentinel logs in multiple company scenarios</title>
-      <link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/splitting-single-tenant-microsoft-defender-xdr-sentinel-logs-in/ba-p/4488251</link>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/splitting-single-tenant-microsoft-defender-xdr-sentinel-logs-in/ba-p/4488251</guid>
-      <description>Introduction
-&#160;
-Let&#8217;s consider a scenario in which a parent holding company &#8211; Contoso Group &#8211; owns two different companies &#8211; Contoso Beverages and Contoso Food &#8211; and uses a single, shared, multi-domain Entra ID tenant for all the Contoso Group companies. Contoso Group is licensing Entra ID P2 and Microsoft Defender XDR, but each company runs its own Security Operations Center, with its own SIEM (Microsoft Sentinel). While it is trivial to segregate resource logs that are specific to each company (e.g., virtual machine security events via Azure Monitor Agent, firewall logs via Diagnostic Setting...</description>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 09:25:56 GMT</lastBuildDate>
   </channel>
 </rss>
