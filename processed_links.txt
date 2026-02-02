@@ -644,3 +644,5 @@
 2026-01-30T19:21:32 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/architecting-trust-a-nist-based-security-governance-framework/ba-p/4490556
 2026-02-02T10:13:31 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tls-1-3-in-sql-server-2025-what-it-really-changes-for-security/ba-p/4491479
 2026-02-02T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ueba-solution-power-boost-practical-tools-for-anomaly-detection/ba-p/4488277
+2026-02-02T21:21:58 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4491637
+2026-02-02T22:59:48 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/part-3-build-custom-email-security-reports-with-power-bi-and/ba-p/4490127

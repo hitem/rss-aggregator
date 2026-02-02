@@ -3,6 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Feb 2026 18:24:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 23:14:58 GMT</lastBuildDate>
+    <item>
+      <title>Part 3: Build custom email security reports with Power BI and workbooks in Microsoft Sentinel</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/part-3-build-custom-email-security-reports-with-power-bi-and/ba-p/4490127</link>
+      <pubDate>Mon, 02 Feb 2026 22:59:48 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/part-3-build-custom-email-security-reports-with-power-bi-and/ba-p/4490127</guid>
+      <description>TL;DR: We're releasing a brand-new Power BI template for email security reporting and a major update (v3) to the Microsoft Sentinel workbook. Both solutions share the same rich visuals and insights. Choose Power BI for quick deployment without Sentinel, or the Sentinel workbook for extended data retention and multi-tenant scenarios. Get started in minutes with either option.
+Introduction
+Security teams in both small and large organizations track key metrics to make critical security decisions and identify meaningful trends in their organizations. &#160;While Microsoft Defender for email and collabo...</description>
+    </item>
+    <item>
+      <title>Microsoft Defender for Cloud Customer Newsletter</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4491637</link>
+      <pubDate>Mon, 02 Feb 2026 21:21:58 GMT</pubDate>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4491637</guid>
+      <description>What's new in Defender for Cloud?&#160;
+Now in public preview, Microsoft Security Private Link allows for private connectivity between Defender for Cloud and your workloads.
+For more information, see our public&#160;documentation.
+&#160;
+
+Blogs of the month
+In January, our team published the following blog posts we would like to share:
+
+Guarding Kubernetes Deployments: Runtime gating for vulnerable images now GA
+Architecting Trust: A NIST-Based Security Governance Framework for AI Agents
+
+Defender for Cloud in the field
+Revisit the announcement on the CloudStorageAggregatedEvents table in XDR&#8217;s Advanced Hunt...</description>
+    </item>
   </channel>
 </rss>
