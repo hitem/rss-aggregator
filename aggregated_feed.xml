@@ -3,14 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Feb 2026 17:27:23 GMT</lastBuildDate>
-    <item>
-      <title>UEBA Solution Power Boost: Practical Tools for Anomaly Detection</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ueba-solution-power-boost-practical-tools-for-anomaly-detection/ba-p/4488277</link>
-      <pubDate>Mon, 02 Feb 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ueba-solution-power-boost-practical-tools-for-anomaly-detection/ba-p/4488277</guid>
-      <description>We are unveiling a major enhancement of Microsoft Sentinel&#8217;s UEBA Essentials solution. This update includes expanded multi-cloud anomaly detection queries across Azure, AWS, GCP, and Okta, as well as new queries leveraging the anomalies table. These enhancements allow users to rapidly identify high-risk anomalies, establish long-term baselines, align patterns with MITRE ATT&amp;CK, highlight complex malicious IP activities, and generate comprehensive anomalous activity profiles for any user within seconds.
-&#160;This comprehensive upgrade is designed to reduce investigation times, improve signal qualit...</description>
-    </item>
+    <lastBuildDate>Mon, 02 Feb 2026 18:24:42 GMT</lastBuildDate>
   </channel>
 </rss>
