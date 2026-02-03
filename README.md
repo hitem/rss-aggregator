@@ -49,7 +49,9 @@ Note that you have the options to chose between aggregation or appending to a `a
 Example from teams: \
 ![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0) \
 Example from powerautomate flows: \
- ![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47)
+ ![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47) \
+Example from powerautomate flows with AppendMode=True:  <img width="800" height="220" alt="append_mode_true" src="https://github.com/user-attachments/assets/dda7bc59-53a0-499b-9314-c1f99b986e67" />
+
 
 **Note:** You may also need to set up github access token for the repo in question. Else the github action workflow will not be allowed to checkout and make pullrequests (and merge). By default it uses GITHUB_TOKEN that can be configured on your repository project: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#setting-the-permissions-of-the-github_token-for-your-repository \
 I set these permissions in the workflow yml file:
