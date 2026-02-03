@@ -648,3 +648,4 @@
 2026-02-03T11:36:55 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826
 2026-02-03T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-forensic-readiness-and-incident-response-in/ba-p/4488274
 2026-02-03T18:49:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/extending-defender-s-ai-threat-protection-to-microsoft-foundry/ba-p/4491927
+2026-02-03T23:09:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-agentic-soc-era-how-sentinel-mcp-enables-autonomous-security/ba-p/4491003
