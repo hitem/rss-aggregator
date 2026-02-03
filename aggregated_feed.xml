@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Feb 2026 16:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 17:41:19 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -11,5 +11,8 @@ This is our monthly "What's new" blog post, summarizing product updates and vari
 Discovering Microsoft Sentinel MCP server
 Microsoft Sentinel for SAP: What's New, What's Gone, and What's Next
 Unlocking Security Context with Microsoft Sentinel Graph
-Inside OAuth App: Risks, Real Attacks, and Ho...</description></item></channel>
+Inside OAuth App: Risks, Real Attacks, and Ho...</description></item><item><title>Cloud forensics: Forensic readiness and incident response in Azure Virtual Desktop</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-forensic-readiness-and-incident-response-in/ba-p/4488274</link><pubDate>Tue, 03 Feb 2026 17:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-forensic-readiness-and-incident-response-in/ba-p/4488274</guid><description>Co-authors: Dan Weinstock and Christoph Dreymann
+Azure Virtual Desktop (AVD) has rapidly become a core tool for enabling remote work at scale. Consequently, it&#8217;s also emerging as a target for threat actors. Recent Microsoft Incident Response engagements show that threat actors are exploiting AVD deployments for lateral movement and persistence. By hijacking legitimate AVD user accounts, they gain what is essentially a trusted &#8220;endpoint&#8221; inside the network without having to install malware.
+Why does this matter to incident responders?
+AVD intrusions can be stealthy and fast-moving, and responde...</description></item></channel>
 </rss>
