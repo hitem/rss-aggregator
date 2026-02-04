@@ -646,3 +646,4 @@
 2026-02-03T18:49:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/extending-defender-s-ai-threat-protection-to-microsoft-foundry/ba-p/4491927
 2026-02-03T23:09:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-agentic-soc-era-how-sentinel-mcp-enables-autonomous-security/ba-p/4491003
 2026-02-04T00:42:52 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-microsoft-copilot-data-connector-for-microsoft-sentinel-is/ba-p/4491986
+2026-02-04T21:47:23 https://techcommunity.microsoft.com/t5/azure-network-security-blog/zero-trust-with-azure-firewall-azure-ddos-protection-and-azure/ba-p/4490595
