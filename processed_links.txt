@@ -1,4 +1,3 @@
-2025-02-04T04:24:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/leveraging-custom-security-attributes-in-conditional-access/ba-p/4373293
 2025-02-04T05:10:28 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/enhancing-azure-devops-traceability-tracking-pipeline-driven/ba-p/4373304
 2025-02-04T09:14:12 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-unified-device-timeline-experience-in-microsoft/ba-p/4372047
 2025-02-04T17:06:04 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4373483
