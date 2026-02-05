@@ -647,3 +647,4 @@
 2026-02-04T00:42:52 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-microsoft-copilot-data-connector-for-microsoft-sentinel-is/ba-p/4491986
 2026-02-04T21:47:23 https://techcommunity.microsoft.com/t5/azure-network-security-blog/zero-trust-with-azure-firewall-azure-ddos-protection-and-azure/ba-p/4490595
 2026-02-05T17:32:33 https://techcommunity.microsoft.com/t5/microsoft-security-community/building-secure-enterprise-ready-ai-agents-with-purview-sdk-and/ba-p/4492356
+2026-02-05T17:52:01 https://techcommunity.microsoft.com/t5/microsoft-security-community/general-availability-of-microsoft-purview-ediscovery-graph-api/ba-p/4489678
