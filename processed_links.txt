@@ -647,3 +647,4 @@
 2026-02-05T17:32:33 https://techcommunity.microsoft.com/t5/microsoft-security-community/building-secure-enterprise-ready-ai-agents-with-purview-sdk-and/ba-p/4492356
 2026-02-05T17:52:01 https://techcommunity.microsoft.com/t5/microsoft-security-community/general-availability-of-microsoft-purview-ediscovery-graph-api/ba-p/4489678
 2026-02-09T05:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/crl-aia-publishing-guidance-practical-pki-part-2/ba-p/4485713
+2026-02-09T15:54:38 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/from-signal-to-strategy-closing-attack-paths-with-identity/ba-p/4491856
