@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Feb 2026 20:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 21:30:24 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -38,5 +38,10 @@ Today we are excited to share more about how Microsoft Defender can help s...</d
 While this improves consistency and enables more granular automation, customers who rely on specific Account Name values in automation rules or Logic App playbooks may need to take action.
 Timeline&#160;
 
-Effective date:&#160;July 1,...</description></item></channel>
+Effective date:&#160;July 1,...</description></item><item><title>Lake-Only Ingestion for Microsoft Defender Advanced Hunting Tables is Now Generally Available</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/lake-only-ingestion-for-microsoft-defender-advanced-hunting/ba-p/4494206</link><pubDate>Tue, 10 Feb 2026 21:21:07 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/lake-only-ingestion-for-microsoft-defender-advanced-hunting/ba-p/4494206</guid><description>Security teams continue to generate unprecedented volumes of high&#8209;fidelity telemetry across endpoints, identities, cloud apps, and email. While this data is essential for detection, investigation, and threat hunting, it also creates new challenges around scale, cost, and long&#8209;term retention.
+Today, we&#8217;re excited to announce the general availability (GA) of lake&#8209;only ingestion for Microsoft XDR Advanced Hunting tables into Microsoft Sentinel Data Lake.
+With this release, users can now ingest Advanced Hunting data from:
+
+Microsoft Defender for Endpoint (MDE)
+Microsoft Defender for Office 365 (MD...</description></item></channel>
 </rss>
