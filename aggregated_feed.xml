@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 11 Feb 2026 15:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 16:48:16 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -43,5 +43,6 @@ Today, we&#8217;re excited to announce the general availability (GA) of lake&#82
 With this release, users can now ingest Advanced Hunting data from:
 
 Microsoft Defender for Endpoint (MDE)
-Microsoft Defender for Office 365 (MD...</description></item></channel>
+Microsoft Defender for Office 365 (MD...</description></item><item><title>What&#8217;s new in Microsoft Sentinel: February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-february-2026/ba-p/4494218</link><pubDate>Wed, 11 Feb 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-february-2026/ba-p/4494218</guid><description>February brings a set of new innovations to Sentinel that helps you work with security content across your SOC.
+This month&#8217;s updates focus on how security teams ingest, manage, and operationalize content, with new connectors, multi-tenant content distribution capabilities, and an enhanced UEBA Essentials solution to surface high&#8209;risk behavior faster across cloud and identity environments. We&#8217;re also introducing new partner-built agentic experiences available through Microsoft Security Store, enabling customers to extend Sentinel with specialized expertise directly inside their existing workflo...</description></item></channel>
 </rss>
