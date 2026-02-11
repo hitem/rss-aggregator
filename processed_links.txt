@@ -648,3 +648,4 @@
 2026-02-10T12:25:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-changing-the-account-name-entity-mapping-in-microsoft/ba-p/4489040
 2026-02-10T21:21:07 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/lake-only-ingestion-for-microsoft-defender-advanced-hunting/ba-p/4494206
 2026-02-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-february-2026/ba-p/4494218
+2026-02-11T17:40:45 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/data-lake-tier-ingestion-for-microsoft-defender-advanced-hunting/ba-p/4494206
