@@ -1,4 +1,3 @@
-2025-02-12T05:36:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/end-to-end-automation-of-onboarding-a-virtual-machine-to-a/ba-p/4376325
 2025-02-12T12:23:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/deploying-microsoft-defender-for-identity/ba-p/4363501
 2025-02-14T15:46:43 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quickly-deploy-azure-arc-enabled-data-services-on-openshift/ba-p/4351270
 2025-02-14T16:39:36 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-threat-intelligence-ingestion-rules/ba-p/4379019
