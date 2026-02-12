@@ -648,3 +648,5 @@
 2026-02-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-february-2026/ba-p/4494218
 2026-02-11T17:40:45 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/data-lake-tier-ingestion-for-microsoft-defender-advanced-hunting/ba-p/4494206
 2026-02-12T00:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/general-availability-ip-network-firewalls-for-azure-managed-hsm/ba-p/4493983
+2026-02-12T14:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-azure-lighthouse-a-technical-guide-for-service/ba-p/4490592
+2026-02-12T14:54:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-january-2026/ba-p/4494595
