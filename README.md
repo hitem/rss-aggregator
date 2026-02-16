@@ -33,13 +33,13 @@ Note that you have the options to chose between aggregation or appending to a `a
 5. Change the github workflow timer accordingly in `rss_aggregator.yml` \
    The Cron job is the main one (how often it runs here on github actions). But one more such setting is that links are only stored for 365 days under `name: Update processed links file` in the yml to prevent `processed_links.txt` to grow to big.
 6. Chose if you want to aggregate or append `aggregated_feed.xml`  by setting `append_mode` values to true or false in RSS or HTML `*.py` script.\
-    **Aggregated** (**default**)\
-   This is used to ingest the latest news where the ingestion is triggered elsewhere, such as teams or slack).
+    **Aggregated** \
+   This is used to ingest the latest news where the ingestion is triggered elsewhere and the ingestion reads the whole file (not only the latest).
     ```python
     append_mode = False
     ```
-    **Persistent/Appending**\
-   This is to persist processed links in `aggregated_feed.xml` (Used for feeds such as feedly to see all entries.\
+    **Persistent/Appending** \
+   This is to persist processed links in `aggregated_feed.xml` (Used for feed like feedly or ingestors that "looks for latest rss feed update") \
     To avoid `aggregated_feed.xml` to grow to big, default time to save the links is 365 days, you can adjust according to your needs.
     ```python
     append_mode = True
@@ -84,19 +84,19 @@ This script is set up to collect links from Microsoft blog pages based on specif
 - **Cron Job Interval**: Runs every hour (`'0 */1 * * *'`), ensuring regular updates, set up in the github workflow `*.yml` file.
 - **Ingestion Frequency**: Runs every hour, aligning with the cron job to process collected entries. (This is set by you, in the ingestion part, such as teams hooks or powerautomate flow).
 
-### Recommended Settings
+### Recommended Settings 
 
-- **Standard (Hourly Updates)**:
+- **Standard (Hourly Updates)**: 
 ```python
 time_threshold: 2 hours 
 Cron Job Interval: 1 hour 
-Ingestion Frequency: 1 hour
+Ingestion Frequency: 1 hour (for AppendMode = False)
 ```
 - **Extended (Monthly Updates)**:
 ```python
 time_threshold: 60 days 
 Cron Job Interval: 30 days
-Ingestion Frequency: 30 days
+Ingestion Frequency: 30 days (for AppendMode = False)
 ```
 ```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything. Also note that this is not true for AppendMode=True, if appendmode is active it will only ingest whatever timer you set in the py script (default 2hours), so you will not have a 365 days blobb of items added on your first run and no spam to channels will happend.
 ```python
