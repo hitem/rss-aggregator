@@ -65,10 +65,10 @@ Include as few permissions as possible needed for your project.
 
 
 # Current Behavior
-Based on default mode (`append_mode = False`)
+Based on `append_mode = False`
 - **Script Execution:** The cron job triggers the script every hour. The script fetches and processes RSS or HTML feed entries from the last 2 hours.
 - **Link Processing:** The script writes new links to `processed_links.txt` and skips links that are already present, it also creates `aggregated_feed.xml`
-- **Ingestion:** Depending on your settings, the ingestions timer then comes around (in teams or where you have set it up) and post the links present in `aggregated_feed.xml`.
+- **Ingestion:** Depending on your settings, the ingestions timer then comes around (in teams or where you have set it up) and post the links present in `aggregated_feed.xml`.  If you however use appendmode = true, then as soon as a new rss-item is added to the xml, your ingestion engine will post that new item.
 
 
 ## Customizing Timing and Frequency
