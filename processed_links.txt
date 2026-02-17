@@ -1,4 +1,3 @@
-2025-02-17T08:02:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/seamless-security-smartcard-logon-from-entra-only-machines-to/ba-p/4381789
 2025-02-18T17:50:20 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-azure-ai-workloads-using-threat-protection-for-ai-in/ba-p/4378474
 2025-02-18T20:53:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/fortify-your-azure-firewall-custom-public-ip-configuration-on/ba-p/4382646
 2025-02-19T06:15:18 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-workload-identities-using-conditional-access-policy/ba-p/4382773
