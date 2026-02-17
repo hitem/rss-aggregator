@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Feb 2026 15:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 16:41:08 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -63,5 +63,9 @@ This year, the most notable shift&#160;wasn&#8217;t&#160;simply the size of atta
 &#160;
 Microsoft Edge version 145 introduced 11 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
 &#160;
-As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings...</description></item></channel>
+As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings...</description></item><item><title>Your Guide to Microsoft at RSAC&#8482; 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/your-guide-to-microsoft-at-rsac-2026/ba-p/4494905</link><pubDate>Tue, 17 Feb 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/your-guide-to-microsoft-at-rsac-2026/ba-p/4494905</guid><description>AI is accelerating both opportunity and exposure at a pace security leaders&#160;haven&#8217;t&#160;seen before. The impact is universal,&#160;and for&#160;security teams, the challenge has shifted from&#160;if&#160;AI&#160;will change&#160;their work to&#160;how&#160;to get ahead of what comes next.&#160;
+At&#160;RSAC 2026,&#160;we&#8217;ll&#160;show how an&#160;AI&#8209;first, end&#8209;to&#8209;end security platform enables you to defend every layer of the AI stack and secure with agentic AI.&#160;Read our full guide&#160;on making the most of&#160;RSAC&#160;2026 Conference. &#160;
+What to experience at RSAC 2026 with Microsoft&#160;
+
+Microsoft Pre-Day&#160;(Sunday,&#160;March&#160;22):&#160;Start the week at the Palace Hotel with insights fr...</description></item></channel>
 </rss>
