@@ -651,3 +651,4 @@
 2026-02-14T00:31:33 https://techcommunity.microsoft.com/t5/azure-network-security-blog/navigating-the-2026-holiday-season-insights-into-azure-s-ddos/ba-p/4494932
 2026-02-14T11:51:37 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-145/ba-p/4494968
 2026-02-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/your-guide-to-microsoft-at-rsac-2026/ba-p/4494905
+2026-02-17T17:17:14 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-library-management-in-microsoft-defender/ba-p/4494434
