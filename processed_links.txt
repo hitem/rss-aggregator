@@ -1,4 +1,3 @@
-2025-02-19T06:15:18 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/protecting-workload-identities-using-conditional-access-policy/ba-p/4382773
 2025-02-19T12:00:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-and-enhanced-multicloud-regulatory-compliance-standards-in/ba-p/4382616
 2025-02-20T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-windows-server-2012-extended-security-update/ba-p/4377142
 2025-02-22T06:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/supporting-users-with-remote-help-on-personal-devices-unenrolled/ba-p/4384301
