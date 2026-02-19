@@ -654,3 +654,4 @@
 2026-02-19T12:00:02 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-hello-for-business-registered-methods-and-last-used/ba-p/4495717
 2026-02-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/data-quality-dq-for-standalone-data-assets-at-microsoft-purview/ba-p/4495338
 2026-02-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/three-ways-to-run-kql-on-microsoft-sentinel-data-lake/ba-p/4494657
+2026-02-19T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-ueba-journey-introducing-the-microsoft-sentinel/ba-p/4488278
