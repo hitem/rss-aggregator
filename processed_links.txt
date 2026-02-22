@@ -1,4 +1,3 @@
-2025-02-22T06:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/supporting-users-with-remote-help-on-personal-devices-unenrolled/ba-p/4384301
 2025-02-24T16:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-update-manager-patching-net-core/ba-p/4377179
 2025-02-24T23:48:18 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/sentinel-notebook-guided-hunting-anomalous-process-network/ba-p/4385340
 2025-02-25T09:22:59 https://techcommunity.microsoft.com/t5/azure-network-security-blog/comprehensive-guide-to-monitoring-azure-waf-metrics-and-logs/ba-p/4378260
