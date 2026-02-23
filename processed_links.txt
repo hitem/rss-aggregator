@@ -654,3 +654,4 @@
 2026-02-19T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/three-ways-to-run-kql-on-microsoft-sentinel-data-lake/ba-p/4494657
 2026-02-19T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-ueba-journey-introducing-the-microsoft-sentinel/ba-p/4488278
 2026-02-23T12:49:56 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managed-identity-on-sql-server-on-prem-the-end-of-stored-secrets/ba-p/4496450
+2026-02-23T14:57:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2602/ba-p/4496468
