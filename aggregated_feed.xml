@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Feb 2026 12:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:58:19 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -82,5 +82,35 @@ A while back, after being asked by numerous customers ...</description></item><i
 Many companies today cannot activate their data estate. Our research shows that 75% of the companies today do not even have a data quality program.&#160; This is such a major problem because data quality is becoming a major focus of AI. Your AI is only as good as your data.
 In the old days, when we weren't necessarily content aware, it was fine because human was always in the loop and corrected data as needed, but in the new world right now where the AI looks at the content, not just the structure but the content of the data and if that conten...</description></item><item><title>Accelerate Your UEBA Journey: Introducing the Microsoft Sentinel Behaviors Workbook</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-ueba-journey-introducing-the-microsoft-sentinel/ba-p/4488278</link><pubDate>Thu, 19 Feb 2026 17:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-ueba-journey-introducing-the-microsoft-sentinel/ba-p/4488278</guid><description>In our recent announcement, we introduced the UEBA Behaviors layer - a breakthrough capability that transforms noisy, high-volume security telemetry into clear, human-readable behavioral insights. The Behaviors layer answers the critical question: "Who did what to whom, and why does it matter?" by aggregating and sequencing raw events into normalized, MITRE ATT&amp;CK-mapped behaviors.
 But understanding what behaviors are is just the beginning. The next question for SOC teams is: "How do I actually use behaviors to get value from day one?"
-Today, we announce the Microsoft Sentinel Behaviors Workbo...</description></item></channel>
+Today, we announce the Microsoft Sentinel Behaviors Workbo...</description></item><item><title>Managed Identity on SQL Server On-Prem: The End of Stored Secrets</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managed-identity-on-sql-server-on-prem-the-end-of-stored-secrets/ba-p/4496450</link><pubDate>Mon, 23 Feb 2026 12:49:56 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managed-identity-on-sql-server-on-prem-the-end-of-stored-secrets/ba-p/4496450</guid><description>The Problem with Credentials in SQL Server
+For an On-Premises SQL Server to access Azure services, you traditionally need to store secrets:
+Common Scenarios Requiring Credentials
+
+
+Scenario
+
+Required Credential
+
+Backup to URL (Azure Blob)
+
+Storage account key or SAS token
+
+Extensible Key Management (Azure Key Vault)
+
+Service principal + secret
+
+Calling Azure OpenAI from T-SQL
+
+API key
+
+PolyBase to Azure Data Lake
+
+Service principal or key
+
+
+Associated Risks
+Manual Rotation
+Secrets expire. You need to plan and execute rotation and not forget to update all references.
+&#160;Secure Storage
+Where to st...</description></item></channel>
 </rss>
