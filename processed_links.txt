@@ -656,3 +656,5 @@
 2026-02-23T14:57:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2602/ba-p/4496468
 2026-02-23T17:30:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-next-generation-of-soc-automation-sentinel-soar/ba-p/4494438
 2026-02-23T21:17:22 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-next-generation-of-soc-automation-sentinel/ba-p/4494438
+2026-02-24T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/disrupt-aws-attacks-automatically-in-microsoft-sentinel/ba-p/4488276
+2026-02-24T17:11:15 https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-security-in-azure-with-microsoft-defender-for-cloud-learn-the/ba-p/4496714
