@@ -656,3 +656,4 @@
 2026-02-24T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/disrupt-aws-attacks-automatically-in-microsoft-sentinel/ba-p/4488276
 2026-02-24T17:11:15 https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-security-in-azure-with-microsoft-defender-for-cloud-learn-the/ba-p/4496714
 2026-02-24T21:18:43 https://techcommunity.microsoft.com/t5/microsoft-security-community/build-sensitivity-label-aware-secure-rag-with-azure-ai-search/ba-p/4496771
+2026-02-25T17:15:34 https://techcommunity.microsoft.com/t5/microsoft-security-community/authorization-and-identity-governance-inside-ai-agents/ba-p/4496977

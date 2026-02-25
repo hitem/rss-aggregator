@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 25 Feb 2026 16:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 17:47:23 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -120,5 +120,9 @@ From AI Security Conce...</description></item><item><title>Disrupt AWS attacks a
 That&#8217;s why we built automatic attack disruption, Microsoft&#8217;s AI&#8209;driven self&#8209;defense that stops in&#8209;progress, multi&#8209;domain attacks like ransomware in minutes before they can cause damage. At Ignite, we&#160;expanded attack disrup...</description></item><item><title>Build Sensitivity Label&#8209;Aware, Secure RAG with Azure AI Search and Purview</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/build-sensitivity-label-aware-secure-rag-with-azure-ai-search/ba-p/4496771</link><pubDate>Tue, 24 Feb 2026 21:18:43 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/build-sensitivity-label-aware-secure-rag-with-azure-ai-search/ba-p/4496771</guid><description>Introduction: Why This Matters Now
 Most developers building solutions with&#160;Azure AI Search&#160;haven&#8217;t had to think about&#160;Microsoft Purview sensitivity labels&#160;before.
 Sensitivity labels are applied at the source&#8212;SharePoint, OneLake, OneDrive&#8212;and they classify and protect documents through encryption, access rules, and usage rights. As a result, developers often don&#8217;t see these labels directly, and many are unaware that labeled or encrypted documents behave differently when used in AI and search workloads.
-This matters because&#160;RAG and Copilot&#8209;style applications&#160;rely on complete, context&#8209;rich data&#160;t...</description></item></channel>
+This matters because&#160;RAG and Copilot&#8209;style applications&#160;rely on complete, context&#8209;rich data&#160;t...</description></item><item><title>Authorization and Identity Governance Inside AI Agents</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/authorization-and-identity-governance-inside-ai-agents/ba-p/4496977</link><pubDate>Wed, 25 Feb 2026 17:15:34 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/authorization-and-identity-governance-inside-ai-agents/ba-p/4496977</guid><description>Designing Authorization&#8209;Aware AI Agents
+Enforcing Microsoft Entra ID RBAC in Copilot Studio
+As AI agents move from experimentation to enterprise execution, authorization becomes the defining line between innovation and risk.
+AI agents are rapidly evolving from experimental assistants into enterprise operators&#8212;retrieving user data, triggering workflows, and invoking protected APIs. While many early implementations rely on prompt&#8209;level instructions to control access, regulated enterprise environments require authorization to be enforced by identity systems, not language models.
+This article pres...</description></item></channel>
 </rss>
