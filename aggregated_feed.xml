@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Feb 2026 22:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 23:17:37 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -127,5 +127,7 @@ AI agents are rapidly evolving from experimental assistants into enterprise oper
 This article pres...</description></item><item><title>Introducing a faster, more intelligent, end-to-end insider risk investigation experience</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-faster-more-intelligent-end-to-end-insider-risk/ba-p/4497128</link><pubDate>Thu, 26 Feb 2026 17:42:59 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-faster-more-intelligent-end-to-end-insider-risk/ba-p/4497128</guid><description>Modern insider risk investigations succeed or fail based on how quickly teams can move from signal to clarity. That&#8217;s why the latest Microsoft Purview Insider Risk Management (IRM) investigation enhancements are designed as a progressive 3-step acceleration model, starting with AI&#8209;driven prioritization, followed by faster validation, and easier escalations.
 Step 1: Accelerate triage with the newly enhanced Data Security Triage Agent
 The first and most impactful speed improvement happens before analysts even begin reviewing individual activities.
-The newly enhanced Data Security Triage Agent ac...</description></item></channel>
+The newly enhanced Data Security Triage Agent ac...</description></item><item><title>Unlocking value with Microsoft Sentinel data lake</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unlocking-value-with-microsoft-sentinel-data-lake/ba-p/4497660</link><pubDate>Thu, 26 Feb 2026 22:28:54 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unlocking-value-with-microsoft-sentinel-data-lake/ba-p/4497660</guid><description>As security telemetry explodes and AI&#8209;driven defense becomes the norm, it is critical to centralize and retain massive volumes of data for deep analysis and long&#8209;term insights. Security teams are fundamentally rethinking how they manage, analyze, and act on security data.
+The Microsoft Sentinel data lake is a game changer for modern security operations, providing the foundation for agentic defense, deeper insights, and graph&#8209;based enrichment. Security teams can centralize signals, simplify data management, and run advanced analytics, without compromising costs or performance.
+Across industries...</description></item></channel>
 </rss>
