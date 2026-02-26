@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Feb 2026 16:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 17:48:23 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -124,5 +124,8 @@ This matters because&#160;RAG and Copilot&#8209;style applications&#160;rely on 
 Enforcing Microsoft Entra ID RBAC in Copilot Studio
 As AI agents move from experimentation to enterprise execution, authorization becomes the defining line between innovation and risk.
 AI agents are rapidly evolving from experimental assistants into enterprise operators&#8212;retrieving user data, triggering workflows, and invoking protected APIs. While many early implementations rely on prompt&#8209;level instructions to control access, regulated enterprise environments require authorization to be enforced by identity systems, not language models.
-This article pres...</description></item></channel>
+This article pres...</description></item><item><title>Introducing a faster, more intelligent, end-to-end insider risk investigation experience</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-faster-more-intelligent-end-to-end-insider-risk/ba-p/4497128</link><pubDate>Thu, 26 Feb 2026 17:42:59 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-faster-more-intelligent-end-to-end-insider-risk/ba-p/4497128</guid><description>Modern insider risk investigations succeed or fail based on how quickly teams can move from signal to clarity. That&#8217;s why the latest Microsoft Purview Insider Risk Management (IRM) investigation enhancements are designed as a progressive 3-step acceleration model, starting with AI&#8209;driven prioritization, followed by faster validation, and easier escalations.
+Step 1: Accelerate triage with the newly enhanced Data Security Triage Agent
+The first and most impactful speed improvement happens before analysts even begin reviewing individual activities.
+The newly enhanced Data Security Triage Agent ac...</description></item></channel>
 </rss>
