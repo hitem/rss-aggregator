@@ -1,4 +1,3 @@
-2025-02-27T08:14:53 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-mde-extension-status-checks-with-powershell/ba-p/4386589
 2025-02-28T19:35:48 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protecting-the-public-ips-of-secured-virtual-hub-azure-firewalls/ba-p/4387435
 2025-03-02T23:47:08 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/entra-id-saml-federation-with-an-external-identity-provider/ba-p/4387780
 2025-03-03T06:43:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automate-enabling-defender-for-servers-p1-at-resource-group-or/ba-p/4387868
