@@ -658,3 +658,4 @@
 2026-02-25T17:15:34 https://techcommunity.microsoft.com/t5/microsoft-security-community/authorization-and-identity-governance-inside-ai-agents/ba-p/4496977
 2026-02-26T17:42:59 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-faster-more-intelligent-end-to-end-insider-risk/ba-p/4497128
 2026-02-26T22:28:54 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unlocking-value-with-microsoft-sentinel-data-lake/ba-p/4497660
+2026-02-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/top-5-microsoft-sentinel-queries-for-threat-hunting/ba-p/4497667
