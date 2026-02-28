@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Feb 2026 23:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 00:49:58 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -143,5 +143,9 @@ Implementation questions&#160;
 Architecture questions&#160;
 
 
-Lesso...</description></item></channel>
+Lesso...</description></item><item><title>Running Text to Image and Text to Video with ComfyUI and Nvidia H100 GPU</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/running-text-to-image-and-text-to-video-with-comfyui-and-nvidia/ba-p/4497978</link><pubDate>Fri, 27 Feb 2026 23:35:57 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/running-text-to-image-and-text-to-video-with-comfyui-and-nvidia/ba-p/4497978</guid><description>This guide provides instructions on how to set up and run&#160;Text to Image and Text to Video&#160;generation using ComfyUI with an Nvidia H100 GPU on Azure VMs.
+ComfyUI is a node-based user interface for Stable Diffusion and other AI models. It allows users to create complex workflows for image and video generation using a visual interface. With the power of GPUs, you can significantly speed up the generation process for high-quality images and videos.
+Steps to create the infrastructure
+Option 1. Using Terraform (Recommended)
+In this guide, the provided Terraform template available here: ai-course/550...</description></item></channel>
 </rss>
