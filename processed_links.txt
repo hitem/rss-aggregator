@@ -661,3 +661,4 @@
 2026-02-27T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ask-microsoft-anything-data-ai-security-in-the-real-world/ba-p/4497679
 2026-02-27T23:35:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/running-text-to-image-and-text-to-video-with-comfyui-and-nvidia/ba-p/4497978
 2026-03-02T07:09:40 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-the-client-repeatable-feature-in-edge/ba-p/4498346
+2026-03-02T12:13:48 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2026/ba-p/4498458

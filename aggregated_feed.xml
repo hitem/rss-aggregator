@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 02 Mar 2026 11:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 12:27:22 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -150,5 +150,15 @@ Option 1. Using Terraform (Recommended)
 In this guide, the provided Terraform template available here: ai-course/550...</description></item><item><title>Demystifying the Client Repeatable Feature in Edge</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-the-client-repeatable-feature-in-edge/ba-p/4498346</link><pubDate>Mon, 02 Mar 2026 07:09:40 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/demystifying-the-client-repeatable-feature-in-edge/ba-p/4498346</guid><description>Autofill behavior in modern browsers can sometimes feel confusing&#8212;especially when suggestions suddenly stop appearing even though data is still being entered correctly. In Microsoft Edge, this behavior is often caused by a feature called the Client Repeatable Feature.
 This article explains how Autofill works in Edge, how Frequently Saved Data (FSD) and Parsable Name are used, why Autofill suggestions get blocked, and how this behavior differs from other Chromium-based browsers like Google Chrome.
 How Autofill Works in Edge
-At a basic level, Microsoft Edge stores and reuses form data based on t...</description></item></channel>
+At a basic level, Microsoft Edge stores and reuses form data based on t...</description></item><item><title>Monthly news -  March 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2026/ba-p/4498458</link><pubDate>Mon, 02 Mar 2026 12:13:48 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-march-2026/ba-p/4498458</guid><description>Microsoft DefenderMonthly news - March 2026 Edition
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from February 2026. We are now including news related to Defender for Cloud in the Defender portal. For all other Defender for Cloud news, have a look at the dedicated Defender for Cloud Monthly News&#160;here.&#160;
+&#128640; New Virtual Ninja Show episode:
+
+ New AI-powered SIEM migration experience
+
+&#160;
+Microsoft Defender
+
+
+(Public Preview) Microsoft Defe...</description></item></channel>
 </rss>
