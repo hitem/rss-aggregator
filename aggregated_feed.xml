@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 03 Mar 2026 00:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 03:30:13 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -160,5 +160,5 @@ This is our monthly "What's new" blog post, summarizing product updates and vari
 Microsoft Defender
 
 
-(Public Preview) Microsoft Defe...</description></item></channel>
+(Public Preview) Microsoft Defe...</description></item><item><title>Transparent and customizable onboarding for modern and legacy Windows devices</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/transparent-and-customizable-onboarding-for-modern-and-legacy/ba-p/4498827</link><pubDate>Tue, 03 Mar 2026 03:25:40 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/transparent-and-customizable-onboarding-for-modern-and-legacy/ba-p/4498827</guid><description>Onboarding all devices in your estate is paramount for strong security posture. In fact, Microsoft Threat Intelligence research shows that in the majority of ransomware attacks, the spreader machine was a device that was not yet onboarded. But customers often struggle to follow complex steps that differ by OS, accidentally duplicate devices because they can&#8217;t tell whether onboarding is in progress or failed, or have incorrect&#8239;initial&#8239;configuration settings causing system incompatibility.&#8239;That&#8217;s why we&#8217;re introducing an updated onboarding experience via the Defender deployment tool for Windows ...</description></item></channel>
 </rss>
