@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 04 Mar 2026 12:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 13:45:22 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -171,5 +171,7 @@ Blogs of t...</description></item><item><title>Malware scan results now in blob 
 That&#160;changes&#160;now.&#160;
 Azure Storage just released a&#160;public preview feature&#160;that many customers have been asking for:&#160;Blob tags for Hierarchical Namespace. And for Defender for Storage, this translates into something super practical:&#160;Malware scanning results can now appear in the&#160;file&#8217;s&#160;tags (blob tags) for ADLS Gen2 accounts with HNS.&#160;
 &#160;
-Before the preview:&#160;If you us...</description></item></channel>
+Before the preview:&#160;If you us...</description></item><item><title>Defending Container Runtime from Malware with Microsoft Defender for Containers</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defending-container-runtime-from-malware-with-microsoft-defender/ba-p/4499264</link><pubDate>Wed, 04 Mar 2026 12:49:58 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defending-container-runtime-from-malware-with-microsoft-defender/ba-p/4499264</guid><description>In cloud-native environments, malware protection is no longer traditional antivirus &#8212; it is&#160;runtime workload security, ensuring containerized applications&#160;remain&#160;safe throughout their lifecycle.&#160;
+Many organizations&#160;focus on scanning container images before deployment. While image scanning is important, this does not stop runtime attacks.&#160;Image scanning protects before deployment, but malware detection protects during execution.&#160;
+Malware can enter cloud environments through&#160;container images, compromised CI/CD pipelines, exposed services, or misuse of legitimate administrative tools, making runt...</description></item></channel>
 </rss>
