@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 09 Mar 2026 15:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:42:40 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -186,5 +186,10 @@ CEP Encryption - Used by the device to encrypt communication with NDES
 Exchange Enrollment Agent (Offline Request) - Used to request certificates on behalf of another subject
 IPSec (Offline request)&#160;- Default template to enroll certificates to devices
 
-All certificate templates from the list above are version 1 certificate templates. Number 1 and 2 share the common characteristic of having the Extended Key Usage (EK...</description></item></channel>
+All certificate templates from the list above are version 1 certificate templates. Number 1 and 2 share the common characteristic of having the Extended Key Usage (EK...</description></item><item><title>Introducing effective settings: See security configurations enforced on your device</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-effective-settings-see-security-configurations/ba-p/4499551</link><pubDate>Mon, 09 Mar 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-effective-settings-see-security-configurations/ba-p/4499551</guid><description>See exactly which security configurations are enforced on your device
+Security teams spend significant time defining policies for Microsoft Defender security settings. But when it comes to investigations or troubleshooting, the real question is often simple: what is currently being enforced on this device? Today, we&#8217;re excited to share that the settings experience is now generally available in Defender to provide this critical visibility.
+&#160;
+Figure #1: Effective settings tab on the device page
+From intended policy to real-world enforcement
+Understanding device security posture sometimes means c...</description></item></channel>
 </rss>

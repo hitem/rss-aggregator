@@ -656,3 +656,4 @@
 2026-03-05T16:47:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-future-of-identity-self-service-account-recovery-preview-in/ba-p/4499749
 2026-03-06T20:17:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-pre-day-your-first-look-at-what-s-next-in-security/ba-p/4500047
 2026-03-09T07:28:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/the-nightmare-of-renewing-ndes-enrollment-agent-certificates/ba-p/4496052
+2026-03-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-effective-settings-see-security-configurations/ba-p/4499551
