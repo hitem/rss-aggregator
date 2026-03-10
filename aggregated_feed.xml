@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Mar 2026 20:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:18:20 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -195,5 +195,5 @@ Understanding device security posture sometimes means c...</description></item><
 This campaign highlights two recurring challenges in defending modern environments:
 
 Upstream trust abuse: Malicious payloads delivered from legitimate, trusted domains.
-Selective evasion: Conditional logic designed to evade validatio...</description></item></channel>
+Selective evasion: Conditional logic designed to evade validatio...</description></item><item><title>Purview Community: Call for Sessions!</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/purview-community-call-for-sessions/ba-p/4499150</link><pubDate>Tue, 10 Mar 2026 20:46:14 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/purview-community-call-for-sessions/ba-p/4499150</guid><description>Microsoft Purview Community Lighting Talks is a virtual event series featuring real-world demos, tips, and solutions directly from you, the Purview Community!The goal of these short, fluff-free lighting sessions is to foster authentic knowledge sharing, community connection, and highlight real experiences to empower others who use Microsoft Purview. The virtual events will be held in a simu-live format across multiple time zones and will include subject-matter experts and the speakers in a live-chat Q&amp;A for community participation.&#160;For more information and to apply to speak, please visit the P...</description></item></channel>
 </rss>
