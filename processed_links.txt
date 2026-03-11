@@ -657,3 +657,5 @@
 2026-03-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-effective-settings-see-security-configurations/ba-p/4499551
 2026-03-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/when-trust-becomes-the-attack-vector-analysis-of-the-emeditor/ba-p/4499552
 2026-03-10T20:46:14 https://techcommunity.microsoft.com/t5/microsoft-security-community/purview-community-call-for-sessions/ba-p/4499150
+2026-03-11T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/introducing-agentic-secret-finder-finding-real-credentials-where/ba-p/4500983
+2026-03-11T15:12:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-partners-with-databahn-to-accelerate-enterprise/ba-p/4501055
