@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 11 Mar 2026 15:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:35:56 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -202,5 +202,11 @@ This integration reflects Microsoft Sentine...</description></item><item><title>
 &#160;
 &#160;
 &#160;
-Agentic Secret Finder (ASF) is an AI-powered capability in Microsoft Security Copilot that detects leaked credentials in unstructured content, such as emails, chat logs, documents, and screenshots, where traditional pattern-matching tools struggle. Agentic Secret Finder (ASF) is &#8220;agentic&#8221; because it relies on a multi&#8209;step, multi&#8209;agent reasoning workflow rather than a single pass detector. Detection, verification, and contextual analysis are handled by distinct reasoning stages, allowing ASF to find real credentials without flooding users with false positives. Unlike regex-based scanner...</description></item></channel>
+Agentic Secret Finder (ASF) is an AI-powered capability in Microsoft Security Copilot that detects leaked credentials in unstructured content, such as emails, chat logs, documents, and screenshots, where traditional pattern-matching tools struggle. Agentic Secret Finder (ASF) is &#8220;agentic&#8221; because it relies on a multi&#8209;step, multi&#8209;agent reasoning workflow rather than a single pass detector. Detection, verification, and contextual analysis are handled by distinct reasoning stages, allowing ASF to find real credentials without flooding users with false positives. Unlike regex-based scanner...</description></item><item><title>Check This Out! (CTO!) Guide (February 2026)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-february-2026/ba-p/4501272</link><pubDate>Wed, 11 Mar 2026 15:55:52 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-february-2026/ba-p/4501272</guid><description>Member: TysonPaul | Microsoft Community Hub
+
+Secure DNS with DoH: Public Preview for Windows DNS Server
+Team Blog: Networking
+Author: JorgeCa&#241;as
+Published: 02/09/2026
+Summary: Microsoft has launched a public preview of DNS over HTTPS (DoH) for Windows DNS Server, available in the February 2026 update for Windows Server 2025. DoH encrypts DNS queries and responses, enhancing authentication and privacy while maintaining existing server functions. This move aligns with Zero Trust security principles and supports U.S. federal cybersecurity requirements. The feature is disabled by default, is not p...</description></item></channel>
 </rss>

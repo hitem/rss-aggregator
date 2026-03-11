@@ -659,3 +659,4 @@
 2026-03-10T20:46:14 https://techcommunity.microsoft.com/t5/microsoft-security-community/purview-community-call-for-sessions/ba-p/4499150
 2026-03-11T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/introducing-agentic-secret-finder-finding-real-credentials-where/ba-p/4500983
 2026-03-11T15:12:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-partners-with-databahn-to-accelerate-enterprise/ba-p/4501055
+2026-03-11T15:55:52 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-february-2026/ba-p/4501272
