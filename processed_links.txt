@@ -658,3 +658,4 @@
 2026-03-11T15:12:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-partners-with-databahn-to-accelerate-enterprise/ba-p/4501055
 2026-03-11T15:55:52 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-february-2026/ba-p/4501272
 2026-03-11T17:51:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/modern-database-protection-from-visibility-to-threat-detection/ba-p/4501289
+2026-03-12T20:38:28 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bulk-enable-azure-arc-connected-machine-agent-automatic-upgrade/ba-p/4501749
