@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Mar 2026 06:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:58:58 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -216,5 +216,10 @@ In addition to implementation projects, Luc...</description></item><item><title>
 &#160;
 Microsoft Edge version 146 introduced 9 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
 &#160;
-As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings ...</description></item></channel>
+As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings ...</description></item><item><title>Remove Unnecessary Azure Storage Account Dependencies in VM Diagnostics</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/remove-unnecessary-azure-storage-account-dependencies-in-vm/ba-p/4501380</link><pubDate>Mon, 16 Mar 2026 07:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/remove-unnecessary-azure-storage-account-dependencies-in-vm/ba-p/4501380</guid><description>In a recent engagement with a customer willing to decrease Shared Access Signature (SAS) tokens usage in their Storage Accounts, we found out that a good amount of SAS token-based requests was associated with VM diagnostics. One practical way to reduce SAS token usage is to eliminate dependencies that require Storage Accounts in the first place, especially when Azure offers managed alternatives.
+&#160;
+This post focuses on two VM-level features that often introduce (or preserve) unnecessary Storage Account coupling:
+&#160;
+
+The legacy IaaS Diagnostics extension (retiring), which can write diagnostic dat...</description></item></channel>
 </rss>

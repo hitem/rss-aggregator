@@ -656,3 +656,4 @@
 2026-03-12T20:38:28 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bulk-enable-azure-arc-connected-machine-agent-automatic-upgrade/ba-p/4501749
 2026-03-12T21:35:19 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-community-spotlight-luca-romero-arrieche-heller/ba-p/4501723
 2026-03-13T17:19:16 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-146/ba-p/4502057
+2026-03-16T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/remove-unnecessary-azure-storage-account-dependencies-in-vm/ba-p/4501380
