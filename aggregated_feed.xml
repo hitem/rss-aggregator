@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 16 Mar 2026 16:47:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 17:49:55 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -221,5 +221,7 @@ As a friendly reminder, all available settings for Microsoft Edge are documented
 This post focuses on two VM-level features that often introduce (or preserve) unnecessary Storage Account coupling:
 &#160;
 
-The legacy IaaS Diagnostics extension (retiring), which can write diagnostic dat...</description></item></channel>
+The legacy IaaS Diagnostics extension (retiring), which can write diagnostic dat...</description></item><item><title>New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-innovations-for-fabric-to-safely/ba-p/4502156</link><pubDate>Mon, 16 Mar 2026 17:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-innovations-for-fabric-to-safely/ba-p/4502156</guid><description>As organizations adopt AI, security and governance remain core primitives for safe AI transformation and acceleration. After all, data leaders are aware of the notion that:
+Your AI is only as good as your data.
+Organizations are skeptical about AI transformation due to concerns of sensitive data oversharing and poor data quality. In fact, 86% of organizations lack visibility into AI data flows, operating in darkness about what information employees share with AI systems&#160;[1]. Compounding on this challenge, about 67% of executives are uncomfortable using data for AI due to quality concerns [2]. ...</description></item></channel>
 </rss>
