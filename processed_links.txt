@@ -657,3 +657,5 @@
 2026-03-13T17:19:16 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-146/ba-p/4502057
 2026-03-16T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/remove-unnecessary-azure-storage-account-dependencies-in-vm/ba-p/4501380
 2026-03-16T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-innovations-for-fabric-to-safely/ba-p/4502156
+2026-03-17T16:15:45 https://techcommunity.microsoft.com/t5/microsoft-security-community/action-required-transition-from-http-data-collector-api-in/ba-p/4499777
+2026-03-17T16:47:38 https://techcommunity.microsoft.com/t5/azure-network-security-blog/detect-correlate-contain-new-azure-firewall-idps-detections-in/ba-p/4502128
