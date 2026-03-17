@@ -657,3 +657,4 @@
 2026-03-16T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-innovations-for-fabric-to-safely/ba-p/4502156
 2026-03-17T16:15:45 https://techcommunity.microsoft.com/t5/microsoft-security-community/action-required-transition-from-http-data-collector-api-in/ba-p/4499777
 2026-03-17T16:47:38 https://techcommunity.microsoft.com/t5/azure-network-security-blog/detect-correlate-contain-new-azure-firewall-idps-detections-in/ba-p/4502128
+2026-03-17T20:13:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/orchestrating-intrusion-detection-and-prevention-signature/ba-p/4502213

@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 17 Mar 2026 19:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 20:25:32 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -228,5 +228,10 @@ As threat actors continue to blend reconnaissance, exploitation, and post-compro
 See It in Action&#160;
 This short demo walks through Azure Firewall's IDPS capabilities, the new Sentinel detections, and the automated response playbook &#8212; from malicious traffic hitting the&#160;firewall&#160;to the threat being contained...</description></item><item><title>Action Required: Transition from HTTP Data Collector API in Microsoft Sentinel</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/action-required-transition-from-http-data-collector-api-in/ba-p/4499777</link><pubDate>Tue, 17 Mar 2026 16:15:45 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/action-required-transition-from-http-data-collector-api-in/ba-p/4499777</guid><description>Microsoft Sentinel continues to evolve to provide more secure, scalable, and reliable data ingestion experiences. As part of this evolution, we want to remind customers and partners of an important upcoming change that may impact custom data ingestion and integrations like detection rules, playbooks etc.
 HTTP Data Collector API will no longer be eligible for Incident Support after September 2026
-Starting September 14, 2026, connectors and tables that rely on the legacy HTTP Data Collector API will no longer be eligible for incident support in Microsoft Sentinel, consistent with Azure&#8217;s 2024 an...</description></item></channel>
+Starting September 14, 2026, connectors and tables that rely on the legacy HTTP Data Collector API will no longer be eligible for incident support in Microsoft Sentinel, consistent with Azure&#8217;s 2024 an...</description></item><item><title>Orchestrating Intrusion Detection and Prevention Signature overrides in Azure Firewall Premium</title><link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/orchestrating-intrusion-detection-and-prevention-signature/ba-p/4502213</link><pubDate>Tue, 17 Mar 2026 20:13:25 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/orchestrating-intrusion-detection-and-prevention-signature/ba-p/4502213</guid><description>Introduction: 
+Azure Firewall Premium provides strong protection with a built-in Intrusion Detection and Prevention System (IDPS). It inspects inbound, outbound, and east-west traffic against Microsoft&#8217;s continuously updated signature set and can block threats before they reach your workloads.
+IDPS works out of the box without manual intervention. However, in many environments administrators need the flexibility to override specific signatures to better align with operational or security requirements.
+Common reasons include:
+
+Compliance enforcement &#8211; enforcing policies that require certain thr...</description></item></channel>
 </rss>
