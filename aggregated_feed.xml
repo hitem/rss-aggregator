@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Mar 2026 15:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 16:49:38 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -233,5 +233,8 @@ Azure Firewall Premium provides strong protection with a built-in Intrusion Dete
 IDPS works out of the box without manual intervention. However, in many environments administrators need the flexibility to override specific signatures to better align with operational or security requirements.
 Common reasons include:
 
-Compliance enforcement &#8211; enforcing policies that require certain thr...</description></item></channel>
+Compliance enforcement &#8211; enforcing policies that require certain thr...</description></item><item><title>Turning historical patterns into actionable detection pipelines with Microsoft Sentinel data lake</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turning-historical-patterns-into-actionable-detection-pipelines/ba-p/4503126</link><pubDate>Wed, 18 Mar 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turning-historical-patterns-into-actionable-detection-pipelines/ba-p/4503126</guid><description>This article is part of the Sentinel data lake practitioner series. In part 1, we introduced the Operationalization Framework &#8212; a structured way to turn exploratory notebooks into reliable, scheduled Spark jobs within the Microsoft Sentinel data lake.
+Now in Part 2, we go from framework to function &#8212; showing how defenders can turn historical data into fresh, actionable insights using modular pipelines built around one of the most persistent threats today: Password Spray attacks.
+Why Password Spray Still Matters
+Unlike brute-force attacks that hammer one account, password spray campaigns try a ...</description></item></channel>
 </rss>
