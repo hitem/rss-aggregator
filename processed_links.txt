@@ -655,3 +655,4 @@
 2026-03-17T16:47:38 https://techcommunity.microsoft.com/t5/azure-network-security-blog/detect-correlate-contain-new-azure-firewall-idps-detections-in/ba-p/4502128
 2026-03-17T20:13:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/orchestrating-intrusion-detection-and-prevention-signature/ba-p/4502213
 2026-03-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turning-historical-patterns-into-actionable-detection-pipelines/ba-p/4503126
+2026-03-18T20:27:24 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/introducing-secret-finder-finding-real-credentials-where/ba-p/4500983
