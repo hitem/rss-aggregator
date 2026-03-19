@@ -660,3 +660,5 @@
 2026-03-19T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/aligning-ai-agent-intent-a-framework-for-secure-and-governable/ba-p/4503551
 2026-03-19T17:28:56 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-changing-role-of-low-fidelity-lofi-signals-in-the-ai-era/ba-p/4503569
 2026-03-19T17:32:06 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-the-browser-era-from-cloud-to-ai-a-blog-series-on/ba-p/4502154
+2026-03-19T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-access-in-the-age-of-ai-key-findings-from-our-2026-report/ba-p/4486060
+2026-03-19T19:23:16 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-dashboard-for-ai-now-generally-available/ba-p/4494637
