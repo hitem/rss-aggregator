@@ -657,3 +657,4 @@
 2026-03-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/turning-historical-patterns-into-actionable-detection-pipelines/ba-p/4503126
 2026-03-18T20:27:24 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/introducing-secret-finder-finding-real-credentials-where/ba-p/4500983
 2026-03-19T14:32:39 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-bastion-enterprise-grade-secure-access-made-simple/ba-p/4503833
+2026-03-19T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/aligning-ai-agent-intent-a-framework-for-secure-and-governable/ba-p/4503551
