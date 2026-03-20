@@ -667,3 +667,15 @@
 2026-03-20T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-in-microsoft-defender-to-strengthen-multi-cloud/ba-p/4503886
 2026-03-20T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/security-copilot-in-defender-empowering-the-soc-with-assistive/ba-p/4503047
 2026-03-20T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-is-now-supported-in-unified-rbac-with-row/ba-p/4503121
+2026-03-20T15:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defending-the-ai-era-new-microsoft-capabilities-to-protect-ai/ba-p/4503885
+2026-03-20T15:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/from-impersonation-calls-to-transparent-reporting-defending-the/ba-p/4503050
+2026-03-20T15:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/rsa-2026-what-s-new-in-microsoft-defender/ba-p/4503046
+2026-03-20T15:57:57 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/from-alert-overload-to-decisive-action-how-security-copilot/ba-p/4504213
+2026-03-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/redefining-identity-security-for-the-modern-enterprise/ba-p/4503129
+2026-03-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-innovations-announced-at-rsac-2026/ba-p/4502146
+2026-03-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-securing-data-and-enabling-apps-and-agents/ba-p/4503806
+2026-03-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/extending-app-assure-s-sentinel-promise-through-the-sentinel/ba-p/4503045
+2026-03-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2026-new-microsoft-sentinel-connectors-announcement/ba-p/4503042
+2026-03-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-rsac-2026/ba-p/4503971
+2026-03-20T16:01:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/agentic-use-cases-for-developers-on-the-microsoft-sentinel/ba-p/4503041
+2026-03-20T16:15:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-granular-delegated-admin-privileges-gdap-allows-sentinel/ba-p/4503123
