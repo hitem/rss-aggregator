@@ -1,8 +1,8 @@
 # RSS Aggregator - For RSS or HTML feeds
 
-Simple aggregator for **RSS** & **HTML** feeds for my own pleasure \
-You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggregator.py**. If you however are working with HTML blog posts (such as Microsoft blogs) you can instead chose to use **html_aggregator.py**.
-Note that you have the options to chose between aggregation or appending to a `aggregated_feed.xml`.
+Simple aggregator for **RSS** & **HTML** feeds - used by githubaction (Free tier) and publish the `aggregated_feed.xml` in your repo. \
+You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggregator.py**. Ive added an option for html but it has not been updated in awhile.
+Note that you have the options to chose between aggregation or appending to a `aggregated_feed.xml`. Read all the steps!
 <br>
 ```hitem```
 
@@ -63,17 +63,10 @@ permissions:
 ```
 Include as few permissions as possible needed for your project.
 
+---
 
-# Current Behavior
-Based on `append_mode = False`
-- **Script Execution:** The cron job triggers the script every hour. The script fetches and processes RSS or HTML feed entries from the last 2 hours.
-- **Link Processing:** The script writes new links to `processed_links.txt` and skips links that are already present, it also creates `aggregated_feed.xml`
-- **Ingestion:** Depending on your settings, the ingestions timer then comes around (in teams or where you have set it up) and post the links present in `aggregated_feed.xml`.  If you however use appendmode = true, then as soon as a new rss-item is added to the xml, your ingestion engine will post that new item.
-
-
-## Customizing Timing and Frequency
-
-This script is set up to collect links from Microsoft blog pages based on specific timing configurations. Here is how to customize frequenzy and how to avoid duplicates to ensure complete coverage.
+## Customizing Timing and Frequency 
+If you chose to go with appendmode=false, i recommend to have good parity for timings.
 
 ### Timing Configuration
 
@@ -98,16 +91,11 @@ time_threshold: 60 days
 Cron Job Interval: 30 days
 Ingestion Frequency: 30 days (for AppendMode = False)
 ```
-```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything. Also note that this is not true for AppendMode=True, if appendmode is active it will only ingest whatever timer you set in the py script (default 2hours), so you will not have a 365 days blobb of items added on your first run and no spam to channels will happend.
-```python
-if pub_date >= time_threshold and link not in processed_links:
-```
+```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything. 
+```Also note``` that this is not true for AppendMode=True, if appendmode is active it will only ingest whatever timer you set in the py script (default 2hours), so you will not have a 365 days blobb of items added on your first run and no spam to channels will happend.
+
 # Other
-For your own sanity, if you follow this repo or deploy your own, make sure to: \
+**For your own sanity, if you follow this repo or deploy your own, make sure to: \
 <img src="https://github.com/user-attachments/assets/e453e278-d324-45b1-9d76-f21b6c110a57" width="300"/> \
-If you run every hour it will be very chatty :)
+If you run every hour it will be very chatty :)**
 
-# Troubleshooting
-I've added an option for a secondary run in the GitHub Actions workflow file. You can uncomment this if you're experiencing a high number of skipped runs. Skipped workflows can sometimes lead to duplicate entries, depending on your ingestion mechanism. This happens because the workflow is responsible for generating the feed.xml file used in your ingestion process.
-
-If you're using append=false, enabling additional runs can help ensure parity and reduce missed updates. However, please note that this will increase the number of GitHub Actions executions, which may impact your available runner minutes—especially on the free tier, where workflows have lower priority and can be skipped during maintenance or periods of high load.
