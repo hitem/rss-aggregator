@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 23 Mar 2026 14:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 15:48:13 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -276,5 +276,9 @@ At the same time, AI agents operating with broad privileges require runtime moni
 And it&#8217;s not just chats and shared links anymore. Teams calling has emerged as a high-impact social...</description></item><item><title>Strengthening your Security Posture with Microsoft Security Store Innovations at RSAC 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/strengthening-your-security-posture-with-microsoft-security/ba-p/4504026</link><pubDate>Fri, 20 Mar 2026 17:08:25 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/strengthening-your-security-posture-with-microsoft-security/ba-p/4504026</guid><description>Security teams are facing more threats, more complexity, and more pressure to act quickly - without increasing risk or operational overhead. What matters is being able to find the right capability, deploy it safely, and use it where security work already happens.
 Microsoft Security Store was built with that goal in mind.
 It provides a single, trusted place to discover, purchase, and deploy Microsoft and partner-built security agents and solutions that extend Microsoft Security - helping you improve protection across SOC, identity, and data protection workflows.
-Today, the Security Store includ...</description></item></channel>
+Today, the Security Store includ...</description></item><item><title>What Changed in RC4 with the January 2026 Windows Update and Why it is Important</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-changed-in-rc4-with-the-january-2026-windows-update-and-why/ba-p/4504732</link><pubDate>Mon, 23 Mar 2026 14:08:21 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-changed-in-rc4-with-the-january-2026-windows-update-and-why/ba-p/4504732</guid><description>In case you haven&#8217;t heard, RC4 is not secure and has been deprecated. In this article, I will discuss what changed with the January 2026 Windows Update and why it is important to start auditing and remediate RC4 usage is your environment.
+Starting with the&#160;January 13, 2026, Windows security updates, Microsoft began the first official phase of&#160;hardening Kerberos authentication by reducing reliance on RC4 encryption. The RC4 change will mainly impact service accounts and accounts that have the attribute&#160;msDS-SupportedEncryptionTypes&#160;left blank.
+&#160;
+Why Microsoft Is Targeting RC4
+RC4&#160;is considered ...</description></item></channel>
 </rss>

@@ -674,3 +674,4 @@
 2026-03-20T16:01:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/agentic-use-cases-for-developers-on-the-microsoft-sentinel/ba-p/4503041
 2026-03-20T16:15:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-granular-delegated-admin-privileges-gdap-allows-sentinel/ba-p/4503123
 2026-03-20T17:08:25 https://techcommunity.microsoft.com/t5/microsoft-security-community/strengthening-your-security-posture-with-microsoft-security/ba-p/4504026
+2026-03-23T14:08:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-changed-in-rc4-with-the-january-2026-windows-update-and-why/ba-p/4504732
