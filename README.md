@@ -66,7 +66,6 @@ Include as few permissions as possible needed for your project.
 ---
 
 ## Customizing Timing and Frequency 
-If you chose to go with appendmode=false, i recommend to have good parity for timings.
 
 ### Timing Configuration
 
