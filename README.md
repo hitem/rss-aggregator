@@ -1,8 +1,8 @@
 # RSS Aggregator - For RSS or HTML feeds
 
 Simple aggregator for **RSS** & **HTML** feeds - used by githubaction (Free tier) and publish the `aggregated_feed.xml` in your repo. \
-You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggregator.py**. Ive added an option for html but it has not been updated in awhile.
-Note that you have the options to chose between aggregation or appending to a `aggregated_feed.xml`. Read all the steps!
+You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggregator.py**. (there is also a html parser option). \
+`Note` that you have the options to chose between aggregation or appending to a `aggregated_feed.xml`. Read all the steps!
 <br>
 ```hitem```
 
@@ -91,7 +91,7 @@ time_threshold: 60 days
 Cron Job Interval: 30 days
 Ingestion Frequency: 30 days (for AppendMode = False)
 ```
-```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything. 
+```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything. \
 ```Also note``` that this is not true for AppendMode=True, if appendmode is active it will only ingest whatever timer you set in the py script (default 2hours), so you will not have a 365 days blobb of items added on your first run and no spam to channels will happend.
 
 # Other
