@@ -1,17 +1,3 @@
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-innovations-to-protect-custom-ai-applications-with-defender/ba-p/4396277
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-with-microsoft-defender-xdr-at-secure-2025/ba-p/4390817
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/accelerate-data-security-investigations-with-ai-powered-deep/ba-p/4396099
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/announcing-alert-triage-agents-in-microsoft-purview-powered-by/ba-p/4396041
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/building-layered-protection-new-microsoft-purview-data-security/ba-p/4395071
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/enhance-ai-security-and-governance-across-multi-model-and-multi/ba-p/4395593
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/mitigating-insider-risks-in-the-age-of-ai-with-microsoft-purview/ba-p/4396057
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/prevent-data-loss-across-your-ever-expanding-data-estate-with/ba-p/4396095
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/protecting-sensitive-information-in-the-era-of-ai-with-microsoft/ba-p/4395541
-2025-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/strengthen-data-security-posture-in-the-era-of-ai-with-microsoft/ba-p/4396096
-2025-03-24T16:00:34 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-threat-intelligence-briefing-agent/ba-p/4390821
-2025-03-24T16:08:04 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced/ba-p/4395997
-2025-03-24T16:34:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-microsoft-defender-xdr-at-secure-2025/ba-p/4390817
-2025-03-24T16:36:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/all-key-vaults-are-critical-but-some-are-more-critical-than/ba-p/4396706
 2025-03-24T17:23:01 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-capabilities-coming-to-microsoft-sentinel-this-spring/ba-p/4390357
 2025-03-25T08:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-how-to-create-overrides-for-log-search-alerts/ba-p/4396686
 2025-03-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4396765
@@ -672,3 +658,5 @@
 2026-03-20T16:15:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-granular-delegated-admin-privileges-gdap-allows-sentinel/ba-p/4503123
 2026-03-20T17:08:25 https://techcommunity.microsoft.com/t5/microsoft-security-community/strengthening-your-security-posture-with-microsoft-security/ba-p/4504026
 2026-03-23T14:08:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-changed-in-rc4-with-the-january-2026-windows-update-and-why/ba-p/4504732
+2026-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/external-mfa-in-microsoft-entra-id-is-now-generally-available/ba-p/4488926
+2026-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-resilience-recover-with-confidence-using/ba-p/4462426
