@@ -1,4 +1,3 @@
-2025-03-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4396765
 2025-03-25T17:21:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/mastering-regex-with-github-copilot-for-enhanced-azure-waf/ba-p/4397023
 2025-03-27T02:50:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-entra-hr-and-inbound-provisioning-world-s-best-boss/ba-p/4397769
 2025-03-27T13:12:24 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-organization-from-ingressnightmare-using-microsoft/ba-p/4397844
@@ -658,3 +657,4 @@
 2026-03-23T14:08:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-changed-in-rc4-with-the-january-2026-windows-update-and-why/ba-p/4504732
 2026-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/external-mfa-in-microsoft-entra-id-is-now-generally-available/ba-p/4488926
 2026-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-resilience-recover-with-confidence-using/ba-p/4462426
+2026-03-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-tenant-governance-secure-and-manage-multi-tenant/ba-p/4462427
