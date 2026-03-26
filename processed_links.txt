@@ -658,3 +658,4 @@
 2026-03-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-resilience-recover-with-confidence-using/ba-p/4462426
 2026-03-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-tenant-governance-secure-and-manage-multi-tenant/ba-p/4462427
 2026-03-26T15:36:26 https://techcommunity.microsoft.com/t5/azure-network-security-blog/assess-azure-ddos-protection-status-across-your-environment/ba-p/4505969
+2026-03-26T17:46:34 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolving-identity-security-how-the-conditional-access/ba-p/4488927

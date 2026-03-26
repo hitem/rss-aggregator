@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Mar 2026 16:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:49:58 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -288,5 +288,7 @@ Many of these shadow tenants may lack critical controls like MFA, Conditional Ac
 Distributed Denial of Service (DDoS) attacks continue to be one of the most prevalent threats facing organizations with internet-facing workloads. Azure DDoS Protection provides cloud-scale protection against L3/4 volumetric attacks, helping ensure your applications remain available during an attack.
 However, as Azure environments grow, maintaining visibility into which resources are protected and whether diagnostic logging is properly configured becomes increasingly challenging. Security teams often struggle to answer basic questions:
 
-Which Public IP addresses are protected by A...</description></item></channel>
+Which Public IP addresses are protected by A...</description></item><item><title>Evolving Identity Security: How the Conditional Access Optimization Agent Helps You Adapt</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolving-identity-security-how-the-conditional-access/ba-p/4488927</link><pubDate>Thu, 26 Mar 2026 17:46:34 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/evolving-identity-security-how-the-conditional-access/ba-p/4488927</guid><description>Organizations are expanding Zero Trust across more users, applications, and now a growing population of AI agent identities, making it even more challenging to maintain visibility and control at scale. As environments grow more complex and change daily, static best-practice approaches can&#8217;t keep up. Security teams are left trying to reason across dozens of access policies, shifting conditions, and evolving risks, often without clear visibility into where gaps exist.
+That&#8217;s exactly what we&#8217;re hearing from customers.
+&#8220;The recommendations are great, but they don&#8217;t always match how our organizatio...</description></item></channel>
 </rss>
