@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 27 Mar 2026 14:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 15:38:01 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -295,5 +295,7 @@ A single compromised publisher can turn one bad update into a broad incident. In
 Register now for the Azure Decoded session on April 8th at 12 PM PST.
 Bringing AI security architecture to life with Azure Decoded
 In the Lockdown AI workloads with Microsoft Defender for Cloud session, we move from concepts to implementation and show how these protections appear in the platform.
-We&#8217;...</description></item></channel>
+We&#8217;...</description></item><item><title>Crawl, Walk, Run: A Practitioner's Guide to AI Maturity in the SOC</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/crawl-walk-run-a-practitioner-s-guide-to-ai-maturity-in-the-soc/ba-p/4500433</link><pubDate>Fri, 27 Mar 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/crawl-walk-run-a-practitioner-s-guide-to-ai-maturity-in-the-soc/ba-p/4500433</guid><description>Before You Crawl: Know Your Starting Point
+Before introducing AI, it helps to have honest answers to a few foundational questions. What are the current mean-time-to-detect and mean-time-to-respond benchmarks? What percentage of alerts are false positives? How many analyst hours does a typical investigation consume?
+To be clear, having perfect metrics is not a prerequisite for getting started. Waiting for a pristine environment before touching AI means many organizations will never start at all. The SANS 2025 SOC Survey found that the majority of SOCs lack formal metrics programs, and CardinalO...</description></item></channel>
 </rss>
