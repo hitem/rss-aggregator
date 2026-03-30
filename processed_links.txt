@@ -655,3 +655,4 @@
 2026-03-26T21:23:44 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-ai-workloads-in-azure-join-our-next-azure-decoded-session/ba-p/4504207
 2026-03-26T21:32:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-manual-vetting-to-continuous-trust-automating-publisher/ba-p/4505695
 2026-03-27T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/crawl-walk-run-a-practitioner-s-guide-to-ai-maturity-in-the-soc/ba-p/4500433
+2026-03-30T12:43:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/implementing-intune-rbac-and-scope-tags-for-zero-trust-and-least/ba-p/4506889
