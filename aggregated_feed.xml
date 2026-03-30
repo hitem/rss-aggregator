@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Mar 2026 19:44:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 20:31:07 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -307,5 +307,12 @@ Track outcomes (...</description></item><item><title>Breached in 86 seconds: How
 In the not-so distant past, breach timelines were measured in hours or days. Although still the norm, times are changing &#8211; quickly.
 The one we reconstructed from AKS telemetry took 86 seconds. From the time a malicious package landed inside an inference pod to the second identity credentials left the cluster took less time than reheating cold coffee in a microwave. No CVE. No container escape. Just trust, abused at runtime.&#160;
 
-NOTE: When you reach the end of this blog post, please see S.T.A.R. Episode 7 wh...</description></item></channel>
+NOTE: When you reach the end of this blog post, please see S.T.A.R. Episode 7 wh...</description></item><item><title>Using AI Agents to Protect Services from Zero-Day Attacks</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/using-ai-agents-to-protect-services-from-zero-day-attacks/ba-p/4505648</link><pubDate>Mon, 30 Mar 2026 19:56:23 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/using-ai-agents-to-protect-services-from-zero-day-attacks/ba-p/4505648</guid><description>Service-hosting machines are typically highly managed and more controlled than end-user devices. Deployments and updates are closely monitored, changes are tested, releases are staged, and change-management reviews help limit unexpected modifications. Even so, services can still be vulnerable to zero-day attacks triggered by software bugs, race conditions, weaknesses in dependencies, or misconfigurations. Detecting and responding to exploitation of unknown vulnerabilities is inherently difficult.
+This approach helps detect suspicious activity that may indicate exploitation of unknown vulnerabi...</description></item><item><title>Check This Out! (CTO!) Guide (March 2026)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-march-2026/ba-p/4506999</link><pubDate>Mon, 30 Mar 2026 18:45:30 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-march-2026/ba-p/4506999</guid><description>Member: TysonPaul | Microsoft Community Hub
+
+Automating Large&#8209;Scale Data Management with Azure Storage Actions
+Team Blog: ITOps Talk
+Author: 1Nataraj
+Published: 02/25/2026
+Summary: Azure Storage Actions is a fully managed, serverless automation platform that simplifies large-scale data management in Azure Blob and Data Lake Storage. It enables users to automate tasks such as tagging, tiering, deletion, and applying immutability based on customizable conditions&#8212;without custom code or infrastructure. Administrators can centrally define tasks and assign them across multiple storage accounts, with...</description></item></channel>
 </rss>
