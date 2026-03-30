@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Mar 2026 15:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:46:13 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -303,5 +303,9 @@ Use Intune RBAC to align admin permissions to job responsibilities, reducing sta
 Use Scope Tags to create visibility/management boundaries (region, agency, environment) so admins only see and manage what they own.
 Pair Intune compliance + Entra Conditional Access to enforce &#8220;access only from compliant devices / protected apps,&#8221; which supports a Zero Trust posture.
 Establish a RACI model so ownership is explicit across Endpoint, Identity, Security, Apps, AD, Help Desk, and Compliance teams.
-Track outcomes (...</description></item></channel>
+Track outcomes (...</description></item><item><title>Breached in 86 seconds: How AI Workloads Become Credential Dispensers</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/breached-in-86-seconds-how-ai-workloads-become-credential/ba-p/4500644</link><pubDate>Mon, 30 Mar 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/breached-in-86-seconds-how-ai-workloads-become-credential/ba-p/4500644</guid><description>Co-authors: Avi Sharma &amp; Diwas Sedai&#160;- Security&#8239;Researchers, Microsoft Defender for Cloud
+In the not-so distant past, breach timelines were measured in hours or days. Although still the norm, times are changing &#8211; quickly.
+The one we reconstructed from AKS telemetry took 86 seconds. From the time a malicious package landed inside an inference pod to the second identity credentials left the cluster took less time than reheating cold coffee in a microwave. No CVE. No container escape. Just trust, abused at runtime.&#160;
+
+NOTE: When you reach the end of this blog post, please see S.T.A.R. Episode 7 wh...</description></item></channel>
 </rss>
