@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 30 Mar 2026 21:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 22:21:09 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -314,5 +314,8 @@ Automating Large&#8209;Scale Data Management with Azure Storage Actions
 Team Blog: ITOps Talk
 Author: 1Nataraj
 Published: 02/25/2026
-Summary: Azure Storage Actions is a fully managed, serverless automation platform that simplifies large-scale data management in Azure Blob and Data Lake Storage. It enables users to automate tasks such as tagging, tiering, deletion, and applying immutability based on customizable conditions&#8212;without custom code or infrastructure. Administrators can centrally define tasks and assign them across multiple storage accounts, with...</description></item></channel>
+Summary: Azure Storage Actions is a fully managed, serverless automation platform that simplifies large-scale data management in Azure Blob and Data Lake Storage. It enables users to automate tasks such as tagging, tiering, deletion, and applying immutability based on customizable conditions&#8212;without custom code or infrastructure. Administrators can centrally define tasks and assign them across multiple storage accounts, with...</description></item><item><title>Accelerate connectors development using AI agent in Microsoft Sentinel</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerate-connectors-development-using-ai-agent-in-microsoft/ba-p/4507019</link><pubDate>Mon, 30 Mar 2026 21:37:11 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerate-connectors-development-using-ai-agent-in-microsoft/ba-p/4507019</guid><description>Today,&#160;we&#8217;re&#160;excited to announce the public preview of a&#160;Sentinel connector builder agent, via VS code extension,&#160;that helps developers build Microsoft Sentinel codeless connectors faster&#160;with low-code and AI-assisted prompts.&#160;This new capability brings guided&#160;workflows directly into the tooling developers already use, helping accelerate time to value as the Sentinel ecosystem continues to grow. Learn more at&#160;Create custom connectors using Sentinel connector AI agent
+
+Why this matters&#160;
+As the Microsoft Sentinel ecosystem continues to expand, developers are increasingly tasked with delivering h...</description></item></channel>
 </rss>
