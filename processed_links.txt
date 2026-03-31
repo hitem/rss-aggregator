@@ -660,3 +660,4 @@
 2026-03-30T18:45:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-march-2026/ba-p/4506999
 2026-03-30T19:56:23 https://techcommunity.microsoft.com/t5/microsoft-security-community/using-ai-agents-to-protect-services-from-zero-day-attacks/ba-p/4505648
 2026-03-30T21:37:11 https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerate-connectors-development-using-ai-agent-in-microsoft/ba-p/4507019
+2026-03-31T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-quality-thresholds-more-control-more/ba-p/4506546
