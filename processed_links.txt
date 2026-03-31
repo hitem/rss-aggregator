@@ -659,3 +659,4 @@
 2026-03-30T21:37:11 https://techcommunity.microsoft.com/t5/microsoft-security-community/accelerate-connectors-development-using-ai-agent-in-microsoft/ba-p/4507019
 2026-03-31T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-quality-thresholds-more-control-more/ba-p/4506546
 2026-03-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/a-microsoft-fte-s-reflections-from-mvp-summit-2026-deep-insights/ba-p/4506986
+2026-03-31T18:38:08 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/from-vulnerability-fatigue-to-action-how-skf-operationalized/ba-p/4495271
