@@ -659,3 +659,4 @@
 2026-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-public-preview-of-custom-graphs-in-microsoft-sentinel/ba-p/4507410
 2026-04-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-infostealers-macos-threats/ba-p/4494435
 2026-04-01T16:27:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/driving-devsecops-standards-nist-s-live-guidelines-for-secure/ba-p/4507781
+2026-04-01T19:28:30 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-third-party-connector-integrating-claude-with-microsoft/ba-p/4507013
