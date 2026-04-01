@@ -658,3 +658,4 @@
 2026-03-31T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-data-quality-thresholds-more-control-more/ba-p/4506546
 2026-03-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/a-microsoft-fte-s-reflections-from-mvp-summit-2026-deep-insights/ba-p/4506986
 2026-03-31T18:38:08 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/from-vulnerability-fatigue-to-action-how-skf-operationalized/ba-p/4495271
+2026-04-01T08:08:13 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-database-security-newsletter-april-2026/ba-p/4507226
