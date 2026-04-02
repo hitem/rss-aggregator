@@ -660,3 +660,4 @@
 2026-04-02T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/part-3-dspm-for-ai-governing-data-risk-in-an-agent-driven/ba-p/4507841
 2026-04-02T20:40:48 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-expands-scim-support-with-new-scim-2-0-apis-for/ba-p/4507465
 2026-04-02T20:43:28 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4508180
+2026-04-02T21:37:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-agent-development-hacks-for-building-with-microsoft/ba-p/4503039
