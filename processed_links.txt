@@ -1,4 +1,3 @@
-2025-04-02T19:40:09 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-collaborates-with-delinea-to-offer-cloud/ba-p/4400198
 2025-04-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/tech-accelerator-azure-security-and-ai-adoption/ba-p/4400344
 2025-04-03T18:09:51 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-azure-resource-diagnostics-log-forwarding-between/ba-p/4395966
 2025-04-04T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2025/ba-p/4352581
