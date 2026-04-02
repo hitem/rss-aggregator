@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 Apr 2026 20:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 21:23:51 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -353,5 +353,9 @@ Deviates from its defined behavior or business intent
 Bypasses built&#8209;in guardrails, policies, or safety controls
 Misuses tools, APIs, or granted privileges
 Leaks or exfiltrates sensitive or regulated data
-Is manipulated by maliciou...</description></item></channel>
+Is manipulated by maliciou...</description></item><item><title>Microsoft Defender for Cloud Customer Newsletter</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4508180</link><pubDate>Thu, 02 Apr 2026 20:43:28 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4508180</guid><description>What's new in Defender for Cloud?
+
+Kubernetes gated deployment is now generally available for AKS automatic clusters. Use help to deploy the Defender for Containers sensor to use this feature. More information can be found here.&#160;
+Grouped recommendations are converted into individual ones to list each finding separately. While grouped recommendations are still available, new individual recommendations are now marked as preview and are not yet part of the Secure Score. This new format will allow for better prioritization, actionable context and better governance and tracking. For more details, p...</description></item><item><title>Microsoft Entra expands SCIM support with new SCIM 2.0 APIs for identity lifecycle operations</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-expands-scim-support-with-new-scim-2-0-apis-for/ba-p/4507465</link><pubDate>Thu, 02 Apr 2026 20:40:48 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-expands-scim-support-with-new-scim-2-0-apis-for/ba-p/4507465</guid><description>Modern organizations rely on a growing ecosystem of applications, platforms, and services to run their business. Managing users and groups consistently across these systems is essential for security and operational efficiency. Many teams rely on the System for Cross-domain Identity Management (SCIM) standard to maintain predictable integrations, reduce custom provisioning work, and simplify lifecycle tasks across their environment.
+Microsoft Entra has long supported SCIM&#8209;based provisioning to SaaS applications and API&#8209;driven inbound provisioning from HR systems. Today, we&#8217;re extending our supp...</description></item></channel>
 </rss>

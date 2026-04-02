@@ -658,3 +658,5 @@
 2026-04-02T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/part-1-understanding-agent-abuse-patterns-designing-secure-ai/ba-p/4507832
 2026-04-02T15:15:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/part-2-securing-ai-agents-with-azure-ai-foundry-from-abuse/ba-p/4507836
 2026-04-02T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/part-3-dspm-for-ai-governing-data-risk-in-an-agent-driven/ba-p/4507841
+2026-04-02T20:40:48 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-expands-scim-support-with-new-scim-2-0-apis-for/ba-p/4507465
+2026-04-02T20:43:28 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4508180
