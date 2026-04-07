@@ -654,3 +654,4 @@
 2026-04-02T21:37:47 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-agent-development-hacks-for-building-with-microsoft/ba-p/4503039
 2026-04-06T22:28:06 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-new-microsoft-sentinel-logstash-output-plugin/ba-p/4508904
 2026-04-07T08:57:37 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2026/ba-p/4508050
+2026-04-07T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-uros-babic/ba-p/4508948
