@@ -656,3 +656,4 @@
 2026-04-07T08:57:37 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-april-2026/ba-p/4508050
 2026-04-07T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-uros-babic/ba-p/4508948
 2026-04-07T16:32:22 https://techcommunity.microsoft.com/t5/microsoft-security-community/authorization-and-governance-for-ai-agents-runtime-authorization/ba-p/4509161
+2026-04-07T22:49:29 https://techcommunity.microsoft.com/t5/microsoft-security-community/registration-open-community-led-purview-lightning-talks/ba-p/4505665
