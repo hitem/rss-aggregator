@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 09 Apr 2026 14:45:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:08:28 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -377,5 +377,9 @@ Audit each use of a FIDO2 security key on a Windows client device
 Track all PIN verification attempts on the security key, including both successful and unsuccessful attempts
 Determine which user successfully authenticated to a Windows device using a FIDO2 security key
 
-While standard Wind...</description></item></channel>
+While standard Wind...</description></item><item><title>Security Review for Microsoft Edge version 147</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-147/ba-p/4509974</link><pubDate>Thu, 09 Apr 2026 14:56:23 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-147/ba-p/4509974</guid><description>We have reviewed the new settings in Microsoft Edge version 147 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 139 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 147 introduced 9 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
+&#160;
+Version 147 introduced the Control the availability of the XSLT feature policy (XSLTEnabled). This policy exists t...</description></item></channel>
 </rss>
