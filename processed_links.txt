@@ -656,3 +656,4 @@
 2026-04-09T16:19:33 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/as-ai-adoption-scales-is-your-access-strategy-still-viable/ba-p/4486060
 2026-04-09T22:26:18 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/estimate-microsoft-sentinel-costs-with-confidence-using-the-new/ba-p/4507062
 2026-04-10T11:43:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multicloud-azure-aws-gcp-with-microsoft-defender-for/ba-p/4508563
+2026-04-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-microsoft-intune-logs-into-microsoft-sentinel/ba-p/4508562
