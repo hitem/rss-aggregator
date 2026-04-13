@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Apr 2026 04:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:05:22 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -398,5 +398,7 @@ Brandon here, back once again to talk to you about a couple of new offerings tha
 Hyper-V - Implementation, Migration, and Management
 Azure Local - Implementation, Migration, and Management
 
-NOTE: These offerings do not provide hands on keyboard support, do not create custom documentatio...</description></item></channel>
+NOTE: These offerings do not provide hands on keyboard support, do not create custom documentatio...</description></item><item><title>Microsoft Defender for Endpoint (MDE) &#8212; Custom Role Design for Troubleshooting Mode&#8211;Only Access</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-custom-role-design-for/ba-p/4510646</link><pubDate>Mon, 13 Apr 2026 05:43:59 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-custom-role-design-for/ba-p/4510646</guid><description>1) Introduction&#160;
+In customer environments, Security Operations (SOC) teams and Windows infrastructure teams frequently need to investigate endpoint issues in the Microsoft Defender for Endpoint portal&#8212;often under time pressure&#8212;while still preserving strong governance over who can change security controls.
+Because Troubleshooting Mode can enable temporary modification of Defender Antivirus settings even when devices are governed by organizational policies (for example, when policy protections are in place using Tamper protection settings), granting this capability broadly can introduce configur...</description></item></channel>
 </rss>

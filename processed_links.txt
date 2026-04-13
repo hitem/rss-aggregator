@@ -657,3 +657,4 @@
 2026-04-10T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-ingest-microsoft-intune-logs-into-microsoft-sentinel/ba-p/4508562
 2026-04-12T19:55:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-azure-local-implementation-migration-and/ba-p/4510593
 2026-04-12T19:56:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-hyper-v-implementation-migration-and/ba-p/4510592
+2026-04-13T05:43:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-custom-role-design-for/ba-p/4510646
