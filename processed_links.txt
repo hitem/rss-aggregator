@@ -658,3 +658,6 @@
 2026-04-12T19:55:01 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-azure-local-implementation-migration-and/ba-p/4510593
 2026-04-12T19:56:14 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-hyper-v-implementation-migration-and/ba-p/4510592
 2026-04-13T05:43:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-custom-role-design-for/ba-p/4510646
+2026-04-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-key-vault-hsm-platform-one-retirement-what-purview-byok/ba-p/4510371
+2026-04-13T16:57:02 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-external-users-can-t-open-encrypted-attachments-in-certain/ba-p/4510644
+2026-04-13T16:57:20 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-public-preview-security-copilot-s-email-summary-in/ba-p/4510357

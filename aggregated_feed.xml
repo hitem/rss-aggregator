@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Apr 2026 16:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:47:16 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -400,5 +400,24 @@ Azure Local - Implementation, Migration, and Management
 
 NOTE: These offerings do not provide hands on keyboard support, do not create custom documentatio...</description></item><item><title>Microsoft Defender for Endpoint (MDE) &#8212; Custom Role Design for Troubleshooting Mode&#8211;Only Access</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-custom-role-design-for/ba-p/4510646</link><pubDate>Mon, 13 Apr 2026 05:43:59 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-defender-for-endpoint-mde-custom-role-design-for/ba-p/4510646</guid><description>1) Introduction&#160;
 In customer environments, Security Operations (SOC) teams and Windows infrastructure teams frequently need to investigate endpoint issues in the Microsoft Defender for Endpoint portal&#8212;often under time pressure&#8212;while still preserving strong governance over who can change security controls.
-Because Troubleshooting Mode can enable temporary modification of Defender Antivirus settings even when devices are governed by organizational policies (for example, when policy protections are in place using Tamper protection settings), granting this capability broadly can introduce configur...</description></item></channel>
+Because Troubleshooting Mode can enable temporary modification of Defender Antivirus settings even when devices are governed by organizational policies (for example, when policy protections are in place using Tamper protection settings), granting this capability broadly can introduce configur...</description></item><item><title>Announcing Public Preview: Security Copilot&#8217;s Email Summary in Microsoft Defender</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-public-preview-security-copilot-s-email-summary-in/ba-p/4510357</link><pubDate>Mon, 13 Apr 2026 16:57:20 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-public-preview-security-copilot-s-email-summary-in/ba-p/4510357</guid><description>Co-Authors: Christina Da Gama Henriquez and Ajaj Shaikh
+AI is rapidly reshaping both sides of the security landscape, and email remains one of the most common and complex entry points for attacks. As adversaries use AI to scale more sophisticated phishing and email-based threats, defenders are under pressure not just to detect them, but to quickly understand what actually happened. Microsoft continues to apply generative and agentic AI across the email protection stack to help stop threats before they reach the inbox and catch what inevitably gets through in the SOC. Still, for security analys...</description></item><item><title>Why External Users Can&#8217;t Open Encrypted Attachments in Certain Conditions &amp; How to Fix It Securely</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/why-external-users-can-t-open-encrypted-attachments-in-certain/ba-p/4510644</link><pubDate>Mon, 13 Apr 2026 16:57:02 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/why-external-users-can-t-open-encrypted-attachments-in-certain/ba-p/4510644</guid><description>When Conditional Access policies enforce MFA across all cloud apps and include external users, encrypted attachments may require additional considerations. This post explains why.
+This behavior applies only in environments where all of the following are true:
+
+Microsoft Purview encryption is used for emails and attachments
+A Conditional Access (CA) policy is configured to:
+
+Require MFA
+Apply to all cloud applications
+Include guest or external users
+
+
+The Situation: Email Opens, Attachment Doesn&#8217;t
+When an email is encrypted using:
+
+Microsoft Purview Sensitivity Labels, or
+Information Rights Man...</description></item><item><title>Azure Key Vault HSM Platform One Retirement: What Purview BYOK Customers Need to Know</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-key-vault-hsm-platform-one-retirement-what-purview-byok/ba-p/4510371</link><pubDate>Mon, 13 Apr 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-key-vault-hsm-platform-one-retirement-what-purview-byok/ba-p/4510371</guid><description>What is changing?
+In early 2024, Azure Key Vault introduced a modernized hardware security module (HSM) platform based on FIPS 140-2 Level 3 certified HSMs. As part of this evolution, the legacy HSM Platform One will be retired on September 15, 2028. Many Information Protection customers who use BYOK today rely on this legacy platform.
+Why this matters for BYOK customers
+BYOK configurations for Information Protection require that the tenant root key is stored in Azure Key Vault. Azure Key Vault does not support exporting keys once imported. &#160;In short, affected customers will need to migrate th...</description></item></channel>
 </rss>
