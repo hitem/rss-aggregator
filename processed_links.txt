@@ -658,3 +658,4 @@
 2026-04-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-key-vault-hsm-platform-one-retirement-what-purview-byok/ba-p/4510371
 2026-04-13T16:57:02 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-external-users-can-t-open-encrypted-attachments-in-certain/ba-p/4510644
 2026-04-13T16:57:20 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-public-preview-security-copilot-s-email-summary-in/ba-p/4510357
+2026-04-14T16:11:29 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-data-federation-expand-visibility-while/ba-p/4511258
