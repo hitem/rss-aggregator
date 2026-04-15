@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Apr 2026 15:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:49:08 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -427,5 +427,15 @@ Use the steps outlined in the&#160;Identify and Remediate Credentials article to
 This workbook transforms credential leakage detection into a measurable, executive-ready capability.
 
 End&#8209;to&#8209;end situational awareness: Correlates alerts across workloads, departments, credential types, and users to surface material exposure quickly.
-Actionable triage &amp; forensics: Drill...</description></item></channel>
+Actionable triage &amp; forensics: Drill...</description></item><item><title>Hunting Infostealers - Trusted Platform Abuse</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-infostealers-trusted-platform-abuse/ba-p/4505343</link><pubDate>Wed, 15 Apr 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-infostealers-trusted-platform-abuse/ba-p/4505343</guid><description>In this part of the &#8220;Hunting Infostealers&#8221; series, we explore the growing abuse of trusted communication services and software ecosystems&#8212;including messaging platforms like WhatsApp and seemingly benign PDF converter tools&#8212;to propagate malware and deploy credential stealers such as Eternidade Stealer, lowering user suspicion and complicating detection. Throughout the blog, we map observed activity to Microsoft Defender XDR coverage and provide actionable guidance to help organizations detect, mitigate, and respond to infostealers.
+Platform Abuse (WhatsApp, PDF Converters)Since late 2025, Platf...</description></item><item><title>Enterprise Cybersecurity in the Age of AI: Why Legacy Security Is Failing as Attackers Move Faster</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/enterprise-cybersecurity-in-the-age-of-ai-why-legacy-security-is/ba-p/4511187</link><pubDate>Wed, 15 Apr 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/enterprise-cybersecurity-in-the-age-of-ai-why-legacy-security-is/ba-p/4511187</guid><description>Cybersecurity has always been an asymmetric game. But with the rise of AI&#8209;enabled attacks, that imbalance has widened dramatically.
+Microsoft Threat Intelligence and Microsoft Defender Security Research have publicly reported a clear shift in how attackers operate: AI is now being embedded across the entire attack lifecycle. Threat actors are using it to accelerate reconnaissance, generate highly targeted phishing at scale, automate infrastructure, and adapt their techniques in real time - reducing the time and effort required to move from initial access to impact.
+In recent months, Microsoft ...</description></item><item><title>What&#8217;s new in Microsoft Entra &#8211; March 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2026/ba-p/4502150</link><pubDate>Wed, 15 Apr 2026 15:57:21 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-march-2026/ba-p/4502150</guid><description>From January through March 2026, Microsoft Entra introduced key updates to help organizations strengthen identity security, simplify governance, and improve user experience. This Q1 roundup highlights the latest feature releases and important changes&#8212;organized by product&#8212;so you can quickly see what&#8217;s new, what&#8217;s changing, and what actions you may need to take.
+Microsoft Entra ID
+New releases
+
+Synced passkeys in Microsoft Entra ID
+Passkey profiles in Microsoft Entra ID
+Microsoft Single Sign-On for Linux support for authenticating with Phish-Resistant MFA credentials
+Improved readability for Aut...</description></item></channel>
 </rss>
