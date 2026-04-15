@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 15 Apr 2026 16:49:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:55:48 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -437,5 +437,8 @@ New releases
 Synced passkeys in Microsoft Entra ID
 Passkey profiles in Microsoft Entra ID
 Microsoft Single Sign-On for Linux support for authenticating with Phish-Resistant MFA credentials
-Improved readability for Aut...</description></item></channel>
+Improved readability for Aut...</description></item><item><title>Security Community Spotlight: Fabr&#237;cio Assump&#231;&#227;o</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/security-community-spotlight-fabr%C3%ADcio-assump%C3%A7%C3%A3o/ba-p/4511342</link><pubDate>Wed, 15 Apr 2026 17:13:44 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/security-community-spotlight-fabr%C3%ADcio-assump%C3%A7%C3%A3o/ba-p/4511342</guid><description>
+Meet Fabr&#237;cio Assump&#231;&#227;o, a Technical Specialist Architect for a Microsoft Security and Compliance Certified Partner, based in Brazil. Fabr&#237;cio considers his involvement with the Microsoft Security Community defined by a dual approach: architectural innovation and technical enablement. As a Microsoft Certified Trainer (MCT) since 2021, he has been dedicated to bridging the gap between theory and real-world implementation for security professionals globally.
+What do you find most rewarding about being a member of the Microsoft Security Community?
+The most rewarding part of being a member of the...</description></item></channel>
 </rss>
