@@ -659,3 +659,4 @@
 2026-04-13T16:57:20 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-public-preview-security-copilot-s-email-summary-in/ba-p/4510357
 2026-04-14T16:11:29 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-data-federation-expand-visibility-while/ba-p/4511258
 2026-04-14T17:15:33 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/running-kql-queries-on-microsoft-sentinel-data-lake-using-api/ba-p/4503128
+2026-04-15T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/credential-exposure-risk-response-workbook/ba-p/4511172
