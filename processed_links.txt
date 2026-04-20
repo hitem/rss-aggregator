@@ -659,3 +659,5 @@
 2026-04-15T18:34:46 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/when-the-shield-becomes-the-sword-how-misconfigured-pam-bridges/ba-p/4509392
 2026-04-15T20:26:56 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enforce-cost-limits-on-kql-queries-and-notebooks-in-the/ba-p/4511329
 2026-04-17T12:10:31 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/maintaining-azure-public-ip-inventory-by-retrieving-exact/ba-p/4512403
+2026-04-20T16:31:29 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-uk-enterprise-cybersecurity-is-failing-in-2026-and-what/ba-p/4511187
+2026-04-20T16:55:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/detecting-plain-text-password-exposure-using-custom-regex-in/ba-p/4513022

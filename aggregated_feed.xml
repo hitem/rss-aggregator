@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 20 Apr 2026 15:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:01:18 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -452,5 +452,8 @@ The Public IP resource no longer exists&#160;
 The Resource ID cannot be resolved&#160;
 
 
-The assigned Public IP address is permanently unretrievable throug...</description></item></channel>
+The assigned Public IP address is permanently unretrievable throug...</description></item><item><title>Detecting Plain&#8209;Text Password Exposure Using Custom Regex in Microsoft Purview</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/detecting-plain-text-password-exposure-using-custom-regex-in/ba-p/4513022</link><pubDate>Mon, 20 Apr 2026 16:55:05 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/detecting-plain-text-password-exposure-using-custom-regex-in/ba-p/4513022</guid><description>Strong authentication controls like MFA significantly reduce account compromise &#8212; but they don&#8217;t eliminate the risk of password exposure.In many organizations, users still interact with legacy systems, third&#8209;party tools, or service accounts that rely on password&#8209;only authentication. When those credentials are shared or stored in plain text &#8212; whether accidentally or out of convenience &#8212; they introduce a serious security risk.
+Microsoft Purview helps organizations identify and protect sensitive information using Sensitive Information Types (SITs). While built&#8209;in detections provide a solid founda...</description></item><item><title>Why UK Enterprise Cybersecurity Is Failing in 2026 (And What Leaders Must Change)</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/why-uk-enterprise-cybersecurity-is-failing-in-2026-and-what/ba-p/4511187</link><pubDate>Mon, 20 Apr 2026 16:31:29 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/why-uk-enterprise-cybersecurity-is-failing-in-2026-and-what/ba-p/4511187</guid><description>&#160;
+Enterprise cybersecurity in large organisations has always been an asymmetric game. But with the rise of AI&#8209;enabled cyber attacks, that imbalance has widened dramatically - particularly for UK and EMEA enterprises operating complex cloud, SaaS, and identity&#8209;driven environments.
+Microsoft Threat Intelligence and Microsoft Defender Security Research have publicly reported a clear shift in how attackers operate: AI is now embedded across the entire attack lifecycle. Threat actors use AI to accelerate reconnaissance, generate highly targeted phishing at scale, automate infrastructure, and adapt ...</description></item></channel>
 </rss>
