@@ -661,3 +661,4 @@
 2026-04-17T12:10:31 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/maintaining-azure-public-ip-inventory-by-retrieving-exact/ba-p/4512403
 2026-04-20T16:31:29 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-uk-enterprise-cybersecurity-is-failing-in-2026-and-what/ba-p/4511187
 2026-04-20T16:55:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/detecting-plain-text-password-exposure-using-custom-regex-in/ba-p/4513022
+2026-04-20T17:14:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/running-multimedia-ai-models-on-container-apps-with-serverless/ba-p/4513063
