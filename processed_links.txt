@@ -1,4 +1,3 @@
-2025-04-21T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/blog-series-charting-your-path-to-cyber-resiliency/ba-p/4405550
 2025-04-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-promise-migrate-to-sentinel-with-confidence/ba-p/4404136
 2025-04-21T18:00:39 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/expanding-cross-cloud-multitenant-security-operations-for/ba-p/4406286
 2025-04-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/getting-started-with-the-new-purview-content-search/ba-p/4405757
@@ -661,3 +660,4 @@
 2026-04-20T16:31:29 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-uk-enterprise-cybersecurity-is-failing-in-2026-and-what/ba-p/4511187
 2026-04-20T16:55:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/detecting-plain-text-password-exposure-using-custom-regex-in/ba-p/4513022
 2026-04-20T17:14:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/running-multimedia-ai-models-on-container-apps-with-serverless/ba-p/4513063
+2026-04-21T14:49:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/strengthening-identity-resilience-a-deep-dive-into-microsoft/ba-p/4513401

@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Apr 2026 14:26:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:59:48 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -467,5 +467,6 @@ Initialize Terraform and apply the configuration to provision the necessary Azur
 
 terraform init
 terraform apply --auto-approve
-The following resources will be create...</description></item></channel>
+The following resources will be create...</description></item><item><title>Strengthening Identity Resilience: A Deep Dive into Microsoft Entra Backup and Recovery</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/strengthening-identity-resilience-a-deep-dive-into-microsoft/ba-p/4513401</link><pubDate>Tue, 21 Apr 2026 14:49:07 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/strengthening-identity-resilience-a-deep-dive-into-microsoft/ba-p/4513401</guid><description>In the modern security landscape, we often say that "Identity is the new perimeter." We spend significant resources on Conditional Access, Phishing-Resistant MFA, and Identity Protection to keep the "bad guys" out. But what happens when the threat is already inside, or when a legitimate administrative action goes sideways?
+If our identity data the "brain" of our Microsoft 365 and Azure ecosystem is corrupted or maliciously altered, usr entire security posture collapses. Today, we&#8217;re exploring the new Microsoft Entra Backup and Recovery capability, a native safety net designed to ensure usr ide...</description></item></channel>
 </rss>
