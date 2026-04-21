@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 21 Apr 2026 17:57:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:01:23 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -468,5 +468,14 @@ Initialize Terraform and apply the configuration to provision the necessary Azur
 terraform init
 terraform apply --auto-approve
 The following resources will be create...</description></item><item><title>Strengthening Identity Resilience: A Deep Dive into Microsoft Entra Backup and Recovery</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/strengthening-identity-resilience-a-deep-dive-into-microsoft/ba-p/4513401</link><pubDate>Tue, 21 Apr 2026 14:49:07 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/strengthening-identity-resilience-a-deep-dive-into-microsoft/ba-p/4513401</guid><description>In the modern security landscape, we often say that "Identity is the new perimeter." We spend significant resources on Conditional Access, Phishing-Resistant MFA, and Identity Protection to keep the "bad guys" out. But what happens when the threat is already inside, or when a legitimate administrative action goes sideways?
-If our identity data the "brain" of our Microsoft 365 and Azure ecosystem is corrupted or maliciously altered, usr entire security posture collapses. Today, we&#8217;re exploring the new Microsoft Entra Backup and Recovery capability, a native safety net designed to ensure usr ide...</description></item></channel>
+If our identity data the "brain" of our Microsoft 365 and Azure ecosystem is corrupted or maliciously altered, usr entire security posture collapses. Today, we&#8217;re exploring the new Microsoft Entra Backup and Recovery capability, a native safety net designed to ensure usr ide...</description></item><item><title>Introducing the New Microsoft Security Community Home!</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-the-new-microsoft-security-community-home/ba-p/4513463</link><pubDate>Tue, 21 Apr 2026 18:22:33 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-the-new-microsoft-security-community-home/ba-p/4513463</guid><description>We are excited to introduce the new home of the Microsoft Security Community!
+At aka.ms/securitycommunity, you can explore upcoming events, access technical content, and find new ways to connect with Microsoft experts and peers across the security ecosystem.
+The Microsoft Security Community Home is designed to help you:
+
+Discover live and on-demand community events
+Access technical resources and learning opportunities
+Connect with peers and Microsoft product teams
+Stay up to date on Microsoft Security announcements
+Get involved through our community programs, including opportunities to share f...</description></item><item><title>Safeguarding Sensitive Data in Microsoft 365 Copilot Interactions: DLP for Microsoft 365 Copilot</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/safeguarding-sensitive-data-in-microsoft-365-copilot/ba-p/4512497</link><pubDate>Tue, 21 Apr 2026 18:13:10 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/safeguarding-sensitive-data-in-microsoft-365-copilot/ba-p/4512497</guid><description>Microsoft 365 Copilot is redefining how organizations work, bringing the power of generative AI directly into our secure productivity tools. As Copilot adoption accelerates, we&#8217;ve heard that you want more control over how your sensitive data can be used in interactions with Copilot. At Ignite 2025, Microsoft announced a major enhancement: Microsoft Purview Data Loss Prevention for Microsoft 365 Copilot to safeguard Microsoft 365 Copilot and Copilot Chat prompts, now entering General Availability. Even better, this capability is included for all users of Microsoft 365 Copilot and Copilot Chat.
+...</description></item></channel>
 </rss>
