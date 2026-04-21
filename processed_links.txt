@@ -661,3 +661,4 @@
 2026-04-21T14:49:07 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/strengthening-identity-resilience-a-deep-dive-into-microsoft/ba-p/4513401
 2026-04-21T18:13:10 https://techcommunity.microsoft.com/t5/microsoft-security-community/safeguarding-sensitive-data-in-microsoft-365-copilot/ba-p/4512497
 2026-04-21T18:22:33 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-the-new-microsoft-security-community-home/ba-p/4513463
+2026-04-21T22:29:17 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/automate-cybersecurity-at-scale-with-microsoft-security-copilot/ba-p/4394675
