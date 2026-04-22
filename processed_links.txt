@@ -1,5 +1,3 @@
-2025-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-blog/general-availability-dynamic-watermarking-for-sensitivity-labels/ba-p/4406350
-2025-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2025-new-microsoft-sentinel-connectors-announcement/ba-p/4404177
 2025-04-22T21:06:02 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transitioning-from-the-http-data-collector-api-to-the-log/ba-p/4403568
 2025-04-23T08:49:52 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/configure-app-v-server-to-use-https/ba-p/4406944
 2025-04-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/service-principal-required-for-microsoft-entra-id/ba-p/4405796
@@ -662,3 +660,5 @@
 2026-04-21T18:22:33 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-the-new-microsoft-security-community-home/ba-p/4513463
 2026-04-21T22:29:17 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/automate-cybersecurity-at-scale-with-microsoft-security-copilot/ba-p/4394675
 2026-04-22T14:45:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-training-lab-hands-on/ba-p/4513274
+2026-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/declutter-and-defend-reducing-promotional-mail-noise-with/ba-p/4511732
+2026-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/now-generally-available-license-usage-insights-in-microsoft/ba-p/4507463
