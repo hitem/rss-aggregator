@@ -661,3 +661,4 @@
 2026-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/declutter-and-defend-reducing-promotional-mail-noise-with/ba-p/4511732
 2026-04-22T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/now-generally-available-license-usage-insights-in-microsoft/ba-p/4507463
 2026-04-22T21:35:29 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-mcp-server-with-external-ai-models-claude-for/ba-p/4507013
+2026-04-23T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-unified-secops-transition-why-it-is-a-security-architecture/ba-p/4513815
