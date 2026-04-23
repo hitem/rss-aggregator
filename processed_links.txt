@@ -662,3 +662,4 @@
 2026-04-22T21:35:29 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-mcp-server-with-external-ai-models-claude-for/ba-p/4507013
 2026-04-23T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-unified-secops-transition-why-it-is-a-security-architecture/ba-p/4513815
 2026-04-23T16:57:53 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-configuration-management-apis-are-now-generally-available/ba-p/4513157
+2026-04-23T21:28:09 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/designing-outbound-connectivity-for-quot-private-subnets-quot-in/ba-p/4514258

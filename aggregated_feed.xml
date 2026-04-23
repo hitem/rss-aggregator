@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 23 Apr 2026 20:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:34:16 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -487,5 +487,16 @@ Why thi...</description></item><item><title>The Unified SecOps Transition &#8212
 The unified Defender portal is not a new interface for the same capabilities. It is the platform foundation for a fundamentally different SOC operating model &#8212; one built on a 2-tier data architecture, graph-based investigation, and AI agents that can hunt, enrich, and respond at machine speed. Partners who understand this will help customers build security programs...</description></item><item><title>Tenant Configuration Management APIs are now generally available</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-configuration-management-apis-are-now-generally-available/ba-p/4513157</link><pubDate>Thu, 23 Apr 2026 16:57:53 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tenant-configuration-management-apis-are-now-generally-available/ba-p/4513157</guid><description>In our previous post, we introduced Microsoft Entra Tenant Governance and how it helps organizations secure and manage multi-tenant environments at scale. Today, we&#8217;re excited to announce that the Tenant Configuration Management (TCM) APIs are now generally available, providing the foundation for managing configuration at scale with greater consistency and control.
 Before we dive deeper, let&#8217;s clarify the distinction:
 
-Microsoft Entra Tenant Governance is the product experience. It delivers a centralized control plane for visibility, policy enforcement, and governance across tenant configurati...</description></item></channel>
+Microsoft Entra Tenant Governance is the product experience. It delivers a centralized control plane for visibility, policy enforcement, and governance across tenant configurati...</description></item><item><title>Designing Outbound Connectivity for "Private Subnets" in Azure</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/designing-outbound-connectivity-for-quot-private-subnets-quot-in/ba-p/4514258</link><pubDate>Thu, 23 Apr 2026 21:28:09 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/designing-outbound-connectivity-for-quot-private-subnets-quot-in/ba-p/4514258</guid><description>Why Private Subnets Change Everything
+Historically, Azure virtual machines relied on default outbound internet access, where the platform automatically assigned a dynamic SNAT IP from a shared pool. This was convenient but problematic:
+
+&#10060; No deterministic outbound IP addresses
+&#10060; No traffic inspection or filtering
+&#10060; No FQDN or URL governance
+&#10060; Difficult to audit for compliance
+&#10060; Susceptible to noisy neighbor SNAT exhaustion
+
+With private subnets, outbound access is disabled by default. This shifts the responsibility to the architect &#8212; deliberately. The result is an environment where:
+
+&#9989; Every o...</description></item></channel>
 </rss>
