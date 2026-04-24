@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 24 Apr 2026 14:25:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:55:02 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -498,5 +498,8 @@ Historically, Azure virtual machines relied on default outbound internet access,
 
 With private subnets, outbound access is disabled by default. This shifts the responsibility to the architect &#8212; deliberately. The result is an environment where:
 
-&#9989; Every o...</description></item></channel>
+&#9989; Every o...</description></item><item><title>Intent&#8209;Aware Static Inspection for Agent and Skill Packages</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/intent-aware-static-inspection-for-agent-and-skill-packages/ba-p/4514315</link><pubDate>Fri, 24 Apr 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/intent-aware-static-inspection-for-agent-and-skill-packages/ba-p/4514315</guid><description>Where AV helps&#8212;and what it may not cover&#160;
+Antivirus engines and traditional code scanners are highly effective at identifying known or suspicious executable content, such as binaries, scripts, or exploit patterns.
+For YAML&#8209;based agent and skill packages, the situation can be different. These packages are often intentionally minimal to reduce distribution overhead and support faster inference. As a result, a configuration file may appear benign from a malware perspective, yet still introduce risk depending on how instructions are written and interpreted.
+For example, areas that may warrant clos...</description></item><item><title>Get ahead of agent sprawl: manage and govern AI agents at scale</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/get-ahead-of-agent-sprawl-manage-and-govern-ai-agents-at-scale/ba-p/4513160</link><pubDate>Fri, 24 Apr 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/get-ahead-of-agent-sprawl-manage-and-govern-ai-agents-at-scale/ba-p/4513160</guid><description>Recently, my team and I met with customers across several industries including finance, retail, telecommunications, and the public sector regarding the topic of agent adoption. During our time with them, several key themes bubbled to the surface. While AI agent adoption is growing rapidly, we need to ensure governance is built-in right from the start and that it is designed for the rapid proliferation of agents. Our customers see agents appearing within their admin portal, but accountability, lifecycle management and access guardrails are lacking, creating situations that could lead to signifi...</description></item></channel>
 </rss>
