@@ -660,3 +660,4 @@
 2026-04-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/get-ahead-of-agent-sprawl-manage-and-govern-ai-agents-at-scale/ba-p/4513160
 2026-04-24T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/intent-aware-static-inspection-for-agent-and-skill-packages/ba-p/4514315
 2026-04-24T17:54:58 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-s-perspective-on-agentic-identity-standards/ba-p/2111910
+2026-04-27T16:38:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/assess-secure-boot-status-with-microsoft-defender/ba-p/4510356
