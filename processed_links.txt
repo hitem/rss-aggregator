@@ -656,3 +656,4 @@
 2026-04-29T08:31:47 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-default-ruleset-drs-2-2-for-web/ba-p/4515762
 2026-04-29T15:59:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-manage-rc4-hardening-definitive-guide/ba-p/4515923
 2026-04-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/granular-email-content-access-with-unified-rbac-now-the-default/ba-p/4505344
+2026-04-29T19:18:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-data-wrangler-to-streamline-your-microsoft-sentinel-data/ba-p/4490214
