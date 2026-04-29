@@ -657,3 +657,4 @@
 2026-04-28T06:38:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/extracting-and-auditing-azure-devops-permissions-at-scale-with/ba-p/4515274
 2026-04-28T16:45:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-new-advanced-hunting-enhancements/ba-p/4514654
 2026-04-29T03:50:49 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/automating-phishing-email-triage-with-microsoft-security-copilot/ba-p/4416559
+2026-04-29T08:31:47 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-default-ruleset-drs-2-2-for-web/ba-p/4515762
