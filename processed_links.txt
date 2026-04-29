@@ -1,5 +1,3 @@
-2025-04-29T16:00:15 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/rsac-2025-unveiling-new-innovations-in-cloud-and-ai-security/ba-p/4408140
-2025-04-29T17:00:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-general-availability-microsoft-sentinel-solution-for/ba-p/4406758
 2025-04-29T17:27:08 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-of-azure-waf-captcha-challenge-for-azure-front/ba-p/4407647
 2025-04-29T18:08:17 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/general-availability-of-on-demand-scanning-in-defender-for/ba-p/4409365
 2025-04-30T14:14:18 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/guidance-for-handling-cve-2025-31324-using-microsoft-security/ba-p/4409413
@@ -658,3 +656,5 @@
 2026-04-28T16:45:15 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-new-advanced-hunting-enhancements/ba-p/4514654
 2026-04-29T03:50:49 https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/automating-phishing-email-triage-with-microsoft-security-copilot/ba-p/4416559
 2026-04-29T08:31:47 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-default-ruleset-drs-2-2-for-web/ba-p/4515762
+2026-04-29T15:59:22 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-manage-rc4-hardening-definitive-guide/ba-p/4515923
+2026-04-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/granular-email-content-access-with-unified-rbac-now-the-default/ba-p/4505344
