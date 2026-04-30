@@ -658,3 +658,4 @@
 2026-04-29T19:18:17 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-data-wrangler-to-streamline-your-microsoft-sentinel-data/ba-p/4490214
 2026-04-30T14:05:12 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-managed-identity-support-for-graphical-session/ba-p/4513139
 2026-04-30T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/you-can-t-govern-what-you-can-t-see-closing-the-identity/ba-p/4507464
+2026-04-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/edr-coexistence-by-design-a-practical-starting-point-to-defender/ba-p/4515265

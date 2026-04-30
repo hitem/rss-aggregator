@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Apr 2026 15:30:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:05:27 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -523,5 +523,7 @@ Azure Bastion provides secure RDP and SSH access to Azure virtual machines direc
 
 &#160;
 Why Managed Identities?
-With managed identity support, Bastion authenticates directly to your storage account using an Azure identity, no additional credentials to configure or ma...</description></item></channel>
+With managed identity support, Bastion authenticates directly to your storage account using an Azure identity, no additional credentials to configure or ma...</description></item><item><title>EDR coexistence by design: A practical starting point to Defender</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/edr-coexistence-by-design-a-practical-starting-point-to-defender/ba-p/4515265</link><pubDate>Thu, 30 Apr 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/edr-coexistence-by-design-a-practical-starting-point-to-defender/ba-p/4515265</guid><description>Co-author: Kayla Rohde
+Having multiple cybersecurity technologies, controls, systems, and stakeholders operating together without conflict is not a temporary inconvenience. It is how real environments operate and a practical way to make progress without disruption.
+Complexity exists because businesses are complex. Endpoint platforms already deployed, are relied upon 24/7. Moreover, contracts and operational dependencies make them challenging to change. On the other hand, many organizations already own Microsoft licensing that entitles them to Defender endpoint capabilities, including the abili...</description></item></channel>
 </rss>
