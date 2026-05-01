@@ -660,3 +660,4 @@
 2026-04-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/edr-coexistence-by-design-a-practical-starting-point-to-defender/ba-p/4515265
 2026-04-30T20:59:31 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-april-2026/ba-p/4516354
 2026-04-30T23:48:02 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sase-101-how-to-get-started-with-secure-access-in-a-cloud-first/ba-p/4516005
+2026-05-01T20:56:02 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/lock-down-ai-web-and-private-apps-what-s-new-in-internet-access/ba-p/3847825

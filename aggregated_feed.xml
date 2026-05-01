@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 01 May 2026 20:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 21:39:32 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -529,5 +529,12 @@ Complexity exists because businesses are complex. Endpoint platforms already dep
 Read on to learn what's new with Sentinel.
 What's new
 OSINT reports in Threat Analytic...</description></item><item><title>SASE 101: How to get started with secure access in a cloud-first world</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sase-101-how-to-get-started-with-secure-access-in-a-cloud-first/ba-p/4516005</link><pubDate>Thu, 30 Apr 2026 23:48:02 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sase-101-how-to-get-started-with-secure-access-in-a-cloud-first/ba-p/4516005</guid><description>As organizations adopt cloud applications, hybrid work, and distributed teams, many are re-evaluating how users securely access applications and data. Secure Access Service Edge (SASE) has become a common starting point for these conversations, but for many teams, understanding where to begin can feel unclear.
-This article provides a practical foundation for teams learning about SASE for the first time. It explains what SASE is, why it emerged, how it differs from Security Service Edge (SSE), and how organizations can use SASE as a modern framework for secure access. The goal is to build share...</description></item></channel>
+This article provides a practical foundation for teams learning about SASE for the first time. It explains what SASE is, why it emerged, how it differs from Security Service Edge (SSE), and how organizations can use SASE as a modern framework for secure access. The goal is to build share...</description></item><item><title>Lock down AI, web, and private apps: what&#8217;s new in Internet Access and Private Access</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/lock-down-ai-web-and-private-apps-what-s-new-in-internet-access/ba-p/3847825</link><pubDate>Fri, 01 May 2026 20:56:02 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/lock-down-ai-web-and-private-apps-what-s-new-in-internet-access/ba-p/3847825</guid><description>One theme is crystal clear across the security industry: AI is transforming security, and security must transform with it. Organizations everywhere are embracing generative AI to boost productivity and accelerate innovation. But with this rapid adoption comes new challenges that security teams can&#8217;t ignore:
+
+Which AI tools are your employees using?
+Is sensitive data being uploaded to unsanctioned services?
+How do you prevent AI-specific attacks like prompt injection?
+How do you secure private apps without slowing down users?
+
+These aren&#8217;t hypothetical questions. They&#8217;re the reality for every o...</description></item></channel>
 </rss>
