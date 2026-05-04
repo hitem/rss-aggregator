@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 May 2026 14:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:28:11 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -539,5 +539,29 @@ How do you secure private apps without slowing down users?
 These aren&#8217;t hypothetical questions. They&#8217;re the reality for every o...</description></item><item><title>Purpose For Your PKI (Practical PKI Part 3)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/purpose-for-your-pki-practical-pki-part-3/ba-p/4512518</link><pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/purpose-for-your-pki-practical-pki-part-3/ba-p/4512518</guid><description>My name is Ron Arestia, and I am a Security Researcher with Microsoft&#8217;s Detection and Response Team (DART). We respond to customer cybersecurity incidents to assist with containment and recovery from threat actors. In this brief blog post, we will discuss the &#8220;why&#8221; behind your PKI. This is part 3 of a series on practical PKI implementation based on my experience with customer interactions working as a Microsoft engineer.
 Feel free to catch up on previous blog posts or jump right into this one
 Secure Configuration and Hardening of Active Directory Certificate Services
-Implementing and Managing ...</description></item></channel>
+Implementing and Managing ...</description></item><item><title>Collecting Microsoft 365 Copilot Data with Microsoft Purview eDiscovery</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/collecting-microsoft-365-copilot-data-with-microsoft-purview/ba-p/4516489</link><pubDate>Mon, 04 May 2026 16:13:46 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/collecting-microsoft-365-copilot-data-with-microsoft-purview/ba-p/4516489</guid><description>Copilot Data Collection Reference Table
+
+Data Type
+
+Storage Location
+
+Item Class
+
+Collection Strategy
+
+Copilot Prompts (user questions sent to M365 Copilot)
+
+Exchange Online: Hidden folder in the user's mailbox. Compliance copies stored similar to Teams chats, but with unique item classes.
+
+IPM.SkypeTeams.Message.Copilot.&lt;AppName&gt; (e.g., .Word, .Excel, .Outlook, .BizChat). Additional AI-related classes may also apply: IPM.SkypeTeams.Message.ConnectedAIApp*, IPM.SkypeTeams.Message.CloudAIApp*, IPM.SkypeTeams.Message.TeamCopilot*, IPM.SkypeTeams.TeamCopilot*
+
+1. Add the user's Exchange mailbox a...</description></item><item><title>Monthly news -  May 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2026/ba-p/4516764</link><pubDate>Mon, 04 May 2026 15:24:34 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2026/ba-p/4516764</guid><description>Microsoft DefenderMonthly news - May 2026 Edition
+This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from April 2026. We are now including news related to Defender for Cloud in the Defender portal. For all other Defender for Cloud news, have a look at the dedicated Defender for Cloud Monthly News&#160;here.&#160;
+&#128640; New Virtual Ninja Show episode:
+
+The future of identity protection with Predictive Shielding
+Network-layer data protection with Microso...</description></item><item><title>Your AI agents are now employees. It&#8217;s time to treat them that way. Meet Loop.</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/your-ai-agents-are-now-employees-it-s-time-to-treat-them-that/ba-p/4516647</link><pubDate>Mon, 04 May 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/your-ai-agents-are-now-employees-it-s-time-to-treat-them-that/ba-p/4516647</guid><description>Guest Author: Femke Cornelissen &#10024; Chief Transformation Officer - Wartell
+Meet Loop.
+There&#8217;s a quiet shift happening in enterprise AI, and if you&#8217;re leading transformation, it deserves your attention.&#160;
+Microsoft has introduced new Defender capabilities within its Agent 365 tooling gateway, currently in preview. At first glance, it may look like just another security update. It isn&#8217;t. It signals a fundamental change in how organizations need to think about AI agents. For the past year, most organizations have onboarded AI agents the same way they onboard software tools. Deploy them, integrate th...</description></item></channel>
 </rss>

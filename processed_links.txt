@@ -661,3 +661,6 @@
 2026-04-30T23:48:02 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sase-101-how-to-get-started-with-secure-access-in-a-cloud-first/ba-p/4516005
 2026-05-01T20:56:02 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/lock-down-ai-web-and-private-apps-what-s-new-in-internet-access/ba-p/3847825
 2026-05-04T04:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/purpose-for-your-pki-practical-pki-part-3/ba-p/4512518
+2026-05-04T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/your-ai-agents-are-now-employees-it-s-time-to-treat-them-that/ba-p/4516647
+2026-05-04T15:24:34 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2026/ba-p/4516764
+2026-05-04T16:13:46 https://techcommunity.microsoft.com/t5/microsoft-security-community/collecting-microsoft-365-copilot-data-with-microsoft-purview/ba-p/4516489
