@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 May 2026 20:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 21:48:49 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -567,5 +567,10 @@ Microsoft has introduced new Defender capabilities within its Agent 365 tooling 
 That&#8217;s w...</description></item><item><title>Microsoft Defender for Cloud Customer Newsletter</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4516842</link><pubDate>Mon, 04 May 2026 16:47:10 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4516842</guid><description>What's new in Defender for Cloud?
 Container runtime anti-malware detection and blocking and DNS Detection for Kubernetes is now GA in Defender for Containers for AKS, EKS, and GKE. Learn more about these announcements&#160;here&#160;and&#160;here.
 Defender for Storage integration in Azure Portal Storage Center now Generally Available
-Customers can now view Defender for Storage threat protection and security posture coverage directly in Storage Center, next to their storage resources to understand which storage accounts are protected, where malware scanning, activity monitoring and sensitive data discovery ar...</description></item></channel>
+Customers can now view Defender for Storage threat protection and security posture coverage directly in Storage Center, next to their storage resources to understand which storage accounts are protected, where malware scanning, activity monitoring and sensitive data discovery ar...</description></item><item><title>Amazon Security Lake Integration with Microsoft Sentinel: Parquet at the Gates</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/amazon-security-lake-integration-with-microsoft-sentinel-parquet/ba-p/4516635</link><pubDate>Mon, 04 May 2026 20:16:39 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/amazon-security-lake-integration-with-microsoft-sentinel-parquet/ba-p/4516635</guid><description>&#160;
+&#160;
+&#160;
+A story of cost, control, and custom engineering at cloud scale
+Every organization strives to design its security architecture in a way that can be designed to help address architectural complexity and support cost&#8209;aware, scalable designs, depending on workload characteristics and implementation choices.
+Across multiple customer environments, we increasingly see a consistent pattern emerge&#8212;security telemetry from various AWS services is not ingested in isolation, but is deliberately centralized into Amazon Security Lake. This approach reflects a maturity in design, where organizations mo...</description></item></channel>
 </rss>
