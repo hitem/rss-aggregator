@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 04 May 2026 01:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:20:10 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -536,5 +536,8 @@ Is sensitive data being uploaded to unsanctioned services?
 How do you prevent AI-specific attacks like prompt injection?
 How do you secure private apps without slowing down users?
 
-These aren&#8217;t hypothetical questions. They&#8217;re the reality for every o...</description></item></channel>
+These aren&#8217;t hypothetical questions. They&#8217;re the reality for every o...</description></item><item><title>Purpose For Your PKI (Practical PKI Part 3)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/purpose-for-your-pki-practical-pki-part-3/ba-p/4512518</link><pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/purpose-for-your-pki-practical-pki-part-3/ba-p/4512518</guid><description>My name is Ron Arestia, and I am a Security Researcher with Microsoft&#8217;s Detection and Response Team (DART). We respond to customer cybersecurity incidents to assist with containment and recovery from threat actors. In this brief blog post, we will discuss the &#8220;why&#8221; behind your PKI. This is part 3 of a series on practical PKI implementation based on my experience with customer interactions working as a Microsoft engineer.
+Feel free to catch up on previous blog posts or jump right into this one
+Secure Configuration and Hardening of Active Directory Certificate Services
+Implementing and Managing ...</description></item></channel>
 </rss>
