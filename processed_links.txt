@@ -667,3 +667,4 @@
 2026-05-04T16:47:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4516842
 2026-05-04T16:55:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-selective-response-actions-for-high-value-assets-in/ba-p/4512175
 2026-05-04T20:16:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/amazon-security-lake-integration-with-microsoft-sentinel-parquet/ba-p/4516635
+2026-05-04T22:43:50 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/build-a-secure-identity-foundation-5-webinars-to-strengthen/ba-p/4515965
