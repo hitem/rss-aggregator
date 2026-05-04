@@ -664,3 +664,5 @@
 2026-05-04T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/your-ai-agents-are-now-employees-it-s-time-to-treat-them-that/ba-p/4516647
 2026-05-04T15:24:34 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-may-2026/ba-p/4516764
 2026-05-04T16:13:46 https://techcommunity.microsoft.com/t5/microsoft-security-community/collecting-microsoft-365-copilot-data-with-microsoft-purview/ba-p/4516489
+2026-05-04T16:47:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4516842
+2026-05-04T16:55:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-selective-response-actions-for-high-value-assets-in/ba-p/4512175
