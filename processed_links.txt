@@ -1,5 +1,3 @@
-2025-05-05T13:04:32 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-136/ba-p/4410797
-2025-05-05T17:00:37 https://techcommunity.microsoft.com/t5/microsoft-security-blog/exploring-the-use-cases-of-adms-user-migration/ba-p/4410358
 2025-05-05T22:57:03 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-easily-apply-disa-stigs-with-intune/ba-p/4410958
 2025-05-05T23:30:01 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/safelinks-protection-for-links-generated-by-m365-copilot-chat/ba-p/4396828
 2025-05-06T20:48:53 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/from-visibility-to-action-the-power-of-cloud-detection-and/ba-p/4411280
@@ -667,3 +665,5 @@
 2026-05-04T16:55:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-selective-response-actions-for-high-value-assets-in/ba-p/4512175
 2026-05-04T20:16:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/amazon-security-lake-integration-with-microsoft-sentinel-parquet/ba-p/4516635
 2026-05-04T22:43:50 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/build-a-secure-identity-foundation-5-webinars-to-strengthen/ba-p/4515965
+2026-05-05T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-advantages-of-premium-cases-in-purview-ediscovery/ba-p/4516768
+2026-05-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/extending-sentinel-data-integration-azure-blob-storage-support/ba-p/4516896

@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 May 2026 13:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:08:59 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -574,5 +574,24 @@ A story of cost, control, and custom engineering at cloud scale
 Every organization strives to design its security architecture in a way that can be designed to help address architectural complexity and support cost&#8209;aware, scalable designs, depending on workload characteristics and implementation choices.
 Across multiple customer environments, we increasingly see a consistent pattern emerge&#8212;security telemetry from various AWS services is not ingested in isolation, but is deliberately centralized into Amazon Security Lake. This approach reflects a maturity in design, where organizations mo...</description></item><item><title>Build a secure identity foundation: 5 webinars to strengthen access management with Microsoft Entra</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/build-a-secure-identity-foundation-5-webinars-to-strengthen/ba-p/4515965</link><pubDate>Mon, 04 May 2026 22:43:50 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/build-a-secure-identity-foundation-5-webinars-to-strengthen/ba-p/4515965</guid><description>To avoid gaps in protection, organizations need to fully deploy and scale core identity protections&#8211;from phishing-resistant authentication to Conditional Access policies to risk remediation and resiliency&#8211;across cloud and hybrid deployments.
 That&#8217;s why we&#8217;re launching the Secure identity foundation with Microsoft Entra series: a five-part webinar lineup focused on implementing these core identity capabilities across Microsoft Entra.
-Think of this series as a guided path to building secure foundations, identifying quick wins, and applying repeatable patterns across your identity environment. Ac...</description></item></channel>
+Think of this series as a guided path to building secure foundations, identifying quick wins, and applying repeatable patterns across your identity environment. Ac...</description></item><item><title>Extending Sentinel Data Integration: Azure Blob Storage Support for CCF Connectors</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/extending-sentinel-data-integration-azure-blob-storage-support/ba-p/4516896</link><pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/extending-sentinel-data-integration-azure-blob-storage-support/ba-p/4516896</guid><description>As organizations scale their security operations, the ability to ingest, process, and analyze high volumes of data reliably becomes increasingly critical. Microsoft Sentinel continues to expand its ecosystem through the Codeless Connector Framework (CCF), enabling ISVs to build and deliver integrations with Sentinel faster while simplifying deployment for customers.
+Today, CCF extends even further with support for Azure Blob Storage, introducing a new pattern for how data can be delivered into Sentinel.
+Expanding Connector Patterns with Azure Blob Storage
+CCF has traditionally enabled connecto...</description></item><item><title>The Advantages of Premium Cases in Purview eDiscovery</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/the-advantages-of-premium-cases-in-purview-ediscovery/ba-p/4516768</link><pubDate>Tue, 05 May 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/the-advantages-of-premium-cases-in-purview-ediscovery/ba-p/4516768</guid><description>Capacity &amp; Scale
+
+Feature
+
+Description
+
+Advantage over E3
+
+Enhanced Limits
+
+Supports significantly higher limits, including eDiscovery case count and export volume. For example, up to 50,000 cases and 5&#160;TB per search in E5 (versus 10,000 cases and 2&#160;TB in E3).
+
+Handles large investigations without splitting into multiple cases or searches. E3&#8217;s lower limits would force breaking up big jobs, adding overhead and risk of errors. E5&#8217;s higher capacity means fewer workarounds and seamless handling of large-scale litigation.
+
+Tenant-Wide eDiscovery Process and Holds Reports (Preview)
+
+Provides a cent...</description></item></channel>
 </rss>
