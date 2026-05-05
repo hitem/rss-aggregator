@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 05 May 2026 21:48:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:41:38 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -593,5 +593,8 @@ Handles large investigations without splitting into multiple cases or searches. 
 
 Tenant-Wide eDiscovery Process and Holds Reports (Preview)
 
-Provides a cent...</description></item></channel>
+Provides a cent...</description></item><item><title>Better together with Azure WAF + Microsoft Defender for Storage + Defender for Azure SQL Databases</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-with-azure-waf-microsoft-defender-for-storage/ba-p/4517101</link><pubDate>Tue, 05 May 2026 21:54:36 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-with-azure-waf-microsoft-defender-for-storage/ba-p/4517101</guid><description>Authored by: Fernanda_Vela&#8203; , saikishor&#8203;, Yura_Lee&#8203;&#160;
+Reviewed by: YuriDiogenes&#8203;, Mohit_Kumar&#8203;, Amir_Dahan&#8203;, eitanbremler&#8203; , Kitt_Weatherman&#8203;&#160;
+Introduction
+Often, customers ask why additional workload protection is needed when a web application firewall is already in place. Azure Web Application Firewall (WAF) serves as a critical control at the application edge, inspecting inbound HTTP/S traffic and blocking common web-based exploits before they reach backend services. However, modern attack paths are no longer limited to the web entry point. Attackers increasingly target components that bypas...</description></item></channel>
 </rss>

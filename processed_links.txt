@@ -667,3 +667,4 @@
 2026-05-04T22:43:50 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/build-a-secure-identity-foundation-5-webinars-to-strengthen/ba-p/4515965
 2026-05-05T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-advantages-of-premium-cases-in-purview-ediscovery/ba-p/4516768
 2026-05-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/extending-sentinel-data-integration-azure-blob-storage-support/ba-p/4516896
+2026-05-05T21:54:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-with-azure-waf-microsoft-defender-for-storage/ba-p/4517101
