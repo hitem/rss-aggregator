@@ -658,3 +658,4 @@
 2026-05-05T21:54:36 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-with-azure-waf-microsoft-defender-for-storage/ba-p/4517101
 2026-05-07T16:28:47 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/passkeys-aren-t-the-finish-line-eliminating-fallbacks-and-fixing/ba-p/3627345
 2026-05-07T21:21:06 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-dashboard-for-ai-3-ways-cisos-drive-impact-today/ba-p/4517134
+2026-05-08T22:03:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-may-2026/ba-p/4517884
