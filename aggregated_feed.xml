@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 May 2026 17:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:21:35 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -606,5 +606,6 @@ Network content filtering by file type in Global Secure Access - Microsoft Globa
 Modern workloads increasingly rely on reacting to files as soon as they arrive in Azure Blob Storage. While Azure provides multiple ways to trigger computing from blob operations, choosing the right event-driven pattern is not always straightforward&#8212;especially in enterprise environments where latency, reliability, and operational transparency all matter.
 Introduction
 Hello everyone, Andrew Coughlin here, a Cloud Solution Architect specializing in Infrastructure as a Service on Azure.
-In this post, I am going to walk through how to implement a direct Event Grid to Azure Function patter...</description></item></channel>
+In this post, I am going to walk through how to implement a direct Event Grid to Azure Function patter...</description></item><item><title>Secure the moments attackers target: onboarding, access requests, and account recovery</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-the-moments-attackers-target-onboarding-access-requests/ba-p/3627344</link><pubDate>Mon, 11 May 2026 18:35:54 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-the-moments-attackers-target-onboarding-access-requests/ba-p/3627344</guid><description>High assurance identity verification is no longer limited to regulated industries or edge cases. It is increasingly becoming a baseline requirement for scenarios like remote onboarding, account recovery, and access to sensitive resources. Microsoft tracks over 600 million identity attacks every day, with more than 7,000 password attacks blocked per second across Microsoft Entra environments.
+Even as organizations adopt multifactor identification and move towards passwordless sign-in, including passkeys, an essential step toward eliminating passwords, security teams also need to protect the pas...</description></item></channel>
 </rss>
