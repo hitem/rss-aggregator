@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 11 May 2026 05:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 08:50:22 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -602,5 +602,9 @@ As AI becomes embedded across the enterprise, CISOs face four key challenges:
 
 Scale without visibility: Over 75% of enterprises surveyed by PWC report they are already adopting AI agents....</description></item><item><title>What's New in Microsoft Entra: May 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-may-2026/ba-p/4517884</link><pubDate>Fri, 08 May 2026 22:03:27 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-may-2026/ba-p/4517884</guid><description>Welcome to the May edition of our monthly newsletter, summarizing the latest news and developments in the exciting, ever-evolving world of Microsoft Entra.
 What went into General Availability (GA) since April 2026?
-Network content filtering by file type in Global Secure Access - Microsoft Global Secure Access supports network-based content filtering, based on file types. Administrators can monitor and control file transfers to generative AI and software-as-a-service (SaaS) applications. Organizations can define policies to block or restrict transfers of sensitive file types, such as documents,...</description></item></channel>
+Network content filtering by file type in Global Secure Access - Microsoft Global Secure Access supports network-based content filtering, based on file types. Administrators can monitor and control file transfers to generative AI and software-as-a-service (SaaS) applications. Organizations can define policies to block or restrict transfers of sensitive file types, such as documents,...</description></item><item><title>Triggering Azure Functions from Blob Storage Using Event Grid</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/triggering-azure-functions-from-blob-storage-using-event-grid/ba-p/4518184</link><pubDate>Mon, 11 May 2026 07:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/triggering-azure-functions-from-blob-storage-using-event-grid/ba-p/4518184</guid><description>Overview
+Modern workloads increasingly rely on reacting to files as soon as they arrive in Azure Blob Storage. While Azure provides multiple ways to trigger computing from blob operations, choosing the right event-driven pattern is not always straightforward&#8212;especially in enterprise environments where latency, reliability, and operational transparency all matter.
+Introduction
+Hello everyone, Andrew Coughlin here, a Cloud Solution Architect specializing in Infrastructure as a Service on Azure.
+In this post, I am going to walk through how to implement a direct Event Grid to Azure Function patter...</description></item></channel>
 </rss>
