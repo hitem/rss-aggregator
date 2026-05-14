@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 14 May 2026 16:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:49:53 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -607,5 +607,15 @@ Modern workloads increasingly rely on reacting to files as soon as they arrive i
 Introduction
 Hello everyone, Andrew Coughlin here, a Cloud Solution Architect specializing in Infrastructure as a Service on Azure.
 In this post, I am going to walk through how to implement a direct Event Grid to Azure Function patter...</description></item><item><title>Secure the moments attackers target: onboarding, access requests, and account recovery</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-the-moments-attackers-target-onboarding-access-requests/ba-p/3627344</link><pubDate>Mon, 11 May 2026 18:35:54 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-the-moments-attackers-target-onboarding-access-requests/ba-p/3627344</guid><description>High assurance identity verification is no longer limited to regulated industries or edge cases. It is increasingly becoming a baseline requirement for scenarios like remote onboarding, account recovery, and access to sensitive resources. Microsoft tracks over 600 million identity attacks every day, with more than 7,000 password attacks blocked per second across Microsoft Entra environments.
-Even as organizations adopt multifactor identification and move towards passwordless sign-in, including passkeys, an essential step toward eliminating passwords, security teams also need to protect the pas...</description></item></channel>
+Even as organizations adopt multifactor identification and move towards passwordless sign-in, including passkeys, an essential step toward eliminating passwords, security teams also need to protect the pas...</description></item><item><title>Microsoft Identity Manager 2016 SP3 now available: Enhanced stability for hybrid identity</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-identity-manager-2016-sp3-now-available-enhanced/ba-p/4519489</link><pubDate>Thu, 14 May 2026 17:30:53 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-identity-manager-2016-sp3-now-available-enhanced/ba-p/4519489</guid><description>Many organizations continue to depend on Microsoft Identity Manager (MIM) 2016 for scenarios that are not easily replicated elsewhere, such as:
+Synchronization across multiple directories and forests:&#160;
+
+Complex attribute flows and identity correlation logic&#160;
+Management of custom objects and extended schemas&#160;
+Deep integration with on-premises applications&#160;
+
+Microsoft Identity Manager (MIM) 2016 Service Pack 3 (SP3) is now generally available. SP3 focuses on stability and supportability and updates compatibility with current platform components such as SQL Server, SharePoint, and Exchange. It al...</description></item><item><title>How Microsoft Defender used predictive shielding to proactively disrupt a ransomware attack</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-microsoft-defender-used-predictive-shielding-to-proactively/ba-p/4519498</link><pubDate>Thu, 14 May 2026 17:01:07 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-microsoft-defender-used-predictive-shielding-to-proactively/ba-p/4519498</guid><description>Modern ransomware attacks are increasingly designed to blend in with normal IT operations, using trusted administrative tools to quietly weaken defenses and distribute malicious payloads at scale.
+In a recent real&#8209;world incident, a human&#8209;operated ransomware actor attempted to do exactly that by abusing Group Policy Objects (GPOs) to target hundreds of devices, but Microsoft Defender detected the attack and proactively hardened those devices before GPOs were deployed.
+The attacker&#8217;s plan
+The target organization, a large educational institution with more than a couple of thousand devices onboard...</description></item></channel>
 </rss>

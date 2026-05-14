@@ -651,3 +651,5 @@
 2026-05-08T22:03:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-may-2026/ba-p/4517884
 2026-05-11T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/triggering-azure-functions-from-blob-storage-using-event-grid/ba-p/4518184
 2026-05-11T18:35:54 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-the-moments-attackers-target-onboarding-access-requests/ba-p/3627344
+2026-05-14T17:01:07 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-microsoft-defender-used-predictive-shielding-to-proactively/ba-p/4519498
+2026-05-14T17:30:53 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-identity-manager-2016-sp3-now-available-enhanced/ba-p/4519489
