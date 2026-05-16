@@ -49,7 +49,7 @@ rss_feed_urls = [
 output_file = "aggregated_feed.xml"
 processed_links_file = "processed_links.txt"
 
-# Define the time threshold: only process entries from the last 2 hours.
+# Define the time threshold: only process entries from the last 3 hours.
 recent_time_threshold = datetime.datetime.now(
     datetime.timezone.utc) - datetime.timedelta(hours=3)
 
@@ -152,6 +152,7 @@ async def process_feeds():
 def update_feed(sorted_entries):
     now = datetime.datetime.now(datetime.timezone.utc)
     existing_links = set()
+    changed = False
 
     if append_mode and os.path.exists(output_file):
         # Load existing feed if appending
@@ -181,6 +182,7 @@ def update_feed(sorted_entries):
 
                 if dt < cutoff:
                     channel.remove(item)
+                    changed = True
             except Exception:
                 # If pubDate isn't parseable, keep the item (avoid accidental deletions)
                 continue
@@ -196,11 +198,11 @@ def update_feed(sorted_entries):
             channel, "description"
         ).text = "An aggregated feed of Microsoft blogs"
 
-    # Update lastBuildDate element
+    # Only update lastBuildDate if the feed content actually changes
     last_build_date = channel.find("lastBuildDate")
     if last_build_date is None:
         last_build_date = etree.SubElement(channel, "lastBuildDate")
-    last_build_date.text = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
+        changed = True
 
     # Add new entries to the feed
     for entry in sorted_entries:
@@ -214,6 +216,7 @@ def update_feed(sorted_entries):
             continue
 
         item = etree.SubElement(channel, "item")
+        changed = True
         etree.SubElement(item, "title").text = entry.title
         etree.SubElement(item, "link").text = entry.link
 
@@ -235,11 +238,17 @@ def update_feed(sorted_entries):
             "..." if len(summary_text) > 350 else summary_text
         etree.SubElement(item, "description").text = limited_summary
 
-    # Write the updated feed to file
-    with open(output_file, "wb") as f:
-        f.write(etree.tostring(root, pretty_print=True))
+    if changed:
+        last_build_date.text = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+        # Write the updated feed to file only when content changed
+        with open(output_file, "wb") as f:
+            f.write(etree.tostring(root, pretty_print=True))
+    else:
+        print("No feed changes; aggregated_feed.xml was not rewritten.")
 
 # Run the feed processing
+print(f"Run started at {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}")
 sorted_entries = asyncio.run(process_feeds())
 
 # Output the RSS feed entry count
