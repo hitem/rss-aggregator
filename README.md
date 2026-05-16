@@ -11,7 +11,7 @@ You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggr
     Create a new public GitHub repository (e.g., "rss-aggregator"). You'll store the Python script, aggregated RSS feed and the workflow file in this repository.
 
 2. Set up GitHub Pages:\
-    Go to the repository settings, scroll down to the GitHub Pages section, and choose the "main" branch as the source. Save the changes, and you'll get a URL for your GitHub Pages site (e.g., https://```<username>```.github.io/rss-aggregator/).
+    Go to the repository settings, open the GitHub Pages section, and set Build and deployment → Source to "GitHub Actions". The workflow will generate the RSS/XML files and deploy them to GitHub Pages. Save the changes, and you'll get a URL for your GitHub Pages site (e.g., https://```<username>```.github.io/rss-aggregator/).
 
 3. Update the 'link' field in the script:
     Replace the 'link' field in the `rss_aggregator.py` or `html_aggregator.py` script with your GitHub Pages URL:
