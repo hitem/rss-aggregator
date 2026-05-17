@@ -17,6 +17,10 @@ Use this when you want to turn one or more RSS/HTML sources into a single feed t
 - Power Automate flows
 - Feedly or similar feed tools
 - Any tool that can poll an RSS/XML feed
+  
+
+> **Recommended:** Use `rss_aggregator.py` as the default option.  
+> `html_aggregator.py` is a fallback parser for sources that do not provide a usable RSS feed.
 
 The generated feed URL will look like this:
 
