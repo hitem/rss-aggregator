@@ -42,7 +42,7 @@ rss_feed_urls = [
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-security-blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-entra-blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=securitycopilotblog",
-    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=azurepurviewblog",
+    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-purview-blog",
 ]
 
 # Set the output file name and state file
