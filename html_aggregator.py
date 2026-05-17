@@ -8,7 +8,7 @@ from lxml import etree
 import datetime
 import os
 import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 # Set to True for appending, False for overwriting
 append_mode = False
@@ -17,23 +17,21 @@ max_age_days = 365
 
 # Define the list of blog page URLs
 blog_urls = [
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftsecurityandcompliance",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/identity",
     "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoft-security-blog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/coreinfrastructureandsecurityblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/azurenetworksecurityblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftthreatprotectionblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftdefendercloudblog",
+    "https://techcommunity.microsoft.com/category/microsoft-entra/blog/microsoft-entra-blog",
+    "https://techcommunity.microsoft.com/category/cis/blog/coreinfrastructureandsecurityblog",
+    "https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog",
+    "https://techcommunity.microsoft.com/category/microsoft-defender-xdr/blog/microsoftthreatprotectionblog",
+    "https://techcommunity.microsoft.com/category/microsoft-defender-for-cloud/blog/microsoftdefendercloudblog",
     "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/securitycopilotblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftdefenderatpblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftdefenderiotblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftdefenderforoffice365blog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/vulnerability-management",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoft-security-baselines",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftsentinelblog",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/defenderthreatintelligence",
+    "https://techcommunity.microsoft.com/category/microsoft-defender-for-endpoint/blog/microsoftdefenderatpblog",
+    "https://techcommunity.microsoft.com/category/microsoft-defender-for-office-365/blog/microsoftdefenderforoffice365blog",
+    "https://techcommunity.microsoft.com/category/vulnerability-management/blog/vulnerability-management",
+    "https://techcommunity.microsoft.com/category/security-baselines/blog/microsoft-security-baselines",
+    "https://techcommunity.microsoft.com/category/microsoft-sentinel/blog/microsoftsentinelblog",
+    "https://techcommunity.microsoft.com/category/microsoft-defender-threat-intelligence/blog/defenderthreatintelligence",
     "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/microsoftsecurityexperts",
-    "https://techcommunity.microsoft.com/category/microsoft-security-product/blog/defenderexternalattacksurfacemgmtblog",
+    "https://techcommunity.microsoft.com/category/external-attack-surface-management/blog/defenderexternalattacksurfacemgmtblog",
 ]
 
 # Set the output file name
@@ -46,15 +44,16 @@ def normalize_url(url: str) -> str:
     return parsed._replace(fragment="", query="").geturl().rstrip("/")
 
 # Read previously processed links
+processed_links = set()
+
 try:
-    with open(processed_links_file, "r") as f:
-        processed_links = set(
-            normalize_url(line.split()[1]) 
-            for line in f
-            if line.strip()
-        )
+    with open(processed_links_file, "r", encoding="utf-8") as f:
+        for line in f:
+            parts = line.strip().split(maxsplit=1)
+            if len(parts) == 2:
+                processed_links.add(normalize_url(parts[1]))
 except FileNotFoundError:
-    processed_links = set()
+    pass
 
 # Set time threshold for recent posts (2 hours for checking new entries)
 recent_time_threshold = datetime.datetime.now(
@@ -69,59 +68,78 @@ if append_mode:
 async def fetch_blog_articles(url, session):
     articles = []
     try:
-        async with session.get(url, timeout=10) as response:
+        async with session.get(url, timeout=20) as response:
+            if response.status != 200:
+                print(f"Warning: {url} returned HTTP {response.status}")
+                return articles
+
             response_text = await response.text()
             soup = BeautifulSoup(response_text, "html.parser")
 
             # Select articles based on the HTML structure
             found_articles = soup.find_all(
                 "article", {"data-testid": "MessageViewCard"})
+
+            if not found_articles:
+                print(f"Warning: no MessageViewCard articles found for {url}")
             for article in found_articles:
-                title_elem = article.find("a", {"data-testid": "MessageLink"})
+                title_elem = article.select_one('[data-testid="MessageSubject"] a[data-testid="MessageLink"]')
+                if not title_elem:
+                    title_elem = article.find("a", {"data-testid": "MessageLink"})
                 if title_elem and "aria-label" in title_elem.attrs:
                     title = title_elem["aria-label"]
-                    link = "https://techcommunity.microsoft.com" + \
-                        title_elem["href"]
+                    link = urljoin(url, title_elem["href"])
                     norm_link = normalize_url(link) 
                 else:
                     continue
 
-                date_elem = article.find("span", {"title": True})
-                if date_elem:
-                    date_str = date_elem["title"].split(" at")[0]
+                date_elem = article.select_one('[data-testid="messageTime"] span[title]')
+                if not date_elem:
+                    date_elem = article.find("span", {"title": True})
+
+                if not date_elem:
+                    print(f"Warning: no date found for article on {url}: {title}")
+                    continue
+
+                date_str = date_elem["title"].split(" at")[0]
+                try:
+                    pub_date = datetime.datetime.strptime(
+                        date_str, "%B %d, %Y")
+                except ValueError:
                     try:
                         pub_date = datetime.datetime.strptime(
-                            date_str, "%B %d, %Y")
+                            date_str, "%b %d, %Y")
                     except ValueError:
-                        try:
-                            pub_date = datetime.datetime.strptime(
-                                date_str, "%b %d, %Y")
-                        except ValueError:
-                            continue
-                    # Add current time to pub_date
-                    now = datetime.datetime.now(datetime.timezone.utc)
-                    pub_date = pub_date.replace(
-                        hour=now.hour,
-                        minute=now.minute,
-                        second=now.second,
-                        tzinfo=datetime.timezone.utc,
-                    )
-                    # Filter by recent time threshold and processed links
-                    if pub_date >= recent_time_threshold and norm_link not in processed_links: 
-                        # Attempt to find the summary using data-testid
-                        summary_elem = article.find(
-                            "div", {"data-testid": "MessageTeaser"})
-                        if not summary_elem:
-                            summary_elem = article.find("div", class_=re.compile(
-                                r'MessageViewCard_lia-body-content'))
-                        summary = summary_elem.get_text(
-                            strip=True) if summary_elem else "No summary available."
-                        articles.append({
-                            "title": title,
-                            "link": norm_link,
-                            "pubDate": pub_date.strftime("%Y-%m-%dT%H:%M:%S"),
-                            "description": summary[:600] + "..." if len(summary) > 600 else summary,
-                        })
+                        print(f"Warning: could not parse date '{date_str}' for article on {url}: {title}")
+                        continue
+
+                # Add current time to pub_date
+                now = datetime.datetime.now(datetime.timezone.utc)
+                pub_date = pub_date.replace(
+                    hour=now.hour,
+                    minute=now.minute,
+                    second=now.second,
+                    tzinfo=datetime.timezone.utc,
+                )
+
+                # Filter by recent time threshold and processed links
+                if pub_date >= recent_time_threshold and norm_link not in processed_links:
+                    # Attempt to find the summary using data-testid
+                    summary_elem = article.find(
+                        "div", {"data-testid": "MessageTeaser"})
+                    if not summary_elem:
+                        summary_elem = article.find("div", class_=re.compile(
+                            r'MessageViewCard_lia-body-content'))
+
+                    summary = summary_elem.get_text(
+                        strip=True) if summary_elem else "No summary available."
+
+                    articles.append({
+                        "title": title,
+                        "link": norm_link,
+                        "pubDate": pub_date.strftime("%Y-%m-%dT%H:%M:%S"),
+                        "description": summary[:600] + "..." if len(summary) > 600 else summary,
+                    })
     except Exception as e:
         print(f"Error fetching {url}: {e}")
 
@@ -131,12 +149,20 @@ async def fetch_blog_articles(url, session):
 async def main():
     now = datetime.datetime.now(datetime.timezone.utc)
 
-    async with aiohttp.ClientSession() as session:
+    headers = {
+           "User-Agent": "Mozilla/5.0 RSS Aggregator GitHub Actions"
+        }
+
+    async with aiohttp.ClientSession(headers=headers) as session:
         tasks = [fetch_blog_articles(url, session) for url in blog_urls]
         results = await asyncio.gather(*tasks)
         all_entries = [item for sublist in results for item in sublist]
+        unique_entries = {}
+        for entry in all_entries:
+            unique_entries[entry["link"]] = entry
+
         sorted_entries = sorted(
-            all_entries, key=lambda x: x["pubDate"], reverse=True)
+            unique_entries.values(), key=lambda x: x["pubDate"], reverse=True)
 
         if append_mode and os.path.exists(output_file):
             tree = etree.parse(output_file)
@@ -145,9 +171,14 @@ async def main():
 
             # Remove old entries beyond max_age_days in append mode
             for item in channel.findall("item"):
-                pub_date = item.find("pubDate").text
+                pub_date_elem = item.find("pubDate")
+                if pub_date_elem is None or not pub_date_elem.text:
+                    continue
+
                 pub_datetime = datetime.datetime.strptime(
-                    pub_date, "%Y-%m-%dT%H:%M:%S")
+                    pub_date_elem.text, "%Y-%m-%dT%H:%M:%S"
+                ).replace(tzinfo=datetime.timezone.utc)
+
                 if pub_datetime < max_age_time_threshold:
                     channel.remove(item)
         else:
@@ -184,7 +215,12 @@ async def main():
 
         # Write to the output file
         with open(output_file, "wb") as f:
-            f.write(etree.tostring(root, pretty_print=True))
+            f.write(etree.tostring(
+                root,
+                pretty_print=True,
+                xml_declaration=True,
+                encoding="UTF-8"
+            ))
 
         # Update processed links file with new entries
         with open(processed_links_file, "a") as f:
