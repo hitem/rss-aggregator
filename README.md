@@ -1,100 +1,293 @@
-# RSS Aggregator - For RSS or HTML feeds
+# RSS Aggregator
 
-Simple aggregator for **RSS** & **HTML** feeds - used by githubaction (Free tier) and publish the `aggregated_feed.xml` in your repo. \
-You can chose to use RSS aggregator to a single RSS feed by using the **rss_aggregator.py**. (there is also a html parser option). \
-`Note` that you have the options to chose between aggregation or appending to a `aggregated_feed.xml`. Read all the steps!
-<br>
-```hitem```
+A simple GitHub Actions RSS/HTML feed aggregator.
 
-### Howto
-1. Create a new GitHub repository and upload files: \
-    Create a new public GitHub repository (e.g., "rss-aggregator"). You'll store the Python script, aggregated RSS feed and the workflow file in this repository.
+It runs on a schedule, collects new items, writes them to `aggregated_feed.xml`, tracks already used links in `processed_links.txt`, and publishes the result with GitHub Pages.
 
-2. Set up GitHub Pages:\
-    Go to the repository settings, open the GitHub Pages section, and set Build and deployment → Source to "GitHub Actions". The workflow will generate the RSS/XML files and deploy them to GitHub Pages. Save the changes, and you'll get a URL for your GitHub Pages site (e.g., https://```<username>```.github.io/rss-aggregator/).
-
-3. Update the 'link' field in the script:
-    Replace the 'link' field in the `rss_aggregator.py` or `html_aggregator.py` script with your GitHub Pages URL:
-    ```python
-    etree.SubElement(channel, "link").text = "https://<username>.github.io/<repo name>/aggregated_feed.xml"
-    ```
-4. Chose and change to RSS or HTML feeds accordingly in `rss_aggregator.yml`
-
-   For HTML:
-    ```python
-    run: |
-        python html_aggregator.py
-    ```
-    For RSS:
-     ```python
-    run: |
-        python rss_aggregator.py
-    ```
-5. Change the github workflow timer accordingly in `rss_aggregator.yml` \
-   The Cron job is the main one (how often it runs here on github actions). But one more such setting is that links are only stored for 365 days under `name: Update processed links file` in the yml to prevent `processed_links.txt` to grow to big.
-6. Chose if you want to aggregate or append `aggregated_feed.xml`  by setting `append_mode` values to true or false in RSS or HTML `*.py` script.\
-    **Aggregated** \
-   This is used to ingest the latest news where the ingestion is triggered elsewhere and the ingestion reads the whole file (not only the latest).
-    ```python
-    append_mode = False
-    ```
-    **Persistent/Appending** \
-   This is to persist processed links in `aggregated_feed.xml` (Used for feed like feedly or ingestors that "looks for latest rss feed update") \
-    To avoid `aggregated_feed.xml` to grow to big, default time to save the links is 365 days, you can adjust according to your needs.
-    ```python
-    append_mode = True
-    max_age_days = 365
-    ```
-8. Then you take the link generated earlier to `aggregated_feed.xml` and paste it in to your RSS hook or powerautomate flow (and ingest frequenzy to match your cron configuration in `rss_aggregator.yml`) \
-Example from teams: \
-![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0) \
-Example from powerautomate flows: \
- ![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47) \
-Example from powerautomate flows with AppendMode=True:  <img width="800" height="220" alt="append_mode_true" src="https://github.com/user-attachments/assets/dda7bc59-53a0-499b-9314-c1f99b986e67" />
-
-
-**Note:** You may also need to set up github access token for the repo in question. Else the github action workflow will not be allowed to checkout and make pullrequests (and merge). By default it uses GITHUB_TOKEN that can be configured on your repository project: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#setting-the-permissions-of-the-github_token-for-your-repository \
-I set these permissions in the workflow yml file:
-```python
-permissions:
- contents: write
- pages: write
- id-token: write
-```
-Include as few permissions as possible needed for your project.
+`hitem`
 
 ---
 
-## Customizing Timing and Frequency 
+## What this is for
 
-### Timing Configuration
+Use this when you want to turn one or more RSS/HTML sources into a single feed that can be used by:
 
-- **Collection Window (`time_threshold`)**: Collects entries from the past 2 hours, its set up in the main `*.py` script.
-  ```python
-  time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=2)
-  ```
-- **Cron Job Interval**: Runs every hour (`'0 */1 * * *'`), ensuring regular updates, set up in the github workflow `*.yml` file.
-- **Ingestion Frequency**: Runs every hour, aligning with the cron job to process collected entries. (This is set by you, in the ingestion part, such as teams hooks or powerautomate flow).
+- RSS readers
+- Microsoft Teams RSS connectors
+- Power Automate flows
+- Feedly or similar feed tools
+- Any tool that can poll an RSS/XML feed
 
-### Recommended Settings 
+The generated feed URL will look like this:
 
-- **Standard (Hourly Updates)**: 
-```python
-time_threshold: 2 hours 
-Cron Job Interval: 1 hour 
-Ingestion Frequency: 1 hour (for AppendMode = False)
+```text
+https://<username>.github.io/<repo-name>/aggregated_feed.xml
 ```
-- **Extended (Monthly Updates)**:
-```python
-time_threshold: 60 days 
-Cron Job Interval: 30 days
-Ingestion Frequency: 30 days (for AppendMode = False)
+
+Example:
+
+```text
+https://hitem.github.io/rss-aggregator/aggregated_feed.xml
 ```
-```Note```: First run will actually gather 60 days worth of news (or what you set time_treshold to), but every subsquent run there is filters for links that are not already present. Time_treshold need to overlap the cron job and ingestion so you dont miss anything. \
-```Also note``` that this is not true for AppendMode=True, if appendmode is active it will only ingest whatever timer you set in the py script (default 2hours), so you will not have a 365 days blobb of items added on your first run and no spam to channels will happend.
 
-# Other
-**For your own sanity, if you follow this repo or deploy your own, make sure to: \
-<img src="https://github.com/user-attachments/assets/e453e278-d324-45b1-9d76-f21b6c110a57" width="300"/> \
-If you run every hour it will be very chatty :)**
+---
 
+## Files used
+
+| File | Purpose |
+|---|---|
+| `rss_aggregator.py` | Aggregates RSS feeds |
+| `html_aggregator.py` | Aggregates HTML sources |
+| `aggregated_feed.xml` | The generated RSS/XML feed |
+| `processed_links.txt` | Tracks links that have already been processed |
+| `.github/workflows/rss_aggregator.yml` | Runs the aggregator and deploys GitHub Pages |
+| `requirements.txt` | Python dependencies |
+
+---
+
+## Setup guide
+
+### 1. Create a GitHub repository
+
+Create a new public GitHub repository, for example:
+
+```text
+rss-aggregator
+```
+
+Upload the project files to the repository.
+
+---
+
+### 2. Enable GitHub Pages
+
+Go to:
+
+```text
+Repository -> Settings -> Pages
+```
+
+Set:
+
+```text
+Build and deployment -> Source -> GitHub Actions
+```
+
+This lets the workflow deploy the generated feed to GitHub Pages.
+
+Your Pages site will be:
+
+```text
+https://<username>.github.io/<repo-name>/
+```
+
+Your feed URL will be:
+
+```text
+https://<username>.github.io/<repo-name>/aggregated_feed.xml
+```
+
+---
+
+### 3. Update the feed link in the script
+
+Open either `rss_aggregator.py` or `html_aggregator.py`.
+
+Find the `link` field:
+
+```python
+etree.SubElement(channel, "link").text = "https://<username>.github.io/<repo name>/aggregated_feed.xml"
+```
+
+Replace it with your real feed URL.
+
+Example:
+
+```python
+etree.SubElement(channel, "link").text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
+```
+
+---
+
+### 4. Choose RSS or HTML aggregation
+
+Open:
+
+```text
+.github/workflows/rss_aggregator.yml
+```
+
+For RSS feeds, use:
+
+```yaml
+- name: Run RSS aggregator script
+  run: python rss_aggregator.py
+```
+
+For HTML sources, use:
+
+```yaml
+- name: Run HTML aggregator script
+  run: python html_aggregator.py
+```
+
+---
+
+### 5. Choose feed mode
+
+Open `rss_aggregator.py` or `html_aggregator.py`.
+
+#### Aggregate mode
+
+Use this when your external tool reads the whole feed each time.
+
+```python
+append_mode = False
+```
+
+Good for tools where the ingestion is triggered elsewhere and reads the full `aggregated_feed.xml`.
+
+#### Append mode
+
+Use this when your external tool checks for newly added RSS items.
+
+```python
+append_mode = True
+max_age_days = 365
+```
+
+Good for Feedly, Teams, Power Automate, or other tools that look for new RSS entries.
+
+`max_age_days` controls how long items stay in `aggregated_feed.xml`.
+
+---
+
+### 6. Run the workflow
+
+Go to:
+
+```text
+Repository -> Actions -> RSS & HTML Aggregator -> Run workflow
+```
+
+After the run completes, open:
+
+```text
+https://<username>.github.io/<repo-name>/aggregated_feed.xml
+```
+
+You should see the generated XML feed.
+
+---
+
+## Use the feed in other tools
+
+Use this URL:
+
+```text
+https://<username>.github.io/<repo-name>/aggregated_feed.xml
+```
+
+### Microsoft Teams example
+
+![image](https://github.com/hitem/rss-aggregator/assets/8977898/cb0fbc33-57a7-4012-8cf7-4f9d36a3c1e0)
+
+### Power Automate example
+
+![image](https://github.com/user-attachments/assets/6752ac0c-a4c9-4e63-8d83-6214b8710d47)
+
+### Power Automate with `append_mode = True`
+
+<img width="800" height="220" alt="append_mode_true" src="https://github.com/user-attachments/assets/dda7bc59-53a0-499b-9314-c1f99b986e67" />
+
+---
+
+## GitHub Actions permissions
+
+The workflow needs permission to commit updated files and deploy GitHub Pages.
+
+The workflow should include:
+
+```yaml
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+```
+
+If commits or deployment fail, check:
+
+```text
+Repository -> Settings -> Actions -> General -> Workflow permissions
+```
+
+Make sure GitHub Actions has write access.
+
+More info:
+
+```text
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#setting-the-permissions-of-the-github_token-for-your-repository
+```
+
+Use as few permissions as possible for your project.
+
+---
+
+## Timing and frequency
+
+Timing has three parts:
+
+| Setting | Where | Purpose |
+|---|---|---|
+| `time_threshold` | `rss_aggregator.py` or `html_aggregator.py` | How far back the script looks for items |
+| Cron schedule | `.github/workflows/rss_aggregator.yml` | How often GitHub Actions runs |
+| Ingestion frequency | Your RSS reader / Teams / Power Automate flow | How often the external tool checks the feed |
+
+### Default hourly setup
+
+In the Python script:
+
+```python
+time_threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=3)
+```
+
+In the workflow:
+
+```yaml
+schedule:
+  - cron: "37 * * * *"
+```
+
+Recommended external ingestion frequency: (if `append_mode = false`)
+
+```text
+1 hour
+```
+
+The collection window should overlap the workflow and ingestion interval so you do not miss items.
+
+### Monthly-style setup
+
+Example:
+
+```text
+time_threshold: 60 days
+Cron job interval: 30 days
+Ingestion frequency: 30 days
+```
+
+Note: with `append_mode = False`, the first run can collect a large window of items.
+
+With `append_mode = True`, the feed only appends items found inside the configured script window, so it will not dump a large historical backlog on the first run.
+
+---
+
+## Avoid noisy GitHub notifications
+
+If you fork or watch this repository and run the workflow often, GitHub notifications can become noisy.
+
+For your own sanity, adjust your notification settings:
+
+<img src="https://github.com/user-attachments/assets/e453e278-d324-45b1-9d76-f21b6c110a57" width="300"/>
+
+If you run the workflow every hour with `append_mode = false`, it can get very chatty.
