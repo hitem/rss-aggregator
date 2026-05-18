@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 16 May 2026 10:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:57:13 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -623,5 +623,10 @@ This is how that idea became a product &#8212; the engineering choices that gave
 The concept: what we mean by Agentic SDLC
 Most engineering teams use AI in one of two modes today.
 ...</description></item><item><title>Migrate Sentinel to Defender - Why It Is a Security Architecture Decision, Not Just a Portal Change</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/migrate-sentinel-to-defender-why-it-is-a-security-architecture/ba-p/4513815</link><pubDate>Thu, 14 May 2026 17:56:10 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/migrate-sentinel-to-defender-why-it-is-a-security-architecture/ba-p/4513815</guid><description>Microsoft will retire the Sentinel experience in Azure on&#160;March 31, 2027. Most of the conversation around this transition focuses on cost optimization and portal consolidation. That framing undersells what is actually happening.
-The unified Defender portal is not a new interface for the same capabilities. It is the platform foundation for a fundamentally different SOC operating model &#8212; one built on a 2-tier data architecture, graph-based investigation, and AI agents that can hunt, enrich, and respond at machine speed. Partners who understand this will help customers build security programs tha...</description></item></channel>
+The unified Defender portal is not a new interface for the same capabilities. It is the platform foundation for a fundamentally different SOC operating model &#8212; one built on a 2-tier data architecture, graph-based investigation, and AI agents that can hunt, enrich, and respond at machine speed. Partners who understand this will help customers build security programs tha...</description></item><item><title>Build a Local Microsoft Sentinel Triage Agent in VS Code (Copilot + MCP)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/build-a-local-microsoft-sentinel-triage-agent-in-vs-code-copilot/ba-p/4520486</link><pubDate>Mon, 18 May 2026 04:28:02 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/build-a-local-microsoft-sentinel-triage-agent-in-vs-code-copilot/ba-p/4520486</guid><description>Modern SOC work is not limited by data&#8212;it&#8217;s limited by the friction of collecting it. This post shows a local-first workflow that lets you investigate Microsoft Sentinel incidents from inside VS Code using GitHub Copilot Chat for reasoning and a small, deterministic MCP toolset for evidence retrieval and (optionally) approval-gated writeback.
+What you&#8217;ll take away:
+
+How to structure a Copilot + MCP triage loop that stays grounded in Azure evidence
+A reliability pattern: fall back to KQL when Sentinel subresource APIs are flaky
+A safety pattern: draft-first, explicit-approval writeback for inci...</description></item></channel>
 </rss>
