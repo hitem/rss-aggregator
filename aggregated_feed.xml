@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 18 May 2026 17:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:33:37 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -635,5 +635,9 @@ Every software package exists in a particula...</description></item><item><title
 Why this matters for organizations
 ...</description></item><item><title>Platform SSO during automated device enrollment is now generally available for macOS</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/platform-sso-during-automated-device-enrollment-is-now-generally/ba-p/4436813</link><pubDate>Mon, 18 May 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/platform-sso-during-automated-device-enrollment-is-now-generally/ba-p/4436813</guid><description>Getting new devices into users&#8217; hands quickly while maintaining strong identity and compliance has always required a careful balance. IT admins need streamlined deployment workflows, while end users expect a frictionless experience from the very first sign-in.
 Today, we&#8217;re excited to announce that Platform SSO (PSSO) during Automated Device Enrollment (ADE) on macOS is now generally available. This capability simplifies onboarding by enabling device registration and Platform SSO setup to occur automatically during enrollment, eliminating extra steps for both IT administrators and end users.
-St...</description></item></channel>
+St...</description></item><item><title>Security Review for Microsoft Edge version 148</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-148/ba-p/4521209</link><pubDate>Tue, 19 May 2026 12:57:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-148/ba-p/4521209</guid><description>We have reviewed the new settings in Microsoft Edge version 148 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 139 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 148 introduced 16 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
+&#160;
+As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings...</description></item></channel>
 </rss>

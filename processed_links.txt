@@ -655,3 +655,4 @@
 2026-05-18T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/platform-sso-during-automated-device-enrollment-is-now-generally/ba-p/4436813
 2026-05-18T16:05:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/agent-365-connector-monitor-hunt-and-investigate-ai-agent/ba-p/4520836
 2026-05-18T16:08:17 https://techcommunity.microsoft.com/t5/microsoft-security-community/state-explosion-security-problem-in-ai-era-software-supply/ba-p/4518255
+2026-05-19T12:57:55 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-148/ba-p/4521209
