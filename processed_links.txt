@@ -642,3 +642,4 @@
 2026-05-19T12:57:55 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-148/ba-p/4521209
 2026-05-19T21:11:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/public-preview-expanded-coverage-and-unified-management-for-sql/ba-p/4514652
 2026-05-22T21:14:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/redefining-security-for-an-ai-driven-world/ba-p/4521961
+2026-05-26T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/find-shadow-tenants-and-reduce-risk-fast-with-microsoft-entra/ba-p/4521996
