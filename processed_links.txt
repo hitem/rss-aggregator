@@ -636,3 +636,4 @@
 2026-05-31T11:47:34 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/introducing-the-updated-exposure-score-in-microsoft-defender/ba-p/4524217
 2026-06-01T09:57:18 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-may-2026/ba-p/4523419
 2026-06-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/now-generally-available-microsoft-defender-for-open-source/ba-p/4514651
+2026-06-01T19:38:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/share-your-use-case-in-a-lighting-talk/ba-p/4524579
