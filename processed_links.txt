@@ -634,3 +634,4 @@
 2026-05-28T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor
 2026-05-29T06:52:47 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-protection-azure-waf-a-layered-defense-for-modern/ba-p/4523745
 2026-05-31T11:47:34 https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/introducing-the-updated-exposure-score-in-microsoft-defender/ba-p/4524217
+2026-06-01T09:57:18 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-may-2026/ba-p/4523419
