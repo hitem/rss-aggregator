@@ -1,4 +1,3 @@
-2025-06-02T21:18:20 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-part-2-automate-the-mundane-away/ba-p/4416378
 2025-06-03T12:38:16 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-137/ba-p/4420095
 2025-06-03T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-are-now-fips-140-3/ba-p/4418975
 2025-06-03T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-managed-hsm-and-azure-key-vault-premium-hsm-devices/ba-p/4418974
@@ -638,3 +637,4 @@
 2026-06-01T19:38:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/share-your-use-case-in-a-lighting-talk/ba-p/4524579
 2026-06-02T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/the-next-frontier-in-endpoint-security-securing-local-ai-agents/ba-p/4524651
 2026-06-02T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-windows-features-to-secure-today-s-data-in-a-post-quantum/ba-p/4523370
+2026-06-02T21:22:01 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/start-secure-stay-secure-how-microsoft-is-closing-the-gap-from/ba-p/4524580
