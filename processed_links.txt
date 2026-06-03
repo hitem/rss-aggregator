@@ -638,3 +638,4 @@
 2026-06-02T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/the-next-frontier-in-endpoint-security-securing-local-ai-agents/ba-p/4524651
 2026-06-02T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-windows-features-to-secure-today-s-data-in-a-post-quantum/ba-p/4523370
 2026-06-02T21:22:01 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/start-secure-stay-secure-how-microsoft-is-closing-the-gap-from/ba-p/4524580
+2026-06-03T07:18:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/designing-cloud-landing-zones-by-traffic-flow-a-defence-in-depth/ba-p/4524280
