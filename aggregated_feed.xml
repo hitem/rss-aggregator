@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 04 Jun 2026 19:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:31:28 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -663,5 +663,16 @@ TL;DR: Your day 2 playbook is here
 
 What&#8217;s new? A prescriptive Microsoft Entra Global Secure Access operations guide on Microsoft Learn
 Why it matters: It brings actionable, alert-first procedures for teams running Global Secure Access after deployment
-What&#8217;s inside: A role matrix, automated health checks, capability-specific guides, templ...</description></item></channel>
+What&#8217;s inside: A role matrix, automated health checks, capability-specific guides, templ...</description></item><item><title>Enhancements to Device Status API &amp; Logged-In User Email in Endpoint DLP</title><link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/enhancements-to-device-status-api-logged-in-user-email-in/ba-p/4512046</link><pubDate>Fri, 05 Jun 2026 19:34:11 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-purview-blog/enhancements-to-device-status-api-logged-in-user-email-in/ba-p/4512046</guid><description>1. The Real&#8209;World Problem Endpoint DLP analyst Faced (What Was Missing Earlier)
+Before the introduction of the Device Status API enhancements and logged&#8209;in user visibility, Endpoint DLP teams consistently struggled in below discussed areas:
+Device Visibility Was Fragmented and Manual -&#160;Customers repeatedly told us:
+
+We know some devices are unhealthy, but we don&#8217;t know who owns them.
+We export the onboarding table to Excel every week just to understand drift.
+By the time we detect a policy issue, the user is already blocked or impacted.
+
+In practice, this meant:
+
+Device onboarding views were s...</description></item><item><title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title><link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link><pubDate>Fri, 05 Jun 2026 19:32:44 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</guid><description>Organizations are moving fast with AI, and many of those AI workloads are not staying in one cloud. A team might use Microsoft 365 and Microsoft Purview for governance and in addition to Microsoft Foundry they may still choose to run an AI agent on AWS Bedrock or on the Google Cloud Platform. The technical challenge is straightforward: how do you keep one consistent set of data security, governance, and compliance controls when the agent itself runs outside Microsoft Azure?
+This is where Microsoft Purview becomes the central policy engine for your data estate. In this post, we show why that ma...</description></item></channel>
 </rss>

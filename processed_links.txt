@@ -628,3 +628,5 @@
 2026-06-03T07:18:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/designing-cloud-landing-zones-by-traffic-flow-a-defence-in-depth/ba-p/4524280
 2026-06-04T18:25:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/run-global-secure-access-with-confidence-introducing-the-gsa/ba-p/4524891
 2026-06-04T18:30:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4525656
+2026-06-05T19:32:44 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984
+2026-06-05T19:34:11 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/enhancements-to-device-status-api-logged-in-user-email-in/ba-p/4512046
