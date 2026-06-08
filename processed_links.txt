@@ -630,3 +630,5 @@
 2026-06-04T18:30:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4525656
 2026-06-05T19:32:44 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984
 2026-06-05T19:34:11 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/enhancements-to-device-status-api-logged-in-user-email-in/ba-p/4512046
+2026-06-08T10:52:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-worm-in-the-supply-chain-how-defender-for-endpoint-and/ba-p/4526246
+2026-06-08T11:32:08 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-149/ba-p/4526371
