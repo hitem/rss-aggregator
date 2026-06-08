@@ -632,3 +632,4 @@
 2026-06-05T19:34:11 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/enhancements-to-device-status-api-logged-in-user-email-in/ba-p/4512046
 2026-06-08T10:52:16 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-worm-in-the-supply-chain-how-defender-for-endpoint-and/ba-p/4526246
 2026-06-08T11:32:08 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-149/ba-p/4526371
+2026-06-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368
