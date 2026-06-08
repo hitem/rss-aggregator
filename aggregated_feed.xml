@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 08 Jun 2026 16:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 22:13:58 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -683,5 +683,9 @@ For a brief window that morning, affected developers have executed a credential-
 SAP developers don't usually think of themselves as a juicy npm target. CAP, BTP, Fiori - that's enterprise turf, not crypto-stealer type territory &#8211; Until it is. Join me for the ride.
 See our latest click-vide...</description></item><item><title>Microsoft Defender now monitors RPC activity</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368</link><pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368</guid><description>Remote procedure call (RPC) is a protocol commonly abused by attackers that allows functions implemented in a separate process, and potentially on a remote machine, to be called as if they were local. Many core Windows and Active Directory capabilities are built on or make use of RPC, which makes it an attractive target. To help protect against remote RPC-based attacks, Microsoft Defender now monitors remote RPC calls, disrupts malicious activity that leverages them, and surfaces relevant telemetry in advanced hunting.
 RPC basics
-While RPC is a rich and complicated protocol, the main component...</description></item></channel>
+While RPC is a rich and complicated protocol, the main component...</description></item><item><title>Tools for Azure AD B2C migration now available</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tools-for-azure-ad-b2c-migration-now-available/ba-p/4525678</link><pubDate>Mon, 08 Jun 2026 20:38:36 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tools-for-azure-ad-b2c-migration-now-available/ba-p/4525678</guid><description>&#160;
+If you rely on Azure AD B2C for customer identity, you&#8217;re likely starting to evaluate what comes next. With Azure AD B2C no longer receiving new features and several features recently added to Microsoft Entra External ID, planning your migration is easier and can help you with this important next step in your identity strategy.
+Below you&#8217;ll find tooling, guidance, and a partner ecosystem resource to help you migrate with confidence. This post walks through what&#8217;s available and how to get started.
+What&#8217;s new: Platform updates and migration tooling
+Microsoft has invested significantly in Micro...</description></item></channel>
 </rss>
