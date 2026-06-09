@@ -1,5 +1,3 @@
-2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/ba-p/4418866
-2025-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ensuring-smooth-migrations-with-adms-portal-s-preflight-checks/ba-p/4421401
 2025-06-09T20:41:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-device-control-for-macos-in-defender-for-endpoint/ba-p/4422162
 2025-06-10T12:11:15 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-integration-in-security-copilot-is-now-generally/ba-p/4422055
 2025-06-10T16:08:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-2025/ba-p/4422464
@@ -633,3 +631,5 @@
 2026-06-08T11:32:08 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-149/ba-p/4526371
 2026-06-08T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368
 2026-06-08T20:38:36 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/tools-for-azure-ad-b2c-migration-now-available/ba-p/4525678
+2026-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/elevate-your-telemetry-using-custom-data-collection-in-microsoft/ba-p/4512530
+2026-06-09T17:09:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-azure-network-security-skills-with-our-upcoming/ba-p/4525584
