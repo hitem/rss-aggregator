@@ -626,3 +626,4 @@
 2026-06-09T17:09:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-azure-network-security-skills-with-our-upcoming/ba-p/4525584
 2026-06-11T12:15:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/analyse-intune-diagnostics-logs-with-github-copilot/ba-p/4527500
 2026-06-11T19:38:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-deep-dive-into-azure-bastion-session-recording/ba-p/4527583
+2026-06-15T13:42:38 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/tls-certificate-pinning-and-best-practices-in-azure-open-source/ba-p/4519531
