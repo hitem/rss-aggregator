@@ -624,3 +624,4 @@
 2026-06-17T18:44:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-plan-1-is-now-rolling-out-to/ba-p/4527287
 2026-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detection-and-automation-reimagined/ba-p/4527933
 2026-06-18T20:49:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-security-copilot-ai-driven-security-operations-at/ba-p/4528912
+2026-06-18T21:36:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-june-2026/ba-p/4529349
