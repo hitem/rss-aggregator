@@ -619,3 +619,4 @@
 2026-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detection-and-automation-reimagined/ba-p/4527933
 2026-06-18T20:49:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-security-copilot-ai-driven-security-operations-at/ba-p/4528912
 2026-06-18T21:36:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-june-2026/ba-p/4529349
+2026-06-24T12:30:00 https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them
