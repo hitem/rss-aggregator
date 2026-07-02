@@ -50,9 +50,9 @@ rss_feed_urls = [
 output_file = "aggregated_feed.xml"
 processed_links_file = "processed_links.txt"
 
-# Define the time threshold: only process entries from the last 3 hours.
+# Define the time threshold: only process entries from the last 4 days (3 hours should be default).
 recent_time_threshold = datetime.datetime.now(
-    datetime.timezone.utc) - datetime.timedelta(hours=3)
+    datetime.timezone.utc) - datetime.timedelta(days=4)
 
 # Helper to normalize URLs (remove fragments, queries, and trailing slashes)
 def normalize_url(url: str) -> str:
