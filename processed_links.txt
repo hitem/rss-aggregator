@@ -601,6 +601,15 @@
 2026-06-18T21:36:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-june-2026/ba-p/4529349
 2026-06-24T12:30:00 https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them
 2026-06-24T20:30:26 https://techcommunity.microsoft.com/t5/microsoft-security-community/how-karambit-ai-and-microsoft-bring-software-authenticity-to-14/ba-p/4528606
+2026-06-29T04:38:32 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/authenticating-aws-workloads-to-azure-functions-using-workload/ba-p/4531603
 2026-06-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/your-readiness-playbook-adoption-helper-costs-apis-and-the/ba-p/4528608
+2026-06-29T17:48:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/understand-your-sentinel-tables-at-a-glance-monitor-with-table/ba-p/4530738
+2026-06-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-build-with-gigamon-enriching-microsoft-sentinel-with/ba-p/4530360
+2026-06-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-ai-first-soc-copilot-ueba-threat-intelligence-and-soc/ba-p/4528609
 2026-06-30T16:43:18 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-june-2026/ba-p/4531902
+2026-06-30T16:43:45 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-state-of-mcp-security-in-2026/ba-p/4531327
+2026-06-30T17:36:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-multicloud-coverage-across/ba-p/4532200
 2026-06-30T18:27:57 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-backup-and-recovery-is-now-generally-available/ba-p/4521997
+2026-06-30T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-unified-alert-experience-for-microsoft-purview/ba-p/4530714
+2026-07-01T09:30:09 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2026/ba-p/4532402
+2026-07-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/extend-data-security-to-the-network-with-microsoft-purview-and/ba-p/4531929
