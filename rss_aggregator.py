@@ -71,12 +71,16 @@ except FileNotFoundError:
 # Asynchronous function to fetch RSS feed content
 async def fetch_rss_feed(url, session):
     try:
-        async with session.get(url, timeout=10) as response:
+        separator = "&" if "?" in url else "?"
+        cache_buster = int(datetime.datetime.now(datetime.timezone.utc).timestamp())
+        fetch_url = f"{url}{separator}_cb={cache_buster}"
+
+        async with session.get(fetch_url, timeout=10) as response:
             if response.status == 200:
                 content = await response.text()
                 return feedparser.parse(content)
             else:
-                print(f"Error fetching {url}: HTTP {response.status}")
+                print(f"Error fetching {fetch_url}: HTTP {response.status}")
                 return None
     except Exception as e:
         print(f"Error fetching {url}: {e}")
