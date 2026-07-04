@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 02 Jul 2026 19:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 17:39:50 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -753,5 +753,7 @@ At the same time, they introduce new visibility and post...</description></item>
 Microsoft Defender for Open-Source Relational Databases is now generally available for Amazon Web Services Relational Database Service (AWS RDS) instances. Receive database threat protection and sensitive data discovery insights for supported open-source relational databases, including Aurora PostgreSQL, Aurora MySQL, PostgreSQL, MySQL, and MariaDB on AWS RDS.
 For more information, see our public&#160;documentation.
 Expanded multicloud security coverage now GA
-Microsoft Defender for Cloud's expanded multicloud security coverage is now generally available. This rele...</description></item></channel>
+Microsoft Defender for Cloud's expanded multicloud security coverage is now generally available. This rele...</description></item><item><title>Windows 365 Boot</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-boot/ba-p/4533696</link><pubDate>Sat, 04 Jul 2026 17:01:23 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-boot/ba-p/4533696</guid><description>Hi folks &#8211; Mike Hildebrand here!&#160; It&#8217;s the July 4th holiday here in the good 'ol USA and happens to also be our country&#8217;s 250th birthday &#8230; and where I live, that means it&#8217;s probably hot.&#160; VERY hot.&#160; So, I&#8217;m taking some time to enjoy the A/C and type up a &#8216;cool&#8217; post about a &#8216;cool&#8217; solution.&#160;
+In the land of Windows 365, there are a couple of physical endpoint connectivity options &#8211; the Windows App or browser from any device and thin-client or other purpose-built devices, like our own Link (and&#160;one soon coming from Asus).&#160;
+We also have another option called Windows 365 Boot.&#160; In this nifty littl...</description></item></channel>
 </rss>
