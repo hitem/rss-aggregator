@@ -616,3 +616,4 @@
 2026-07-04T17:01:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-365-boot/ba-p/4533696
 2026-07-06T12:40:50 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/turning-azure-policy-signals-into-actionable-governance-insights/ba-p/4534126
 2026-07-07T11:47:08 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-database-security-newsletter-july-2026/ba-p/4534477
+2026-07-07T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/govern-ai-agent-identities-and-access-the-same-way-you-govern/ba-p/4529302
