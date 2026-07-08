@@ -615,3 +615,4 @@
 2026-07-07T11:47:08 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-database-security-newsletter-july-2026/ba-p/4534477
 2026-07-07T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/govern-ai-agent-identities-and-access-the-same-way-you-govern/ba-p/4529302
 2026-07-08T13:08:36 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-now-integrates-with-dragos-forescout-armis/ba-p/4534936
+2026-07-08T18:16:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/defending-the-inbox-against-prompt-injection-attacks/ba-p/4534636
