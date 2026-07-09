@@ -1,4 +1,3 @@
-2025-07-09T16:48:01 https://techcommunity.microsoft.com/t5/microsoft-security-community/comprehensive-guide-to-dlp-policy-tips/ba-p/4431424
 2025-07-10T14:15:38 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-custom-intune-reports-with-microsoft-graph-api/ba-p/4431346
 2025-07-10T14:31:49 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/planning-your-move-to-microsoft-defender-portal-for-all/ba-p/4432055
 2025-07-14T14:48:57 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-watchlists-in-microsoft-sentinel/ba-p/4432054
@@ -614,3 +613,4 @@
 2026-07-07T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/govern-ai-agent-identities-and-access-the-same-way-you-govern/ba-p/4529302
 2026-07-08T13:08:36 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-now-integrates-with-dragos-forescout-armis/ba-p/4534936
 2026-07-08T18:16:22 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/defending-the-inbox-against-prompt-injection-attacks/ba-p/4534636
+2026-07-09T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware
