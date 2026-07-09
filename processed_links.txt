@@ -1,4 +1,3 @@
-2025-07-09T00:15:36 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-kubernetes-applications-with-ingress-controller-and/ba-p/4431410
 2025-07-09T08:44:05 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-entra-external-id/ba-p/4430688
 2025-07-09T16:48:01 https://techcommunity.microsoft.com/t5/microsoft-security-community/comprehensive-guide-to-dlp-policy-tips/ba-p/4431424
 2025-07-10T14:15:38 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/creating-custom-intune-reports-with-microsoft-graph-api/ba-p/4431346
