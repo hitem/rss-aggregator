@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 09 Jul 2026 19:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:55:34 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -764,5 +764,10 @@ To support customers in bringing their OT security solutions into their Security
 The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog....</description></item><item><title>Secure Native Access to Azure Kubernetes Service (AKS) Private Clusters with Azure Bastion</title><link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/secure-native-access-to-azure-kubernetes-service-aks-private/ba-p/4535123</link><pubDate>Thu, 09 Jul 2026 18:07:27 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/secure-native-access-to-azure-kubernetes-service-aks-private/ba-p/4535123</guid><description>Written in Collaboration with&#160;AvirupChat&#8203;&#160;ShabazShaik&#8203; Mohit_Kumar&#8203; YuriDiogenes&#8203;&#160;
 Introduction:
 As organizations move toward&#160;containerized workloads such as Azure Kubernetes Service (AKS), secure access to cluster resources becomes critical. Making the Kubernetes API server private, therefore, significantly reduces the attack surface. However, it also changes how engineers perform routine management tasks. Operations as simple as running kubectl logs, describing resources, or troubleshooting workloads require connectivity to the virtual network hosting the cluster.
-This challenge becomes even...</description></item></channel>
+This challenge becomes even...</description></item><item><title>When Arc Goes Silent: Turning Visibility Gaps into SOC Action</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/when-arc-goes-silent-turning-visibility-gaps-into-soc-action/ba-p/4535711</link><pubDate>Fri, 10 Jul 2026 12:07:15 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/when-arc-goes-silent-turning-visibility-gaps-into-soc-action/ba-p/4535711</guid><description>Hybrid blind spots rarely announce themselves. They appear when an&#160;Azure Arc-enabled server&#160;drops out, health signals go stale, and the SOC loses confidence in monitoring coverage. This playbook uses&#160;Microsoft Sentinel&#160;and&#160;Logic Apps to turn that noise into one clear daily signal the team can act on.&#160;
+&#160;
+The problem: too much noise, not enough assurance&#160;
+One unhealthy server, one alert, one more email&#8212;at scale, that does not help the SOC. What leaders need is assurance: where visibility is weakening, which systems matter, and when action is needed.&#160;
+&#160;
+The use case: daily assurance for hybrid mo...</description></item></channel>
 </rss>
