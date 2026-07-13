@@ -615,3 +615,4 @@
 2026-07-09T18:07:27 https://techcommunity.microsoft.com/t5/azure-network-security-blog/secure-native-access-to-azure-kubernetes-service-aks-private/ba-p/4535123
 2026-07-10T12:07:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/when-arc-goes-silent-turning-visibility-gaps-into-soc-action/ba-p/4535711
 2026-07-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-toward-an-agentic-soc-a-portable-autonomous-malware/ba-p/4526872
+2026-07-13T20:50:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2026/ba-p/4536608

@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Jul 2026 17:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:32:56 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -770,5 +770,11 @@ The problem: too much noise, not enough assurance&#160;
 One unhealthy server, one alert, one more email&#8212;at scale, that does not help the SOC. What leaders need is assurance: where visibility is weakening, which systems matter, and when action is needed.&#160;
 &#160;
 The use case: daily assurance for hybrid mo...</description></item><item><title>Building toward an Agentic SOC: A Portable, Autonomous Malware Investigation Agent</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-toward-an-agentic-soc-a-portable-autonomous-malware/ba-p/4526872</link><pubDate>Mon, 13 Jul 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-toward-an-agentic-soc-a-portable-autonomous-malware/ba-p/4526872</guid><description>Modern Security Operations Centers are not short on tools. They are short on continuity. Analysts jump from alert consoles to data exploration, from enrichment to investigation, and from evidence gathering to response&#8212;often across multiple interfaces and disconnected workflows.
-A single malware incident may begin in Microsoft Sentinel, require enrichment in Defender, depend on targeted KQL hunting, and end with manual response actions somewhere else. Every handoff adds friction. Every context switch slows triage. And every inconsistency increases the risk of missed signals or delayed containme...</description></item></channel>
+A single malware incident may begin in Microsoft Sentinel, require enrichment in Defender, depend on targeted KQL hunting, and end with manual response actions somewhere else. Every handoff adds friction. Every context switch slows triage. And every inconsistency increases the risk of missed signals or delayed containme...</description></item><item><title>Check This Out! (CTO!) Guide (July 2026)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2026/ba-p/4536608</link><pubDate>Mon, 13 Jul 2026 20:50:04 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2026/ba-p/4536608</guid><description>Member: TysonPaul | Microsoft Community Hub
+
+Triage vulnerabilities with the Vulnerability Remediation Agent, now in public preview
+Team Blog: Intune Customer Success
+Author: Intune_Support_Team
+Published: 06/16/2026
+Summary: Microsoft has launched the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune, now in public preview. This agent automates the identification, prioritization, and remediation of vulnerabilities on Intune-managed Windows devices using data from Microsoft Defender. It provides prioritized recommendations, Copilot-assisted impact analysis, and step-by-s...</description></item></channel>
 </rss>
