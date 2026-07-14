@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 13 Jul 2026 22:32:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:48:25 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -776,5 +776,7 @@ Triage vulnerabilities with the Vulnerability Remediation Agent, now in public p
 Team Blog: Intune Customer Success
 Author: Intune_Support_Team
 Published: 06/16/2026
-Summary: Microsoft has launched the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune, now in public preview. This agent automates the identification, prioritization, and remediation of vulnerabilities on Intune-managed Windows devices using data from Microsoft Defender. It provides prioritized recommendations, Copilot-assisted impact analysis, and step-by-s...</description></item></channel>
+Summary: Microsoft has launched the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune, now in public preview. This agent automates the identification, prioritization, and remediation of vulnerabilities on Intune-managed Windows devices using data from Microsoft Defender. It provides prioritized recommendations, Copilot-assisted impact analysis, and step-by-s...</description></item><item><title>Hunting Local AI Tools on macOS with Microsoft Defender for Endpoint</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/hunting-local-ai-tools-on-macos-with-microsoft-defender-for/ba-p/4536965</link><pubDate>Tue, 14 Jul 2026 16:42:42 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/hunting-local-ai-tools-on-macos-with-microsoft-defender-for/ba-p/4536965</guid><description>AI tooling is moving fast. Developers are running models locally, agents are spinning up local servers, and frameworks are adding new ways to extend the endpoint with skills, tools, and memory. That creates a useful productivity surface, but it also presents new challenges for security and governance teams.&#160;
+A set of AI focused detection and protective Defender for Endpoint features are now in preview &#8211; Local AI Agent and MCP detection and inventory as well as AI Agent security posture&#8211; both announced in detail here on the Microsoft Defender XDR blog .&#160;
+Those capabilities are emerging, but def...</description></item></channel>
 </rss>
