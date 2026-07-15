@@ -1,5 +1,3 @@
-2025-07-15T13:18:19 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vaults-logs/ba-p/4432149
-2025-07-15T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-and-govern-ai-apps-and-agents-with-microsoft-purview/ba-p/4429925
 2025-07-15T15:53:09 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/cloud-forensics-why-enabling-microsoft-azure-key-vault-logs/ba-p/4432149
 2025-07-15T17:28:49 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-four-new-regulatory-frameworks/ba-p/4433440
 2025-07-16T13:25:03 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-microsoft-sentinel-playbook-fundamentals/ba-p/4424475
@@ -613,3 +611,6 @@
 2026-07-13T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-toward-an-agentic-soc-a-portable-autonomous-malware/ba-p/4526872
 2026-07-13T20:50:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2026/ba-p/4536608
 2026-07-14T16:42:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/hunting-local-ai-tools-on-macos-with-microsoft-defender-for/ba-p/4536965
+2026-07-15T13:41:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-solution-optimization-for-github-copilot/ba-p/4536886
+2026-07-15T14:05:55 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-scheduled-antivirus-scans-on-microsoft-defender/ba-p/4524578
+2026-07-15T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-everywhere-are-your-access-controls-ready/ba-p/4531379
