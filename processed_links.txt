@@ -613,3 +613,4 @@
 2026-07-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-privileged-token-context-telemetry-boosts-advanced-hunting/ba-p/4528613
 2026-07-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-asim-parser-creation-agentic-experience/ba-p/4532266
 2026-07-16T01:36:21 https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery
+2026-07-16T23:12:02 https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity

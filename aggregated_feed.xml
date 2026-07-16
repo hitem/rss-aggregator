@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 16 Jul 2026 03:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:32:25 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -793,5 +793,6 @@ When a user logs on, Windows&#8217;&#160;Local Security Authority (LSA)&#160;con
 Today, we are introducing a new agentic experience available now as open source that helps security teams move faster: an AI-guided workflow for creating ASIM parsers end to end.
 Why this matters
 ASIM parsers are the normalization layer that makes detections, h...</description></item><item><title>Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery</title><link>https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/</link><pubDate>Thu, 16 Jul 2026 01:36:21 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=148725</guid><description>Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses.
-The post Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery appeared first on Microsoft Security Blog.</description></item></channel>
+The post Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery appeared first on Microsoft Security Blog.</description></item><item><title>ACR Stealer: Two observed intrusion chains amid increased threat activity</title><link>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</link><pubDate>Thu, 16 Jul 2026 23:12:02 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=148744</guid><description>From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.
+The post ACR Stealer: Two observed intrusion chains amid increased threat activity appeared first on Microsoft Security Blog....</description></item></channel>
 </rss>
