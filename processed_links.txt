@@ -1,4 +1,3 @@
-2025-07-21T17:01:47 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/strengthen-identity-threat-detection-and-response-with-linkable/ba-p/4434615
 2025-07-22T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-sentinel-data-lake/ba-p/4434280
 2025-07-22T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-pricing-preview/ba-p/4433919
 2025-07-22T13:21:32 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-is-converging-into-microsoft-sentinel-and-defender-xdr/ba-p/4427991
@@ -609,3 +608,4 @@
 2026-07-20T12:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-lighthouse-bring-your-partner-in-without-letting-their/ba-p/4529852
 2026-07-20T17:18:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/plan-your-azure-ad-b2c-migration-with-the-migration-policy/ba-p/4532874
 2026-07-20T21:26:12 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-ai-web-and-private-apps-with-zero-trust/ba-p/4516387
+2026-07-21T17:58:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-enhances-security-of-branded-sign-ins/ba-p/4537471
