@@ -604,3 +604,4 @@
 2026-07-20T17:18:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/plan-your-azure-ad-b2c-migration-with-the-migration-policy/ba-p/4532874
 2026-07-20T21:26:12 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-ai-web-and-private-apps-with-zero-trust/ba-p/4516387
 2026-07-21T17:58:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-enhances-security-of-branded-sign-ins/ba-p/4537471
+2026-07-23T12:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/should-you-use-the-new-microsoft-entra-tenant-governance-or/ba-p/4532297
