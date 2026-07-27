@@ -605,3 +605,5 @@
 2026-07-24T17:47:47 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-july-2026/ba-p/4534631
 2026-07-27T00:46:16 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/device-code-flow-the-gift-that-keeps-on-giving-to-attackers/ba-p/4540949
 2026-07-27T12:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/how-nationwide-stays-ahead-of-attackers-with-project-perception/ba-p/4540534
+2026-07-27T16:47:02 https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-security-skills-this-august-with-the-microsoft/ba-p/4541235
+2026-07-27T17:37:49 https://techcommunity.microsoft.com/t5/microsoft-security-community/securing-ai-agents-at-runtime-real-time-protection-and-threat/ba-p/4541255
