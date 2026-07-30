@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 29 Jul 2026 18:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:58:47 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -828,5 +828,24 @@ Latest features converging
 Entity enrichments: all the intel, right where you need it
 Defender entity pages surface threat intelligence enrichm...</description></item><item><title>The Microsoft AI and Agent Platform &#8212; The Platform Behind Intelligent Agents</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-ai-and-agent-platform-the-platform-behind/ba-p/4539060</link><pubDate>Wed, 29 Jul 2026 18:05:42 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-ai-and-agent-platform-the-platform-behind/ba-p/4539060</guid><description>Why the platform around the model is the real enterprise differentiator
 Enterprise AI has reached a turning point. Beyond answering questions, it can now reason over business context, retrieve knowledge, use tools, coordinate workflows, and act across enterprise systems. This shift raises a critical question: How can organizations build agents intelligent enough to transform work while ensuring they remain trusted, governed, and ready to operate at enterprise scale?
-The answer is not a single model, chatbot, or orchestration framework. Foundation models are advancing quickly and increasingly b...</description></item></channel>
+The answer is not a single model, chatbot, or orchestration framework. Foundation models are advancing quickly and increasingly b...</description></item><item><title>Built to Protect: The Architecture Behind Codename MDASH</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/built-to-protect-the-architecture-behind-codename-mdash/ba-p/4541662</link><pubDate>Thu, 30 Jul 2026 18:45:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/built-to-protect-the-architecture-behind-codename-mdash/ba-p/4541662</guid><description>Information Table
+
+Defender Foundations
+
+RegionalOperation
+
+AI &amp; DataContainment
+
+ResponsibleGovernance
+
+Built as a production Microsoft Security service, not an isolated research system.
+
+Operates alongside Microsoft Defender in the clouds and regions customers already use.
+
+Designed to keep source, findings, and security data inside controlled boundaries.
+
+Security, privacy, compliance, responsible AI, and operational readiness.
+
+A new class of AI security needs a new level of trust
+When Microsoft introduced Codename MDASH, we shared a major step forward in AI-powered vulnerability discovery...</description></item></channel>
 </rss>
