@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 31 Jul 2026 05:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 18:07:22 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -859,5 +859,7 @@ Interact with business applications
 Make decisions on behalf of users
 
 While these capabilities improve productivity, they introduce a new attack surface that security teams must monitor and secure.
-Common AI t...</description></item></channel>
+Common AI t...</description></item><item><title>Detecting CVE-2026-54121 (Certighost) with Microsoft Defender</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-cve-2026-54121-certighost-with-microsoft-defender/ba-p/4542861</link><pubDate>Fri, 31 Jul 2026 17:41:07 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-cve-2026-54121-certighost-with-microsoft-defender/ba-p/4542861</guid><description>What is CVE-2026-54121?
+CVE-2026-54121 is an authentication-bypass vulnerability in Active Directory Certificate Services that allows an attacker to obtain certificates for arbitrary domain computer accounts, including Domain Controllers. A valid Domain Controller certificate enables escalation to full domain compromise: it can be used to obtain Kerberos tickets that authenticate the attacker as a Domain Controller. Those tickets can then be used to perform attacks such as DCSync, or to recover the Domain Controller's password hash for later use.
+The flaw lies in an AD CS enrollment fallback k...</description></item><item><title>What&#8217;s new in Microsoft Sentinel: July 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-july-2026/ba-p/4542130</link><pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-july-2026/ba-p/4542130</guid><description>Welcome back to What's new in Microsoft Sentinel. In July, Sentinel adds custom detections support in Sentinel repositories, so you can manage detections as code alongside your analytics rules, playbooks, parsers, and workbooks, authoring in GitHub and deploying through the CI/CD pipelines you already use. In Sentinel data lake, table insights brings table-level observability into the Microsoft Defender portal, helping you track ingestion volume, spot week-over-week changes, and catch connectors that have gone silent, all without running a single KQL query. Connector coverage also expands with...</description></item></channel>
 </rss>

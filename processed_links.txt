@@ -1,4 +1,3 @@
-2025-07-31T17:28:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimize-azure-firewall-logs-with-selective-logging/ba-p/4438242
 2025-07-31T20:41:54 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protection-against-multi-modal-attacks-with-microsoft-defender/ba-p/4438786
 2025-07-31T22:47:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2025/ba-p/4438811
 2025-08-01T05:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2025/ba-p/4438813
@@ -605,3 +604,5 @@
 2026-07-29T18:05:42 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-ai-and-agent-platform-the-platform-behind/ba-p/4539060
 2026-07-30T18:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/built-to-protect-the-architecture-behind-codename-mdash/ba-p/4541662
 2026-07-31T02:30:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-enterprise-ai-agents-with-microsoft-sentinel/ba-p/4542583
+2026-07-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-july-2026/ba-p/4542130
+2026-07-31T17:41:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-cve-2026-54121-certighost-with-microsoft-defender/ba-p/4542861
