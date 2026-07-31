@@ -1,4 +1,3 @@
-2025-07-31T20:41:54 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protection-against-multi-modal-attacks-with-microsoft-defender/ba-p/4438786
 2025-07-31T22:47:55 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-june-2025/ba-p/4438811
 2025-08-01T05:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-july-2025/ba-p/4438813
 2025-08-04T04:16:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/optimize-azure-log-costs-split-tables-and-use-the-auxiliary-tier/ba-p/4439560
@@ -606,3 +605,4 @@
 2026-07-31T02:30:39 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-enterprise-ai-agents-with-microsoft-sentinel/ba-p/4542583
 2026-07-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-july-2026/ba-p/4542130
 2026-07-31T17:41:07 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detecting-cve-2026-54121-certighost-with-microsoft-defender/ba-p/4542861
+2026-07-31T21:01:37 https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft
