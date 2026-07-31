@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 30 Jul 2026 18:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:05:12 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -847,5 +847,17 @@ Designed to keep source, findings, and security data inside controlled boundarie
 Security, privacy, compliance, responsible AI, and operational readiness.
 
 A new class of AI security needs a new level of trust
-When Microsoft introduced Codename MDASH, we shared a major step forward in AI-powered vulnerability discovery...</description></item></channel>
+When Microsoft introduced Codename MDASH, we shared a major step forward in AI-powered vulnerability discovery...</description></item><item><title>Securing Enterprise AI Agents with Microsoft Sentinel</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-enterprise-ai-agents-with-microsoft-sentinel/ba-p/4542583</link><pubDate>Fri, 31 Jul 2026 02:30:39 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-enterprise-ai-agents-with-microsoft-sentinel/ba-p/4542583</guid><description>1.&#160;&#160;&#160;&#160; Introduction
+Enterprise adoption of Generative AI is accelerating rapidly through Microsoft 365 Copilot, Copilot Studio, Azure AI Foundry Agents, Security Copilot, and custom AI agents integrated with business applications.
+Unlike traditional SaaS applications, AI agents can:
+
+Access enterprise data
+Query internal knowledge repositories
+Invoke APIs and MCP tools
+Execute workflows
+Interact with business applications
+Make decisions on behalf of users
+
+While these capabilities improve productivity, they introduce a new attack surface that security teams must monitor and secure.
+Common AI t...</description></item></channel>
 </rss>
