@@ -606,3 +606,4 @@
 2026-07-31T21:01:37 https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft
 2026-08-03T13:35:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-ai-experiments-to-digital-workforce-do-enterprises-need-a/ba-p/4542520
 2026-08-03T14:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-ai-agents-may-require-a-new-security-operations-model/ba-p/4542532
+2026-08-03T15:46:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-by-default-trusted-launch-as-default-is-now-generally/ba-p/4541672
