@@ -606,3 +606,4 @@
 2026-08-03T15:46:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-by-default-trusted-launch-as-default-is-now-generally/ba-p/4541672
 2026-08-03T18:50:45 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-customer-newsletter/ba-p/4543596
 2026-08-03T19:03:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2026/ba-p/4543597
+2026-08-04T22:19:54 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-security-updates-what-organizations-need-to/ba-p/4522024
