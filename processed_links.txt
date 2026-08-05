@@ -1,4 +1,3 @@
-2025-08-05T21:53:54 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/memory-under-siege-the-silent-evolution-of-credential-theft/ba-p/4440308
 2025-08-06T07:33:04 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-healthy-to-unhealthy-alerting-on-defender-for-cloud/ba-p/4440520
 2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301
 2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196
@@ -609,3 +608,4 @@
 2026-08-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-a-ccf-nested-api-pull-connector-a-technical-lab/ba-p/4537027
 2026-08-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-nested-api-support-comes-to-microsoft-sentinel/ba-p/4537026
 2026-08-05T17:24:44 https://techcommunity.microsoft.com/t5/microsoft-security-community/mcp-safety-evaluation-with-the-agent-365-cli-agent-governance/ba-p/4543969
+2026-08-05T22:15:47 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-august-2026/ba-p/4544388
