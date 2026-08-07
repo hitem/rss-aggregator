@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Aug 2026 23:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:28:02 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -896,5 +896,11 @@ This is our monthly "What's new" blog post, summarizing product updates and vari
 &#128640; New Virtual Ninja Show episode:
 
 Redefining identity security for the modern enterprise
-One policy engine to govern them all: Securin...</description></item></channel>
+One policy engine to govern them all: Securin...</description></item><item><title>AI-powered playbook generator, now available to more customers</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-playbook-generator-now-available-to-more-customers/ba-p/4544385</link><pubDate>Thu, 06 Aug 2026 17:41:15 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-playbook-generator-now-available-to-more-customers/ba-p/4544385</guid><description>We&#8217;re excited to announce we&#8217;re making it easier than ever to go from intent to action with the AI-powered playbook generator now available to more customers.&#160;
+What&#8217;s new&#160;
+All Microsoft Sentinel customers in Defender portal can now create AI-generated playbooks directly in their automation workflow. As part of this change, a separate Security Copilot license is no longer required: playbook generator is now available to more teams out of the box and without any extra cost.&#160;
+What&#160;playbook&#160;generator does&#160;
+Playbook&#160;generator uses AI to turn what you want to automate into a working playbook. Instea...</description></item><item><title>Smarter signals, broader coverage: UEBA anomalies on top of Behaviors layer and new data sources</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/smarter-signals-broader-coverage-ueba-anomalies-on-top-of/ba-p/4544384</link><pubDate>Thu, 06 Aug 2026 16:47:38 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/smarter-signals-broader-coverage-ueba-anomalies-on-top-of/ba-p/4544384</guid><description>Security teams&#160;don't&#160;struggle with a lack of security signals. The&#160;real challenge&#160;is understanding which activity matters, why it stands out, and where to focus first.&#160;
+Microsoft Sentinel's Behaviors layer already helps analysts transform raw security events into meaningful behavioral patterns. Today,&#160;we're&#160;making that experience both smarter and broader.&#160;
+What if every behavior could&#160;immediately&#160;tell you&#160;not only what happened, but why it matters?&#160;We're&#160;bringing&#160;UEBA anomaly intelligence directly into the Behaviors layer, so every behavior now includes anomaly insights together with explainab...</description></item></channel>
 </rss>

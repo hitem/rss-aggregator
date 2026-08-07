@@ -1,5 +1,3 @@
-2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/announcing-public-preview-phishing-triage-agent-in-microsoft/ba-p/4438301
-2025-08-06T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/breaking-down-silos-a-unified-approach-to-identity-and-network/ba-p/4400196
 2025-08-07T10:35:40 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-august-2025/ba-p/4441024
 2025-08-07T15:08:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/uncover-shadow-ai-block-threats-and-protect-data-with-microsoft/ba-p/4440787
 2025-08-07T16:17:41 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/multi-tenant-endpoint-security-policies-distribution-is-now-in/ba-p/4439929
@@ -608,3 +606,5 @@
 2026-08-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-nested-api-support-comes-to-microsoft-sentinel/ba-p/4537026
 2026-08-05T17:24:44 https://techcommunity.microsoft.com/t5/microsoft-security-community/mcp-safety-evaluation-with-the-agent-365-cli-agent-governance/ba-p/4543969
 2026-08-05T22:15:47 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-august-2026/ba-p/4544388
+2026-08-06T16:47:38 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/smarter-signals-broader-coverage-ueba-anomalies-on-top-of/ba-p/4544384
+2026-08-06T17:41:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-playbook-generator-now-available-to-more-customers/ba-p/4544385
