@@ -602,3 +602,4 @@
 2026-08-06T17:41:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-playbook-generator-now-available-to-more-customers/ba-p/4544385
 2026-08-10T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-tenant-governance-is-now-generally-available/ba-p/4543638
 2026-08-10T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure
+2026-08-10T17:44:28 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-august-2026/ba-p/4545172
