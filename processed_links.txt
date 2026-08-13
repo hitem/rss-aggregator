@@ -596,3 +596,4 @@
 2026-08-10T17:44:28 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-august-2026/ba-p/4545172
 2026-08-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-microsoft-sentinel-connectors-in-minutes-with-the/ba-p/4544378
 2026-08-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-enforce-zero-trust-across-every-resource/ba-p/4529305
+2026-08-13T12:35:54 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-150/ba-p/4546730
