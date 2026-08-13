@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 13 Aug 2026 14:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:21:28 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -917,5 +917,6 @@ Begin with Microsoft Learn documentation for Conditional Access and Global Secur
 &#160;
 Microsoft Edge version 150 introduced 8 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
 &#160;
-As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings ...</description></item></channel>
+As a friendly reminder, all available settings for Microsoft Edge are documented&#160;here, and all available settings ...</description></item><item><title>Why Active Directory alone is no longer enough</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/why-active-directory-alone-is-no-longer-enough/ba-p/4546402</link><pubDate>Thu, 13 Aug 2026 22:52:51 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/why-active-directory-alone-is-no-longer-enough/ba-p/4546402</guid><description>Most organizations have moved their applications, devices, and business processes to the cloud, but identity often remains dependent on Active Directory. That gap can increase operational complexity, limit modern security controls, and slow the adoption of new cloud and AI capabilities.
+For years, organizations evaluated identity modernization by asking what cloud could do that Active Directory could not. Today, the more important question is what outcomes a modern identity platform can enable. As cloud applications become central to the business, work extends beyond employees, and AI introduc...</description></item></channel>
 </rss>
