@@ -584,3 +584,4 @@
 2026-08-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-enforce-zero-trust-across-every-resource/ba-p/4529305
 2026-08-13T12:35:54 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-150/ba-p/4546730
 2026-08-13T22:52:51 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/why-active-directory-alone-is-no-longer-enough/ba-p/4546402
+2026-08-20T19:58:31 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/securing-your-certification-authorities-practical-pki-part-4/ba-p/4548666
