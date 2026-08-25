@@ -586,3 +586,4 @@
 2026-08-24T16:53:52 https://techcommunity.microsoft.com/t5/microsoft-security-community/reminder-ask-microsoft-anything-with-david-weston-is-tomorrow-8/ba-p/4549690
 2026-08-24T17:04:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unified-ai-defense-security-copilot-project-perception-and-mdash/ba-p/4547124
 2026-08-25T10:50:22 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-151/ba-p/4549607
+2026-08-25T22:06:21 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/ba-p/4548192

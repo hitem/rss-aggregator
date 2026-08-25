@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 25 Aug 2026 11:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:59:05 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -938,5 +938,10 @@ Security Copilot helps analysts and teams ask, summarize, investigate, report, .
 We have reviewed the settings in Microsoft Edge version 151 and updated our guidance with six new recommendations. We have also identified one additional setting that organizations should consider evaluating in their environments. A new Microsoft Edge security baseline package was just released to the Download Center. You can download the new package from the Security Compliance Toolkit.
 &#160;
 Enable Process Isolation (added)
-We are enforcing &#8216;Enable Process Isolation&#8217; to help protect...</description></item></channel>
+We are enforcing &#8216;Enable Process Isolation&#8217; to help protect...</description></item><item><title>Instant Revocation of Service Principal Bearer Tokens with CAE</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/ba-p/4548192</link><pubDate>Tue, 25 Aug 2026 22:06:21 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/ba-p/4548192</guid><description>Introduction
+Workload identities such as service principals are an important part of the attack surface in Entra: they are often used by critical automated processes, and they can carry privileged and sensitive permissions.
+The authentication flow used by these principals is the &#8220;Client Credential&#8221; flow, which results in an access token.
+In this blog post, I will show how &#8220;Continuous Access Evaluation&#8221; (CAE) can be leveraged to instantly invalidate an access token for a service principal in Entra.
+This is incredibly valuable as part of a kill-switch in incident response scenarios.
+Access Token...</description></item></channel>
 </rss>
