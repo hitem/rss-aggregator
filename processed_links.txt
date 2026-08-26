@@ -1,4 +1,3 @@
-2025-08-26T11:52:06 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposing-hidden-threats-across-the-ai-development-lifecycle-in/ba-p/4446792
 2025-08-26T16:42:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/ai-vs-identity-threats-how-microsoft-entra-is-making-you-more/ba-p/4448076
 2025-08-26T18:18:29 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ingesting-csv-log-files-from-azure-blob-storage-into-microsoft/ba-p/4448377
 2025-08-26T20:29:33 https://techcommunity.microsoft.com/t5/microsoft-security-community/mvp-champ-spotlight-pierre-thoor/ba-p/4448061
