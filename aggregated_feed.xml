@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 29 Aug 2026 02:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:21:37 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -947,5 +947,6 @@ Access Token...</description></item><item><title>Security Review for Microsoft E
 &#160;
 Microsoft Edge version 152 introduced 4 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
 &#160;
-Starting with version 152 Microsoft Edge is moving to a more frequent release cycle. To better align with the need...</description></item></channel>
+Starting with version 152 Microsoft Edge is moving to a more frequent release cycle. To better align with the need...</description></item><item><title>TerminalFix campaign deploys a reverse tunnel through multistage intrusion</title><link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link><pubDate>Sat, 29 Aug 2026 03:43:27 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=149220</guid><description>Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.
+The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security Blog.</description></item></channel>
 </rss>
