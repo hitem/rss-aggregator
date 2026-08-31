@@ -578,3 +578,6 @@
 2026-08-25T22:06:21 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/ba-p/4548192
 2026-08-28T21:22:52 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-152/ba-p/4550956
 2026-08-29T03:43:27 https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion
+2026-08-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/one-soc-many-tenants-centralizing-microsoft-sentinel-with-azure/ba-p/4543629
+2026-08-31T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-august-2026/ba-p/4551405
+2026-08-31T16:46:37 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-multi-account-support-for-connectors-in-microsoft/ba-p/4546440
