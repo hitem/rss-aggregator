@@ -583,3 +583,4 @@
 2026-08-31T22:25:14 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/close-the-gaps-layered-data-protection-with-microsoft-purview/ba-p/4550997
 2026-09-01T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2026/ba-p/4545179
 2026-09-01T15:02:13 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mdatp-linux-agent-latest-release-reporting/ba-p/4552316
+2026-09-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/stop-identity-attacks-before-they-start-with-microsoft-ispm/ba-p/4549692
