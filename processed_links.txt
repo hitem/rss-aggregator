@@ -1,5 +1,3 @@
-2025-09-03T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/custom-detection-rules-get-a-boost-explore-what-s-new-in/ba-p/4443602
-2025-09-03T16:45:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/phishing-triage-agent-in-defender-xdr-say-goodbye-to-false/ba-p/4450412
 2025-09-03T19:34:41 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-new-security-and-compliance-add-ons-for-microsoft/ba-p/4449297
 2025-09-04T16:45:46 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-against-oauth-attacks-in-salesforce-with-microsoft/ba-p/4450584
 2025-09-05T15:46:11 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-front-door-protection-against-cve-2025-8671-madeyoureset/ba-p/4451361
@@ -583,3 +581,4 @@
 2026-09-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/stop-identity-attacks-before-they-start-with-microsoft-ispm/ba-p/4549692
 2026-09-01T22:48:28 https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign
 2026-09-02T22:51:18 https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access
+2026-09-03T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion
