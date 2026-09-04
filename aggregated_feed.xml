@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:00:54 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -968,5 +968,11 @@ The post Impersonating IT support: how threat actors turn a remote session into 
 The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog.</description></item><item><title>Help Shape the Microsoft Security Practitioner Community</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-security-practitioner-community/ba-p/4553560</link><pubDate>Fri, 04 Sep 2026 17:05:32 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-security-practitioner-community/ba-p/4553560</guid><description>We want to hear from the people who configure, operate, and defend with Microsoft Security every day. Share your priorities, challenges, and where you go to learn and connect.
 Your feedback will help shape future technical content, hands-on experiences, events, and community programs. The survey takes just a few minutes.
 Please fill out the survey here: Microsoft Security Tech Community Practitioner Survey &#8211; Fill out form
-Thank you!...</description></item></channel>
+Thank you!...</description></item><item><title>Check This Out! (CTO!) Guide (September 2026)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2026/ba-p/4553591</link><pubDate>Fri, 04 Sep 2026 20:18:34 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2026/ba-p/4553591</guid><description>Member: TysonPaul | Microsoft Community Hub
+
+Retirement of Microsoft HPC Pack
+Team Blog: Azure High Performance Computing (HPC)
+Author: XinXin
+Published: 08/25/2026
+Summary: Microsoft HPC Pack, a Windows-based HPC scheduler, will be retired, with support ending August 27, 2027. No new updates, features, or enhancements will be provided after this date, and only limited security support is available during the retirement period. Customers are advised to migrate to Azure Batch or other Azure services for HPC workloads. Existing deployments will not be forcibly disabled but will be unsupported af...</description></item></channel>
 </rss>

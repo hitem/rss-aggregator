@@ -581,3 +581,4 @@
 2026-09-02T22:51:18 https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access
 2026-09-03T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion
 2026-09-04T17:05:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-security-practitioner-community/ba-p/4553560
+2026-09-04T20:18:34 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-september-2026/ba-p/4553591
