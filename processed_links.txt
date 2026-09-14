@@ -576,3 +576,5 @@
 2026-09-09T17:41:18 https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise
 2026-09-10T17:23:05 https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud
 2026-09-14T08:38:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/locking-down-paws-internet-access-when-gsa-drops/ba-p/4553963
+2026-09-14T18:13:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-multi-account-support-for-microsoft-sentinel/ba-p/4544380
+2026-09-14T18:17:58 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-employee-identity-lifecycle-with-hibob-and-microsoft/ba-p/4554510
