@@ -1,4 +1,3 @@
-2025-09-15T19:23:13 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-microsoft-purview-deployment-blueprint-lightweight-guide-to/ba-p/4453656
 2025-09-16T15:00:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2025/ba-p/4454529
 2025-09-16T19:50:05 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-and-network-security-practitioner-webinar-series/ba-p/4448759
 2025-09-16T21:21:21 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/beyond-oauth-why-scim-must-evolve-for-the-ai-agent-revolution/ba-p/4433036
@@ -578,3 +577,4 @@
 2026-09-14T08:38:19 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/locking-down-paws-internet-access-when-gsa-drops/ba-p/4553963
 2026-09-14T18:13:41 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-multi-account-support-for-microsoft-sentinel/ba-p/4544380
 2026-09-14T18:17:58 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-employee-identity-lifecycle-with-hibob-and-microsoft/ba-p/4554510
+2026-09-15T19:54:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-dlp-alert-volume-to-measurable-detection-assurance/ba-p/4545973
