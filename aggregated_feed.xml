@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 15 Sep 2026 21:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:43:57 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -988,5 +988,6 @@ Today we're excited to announce the public preview of&#8239;multi-account suppor
 Built on the newly released Microsoft Purview DLP API, Data Security Workbench is an open-source starting point for any customer who wants to turn DLP alert volume into explainable detection assurance and controlled response.
 Figure 1: The workbench separates operational response from classification assurance while keeping both connected through one governed evidence plane.
 The gap between alert volume and operational confidence
-Microsoft Purview surfaces the activity that matters. But security teams still face the same operational challenge: connecting aler...</description></item></channel>
+Microsoft Purview surfaces the activity that matters. But security teams still face the same operational challenge: connecting aler...</description></item><item><title>Replace VPN access with identity-driven security</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-vpn-access-with-identity-driven-security/ba-p/4529309</link><pubDate>Wed, 16 Sep 2026 16:30:30 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-vpn-access-with-identity-driven-security/ba-p/4529309</guid><description>Traditional VPNs no longer fit the security or agility needs of modern enterprises. Static tunnels, device trust assumptions, and network-level access introduce risk in a Zero Trust world.
+Microsoft Entra Private Access offers a different path. As a component of Global Secure Access, it is designed to replace traditional VPN access to private resources with identity-driven, per-app connectivity. That distinction matters: Global Secure Access is the broader Security Service Edge framework, while Microsoft Entra Private Access is the component most directly aligned to VPN replacement for private...</description></item></channel>
 </rss>
