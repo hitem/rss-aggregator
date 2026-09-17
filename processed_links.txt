@@ -1,5 +1,3 @@
-2025-09-17T17:23:31 https://techcommunity.microsoft.com/t5/microsoft-security-community/cyber-dial-agent-protecting-your-custom-copilot-agents/ba-p/4454846
-2025-09-17T20:14:20 https://techcommunity.microsoft.com/t5/microsoft-security-community/cybersecurity-what-every-business-leader-needs-to-know-now/ba-p/4454719
 2025-09-18T12:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/ba-p/4454575
 2025-09-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/how-microsoft-defender-experts-and-partners-like-quorum-cyber/ba-p/4452639
 2025-09-22T07:22:04 https://techcommunity.microsoft.com/t5/azure-network-security-blog/monitoring-web-application-traffic-for-configuring-rate-limit-on/ba-p/4454092
@@ -574,3 +572,4 @@
 2026-09-14T18:17:58 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/simplify-employee-identity-lifecycle-with-hibob-and-microsoft/ba-p/4554510
 2026-09-15T19:54:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-dlp-alert-volume-to-measurable-detection-assurance/ba-p/4545973
 2026-09-16T16:30:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-vpn-access-with-identity-driven-security/ba-p/4529309
+2026-09-17T20:27:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-of-self-service-onboarding-for-new-microsoft/ba-p/4557199
