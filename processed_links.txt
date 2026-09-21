@@ -571,3 +571,4 @@
 2026-09-15T19:54:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-dlp-alert-volume-to-measurable-detection-assurance/ba-p/4545973
 2026-09-16T16:30:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-vpn-access-with-identity-driven-security/ba-p/4529309
 2026-09-17T20:27:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-of-self-service-onboarding-for-new-microsoft/ba-p/4557199
+2026-09-21T16:04:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/prepare-your-tenant-estate-for-ai-join-our-upcoming-webinars/ba-p/4554525
