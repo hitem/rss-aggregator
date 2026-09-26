@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:08:01 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -999,5 +999,31 @@ On September 23, 2026, Microsoft&#160;announce...</description></item><item><tit
 Identifying a threat, exposure, or data risk is only the start. Security teams still need to assign ownership, bring together the right context, coordinate investigation and response, document decisions, track actions, and maintain accountability through resolution.
 That work is not identical across organizations. Each team has its own responsibilities, processes, service-level commitments, and automation. Security teams need a work model they can adapt to how their organization operates, rather than forcing every security matter through a fixed workflow...</description></item><item><title>Beyond the ransomware: Tracking Storm-2570&#8217;s consistent tradecraft across deployments</title><link>https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/</link><pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=149603</guid><description>Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment.
 The post Beyond the ransomware: Tracking Storm-2570&#8217;s consistent tradecraft across deployments appeared first on Microsoft Security Blog....</description></item><item><title>Storm-3168: Agentic-driven cloud attacks using compromised service principals</title><link>https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/</link><pubDate>Fri, 25 Sep 2026 15:35:08 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=149645</guid><description>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.
-The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog....</description></item></channel>
+The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog....</description></item><item><title>CoreDNS in AKS: service discovery, upstream DNS, and failover</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/coredns-in-aks-service-discovery-upstream-dns-and-failover/ba-p/4559925</link><pubDate>Fri, 25 Sep 2026 21:06:37 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/coredns-in-aks-service-discovery-upstream-dns-and-failover/ba-p/4559925</guid><description>
+Table of Contents
+
+1. Where CoreDNS fits in AKS
+2. How a pod gets a DNS answer
+
+Cluster Service names
+Names handled by another DNS server
+LocalDNS can change the first hop
+
+
+3. What AKS manages and what you can customize
+4. How CoreDNS selects and checks upstream servers
+
+Selection policy chooses the starting server
+A missing reply and an error reply are different
+Health checks change later selections
+
+
+5. What failure tests on AKS showed
+6. Troubleshooting the right part of the DNS path
+7. A repeatable way to validate CoreDNS behavior
+8. Conclusion and next steps
+
+Try it now
+Learn more
+Conne...</description></item></channel>
 </rss>
