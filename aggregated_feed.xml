@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 28 Sep 2026 05:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:25:25 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1029,5 +1029,8 @@ Conne...</description></item><item><title>Updating Purview DLP Sensitive Service
 Microsoft Purview Data Loss Prevention (DLP) can use Sensitive Service Domain Groups to organize websites and other network destinations that are referenced by endpoint DLP rules. Administrators can manage these settings in the Purview portal, while PowerShell is useful when changes must be repeatable, reviewed, and validated before they are committed.
 This article demonstrates how to retrieve the tenant policy configuration, identify an existing group, add new URL entries only when they are not already present, validate the change, commit it, and verify the final configuration.
 
-...</description></item></channel>
+...</description></item><item><title>From Domain Lists to Decisions: Scaling WHOIS Threat Intelligence with MDTI and Microsoft Graph</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-domain-lists-to-decisions-scaling-whois-threat-intelligence/ba-p/4560384</link><pubDate>Mon, 28 Sep 2026 12:23:10 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-domain-lists-to-decisions-scaling-whois-threat-intelligence/ba-p/4560384</guid><description>The real problem isn't WHOIS. It's what WHOIS costs you at scale.
+Ask any SOC analyst whether WHOIS data is useful and they'll say yes without hesitation. Registrant emails, creation dates, registrars, and nameservers are among the most durable pivots in domain-based threat intelligence &#8212; the threads that tie a single phishing domain back to an entire adversary campaign.
+Now ask them how often they actually pull WHOIS for every suspicious domain in an alert. The honest answer is: not always. And that gap is the real problem.
+Here's why. When a campaign surfaces two hundred lookalike domains, m...</description></item></channel>
 </rss>
