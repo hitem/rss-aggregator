@@ -572,3 +572,4 @@
 2026-09-25T21:06:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/coredns-in-aks-service-discovery-upstream-dns-and-failover/ba-p/4559925
 2026-09-28T05:10:31 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/updating-purview-dlp-sensitive-service-domain-groups-with/ba-p/4560220
 2026-09-28T12:23:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-domain-lists-to-decisions-scaling-whois-threat-intelligence/ba-p/4560384
+2026-09-28T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations
