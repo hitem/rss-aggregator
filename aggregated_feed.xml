@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Sat, 26 Sep 2026 00:08:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:48:33 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1025,5 +1025,9 @@ Health checks change later selections
 
 Try it now
 Learn more
-Conne...</description></item></channel>
+Conne...</description></item><item><title>Updating Purview DLP Sensitive Service Domain Groups with PowerShell</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/updating-purview-dlp-sensitive-service-domain-groups-with/ba-p/4560220</link><pubDate>Mon, 28 Sep 2026 05:10:31 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/updating-purview-dlp-sensitive-service-domain-groups-with/ba-p/4560220</guid><description>Introduction
+Microsoft Purview Data Loss Prevention (DLP) can use Sensitive Service Domain Groups to organize websites and other network destinations that are referenced by endpoint DLP rules. Administrators can manage these settings in the Purview portal, while PowerShell is useful when changes must be repeatable, reviewed, and validated before they are committed.
+This article demonstrates how to retrieve the tenant policy configuration, identify an existing group, add new URL entries only when they are not already present, validate the change, commit it, and verify the final configuration.
+
+...</description></item></channel>
 </rss>
