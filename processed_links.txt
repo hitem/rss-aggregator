@@ -572,3 +572,6 @@
 2026-09-28T05:10:31 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/updating-purview-dlp-sensitive-service-domain-groups-with/ba-p/4560220
 2026-09-28T12:23:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-domain-lists-to-decisions-scaling-whois-threat-intelligence/ba-p/4560384
 2026-09-28T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations
+2026-09-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sign-in-to-microsoft-apps-with-passkeys-from-external-identity/ba-p/4556448
+2026-09-29T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique
+2026-09-29T17:01:12 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382
