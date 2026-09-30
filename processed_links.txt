@@ -575,3 +575,5 @@
 2026-09-29T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique
 2026-09-29T17:01:12 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382
 2026-09-29T21:39:27 https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access
+2026-09-30T01:55:21 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/scaling-classification-and-labeling-an-interactive-reference/ba-p/4560925
+2026-09-30T01:56:58 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/microsoft-purview-referential-architecture-diagrams/ba-p/4510925
