@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:58:39 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1056,5 +1056,6 @@ Today I'm publishing an update focused on&#160;classification and labeling &#821
 &#160;
 
 &#10145;&#65039; Download the interactive architecture on GitHub here.&#160; It's a self-contained HTML file -...</description></item><item><title>What&#8217;s new in Microsoft Sentinel: September 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-september-2026/ba-p/4560902</link><pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-september-2026/ba-p/4560902</guid><description>Welcome back to What's new in Microsoft Sentinel. In September, Case Management brings investigation and collaboration together in Microsoft Defender, with a shared workspace to track work through resolution. Defender unified RBAC custom roles for granular delegated admin privileges (GDAP) give you finer control over what managed security service providers (MSSPs) and other partners can access. In Sentinel data lake, a single Codeless Connector Framework (CCF) connector can bring in data from many accounts, and our connector catalog has passed 500 data connectors. Read on for the details.
-Sent...</description></item></channel>
+Sent...</description></item><item><title>Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</title><link>https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/</link><pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=149734</guid><description>Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.
+The post Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570 appeared first on Microsoft Security Blog.</description></item></channel>
 </rss>

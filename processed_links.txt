@@ -1,4 +1,3 @@
-2025-09-30T17:06:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-25h2-security-baseline/ba-p/4456231
 2025-10-01T13:06:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349
 2025-10-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-the-united-arab-emirates/ba-p/4448266
 2025-10-01T16:09:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/celebrating-cybersecurity-awareness-month-everyday-protection/ba-p/4453120
@@ -566,4 +565,5 @@
 2026-09-29T21:39:27 https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access
 2026-09-30T01:55:21 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/scaling-classification-and-labeling-an-interactive-reference/ba-p/4560925
 2026-09-30T01:56:58 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/microsoft-purview-referential-architecture-diagrams/ba-p/4510925
+2026-09-30T14:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570
 2026-09-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-september-2026/ba-p/4560902
