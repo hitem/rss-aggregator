@@ -1,13 +1,3 @@
-2025-09-30T12:45:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/app-assure-s-sentinel-promise-now-extends-to-microsoft-sentinel/ba-p/4454612
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-microsoft-entra-agent-for-smarter-access-governance-access/ba-p/4279689
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/announcing-microsoft-sentinel-model-context-protocol-mcp-server/ba-p/4456405
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-developer-solutions-for-microsoft-sentinel-platform/ba-p/4456392
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-security-store/ba-p/4456417
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-microsoft-sentinel-graph-public-preview/ba-p/4456368
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-now-generally-available/ba-p/4456342
-2025-09-30T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-data-lake-faq/ba-p/4457728
-2025-09-30T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/teams-private-channels-group-based-compliance-model-purview/ba-p/4457229
-2025-09-30T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-data-lake-is-backed-by-app-assure-s-sentinel/ba-p/4458000
 2025-09-30T17:06:39 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-25h2-security-baseline/ba-p/4456231
 2025-10-01T13:06:17 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-october-2025/ba-p/4458349
 2025-10-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-the-united-arab-emirates/ba-p/4448266
@@ -576,3 +566,4 @@
 2026-09-29T21:39:27 https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access
 2026-09-30T01:55:21 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/scaling-classification-and-labeling-an-interactive-reference/ba-p/4560925
 2026-09-30T01:56:58 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/microsoft-purview-referential-architecture-diagrams/ba-p/4510925
+2026-09-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-september-2026/ba-p/4560902
