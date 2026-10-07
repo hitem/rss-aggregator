@@ -1,4 +1,3 @@
-2025-10-07T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/step-by-step-guide-integrating-microsoft-purview-with-azure/ba-p/4459549
 2025-10-09T18:42:47 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-141/ba-p/4460481
 2025-10-10T07:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/solving-network-connectivity-for-mde-and-mdi/ba-p/4458220
 2025-10-10T16:35:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/sentinel-ueba-s-superpower-actionable-insights-you-can-use-now/ba-p/4460428
@@ -561,3 +560,5 @@
 2026-09-30T14:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570
 2026-09-30T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-microsoft-sentinel-september-2026/ba-p/4560902
 2026-10-01T01:26:21 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/meet-the-new-microsoft-purview-classifiers-experience-your-admin/ba-p/4561324
+2026-10-07T17:42:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-ai-and-agent-platform-securing-and-governing/ba-p/4562204
+2026-10-07T20:21:05 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-asim-emailevent-schema/ba-p/4562581
