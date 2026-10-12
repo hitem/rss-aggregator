@@ -562,3 +562,4 @@
 2026-10-08T18:28:13 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-dlp-for-external-web-search-in-microsoft-365-copilot-matters/ba-p/4562818
 2026-10-08T18:28:31 https://techcommunity.microsoft.com/t5/microsoft-security-community/protecting-organizations-from-external-email-risks-in-microsoft/ba-p/4562820
 2026-10-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/strengthening-semiconductor-supply-chain-trust-with-microsoft-s/ba-p/4562644
+2026-10-12T17:25:18 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-october-2026/ba-p/4556460
