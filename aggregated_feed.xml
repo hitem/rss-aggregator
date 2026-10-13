@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:30:23 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1080,5 +1080,11 @@ On Windows, it ge...</description></item><item><title>Strengthening Semiconducto
 AMD and Microsoft are collaborating to demonstrate how signing and transparency can strengthen trust in the semiconductor supply chain. By combining AMD Device Provenance with Microsoft&#8217;s Artifact Signing and Signing Transparency, we are exploring how device provenanc...</description></item><item><title>What&#8217;s new in Microsoft Entra: October 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-october-2026/ba-p/4556460</link><pubDate>Mon, 12 Oct 2026 17:25:18 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-october-2026/ba-p/4556460</guid><description>Over the last few months, I've spent a lot of time with customers and our teams on one of the biggest security shifts ahead of us: securing an enterprise where people and AI agents are both acting on behalf of the business.
 It&#8217;s a challenge shaping Microsoft's approach to Secure AI. And while AI makes the challenge urgent, the underlying problem is broader. Organizations need to give more people, applications, workloads, and agents access to more resources, while maintaining control without adding more friction and complexity.
 Identity and network access are at the center of the transition.
-Cu...</description></item></channel>
+Cu...</description></item><item><title>Check This Out! (CTO!) Guide (October 2026)</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2026/ba-p/4564188</link><pubDate>Tue, 13 Oct 2026 15:24:57 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2026/ba-p/4564188</guid><description>Member: TysonPaul | Microsoft Community Hub
+
+Azure Key Vault Control Plane API Update: Required Upgrade for Azure CLI and Azure PowerShell Users
+Team Blog: Azure Tools
+Author: Alex-wdy
+Published: 09/01/2026
+Summary: Azure Key Vault control plane API versions before 2026-02-01 will stop working on February 27, 2027. This affects only management operations, such as creating/updating vaults, network rules, access policies, and RBAC settings&#8212;not data plane operations like reading or writing secrets, keys, or certificates. Users of Azure CLI or Az PowerShell must upgrade before the deadline: Azure ...</description></item></channel>
 </rss>
