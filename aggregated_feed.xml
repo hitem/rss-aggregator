@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:59:59 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1086,5 +1086,6 @@ Azure Key Vault Control Plane API Update: Required Upgrade for Azure CLI and Azu
 Team Blog: Azure Tools
 Author: Alex-wdy
 Published: 09/01/2026
-Summary: Azure Key Vault control plane API versions before 2026-02-01 will stop working on February 27, 2027. This affects only management operations, such as creating/updating vaults, network rules, access policies, and RBAC settings&#8212;not data plane operations like reading or writing secrets, keys, or certificates. Users of Azure CLI or Az PowerShell must upgrade before the deadline: Azure ...</description></item></channel>
+Summary: Azure Key Vault control plane API versions before 2026-02-01 will stop working on February 27, 2027. This affects only management operations, such as creating/updating vaults, network rules, access policies, and RBAC settings&#8212;not data plane operations like reading or writing secrets, keys, or certificates. Users of Azure CLI or Az PowerShell must upgrade before the deadline: Azure ...</description></item><item><title>The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</title><link>https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/</link><pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=150083</guid><description>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft&#8217;s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.
+The post The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime appeared first on Microsoft Security Blog....</description></item></channel>
 </rss>
