@@ -561,3 +561,4 @@
 2026-10-13T15:24:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2026/ba-p/4564188
 2026-10-14T13:00:00 https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime
 2026-10-14T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/secure-linux-desktops-with-microsoft-defender/ba-p/4560822
+2026-10-16T21:53:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/master-microsoft-entra-with-live-webinars-amas-and-on-demand/ba-p/4502147
