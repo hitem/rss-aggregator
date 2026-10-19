@@ -561,3 +561,6 @@
 2026-10-14T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/secure-linux-desktops-with-microsoft-defender/ba-p/4560822
 2026-10-16T21:53:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/master-microsoft-entra-with-live-webinars-amas-and-on-demand/ba-p/4502147
 2026-10-19T17:41:18 https://techcommunity.microsoft.com/t5/microsoft-security-community/strengthening-confidential-vm-migrations-with-large-os-disk/ba-p/4564613
+2026-10-19T18:38:09 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/troubleshooting-playbook-for-auto-labelling-in-sharepoint-and/ba-p/4564103
+2026-10-19T19:03:12 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/where-does-my-microsoft-entra-id-data-reside-understanding-azure/ba-p/4565946
+2026-10-19T20:21:57 https://techcommunity.microsoft.com/t5/microsoft-security-community/large-os-disk-encryption-is-now-generally-available-for-azure/ba-p/4564613
