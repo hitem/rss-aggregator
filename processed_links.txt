@@ -1,5 +1,3 @@
-2025-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/11-days-remaining-support-for-microsoft-entra-permissions/ba-p/4462424
-2025-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/6-truths-about-migrating-microsoft-sentinel-to-the-defender/ba-p/4460437
 2025-10-21T10:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-in-microsoft-sentinel-and-strategic/ba-p/4457947
 2025-10-21T15:25:28 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and/ba-p/4457947
 2025-10-21T16:43:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913
@@ -564,3 +562,5 @@
 2026-10-19T18:38:09 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/troubleshooting-playbook-for-auto-labelling-in-sharepoint-and/ba-p/4564103
 2026-10-19T19:03:12 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/where-does-my-microsoft-entra-id-data-reside-understanding-azure/ba-p/4565946
 2026-10-19T20:21:57 https://techcommunity.microsoft.com/t5/microsoft-security-community/large-os-disk-encryption-is-now-generally-available-for-azure/ba-p/4564613
+2026-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-all-your-microsoft-sentinel-data-in-one-place-with/ba-p/4565940
+2026-10-20T17:24:44 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/expanded-cross-tenant-delegated-access-in-microsoft-defender-is/ba-p/4565941
