@@ -1,5 +1,3 @@
-2025-10-21T16:43:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-copilot-agents-the-new-era-of-ai-driven-cyber-defense/ba-p/4462913
-2025-10-21T18:03:12 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring/ba-p/4463145
 2025-10-21T20:04:24 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-vmware-to-hyper-v-migration-with-scvmm/ba-p/4463237
 2025-10-21T20:26:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-configuration-and-hardening-of-active-directory/ba-p/4463240
 2025-10-22T09:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/azure-integrated-hsm-new-chapter-shift-from-centralized-clusters/ba-p/4462923
@@ -563,3 +561,5 @@
 2026-10-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-all-your-microsoft-sentinel-data-in-one-place-with/ba-p/4565940
 2026-10-20T17:24:44 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/expanded-cross-tenant-delegated-access-in-microsoft-defender-is/ba-p/4565941
 2026-10-20T19:02:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-billing-simplified-introducing-the-defender/ba-p/4559743
+2026-10-21T18:23:55 https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise
+2026-10-21T19:11:53 https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-php2shell-cve-2026-109618-and-cve-2026-109619-upgrade/ba-p/4566623
