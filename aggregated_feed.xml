@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 21 Oct 2026 19:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:55:34 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1111,5 +1111,8 @@ We heard two things consistently: cloud security pricing can be complex, and tra
 Introduction
 Today, two critical remote code execution (RCE) vulnerabilities were disclosed in PHP. We strongly recommend that customers upgrade to a patched version of PHP as soon as possible. Upgrading is the only way to fully remediate these vulnerabilities. Read more on the PHP official website. 
 Microsoft has been part of the coordinated industry response to these vulnerabilities, working alongside the PHP Foundation, Wiz, security researchers, and other industry partners to help protect customers. Azure Web Application Firewall (...</description></item><item><title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</title><link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link><pubDate>Wed, 21 Oct 2026 18:23:55 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=150178</guid><description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.
-The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog.</description></item></channel>
+The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog.</description></item><item><title>Azure WAF custom rules for PHP2Shell mitigation</title><link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-custom-rules-for-php2shell-mitigation/ba-p/4566684</link><pubDate>Thu, 22 Oct 2026 03:24:58 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-custom-rules-for-php2shell-mitigation/ba-p/4566684</guid><description>Written in collaboration with Gunjan Jain&#8203; and yuvalpery&#8203;&#160;
+As described in our earlier blog, Addressing PHP2Shell CVE-2026-109618 and CVE-2026-109619: upgrade guidance and Azure WAF mitigations, we strongly recommend upgrading to a patched version of PHP as soon as possible. Upgrading PHP remains the recommended and complete remediation for these vulnerabilities.&#160;
+For customers who are unable to upgrade immediately, this guidance provides WAF custom rules that can help reduce exposure to selected request patterns associated with exploitation techniques for these vulnerabilities.&#160;&#160;
+WAF custom r...</description></item></channel>
 </rss>
