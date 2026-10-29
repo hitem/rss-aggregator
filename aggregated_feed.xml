@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 29 Oct 2026 15:30:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:32:39 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1131,5 +1131,48 @@ As a Microsoft Security customer experience leader, on...</description></item><i
 Identity attacks remain the top risk for enterprises, and attacker tactics like MFA fatigue, token hijacking, and credential replay bypass static rules every day. Traditional responses are too slow, and SOC teams are buried under alert fatigue. AI closes that gap by learning attacker behaviors, analyzing massive identity and access datase...</description></item><item><title>AI agents are coming&#8212;are your identity controls prepared?</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964</link><pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964</guid><description>AI is reshaping identity risk. Attackers now use AI to automate phishing, social engineering, and privilege escalation, making credential theft faster and more convincing than ever. SMS codes and push approvals can be intercepted, while standing privileges give attackers reach far beyond a single account.
 On the other hand, as organizations adopt AI agents, identity risk grows exponentially. Securing agent identities is critical to maintaining trust and control. The same principles that protect user identities must now extend to every agent identity.
 Reinforcing the principles
-Microsoft&#8217;s rece...</description></item></channel>
+Microsoft&#8217;s rece...</description></item><item><title>Now generally available: Discover local AI agents with Microsoft Defender</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/now-generally-available-discover-local-ai-agents-with-microsoft/ba-p/4568216</link><pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/now-generally-available-discover-local-ai-agents-with-microsoft/ba-p/4568216</guid><description>As local agents have moved from experimentation into everyday work, traditional security visibility is no longer enough. Unlike static software, local agents such as coding assistants, command-line agents, desktop applications, and agentic development environments can operate on endpoints with access to a user's data, credentials, tools, and services. They can also connect to Model Context Protocol (MCP) servers that extend their access to additional tools and data. This change requires security teams to look beyond. They need to understand which local agents are running and where, which users...</description></item><item><title>Defending Linux in the age of AI-operated attacks</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-linux-in-the-age-of-ai-operated-attacks/ba-p/4557210</link><pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-linux-in-the-age-of-ai-operated-attacks/ba-p/4557210</guid><description>Linux supports cloud services, containers, developer environments, business-critical applications, and a growing share of AI infrastructure. That makes Linux both essential to modern enterprises and increasingly attractive to attackers. AI is compressing the time required to research targets, vary payloads, and adapt when an attempt fails. Customers need protection that can recognize modern attacker behavior at runtime, continuously test effectiveness against realistic attacks, and learn and evolve with the threat landscape.
+That&#8217;s why Microsoft Defender is focused on three priorities for Linu...</description></item><item><title>Tracking AI adoption in North Korean threat actor tradecraft</title><link>https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/</link><pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=150611</guid><description>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we&#8217;ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.
+The post Tracking AI adoption in North Korean threat actor tradecraft appeared first on Microsoft Security Blog....</description></item><item><title>AKS Pod Scheduling Demystified</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-pod-scheduling-demystified/ba-p/4567392</link><pubDate>Thu, 29 Oct 2026 15:55:51 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-pod-scheduling-demystified/ba-p/4567392</guid><description>
+
+Table of Contents
+
+1. The scheduling question
+2. Capacity, allocatable, requests, and usage
+3. One pod from arrival to completion
+
+
+Stage 1: Filtering. Can each node run the pod?
+
+
+
+
+Stage 2: Scoring. Which eligible node ranks highest?
+
+
+
+
+Stage 3: Binding. Where does the pod go?
+
+
+
+
+Stage 4: Runtime. Why can worker C still become busy?
+
+
+
+
+Stage 5: Completion. What happens to its reservation?
+
+
+4. Why memory can outweigh CPU
+5. How to investigate an uneven placement pattern
+6. How to prevent pods piling onto one node
+7. Conclusion and references
+
+
+
+1. The scheduling question
+
+Picture four A...</description></item></channel>
 </rss>
