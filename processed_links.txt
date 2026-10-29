@@ -558,3 +558,4 @@
 2026-10-27T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/part-4-see-investigate-and-measure-email-and-collaboration/ba-p/4562274
 2026-10-28T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-under-attack-how-ai-strengthens-defense/ba-p/4566649
 2026-10-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/growing-our-connector-ecosystem-with-500-microsoft-sentinel/ba-p/4567832
+2026-10-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964
