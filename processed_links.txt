@@ -563,3 +563,4 @@
 2026-10-31T01:02:57 https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor
 2026-11-02T14:15:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-global-secure-access-one-offering-for-private/ba-p/4569098
 2026-11-02T20:20:59 https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks
+2026-11-02T22:05:34 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/global-secure-access-private-access-and-internet-access-in-one/ba-p/4569098
