@@ -559,3 +559,4 @@
 2026-11-03T22:21:54 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/what-stops-a-service-side-auto-labeling-rollout-from-being/ba-p/4567706
 2026-11-03T22:55:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-ciso-cheat-sheet-to-microsoft-digital-defense-report-2026/ba-p/4566642
 2026-11-04T16:19:58 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-deep-dives-join-our-december-15-17-webinar/ba-p/4448760
+2026-11-04T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/scale-access-controls-with-microsoft-entra-conditional-access/ba-p/4569647
