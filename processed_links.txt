@@ -1,6 +1,3 @@
-2025-11-05T15:28:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-custom-waf-block-status-body-for-azure/ba-p/4467435
-2025-11-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/unlocking-developer-innovation-with-microsoft-sentinel-data-lake/ba-p/4467171
-2025-11-05T17:16:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/ba-p/4467113
 2025-11-06T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/operationalizing-the-sentinel-data-lake-a-practitioner-s-guide/ba-p/4466042
 2025-11-06T19:14:28 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/fast-start-checklist-for-microsoft-defender-cspm-from-enablement/ba-p/4467465
 2025-11-06T21:12:57 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/you-may-be-right-after-all-disputing-submission-responses-in/ba-p/4467151
@@ -561,3 +558,6 @@
 2026-11-04T16:19:58 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-deep-dives-join-our-december-15-17-webinar/ba-p/4448760
 2026-11-04T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/scale-access-controls-with-microsoft-entra-conditional-access/ba-p/4569647
 2026-11-05T01:56:08 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-november-2026/ba-p/4570392
+2026-11-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/catch-microsoft-entra-at-ignite-2026/ba-p/4513159
+2026-11-05T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights
+2026-11-05T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-investments-to-reduce-on-premises-security-risk/ba-p/4570381
