@@ -561,3 +561,4 @@
 2026-11-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/catch-microsoft-entra-at-ignite-2026/ba-p/4513159
 2026-11-05T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights
 2026-11-05T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-investments-to-reduce-on-premises-security-risk/ba-p/4570381
+2026-11-05T23:46:50 https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets
