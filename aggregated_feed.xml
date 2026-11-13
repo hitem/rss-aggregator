@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 13 Nov 2026 18:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:50:59 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1232,5 +1232,13 @@ The engine has a lever for this since 2008: Resource Governor
 But for years years it was only available in Enterprise edition. If you were running Standard the only solution was monitoring alert.
 SQL Server 2025 changed that.
 Resource Governor is now available in Standard (and Standard Developer) edition and a new workload group setting caps how much tempdb data space a group of sessions can consume.
-However, there is a catch you should know before st...</description></item></channel>
+However, there is a catch you should know before st...</description></item><item><title>Secure Data at Microsoft Ignite 2026: Plan Your Experience</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-data-at-microsoft-ignite-2026-plan-your-experience/ba-p/4573071</link><pubDate>Fri, 13 Nov 2026 22:13:44 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-data-at-microsoft-ignite-2026-plan-your-experience/ba-p/4573071</guid><description>We're excited for you to join us at Microsoft Ignite 2026, our biggest event of the year!
+As organizations scale Microsoft Copilot, Cowork, and AI agents, one question keeps coming up: is our data ready? This post is your one-stop Ignite guide to sessions on data security and activities we have planned, so you can learn how Microsoft Purview helps prepare, manage, and protect data as you scale AI adoption.
+Visit Microsoft Ignite homepage to learn more, register, and build your agenda.
+
+When: November 17&#8211;20, 2026
+Where: Moscone Center in San Francisco, plus a digital event experience online
+
+Ty...</description></item><item><title>SCKit abuses ScreenConnect to deploy remote access and target technician sessions</title><link>https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/</link><pubDate>Fri, 13 Nov 2026 21:31:44 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=150990</guid><description>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.
+The post SCKit abuses ScreenConnect to deploy remote access and target technician sessions appeared first on Microsoft Security Blog.</description></item></channel>
 </rss>
