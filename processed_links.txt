@@ -1,5 +1,3 @@
-2025-11-13T16:06:14 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-fine-tuning/ba-p/4469416
-2025-11-13T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/sploitlight-hunting-beyond-the-patch/ba-p/4463549
 2025-11-17T04:52:08 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-for-non-persistent-vdi-implementation-guide-best-practices/ba-p/4470439
 2025-11-17T13:35:03 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-compliance-solutions-in-microsoft-sentinel-hipaa-gdpr/ba-p/4470452
 2025-11-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/ignite-your-future-with-new-security-skills-during-microsoft/ba-p/4470004
@@ -558,3 +556,4 @@
 2026-11-12T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/a-next-step-in-the-evolution-of-the-microsoft-data-governance/ba-p/4572227
 2026-11-12T17:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents
 2026-11-12T18:30:02 https://techcommunity.microsoft.com/t5/microsoft-security-community/plan-your-ignite-agenda-join-sessions-that-help-you-secure/ba-p/4569987
+2026-11-13T15:03:46 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/capping-tempdb-in-sql-server-2025-resource-governor-in-standard/ba-p/4573219
