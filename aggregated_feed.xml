@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 13 Nov 2026 23:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:58:44 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1240,5 +1240,8 @@ When: November 17&#8211;20, 2026
 Where: Moscone Center in San Francisco, plus a digital event experience online
 
 Ty...</description></item><item><title>SCKit abuses ScreenConnect to deploy remote access and target technician sessions</title><link>https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/</link><pubDate>Fri, 13 Nov 2026 21:31:44 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=150990</guid><description>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.
-The post SCKit abuses ScreenConnect to deploy remote access and target technician sessions appeared first on Microsoft Security Blog.</description></item></channel>
+The post SCKit abuses ScreenConnect to deploy remote access and target technician sessions appeared first on Microsoft Security Blog.</description></item><item><title>AI is changing access: Catch Microsoft Entra at Ignite 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-changing-access-catch-microsoft-entra-at-ignite-2026/ba-p/4513159</link><pubDate>Sat, 14 Nov 2026 00:13:31 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-changing-access-catch-microsoft-entra-at-ignite-2026/ba-p/4513159</guid><description>Join us at Microsoft Ignite 2026, November 17&#8211;20, 2026, at Moscone Center in San Francisco and online. Explore Microsoft Entra and learn how to secure access for users and AI agents. From stopping identity attacks to simplifying access policies and securing agents, our sessions bring practical guidance and demos to your toughest access challenges.
+Use this guide to plan your sessions, connect with our team, and enter the Microsoft Entra prize draw!
+Enter the Microsoft Entra prize draw
+Registered for Ignite? Check in at any of the seven eligible Microsoft Entra sessions in this post for a chanc...</description></item></channel>
 </rss>

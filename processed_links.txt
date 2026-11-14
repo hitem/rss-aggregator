@@ -559,3 +559,4 @@
 2026-11-13T15:03:46 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/capping-tempdb-in-sql-server-2025-resource-governor-in-standard/ba-p/4573219
 2026-11-13T21:31:44 https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions
 2026-11-13T22:13:44 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-data-at-microsoft-ignite-2026-plan-your-experience/ba-p/4573071
+2026-11-14T00:13:31 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-changing-access-catch-microsoft-entra-at-ignite-2026/ba-p/4513159
