@@ -563,3 +563,5 @@
 2026-11-14T14:17:03 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/migrating-an-entra-connect-sync-custom-source-anchor/ba-p/4573237
 2026-11-16T10:04:14 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/protecting-microsoft-s-sap-workload-with-microsoft-sentinel-for/ba-p/4571716
 2026-11-16T21:59:46 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-ddos-custom-policy-ga/ba-p/4573866
+2026-11-16T22:52:35 https://techcommunity.microsoft.com/t5/azure-network-security-blog/ddos-support-for-natgwv2-ip-public-preview/ba-p/4573913
+2026-11-17T00:08:41 https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2
