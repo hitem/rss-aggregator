@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 18 Nov 2026 04:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:31:13 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1283,5 +1283,7 @@ Watch: AI is changing access. See how Microsoft Entra helps you stay ahead.
 
 AI and agents are changing the access landscape at a pace that challenges even mature identity and security programs. Without centralized visibility and control, agent sprawl risks becoming shadow IT at a scale we've never had to manage before.
 AI amplifies today's identity challenges. Every agent needs an identity, the right access, and controls that adapt as risk changes.
-We're desi...</description></item></channel>
+We're desi...</description></item><item><title>Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations</title><link>https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure/ba-p/4574305</link><pubDate>Wed, 18 Nov 2026 07:46:29 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure/ba-p/4574305</guid><description>Introduction&#160;
+On November 17, 2026, CVE-2026-114938, also known as Java4Shell, a critical remote code execution (RCE) vulnerability affecting OpenJDK, was publicly disclosed. Under specific conditions, specially crafted Base64 input can trigger memory corruption in affected Java runtimes, potentially allowing unauthenticated attackers to execute arbitrary code.&#160;
+We strongly recommend that customers update the Java runtime used by their own applications to a patched version or update third-party Java-based applications to a version that includes the security fix, as applicable. Updating the aff...</description></item></channel>
 </rss>
