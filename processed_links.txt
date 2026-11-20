@@ -552,3 +552,4 @@
 2026-11-17T20:14:42 https://techcommunity.microsoft.com/t5/microsoft-defender-blog/ignite-2026-what-s-new-in-endpoint-security/ba-p/4573835
 2026-11-18T00:39:46 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-changing-access-see-how-microsoft-entra-helps-you-stay/ba-p/4556456
 2026-11-18T07:46:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure/ba-p/4574305
+2026-11-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/demystifying-macos-platform-sso-how-apple-and-microsoft-entra-id/ba-p/4437423
