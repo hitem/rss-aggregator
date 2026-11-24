@@ -1,5 +1,3 @@
-2025-11-24T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/building-defense-in-depth-simplifying-identity-security-with-new/ba-p/4468733
-2025-11-24T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/strengthening-calendar-security-through-enhanced-remediation/ba-p/4456876
 2025-11-24T20:15:00 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-entra-id-support-for-rdp-connections-in-portal/ba-p/4472675
 2025-11-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/enhance-protection-of-microsoft-entra-id-authentication-by/ba-p/4435200
 2025-11-25T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/meet-dart-the-people-behind-microsoft-incident-response/ba-p/4457416
@@ -550,3 +548,4 @@
 2026-11-18T00:39:46 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-changing-access-see-how-microsoft-entra-helps-you-stay/ba-p/4556456
 2026-11-18T07:46:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure/ba-p/4574305
 2026-11-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/demystifying-macos-platform-sso-how-apple-and-microsoft-entra-id/ba-p/4437423
+2026-11-24T18:59:22 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ask-the-microsoft-entra-experts-anything-live-on-december-2/ba-p/4576043

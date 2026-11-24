@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 20 Nov 2026 21:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:18:03 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1291,5 +1291,9 @@ As more organizations deploy Platform SSO, new questions have emerged:
 What actually happens under the hood?
 Which responsibilities belong to Apple, and which belong to Microsoft?
 Where are credentials created and protected?
-Does every application receive the Platform SSO Primary Refresh...</description></item></channel>
+Does every application receive the Platform SSO Primary Refresh...</description></item><item><title>Ask the Microsoft Entra experts anything, live on December 2</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ask-the-microsoft-entra-experts-anything-live-on-december-2/ba-p/4576043</link><pubDate>Tue, 24 Nov 2026 18:59:22 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ask-the-microsoft-entra-experts-anything-live-on-december-2/ba-p/4576043</guid><description>Microsoft Ignite 2026 brought a wave of news for Microsoft Entra, from new ways to secure AI agents to new tools for managing access at scale. Now it's your turn to ask the people who build it.
+On Tuesday, December 2, Yina Arenas, Chief Product Officer for Microsoft Identity and Network Access, joins a panel of Microsoft Entra product and engineering experts for a live Ask Microsoft Anything (AMA). Post your questions and add the event to your calendar at&#160;https://aka.ms/EntraAMA&#160; &#160;
+Live AMA event details
+When: Tuesday, December 2, 2026, 11:00 AM&#8211;12:00 PM PT
+Where: Livestream on the Microsoft T...</description></item></channel>
 </rss>
