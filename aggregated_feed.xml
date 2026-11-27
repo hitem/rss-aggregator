@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 26 Nov 2026 01:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:46:41 GMT</lastBuildDate>
   <item><title>Monthly news -  February 2026</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</link><pubDate>Tue, 03 Feb 2026 11:36:55 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-february-2026/ba-p/4491826</guid><description>Microsoft DefenderMonthly news - February 2026 Edition
 This is our monthly "What's new" blog post, summarizing product updates and various new assets we released over the past month across our Defender products. In this edition, we are looking at all the goodness from January 2026. Defender for Cloud has its own Monthly News post, have a look here.&#160;
 &#128640; New Virtual Ninja Show episode:
@@ -1296,5 +1296,6 @@ On Tuesday, December 2, Yina Arenas, Chief Product Officer for Microsoft Identit
 Live AMA event details
 When: Tuesday, December 2, 2026, 11:00 AM&#8211;12:00 PM PT
 Where: Livestream on the Microsoft T...</description></item><item><title>What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</title><link>https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/</link><pubDate>Wed, 25 Nov 2026 18:09:06 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=151158</guid><description>The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.
-The post What defenders need to know about ARTEX, the agentic AI framework threat actors abuse appeared first on Microsoft Security Blog....</description></item></channel>
+The post What defenders need to know about ARTEX, the agentic AI framework threat actors abuse appeared first on Microsoft Security Blog....</description></item><item><title>Microsoft named a Leader in the 2026 Gartner&#174; Magic Quadrant&#8482; for Email Security</title><link>https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/</link><pubDate>Wed, 25 Nov 2026 17:15:00 +0000</pubDate><guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/?p=151105</guid><description>We're honored to share that Microsoft has been named a Leader in the 2026 Gartner&#174; Magic Quadrant&#8482; for Email Security, for the second consecutive year.
+The post Microsoft named a Leader in the 2026 Gartner&#174; Magic Quadrant&#8482; for Email Security appeared first on Microsoft Security Blog.</description></item></channel>
 </rss>

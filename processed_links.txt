@@ -545,4 +545,5 @@
 2026-11-18T07:46:29 https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure/ba-p/4574305
 2026-11-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/demystifying-macos-platform-sso-how-apple-and-microsoft-entra-id/ba-p/4437423
 2026-11-24T18:59:22 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ask-the-microsoft-entra-experts-anything-live-on-december-2/ba-p/4576043
+2026-11-25T17:15:00 https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security
 2026-11-25T18:09:06 https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse
